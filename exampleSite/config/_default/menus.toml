@@ -30,7 +30,7 @@ hasChildren = true
 
   [[main]]
   parent = "Pagine"
-  name = "Categories"
+  name = "Categorie"
   url = "categories/"
   weight = 2
 
