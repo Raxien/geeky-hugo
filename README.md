@@ -52,7 +52,7 @@
 git clone git@github.com:gethugothemes/geeky-hugo.git
 
 # cd in the project directory
-$ cd geeky-hugo/site/
+$ cd geeky-hugo/exampleSite/
 
 # Start local dev server
 $ hugo server --themesDir ../..
