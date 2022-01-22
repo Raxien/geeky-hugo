@@ -40,10 +40,10 @@ sections:
   label: Others Page
 - type: document
   path: exampleSite/content/english/contact/_index.md
-  label: Contact (en)
+  label: Contatti (en)
 - type: document
   path: exampleSite/content/deutsch/contact/_index.md
-  label: Contact (de)
+  label: Contatti (de)
 - type: document
   path: exampleSite/content/english/pricing/_index.md
   label: Pricing (en)
