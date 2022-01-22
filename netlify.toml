@@ -1,6 +1,6 @@
 [build]
-  publish = "site/public"
-  command = "cd site && hugo --minify --gc --themesDir ../.."
+  publish = "ilgattoSite/public"
+  command = "cd ilgattoSite && hugo --minify --gc --themesDir ../.."
   
 [build.environment]
   HUGO_VERSION = "0.87.0"

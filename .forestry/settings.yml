@@ -7,21 +7,21 @@ sections:
 - type: heading
   label: Homepage
 - type: document
-  path: site/content/english/_index.md
+  path: ilgattoSite/content/english/_index.md
   label: Homepage (en)
 - type: document
-  path: site/content/deutsch/_index.md
+  path: ilgattoSite/content/deutsch/_index.md
   label: Homepage (de)
 - type: heading
   label: Blog
 - type: document
-  path: site/content/english/blog/_index.md
+  path: ilgattoSite/content/english/blog/_index.md
   label: Blog Page (en)
 - type: document
-  path: site/content/deutsch/blog/_index.md
+  path: ilgattoSite/content/deutsch/blog/_index.md
   label: Blog Page (de)
 - type: directory
-  path: site/content/english/blog
+  path: ilgattoSite/content/english/blog
   label: Blog Post (en)
   create: documents
   match: "**/*"
@@ -29,7 +29,7 @@ sections:
   templates:
   - post
 - type: directory
-  path: site/content/deutsch/blog
+  path: ilgattoSite/content/deutsch/blog
   label: Blog Post (de)
   create: documents
   match: "**/*"
@@ -39,27 +39,27 @@ sections:
 - type: heading
   label: Others Page
 - type: document
-  path: site/content/english/contact/_index.md
+  path: ilgattoSite/content/english/contact/_index.md
   label: Contatti (en)
 - type: document
-  path: site/content/deutsch/contact/_index.md
+  path: ilgattoSite/content/deutsch/contact/_index.md
   label: Contatti (de)
 - type: document
-  path: site/content/english/pricing/_index.md
+  path: ilgattoSite/content/english/pricing/_index.md
   label: Pricing (en)
 - type: document
-  path: site/content/deutsch/pricing/_index.md
+  path: ilgattoSite/content/deutsch/pricing/_index.md
   label: Pricing (de)
 - type: document
-  path: site/content/english/faq/_index.md
+  path: ilgattoSite/content/english/faq/_index.md
   label: FAQ (en)
 - type: document
-  path: site/content/deutsch/faq/_index.md
+  path: ilgattoSite/content/deutsch/faq/_index.md
   label: FAQ (de)
 - type: heading
   label: All Pages
 - type: directory
-  path: site/content
+  path: ilgattoSite/content
   label: All Pages
   create: all
   match: "**/*"
@@ -69,22 +69,22 @@ sections:
 - type: heading
   label: Configuration
 - type: document
-  path: site/config/_default/config.toml
+  path: ilgattoSite/config/_default/config.toml
   label: Configuration
 - type: document
-  path: site/config/_default/params.toml
+  path: ilgattoSite/config/_default/params.toml
   label: Parameters
 - type: document
   path: config.toml
   label: Variables & Plugins
 - type: document
-  path: site/config/_default/languages.toml
+  path: ilgattoSite/config/_default/languages.toml
   label: Languages
 - type: document
-  path: site/config/_default/menus.en.toml
+  path: ilgattoSite/config/_default/menus.en.toml
   label: Menu (en)
 - type: document
-  path: site/config/_default/menus.de.toml
+  path: ilgattoSite/config/_default/menus.de.toml
   label: Menu (de)
 upload_dir: ''
 public_path: ''
