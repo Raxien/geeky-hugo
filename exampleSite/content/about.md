@@ -1,22 +1,14 @@
 ---
 title: Chi Siamo
-description: this is meta-description
+description: Descrizione di chi siamo
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1642864360/logo_n04vaf.jpg
 layout: Chi Siamo
 education:
-  enable: true
+  enable: false
   title: Formal Education
-  education_list:
-  - name: Southeast University
-    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
-  - name: Northeast University
-    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
-  - name: Easteast University
-    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
-  - name: Southeast University
-    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
+  education_list: []
 experience:
-  enable: true
+  enable: false
   title: Work Experience
   experience_list:
   - Best Writer Award
