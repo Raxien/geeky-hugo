@@ -31,7 +31,8 @@ experience:
   - Best Book
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus  ndisse.  morbi quis nunc.
-
-
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse.  morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis  ndisse.  morbi quis nunc, at arcu quam facilisi  ndisse.  morbi quis nunc, at arcu quam facilisi
+Siamo Sara e Paolo, nati nel 1990 sotto il segno dei pesci. Testoni e sognatori. Ci siamo conosciuti parlando dei paesi che avremmo voluto visitare e da allora non abbiamo smesso di farlo insieme. Toglieteci tutto ma non la pizza ed il cioccolato. Se sentite ridere in lontananza potremmo essere noi.  
+  
+Sakè è l'ultimo arrivato, un gattino europeo che rischiava di fare una brutta fine. L'abbiamo arruolato e da quel momento non ha smesso di stupirci. E' curioso e amante dell'avventura, non poteva che essere dei nostri.   
+  
+Olimpia è una rottweiler di 9 anni. La dolcezza fatta a cane. Sa il fatto suo e non teme di proteggerci. E' da sempre la nostra compagna di viaggio preferita.
