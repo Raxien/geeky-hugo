@@ -19,7 +19,7 @@ navbar_fixed = false
 recent_post_title = "Recent Post"
 search = true
 [advertisement]
-image = "images/promotion.png"
+image = ""
 link = "https://gethugothemes.com/"
 [banner]
 background_image = "/images/banner-bg-shape.svg"

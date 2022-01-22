@@ -1,7 +1,7 @@
 ---
 title: Chi Siamo
 description: Descrizione di chi siamo
-image: "images/chisiamo.png"
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1642864360/logo_n04vaf.jpg
 layout: Chi Siamo
 education:
   enable: false

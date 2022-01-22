@@ -30,7 +30,7 @@
   alt="{{ site.Title }}" onerror="this.onerror=null;this.src='{{.Scratch.Get `logo_fallback`}}'">
 {{ else }}
 <strong class="text-danger">`{{$logoPath}}` doesn't exist</strong>
-{{ end }}
+{{ end }} 
 <!-- / checking logo existance -->
 <!-- logo text -->
 {{ else if site.Params.logo_text }}
