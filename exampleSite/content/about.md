@@ -2,7 +2,7 @@
 title: Chi Siamo
 description: this is meta-description
 image: images/author.png
-layout: about
+layout: Chi Siamo
 education:
   enable: true
   title: Formal Education
