@@ -7,29 +7,29 @@ url = ""
 weight = 1
 
 [[main]]
-name = "About"
+name = "Chi Siamo"
 url = "about/"
 weight = 2
 
 [[main]]
-name = "Contact"
+name = "Contatti"
 url = "contact/"
 weight = 3
 
 [[main]]
-name = "Pages"
+name = "Pagine"
 url = "#"
 weight = 3
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
+  parent = "Pagine"
   name = "Tags"
   url = "tags/"
   weight = 1
 
   [[main]]
-  parent = "Pages"
+  parent = "Pagine"
   name = "Categories"
   url = "categories/"
   weight = 2
@@ -41,12 +41,12 @@ url = "/"
 weight = 1
 
 [[footer]]
-name = "About"
+name = "Chi Siamo"
 url = "about/"
 weight = 2
 
 [[footer]]
-name = "Contact"
+name = "Contatti"
 url = "contact/"
 weight = 3
 
