@@ -46,21 +46,13 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 sidebar = ["about", "categories", "recent-post", "newsletter"]
 [[social]]
 icon = "fab fa-facebook"
-link = "#"
+link = "https://www.facebook.com/ilgattodicitturin"
 title = "facebook"
-[[social]]
-icon = "fab fa-twitter"
-link = "#"
-title = "twitter"
 [[social]]
 icon = "fab fa-instagram"
 link = "https://www.instagram.com/ilgattodicitturin/"
 title = "instagram"
 [[social]]
-icon = "fab fa-github"
-link = "#"
-title = "github"
-[[social]]
-icon = "fab fa-linkedin"
-link = "#"
-title = "linkedin"
+icon = "fas fa-store"
+link = " https://www.artpetfood.it/discount/SAK%25C3%2588OLIMPIA"
+title = "Negozio"
