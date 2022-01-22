@@ -1,7 +1,7 @@
 ---
 title: Chi Siamo
 description: this is meta-description
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1642860755/ChiSiamo/chisiamo_zrcegy.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1642864360/logo_n04vaf.jpg
 layout: Chi Siamo
 education:
   enable: true
