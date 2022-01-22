@@ -23,13 +23,13 @@ image = "images/promotion.png"
 link = "https://gethugothemes.com/"
 [banner]
 background_image = "/images/banner-bg-shape.svg"
-button_label = "Know About Me"
+button_label = "Conoscici meglio"
 button_link = "about/"
-content = "Are Developer and recently started your own business Already made website to ensure presence wants to develop."
+content = "Siamo Paolo, Sara, Olimpia e Sakè e giriamo per il mondo raccontando qui le nostre avvenure."
 enable = true
 image = "images/banner.png"
-title_large = "Welcome **!**"
-title_small = "to Jhon Bravo Blog"
+title_large = "Benvenuti **!**"
+title_small = "nel Blog del Gatto di Cit Turin"
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
