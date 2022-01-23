@@ -1,7 +1,7 @@
 ---
 title: Chi Siamo
 description: Descrizione di chi siamo
-image: "images/chisiamo.png"
+image: "images/author.png"
 layout: Chi Siamo
 
 ---
