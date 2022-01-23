@@ -3,7 +3,7 @@ title: "What is a Virtual Assistant"
 description: "meta description"
 image: "images/post/post-3.png"
 date: 2021-01-24T18:19:25+06:00
-categories: ["assistant"]
+categories: ["test"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
