@@ -12,5 +12,5 @@ Di seguito una lista di tutti i libri che abbiamo lettto e che abbiamo trovato i
 
 #### STIAMO LEGGENDO
 
-- [Via della Magnolie 11](https://amzn.to/3ILwurN)
-- [Il romanzo di sant Jordi](https://amzn.to/3GU2RDS)
+- **[Via della Magnolie 11](https://amzn.to/3ILwurN)** di Stefania Betola
+- **[Il romanzo di sant Jordi](https://amzn.to/3GU2RDS)** di Màrius Serra
