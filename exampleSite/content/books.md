@@ -23,5 +23,7 @@ experience:
   - Best Book
 
 ---
-Lista Libri   
+Tutti i libri consigliati  
 ====
+
+Un elenco mai completo di tutti i libri che abbiamo letto
