@@ -3,24 +3,6 @@ title: Chi Siamo
 description: Descrizione di chi siamo
 image: "images/chisiamo.png"
 layout: Chi Siamo
-education:
-  enable: false
-  title: Formal Education
-  education_list: []
-experience:
-  enable: false
-  title: Work Experience
-  experience_list:
-  - Best Writer Award
-  - Best New Newel
-  - Best Book
-  - Best Article
-  - Best New Newel
-  - Best New Newel
-  - Best Book
-  - Best Article
-  - Best New Newel
-  - Best Book
 
 ---
 Siamo Sara e Paolo, nati nel 1990 sotto il segno dei pesci. Testoni e sognatori. Ci siamo conosciuti parlando dei paesi che avremmo voluto visitare e da allora non abbiamo smesso di farlo insieme. Toglieteci tutto ma non la pizza ed il cioccolato. Se sentite ridere in lontananza potremmo essere noi.  
