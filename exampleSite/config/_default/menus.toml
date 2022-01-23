@@ -17,6 +17,11 @@ url = "contact/"
 weight = 3
 
 [[main]]
+name = "Libri"
+url = "books/"
+weight = 3
+
+[[main]]
 name = "Pagine"
 url = "#"
 weight = 3
