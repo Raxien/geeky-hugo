@@ -12,11 +12,6 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Contatti"
-url = "contact/"
-weight = 3
-
-[[main]]
 name = "Libri"
 url = "books/"
 weight = 3
@@ -49,11 +44,6 @@ weight = 1
 name = "Chi Siamo"
 url = "about/"
 weight = 2
-
-[[footer]]
-name = "Contatti"
-url = "contact/"
-weight = 3
 
 [[footer]]
 name = "Privacy Policy"
