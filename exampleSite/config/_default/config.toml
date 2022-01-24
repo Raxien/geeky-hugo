@@ -1,6 +1,6 @@
 baseURL = "https://ilgattodicitturin.it"
 disableLanguages = ["fr"]
-disqusShortname = ""
+disqusShortname = "themefisher-template"
 googleAnalytics = ""
 languageCode = "en-us"
 languageName = "En"
