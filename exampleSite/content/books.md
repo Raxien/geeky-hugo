@@ -10,8 +10,11 @@ Di seguito un elenco, mai completo, di tutti i libri che abbiamo lettto e che ab
 
 
 >##### STIAMO LEGGENDO
->- **[Via della Magnolie 11](https://amzn.to/3ILwurN)** di Stefania Betola
 >- **[Il romanzo di sant Jordi](https://amzn.to/3GU2RDS)** di Màrius Serra
 
 >##### APPENA FINITI
->- **[Il problema dei tre corpi](https://amzn.to/3IpvsRK)** di Liu Cixin
+>- **[Lula star panamericana](https://amzn.to/3AEQvxl)** di Franco Ballatore 
+>- **[Via della Magnolie 11](https://amzn.to/3ILwurN)** di Stefania Betola
+
+##### FANTASCIENZA
+- **[Il problema dei tre corpi](https://amzn.to/3IpvsRK)** di Liu Cixin
