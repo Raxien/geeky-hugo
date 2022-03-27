@@ -10,11 +10,12 @@ Di seguito un elenco, mai completo, di tutti i libri che abbiamo lettto e che ab
 
 
 >##### STIAMO LEGGENDO
->- **[Il romanzo di sant Jordi](https://amzn.to/3GU2RDS)** di Màrius Serra
+>- **[La materia del cosmo](https://amzn.to/3tH2Wqg)** di Liu Cixin
 
 >##### APPENA FINITI
->- **[Lula star panamericana](https://amzn.to/3AEQvxl)** di Franco Ballatore 
->- **[Via della Magnolie 11](https://amzn.to/3ILwurN)** di Stefania Betola
+>- **[Il romanzo di sant Jordi](https://amzn.to/3GU2RDS)** di Màrius Serra
 
 ##### FANTASCIENZA
 - **[Il problema dei tre corpi](https://amzn.to/3IpvsRK)** di Liu Cixin
+>- **[Lula star panamericana](https://amzn.to/3AEQvxl)** di Franco Ballatore 
+>- **[Via della Magnolie 11](https://amzn.to/3ILwurN)** di Stefania Betola
