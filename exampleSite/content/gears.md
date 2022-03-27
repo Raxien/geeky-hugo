@@ -8,7 +8,7 @@ layout: gears
 
 Tutto ciò che ci può essere utile da quando facciamo colazione a quando andiamo a dormire. Ovviamente a misura di casa a 4 ruote. 
 
->##### STIAMO LEGGENDO
+>##### Fotocamera
 >- **[La materia del cosmo](https://amzn.to/3tH2Wqg)** di Liu Cixin
 
 >##### APPENA FINITI
