@@ -2,7 +2,7 @@
 title: Lista Libri
 description: Lista dei libri letti in viaggio
 image: images/books.png
-layout: about
+layout: books
 ---
 #### Tutti i libri consigliati da noi
 
