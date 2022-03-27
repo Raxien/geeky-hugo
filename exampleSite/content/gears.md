@@ -1,13 +1,12 @@
 ---
 title: Lista Libri
 description: Lista dei libri letti in viaggio
-image: images/chisiamo.png
-layout: books
+image: images/gears.png
+layout: gears
 ---
-#### Tutti i libri consigliati da noi
+#### Tutte le attrezzature che usiamo
 
-Di seguito un elenco, mai completo, di tutti i libri che abbiamo lettto e che abbiamo trovato interessanti. I link portano all'affiliazione di Amazon che ci permette di re-investire in altri libri.
-
+Tutto ciò che ci può essere utile da quando facciamo colazione a quando andiamo a dormire. Ovviamente a misura di casa a 4 ruote. 
 
 >##### STIAMO LEGGENDO
 >- **[La materia del cosmo](https://amzn.to/3tH2Wqg)** di Liu Cixin
