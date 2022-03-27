@@ -17,5 +17,9 @@ Di seguito un elenco, mai completo, di tutti i libri che abbiamo letto e che abb
 
 ##### FANTASCIENZA
 - **[Il problema dei tre corpi](https://amzn.to/3IpvsRK)** di Liu Cixin
->- **[Lula star panamericana](https://amzn.to/3AEQvxl)** di Franco Ballatore 
->- **[Via della Magnolie 11](https://amzn.to/3ILwurN)** di Stefania Betola
+
+##### VIAGGI
+- **[Lula star panamericana](https://amzn.to/3AEQvxl)** di Franco Ballatore 
+
+##### NARRATIVA
+- **[Via della Magnolie 11](https://amzn.to/3ILwurN)** di Stefania Betola
