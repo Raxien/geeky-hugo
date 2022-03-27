@@ -6,7 +6,7 @@ layout: about
 ---
 #### Tutti i libri consigliati da noi
 
-Di seguito un elenco, mai completo, di tutti i libri che abbiamo letto e che abbiamo trovato interessanti. I link portano all'affiliazione di Amazon che ci permette di re-investire in altri libri.
+Di seguito un elenco, mai completo, di tutti i libri che stiamo leggendo, che abbiamo letto e che abbiamo trovato interessanti. I link portano all'affiliazione di Amazon che ci permette di re-investire in altri libri.
 
 
 ##### STIAMO LEGGENDO
