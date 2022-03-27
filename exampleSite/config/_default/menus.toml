@@ -17,9 +17,14 @@ url = "books/"
 weight = 3
 
 [[main]]
+name = "Attrezzature"
+url = "gears/"
+weight = 4
+
+[[main]]
 name = "Pagine"
 url = "#"
-weight = 3
+weight = 5
 hasChildren = true
 
   [[main]]
