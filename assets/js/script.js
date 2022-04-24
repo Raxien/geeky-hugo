@@ -71,28 +71,3 @@ $(document).ready(function () {
 
 
 });
-builList_books();
-// custom stuff
-let builList_books = function(){
-  debugger;
-  let json = require('/exampleSite/content/data/book.json');
-  console.log(json, 'the json obj');
-
-  /*
-  json file composto:
-  { "title": "...", "author": "...", "url": "...", "status": "< >|R|F", "categories": "..."},
-  */
-  let id = ".content";
-  let reading = "";
-  let finish = "";
-  let other = "";
-
-
-  
-
-  // paste list
-  $(id).append(reading);
-  $(id).append(finish);
-  $(id).append(other);
-
-}
