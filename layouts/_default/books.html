@@ -35,7 +35,7 @@
         <!-- /image processing for multiple device -->
         {{ end }}
         <h2 class="mb-3">{{ .Title | markdownify }}</h2>
-        <div class="content">
+        <div id="content" class="content">
           {{.Content}}
         </div>
       </div>
@@ -93,10 +93,9 @@
       let other = "";
   
       // paste list
-      $(id).append(reading);
-      $(id).append(finish);
-      $(id).append(other);
-  
+      $(id)[0].append(reading);
+      $(id)[0].append(finish);
+      $(id)[0].append(other);
   }
 
   $(document).ready(function () {
