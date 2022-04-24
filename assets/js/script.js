@@ -74,6 +74,7 @@ $(document).ready(function () {
 builList_books();
 // custom stuff
 let builList_books = function(){
+  debugger;
   let json = require('/exampleSite/content/data/book.json');
   console.log(json, 'the json obj');
 
