@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "moment": "^2.29.3",
+    "splitwise": "^1.0.0"
+  }
+}

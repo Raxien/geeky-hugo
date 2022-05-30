@@ -1,6 +1,6 @@
 about_widget_content = "Se sentite ridere in lontananza potremmo essere noi."
 address = ""
-author = "Themefisher"
+author = "Sara"
 contact_form_action = "#"
 copyright = ""
 custom_script = ""
@@ -29,7 +29,7 @@ content = "Siamo Paolo, Sara, Olimpia e Sakè e giriamo per il mondo raccontando
 enable = true
 image = "images/banner.png"
 title_large = "Benvenuti **!**"
-title_small = "nel Blog del Gatto di Cit Turin"
+title_small = "nel Blog di Vandipety"
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
@@ -58,5 +58,5 @@ link = "https://vm.tiktok.com/ZMLJmLRTV/"
 title = "TikTok"
 [[social]]
 icon = "fas fa-store"
-link = "https://www.artpetfood.it/discount/SAK%25C3%2588OLIMPIA"
+link = "https://www.almonature.com"
 title = "Negozio"

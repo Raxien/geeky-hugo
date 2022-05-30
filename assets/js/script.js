@@ -69,5 +69,45 @@ $(document).ready(function () {
     $(this).parent().find('.fas fa-minus').removeClass('fas fa-minus').addClass('fas fa-plus');
   });
 
+// import * as sw from 'splitwise'
+// const sw = {
+//   consumerKey: 'bJl0JT47tbXqIS6rzTmsXdWUVU30jrYhJ6sJE5ZP',
+//   consumerSecret: '5ksmLPcnD7tyZHp0SLkOCO7y8XJzo57yCUrvvm11'
+// }
+// console.log(sw);
 
 });
+
+
+
+
+// var getUser = function() {
+//   $.ajax({
+//     url: "https://secure.splitwise.com/api/v3.0/get_current_user",
+//     type: 'GET',
+//     dataType: 'json', // added data type
+//     success: function(res) {
+//         console.log(res);
+//         alert(res);
+//     }
+// });
+
+// let data = {};
+// $.ajax({
+//   url: "https://secure.splitwise.com/api/v3.0/get_current_user",
+//   type: "GET",
+//   crossDomain: true,
+//   data: JSON.stringify(data),
+//   dataType: "json",
+//   success: function (response) {
+//       var resp = JSON.parse(response)
+//       alert(resp.status);
+//   },
+//   error: function (xhr, status) {
+//       console.log("error");
+//   }
+// });
+
+// };
+
+// getUser();

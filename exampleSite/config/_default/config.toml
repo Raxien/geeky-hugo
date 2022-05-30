@@ -1,4 +1,4 @@
-baseURL = "https://ilgattodicitturin.it"
+baseURL = "https://vandipety.it"
 disableLanguages = ["fr"]
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
@@ -7,7 +7,7 @@ languageName = "En"
 paginate = "6"
 summaryLength = "20"
 theme = "geeky-hugo"
-title = "IlGattoDiCitTurin | Il blog personale del gatto giramondo"
+title = "Vandipety | Il blog personale del gatto giramondo"
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
@@ -31,3 +31,4 @@ mediaType = "application/manifest+json"
 rel = "manifest"
 [outputs]
 home = ["HTML", "RSS", "JSON", "WebAppManifest"]
+
