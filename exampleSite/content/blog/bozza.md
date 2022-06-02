@@ -1,6 +1,6 @@
 +++
 Focus_Keyword = "logo image art"
-Victor_Hugo = true
+Victor_Hugo = false
 Victor_Hugo_Clean = false
 categories = ["curiosità"]
 date = 2022-01-24T20:25:25Z
