@@ -10,5 +10,3 @@ Siamo Sara e Paolo, nati nel 1990 sotto il segno dei pesci. Testoni e sognatori.
 Sakè è l'ultimo arrivato, un gattino europeo che rischiava di fare una brutta fine. L'abbiamo arruolato e da quel momento non ha smesso di stupirci. E' curioso e amante dell'avventura, non poteva che essere dei nostri.
 
 Olimpia è una rottweiler di 9 anni. La dolcezza fatta a cane. Sa il fatto suo e non teme di proteggerci. E' da sempre la nostra compagna di viaggio preferita.
-
-Test
