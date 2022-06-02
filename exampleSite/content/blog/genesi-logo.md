@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1643059361/Art
 date: 2022-01-24T21:25:25+01:00
 categories: ["curiosità"]
 type: "featured" # available types: [featured/regular]
-draft: false
+draft: true
 Victor_Hugo: "true"
 Focus_Keyword: "logo image art"
 Victor_Hugo_Clean: "false"

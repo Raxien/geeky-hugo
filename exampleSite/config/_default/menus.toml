@@ -16,15 +16,20 @@ name = "Libri"
 url = "books/"
 weight = 3
 
-[[main]]
-name = "Attrezzature"
-url = "gears/"
-weight = 4
+# [[main]]
+# name = "Attrezzature"
+# url = "gears/"
+# weight = 4
+
+# [[main]]
+# name = "Spese"
+# url = "expense/"
+# weight = 5
 
 [[main]]
 name = "Pagine"
 url = "#"
-weight = 5
+weight = 6
 hasChildren = true
 
   [[main]]
@@ -50,7 +55,7 @@ name = "Chi Siamo"
 url = "about/"
 weight = 2
 
-[[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 4
+# [[footer]]
+# name = "Privacy Policy"
+# url = "privacy-policy/"
+# weight = 4
