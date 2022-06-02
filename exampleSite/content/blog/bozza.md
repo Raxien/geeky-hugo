@@ -1,11 +1,10 @@
 +++
 Focus_Keyword = "logo image art"
-Victor_Hugo = "true"
-Victor_Hugo_Clean = "false"
+Victor_Hugo = true
+Victor_Hugo_Clean = false
 categories = ["curiosità"]
 date = 2022-01-24T20:25:25Z
 description = "meta description"
-draft = true
 image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1643059361/Articoli/genesiLogo/Voi_4_con_Van_e_Mondo._JPEG_hknw8o.jpg"
 title = "Bozza"
 type = "featured"
