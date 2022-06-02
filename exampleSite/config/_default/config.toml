@@ -1,4 +1,4 @@
-baseURL = "https://vandipety.it"
+baseURL = "https://www.vandipety.it"
 disableLanguages = ["fr"]
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
@@ -31,4 +31,3 @@ mediaType = "application/manifest+json"
 rel = "manifest"
 [outputs]
 home = ["HTML", "RSS", "JSON", "WebAppManifest"]
-
