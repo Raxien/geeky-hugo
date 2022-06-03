@@ -21,10 +21,10 @@ weight = 3
 # url = "gears/"
 # weight = 4
 
-# [[main]]
-# name = "Spese"
-# url = "expense/"
-# weight = 5
+[[main]]
+name = "Spese"
+url = "expanses/"
+weight = 5
 
 [[main]]
 name = "Pagine"

@@ -2,50 +2,7 @@
 # yarn lockfile v1
 
 
-es6-promise@^4.0.3:
-  version "4.2.8"
-  resolved "https://registry.npmjs.org/es6-promise/-/es6-promise-4.2.8.tgz"
-  integrity sha512-HJDGx5daxeIvxdBxvG2cb9g4tEvwIk3i8+nhX0yGrYmZUzbkdg8QbDevheDB8gd0//uPj4c1EQua8Q+MViT0/w==
-
-es6-promisify@5.0.0:
-  version "5.0.0"
-  resolved "https://registry.npmjs.org/es6-promisify/-/es6-promisify-5.0.0.tgz"
-  integrity sha1-UQnWLz5W6pZ8S2NQWu8IKRyKUgM=
-  dependencies:
-    es6-promise "^4.0.3"
-
-moment@^2.29.3:
-  version "2.29.3"
-  resolved "https://registry.npmjs.org/moment/-/moment-2.29.3.tgz"
-  integrity sha512-c6YRvhEo//6T2Jz/vVtYzqBzwvPT95JBQ+smCytzf7c50oMZRsR/a4w88aD34I+/QVSfnoAnSBFPJHItlOMJVw==
-
-oauth@^0.9.15:
-  version "0.9.15"
-  resolved "https://registry.npmjs.org/oauth/-/oauth-0.9.15.tgz"
-  integrity sha1-vR/vr2hslrdUda7VGWQS/2DPucE=
-
-querystring@^0.2.0:
-  version "0.2.1"
-  resolved "https://registry.npmjs.org/querystring/-/querystring-0.2.1.tgz"
-  integrity sha512-wkvS7mL/JMugcup3/rMitHmd9ecIGd2lhFhK9N3UUQ450h66d1r3Y9nvXzQAW1Lq+wyx61k/1pfKS5KuKiyEbg==
-
-ramda@^0.25.0:
-  version "0.25.0"
-  resolved "https://registry.npmjs.org/ramda/-/ramda-0.25.0.tgz"
-  integrity sha512-GXpfrYVPwx3K7RQ6aYT8KPS8XViSXUVJT1ONhoKPE9VAleW42YE+U+8VEyGWt41EnEQW7gwecYJriTI0pKoecQ==
-
-splitwise@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/splitwise/-/splitwise-1.0.0.tgz#33957ea277a0fdd0db04ad85cc70d849e8b80a7e"
-  integrity sha1-M5V+oneg/dDbBK2FzHDYSei4Cn4=
-  dependencies:
-    es6-promisify "5.0.0"
-    oauth "^0.9.15"
-    querystring "^0.2.0"
-    ramda "^0.25.0"
-    validate.js "0.12.0"
-
-validate.js@0.12.0:
-  version "0.12.0"
-  resolved "https://registry.npmjs.org/validate.js/-/validate.js-0.12.0.tgz"
-  integrity sha512-/x2RJSvbqEyxKj0RPN4xaRquK+EggjeVXiDDEyrJzsJogjtiZ9ov7lj/svVb4DM5Q5braQF4cooAryQbUwOxlA==
+"jquery@^3.6.0":
+  "integrity" "sha512-JVzAR/AjBvVt2BmYhxRCSYysDsPcssdmTFnzyLEts9qNwmjmu4JTAMYubEfwVOSwpQ1I1sKKFcxhZCI2buerfw=="
+  "resolved" "https://registry.npmjs.org/jquery/-/jquery-3.6.0.tgz"
+  "version" "3.6.0"
