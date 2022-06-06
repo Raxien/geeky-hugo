@@ -1,10 +1,8 @@
 ---
-title: Spese
+title: 
 description: Tutte le spese sostenute fino ad oggi per il nostro viaggio
-image: images/gears.png
+image: images/spese.jpg
 layout: expanses
 Victor_Hugo: "false"
 Focus_Keyword: "expanses"
 ---
-
-Di seguito le spese sostenute per il camper

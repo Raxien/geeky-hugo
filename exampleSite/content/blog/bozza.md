@@ -5,7 +5,7 @@ Victor_Hugo_Clean = false
 categories = ["curiosità"]
 date = 2022-01-24T20:25:25Z
 description = "meta description"
-image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1643059361/Articoli/genesiLogo/Voi_4_con_Van_e_Mondo._JPEG_hknw8o.jpg"
+image = ""
 title = "Bozza"
 type = "featured"
 
