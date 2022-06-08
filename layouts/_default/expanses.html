@@ -107,124 +107,195 @@
 
 <!--=================== expanses script start ===================-->
 <script>
-  // box km
-  let startKm = 14500, actualKm = 15636;
-  document.getElementById('travelingKm').innerText = actualKm - startKm;
 
-  // box giorni di viaggio
-  const today = new Date();
-  const yyyy = today.getFullYear();
-  let mm = today.getMonth() + 1; // Months start at 0!
-  let dd = today.getDate();
+let rpcUrl = "http://localhost:3000";
+var getTripData = function () {
 
-  if (dd < 10) dd = '0' + dd;
-  if (mm < 10) mm = '0' + mm;
-
-  const date1 = new Date('05/18/2022');
-  // const date1 = new Date('18/05/2022');
-  const date2 = new Date(mm + '/' + dd + '/' + yyyy);
-  const diffTime = Math.abs(date2 - date1);
-  const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24)); 
-
-  document.getElementById('travelingDay').innerText = diffDays;
-
-  // box paesi visitati
-  const visitedCuntry = 4;
-  document.getElementById('visitedCuntry').innerText = visitedCuntry;
-
-  // box costi sostenuti
-  const travelingSumCost = 4000;
-  document.getElementById('travelingSumCost').innerText = travelingSumCost + ' €';
-
-  // chart spese
-  const ctx = document.getElementById('catergory').getContext('2d');
-
-  const myChart = new Chart(ctx, {
-      type: 'bar',
-      data: {
-          labels: ['Cibo', 'Benzina', 'Manutenzione', 'Servizi', 'Varie', 'Animali'],
-          datasets: [{
-              label: '# of Votes',
-              data: [12, 19, 3, 5, 2, 3],
-              backgroundColor: [
-                  'rgba(255, 99, 132, 0.2)',
-                  'rgba(54, 162, 235, 0.2)',
-                  'rgba(255, 206, 86, 0.2)',
-                  'rgba(75, 192, 192, 0.2)',
-                  'rgba(153, 102, 255, 0.2)',
-                  'rgba(255, 159, 64, 0.2)'
-              ],
-              borderColor: [
-                  'rgba(255, 99, 132, 1)',
-                  'rgba(54, 162, 235, 1)',
-                  'rgba(255, 206, 86, 1)',
-                  'rgba(75, 192, 192, 1)',
-                  'rgba(153, 102, 255, 1)',
-                  'rgba(255, 159, 64, 1)'
-              ],
-              borderWidth: 1
-          }]
-      },
-      options: {
-          scales: {
-              y: {
-                  beginAtZero: true
-              }
-          }
-      }
-  });
-
-  
-  let values = {
-        IT: {gdp: 1, gdpAdjusted: ''/*, link: "http://www.google.it"*/},
-        CH: {gdp: 1, gdpAdjusted: ''},
-        DE: {gdp: 1, gdpAdjusted: ''},
-        DK: {gdp: 1, gdpAdjusted: ''},
-        link: 'https://cssscript.com',
-        linkTarget: '_blank'
-      };
+  console.log('getting data');
+  $.ajax({
+    type: 'GET', // added,
+    url: rpcUrl + "/data/trip",
+    contentType: "application/json",
+    success: function (data) {
+      console.log(data);
+      res = data;
       
-  let _data = {
-      data: {
-        // gdp: {
-        //   name: 'GDP per capita',
-        //   format: '{0} USD',
-        //   thousandSeparator: ',',
-        //   thresholdMax: 50000,
-        //   thresholdMin: 1000
-        // },
-        // change: {
-        //   name: 'Change to year before',
-        //   format: '{0} %'
-        // },
-        gdpAdjusted: {
-          name: '',
-          format: '{0}',
-          thousandSeparator: '',
-          thresholdMax: 1,
-          thresholdMin: 0
-        }
-        // ,
-        // changeAdjusted: {
-        //   name: 'Change to year before',
-        //   format: '{0} %'
-        // }
-      },
-      applyData: 'gdpAdjusted',
-      values: values
+      setStartDate(res.trip.startingDate);
+      setKmData(res.trip.startingKm, res.trip.actualKm);
+      setMap(res.trip.visitedCountry);
+
+      return data;
+    },
+    error: function (xhr, status, error) {
+        console.log('Error: ' + error.message);
+    }
+    });
+}
+
+var getSW = function () {
+
+  console.log('getting data');
+  $.ajax({
+    type: 'GET', // added,
+    url: rpcUrl + "/sw/get",
+    contentType: "application/json",
+    // data: '{"data": "TEST"}',
+    //dataType: 'jsonp' - removed
+    //jsonpCallback: 'callback' - removed
+    success: function (data) {
+      console.log(data);
+      res = data;
+      return data;
+    },
+    error: function (xhr, status, error) {
+        console.log('Error: ' + error.message);
+    }
+    });
   }
 
-  new svgMap({
-    targetElementID: 'svgMap',
-    noDataText: 'Paese ancora non visitato 😢',
-    flagType: 'emoji',
-    colorMax: '#15817f',
-    // colorMin: '',
-    initialZoom: '4.5',
-    initialPan: { x: 600, y: 120 },
-    data: _data
+  let setKmData = function(startKm, actualKm){
+        document.getElementById('travelingKm').innerText = actualKm - startKm;
+  }
+
+  let setStartDate = function(startDate){
+    // box giorni di viaggio
+    const today = new Date();
+    const yyyy = today.getFullYear();
+    let mm = today.getMonth() + 1; // Months start at 0!
+    let dd = today.getDate();
+
+    if (dd < 10) dd = '0' + dd;
+    if (mm < 10) mm = '0' + mm;
+
+    const date1 = new Date(startDate);
+    // const date1 = new Date('18/05/2022');
+    const date2 = new Date(mm + '/' + dd + '/' + yyyy);
+    const diffTime = Math.abs(date2 - date1);
+    const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24)); 
+
+    document.getElementById('travelingDay').innerText = diffDays;
+  };
+
+
+  let setMap = function(visitedCuntry){
+    // box paesi visitati
+    document.getElementById('visitedCuntry').innerText = visitedCuntry.length;
+
+    // struct : <country>: {gdp: 1, gdpAdjusted: '', link: 'url'}
+    // gdp => 1 visited
+    // gdpAdjusted => always ''
+    // link => link to the post on click
+    var jsonData = {};
+    visitedCuntry.forEach(function(item) 
+    {
+        jsonData[item] = {gdp: 1, gdpAdjusted: ''};
+    });
+    jsonData['link'] ='https://cssscript.com';
+    jsonData['linkTarget'] ='_blank';
+
+
+    console.log(jsonData);
+
+
+    // let values = {
+    //       IT: {gdp: 1, gdpAdjusted: ''/*, link: "http://www.google.it"*/},
+    //       CH: {gdp: 1, gdpAdjusted: ''},
+    //       DE: {gdp: 1, gdpAdjusted: ''},
+    //       DK: {gdp: 1, gdpAdjusted: ''},
+    //       link: 'https://cssscript.com',
+    //       linkTarget: '_blank'
+    //    };
+        
+    let _data = {
+        data: {
+          // gdp: {
+          //   name: 'GDP per capita',
+          //   format: '{0} USD',
+          //   thousandSeparator: ',',
+          //   thresholdMax: 50000,
+          //   thresholdMin: 1000
+          // },
+          // change: {
+          //   name: 'Change to year before',
+          //   format: '{0} %'
+          // },
+          gdpAdjusted: {
+            name: '',
+            format: '{0}',
+            thousandSeparator: '',
+            thresholdMax: 1,
+            thresholdMin: 0
+          }
+          // ,
+          // changeAdjusted: {
+          //   name: 'Change to year before',
+          //   format: '{0} %'
+          // }
+        },
+        applyData: 'gdpAdjusted',
+        values: jsonData
+    }
+
+    new svgMap({
+      targetElementID: 'svgMap',
+      noDataText: 'Paese ancora non visitato 😢',
+      flagType: 'emoji',
+      colorMax: '#15817f',
+      // colorMin: '',
+      initialZoom: '4.5',
+      initialPan: { x: 600, y: 120 },
+      data: _data
+    });
+    
+  };
+
+  $( document ).ready(function() {
+    console.log( "ready!" );
+    getTripData();
+
+
+    // box costi sostenuti
+    const travelingSumCost = 4000;
+    document.getElementById('travelingSumCost').innerText = travelingSumCost + ' €';
+
+    // chart spese
+    const ctx = document.getElementById('catergory').getContext('2d');
+
+    const myChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: ['Cibo', 'Benzina', 'Manutenzione', 'Servizi', 'Varie', 'Animali'],
+            datasets: [{
+                label: '# of Votes',
+                data: [12, 19, 3, 5, 2, 3],
+                backgroundColor: [
+                    'rgba(255, 99, 132, 0.2)',
+                    'rgba(54, 162, 235, 0.2)',
+                    'rgba(255, 206, 86, 0.2)',
+                    'rgba(75, 192, 192, 0.2)',
+                    'rgba(153, 102, 255, 0.2)',
+                    'rgba(255, 159, 64, 0.2)'
+                ],
+                borderColor: [
+                    'rgba(255, 99, 132, 1)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    }); 
   });
-  
   </script>
 <!--=================== expanses script end ===================-->
 {{ end }}

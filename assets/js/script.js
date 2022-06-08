@@ -71,10 +71,11 @@ $(document).ready(function () {
 
 });
  
-let rpcUrl = "http://localhost:3000";
-let res;
-var getBooks = function () {
 
+
+var getBooks = function () {
+  let rpcUrl = "http://localhost:3000";
+  
   console.log('getting data');
   $.ajax({
     type: 'GET', // added,
@@ -114,24 +115,3 @@ var getGears = function () {
     }
     });
 }
-
-var getSW = function () {
-
-  console.log('getting data');
-  $.ajax({
-    type: 'GET', // added,
-    url: rpcUrl + "/sw/get",
-    contentType: "application/json",
-    // data: '{"data": "TEST"}',
-    //dataType: 'jsonp' - removed
-    //jsonpCallback: 'callback' - removed
-    success: function (data) {
-      console.log(data);
-      res = data;
-      return data;
-    },
-    error: function (xhr, status, error) {
-        console.log('Error: ' + error.message);
-    }
-    });
-  }
