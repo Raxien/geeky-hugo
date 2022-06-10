@@ -5,6 +5,11 @@
 <script src="https://cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.9.0/dist/svgMap.min.js"></script>
 <link href="https://cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.9.0/dist/svgMap.min.css" rel="stylesheet">
 
+<script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/locale/it.js"></script>
 <!-- <link rel="stylesheet" type="text/css"  href="/exampleSite/assets/scss/jquery-jvectormap-2.0.1.css" media="screen"/> -->
 <!-- <link rel="stylesheet" href="\exampleSite\assets\scss\jquery-jvectormap-2.0.5.css"> -->
 
@@ -51,7 +56,7 @@
     <div class="row">
       <div class="col-md-12 mb-4 mb-md-0">
         <div class="p-4 border rounded">
-          <h2 class="h4 mb-5 title-border">Dati</h2>
+          <h2 class="h4 mb-5 title-border">Il nostro viaggio in breve</h2>
           <div class="row">
             <div class="col-md-3 mb-3">
               <h4 class="h5 mb-2">Km percorsi</h4>
@@ -66,7 +71,7 @@
               <h3 id="visitedCuntry" class="mb-5 h5 "></h3>
             </div>
             <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Spesa</h4>
+              <h4 class="h5 mb-2">Totale Spesa</h4>
               <h3 id="travelingSumCost" class="mb-5 h5 "></h3>
             </div>
           </div>
@@ -76,6 +81,7 @@
 
     <br>
     <br>
+
     <div class="row">
       <div class="col-md-12 mb-4 mb-md-0">
         <div class="p-4 border rounded">
@@ -91,6 +97,40 @@
     <br>
     
     <div class="row">
+      <div class="col-md-12 mb-4 mb-md-0">
+        <div class="p-4 border rounded">
+          <h2 class="h4 mb-5 title-border">Spese</h2>
+          <div class="row">
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Costo Van</h4>
+              <h3 id="initialCost" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Accessori</h4>
+              <h3 id="accessoryCost" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Costo giornaliero</h4>
+              <h3 id="dailyCost" class="mb-5 h5 "></h3>
+            </div>
+            <!-- <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Spesa</h4>
+              <h3 id="travelingSumCost" class="mb-5 h5 "></h3>
+            </div> -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <br>
+    <br>
+
+    <div id="tblAccessory"></div>
+
+    <br>
+    <br>
+
+    <div class="row">
       <div class="col-md-6">
          <div class="border rounded p-4">
            <h2 class="mb-5 h4 title-border">Categoria</h2>
@@ -98,8 +138,24 @@
              <canvas id="catergory" width="400" height="400"></canvas>
            </ul>
          </div>
-       </div>
+      </div>
+      <div class="col-md-6">
+         <div class="border rounded p-4">
+           <h2 class="mb-5 h4 title-border">Mensile</h2>
+           <ul class="list-styled" style="columns:2">
+             <canvas id="monthly" width="400" height="400"></canvas>
+           </ul>
+         </div>
+      </div>
     </div>
+
+    <br>
+    <br>
+
+    <div id="tblSpese"></div>
+
+    <br>
+    <br>
   </div>
 
 </section>
@@ -108,7 +164,8 @@
 <!--=================== expanses script start ===================-->
 <script>
 
-let rpcUrl = "http://localhost:3000";
+// let rpcUrl = "http://localhost:3000";
+let rpcUrl = "https://vandipety-api.herokuapp.com";
 var getTripData = function () {
 
   console.log('getting data');
@@ -118,11 +175,13 @@ var getTripData = function () {
     contentType: "application/json",
     success: function (data) {
       console.log(data);
-      res = data;
+      res = data.json;
       
-      setStartDate(res.trip.startingDate);
-      setKmData(res.trip.startingKm, res.trip.actualKm);
-      setMap(res.trip.visitedCountry);
+      setVanCost(res.costVan, res.costAccessory);
+
+      setStartDate(res.startingDate);
+      setKmData(res.startingKm, res.actualKm);
+      setMap(res.visitedCountry);
 
       return data;
     },
@@ -145,6 +204,23 @@ var getSW = function () {
     success: function (data) {
       console.log(data);
       res = data;
+
+      let travelingSumCost = 0, i = 0;
+      while(i < data.res.length){
+        console.log(data.res[i])
+        if(data.res[i].deleted_by == null)
+          travelingSumCost += parseFloat(data.res[i].cost);
+        i++;
+      }
+      travelingSumCost = Math.round((travelingSumCost + Number.EPSILON) * 100) / 100
+
+      document.getElementById('travelingSumCost').innerText = travelingSumCost + ' €';
+// debugger;
+      let day = parseInt(document.getElementById('travelingDay').innerText);
+      let costperDay = Math.round(((travelingSumCost / day) + Number.EPSILON) * 100) / 100
+      document.getElementById('dailyCost').innerText = costperDay + ' €';
+
+      setChart(data);
       return data;
     },
     error: function (xhr, status, error) {
@@ -153,10 +229,30 @@ var getSW = function () {
     });
   }
 
+
+  let setVanCost = function(initialCost, accessoryCost, day) {
+
+    document.getElementById('initialCost').innerText = initialCost + ' €';
+// debugger;
+    let arrCost = Object.keys(accessoryCost).map(function(_) { return accessoryCost[_]; })
+    const sum = arrCost.reduce((partialSum, a) => partialSum + a, 0);
+
+    document.getElementById('accessoryCost').innerText = sum + ' €';   
+    var result = [];
+
+    for(var i in accessoryCost)
+      result.push([i, accessoryCost [i]]);
+    
+    new gridjs.Grid({  columns: ["Accessorio", "Costo"], //, "Descrizione"],
+                      data: result
+                    }).render(document.getElementById("tblAccessory"));
+
+  }
+
   let setKmData = function(startKm, actualKm){
         document.getElementById('travelingKm').innerText = actualKm - startKm;
   }
-
+  
   let setStartDate = function(startDate){
     // box giorni di viaggio
     const today = new Date();
@@ -176,7 +272,6 @@ var getSW = function () {
     document.getElementById('travelingDay').innerText = diffDays;
   };
 
-
   let setMap = function(visitedCuntry){
     // box paesi visitati
     document.getElementById('visitedCuntry').innerText = visitedCuntry.length;
@@ -193,9 +288,7 @@ var getSW = function () {
     jsonData['link'] ='https://cssscript.com';
     jsonData['linkTarget'] ='_blank';
 
-
     console.log(jsonData);
-
 
     // let values = {
     //       IT: {gdp: 1, gdpAdjusted: ''/*, link: "http://www.google.it"*/},
@@ -249,52 +342,133 @@ var getSW = function () {
     
   };
 
-  $( document ).ready(function() {
-    console.log( "ready!" );
-    getTripData();
-
-
-    // box costi sostenuti
-    const travelingSumCost = 4000;
-    document.getElementById('travelingSumCost').innerText = travelingSumCost + ' €';
-
-    // chart spese
+  let setChart = function(data){  
+    // load chart spese
     const ctx = document.getElementById('catergory').getContext('2d');
 
+    const obj = new Object();
+
+    let i = 0;
+    while(i < data.res.length){
+
+      if(data.res[i].deleted_by == null){
+        let cost = parseFloat(data.res[i].cost);
+        let category_name = data.res[i].category.name;
+        
+        if(category_name == 'Hotel')
+          category_name = 'Campeggio'
+
+        let val = obj[category_name];
+        
+        val = (val == undefined? 0 : val) + cost;
+
+        obj[category_name] = Math.round((val + Number.EPSILON) * 100) / 100;
+      }
+      i++;
+    }
+
+    const _labels = Object.keys(obj);
+    const _data = Object.values(obj);
+
+    console.log(_data);
+    console.log(_labels);
+
+    const color = [ 'rgba(255, 99, 132, 1)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(229, 122, 250, 1)',
+                    'rgba(32, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(75, 192, 192, 1)',
+    ]
     const myChart = new Chart(ctx, {
         type: 'bar',
         data: {
-            labels: ['Cibo', 'Benzina', 'Manutenzione', 'Servizi', 'Varie', 'Animali'],
+            labels: _labels, //['Cibo', 'Benzina', 'Manutenzione', 'Servizi', 'Varie', 'Animali'],
             datasets: [{
-                label: '# of Votes',
-                data: [12, 19, 3, 5, 2, 3],
-                backgroundColor: [
-                    'rgba(255, 99, 132, 0.2)',
-                    'rgba(54, 162, 235, 0.2)',
-                    'rgba(255, 206, 86, 0.2)',
-                    'rgba(75, 192, 192, 0.2)',
-                    'rgba(153, 102, 255, 0.2)',
-                    'rgba(255, 159, 64, 0.2)'
-                ],
-                borderColor: [
-                    'rgba(255, 99, 132, 1)',
-                    'rgba(54, 162, 235, 1)',
-                    'rgba(255, 206, 86, 1)',
-                    'rgba(75, 192, 192, 1)',
-                    'rgba(153, 102, 255, 1)',
-                    'rgba(255, 159, 64, 1)'
-                ],
+                label: 'Euro',
+                data: _data, 
+                backgroundColor: color,
+                borderColor: color,
                 borderWidth: 1
             }]
         },
-        options: {
-            scales: {
-                y: {
-                    beginAtZero: true
-                }
-            }
+        // options: {
+        //     responsive: true,
+        //   plugins: {
+        //     legend: {
+        //       position: 'top',
+        //     },
+        //     title: {
+        //       display: true,
+        //       text: 'Spese per categoria'
+        //     }
+        //   },
+        //     scales: {
+        //         y: {
+        //             beginAtZero: true
+        //         }
+        //     }
+        // }
+    }); 
+
+    moment.locale('it');
+
+    const ctx2 = document.getElementById('monthly').getContext('2d');
+
+    const obj2 = new Object();
+// debugger;
+    i = 0;
+    while(i < data.res.length){
+
+      if(data.res[i].deleted_by == null){
+        let cost = parseFloat(data.res[i].cost);
+        let month = moment(data.res[i].date).format('MMMM');
+        
+        let val = obj2[month];
+        
+        val = (val == undefined? 0 : val) + cost;
+
+        obj2[month] = Math.round((val + Number.EPSILON) * 100) / 100;
+      }
+      i++;
+    }
+
+    const _labels2 = Object.keys(obj2);
+    const _data2 = Object.values(obj2);
+
+    const myChart2 = new Chart(ctx2, {
+        type: 'bar',
+        data: {
+            labels: _labels2, //['Cibo', 'Benzina', 'Manutenzione', 'Servizi', 'Varie', 'Animali'],
+            datasets: [{
+                label: 'Euro',
+                data: _data2, 
+                backgroundColor: color,
+                borderColor: color,
+                borderWidth: 1
+            }]
         }
     }); 
+
+    /*
+
+    for(var i in accessoryCost)
+      result.push([i, accessoryCost [i]]);
+    
+    new gridjs.Grid({  columns: ["Accessorio", "Costo"], //, "Descrizione"],
+                      data: result
+                    }).render(document.getElementById("tblAccessory"));
+                    */
+  }
+
+
+
+  $( document ).ready(function() {
+    getTripData();
+    getSW();
+
   });
   </script>
 <!--=================== expanses script end ===================-->
