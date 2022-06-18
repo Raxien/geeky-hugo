@@ -1,9 +1,6 @@
 {{ define "main" }}
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@3.8.0/dist/chart.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.9.0/dist/svgMap.min.js"></script>
-<link href="https://cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.9.0/dist/svgMap.min.css" rel="stylesheet">
 
 <script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
@@ -53,45 +50,6 @@
         </div>
       </div>
     </div>
-    <div class="row">
-      <div class="col-md-12 mb-4 mb-md-0">
-        <div class="p-4 border rounded">
-          <h2 class="h4 mb-5 title-border">Il nostro viaggio in breve</h2>
-          <div class="row">
-            <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Km percorsi</h4>
-              <h3 id="travelingKm" class="mb-5 h5 "></h3>
-            </div>
-            <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Giorni di viaggio</h4>
-              <h3 id="travelingDay" class="mb-5 h5 "></h3>
-            </div>
-            <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Paesi Visitati</h4>
-              <h3 id="visitedCuntry" class="mb-5 h5 "></h3>
-            </div>
-            <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Totale Spesa</h4>
-              <h3 id="travelingSumCost" class="mb-5 h5 "></h3>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <br>
-    <br>
-
-    <div class="row">
-      <div class="col-md-12 mb-4 mb-md-0">
-        <div class="p-4 border rounded">
-          <h2 class="h4 mb-5 title-border">Paesi visitati in <label style="transform:scale(-1, 1); width:fit-content;">🚐</label></h2>
-          <div class="row">
-            <div id="svgMap"></div>
-          </div>
-        </div>
-      </div>
-    </div>
 
     <br>
     <br>
@@ -99,15 +57,15 @@
     <div class="row">
       <div class="col-md-12 mb-4 mb-md-0">
         <div class="p-4 border rounded">
-          <h2 class="h4 mb-5 title-border">Spese</h2>
+          <h2 class="h4 mb-5 title-border">In breve</h2>
           <div class="row">
             <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Costo Van</h4>
-              <h3 id="initialCost" class="mb-5 h5 "></h3>
+              <h4 class="h5 mb-2">Giorni di viaggio</h4>
+              <h3 id="travelingDay" class="mb-5 h5 "></h3>
             </div>
             <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Accessori</h4>
-              <h3 id="accessoryCost" class="mb-5 h5 "></h3>
+              <h4 class="h5 mb-2">Totale Spesa</h4>
+              <h3 id="travelingSumCost" class="mb-5 h5 "></h3>
             </div>
             <div class="col-md-3 mb-3">
               <h4 class="h5 mb-2">Costo giornaliero</h4>
@@ -121,11 +79,6 @@
         </div>
       </div>
     </div>
-
-    <br>
-    <br>
-
-    <div id="tblAccessory"></div>
 
     <br>
     <br>
@@ -177,12 +130,8 @@ var getTripData = function () {
       console.log(data);
       res = data.json;
       
-      setVanCost(res.costVan, res.costAccessory);
-
       setStartDate(res.startingDate);
-      setKmData(res.startingKm, res.actualKm);
-      setMap(res.visitedCountry);
-
+      
       return data;
     },
     error: function (xhr, status, error) {
@@ -215,12 +164,13 @@ var getSW = function () {
       travelingSumCost = Math.round((travelingSumCost + Number.EPSILON) * 100) / 100
 
       document.getElementById('travelingSumCost').innerText = travelingSumCost + ' €';
-// debugger;
+
       let day = parseInt(document.getElementById('travelingDay').innerText);
       let costperDay = Math.round(((travelingSumCost / day) + Number.EPSILON) * 100) / 100
       document.getElementById('dailyCost').innerText = costperDay + ' €';
 
       setChart(data);
+      setGrid(data);
       return data;
     },
     error: function (xhr, status, error) {
@@ -229,30 +179,6 @@ var getSW = function () {
     });
   }
 
-
-  let setVanCost = function(initialCost, accessoryCost, day) {
-
-    document.getElementById('initialCost').innerText = initialCost + ' €';
-// debugger;
-    let arrCost = Object.keys(accessoryCost).map(function(_) { return accessoryCost[_]; })
-    const sum = arrCost.reduce((partialSum, a) => partialSum + a, 0);
-
-    document.getElementById('accessoryCost').innerText = sum + ' €';   
-    var result = [];
-
-    for(var i in accessoryCost)
-      result.push([i, accessoryCost [i]]);
-    
-    new gridjs.Grid({  columns: ["Accessorio", "Costo"], //, "Descrizione"],
-                      data: result
-                    }).render(document.getElementById("tblAccessory"));
-
-  }
-
-  let setKmData = function(startKm, actualKm){
-        document.getElementById('travelingKm').innerText = actualKm - startKm;
-  }
-  
   let setStartDate = function(startDate){
     // box giorni di viaggio
     const today = new Date();
@@ -264,82 +190,12 @@ var getSW = function () {
     if (mm < 10) mm = '0' + mm;
 
     const date1 = new Date(startDate);
-    // const date1 = new Date('18/05/2022');
+    
     const date2 = new Date(mm + '/' + dd + '/' + yyyy);
     const diffTime = Math.abs(date2 - date1);
     const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24)); 
 
     document.getElementById('travelingDay').innerText = diffDays;
-  };
-
-  let setMap = function(visitedCuntry){
-    // box paesi visitati
-    document.getElementById('visitedCuntry').innerText = visitedCuntry.length;
-
-    // struct : <country>: {gdp: 1, gdpAdjusted: '', link: 'url'}
-    // gdp => 1 visited
-    // gdpAdjusted => always ''
-    // link => link to the post on click
-    var jsonData = {};
-    visitedCuntry.forEach(function(item) 
-    {
-        jsonData[item] = {gdp: 1, gdpAdjusted: ''};
-    });
-    jsonData['link'] ='https://cssscript.com';
-    jsonData['linkTarget'] ='_blank';
-
-    console.log(jsonData);
-
-    // let values = {
-    //       IT: {gdp: 1, gdpAdjusted: ''/*, link: "http://www.google.it"*/},
-    //       CH: {gdp: 1, gdpAdjusted: ''},
-    //       DE: {gdp: 1, gdpAdjusted: ''},
-    //       DK: {gdp: 1, gdpAdjusted: ''},
-    //       link: 'https://cssscript.com',
-    //       linkTarget: '_blank'
-    //    };
-        
-    let _data = {
-        data: {
-          // gdp: {
-          //   name: 'GDP per capita',
-          //   format: '{0} USD',
-          //   thousandSeparator: ',',
-          //   thresholdMax: 50000,
-          //   thresholdMin: 1000
-          // },
-          // change: {
-          //   name: 'Change to year before',
-          //   format: '{0} %'
-          // },
-          gdpAdjusted: {
-            name: '',
-            format: '{0}',
-            thousandSeparator: '',
-            thresholdMax: 1,
-            thresholdMin: 0
-          }
-          // ,
-          // changeAdjusted: {
-          //   name: 'Change to year before',
-          //   format: '{0} %'
-          // }
-        },
-        applyData: 'gdpAdjusted',
-        values: jsonData
-    }
-
-    new svgMap({
-      targetElementID: 'svgMap',
-      noDataText: 'Paese ancora non visitato 😢',
-      flagType: 'emoji',
-      colorMax: '#15817f',
-      // colorMin: '',
-      initialZoom: '4.5',
-      initialPan: { x: 600, y: 120 },
-      data: _data
-    });
-    
   };
 
   let setChart = function(data){  
@@ -393,24 +249,7 @@ var getSW = function () {
                 borderColor: color,
                 borderWidth: 1
             }]
-        },
-        // options: {
-        //     responsive: true,
-        //   plugins: {
-        //     legend: {
-        //       position: 'top',
-        //     },
-        //     title: {
-        //       display: true,
-        //       text: 'Spese per categoria'
-        //     }
-        //   },
-        //     scales: {
-        //         y: {
-        //             beginAtZero: true
-        //         }
-        //     }
-        // }
+        }
     }); 
 
     moment.locale('it');
@@ -418,7 +257,7 @@ var getSW = function () {
     const ctx2 = document.getElementById('monthly').getContext('2d');
 
     const obj2 = new Object();
-// debugger;
+
     i = 0;
     while(i < data.res.length){
 
@@ -452,17 +291,36 @@ var getSW = function () {
         }
     }); 
 
-    /*
-
-    for(var i in accessoryCost)
-      result.push([i, accessoryCost [i]]);
-    
-    new gridjs.Grid({  columns: ["Accessorio", "Costo"], //, "Descrizione"],
-                      data: result
-                    }).render(document.getElementById("tblAccessory"));
-                    */
   }
 
+  let setGrid = function(data) {
+    var result = [];
+
+    i = 0;
+    while(i < data.res.length){
+      let res = data.res[i];
+
+      if(res.deleted_by == null){
+        let cost = parseFloat(res.cost);
+        
+        cost = Math.round((cost + Number.EPSILON) * 100) / 100;
+        result.push([res.category.name, res.description, cost, new Date(res.date).toLocaleString()]);
+      }
+      
+      i++;
+    }
+    console.log(result);
+
+    new gridjs.Grid({columns: ["Categoria", "Descrizione", "Spesa", "Data"],
+                     data: result,
+                     sort: true,
+                     pagination: {
+                      limit: 20
+                    },
+                    // language : it_IT
+                    }).render(document.getElementById("tblSpese"));
+
+  }
 
 
   $( document ).ready(function() {

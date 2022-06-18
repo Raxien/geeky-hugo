@@ -1,0 +1,153 @@
+{{ define "main" }}
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<!-- <script src="https://cdn.jsdelivr.net/npm/chart.js@3.8.0/dist/chart.min.js"></script> -->
+<script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/locale/it.js"></script>
+<!-- <link rel="stylesheet" type="text/css"  href="/exampleSite/assets/scss/jquery-jvectormap-2.0.1.css" media="screen"/> -->
+<!-- <link rel="stylesheet" href="\exampleSite\assets\scss\jquery-jvectormap-2.0.5.css"> -->
+
+<!--=================== expanses section start ===================-->
+<section class="section">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-12">
+        <!-- image path -->
+        {{ $imagePath:= .Params.image }}
+
+        <!-- image CDN -->
+        {{ if hasPrefix $imagePath "http" }}
+        <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Title }}"
+          class="img-fluid mb-5 w-100 rounded-4">
+        {{ else }}
+        <!-- /image cdn -->
+
+        <!-- image processing for multiple device -->
+        {{ if fileExists (add `assets/` $imagePath) }}
+        {{ $image:= resources.Get $imagePath }}
+        {{ $imageFallback:= $image.Resize "1400x" }}
+        {{ $imageXL:= $image.Resize "1400x webp" }}
+        {{ $imageLG:= $image.Resize "1000x webp" }}
+        {{ $imageMD:= $image.Resize "800x webp" }}
+        {{ $imageSM:= $image.Resize "600x webp" }}
+        <picture>
+          <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
+          <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
+          <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 992px)">
+          <source srcset="{{ $imageXL.RelPermalink }}">
+          <img loading="lazy" decoding="async" class="img-fluid mb-5 w-100 rounded-4" src="{{$imageFallback.RelPermalink}}"
+            alt="{{.Title}}" width="{{$image.Width}}" height="{{$image.Height}}">
+        </picture>
+        {{ end }}
+        <!-- /image processing for multiple device -->
+        {{ end }}
+        <h2 class="mb-3">{{ .Title | markdownify }}</h2>
+        <div class="content">
+          {{.Content}}
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 mb-4 mb-md-0">
+        <div class="p-4 border rounded">
+          <h2 class="h4 mb-5 title-border">Il nostro van in breve</h2>
+          <div class="row">
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Costo Van</h4>
+              <h3 id="initialCost" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Accessori</h4>
+              <h3 id="accessoryCost" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Totale</h4>
+              <h3 id="totalVanCost" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Km percorsi</h4>
+              <h3 id="travelingKm" class="mb-5 h5 "></h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <br>
+    <br>
+
+    <div id="tblAccessory"></div>
+
+  </div>
+
+</section>
+<!--=================== expanses section end ===================-->
+
+<!--=================== expanses script start ===================-->
+<script>
+
+// let rpcUrl = "http://localhost:3000";
+let rpcUrl = "https://vandipety-api.herokuapp.com";
+var getTripData = function () {
+
+  console.log('getting data');
+  $.ajax({
+    type: 'GET', // added,
+    url: rpcUrl + "/data/trip",
+    contentType: "application/json",
+    success: function (data) {
+      console.log(data);
+      res = data.json;
+      
+      setVanCost(res.costVan, res.costAccessory);
+      setKmData(res.actualKm);
+
+      return data;
+    },
+    error: function (xhr, status, error) {
+        console.log('Error: ' + error.message);
+    }
+    });
+  }
+  
+  let setVanCost = function(initialCost, accessoryCost, day) {
+
+
+    let arrCost = Object.keys(accessoryCost).map(function(_) { return accessoryCost[_]; })
+    const sum = arrCost.reduce((partialSum, a) => partialSum + a, 0);
+
+    document.getElementById('initialCost').innerText = initialCost + ' €';
+    document.getElementById('accessoryCost').innerText = sum + ' €';   
+    document.getElementById('totalVanCost').innerText = initialCost + sum + ' €';   
+    
+    var result = [];
+
+    for(var i in accessoryCost)
+      result.push([i, accessoryCost [i]]);
+                        
+    new gridjs.Grid({columns: ["Accessorio", "Costo"],
+                     data: result,
+                     sort: true,
+                     pagination: {
+                      limit: 20
+                    },
+                    // language : it_IT
+                    }).render(document.getElementById("tblAccessory"));
+
+  }
+
+  let setKmData = function(actualKm){
+        document.getElementById('travelingKm').innerText = actualKm;
+  }
+  
+  $( document ).ready(function() {
+    getTripData();
+  });
+  </script>
+<!--=================== expanses script end ===================-->
+{{ end }}
+

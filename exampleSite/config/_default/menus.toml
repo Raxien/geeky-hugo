@@ -21,28 +21,52 @@ weight = 3
 # url = "gears/"
 # weight = 4
 
-[[main]]
-name = "Spese"
-url = "expanses/"
-weight = 5
+# [[main]]
+#name = "Spese"
+# url = "expanses/"
+# weight = 5
 
 [[main]]
-name = "Pagine"
+name = "Diario di bordo"
 url = "#"
-weight = 6
+weight = 5
 hasChildren = true
 
   [[main]]
-  parent = "Pagine"
-  name = "Tags"
-  url = "tags/"
+  parent = "Diario di bordo"
+  name = "Il viaggio"
+  url = "trip/"
   weight = 1
 
   [[main]]
-  parent = "Pagine"
-  name = "Categorie"
-  url = "categories/"
+  parent = "Diario di bordo"
+  name = "Le spese"
+  url = "expanses/"
   weight = 2
+
+  [[main]]
+  parent = "Diario di bordo"
+  name = "Il van"
+  url = "van/"
+  weight = 3
+
+# [[main]]
+# name = "Pagine"
+# url = "#"
+# weight = 6
+# hasChildren = true
+
+#   [[main]]
+#   parent = "Pagine"
+#   name = "Tags"
+#   url = "tags/"
+#   weight = 1
+
+#   [[main]]
+#   parent = "Pagine"
+#   name = "Categorie"
+#   url = "categories/"
+#   weight = 2
 
 # footer menu
 [[footer]]

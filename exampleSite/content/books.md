@@ -10,11 +10,10 @@ Di seguito un elenco, mai completo, di tutti i libri che stiamo leggendo, che ab
 
 
 ##### Stiamo leggendo:
->- **[La materia del cosmo](https://amzn.to/3tH2Wqg)** di Liu Cixin
+>- **[La quarta dimension](https://amzn.to/3O2XDcD)** di Liu Cixin
 
 ##### Appena finiti:
->- **[Il romanzo di sant Jordi](https://amzn.to/3GU2RDS)** di Màrius Serra
-
+>- **[La materia del cosmo](https://amzn.to/3tH2Wqg)** di Liu Cixin
 
 ##### Fantascienza
 - **[Il problema dei tre corpi](https://amzn.to/3IpvsRK)** di Liu Cixin
@@ -31,6 +30,7 @@ Di seguito un elenco, mai completo, di tutti i libri che stiamo leggendo, che ab
 - **[Eleanor Oliphant sta benissimo](https://amzn.to/36sKp8C)** di Gail Honeyman
 - **[Cronache di un gatto viaggiatore](https://amzn.to/3NpLSwL)** di Hiro Arikawa 
 - **[I quaderni botanici di madame lucie ](https://amzn.to/3JJJ5MJ)** di Mélissa Da Costa 
+- **[Il romanzo di sant Jordi](https://amzn.to/3GU2RDS)** di Màrius Serra
 
 ##### Filosofici
 - **[Yoga](https://amzn.to/35hMWlo)** di Emmanuel Carrère

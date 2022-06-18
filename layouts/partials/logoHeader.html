@@ -1,3 +1,4 @@
+
 {{ $logoPath:= site.Params.logo }}
 {{ $logoWidth:= replace site.Params.logo_width "px" "x" }}
 
@@ -25,7 +26,7 @@
 {{ .Scratch.Set "logo_fallback" ($logo.Resize $logoWidth).RelPermalink }}
 {{ end }}
 
-<img loading="prelaod" decoding="async" class="img-fluid logoOther" {{if ne $logoExt `.svg`}}
+<img loading="prelaod" decoding="async" class="img-fluid logoHeader" {{if ne $logoExt `.svg`}}
   width="{{$logoWidth | default $logo.Width}}" height="{{$logo.Height}}" {{end}} src="{{.Scratch.Get `logo`}}"
   alt="{{ site.Title }}" onerror="this.onerror=null;this.src='{{.Scratch.Get `logo_fallback`}}'">
 {{ else }}

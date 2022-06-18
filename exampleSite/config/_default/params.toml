@@ -56,7 +56,7 @@ title = "facebook"
 icon = "fab fa-tiktok"
 link = "https://vm.tiktok.com/ZMLJmLRTV/"
 title = "TikTok"
-[[social]]
-icon = "fas fa-store"
-link = "https://www.almonature.com"
-title = "Negozio"
+#[[social]]
+# icon = "fas fa-store"
+# link = "https://www.almonature.com"
+# title = "Negozio"

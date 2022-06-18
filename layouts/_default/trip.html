@@ -1,0 +1,224 @@
+{{ define "main" }}
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.9.0/dist/svgMap.min.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.9.0/dist/svgMap.min.css" rel="stylesheet">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/locale/it.js"></script>
+<!-- <link rel="stylesheet" type="text/css"  href="/exampleSite/assets/scss/jquery-jvectormap-2.0.1.css" media="screen"/> -->
+<!-- <link rel="stylesheet" href="\exampleSite\assets\scss\jquery-jvectormap-2.0.5.css"> -->
+
+<!--=================== expanses section start ===================-->
+<section class="section">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-12">
+        <!-- image path -->
+        {{ $imagePath:= .Params.image }}
+
+        <!-- image CDN -->
+        {{ if hasPrefix $imagePath "http" }}
+        <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Title }}"
+          class="img-fluid mb-5 w-100 rounded-4">
+        {{ else }}
+        <!-- /image cdn -->
+
+        <!-- image processing for multiple device -->
+        {{ if fileExists (add `assets/` $imagePath) }}
+        {{ $image:= resources.Get $imagePath }}
+        {{ $imageFallback:= $image.Resize "1400x" }}
+        {{ $imageXL:= $image.Resize "1400x webp" }}
+        {{ $imageLG:= $image.Resize "1000x webp" }}
+        {{ $imageMD:= $image.Resize "800x webp" }}
+        {{ $imageSM:= $image.Resize "600x webp" }}
+        <picture>
+          <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
+          <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
+          <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 992px)">
+          <source srcset="{{ $imageXL.RelPermalink }}">
+          <img loading="lazy" decoding="async" class="img-fluid mb-5 w-100 rounded-4" src="{{$imageFallback.RelPermalink}}"
+            alt="{{.Title}}" width="{{$image.Width}}" height="{{$image.Height}}">
+        </picture>
+        {{ end }}
+        <!-- /image processing for multiple device -->
+        {{ end }}
+        <h2 class="mb-3">{{ .Title | markdownify }}</h2>
+        <div class="content">
+          {{.Content}}
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 mb-4 mb-md-0">
+        <div class="p-4 border rounded">
+          <h2 class="h4 mb-5 title-border">Il nostro viaggio in breve</h2>
+          <div class="row">
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Data partenza</h4>
+              <h3 id="travelingStartDay" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Giorni di viaggio</h4>
+              <h3 id="travelingDay" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Km percorsi</h4>
+              <h3 id="travelingKm" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Paesi Visitati</h4>
+              <h3 id="visitedCuntry" class="mb-5 h5 "></h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <br>
+    <br>
+
+    <div class="row">
+      <div class="col-md-12 mb-4 mb-md-0">
+        <div class="p-4 border rounded">
+          <h2 class="h4 mb-5 title-border">Paesi visitati in <label style="transform:scale(-1, 1); width:fit-content;">🚐</label></h2>
+          <div class="row">
+            <div id="svgMap"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>
+<!--=================== expanses section end ===================-->
+
+<!--=================== expanses script start ===================-->
+<script>
+
+// let rpcUrl = "http://localhost:3000";
+let device;
+let rpcUrl = "https://vandipety-api.herokuapp.com";
+var getTripData = function () {
+  console.log('getting data');
+
+  $.ajax({
+    type: 'GET', // added,
+    url: rpcUrl + "/data/trip",
+    contentType: "application/json",
+    success: function (data) {
+      console.log(data);
+      res = data.json;
+      
+      setStartDate(res.startingDate);
+      setKmData(res.startingKm, res.actualKm);
+      setMap(res.visitedCountry);
+
+      return data;
+    },
+    error: function (xhr, status, error) {
+        console.log('Error: ' + error.message);
+    }
+    });
+  }
+
+  let setKmData = function(startKm, actualKm){
+        document.getElementById('travelingKm').innerText = actualKm - startKm;
+  }
+  
+  let setStartDate = function(startDate){
+    // box giorni di viaggio
+    const today = new Date();
+    const yyyy = today.getFullYear();
+    let mm = today.getMonth() + 1; // Months start at 0!
+    let dd = today.getDate();
+
+    if (dd < 10) dd = '0' + dd;
+    if (mm < 10) mm = '0' + mm;
+
+    const date1 = new Date(startDate);
+    // const date1 = new Date('18/05/2022');
+    const date2 = new Date(mm + '/' + dd + '/' + yyyy);
+    const diffTime = Math.abs(date2 - date1);
+    const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24)); 
+
+    document.getElementById('travelingDay').innerText = diffDays;
+    document.getElementById('travelingStartDay').innerText = startDate;    
+  };
+
+  let setMap = function(visitedCuntry){
+    // box paesi visitati
+    document.getElementById('visitedCuntry').innerText = visitedCuntry.length;
+
+    // struct : <country>: {gdp: 1, gdpAdjusted: '', link: 'url'}
+    // gdp => 1 visited
+    // gdpAdjusted => always ''
+    // link => link to the post on click
+    var jsonData = {};
+    visitedCuntry.forEach(function(item) 
+    {
+        jsonData[item] = {gdp: 1, gdpAdjusted: ''};
+    });
+    jsonData['link'] ='https://cssscript.com';
+    jsonData['linkTarget'] ='_blank';
+
+    console.log(jsonData);
+    
+    let _data = {
+        data: {
+          gdpAdjusted: {
+            name: '',
+            format: '{0}',
+            thousandSeparator: '',
+            thresholdMax: 2,
+            thresholdMin: 0
+          }
+        },
+        applyData: 'gdpAdjusted',
+        values: jsonData
+    }
+
+    let _initialPan =  { x: 600, y: 120 }, _initialZoom = '3';
+    // debugger;
+    if(device){
+      let w = $(window).width();
+      let h = $(window).height();
+      console.log('w ' + w);
+      console.log('h ' + h);
+      w = w - 220;
+      h = h - 855;
+      // _initialPan = { x: w, y: h };
+      
+      _initialPan = { x: 200, y: 50 };
+      // _initialZoom = '1';
+    }
+
+    // else 
+      // initialPan = { x: 600, y: 120 };
+
+    new svgMap({
+      targetElementID: 'svgMap',
+      noDataText: 'Paese ancora non visitato 😢',
+      flagType: 'emoji',
+      colorMax: '#15817f',
+      // showContinentSelector: true,
+      // colorMin: '',
+      initialZoom: _initialZoom,
+      // initialContinetn: "Europe"
+      initialPan: _initialPan, //{ x: 600, y: 120 },
+      data: _data
+    });
+    
+  };
+
+  $( document ).ready(function() {
+    device = ( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) );
+    console.log(device);
+
+    getTripData();
+  });
+  </script>
+<!--=================== expanses script end ===================-->
+{{ end }}
+
