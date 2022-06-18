@@ -42,7 +42,12 @@
 }
 
 .logoHeader { 
-  width: 50px;
+  width: 75px;
+}
+
+.logoHeader img {
+  max-width: 100%;
+  max-height: auto;
 }
 
 .logoOther { 

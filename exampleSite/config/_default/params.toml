@@ -11,6 +11,7 @@ featured_post_title = "In primo piano"
 footer_content = "Se sentite ridere in lontananza potremmo essere noi."
 image = "images/logo.png"
 logo = "images/logo.png"
+logo2 = "images/logo2.png"
 logo_text = "Boilerplate"
 logo_width = "150x"
 mainSections = ["blog"]
