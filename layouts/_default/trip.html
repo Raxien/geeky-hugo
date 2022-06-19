@@ -1,4 +1,8 @@
 {{ define "main" }}
+
+{{- $sectionDelimiter := "<!-- section break -->" -}}
+{{- $rawContentSections := split .RawContent $sectionDelimiter -}}
+
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
@@ -7,8 +11,6 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/moment.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/locale/it.js"></script>
-<!-- <link rel="stylesheet" type="text/css"  href="/exampleSite/assets/scss/jquery-jvectormap-2.0.1.css" media="screen"/> -->
-<!-- <link rel="stylesheet" href="\exampleSite\assets\scss\jquery-jvectormap-2.0.5.css"> -->
 
 <!--=================== expanses section start ===================-->
 <section class="section">
@@ -46,7 +48,7 @@
         {{ end }}
         <h2 class="mb-3">{{ .Title | markdownify }}</h2>
         <div class="content">
-          {{.Content}}
+          {{ index $rawContentSections 0 | .RenderString }}
         </div>
       </div>
     </div>
@@ -75,9 +77,19 @@
         </div>
       </div>
     </div>
-
+    
     <br>
-    <br>
+    
+    <div class="container">
+      <div class="row mb-5">
+        <div class="col-12">
+          <div class="content">
+            <!-- {{.Content}} -->
+            {{ index $rawContentSections 1 | .RenderString }}
+          </div>
+        </div>
+      </div>
+    </div>
 
     <div class="row">
       <div class="col-md-12 mb-4 mb-md-0">
@@ -144,7 +156,9 @@ var getTripData = function () {
     const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24)); 
 
     document.getElementById('travelingDay').innerText = diffDays;
-    document.getElementById('travelingStartDay').innerText = startDate;    
+    let fixedDate = startDate.split('/');
+    fixedDate = fixedDate[1] + '/' + fixedDate[0] + '/' + fixedDate[2];
+    document.getElementById('travelingStartDay').innerText = fixedDate;    
   };
 
   let setMap = function(visitedCuntry){

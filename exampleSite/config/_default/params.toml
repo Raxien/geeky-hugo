@@ -5,7 +5,8 @@ contact_form_action = "#"
 copyright = ""
 custom_script = ""
 description = "This is meta description"
-email = "info@email.com"
+email = "info@vandipety.it"
+emailSponsor = "sponsor@vandipety.it"
 favicon = "images/favicon.png"
 featured_post_title = "In primo piano"
 footer_content = "Se sentite ridere in lontananza potremmo essere noi."
@@ -32,10 +33,10 @@ image = "images/banner.png"
 title_large = "Benvenuti **!**"
 title_small = "nel Blog di Vandipety"
 [cookies]
-button = "I Accept"
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-enable = false
-expire_days = 2
+button = "Accetto"
+content = "Questo sito utilizza i cookie. Continuando a utilizzare questo sito Web, acconsenti al loro utilizzo."
+enable = true
+expire_days = 7
 [preloader]
 enable = false
 preloader = ""

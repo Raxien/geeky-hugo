@@ -2,7 +2,7 @@
 
 # main menu
 [[main]]
-name = "Articoli"
+name = "Diario di bordo"
 url = ""
 weight = 1
 
@@ -21,31 +21,26 @@ weight = 3
 # url = "gears/"
 # weight = 4
 
-# [[main]]
-#name = "Spese"
-# url = "expanses/"
-# weight = 5
-
 [[main]]
-name = "Diario di bordo"
+name = "Diamo i numeri"
 url = "#"
 weight = 5
 hasChildren = true
 
   [[main]]
-  parent = "Diario di bordo"
+  parent = "Diamo i numeri"
   name = "Il viaggio"
   url = "trip/"
   weight = 1
 
   [[main]]
-  parent = "Diario di bordo"
+  parent = "Diamo i numeri"
   name = "Le spese"
   url = "expanses/"
   weight = 2
 
   [[main]]
-  parent = "Diario di bordo"
+  parent = "Diamo i numeri"
   name = "Il van"
   url = "van/"
   weight = 3
@@ -75,11 +70,11 @@ url = "/"
 weight = 1
 
 [[footer]]
-name = "Chi Siamo"
-url = "about/"
+name = "Contatti"
+url = "contact/"
 weight = 2
 
-# [[footer]]
-# name = "Privacy Policy"
-# url = "privacy-policy/"
-# weight = 4
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 4

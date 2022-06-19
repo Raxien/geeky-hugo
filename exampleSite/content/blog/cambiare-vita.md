@@ -2,8 +2,8 @@
 title: "Non solo l’ennesimo blog: la storia di una \"famiglia bestiale\""
 description: "Di come cambiare vita, di viaggi e avventure, degli incontri sulla via, di come viaggiare con un gatto al guinzaglio."
 image: "images/post/post-1.png"
-date: 2022-06-08T10:00:25+01:00
-categories: ["curiosità"]
+date: 2022-06-19T09:00:25+01:00
+categories: ["Curiosità"]
 type: "featured" # available types: [featured/regular]
 draft: false
 Victor_Hugo: "true"
