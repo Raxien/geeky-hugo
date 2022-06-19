@@ -1,9 +1,9 @@
 baseURL = "https://www.vandipety.it"
 disableLanguages = ["fr"]
-disqusShortname = "themefisher-template"
+disqusShortname = "vandipety-it"
 googleAnalytics = ""
-languageCode = "en-us"
-languageName = "En"
+languageCode = "it-IT"
+languageName = "It"
 paginate = "6"
 summaryLength = "20"
 theme = "geeky-hugo"
