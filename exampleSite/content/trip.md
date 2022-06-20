@@ -12,3 +12,4 @@ Un viaggio che diventa esperienza di vita e che sappiamo quando ha avuto inizio 
 Di seguito tutti gli articoli relativi ai paesi visitati, comodamente a portata di un click.
 ##### Italia
 >- **[Venezia](https://vandipety.it/blog/venezia-cane-gatto/)** 
+>- **[Brolo](https://vandipety.it/blog/un-gatto-a-spasso-nel-paese-dei-gatti//)** 

@@ -17,6 +17,5 @@ Tutti e quattro siamo grandi camminatori, amanti del timido sole del mattino e d
 Se vuoi sapere di più leggi gli articoli su di noi:
 
 - **[Non solo l’ennesimo blog: la storia di una “famiglia bestiale”](https://www.vandipety.it/blog/cambiare-vita/)**
-- **[Non solo l’ennesimo blog: la storia di una “famiglia bestiale”](https://www.vandipety.it/blog/cambiare-vita/)**
-- **[Non solo l’ennesimo blog: la storia di una “famiglia bestiale”](https://www.vandipety.it/blog/cambiare-vita/)**
-- **[Non solo l’ennesimo blog: la storia di una “famiglia bestiale”](https://www.vandipety.it/blog/cambiare-vita/)**
+- **[Vi parlo un po’ di me, di quando ho capito che viaggiare per il mondo mi avrebbe cambiato la vita](https://www.vandipety.it/blog/vi-parlo-un-po-di-me-di-quando-ho-capito-che-viaggiare-per-il-mondo-mi-avrebbe-cambiato-la-vita/)**
+- **[Vi racconto di Paolo: da piccolo esploratore a grande viaggiatore](https://www.vandipety.it/blog/vi-racconto-di-paolo-da-piccolo-esploratore-a-grande-viaggiatore)**
