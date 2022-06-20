@@ -1,14 +1,18 @@
 ---
-title: "Vi parlo un po' di me, di quando ho capito che viaggiare per il mondo mi avrebbe cambiato la vita"
-description: "Ci sono stati momenti in cui avrei voluto rimanere chiusa in camera al buio in balia delle emozioni, altri in cui ho imparato davvero a ringraziare la vita e a crescere."
-image: "images/post/vi parlo di me_1_1.jpg"
-date: 2022-06-19T09:00:25+01:00
-categories: ["Curiosità"]
-type: "featured" # available types: [featured/regular]
-draft: false
-Victor_Hugo: "true"
-Focus_Keyword: "cambiare vita famiglia" # lista keyword su cui verificare l'ottimizzazione della pagina 
-Victor_Hugo_Clean: "false"
+title: Vi parlo un po' di me, di quando ho capito che viaggiare per il mondo mi avrebbe
+  cambiato la vita
+description: Ci sono stati momenti in cui avrei voluto rimanere chiusa in camera al
+  buio in balia delle emozioni, altri in cui ho imparato davvero a ringraziare la
+  vita e a crescere.
+image: images/post/vi parlo di me_1_1.jpg
+date: 2022-06-19T09:00:25.000+01:00
+categories:
+- Curiosità
+type: regular
+Victor_Hugo: 'true'
+Focus_Keyword: cambiare vita famiglia
+Victor_Hugo_Clean: 'false'
+
 ---
 Mi chiamo Sara. Sono nata nel 1990 sotto il segno dei pesci. Nuoto nell’*emotività* fin da bambina, quando mi nascondevo dietro a un grissino che stringevo forte come se fosse una bacchetta magica mentre passeggiavo con la mia famiglia per le vie del paese. Eppure sorridevo e salutavo. 
 I miei primi due *comandamenti*, gli *insegnamenti* di nonno e nonna: **sorridi e saluta.** Crescendo ho allungato la lista, in modo da arricchire il momento che segue quella gentilezza di un sorriso e di un saluto.
