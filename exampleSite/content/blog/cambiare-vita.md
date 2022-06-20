@@ -1,16 +1,17 @@
 ---
-title: "Non solo l’ennesimo blog: la storia di una \"famiglia bestiale\""
-description: "Di come cambiare vita, di viaggi e avventure, degli incontri sulla via, di come viaggiare con un gatto al guinzaglio."
-image: "images/post/questo blog_1.1.jpg"
-date: 2022-06-19T09:00:25+01:00
-categories: ["Curiosità"]
-type: "featured" # available types: [featured/regular]
-draft: false
-Victor_Hugo: "true"
-Focus_Keyword: "cambiare vita famiglia" # lista keyword su cui verificare l'ottimizzazione della pagina 
-Victor_Hugo_Clean: "false"
----
+title: 'Non solo l’ennesimo blog: la storia di una "famiglia bestiale"'
+description: Di come cambiare vita, di viaggi e avventure, degli incontri sulla via,
+  di come viaggiare con un gatto al guinzaglio.
+image: images/post/questo_blog_1.1.jpg
+date: 2022-06-19T09:00:25.000+01:00
+categories:
+- Curiosità
+type: featured
+Victor_Hugo: 'true'
+Focus_Keyword: cambiare vita famiglia
+Victor_Hugo_Clean: 'false'
 
+---
 Perché questo blog? Cosa ci può essere di nuovo da scrivere, dire o mostrare nel 2022?  
 Si può ancora ascoltare quella voce dentro di sé che dice di far qualcosa per non seppellirsi sotto le lamentele quotidiane e cambiare finalmente quella vita che non ci si sente cucita addosso? Noi vogliamo **crederci**. Noi vogliamo **provarci**.  
 Abbiamo iniziato a condividere la passione per i viaggi e per i cambiamenti 5 anni fa, quando pensavamo che una distanza di 100 km non ci avrebbe permesso di portare avanti una relazione stabile e creare una famiglia. Abbiamo cambiato idea, abbiamo prenotato quel treno per Parigi, e abbiamo iniziato a darci una *possibilità*. 
@@ -29,4 +30,3 @@ Quando avevo 10 anni sognavo di sposarmi a 21, arrivare all’altare su di un ca
 Di cosa parleremo quindi in questo blog? Di cambiamenti, di viaggi e avventure, delle vite altrui che incontreremo sulla nostra via, e di come viaggiare con un gatto al guinzaglio possa essere un biglietto da visita estremamente interessante. Nulla di troppo nuovo. Ma *tutto molto molto personale*. Speriamo di catturare un po’ la vostra attenzione e regalarvi anche solo una piccola parte delle emozioni che a noi piace vivere sulla pelle.
 
 ![Una nuova avventura](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1655735460/Articoli/questo_blog_1.2_snz7mt.jpg)
-
