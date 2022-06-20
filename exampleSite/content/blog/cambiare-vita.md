@@ -2,7 +2,7 @@
 title: 'Non solo l’ennesimo blog: la storia di una "famiglia bestiale"'
 description: Di come cambiare vita, di viaggi e avventure, degli incontri sulla via,
   di come viaggiare con un gatto al guinzaglio.
-image: images/post/questo_blog_1.1.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1655735460/Articoli/questo_blog_1.2_snz7mt.jpg
 date: 2022-06-19T09:00:25.000+01:00
 categories:
 - Curiosità
