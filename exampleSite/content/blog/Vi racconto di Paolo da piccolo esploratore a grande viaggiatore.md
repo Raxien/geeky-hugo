@@ -1,14 +1,16 @@
 ---
-title: "Vi racconto di Paolo: da piccolo esploratore a grande viaggiatore"
-description: "Un ragazzo, il mondo intero da scoprire, la voglia di uscire dagli schemi e sentirsi parte di tutto ciò che ci circonda"
-image: "images/post/Vi racconto di Paolo_1.jpg"
-date: 2022-06-19T09:00:25+01:00
-categories: ["Curiosità"]
-type: "featured" # available types: [featured/regular]
-draft: false
-Victor_Hugo: "true"
-Focus_Keyword: "cambiare vita famiglia" # lista keyword su cui verificare l'ottimizzazione della pagina 
-Victor_Hugo_Clean: "false"
+title: 'Vi racconto di Paolo: da piccolo esploratore a grande viaggiatore'
+description: Un ragazzo, il mondo intero da scoprire, la voglia di uscire dagli schemi
+  e sentirsi parte di tutto ciò che ci circonda
+image: images/post/Vi racconto di Paolo_1.jpg
+date: 2022-06-19T09:00:25.000+01:00
+categories:
+- Curiosità
+type: regular
+Victor_Hugo: 'true'
+Focus_Keyword: cambiare vita famiglia
+Victor_Hugo_Clean: 'false'
+
 ---
 Paolo è nato in una famiglia in cui sia madre che padre hanno due grandi passioni: *viaggiare e scoprire*. Dal momento in cui li ho incontrati ho capito che avrebbero avuto sempre qualcosa da raccontare. Ed ero affascinata ogni volta dai loro ricordi. 
 Poteva quel piccolo esploratore non diventare un grande viaggiatore? Ecco quindi un Paolo alle scuole elementari immortalato in giro per l’Europa e poi un adulto che decide di allargare un po’ gli orizzonti volando verso l’Asia e verso l’America. 
