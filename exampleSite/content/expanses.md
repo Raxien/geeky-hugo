@@ -6,10 +6,10 @@ layout: expanses
 Victor_Hugo: "false"
 Focus_Keyword: "expanses"
 ---
-Per permetterci questa scelta di vita abbiamo risparmiato giorno per giorno e lo stiamo facendo ancora. Ci piace da sempre tenere conto delle spese, per cui ecco dei [grafici](#chart) o la [tabella](#tblSpese) dove teniamo traccia di tutte le spese e di come questo viaggio potrà davvero mantenersi nei mesi.  
+Per permetterci questa scelta di vita abbiamo risparmiato giorno per giorno e lo stiamo facendo ancora. Ci piace da sempre tenere conto delle spese, per cui ecco dei [grafici](#chart) e la [tabella](#tblSpese) dove teniamo traccia di tutte le spese e di come questo viaggio potrà davvero mantenersi nei mesi.  
 
 
-Usiamo come supporto l’applicazione Splitwise (che potete scaricare **[qui se avete iPhone](https://apps.apple.com/us/app/splitwise/id458023433)** o **[qui se avete Android](https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile)**) che ci aiutava già nella gestione delle spese di casa. Basta inserire la spesa fatta, indicizzarla secondo una categoria ed inserire chi ha pagato, vi aiuterà anche a condividere le spese dei viaggi in amicizia!
+Usiamo come supporto l’applicazione Splitwise (che potete scaricare **[qui se avete iPhone](https://apps.apple.com/us/app/splitwise/id458023433)** o **[qui se avete Android](https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile)**) che ci aiutava già nella gestione delle spese di casa. Basta inserire la cifra, indicizzarla secondo una categoria ed inserire chi ha pagato e i calcoli sono fatti.
 <!-- section break -->
 #### Resoconto mensile
 

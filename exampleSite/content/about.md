@@ -13,3 +13,10 @@ Con noi vive Olimpia, una rottweiler di 9 anni. La dolcezza fatta a cane. Sa il 
 Sakè è l’ultimo arrivato, un gattino europeo che rischiava di fare una brutta fine. L’abbiamo arruolato e da quel momento non ha smesso di stupirci. E' curioso e amante dell’avventura, non poteva che essere dei nostri.
 
 Tutti e quattro siamo grandi camminatori, amanti del timido sole del mattino e dell’arietta fresca della sera. Ci emoziona fermarci per strada e chiacchierare con chi si incuriosisce vedendo questa buffa famiglia a passeggio. Ci piace pensare ad un itinerario e poi perderci nei dettagli scovati per caso.. **se sentite ridere in lontananza potremmo essere noi**.
+
+Se vuoi sapere di più leggi gli articoli su di noi:
+
+- **[Non solo l’ennesimo blog: la storia di una “famiglia bestiale”](https://www.vandipety.it/blog/cambiare-vita/)**
+- **[Non solo l’ennesimo blog: la storia di una “famiglia bestiale”](https://www.vandipety.it/blog/cambiare-vita/)**
+- **[Non solo l’ennesimo blog: la storia di una “famiglia bestiale”](https://www.vandipety.it/blog/cambiare-vita/)**
+- **[Non solo l’ennesimo blog: la storia di una “famiglia bestiale”](https://www.vandipety.it/blog/cambiare-vita/)**

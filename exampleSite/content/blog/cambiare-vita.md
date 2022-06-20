@@ -1,7 +1,7 @@
 ---
 title: "Non solo l’ennesimo blog: la storia di una \"famiglia bestiale\""
 description: "Di come cambiare vita, di viaggi e avventure, degli incontri sulla via, di come viaggiare con un gatto al guinzaglio."
-image: "images/post/post-1.png"
+image: "images/post/questo blog_1.1.jpg"
 date: 2022-06-19T09:00:25+01:00
 categories: ["Curiosità"]
 type: "featured" # available types: [featured/regular]
@@ -28,4 +28,5 @@ Non ci spaventa non sfruttare il nostro titolo di studio. Non perché ci sentiam
 Quando avevo 10 anni sognavo di sposarmi a 21, arrivare all’altare su di un cavallo bianco, di lì a poco avere 3 figli e vivere per sempre nel mio paesino d’origine. Oggi ho 32 anni, un van di colore bianco che di cavalli ne ha molti di più sulla carta, un cane, un gatto e una persona che mi ha fatto la richiesta forse più giusta che potessi ricevere: **rischiamo di essere felici insieme?**   Si, lo voglio.  
 Di cosa parleremo quindi in questo blog? Di cambiamenti, di viaggi e avventure, delle vite altrui che incontreremo sulla nostra via, e di come viaggiare con un gatto al guinzaglio possa essere un biglietto da visita estremamente interessante. Nulla di troppo nuovo. Ma *tutto molto molto personale*. Speriamo di catturare un po’ la vostra attenzione e regalarvi anche solo una piccola parte delle emozioni che a noi piace vivere sulla pelle.
 
+![Una nuova avventura](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1655735460/Articoli/questo_blog_1.2_snz7mt.jpg)
 
