@@ -1,8 +1,8 @@
 ---
 title: "Visitare Venezia con cane e gatto? Scoprite con noi come fare"
 description: "Erano anni che volevamo visitare la Serenissima, ma poterlo fare con Olimpia e Sakè è stato veramente emozionante. Un tour decisamente diverso dai soliti, ma che ci ha portati ad incontrare un sacco di sorrisi incuriositi."
-image: "images/post/Perchè il nome gattodicitturin_1.2.jpg"
-date: 2022-06-19T10:00:25+01:00
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1655741328/Articoli/venezia_1_2_qhbppl.jpg
+date: 2022-06-20T10:09:00+01:00
 categories: ["Viaggiare", "Italia"]
 type: "featured" # available types: [featured/regular]
 draft: false
@@ -21,6 +21,8 @@ Per visitare in tranquillità Venezia con il proprio cane e gatto è obbligatori
 Ormai è molto semplice fare una ricerca sui siti di pernottamento utilizzando il filtro "animali ammessi" per capire se essi sono ben accetti presso la struttura in cui vorreste soggiornare. Questo può valere sia per alberghi che per appartamenti in centro città, sia nei sobborghi se il vostro budget richiede una spesa meno costosa. 
 Per quanto riguarda noi, abbiamo soggiornato con il camper in una zona vicino a Mestre, precisamente Campalto, da cui abbiamo raggiunto Venezia comodamente in pullman (circa 15 minuti, passaggio ogni 20 minuti in giornata, meno tratte la sera)
 
+![Noi a murano](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1655741328/Articoli/venezia_1_3_kgg5vs.jpg "murano")
+
 ##### Come fare sui mezzi di trasporto
 
 Dal punto di vista dei trasporti, Venezia è sicuramente una città pet friendly. I cani di tutte le taglie sono ammessi gratuitamente, nel numero massimo di un animale per ogni viaggiatore, sia sui mezzi pubblici ACTV (vaporetto,traghetto), sia sui bus e tram che collegano Venezia a Mestre (eccezion fatta per i treni). Ovviamente dovrete avere con voi guinzaglio e museruola, che noi abbiamo fatto indossare ad Olimpia in quanto cane di grossa taglia.
@@ -31,6 +33,8 @@ I biglietti per i pullman sono acquistabili presso le tabaccherie e costano 1.5�
 Sicuramente è necessario scegliere la stagione giusta per far sì che la visita sia piacevole per tutta la famiglia. Noi siamo arrivati a fine maggio, colti da un caldo estivo che non ci aspettavamo. Per questo motivo mi sento di sconsigliarvi l'estate e i periodi molto affollati (ad esempio il Carnevale). Date le temperature noi ci siamo limitati a visitare la vittà nel tardo pomeriggio e nell'ora di cena, quando la maggior parte delle persone era ormai rientrata o in cerca di un buon pasto. 
 In circa 3 orette abbiamo passeggiato per i vicoli, attraversato ponti e visto da fuori i principali siti turistici: tenete a mente che cani e gatti non possono entrare in chiese e musei, quindi dovrete fare a cambio per restare fuori con loro o pensare, perchè no, di tornare un domani.
 Poi con le luci della notte che si mescolavano con gli ultimi raggi del sole ci siamo "volutamente persi", passeggiando senza una meta precisa. Ci siamo fermati a chiacchierare con chi sorrideva incuriosito vedendoci con un gatto al guinzaglio, a parlare inglese con turisti da ogni dove, a osservare le gondole condotte da un marinaio che a volte fischietta, a volte canticchia, a volte si lascia anche lui cullare da quella magica città.
+
+![Un ritratto bellissimo](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1655741327/Articoli/venezia_1_1_bkvemq.jpg "Un ritratto di sakè")
 
 ##### Gita alle isole? Tutto è possibile
 
