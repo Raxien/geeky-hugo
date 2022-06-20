@@ -93,9 +93,7 @@
       </div>
     </div>
 
-    <br>
-    <br>
-
+    <a name="chart"></a>
     <div class="row">
       <div class="col-md-6">
          <div class="border rounded p-4">
@@ -117,8 +115,8 @@
 
     <br>
     <br>
-
-    <div id="tblSpese"></div>
+    
+    <div id="tblSpese" name="tblSpese"></div>
 
     <br>
     <br>
@@ -290,13 +288,23 @@ var getSW = function () {
     const _labels2 = Object.keys(obj2);
     const _data2 = Object.values(obj2);
 
+    
+    i = 0;
+    while(i < _labels2.length){
+      if(document.getElementById('total' + _labels2[i]) != null)
+        document.getElementById('total' + _labels2[i]).innerText = obj2[_labels2[i]];
+       
+      i++;
+    }
+    // document.getElementById('totalMaggio').innerText = obj2[];
+
     const myChart2 = new Chart(ctx2, {
         type: 'bar',
         data: {
-            labels: _labels2, //['Cibo', 'Benzina', 'Manutenzione', 'Servizi', 'Varie', 'Animali'],
+            labels: _labels2.reverse(), //['Cibo', 'Benzina', 'Manutenzione', 'Servizi', 'Varie', 'Animali'],
             datasets: [{
                 label: 'Euro',
-                data: _data2, 
+                data: _data2.reverse(), 
                 backgroundColor: color,
                 borderColor: color,
                 borderWidth: 1

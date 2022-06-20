@@ -1,7 +1,7 @@
 about_widget_content = "Se sentite ridere in lontananza potremmo essere noi."
 address = ""
 author = "Sara"
-contact_form_action = "#"
+contact_form_action = "javascript: sendMail();"
 copyright = ""
 custom_script = ""
 description = "This is meta description"

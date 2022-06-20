@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
 <!--=================== contact section start ===================-->
 <section class="section contact">
   <div class="container">
@@ -17,13 +19,13 @@
             <span class="text-primary"> messaggio <i class="fas fa-arrow-right ms-2"></i></span>
           </h3>
           <form action="{{site.Params.contact_form_action | safeURL}}" method="POST">
-            <div class="form-group">
+            <!-- <div class="form-group">
               <label for="name" class="form-label">Nome <small>*</small></label>
-              <input type="text" class="form-control" name="name" id="name" placeholder="Mario Rossi" required>
-            </div>
+              <input type="text" class="form-control" name="name" id="name" placeholder="Sakè Olimpia" required>
+            </div> -->
             <div class="form-group">
               <label for="email" class="form-label">Email <small>*</small></label>
-              <input type="email" name="email" class="form-control" id="email" placeholder="example@email.com" required>
+              <input type="email" name="email" class="form-control" id="email" placeholder="esempio@email.com" required>
             </div>
             <div class="form-group">
               <label for="isSponsor" class="form-label">Sei un'azienda?</label>              
@@ -92,7 +94,81 @@
       {{ end }}
     </div>
   </div>
+
+  <div id="emailRecived" class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Email ricevuta</h5>
+          <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button> -->
+        </div>
+        <div class="modal-body">
+          <p id="result"></p>
+        </div>
+        <div class="modal-footer">
+          <button id="close" type="button" class="btn btn-primary" data-dismiss="modal">Chiudi</button>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 <!--=================== contact section start ===================-->
 
+<!--=================== expanses script start ===================-->
+<script>
+
+  //let rpcUrl = "http://localhost:3000";
+  let rpcUrl = "https://vandipety-api.herokuapp.com";
+  var sendMail = function () {
+    console.log('getting data');
+    
+    let data = {
+        "from": $("#email").val(),
+        "isSponsor": $("#isSponsor").is(':checked')? 1 : 0,
+        "subject":$("#subject").val(),
+        "text": $("#message").val()
+    }
+
+    // debugger;
+    
+    console.log(data);
+    $.ajax({
+      type: 'GET', // added,
+      url: rpcUrl + "/mail/sendMail",
+      contentType: "application/json; charset=utf-8",
+      data: data, //JSON.stringify(data),
+      success: function (data) {
+        console.log(data);
+        res = data.json;
+        manageResult('Abbiamo ricevuto la tua email.');
+        return data;
+      },
+      error: function (xhr, status, error) {
+        manageResult('Non siamo riusciti a ricevere la tua email :( riprova più tardi.');
+      }
+      });
+    }
+  
+    var manageResult = function(message){
+      
+      $("#email").val('');
+      $("#isSponsor").removeAttr('checked');
+      $("#subject").val('');
+      $("#message").val('');
+
+      $("#result").html(message);
+
+      $("#emailRecived").modal('show');
+    }
+
+    $( document ).ready(function() {
+      $("#close").on('click', function(){
+        $("#emailRecived").modal('hide');
+
+      })
+    });
+    </script>
+<!--=================== expanses script end ===================-->
 {{ end }}
