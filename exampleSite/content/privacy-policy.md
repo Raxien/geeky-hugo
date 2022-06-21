@@ -46,7 +46,7 @@ draft: false
 <p><strong>Dati di utilizzo</strong> si riferisce ai dati raccolti automaticamente, generati dall'utilizzo del Servizio o dall'infrastruttura del Servizio stesso (ad esempio, la durata di una visita alla pagina).</p>
 </li>
 <li>
-<p><strong>Sito web</strong> si riferisce a Vandipety, accessibile da <a href="http://www.vandipety.it" rel="external nofollow noopener" target="_blank">http://www .vandipety.it</a></p>
+<p><strong>Sito web</strong> si riferisce a Vandipety, accessibile da <a href="http://www.vandipety.it" rel="external nofollow noopener" target="_blank">http://www.vandipety.it</a></p>
 </li>
 <li>
 <p><strong>Tu</strong> indica la persona fisica che accede o utilizza il Servizio, o la società o altra persona giuridica per conto della quale tale persona accede o utilizza il Servizio, a seconda dei casi.</p>
@@ -77,4 +77,23 @@ draft: false
 <li>Twitter</li>
 <li>Disqus</li>
 </ul>
+
+<h2>Dettagli sul trattamento dei Dati Personali</h2>
+<p>I Dati Personali sono raccolti per le seguenti finalità ed utilizzando i seguenti servizi:</p>
+
+<p>Interazione con social network e piattaforme esterne</p>
+
+<p>Questo tipo di servizi permette di effettuare interazioni con i social network, o con altre piattaforme esterne, direttamente dalle pagine di riccardo.im. Le interazioni e le informazioni acquisite da riccardo.im sono in ogni caso soggette alle impostazioni privacy dell’Utente relative ad ogni social network. Nel caso in cui sia installato un servizio di interazione con i social network, è possibile che, anche nel caso gli Utenti non utilizzino il servizio, lo stesso raccolga dati di traffico relativi alle pagine in cui è installato.</p>
+
+<h3>Contenuti su piattaforme esterne</h3>
+
+<p>Questi servizi permettono di visualizzare contenuti ospitati su piattaforme esterne direttamente dalle pagine di questo Sito e di interagire con essi. Nel caso in cui sia installato un servizio di questo tipo, è possibile che, anche nel caso gli Utenti non utilizzino il servizio, lo stesso raccolga dati di traffico relativi alle pagine in cui è installato.</p>
+
+<h3>Google Analytics (Google Ireland Limited)</h3>
+
+<p>Google Analytics è un servizio di analisi web fornito da Google Ireland Limited (“Google”). Google utilizza i Dati Personali raccolti allo scopo di tracciare ed esaminare l’utilizzo di questo Sito, compilare report e condividerli con gli altri servizi sviluppati da Google. Google potrebbe utilizzare i Dati Personali per contestualizzare e personalizzare gli annunci del proprio network pubblicitario. Al seguente link https://tools.google.com/dlpage/gaoptout?hl=it è inoltre reso disponibile da Google il componente aggiuntivo del browser per la disattivazione di Google Analytics</p>
+
+Dati personali raccolti: Cookie e Dati di utilizzo. Luogo del trattamento : USA – Privacy Policy – Opt Out
+
 <p>Se decidi di registrarti o di concederci in altro modo l'accesso a un servizio di social media di terze parti, potremmo raccogliere dati personali già associati all'account del tuo servizio di social media di terze parti, come il tuo nome, il tuo annuncio e-mail
+

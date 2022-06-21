@@ -1,7 +1,7 @@
 baseURL = "https://www.vandipety.it"
 disableLanguages = ["fr"]
 disqusShortname = "vandipety-it"
-googleAnalytics = ""
+googleAnalytics = "G-E9L2CG2NZ6"
 languageCode = "it-IT"
 languageName = "It"
 paginate = "6"
