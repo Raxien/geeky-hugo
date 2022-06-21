@@ -1,5 +1,6 @@
 {{ $logoPath:= site.Params.logo }}
 {{ $logoWidth:= replace site.Params.logo_width "px" "x" }}
+{{ $logoHeight:= replace site.Params.logo_height "px" "x" }}
 
 <!-- checking logo existance -->
 {{ if $logoPath }}
@@ -10,6 +11,7 @@
 {{ $logoExt := path.Ext $logo }}
 {{ if eq $logoExt ".gif" }}
 {{ .Scratch.Set "logo" ($logo.Resize $logoWidth).RelPermalink }}
+{{ .Scratch.Set "logo" ($logo.Resize $logoHeight).RelPermalink }}
 <!-- checking svg -->
 {{ else if eq $logoExt ".svg"}}
 {{ .Scratch.Set "logo" $logo.RelPermalink }}
@@ -26,7 +28,7 @@
 {{ end }}
 
 <img loading="prelaod" decoding="async" class="img-fluid logoOther" {{if ne $logoExt `.svg`}}
-  width="{{$logoWidth | default $logo.Width}}" height="{{$logo.Height}}" {{end}} src="{{.Scratch.Get `logo`}}"
+  width="{{$logoWidth | default $logo.Width}}" height="{{$logoHeight | default $logo.Height}}" {{end}} src="{{.Scratch.Get `logo`}}"
   alt="{{ site.Title }}" onerror="this.onerror=null;this.src='{{.Scratch.Get `logo_fallback`}}'">
 {{ else }}
 <strong class="text-danger">`{{$logoPath}}` doesn't exist</strong>
