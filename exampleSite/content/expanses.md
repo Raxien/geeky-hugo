@@ -10,8 +10,17 @@ Per permetterci questa scelta di vita abbiamo risparmiato giorno per giorno e lo
 
 
 Usiamo come supporto l’applicazione Splitwise (che potete scaricare **[qui se avete iPhone](https://apps.apple.com/us/app/splitwise/id458023433)** o **[qui se avete Android](https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile)**) che ci aiutava già nella gestione delle spese di casa. Basta inserire la cifra, indicizzarla secondo una categoria ed inserire chi ha pagato e i calcoli sono fatti.
+
+Nei calcoli non sono inclusi i costi dell'assicurazione e bollo del van (che potete trovare **[qui](https://vandipety.it/van)**) in quanto esse variano in base alla tipologia e valore del mezzo. Tale esclusione e dovuta al fatto che vogliamo dare un calcolo più preciso in merito al costo della vita da fulltime vanlifers a prescindere dai costi del mezzo. Per quanto riguarda i costi di manutenzione, questi verranno inclusi.
+
+Per quanto riguarda la connessione ad Internet momentaneamente ci affidiamo a due operatori differenti (**[OGILink](http://ogilink.it)** con 400 Giga al mese e **[Broker per la telefonia](https://www.brokerperlatelefonia.it)** con SIM dati Illimitata) in quanto abbiamo la necessità lavorative di essere sempre connessi. 
+
 <!-- section break -->
 #### Resoconto mensile
+
+###### Aprile 
+
+- Abbiamo speso <label id="totalaprile"></label> €. Le spese di questo mese sono per lo più relative alla scorta alimentare pre viaggio e al pagamento di più mensilità su due operatori diversi per avere internet illimitato all'estero.
 
 ###### Maggio 
 

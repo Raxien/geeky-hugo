@@ -24,7 +24,7 @@ weight = 2
 [[main]]
 name = "Diamo i numeri"
 url = "#"
-weight = 5
+weight = 6
 hasChildren = true
 
   [[main]]
@@ -44,6 +44,11 @@ hasChildren = true
   name = "Il van"
   url = "van/"
   weight = 3
+
+[[main]]
+name = "Parlano di noi"
+url = "press/"
+weight = 6
 
 # [[main]]
 # name = "Pagine"

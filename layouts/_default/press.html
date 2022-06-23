@@ -79,16 +79,14 @@
 </section>
 <script>
   let rpcUrl = "https://vandipety-api.herokuapp.com";
-
-  const _READING = "R";
-  const _FINISH = "F";
-
-  function capitalizeFirstLetter(string) {
-    return string.charAt(0).toUpperCase() + string.slice(1);
-  }
+  let _url = "press";
 
   let liElement = function(data) {
-    return '<li><strong><a href="' + data.url + '">' + data.title + '</a></strong> di ' + data.author +  '</li>';
+    return '<li><strong><a href="' + data.url + '">' + data.title + '</a></strong> (' + data.info.replace('#', data.data) +  ')</li>';
+  }
+
+  function comp(a, b) {
+  return new Date(a.data).getTime() - new Date(b.data).getTime();
   }
 
   let buildList = function () {
@@ -96,32 +94,30 @@
       console.log('getting data');
       $.ajax({
         type: 'GET', // added,
-        url: rpcUrl + "/data/books",
+        url: rpcUrl + "/data/" + _url,
         contentType: "application/json",
         success: function (data) {
           // debugger;
           console.log(data);
           res = data.json;
           
-          let nowId = "#nowReading", justId = "#justEnded", otherId = "#otherBook";
+          res.sort(comp);
+          // console.log(ret);
+
+          let id = "#press";
           let i = 0;
           while(i < res.length ){
             let element = res[i];
-            console.log(res[i]);
-            // debugger;
-            if(element.status === _READING)
-              $(nowId).append(liElement(element));
-            else if(element.status === _FINISH)
-              $(justId).append(liElement(element));
-            else {
-              if($('#' + element.Type).val() === undefined ){
-                $(otherId).append('<h5>' + capitalizeFirstLetter(element.Type) + '</h5>');
-                $(otherId).append('<ul id="' + element.Type + '"></ul>')
-              }
+            // console.log(element);
 
-              $('#' + element.Type).append(liElement(element));
+            let year = element.data.split('/')[2];
+            if($('#' + year).val() === undefined ){
+              $(id).append('<h5>' + year + '</h5>');
+              $(id).append('<ul id="' + year + '"></ul>')
             }
 
+            $('#' + year).append(liElement(element));
+            
             i++;
           }
 

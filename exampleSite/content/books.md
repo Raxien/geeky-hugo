@@ -8,32 +8,11 @@ layout: books
 
 Di seguito un elenco, mai completo, di tutti i libri che stiamo leggendo, che abbiamo letto e che abbiamo trovato interessanti. I link portano all'affiliazione di Amazon che ci permette di re-investire in altri libri.
 
-
 ##### Stiamo leggendo:
->- **[La quarta dimension](https://amzn.to/3O2XDcD)** di Liu Cixin
+<div><blockquote><ul id="nowReading"></ul></blockquote></div>
 
 ##### Appena finiti:
->- **[La materia del cosmo](https://amzn.to/3tH2Wqg)** di Liu Cixin
+<div><blockquote><ul id="justEnded"></ul></blockquote></div>
 
-##### Fantascienza
-- **[Il problema dei tre corpi](https://amzn.to/3IpvsRK)** di Liu Cixin
-
-##### Viaggi
-- **[Lula star panamericana](https://amzn.to/3AEQvxl)** di Franco Ballatore 
-- **[Un indovino mi disse](https://amzn.to/36qyNmA)** di Tiziano Terzani
-- **[Le coordinate della felicità. Di sogni, viaggi e pura vita](https://amzn.to/385Ozne)** di Gianluca Gotto
-
-##### Narrativa
-- **[Via della Magnolie 11](https://amzn.to/3ILwurN)** di Stefania Betola
-- **[Shantaram](https://amzn.to/3tIMSoc)** di Gregory David Roberts
-- **[Tokyo tutto l'anno. Viaggio sentimentale nella grande metropoli](https://amzn.to/36yhGz9)** Laura Imai Messina 
-- **[Eleanor Oliphant sta benissimo](https://amzn.to/36sKp8C)** di Gail Honeyman
-- **[Cronache di un gatto viaggiatore](https://amzn.to/3NpLSwL)** di Hiro Arikawa 
-- **[I quaderni botanici di madame lucie ](https://amzn.to/3JJJ5MJ)** di Mélissa Da Costa 
-- **[Il romanzo di sant Jordi](https://amzn.to/3GU2RDS)** di Màrius Serra
-
-##### Filosofici
-- **[Yoga](https://amzn.to/35hMWlo)** di Emmanuel Carrère
-
-
+<div id="otherBook"></div>
 
