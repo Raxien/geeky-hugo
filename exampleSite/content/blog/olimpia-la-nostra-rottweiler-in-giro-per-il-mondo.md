@@ -1,22 +1,23 @@
-+++
-Focus_Keyword = "cane rottweiler"
-Victor_Hugo = "true"
-Victor_Hugo_Clean = "false"
-categories = ["Curiosità", "Animali"]
-date = 2022-06-24T11:00:00Z
-description = "Si possono organizzare le vacanze con un rottweiler? Noi ne abbiamo fatto uno stile di vita!"
-image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1656067861/Articoli/olimpia_rottweiler_1_1_vsnlwf.jpg"
+---
 title = "Olimpia: la nostra rottweiler in giro per il mondo"
-type = "featured"
+description: "Si possono organizzare le vacanze con un rottweiler? Noi ne abbiamo fatto uno stile di vita!"
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1656067861/Articoli/olimpia_rottweiler_1_1_vsnlwf.jpg
+date: 2022-06-24T12:00:00+01:00
+categories: ["Curiosità", "Animali"]
+type: "featured" # available types: [featured/regular]
+draft: false
+Victor_Hugo: "true"
+Focus_Keyword: "olimpia cane rottweiler" # lista keyword su cui verificare l'ottimizzazione della pagina 
+Victor_Hugo_Clean: "false"
+---
 
-+++
 La nostra Olimpia ha compiuto da poco 9 anni. A prima vista potrebbe intimorire: una rottweiler, la tradizione la annovera fra i cosiddetti cani da difesa pericolosi. Basta coricarsi al suo fianco per capire che si potrebbe dormire una notte intera con lei abbracciata. 
 
 Ci riteniamo immensamente *fortunati *perché si adatta a tutte le nostre idee strampalate e ci segue in tutte le nostre *avventure*. 
 
 Fino a un anno fa viaggiavamo con lei in una Fiat Grande Punto. E cercavamo solitamente Airbnb che accettassero animali, comunicando sempre in anticipo agli host la sua taglia.
 
-\#### Il primo viaggio con la nostra rottweiler
+##### Il primo viaggio con la nostra rottweiler
 
 Il primo grande viaggio vissuto insieme ad Olimpia si è svolto in Camargue e Provenza. Quattro adulti, quattro borsoni, due cappelli di paglia, due borse della spesa colme di provviste e lei con i suoi averi nel bagagliaio. Chiunque possa pensare che abbia sofferto dovrà ricredersi, perché tutte le soste lungo la strada erano pensate esattamente in modo da non farla affaticare. E non ho parole per spiegare *quanto siano stati belli quei giorni in sua compagnia*. 
 
@@ -28,4 +29,4 @@ Viaggiare con un cane al seguito può sembrare un sacrificio per padrone e anima
 
 Concluso quel viaggio di una settimana e lasciati i nostri amici a Nizza, decidemmo di vivere ancora una settimana esplorando il Piemonte settentrionale. Ovviamente in compagnia di Olimpia. Visitammo insieme montagne, laghi, paesini al confine svizzero e avere un cane al seguito si dimostrò di nuovo un valore aggiunto e per nulla un limite! Da quell’estate Olimpia vinse il posto a bordo come **compagna di avventure essenziale**, tranne quando volammo in Giappone e in Giordania, dove ci mancò davvero tanto
 
-!\[Olimpia Sara e Paolo insieme\](![](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1655735456/Articoli/la_nostra_rottweiler_in_giro_per_il_mondo_1.2_osnnun.jpg))
+![Olimpia Sara e Paolo insieme](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1655735456/Articoli/la_nostra_rottweiler_in_giro_per_il_mondo_1.2_osnnun.jpg)
