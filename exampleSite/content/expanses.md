@@ -18,13 +18,9 @@ Per quanto riguarda la connessione ad Internet momentaneamente ci affidiamo a du
 <!-- section break -->
 #### Resoconto mensile
 
-###### Aprile 
-
-- Abbiamo speso <label id="totalaprile"></label> €. Le spese di questo mese sono per lo più relative alla scorta alimentare pre viaggio e al pagamento di più mensilità su due operatori diversi per avere internet illimitato all'estero.
-
 ###### Maggio 
 
-- Abbiamo speso <label id="totalmaggio"></label> €. Questo mese hanno influito sul budget il fatto che abbiamo dovuto macinare tanti kilometri (201,50 €) e il costo della visita di Venezia (bus 12 € e il traghetto per le isole 42 €).
+- Abbiamo speso <label id="totalmaggio"></label> €. Questo mese hanno influito sul budget il fatto che abbiamo dovuto macinare tanti chilometri (201,50 €) e il costo della visita di Venezia (bus 12 € e il traghetto per le isole 42 €).
 
 ###### Giugno - in corso 
 

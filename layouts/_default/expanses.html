@@ -172,6 +172,7 @@ var getSW = function () {
           travelingSumCost += parseFloat(data.res[i].cost);
         i++;
       }
+      
       travelingSumCost = Math.round((travelingSumCost + Number.EPSILON) * 100) / 100
 
       document.getElementById('travelingSumCost').innerText = travelingSumCost + ' €';
