@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1655735460/Art
 date: 2022-06-20T09:18:00.000+01:00
 categories:
 - Curiosità
-type: featured
+type: regular
 Victor_Hugo: 'true'
 Focus_Keyword: cambiare vita famiglia
 Victor_Hugo_Clean: 'false'

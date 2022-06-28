@@ -4,7 +4,7 @@ description: "Si possono organizzare le vacanze con un rottweiler? Noi ne abbiam
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1656067861/Articoli/olimpia_rottweiler_1_1_vsnlwf.jpg
 date: 2022-06-24T12:00:00+01:00
 categories: ["Curiosità", "Animali"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 Victor_Hugo: "true"
 Focus_Keyword: "olimpia cane rottweiler" # lista keyword su cui verificare l'ottimizzazione della pagina 
