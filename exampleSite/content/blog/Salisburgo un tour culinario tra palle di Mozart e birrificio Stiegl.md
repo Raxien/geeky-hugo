@@ -31,4 +31,6 @@ Abbiamo poi scoperto che la città ospita "**Stiegl**", il birrificio privato pi
 
 ![Stiegl al limone](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1656413363/Articoli/salisburgo/salisburgo_1_4_ttjzxo.jpg "Stiegl al limone")
 
+Per un tour quasi in diretta clicca **[qui per vedere il reels su instagram](https://www.instagram.com/reel/CfWIULvjykh/?igshid=MDJmNzVkMjY%3D)**.
+
 E voi siete già stati a Salisburgo? Avete mai assaggiato le palle di Mozart o la birra Stiegl? Fatecelo sapere nei commenti!
