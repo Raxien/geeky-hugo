@@ -142,6 +142,7 @@ var getTripData = function () {
       res = data.json;
       
       setStartDate(res.startingDate);
+      setMontlykm(res.montlyKm);
       
       return data;
     },
@@ -183,12 +184,29 @@ var getSW = function () {
 
       setChart(data);
       setGrid(data);
+
       return data;
     },
     error: function (xhr, status, error) {
         console.log('Error: ' + error.message);
     }
     });
+  }
+
+  let setMontlykm = function(monthlyKm){
+    // aggiorna i box km del mese
+    console.log(monthlyKm);
+
+    var i = 0;
+    while(i <= monthlyKm.length){
+      debugger;
+
+      if(document.getElementById('km' + monthlyKm[i].month) != null)
+        document.getElementById('km' + monthlyKm[i].month).innerText = monthlyKm[i].endKM - (i == 0? 0 : monthlyKm[i-1].endKM);
+      i++;
+    }
+
+
   }
 
   let setStartDate = function(startDate){

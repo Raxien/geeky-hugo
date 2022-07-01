@@ -13,3 +13,6 @@ Di seguito tutti gli articoli relativi ai paesi visitati, comodamente a portata 
 ##### Italia
 >- **[Venezia](https://vandipety.it/blog/venezia-cane-gatto/)** 
 >- **[Brolo](https://vandipety.it/blog/un-gatto-a-spasso-nel-paese-dei-gatti//)** 
+
+##### Austria
+>- **[Salisburgo](https://vandipety.it/blog/salisburgo-un-tour-culinario-tra-palle-di-mozart-e-birrificio-stiegl/)** 

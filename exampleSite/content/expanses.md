@@ -22,7 +22,11 @@ Per quanto riguarda la connessione ad Internet momentaneamente ci affidiamo a du
 
 - Abbiamo speso <label id="totalmaggio"></label> €. Questo mese hanno influito sul budget il fatto che abbiamo dovuto macinare tanti chilometri (201,50 €) e il costo della visita di Venezia (bus 12 € e il traghetto per le isole 42 €).
 
-###### Giugno - in corso 
+###### Giugno 
 
 - Abbiamo speso <label id="totalgiugno"></label> €. Questo mese è inziato subito con alcune spese impreviste (170 € che hanno pesato molto. La prima dovuta alla sostituzione del rubinetto della cucina (130 €) mentre la seconda in merito a un danno al van provocato da una manovra errata (40 €).
-**[in aggiornamento]**
+Per <label id="km6"></label> anche pesato i chilometri
+
+###### Luglio - in corso 
+
+- Abbiamo speso <label id="totalluglio"></label> €. **[in aggiornamento]**
