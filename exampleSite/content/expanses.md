@@ -25,7 +25,7 @@ Per quanto riguarda la connessione ad Internet momentaneamente ci affidiamo a du
 ###### Giugno 
 
 - Abbiamo speso <label id="totalgiugno"></label> €. Questo mese è inziato subito con alcune spese impreviste (170 € che hanno pesato molto. La prima dovuta alla sostituzione del rubinetto della cucina (130 €) mentre la seconda in merito a un danno al van provocato da una manovra errata (40 €).
-Per <label id="km6"></label> anche pesato i chilometri
+Ha pesato anche la benzina (255 €) in quanto abbiamo fatto <label id="km6"></label> chilometri
 
 ###### Luglio - in corso 
 
