@@ -48,6 +48,10 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [widgets]
 sidebar = ["about", "categories", "recent-post", "newsletter"]
 [[social]]
+icon = "fab fa-youtube"
+link = "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw"
+title = "instagram"
+[[social]]
 icon = "fab fa-instagram"
 link = "https://www.instagram.com/ilgattodicitturin/"
 title = "instagram"

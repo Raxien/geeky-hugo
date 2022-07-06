@@ -4,7 +4,7 @@ description: "Siamo partiti da Torino, città in cui sono iniziate le nostre avv
 image: "images/post/il_paese_dei_gatti_1_1.jpg"
 date: 2022-06-19T09:00:25+01:00
 categories: ["Viaggiare", "Italia"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 Victor_Hugo: "true"
 Focus_Keyword: "cambiare vita famiglia" # lista keyword su cui verificare l'ottimizzazione della pagina 
