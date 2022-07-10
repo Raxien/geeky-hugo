@@ -50,7 +50,7 @@ sidebar = ["about", "categories", "recent-post", "newsletter"]
 [[social]]
 icon = "fab fa-youtube"
 link = "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw"
-title = "instagram"
+title = "youtube"
 [[social]]
 icon = "fab fa-instagram"
 link = "https://www.instagram.com/ilgattodicitturin/"

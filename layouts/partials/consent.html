@@ -109,7 +109,7 @@
   }
   function loadConsentScripts(consentValue) {
     console.log('loadConsentScripts');
-    debugger;
+    // debugger;
       scripts.forEach(function(value,key){
         if(consentValue[key] == "0")
             
@@ -134,7 +134,7 @@
   }
   function setConsentValue() {
       var elements = document.querySelectorAll('#consent-overlay input:not([disabled])');
-      debugger;
+    //   debugger;
       var consentValue = "";
       elements.forEach(function(el) {
           if(el.checked) consentValue = consentValue + "1";

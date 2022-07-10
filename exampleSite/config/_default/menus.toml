@@ -48,7 +48,7 @@ hasChildren = true
 [[main]]
 name = "Parlano di noi"
 url = "press/"
-weight = 6
+weight = 7
 
 # [[main]]
 # name = "Pagine"
