@@ -1,0 +1,5 @@
+items:
+  - title: Google Anaytics
+    description: Questo codice ci fornisce informazioni sul numero di persone che visitano il nostro sito Web, da dove provengono e su cosa stanno facendo clic.
+    is_functional: false
+    cookie: ga

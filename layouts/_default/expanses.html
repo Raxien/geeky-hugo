@@ -74,6 +74,10 @@
               <h3 id="dailyCost" class="mb-5 h5 "></h3>
             </div>
             <!-- <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Con Assicurazione e Bollo</h4>
+              <h3 id="dailyVanCost" class="mb-5 h5 "></h3>
+            </div> -->
+            <!-- <div class="col-md-3 mb-3">
               <h4 class="h5 mb-2">Spesa</h4>
               <h3 id="travelingSumCost" class="mb-5 h5 "></h3>
             </div> -->
@@ -142,7 +146,7 @@ var getTripData = function () {
       res = data.json;
       
       setStartDate(res.startingDate);
-      setMontlykm(res.montlyKm);
+      setMontlykm(res.montlyKm, res.startingKm);
       
       return data;
     },
@@ -174,14 +178,20 @@ var getSW = function () {
         i++;
       }
       
-      travelingSumCost = Math.round((travelingSumCost + Number.EPSILON) * 100) / 100
+      travelingSumCost = Math.round((travelingSumCost + Number.EPSILON) * 100) / 100;
 
       document.getElementById('travelingSumCost').innerText = travelingSumCost + ' €';
 
       let day = parseInt(document.getElementById('travelingDay').innerText);
       let costperDay = Math.round(((travelingSumCost / day) + Number.EPSILON) * 100) / 100
+
       document.getElementById('dailyCost').innerText = costperDay + ' €';
 
+      // let costperDayVan = costperDay + (1200 + 108.50) / 365; 
+      // costperDayVan = Math.round((costperDayVan + Number.EPSILON) * 100) / 100
+      // document.getElementById('dailyVanCost').innerText = costperDayVan + ' €';
+
+      
       setChart(data);
       setGrid(data);
 
@@ -193,7 +203,7 @@ var getSW = function () {
     });
   }
 
-  let setMontlykm = function(monthlyKm){
+  let setMontlykm = function(monthlyKm, startingKm){
     // aggiorna i box km del mese
     console.log(monthlyKm);
 
@@ -202,7 +212,7 @@ var getSW = function () {
       debugger;
 
       if(document.getElementById('km' + monthlyKm[i].month) != null)
-        document.getElementById('km' + monthlyKm[i].month).innerText = monthlyKm[i].endKM - (i == 0? 0 : monthlyKm[i-1].endKM);
+        document.getElementById('km' + monthlyKm[i].month).innerText = monthlyKm[i].endKM - (i == 0? startingKm : monthlyKm[i-1].endKM) + ' km';
       i++;
     }
 

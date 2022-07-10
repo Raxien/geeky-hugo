@@ -21,12 +21,12 @@ Per quanto riguarda la connessione ad Internet momentaneamente ci affidiamo a du
 
 ###### Maggio
 
-* Abbiamo speso <label id="totalmaggio"></label> €. Questo mese ha influito sul budget il fatto che abbiamo dovuto percorrere tanti chilometri (<label id="km5"></label> a fronte di una spesa di 201,50 €) e il costo dei mezzi di trasporto a Venezia (bus 12 € e il traghetto per le isole 42 €).
+* Abbiamo speso **<label id="totalmaggio"></label> €**. Questo mese ha influito sul budget il fatto che abbiamo dovuto percorrere tanti chilometri (<label id="km5"></label> a fronte di una spesa di 201,50 €) e il costo dei mezzi di trasporto a Venezia (bus 12 € e il traghetto per le isole 42 €).
 
 ###### Giugno
 
-* Abbiamo speso <label id="totalgiugno"></label> €. Questo mese è iniziato subito con alcune spese impreviste (170 €). La prima dovuta alla sostituzione del rubinetto della cucina (130 €) mentre la seconda in merito a un danno al van provocato da una manovra errata (40 €). Un altro costo che ha influito sul bilancio del mese è stata la benzina, in quanto abbiamo speso 255 € ( prezzo medio in Austria 2 €/litro) a fronte di <label id="km6"></label> .
+* Abbiamo speso **<label id="totalgiugno"></label> €**. Questo mese è iniziato subito con alcune spese impreviste (170 €). La prima dovuta alla sostituzione del rubinetto della cucina (130 €) mentre la seconda in merito a un danno al van provocato da una manovra errata (40 €). Un altro costo che ha influito sul bilancio del mese è stata la benzina, in quanto abbiamo speso 255 € ( prezzo medio in Austria 2 €/litro) a fronte di <label id="km6"></label> .
 
 ###### Luglio - in corso
 
-* Abbiamo speso <label id="totalluglio"></label> €. **\[in aggiornamento\]**
+* Abbiamo speso **<label id="totalluglio"></label> €**. **\[in aggiornamento\]**
