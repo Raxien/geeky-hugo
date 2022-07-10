@@ -2,7 +2,7 @@
 title: 'Vita da vanlifers, le spese del mese di giugno'
 description: Vogliamo tener traccia delle spese che sosterremo come fulltimevanlifers e in questo articolo vedremo nel dettaglio quelle del mese di giugno.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657440439/Articoli/spesa_giugno_pfo0lt.jpg
-date: 2022-07-10T07:00:00.000
+date: 2022-07-11T07:00:00.000
 categories: ["Spese"]
 type: featured 
 ---
