@@ -1,10 +1,13 @@
 ---
-title: 'Vita da vanlifers, le spese del mese di giugno'
-description: Vogliamo tener traccia delle spese che sosterremo come fulltimevanlifers e in questo articolo vedremo nel dettaglio quelle del mese di giugno.
+title: Vita da vanlifers, le spese del mese di giugno
+description: Vogliamo tener traccia delle spese che sosterremo come fulltimevanlifers
+  e in questo articolo vedremo nel dettaglio quelle del mese di giugno.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657440439/Articoli/spesa_giugno_pfo0lt.jpg
-date: 2022-07-11T07:00:00.000
-categories: ["Spese"]
-type: featured 
+date: 2022-07-11T08:00:00+02:00
+categories:
+- Spese
+type: featured
+
 ---
 Il totale delle spese per il mese di giugno, vivendo cone fulltimevanlifers (ovvero sempre e solo a bordo della nostra casa a 4 ruote), ammonta a **981,52 €**. Cifra da dividere per 2 persone, 4 se vogliamo contare Sakè e Olimpia che però pagano come se fossero "bambini". 
 Per quanto riguarda le nostre avventure, siamo partiti il primo del mese da Bolzano per girovagare una settimana in Trentino e dirigerci poi verso l'Austria dove abbiamo trascorso le restanti 3 settimane. In questo stato il costo della vita è un po' più elevato rispetto a quello italiano, cosa che ha influito sul totale della spesa alimentare.
