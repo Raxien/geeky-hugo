@@ -1,13 +1,12 @@
 +++
-Focus_Keyword = " viaggiare animali Italia lago Braies trentino"
+Focus_Keyword = " viaggiare animali Austria Innsbruck "
 Victor_Hugo = false
 Victor_Hugo_Clean = "false"
-categories = ["Italia", "viaggiare"]
+categories = ["viaggiare", "Austria"]
 date = 2022-07-13T10:00:00Z
-description = "Nel nostro tour di uscita dall'Italia il Trentino non era del tutto contemplato, ma i cambiamenti a volte rivelano sorprese davvero piacevoli, come questa gita in riva ad uno dei laghi più famosi della regione. \n"
-draft = true
-image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657706297/Articoli/Gita_al_lago_di_Braies.heic"
-title = "In gita al Lago di Braies con cane e gatto-(copy)"
+description = "Non avevamo aspettative sul capoluogo del Tirolo settentrionale, così ci siamo lasciati meravigliare viuzza dopo viuzza ed è stata una bellissima scoperta.\n"
+image = ""
+title = "Innsbruck: una piacevole passeggiata con cane e gatto "
 type = "regular"
 
 +++
