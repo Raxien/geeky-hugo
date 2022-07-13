@@ -11,8 +11,10 @@ Un viaggio che diventa esperienza di vita e che sappiamo quando ha avuto inizio 
 <!-- section break -->
 Di seguito tutti gli articoli relativi ai paesi visitati, comodamente a portata di un click.
 ##### Italia
+>- **[Lago di Braies](in-gita-al-lago-di-braies-con-cane-e-gatto)** 
 >- **[Venezia](https://vandipety.it/blog/venezia-cane-gatto/)** 
->- **[Brolo](https://vandipety.it/blog/un-gatto-a-spasso-nel-paese-dei-gatti//)** 
+>- **[Noale](noale-un-piccolo-borgo-a-pochi-chilometri-da-venezia)** 
+>- **[Brolo](https://vandipety.it/blog/un-gatto-a-spasso-nel-paese-dei-gatti/)** 
 
 ##### Austria
 >- **[Salisburgo](https://vandipety.it/blog/salisburgo-un-tour-culinario-tra-palle-di-mozart-e-birrificio-stiegl/)** 
