@@ -117,7 +117,9 @@ _<u>Trasferimento dati extra UE</u>:_ si.
 
 **✔️ Commenti ai post del blog**
 
-I commenti ai post del blog sono gestiti con Disqus. Qui la relativa policy: [https://help.disqus.com/en/articles/1717103-disqus-privacy-policy.](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy. "https://help.disqus.com/en/articles/1717103-disqus-privacy-policy.") L’indicazione dei dati (nome, e-mail, commento) è facoltativa, ma necessaria per accedere alla funzione.
+I commenti ai post del blog sono gestiti con Disqus. Qui la relativa policy: [https://help.disqus.com/en/articles/1717103-disqus-privacy-policy.](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy. "https://help.disqus.com/en/articles/1717103-disqus-privacy-policy.") 
+
+L’indicazione dei dati (nome, e-mail, commento) è facoltativa, ma necessaria per accedere alla funzione.
 
 <u>_Dati trattati_</u>: nome, indirizzo mail, commento scritto dall’utente.
 
