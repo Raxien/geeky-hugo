@@ -6,28 +6,23 @@ description: this is meta-description
 
 Questa privacy policy contiene informazioni importanti sul trattamento e sulla tutela dei dati personali degli Utenti del sito [www.vandipety.it](www.vandipety.it "www.vandipety.it").
 
-I dati raccolti tramite il sito sono trattati secondo i principi di correttezza, liceità, trasparenza, limitazione
+I dati raccolti tramite il sito sono trattati secondo i principi di correttezza, liceità, trasparenza, limitazione delle finalità e della conservazione, minimizzazione ed esattezza, integrità e riservatezza, come previsto dal Regolamento UE 679/2016 (GDPR).
 
-delle finalità e della conservazione, minimizzazione ed esattezza, integrità e riservatezza, come previsto dal
-
-Regolamento UE 679/2016 (GDPR).
-
-**Titolare del trattamento dei Dati**
+#### **Titolare del trattamento dei Dati**
 
 Titolare del trattamento dei dati è **Sara Moressa** – Torino, P. IVA 03471440044, mail [staff@vandipety.it](staff@vandipety.it "staff@vandipety.it"), pec: [sara.moressa@pec.it](sara.moressa@pec.it "sara.moressa@pec.it").
 
-**Sito Web**
+#### **Sito Web**
 
 **Sara Moressa** è proprietaria e titolare dei contenuti del sito www.vandipety.it d’ora in avanti “Sito”.
 
 Il Sito è ospitato su hosting gestito da Netlify - [https://www.netlify.com/privacy/](https://www.netlify.com/privacy/, "https://www.netlify.com/privacy/,"), i cui server sono situati negli Stati Uniti. Con riferimento al servizio di hosting, sussiste quindi trasferimento dati verso Paesi extra UE.
 
-**Quali dati personali sono raccolti e perché (tipo di dati, finalità e base giuridica)**
+#### **Quali dati personali sono raccolti e perché (tipo di dati, finalità e base giuridica)**
 
 Navigando su questo Sito, possono essere raccolti dati personali, come meglio specificato in seguito.
 
 Sono inoltre installati cookie, come è possibile leggere nella **cookie policy**.
-
 ✔️ **Dati di Navigazione**
 
 I sistemi informatici del sito raccolgono implicitamente, nel corso del loro funzionamento, alcuni dati personali (previsti dai protocolli di comunicazione di Internet). Questi non sono associati a soggetti specifici, se non attraverso un complesso e complicato sistema di elaborazione ed associazione con altri dati, detenuti da terzi. In questa categoria di dati personali sono compresi gli indirizzi IP o i nomi a dominio dei computer utilizzati dagli utenti che si connettono al sito, i browser e i parametri del sistema informatico utilizzato per connettersi al sito, i dati di navigazione, compreso orario della richiesta e risposta ottenuta dal server.
