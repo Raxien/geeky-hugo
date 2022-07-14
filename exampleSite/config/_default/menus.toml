@@ -11,10 +11,10 @@ name = "Chi Siamo"
 url = "about/"
 weight = 2
 
-# [[main]]
-# name = "Libri"
-# url = "books/"
-# weight = 3
+[[main]]
+name = "Libri"
+url = "books/"
+weight = 3
 
 # [[main]]
 # name = "Attrezzature"

@@ -56,13 +56,13 @@ icon = "fab fa-instagram"
 link = "https://www.instagram.com/ilgattodicitturin/"
 title = "instagram"
 [[social]]
-icon = "fab fa-facebook"
-link = "https://www.facebook.com/ilgattodicitturin"
-title = "facebook"
-[[social]]
 icon = "fab fa-tiktok"
 link = "https://vm.tiktok.com/ZMLJmLRTV/"
 title = "TikTok"
+[[social]]
+icon = "fab fa-facebook"
+link = "https://www.facebook.com/ilgattodicitturin"
+title = "facebook"
 #[[social]]
 # icon = "fas fa-store"
 # link = "https://www.almonature.com"
