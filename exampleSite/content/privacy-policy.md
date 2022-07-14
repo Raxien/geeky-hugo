@@ -89,7 +89,7 @@ _Facebook_
 
 _<u>Dati trattati</u>:_ cookie, dati di utilizzo
 
-_<u>Finalità_, base giuridica e tempo di conservazione_</u>_: vedi [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/ "https://www.facebook.com/about/privacy/")
+_<u>Finalità_, base giuridica e tempo di conservazione</u>: vedi [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/ "https://www.facebook.com/about/privacy/")
 
 _<u>Trasferimento dati extra UE</u>_: si.
 
@@ -97,7 +97,7 @@ _Twitter_
 
 _<u>Dati trattati</u>:_ cookie, dati di utilizzo
 
-_<u>Finalità_, base giuridica e tempo di conservazione_</u>_: vedi [https://twitter.com/it/privacy](https://twitter.com/it/privacy "https://twitter.com/it/privacy")
+_<u>Finalità_, base giuridica e tempo di conservazione</u>: vedi [https://twitter.com/it/privacy](https://twitter.com/it/privacy "https://twitter.com/it/privacy")
 
 _<u>Trasferimento dati extra UE</u>_: si.
 
