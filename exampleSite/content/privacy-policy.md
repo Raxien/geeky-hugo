@@ -3,9 +3,9 @@ title: Privacy Policy
 description: this is meta-description
 
 ---
-Ciao
+# Informativa sulla privacy
 
-questa privacy policy contiene informazioni importanti sul trattamento e sulla tutela dei dati personali degli Utenti del sito [www.vandipety.it](www.vandipety.it "www.vandipety.it").
+Questa privacy policy contiene informazioni importanti sul trattamento e sulla tutela dei dati personali degli Utenti del sito [www.vandipety.it](www.vandipety.it "www.vandipety.it").
 
 I dati raccolti tramite il sito sono trattati secondo i principi di correttezza, liceità, trasparenza, limitazione
 
@@ -103,7 +103,7 @@ _<u>Trasferimento dati extra UE</u>_: si.
 
 **✔️ Google Analytics 4**
 
-Analizza i dati di traffico sul sito in forma aggregata e anonima. Qui la relativa policy: 
+Analizza i dati di traffico sul sito in forma aggregata e anonima. Qui la relativa policy:
 
 [https://policies.google.com/technologies/cookies?hl=it](https://policies.google.com/technologies/cookies?hl=it "https://policies.google.com/technologies/cookies?hl=it")
 
@@ -137,7 +137,7 @@ Solo cliccando sui link (e solo in quel caso) Amazon installerà sul browser del
 
 Con riferimento al servizio di affiliazione, Amazon è titolare autonomo del trattamento dei dati, che vengono utilizzati secondo la policy societaria, pubblicata qui:
 
-[https://www.amazon.it/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200545460&amp;ref_=footer_privacy]().
+[https://www.amazon.it/gp/help/customer/display.html?ie=UTF8&nodeId=200545460&ref_=footer_privacy]().
 
 **✔️ Link ai profili social di Vandipety**
 
