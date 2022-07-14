@@ -5,7 +5,7 @@ description: this is meta-description
 ---
 Ciao
 
-questa privacy policy contiene informazioni importanti sul trattamento e sulla tutela dei dati personali degli Utenti del sito [www.vandipety.it]().
+questa privacy policy contiene informazioni importanti sul trattamento e sulla tutela dei dati personali degli Utenti del sito [www.vandipety.it](www.vandipety.it "www.vandipety.it").
 
 I dati raccolti tramite il sito sono trattati secondo i principi di correttezza, liceità, trasparenza, limitazione
 
@@ -15,7 +15,7 @@ Regolamento UE 679/2016 (GDPR).
 
 **Titolare del trattamento dei Dati**
 
-Titolare del trattamento dei dati è **Sara Moressa** – Torino, P. IVA 03471440044, mail [staff@vandipety.it](), pec: [sara.moressa@pec.it]().
+Titolare del trattamento dei dati è **Sara Moressa** – Torino, P. IVA 03471440044, mail [staff@vandipety.it](staff@vandipety.it "staff@vandipety.it"), pec: [sara.moressa@pec.it](sara.moressa@pec.it "sara.moressa@pec.it").
 
 **Sito Web**
 
@@ -205,8 +205,8 @@ j) proporre reclamo ad un’Autorità di controllo.
 
 **Modalità di esercizio dei diritti**
 
-Per l’esercizio dei suddetti diritti o per ricevere chiarimenti o altre informazioni in merito al trattamento dei dati personali, è possibile scrivere all’indirizzo e-mail [staff@vandipety.it]() sarà data una risposta entro 30 giorni.
+Per l’esercizio dei suddetti diritti o per ricevere chiarimenti o altre informazioni in merito al trattamento dei dati personali, è possibile scrivere all’indirizzo e-mail [staff@vandipety.it](staff@vandipety.it "staff@vandipety.it") sarà data una risposta entro 30 giorni.
 
-Se si intende proporre un reclamo all’Autorità Garante, è possibile visitare il sito [https://www.garanteprivacy.it/home/diritti/come-agire-per-tutelare-i-tuoi-dati-personali,](https://www.garanteprivacy.it/home/diritti/come-agire-per-tutelare-i-tuoi-dati-personali, "https://www.garanteprivacy.it/home/diritti/come-agire-per-tutelare-i-tuoi-dati-personali,") per ogni informazione.
+Se si intende proporre un reclamo all’Autorità Garante, è possibile visitare il sito [https://www.garanteprivacy.it/home/diritti/come-agire-per-tutelare-i-tuoi-dati-personali,]() per ogni informazione.
 
 Policy revisionata nel mese di luglio 2022.
