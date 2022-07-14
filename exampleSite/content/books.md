@@ -1,7 +1,7 @@
 ---
 title: Lista Libri
 description: Lista dei libri letti in viaggio
-image: images/books.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657831462/book_jndmhe.jpg
 layout: books
 ---
 #### Tutti i libri consigliati da noi
