@@ -1,7 +1,6 @@
 ---
 title: Privacy Policy
 description: this is meta-description
-
 ---
 # Informativa sulla privacy
 
@@ -29,7 +28,7 @@ Navigando su questo Sito, possono essere raccolti dati personali, come meglio sp
 
 Sono inoltre installati cookie, come è possibile leggere nella **cookie policy**.
 
-**✔️ Dati di Navigazione**
+✔️ **Dati di Navigazione**
 
 I sistemi informatici del sito raccolgono implicitamente, nel corso del loro funzionamento, alcuni dati personali (previsti dai protocolli di comunicazione di Internet). Questi non sono associati a soggetti specifici, se non attraverso un complesso e complicato sistema di elaborazione ed associazione con altri dati, detenuti da terzi. In questa categoria di dati personali sono compresi gli indirizzi IP o i nomi a dominio dei computer utilizzati dagli utenti che si connettono al sito, i browser e i parametri del sistema informatico utilizzato per connettersi al sito, i dati di navigazione, compreso orario della richiesta e risposta ottenuta dal server.
 
@@ -41,7 +40,7 @@ _<u>Base giuridica</u>_: legittimo interesse del Titolare.
 
 _<u>Trasferimento dati extra UE</u>_: si.
 
-**✔️ Modulo di contatto**
+✔️ **Modulo di contatto**
 
 In caso di compilazione del modulo di _<u>contatto</u>_ presente sul Sito, è richiesto all’Utente di fornire il proprio nome, cognome, telefono e l’indirizzo mail, necessari per dare seguito, da parte del Titolare, alla richiesta ricevuta.
 
@@ -65,7 +64,7 @@ _<u>Base giuridica</u>_: legittimo interesse del Titolare.
 
 _<u>Trasferimento dati extra UE</u>:_ si.
 
-**✔️ Font Awesome**
+✔️ **Font Awesome**
 
 Lo strumento fornito da fontawesome.com per mette di integrare nel sito icone di vario tipo. Qui la relativa policy: [https://fontawesome.com/privacy](https://fontawesome.com/privacy "https://fontawesome.com/privacy")
 
@@ -77,7 +76,7 @@ _<u>Base giuridica</u>:_ legittimo interesse del Titolare.
 
 _<u>Trasferimento dati extra UE</u>:_ si.
 
-**✔️ Pulsanti di condivisione social**
+✔️ **Pulsanti di condivisione social**
 
 Sono installati sul sito i pulsanti di condivisione social, che consentono all’Utente di condividere sui principali social network i contenuti del blog.
 
@@ -115,7 +114,7 @@ _<u>Base giuridica</u>:_ legittimo interesse del Titolare.
 
 _<u>Trasferimento dati extra UE</u>:_ si.
 
-**✔️ Commenti ai post del blog**
+✔️ **Commenti ai post del blog**
 
 I commenti ai post del blog sono gestiti con Disqus. Qui la relativa policy: [https://help.disqus.com/en/articles/1717103-disqus-privacy-policy.](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy. "https://help.disqus.com/en/articles/1717103-disqus-privacy-policy.") 
 
@@ -129,7 +128,7 @@ _<u>Base giuridica</u>:_ consenso dell’Utente.
 
 _<u>Trasferimento dati extra UE</u>:_ si.
 
-**✔️ Link di affiliazione ad Amazon**
+✔️ **Link di affiliazione ad Amazon**
 
 Vandipety è un membro del Programma di affiliazione Amazon UE, un programma pubblicitario di affiliazione pensato per fornire ai siti un metodo per ottenere commissioni pubblicitarie, mediante la creazione di pubblicità e link ad Amazon.
 
@@ -141,7 +140,7 @@ Con riferimento al servizio di affiliazione, Amazon è titolare autonomo del tra
 
 [https://www.amazon.it/gp/help/customer/display.html?ie=UTF8&nodeId=200545460&ref_=footer_privacy]().
 
-**✔️ Link ai profili social di Vandipety**
+✔️ **Link ai profili social di Vandipety**
 
 Sul sito sono presenti i link per accedere ai profili social (Instagram, YouTube, TikTok) collegati al Sito. Si tratta di link che conducono a pagine esterne al Sito, che comportano un trattamento dati direttamente da parte dei relativi social network, senza il coinvolgimento del Sito.
 
