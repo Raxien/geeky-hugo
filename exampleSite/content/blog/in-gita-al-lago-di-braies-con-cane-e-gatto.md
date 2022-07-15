@@ -2,7 +2,7 @@
 title: In gita al Lago di Braies con cane e gatto
 description: Non avevamo aspettative sul capoluogo del Tirolo settentrionale, così
   ci siamo lasciati meravigliare viuzza dopo viuzza ed è stata una bellissima scoperta.
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657706297/Articoli/Gita_al_lago_di_Braies.heic
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657873908/Articoli/Gita_al_lago_di_Braies.jpg
 date: 2022-07-15T10:00:00+02:00
 categories:
 - Italia
@@ -14,9 +14,9 @@ Dal giorno in cui siamo partiti abbiamo avuto un paio di imprevisti tecnici sul 
 
 Un'occasione perfetta per andare in gita sulle sponde del lago di Braies con cane e gatto.
 
-Prima di raccontarvi la nostra avventura vi segnalo un paio di informazioni utili per la visita estiva: dato il sovraffolamento di turismo, dal 10/07 al 10/09/2022 dalle ore 09.30 alle 16.00 la Valle di Braies sarà raggiungibile solo mediante mezzi pubblici, a piedi e in bici. Il transito con mezzi privati è consentito solo previa prenotazione del parcheggio o con esibizione di un valido permesso di transito (potete trovare maggiori informazioni al [**sito**](https://www.prags.bz/it)**).** 
+Prima di raccontarvi la nostra avventura vi segnalo un paio di informazioni utili per la visita estiva: dato il sovraffolamento di turismo, dal 10/07 al 10/09/2022 dalle ore 09.30 alle 16.00 la Valle di Braies sarà raggiungibile solo mediante mezzi pubblici, a piedi e in bici. Il transito con mezzi privati è consentito solo previa prenotazione del parcheggio o con esibizione di un valido permesso di transito (potete trovare maggiori informazioni al [**sito**](https://www.prags.bz/it)**).**
 
-[https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657706228/Articoli/sponda_del_lago_di_Braies.heic](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657706228/Articoli/sponda_del_lago_di_Braies.heic "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657706228/Articoli/sponda_del_lago_di_Braies.heic")
+![](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657873911/Articoli/Riva_del_lago_di_Braies.jpg)
 
 #### Come organizzare una gita al lago di Braies con cane e gatto
 
@@ -42,4 +42,4 @@ Tornando verso l'ingresso ci siamo imbattuti in molte persone che facevano il gi
 
 Evitando il sovraffolamento quindi per noi è stata una gita decisamente divertente. Vi lasciamo qualche immagine di questo bellissimo lago incastonato fra le montagne. Fateci sapere nei commenti se l'avete già visitato o se in qualche modo vi abbiamo risvegliato la curiosità di andarci, magari insieme al vostro amico a quattro zampe.
 
-[https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657706242/Articoli/Lago_di_Braies.heic](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657706242/Articoli/Lago_di_Braies.heic "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657706242/Articoli/Lago_di_Braies.heic")
+![](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657873913/Articoli/Lago_di_Braies.jpg)
