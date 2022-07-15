@@ -2,7 +2,7 @@
 categories = ["Curiosità", "viaggiare"]
 date = 2022-07-15T08:00:00Z
 description = "Non troppi anni fa si viaggiava utilizzando solo mappe cartacee e cartelli stradali. Al giorno d'oggi ci sono tantissime facilitazioni e abbiamo fatto una selezione di quelle più utili per il nostro viaggio. "
-image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657874433/Articoli/Quali_applicazioni_usiamo_in_viaggio.jpg"
+image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657879625/Articoli/app_camper_drffxr.jpg"
 title = "Quali applicazioni usiamo in viaggio e per le nostre avventure in camper? "
 type = "featured"
 
