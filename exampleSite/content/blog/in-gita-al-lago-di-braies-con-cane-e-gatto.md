@@ -7,7 +7,7 @@ date: 2022-07-15T10:00:00+02:00
 categories:
 - Italia
 - viaggiare
-type: regular
+type: featured
 
 ---
 Dal giorno in cui siamo partiti abbiamo avuto un paio di imprevisti tecnici sul nostro van: i computerini della parte elettrica non comunicavano gli stessi dati e il rubinetto della cucina non ha retto il caldo eccessivo dei giorni in Veneto, motivo per cui abbiamo dovuto cercare un'officina che potesse darci una controllata e venderci un rubinetto nuovo. La ricerca è stata più complicata del previsto, finchè abbiamo trovato aiuto a Bolzano. E quindi, dato che eravamo a due passi dalle Dolomiti e il meteo sembrava essere dalla nostra parte, abbiamo deciso di concederci qualche giorno attorniati da uno sfondo diverso rispetto alle nostre alpi piemontesi.

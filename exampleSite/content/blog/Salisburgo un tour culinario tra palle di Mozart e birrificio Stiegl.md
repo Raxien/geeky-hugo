@@ -4,7 +4,7 @@ description: Patria natale di Mozart, incastonata fra fortezze e montagne, Salis
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1656413065/Articoli/salisburgo/salisburgo_1_1_eadwpf.jpg
 date: 2022-06-28T11:00:00.000+01:00
 categories: ["Viaggiare", "Austria"]
-type: featured
+type: regular
 Victor_Hugo: 'true'
 Focus_Keyword: cambiare vita famiglia
 Victor_Hugo_Clean: 'false'
