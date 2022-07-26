@@ -2,7 +2,7 @@
 title: 'Innsbruck: una piacevole passeggiata con cane e gatto ' 
 description: "Non avevamo aspettative sul capoluogo del Tirolo settentrionale, così ci siamo lasciati meravigliare viuzza dopo viuzza ed è stata una bellissima scoperta"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657706817/Articoli/Innsbruck_a_passeggio.jpg
-date: 2022-07-26T18:00:00.000
+date: 2022-07-26T17:00:00.000
 categories: ["Viaggiare", "Austria"]
 type: regular
 ---
@@ -14,13 +14,13 @@ Abbiamo iniziato il nostro tour della città dal parco del Palazzo Imperiale: un
 Passando davanti al Palazzo Imperiale e girando sulla destra ci si addentra nel cuore del centro storico, fino ad arrivare al "Tettuccio Dorato" che si affaccia sulla piazza con la Torre Civica. Le facciate dei palazzi sono davvero ben curate e ci sono numerosi negozi, anche di prodotti tipici. Abbiamo proseguito la nostra passeggiata di Innsbruck con cane e gatto verso la statua di Sant'Anna, ammirando i palazzi e le vetrine lungo "Marie Theresien Strasse" fino a raggiungere l'Arco di Trionfo. A questo punto, essendo una giornata soleggiata, girandoci indietro ci si è aperto uno scenario spettacolare davanti agli occhi: le montagne a fare da sfondo a tutti i bellissimi edifici attraversati prima. 
 Siamo tornati verso la piazza principale con molta calma, godendoci il ritmo piacevole di questa cittadina. Prima di tornare al camper abbiamo passeggiato lungo il fiume e dato un'occhiata al Duomo di San Giacomo, che era però chiuso per lavori. 
 
-![A passeggio per le vie di Innsbruck](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657706703/Articoli/IMG_2219_2_ff0tco.heic)
+![A passeggio per le vie di Innsbruck](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1658858358/Articoli/innsbruck_2_mpp6xn.jpg)
 
 #### Cosa portare con voi
 
 Innsbruck è una città curata e ordinata, godetevi questa atmosfera che si nota ad ogni angolo. Ovviamente i miei consigli sono di non dimenticare guinzaglio, museruola, sacchetti per le deiezioni e una bella ciotola per l'acqua. Non ci abbiamo fatto troppo caso perchè avevamo due borracce con noi, ma non mi sembra di aver visto molte fontane. Se sarà una calda giornata sarà bene essere previdenti, per voi e per i vostri amici a quattro zampe. 
 
-![A passeggio per le vie di Innsbruck](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657706703/Articoli/IMG_2309_d6pkjd.heic)
+![A passeggio per le vie di Innsbruck](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1658858348/Articoli/innsbruck_3_x7lkw5.jpg)
 
 #### Dove parcheggiare il camper
 
