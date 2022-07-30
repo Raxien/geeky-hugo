@@ -1,6 +1,6 @@
 ---
 title: Vita da vanlifers, le spese del mese di giugno
-description: Vogliamo tener traccia delle spese che sosterremo come fulltimevanlifers
+description: Vogliamo tener traccia delle spese che sosterremo come fulltime vanlifers
   e in questo articolo vedremo nel dettaglio quelle del mese di giugno.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657440439/Articoli/spesa_giugno_pfo0lt.jpg
 date: 2022-07-11T08:00:00.000+02:00
