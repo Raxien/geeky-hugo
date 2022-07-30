@@ -1,10 +1,10 @@
 +++
 categories = ["Spese"]
 date = 2022-07-11T06:00:00Z
-description = "Vogliamo tener traccia delle spese che sosterremo come fulltimevanlifers e in questo articolo vedremo nel dettaglio quelle del mese di giugno."
+description = "Vogliamo tener traccia delle spese che sosterremo come fulltime vanlifers e in questo articolo vedremo nel dettaglio quelle del mese di luglio."
 draft = true
 image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657440439/Articoli/spesa_giugno_pfo0lt.jpg"
-title = "Vita da vanlifers, le spese del mese di giugno-(copy)"
+title = "Vita da vanlifers, le spese del mese di luglio"
 type = "featured"
 
 +++
