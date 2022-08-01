@@ -3,11 +3,11 @@ title: In gita al Lago di Braies con cane e gatto
 description: Non avevamo aspettative sul capoluogo del Tirolo settentrionale, così
   ci siamo lasciati meravigliare viuzza dopo viuzza ed è stata una bellissima scoperta.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657873908/Articoli/Gita_al_lago_di_Braies.jpg
-date: 2022-07-15T10:00:00+02:00
+date: 2022-07-15T10:00:00.000+02:00
 categories:
 - Italia
 - viaggiare
-type: featured
+type: regular
 
 ---
 Dal giorno in cui siamo partiti abbiamo avuto un paio di imprevisti tecnici sul nostro van: i computerini della parte elettrica non comunicavano gli stessi dati e il rubinetto della cucina non ha retto il caldo eccessivo dei giorni in Veneto, motivo per cui abbiamo dovuto cercare un'officina che potesse darci una controllata e venderci un rubinetto nuovo. La ricerca è stata più complicata del previsto, finchè abbiamo trovato aiuto a Bolzano. E quindi, dato che eravamo a due passi dalle Dolomiti e il meteo sembrava essere dalla nostra parte, abbiamo deciso di concederci qualche giorno attorniati da uno sfondo diverso rispetto alle nostre alpi piemontesi.
