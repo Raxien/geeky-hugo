@@ -117,6 +117,20 @@
       </div>
     </div>
 
+    <!-- <br>
+    <br>
+    
+    <div class="row">
+      <div class="col-md-12">
+         <div class="border rounded p-4">
+           <h2 class="mb-5 h4 title-border">Giornaliero</h2>
+           <ul class="list-styled" style="columns:2">
+             <canvas id="daily" width="400" height="200"></canvas>
+           </ul>
+         </div>
+      </div>
+    </div> -->
+
     <br>
     <br>
     
@@ -124,99 +138,98 @@
 
     <br>
     <br>
-  </div>
 
+    <!-- disqus comments -->
+    {{ if .Site.DisqusShortname }}
+    <div class="border rounded p-4">
+      {{ template "_internal/disqus.html" . }}
+    </div>
+    {{ end }}
+  </div>
 </section>
 <!--=================== expanses section end ===================-->
 
 <!--=================== expanses script start ===================-->
 <script>
 
-// let rpcUrl = "http://localhost:3000";
-let rpcUrl = "https://vandipety-api.herokuapp.com";
-var getTripData = function () {
+  // let rpcUrl = "http://localhost:3000";
+  let rpcUrl = "https://vandipety-api.herokuapp.com";
+  let tripData  = null;
+  let costperDay = null;
+  let getTripData = function () {
 
-  console.log('getting data');
-  $.ajax({
-    type: 'GET', // added,
-    url: rpcUrl + "/data/trip",
-    contentType: "application/json",
-    success: function (data) {
-      console.log(data);
-      res = data.json;
-      
-      setStartDate(res.startingDate);
-      setMontlykm(res.montlyKm, res.startingKm);
-      
-      return data;
-    },
-    error: function (xhr, status, error) {
-        console.log('Error: ' + error.message);
-    }
-    });
-}
-
-var getSW = function () {
-
-  console.log('getting data');
-  $.ajax({
-    type: 'GET', // added,
-    url: rpcUrl + "/sw/get",
-    contentType: "application/json",
-    // data: '{"data": "TEST"}',
-    //dataType: 'jsonp' - removed
-    //jsonpCallback: 'callback' - removed
-    success: function (data) {
-      console.log(data);
-      res = data;
-
-      let travelingSumCost = 0, i = 0;
-      while(i < data.res.length){
-        console.log(data.res[i])
-        if(data.res[i].deleted_by == null)
-          travelingSumCost += parseFloat(data.res[i].cost);
-        i++;
+    console.log('getting data');
+    $.ajax({
+      type: 'GET', // added,
+      url: rpcUrl + "/data/trip",
+      contentType: "application/json",
+      success: function (data) {
+        // debugger;
+        console.log(data);
+        tripData = data.json;
+        
+        setStartDate(tripData.startingDate);
+        setMontlykm(tripData.montlyKm, tripData.startingKm);
+        
+        return data;
+      },
+      error: function (xhr, status, error) {
+          console.log('Error: ' + error.message);
       }
-      
-      travelingSumCost = Math.round((travelingSumCost + Number.EPSILON) * 100) / 100;
+    });
+  }
 
-      document.getElementById('travelingSumCost').innerText = travelingSumCost + ' €';
+  let getSW = function () {
 
-      let day = parseInt(document.getElementById('travelingDay').innerText);
-      let costperDay = Math.round(((travelingSumCost / day) + Number.EPSILON) * 100) / 100
+    console.log('getting data');
+    $.ajax({
+      type: 'GET', // added,
+      url: rpcUrl + "/sw/get",
+      contentType: "application/json",
+      // data: '{"data": "TEST"}',
+      //dataType: 'jsonp' - removed
+      //jsonpCallback: 'callback' - removed
+      success: function (data) {
+        console.log(data);
 
-      document.getElementById('dailyCost').innerText = costperDay + ' €';
+        let travelingSumCost = 0, i = 0;
+        while(i < data.res.length){
+          // console.log(data.res[i])
+          if(data.res[i].deleted_by == null)
+            travelingSumCost += parseFloat(data.res[i].cost);
+          i++;
+        }
+        
+        travelingSumCost = Math.round((travelingSumCost + Number.EPSILON) * 100) / 100;
 
-      // let costperDayVan = costperDay + (1200 + 108.50) / 365; 
-      // costperDayVan = Math.round((costperDayVan + Number.EPSILON) * 100) / 100
-      // document.getElementById('dailyVanCost').innerText = costperDayVan + ' €';
+        document.getElementById('travelingSumCost').innerText = travelingSumCost + ' €';
 
-      
-      setChart(data);
-      setGrid(data);
+        let day = parseInt(document.getElementById('travelingDay').innerText);
+        costperDay = Math.round(((travelingSumCost / day) + Number.EPSILON) * 100) / 100
 
-      return data;
-    },
-    error: function (xhr, status, error) {
-        console.log('Error: ' + error.message);
-    }
+        document.getElementById('dailyCost').innerText = costperDay + ' €';
+
+        setChart(data);
+        setGrid(data);
+
+        return data;
+      },
+      error: function (xhr, status, error) {
+          console.log('Error: ' + error.message);
+      }
     });
   }
 
   let setMontlykm = function(monthlyKm, startingKm){
     // aggiorna i box km del mese
-    console.log(monthlyKm);
+    console.log('setMontlykm :' + monthlyKm);
 
     var i = 0;
-    while(i <= monthlyKm.length){
-      debugger;
-
+    while(i < monthlyKm.length){
       if(document.getElementById('km' + monthlyKm[i].month) != null)
         document.getElementById('km' + monthlyKm[i].month).innerText = monthlyKm[i].endKM - (i == 0? startingKm : monthlyKm[i-1].endKM) + ' km';
       i++;
     }
-
-
   }
 
   let setStartDate = function(startDate){
@@ -276,7 +289,10 @@ var getSW = function () {
                     'rgba(32, 102, 255, 1)',
                     'rgba(255, 159, 64, 1)',
                     'rgba(153, 102, 255, 1)',
-                    'rgba(75, 192, 192, 1)',
+                    'rgba(102, 178, 255, 1)',
+                    'rgba(153, 153, 255, 1)',
+                    'rgba(204, 255, 204, 1)',
+                    'rgba(255, 153, 153, 1)'
     ]
     const myChart = new Chart(ctx, {
         type: 'doughnut',
@@ -292,6 +308,7 @@ var getSW = function () {
         }
     }); 
 
+    // ------------------------------------------------------------------------------------------------------------
     moment.locale('it');
 
     const ctx2 = document.getElementById('monthly').getContext('2d');
@@ -316,7 +333,6 @@ var getSW = function () {
 
     const _labels2 = Object.keys(obj2);
     const _data2 = Object.values(obj2);
-
     
     i = 0;
     while(i < _labels2.length){
@@ -329,6 +345,13 @@ var getSW = function () {
 
     const myChart2 = new Chart(ctx2, {
         type: 'bar',
+        options: {
+        plugins: {
+          legend: {
+              display: false
+            }
+          }
+        },
         data: {
             labels: _labels2.reverse(), //['Cibo', 'Benzina', 'Manutenzione', 'Servizi', 'Varie', 'Animali'],
             datasets: [{
@@ -341,6 +364,133 @@ var getSW = function () {
         }
     }); 
 
+    // // ------------------------------------------------------------------------------------------------------------
+    // // daily chart
+    // const ctx3 = document.getElementById('daily').getContext('2d');
+    // var obj3 = new Object();
+
+    // let avgData = [];
+    // let avgDailyData = [];
+    // let dayCounter = 0, avgDailyCost = 0;
+
+    // let color2 = [];
+
+    // let changeStateDate = tripData.dateTrip[1];
+    // let dateCounter = 2, colorCounter = 0;
+
+    // let min = '2022-05-18', max = (new Date()).toISOString().split('T')[0];
+    // obj3 = getDaysArray(min, max);
+
+    // i = 0;
+    // while(i < data.res.length){
+
+    //   if(data.res[i].deleted_by == null){
+    //     // console.log(data.res[i].date)
+    //     let cost = parseFloat(data.res[i].cost);
+    //     let day = data.res[i].date.split('T')[0];
+        
+    //     let val = obj3[day];
+        
+    //     val = (val == undefined? 0 : val) + cost;
+
+    //     obj3[day] = Math.round((val + Number.EPSILON) * 100) / 100;
+
+    //     // // array colori
+    //     // if(changeStateDate != undefined && day >= changeStateDate.start) {
+    //     //   changeStateDate = tripData.dateTrip[dateCounter++];
+    //     // }
+
+    //     // color2.push(color[colorCounter]);
+
+    //     // array media
+    //     avgData.push(costperDay);
+
+    //     // // array media giornaliera
+    //     // avgDailyCost += cost;
+    //     // dayCounter++;
+    //     // avgDailyData.push(avgDailyCost / dayCounter);
+    //   }
+    //   i++;
+    // }
+
+    // const _labels3 = Object.keys(obj3);
+    // const _data3 = Object.values(obj3);
+
+    // // generazione array colori e media (in un secondo momento perché mi arriva l'array disordinato)
+    // i = 0;
+    // while(i < _data3.length){
+    //     cost = parseFloat(_data3[i]);
+    //     day = _labels3[i];
+
+    //     // array colori
+    //     if(changeStateDate != undefined && day >= changeStateDate.start) {
+    //       changeStateDate = tripData.dateTrip[dateCounter++];
+    //     }
+
+    //     color2.push(color[dateCounter]);
+
+    //     // array media
+    //     avgData.push(costperDay);
+
+    //     // array media giornaliera
+    //     avgDailyCost += cost;
+    //     dayCounter++;
+    //     avgDailyData.push(avgDailyCost / dayCounter);
+      
+    //   i++;
+    // }
+
+    // const myChart3 = new Chart(ctx3, {
+    //     type: 'bar',
+    //     data: {
+    //         labels: _labels3,//.reverse(), 
+    //         datasets: [{
+    //             label: 'Spesa',
+    //             data: _data3, 
+    //             backgroundColor: color2,
+    //             borderColor: color2,
+    //             borderWidth: 1,
+    //             order: 0
+    //         },
+    //         {
+    //             label: 'Media giornaliera',
+    //             data: avgDailyData, 
+    //             backgroundColor: color[0],
+    //             borderColor: color[0],
+    //             borderWidth: 1,
+    //             type: 'line',
+    //             order: 1
+    //         },
+    //         {
+    //             label: 'Media totale',
+    //             data: avgData, 
+    //             backgroundColor: color[1],
+    //             borderColor: color[1],
+    //             borderWidth: 1,
+    //             type: 'line',
+    //             order: 1
+    //         }]
+    //     },
+    //     options: {
+    //         responsive: true
+    //     }
+    // }); 
+
+  }
+
+  var getDaysArray = function(start, end) {
+    for(var arr=[],dt=new Date(start); dt<=new Date(end); dt.setDate(dt.getDate()+1)){
+        // arr.push(new Date(dt));
+        
+        // arr.push(formatDate(new Date(dt)));
+        arr[formatDate(new Date(dt))] = 0;
+    }
+    return arr;
+  };
+
+  let formatDate = function(date){
+    // let yourDate = new Date()
+    return date.toISOString().split('T')[0];
   }
 
   let setGrid = function(data) {
@@ -371,7 +521,6 @@ var getSW = function () {
                     }).render(document.getElementById("tblSpese"));
 
   }
-
 
   $( document ).ready(function() {
     getTripData();
