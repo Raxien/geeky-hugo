@@ -1,20 +1,21 @@
 +++
 categories = ["Spese"]
-date = 2022-08-01T06:00:00Z
-description = "Vogliamo tener traccia delle spese che sosterremo come fulltime vanlifers e in questo articolo vedremo nel dettaglio quelle del mese di luglio."
-draft = true
-image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657440439/Articoli/spesa_giugno_pfo0lt.jpg"
+date = 2022-09-01T10:00:00Z
+description = "Vogliamo tener traccia delle spese che sosterremo come fulltime vanlifers e in questo articolo vedremo nel dettaglio quelle del mese di agosto"
+image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1662109614/Articoli/spesa_agosto2_hl0w5z.jpg"
 title = "Vita da vanlifers, le spese del mese di agosto"
 type = "featured"
 
 +++
-Il totale delle spese per il mese di luglio, vivendo da fulltimevanlifers (ovvero sempre e solo a bordo della nostra casa a 4 ruote), ammonta a **912,80 €**. Cifra da dividere per 2 persone, 4 se vogliamo contare Sakè e Olimpia che però pagano come se fossero "bambini". Per quanto riguarda le nostre avventure, abbiamo vissuto praticamente tutto il mese in Polonia, territorio vasto da esplorare. Ce ne siamo letteralmente innamorati, abbiamo visto paesaggi incredibili e scoperto luoghi che non immaginavamo. Dato il costo della vita ridotto ci siamo concessi qualche uscita al ristorante in più, anche per assaggiare piatti molto diversi dai nostri.
+Il totale delle spese per il mese di agosto, vivendo da fulltimevanlifers (ovvero sempre e solo a bordo della nostra casa a 4 ruote), ammonta a **769.67 €**. Cifra da dividere sempre per 2 persone.
 
-#### Le spese che hanno influito maggiormente per il mese di luglio in camper
+E' stato un mese di improvvisazione, di cambi di programma, di viaggio su strada rallentato, di contatto umani, di esperienze. Abbiamo speso meno, forse perchè abbiamo corso meno con le ruote del van e più con le nostre gambe, forse perchè anche le scorte a bordo effettuate nel mese prima ci hanno aiutati a non dover spendere troppo per la spesa alimentare. Vediamo tutto nel dettaglio.
+
+#### Le spese che hanno influito maggiormente per il mese di agosto in camper
 
 Le due spese che hanno influito maggiormente nel mese di luglio in qualità di fulltime vanlifers sono state:
 
-* il carburante per il nostro van:  **307,28 €** a fronte di **2382 km** percorsi
+* il carburante per il nostro van:  **307,28 €** a fronte di **1825 km** percorsi
 * la spesa alimentare: **233,94 €** (chi ci segue sa che facendo parecchia attività fisica tutti i giorni non possiamo non mangiare colazione, pranzo, merenda e cena)
 
 #### Le spese impreviste
@@ -25,19 +26,19 @@ A Cracovia ci hanno raggiunti i genitori di Paolo, con i quali ci siamo concessi
 
 #### Riassunto di tutte le spese
 
-Vi lascio di seguito un elenco riassuntivo delle spese sostenute in questo mese, per un totale di **912,80 €**:
+Vi lascio di seguito un elenco riassuntivo delle spese sostenute in questo mese, per un totale di **769.67 €**:
 
-* spesa alimentare: **233,94 €**
-* bar/ristoranti: **114,20 €**
-* cibo animali: **39,99 €**
-* parrucchiere Sara: **12 €**
-* parcheggi: **28,96 €**
-* adblue: **15,70 €**
-* carico acqua: **3,00 €**
-* carburante: **307,28 €**
-* musei: **56,95 €**
-* lavanderia: **26,88 €**
+* spesa alimentare: **228,38 €**
+* bar/ristoranti: **93,85 €**
+* campeggio: **58,50 €**
+* parcheggi: **38,19 €**
+* trasporti: **36,60 €**
+* carburante: **183,56 €**
+* intrattenimento: **41,50 € (carnevale in gondola, museo straat, cartoline topolini)**
+* lavanderia: **8,00 €**
 * internet: **73,90 €**
+* spese per animali: **4,99 €**
+* carico acqua: **2,20 €**
 
 #### Costi fissi
 
@@ -45,11 +46,9 @@ Tutti i mesi abbiamo dei costi fissi relativi all'assicurazione e al bollo del v
 
 #### Considerazioni personali
 
-Stiamo ancora valutando se eliminare uno dei due operatori internet, per il momento ci stanno garantendo di lavorare senza problemi per cui ci prendiamo ancora un po' di tempo per decidere.
+Volevamo abbassare il costo mensile, ci siamo decisamente riusciti nonostante abbiamo deciso di fermarci in un paese dove il costo della vita è più caro e ci siamo concessi qualche uscita in più. Non avendo previsto ferie per il 2022 direi che il destino ha scelto per noi e ci siamo un po' adattati di conseguenza.
 
-Come scriviamo sopra, abbiamo mangiato fuori più volte, spesa che nel prossimo paese verrà rivalutata.
-
-Negli ultimi giorni abbiamo fatto una spesa decisamente importante, per avere un po' di scorta soprattutto di alimenti secchi.
+In questo mese abbiamo avuto alcuni problemi con i nostri operatori internet, per cui ci prendiamo ancora un po' di tempo per decidere.
 
 Queste spese sono da intendersi non come spese di una vacanza, ma come quelle della vita di tutti i giorni, proprio come se fossimo a casa e stessimo pagando affitto, bollette, spesa, palestra..
 

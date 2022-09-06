@@ -4,7 +4,7 @@ date = 2022-08-01T06:00:00Z
 description = "Vogliamo tener traccia delle spese che sosterremo come fulltime vanlifers e in questo articolo vedremo nel dettaglio quelle del mese di luglio."
 image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657440439/Articoli/spesa_giugno_pfo0lt.jpg"
 title = "Vita da vanlifers, le spese del mese di luglio"
-type = "featured"
+type = "regular"
 
 +++
 Il totale delle spese per il mese di luglio, vivendo da fulltimevanlifers (ovvero sempre e solo a bordo della nostra casa a 4 ruote), ammonta a **912,80 €**. Cifra da dividere per 2 persone, 4 se vogliamo contare Sakè e Olimpia che però pagano come se fossero "bambini". Per quanto riguarda le nostre avventure, abbiamo vissuto praticamente tutto il mese in Polonia, territorio vasto da esplorare. Ce ne siamo letteralmente innamorati, abbiamo visto paesaggi incredibili e scoperto luoghi che non immaginavamo. Dato il costo della vita ridotto ci siamo concessi qualche uscita al ristorante in più, anche per assaggiare piatti molto diversi dai nostri.
