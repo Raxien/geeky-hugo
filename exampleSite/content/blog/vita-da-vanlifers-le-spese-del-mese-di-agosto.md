@@ -13,7 +13,7 @@ E' stato un mese di improvvisazione, di cambi di programma, di viaggio su strada
 
 #### Le spese che hanno influito maggiormente per il mese di agosto in camper
 
-Le due spese che hanno influito maggiormente nel mese di luglio in qualità di fulltime vanlifers sono state:
+Le due spese che hanno influito maggiormente nel mese di agosto in qualità di fulltime vanlifers sono state:
 
 * il carburante per il nostro van:  **307,28 €** a fronte di **1825 km** percorsi
 * la spesa alimentare: **233,94 €** (chi ci segue sa che facendo parecchia attività fisica tutti i giorni non possiamo non mangiare colazione, pranzo, merenda e cena)
