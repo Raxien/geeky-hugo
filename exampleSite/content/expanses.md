@@ -31,6 +31,10 @@ Per quanto riguarda la connessione ad Internet momentaneamente ci affidiamo a du
 
 * Abbiamo speso **<label id="totalluglio"></label> €**. Questo mese è andato molto bene complice il fatto che abbiamo trascorso gran parte del tempo in Polonia dove i costi sono nettamente minori. Le spese maggiori sono state la benzina, dove per <label id="km7"></label> abbiamo speso 307,28 €, (prezzo medio in Polonia di 1.60 €/litro) e la spesa alimentare 233,94 €. Ha influito sul bilancio mensile alcuni pranzi fuori per un totale di 114,20 €.
 
-###### Agosto - in corso
+###### Agosto
 
-* Abbiamo speso **<label id="totalagosto"></label> €**. **[in aggiornamento]**
+* Abbiamo speso **<label id="totalagosto"></label> €**. Nonostante abbiamo passato un mese nei Paesi Bassi siamo riusciti ad abbassare i costi rispetto ai mesi precedenti. Questo grazie al fatto che abbiamo fatto una grossa spesa alimentare e di carburante in Polonia e Germania dove i costi sono nettamente minori e che ci sono durati per gran parte del viaggio. Le spese maggiori rimangono sempre la benzina, dove per <label id="km8"></label> abbiamo speso 307,28 € e la spesa alimentare 228,38 €. 
+
+###### Settembre - in corso
+
+* Abbiamo speso **<label id="totalsettembre"></label> €**. **[in aggiornamento]**
