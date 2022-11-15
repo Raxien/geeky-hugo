@@ -21,26 +21,26 @@ Per quanto riguarda la connessione ad Internet momentaneamente ci affidiamo a du
 
 ###### Maggio
 
-* Abbiamo speso **<label id="totalmaggio"></label> €**. Questo mese ha influito sul budget il fatto che abbiamo dovuto percorrere tanti chilometri (<label id="km5"></label> a fronte di una spesa di 201,50 €) e il costo dei mezzi di trasporto a Venezia (bus 12 € e il traghetto per le isole 42 €).
+* Abbiamo speso **<label id="totalmaggio"></label> €** e percorso <label id="km5"></label>
 
 ###### Giugno
 
-* Abbiamo speso **<label id="totalgiugno"></label> €**. Questo mese è iniziato subito con alcune spese impreviste (170 €). La prima dovuta alla sostituzione del rubinetto della cucina (130 €) mentre la seconda in merito a un danno al van provocato da una manovra errata (40 €). Un altro costo che ha influito sul bilancio del mese è stata la benzina, in quanto abbiamo speso 255 € (prezzo medio in Austria 2 €/litro) a fronte di <label id="km6"></label> .
+* Abbiamo speso **<label id="totalgiugno"></label> €** e percoso <label id="km6"></label>
 
 ###### Luglio
 
-* Abbiamo speso **<label id="totalluglio"></label> €**. Questo mese è andato molto bene complice il fatto che abbiamo trascorso gran parte del tempo in Polonia dove i costi sono nettamente minori. Le spese maggiori sono state la benzina, dove per <label id="km7"></label> abbiamo speso 307,28 €, (prezzo medio in Polonia di 1.60 €/litro) e la spesa alimentare 233,94 €. Ha influito sul bilancio mensile alcuni pranzi fuori per un totale di 114,20 €.
+* Abbiamo speso **<label id="totalluglio"></label> €** e percoso <label id="km7"></label>
 
 ###### Agosto
 
-* Abbiamo speso **<label id="totalagosto"></label> €**. Nonostante abbiamo passato un mese nei Paesi Bassi siamo riusciti ad abbassare i costi rispetto ai mesi precedenti. Questo grazie al fatto che abbiamo fatto una grossa spesa alimentare e di carburante in Polonia e Germania dove i costi sono nettamente minori e che ci sono durati per gran parte del viaggio. Le spese maggiori rimangono sempre la benzina, dove per <label id="km8"></label> abbiamo speso 307,28 € e la spesa alimentare 228,38 €. 
+* Abbiamo speso **<label id="totalagosto"></label> €** e percoso <label id="km8"></label>
 
 ###### Settembre
 
-* Abbiamo speso **<label id="totalsettembre"></label> €**. Queste mese è andata bene nonostante ci siamo fermati una decina di giorni fra Paesi Bassi e Belgio dove i costi della benzina e alimentari sono nettamente più alti. I costi maggiori rimangono sempre quelli della benzina, che per <label id="km9"></label> abbiamo speso 310,41 € e della spesa alimentare 226,47 €. 
+* Abbiamo speso **<label id="totalsettembre"></label> €** e percoso <label id="km9"></label>
 
 ###### Ottobre
-* Abbiamo speso **<label id="totalottobre"></label> €**. **[in aggiornamento]**
+* Abbiamo speso **<label id="totalottobre"></label> €** e percoso <label id="km10"></label>
 
 ###### Novembre - in corso
 * Abbiamo speso **<label id="totalnovembre"></label> €**. **[in aggiornamento]**
