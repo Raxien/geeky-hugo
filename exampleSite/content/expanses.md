@@ -39,5 +39,8 @@ Per quanto riguarda la connessione ad Internet momentaneamente ci affidiamo a du
 
 * Abbiamo speso **<label id="totalsettembre"></label> €**. Queste mese è andata bene nonostante ci siamo fermati una decina di giorni fra Paesi Bassi e Belgio dove i costi della benzina e alimentari sono nettamente più alti. I costi maggiori rimangono sempre quelli della benzina, che per <label id="km9"></label> abbiamo speso 310,41 € e della spesa alimentare 226,47 €. 
 
-###### Ottobre - in corso
+###### Ottobre
 * Abbiamo speso **<label id="totalottobre"></label> €**. **[in aggiornamento]**
+
+###### Novembre - in corso
+* Abbiamo speso **<label id="totalnovembre"></label> €**. **[in aggiornamento]**
