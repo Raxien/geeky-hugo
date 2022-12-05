@@ -19,28 +19,11 @@ Per quanto riguarda la connessione ad Internet momentaneamente ci affidiamo a du
 
 #### Resoconto mensile
 
-###### Maggio
-
-* Abbiamo speso **<label id="totalmaggio"></label> €** e percorso <label id="km5"></label>
-
-###### Giugno
-
-* Abbiamo speso **<label id="totalgiugno"></label> €** e percoso <label id="km6"></label>
-
-###### Luglio
-
-* Abbiamo speso **<label id="totalluglio"></label> €** e percoso <label id="km7"></label>
-
-###### Agosto
-
-* Abbiamo speso **<label id="totalagosto"></label> €** e percoso <label id="km8"></label>
-
-###### Settembre
-
-* Abbiamo speso **<label id="totalsettembre"></label> €** e percoso <label id="km9"></label>
-
-###### Ottobre
-* Abbiamo speso **<label id="totalottobre"></label> €** e percoso <label id="km10"></label>
-
-###### Novembre - in corso
-* Abbiamo speso **<label id="totalnovembre"></label> €**. **[in aggiornamento]**
+* **Maggio**: Abbiamo speso **<label id="totalmaggio"></label> €** e percorso <label id="km5"></label>
+* **Giugno**: Abbiamo speso **<label id="totalgiugno"></label> €** e percoso <label id="km6"></label>
+* **Luglio**: Abbiamo speso **<label id="totalluglio"></label> €** e percoso <label id="km7"></label>
+* **Agosto**: Abbiamo speso **<label id="totalagosto"></label> €** e percoso <label id="km8"></label>
+* **Settembre**: Abbiamo speso **<label id="totalsettembre"></label> €** e percoso <label id="km9"></label>
+* **Ottobre**: Abbiamo speso **<label id="totalottobre"></label> €** e percoso <label id="km10"></label>
+* **Novembre**: Abbiamo speso **<label id="totalnovembre"></label> €** e percoso <label id="km11"></label>
+* **Dicembre**: Abbiamo speso **<label id="totaldicembre"></label> €** e percoso <label id="km12"></label> **[in aggiornamento]**
