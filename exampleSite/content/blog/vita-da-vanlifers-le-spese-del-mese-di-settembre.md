@@ -21,11 +21,7 @@ Dal 18 maggio sono trascorsi più di 200 giorni, abbiamo percorso più di 10000 
 
 Questo viaggio così come si sta evolvendo non era assolutamente preventivato. Non dovevamo fermarci un mese in Polonia (trovi le nostre avventure [qui](https://www.youtube.com/watch?v=uhFYfbis9a4&list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV "qui")), tantomeno due mesi in Francia (che puoi rivivere [qui](https://www.youtube.com/watch?v=haPUPL6dgpI&list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8 "qui")) e un mese ancora in Portogallo. Se ripenso alle cartine di altri stati che abbiamo a malincuore lasciato a casa sorge una smorfia, che viene però subito scacciata via dal sorriso pieno di soddisfazione per essere partiti comunque, nonostante tutto.
 
-> _Ogni singola tappa ha dato un senso a questa avventura, che sicuramente non dimenticheremo mai più._ 
->
-> _Non è stato solo un viaggio, non è stato un capriccio._
->
->  _È stato tutto una scoperta, di noi stessi e del mondo che ci circonda._
+> _Ogni singola tappa ha dato un senso a questa avventura, che sicuramente non dimenticheremo mai più. Non è stato solo un viaggio, non è stato un capriccio. È stato tutto una scoperta, di noi stessi e del mondo che ci circonda._
 
 La presenza di Olimpia e Sakè a bordo non ha fatto altro che rendere lo spirito di famiglia ancora più completo. In tanti ci hanno detto che avremmo potuto lasciarli a casa, essere in Australia magari in questo stesso istante e goderci la vita a 360 gradi. Ma quante emozioni in meno avremmo vissuto senza di loro?
 
