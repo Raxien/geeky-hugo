@@ -1,39 +1,35 @@
 +++
 categories = ["applicazioni", "viaggio"]
-date = 2023-01-02T08:00:00Z
-description = "Abbiamo voluto tenere traccia di tutte le nostre tappe"
+date = 2023-01-09T23:00:00Z
+description = "Una spiaggia vista Marocco, con alle spalle meravigliose rovine romane. "
 draft = true
 image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1672751449/Articoli/findpenguins_logo_standard_rgb_glv3wg.png"
 title = "Playa Bolonia: una delle spiagge più belle dell’Andalusia "
 type = "featured"
 
 +++
-Da quando siamo partiti abbiamo postato ogni singolo giorno una storia mattutina su Instagram per tenere traccia di dove fossimo.
+Sabbia bianca e acqua cristallina sono le due caratteristiche principali di Playa Bolonia, una delle spiagge ritenute più belle dell’Andalusia (Spagna).
 
-Ci ricordavamo dell’esistenza di un’applicazione su cui si poteva tener traccia di un percorso “geografico” postando anche fotografie e video per ogni luogo, ma non riuscivamo a trovarla.
+Si affaccia su di un piccolo villaggio ed è molto amata dai giovani che praticano sport come il kite.
 
-Poi un giorno, chiacchierando con Inga e Marius, due amici tedeschi conosciuti grazie a Sakè il curioso che si è appostato proprio davanti alla porta del loro van richiamando attenzioni e coccole a volontà, abbiamo risolto il “mistero”.
+La lunghezza della spiaggia di Bolonia, o _playa de Bolonia_, è di 3,8 chilometri, per terminare a nord con una duna di sabbia che è tra le più grandi di tutta Europa: 30 metri di altezza e 200 metri di lunghezza che arriva fino alla pineta di Punto Camarinal.
 
-**Find Penguins**, ecco come si chiamava la famigerata applicazione! A quel punto per scaricarla ci abbiamo impiegato pochi secondi, per inserire invece tutte le tappe e le fotografie… ben più di qualche giorno!
+[IMG_4901_pnatcv.heic](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4901_pnatcv.heic "IMG_4901_pnatcv.heic")
 
-Nei ritagli di tempo e quando internet ci faceva la grazia di funzionare, mi sono messa a controllare ogni singolo posto e caricare ogni ricordo significativo, finché partendo un po’ dall’inizio e andando avanti un po’ dalle ultime tappe, _tutti i puntalini si sono riuniti a creare il disegno del nostro percorso_.
+**Le rovine romane affacciate sulla spiaggia: il sito Baelo Claudia**
 
-Dal 18 maggio sono trascorsi più di 200 giorni, abbiamo percorso più di 10000 km e visitato 10 paesi. Tanti posti? 
+Bolonia non è solo sabbia bianca e natura. Se guardate davanti a voi vedrete Tangeri e il Marocco, mentre alle vostre spalle le rovine romane della città di _Baelo Claudia_ con tanto di teatro romano e foro. Fondata circa 2000 anni fa, era inizialmente un villaggio di pescatori, e raggiunse il massimo splendore sotto l’imperatore Claudio grazie anche alle relazioni con il porto di Tangeri. Fu dopo un terremoto del VI secolo d.C. che iniziò il suo lento declino.
 
-In realtà solo il 5% del mondo intero.
+Le rovine sono comunque molto ben conservate e hanno un fascino singolare anche per la loro posizione geografica.
 
-> Ma quel poco ha un valore così grande che è rimasto impresso negli occhi, nel cuore, nelle suole delle scarpe, nelle ruote del van ormai da cambiare. 
+Sul luogo si trova un centro di accoglienza turistica e un museo gratuito visitabile dal martedì al sabato orario 9-18, domenica 9-15, chiuso il lunedì.
 
-Questo viaggio così come si sta evolvendo non era assolutamente preventivato. Non dovevamo fermarci un mese in Polonia (trovi le nostre avventure [qui](https://www.youtube.com/watch?v=uhFYfbis9a4&list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV "qui")), tantomeno due mesi in Francia (che puoi rivivere [qui](https://www.youtube.com/watch?v=haPUPL6dgpI&list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8 "qui")) e un mese ancora in Portogallo. Se ripenso alle cartine di altri stati che abbiamo a malincuore lasciato a casa sorge una smorfia, che viene però subito scacciata via dal sorriso pieno di soddisfazione per essere partiti comunque, nonostante tutto.
+C’è un grande parcheggio gratuito a disposizione dei visitatori e tutte le indicazioni per poterlo raggiungere lungo la strada.
 
-> _Ogni singola tappa ha dato un senso a questa avventura, che sicuramente non dimenticheremo mai più. Non è stato solo un viaggio, non è stato un capriccio. È stato tutto una scoperta, di noi stessi e del mondo che ci circonda._
+[IMG_4929_ulnwva.heic](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4929_ulnwva.heic "IMG_4929_ulnwva.heic")
 
-La presenza di Olimpia e Sakè a bordo non ha fatto altro che rendere lo spirito di famiglia ancora più completo. In tanti ci hanno detto che avremmo potuto lasciarli a casa, per essere in Australia magari in questo stesso istante e goderci la vita a 360 gradi. Ma quante emozioni in meno avremmo vissuto senza di loro?
+**Guidare in mezzo alla duna? È possibile a Punta Paloma**
 
-Non ci sarebbero state tutte le persone che ci hanno fermati per strada, le corse in spiaggia a tirare il guinzaglio e ridere di gusto, Sakè che prende confidenza con l’acqua e scrolla le zampe con un misto di odio e soddisfazione, gli angolini scoperti per caso grazie a loro che tirano di qua e di là, i buongiorno al mattino con una zampetta che reclama il cibo e la buonanotte con il cielo stellato per i bisogni di Olimpia, le risate per incastrarsi al meglio in uno spazio così piccolo.
+Pochi chilometri dopo Playa Bolonia si trova un’altra spiaggia, Punta Paloma. La particolarità di questo luogo è la strada asfaltata che taglia letteralmente a metà la duna, con una vista sulla spiaggia davvero gradevole.
 
-Insomma senza di loro non sarebbe stata la stessa cosa. Senza di loro non saremmo dove siamo. Senza di loro non esisterebbe Vandipety. E magari sì, saremmo in Australia ad ammirare canguri e koala, ma ci sentiremmo meno famiglia.
-
-Andiamo avanti con loro, grazie a loro.
-
-Vi lascio il [link](https://findpenguins.com/0knsmwp4npafs/trip/6370d91fc6caf3-83958962 "link") della mappa. Cercherò di aggiornarla il più possibile in tempo reale : )
+[IMG_4951_vzb4it.heic](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4951_vzb4it.heic "IMG_4951_vzb4it.heic")
