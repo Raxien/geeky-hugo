@@ -1,10 +1,10 @@
 ---
-categories = ["spagna", "viaggio"]
-date = 2023-01-09T23:00:00Z
-description = "Una spiaggia vista Marocco, con alle spalle meravigliose rovine romane. "
-image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4901_pnatcv.heic"
-title = "Playa Bolonia: una delle spiagge più belle dell’Andalusia "
-type = "featured"
+categories: ["spagna", "viaggio"]
+date: 2023-01-09T23:00:00Z
+description: "Una spiaggia vista Marocco, con alle spalle meravigliose rovine romane. "
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4901_pnatcv.heic"
+title: "Playa Bolonia: una delle spiagge più belle dell’Andalusia "
+type: "featured"
 
 ---
 
@@ -26,7 +26,7 @@ Sul luogo si trova un centro di accoglienza turistica e un museo gratuito visita
 
 C’è un grande parcheggio gratuito a disposizione dei visitatori e tutte le indicazioni per poterlo raggiungere lungo la strada.
 
-![Playa bolonia](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4929_ulnwva.heic )
+![Playa bolonia](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4929_ulnwva.heic)
 
 ### **Guidare in mezzo alla duna? È possibile a Punta Paloma**
 
