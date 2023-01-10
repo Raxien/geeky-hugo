@@ -1,19 +1,20 @@
-+++
-categories = ["applicazioni", "viaggio"]
+---
+categories = ["spagna", "viaggio"]
 date = 2023-01-09T23:00:00Z
 description = "Una spiaggia vista Marocco, con alle spalle meravigliose rovine romane. "
 image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4901_pnatcv.heic"
 title = "Playa Bolonia: una delle spiagge più belle dell’Andalusia "
 type = "featured"
 
-+++
+---
+
 Sabbia bianca e acqua cristallina sono le due caratteristiche principali di Playa Bolonia, una delle spiagge ritenute più belle dell’Andalusia (Spagna).
 
 Si affaccia su di un piccolo villaggio ed è molto amata dai giovani che praticano sport come il kite.
 
 La lunghezza della spiaggia di Bolonia, o _playa de Bolonia_, è di 3,8 chilometri, per terminare a nord con una duna di sabbia che è tra le più grandi di tutta Europa: 30 metri di altezza e 200 metri di lunghezza.
 
-[https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4901_pnatcv.heic](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4901_pnatcv.heic "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4901_pnatcv.heic")
+![Playa bolonia](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4901_pnatcv.heic)
 
 ### **Le rovine romane affacciate sulla spiaggia: il sito Baelo Claudia**
 
@@ -25,10 +26,10 @@ Sul luogo si trova un centro di accoglienza turistica e un museo gratuito visita
 
 C’è un grande parcheggio gratuito a disposizione dei visitatori e tutte le indicazioni per poterlo raggiungere lungo la strada.
 
-[IMG_4929_ulnwva.heic](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4929_ulnwva.heic "IMG_4929_ulnwva.heic")
+![Playa bolonia](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4929_ulnwva.heic )
 
 ### **Guidare in mezzo alla duna? È possibile a Punta Paloma**
 
 Pochi chilometri dopo Playa Bolonia si trova un’altra spiaggia, Punta Paloma. La particolarità di questo luogo è la strada asfaltata che taglia letteralmente a metà la duna, con una vista sulla spiaggia davvero gradevole.
 
-[IMG_4951_vzb4it.heic](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4951_vzb4it.heic "IMG_4951_vzb4it.heic")
+![Playa bolonia](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4951_vzb4it.heic)
