@@ -2,7 +2,6 @@
 categories = ["applicazioni", "viaggio"]
 date = 2023-01-09T23:00:00Z
 description = "Una spiaggia vista Marocco, con alle spalle meravigliose rovine romane. "
-draft = true
 image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1672751449/Articoli/findpenguins_logo_standard_rgb_glv3wg.png"
 title = "Playa Bolonia: una delle spiagge più belle dell’Andalusia "
 type = "featured"
@@ -12,7 +11,7 @@ Sabbia bianca e acqua cristallina sono le due caratteristiche principali di Play
 
 Si affaccia su di un piccolo villaggio ed è molto amata dai giovani che praticano sport come il kite.
 
-La lunghezza della spiaggia di Bolonia, o _playa de Bolonia_, è di 3,8 chilometri, per terminare a nord con una duna di sabbia che è tra le più grandi di tutta Europa: 30 metri di altezza e 200 metri di lunghezza che arriva fino alla pineta di Punto Camarinal.
+La lunghezza della spiaggia di Bolonia, o _playa de Bolonia_, è di 3,8 chilometri, per terminare a nord con una duna di sabbia che è tra le più grandi di tutta Europa: 30 metri di altezza e 200 metri di lunghezza.
 
 [IMG_4901_pnatcv.heic](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4901_pnatcv.heic "IMG_4901_pnatcv.heic")
 
