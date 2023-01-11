@@ -14,7 +14,7 @@ Si affaccia su di un piccolo villaggio ed è molto amata dai giovani che pratica
 
 La lunghezza della spiaggia di Bolonia, o _playa de Bolonia_, è di 3,8 chilometri, per terminare a nord con una duna di sabbia che è tra le più grandi di tutta Europa: 30 metri di altezza e 200 metri di lunghezza.
 
-![Playa bolonia](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673346825/Articoli/IMG_4901_pnatcv.heic)
+![Playa bolonia](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673425527/Articoli/bologna_1_onglpx.jpg)
 
 ##### Le rovine romane affacciate sulla spiaggia: il sito Baelo Claudia
 
