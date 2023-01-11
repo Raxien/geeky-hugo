@@ -14,8 +14,6 @@ Si affaccia su di un piccolo villaggio ed è molto amata dai giovani che pratica
 
 La lunghezza della spiaggia di Bolonia, o _playa de Bolonia_, è di 3,8 chilometri, per terminare a nord con una duna di sabbia che è tra le più grandi di tutta Europa: 30 metri di altezza e 200 metri di lunghezza.
 
-![Playa bolonia](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673425527/Articoli/bologna_1_onglpx.jpg)
-
 ##### Le rovine romane affacciate sulla spiaggia: il sito Baelo Claudia
 
 Bolonia non è solo sabbia bianca e natura. Se guardate davanti a voi vedrete Tangeri e il Marocco, mentre alle vostre spalle le rovine romane della città di _Baelo Claudia_ con tanto di teatro romano e foro. Fondata circa 2000 anni fa, era inizialmente un villaggio di pescatori, e raggiunse il massimo splendore sotto l’imperatore Claudio grazie anche alle relazioni con il porto di Tangeri. Fu dopo un terremoto del VI secolo d.C. che iniziò il suo lento declino.
