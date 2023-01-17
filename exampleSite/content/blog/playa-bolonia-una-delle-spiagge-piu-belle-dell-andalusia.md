@@ -4,7 +4,7 @@ date: 2023-01-09T23:00:00Z
 description: "Una spiaggia vista Marocco, con alle spalle meravigliose rovine romane. "
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673425578/Articoli/bologna_1_odyxzg.jpg"
 title: "Playa Bolonia: una delle spiagge più belle dell’Andalusia "
-type: "featured"
+type: "regular"
 
 ---
 

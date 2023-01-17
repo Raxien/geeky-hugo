@@ -4,7 +4,7 @@ description: A volte è necessario mettersi in gioco più del dovuto, e questa c
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657123237/Articoli/Come_e_perche_abbiamo_aperto_un_canale_YouTube.png
 date: 2022-07-06T16:00:00.000
 categories: ["Curiosità"]
-type: featured
+type: regular
 ---
 
 Da quando siamo partiti ci avete visti sempre più attivi su Instagram e su questo sito, quindi cercherò di spiegarvi come e perchè abbiamo deciso di aprire anche un canale YouTube.

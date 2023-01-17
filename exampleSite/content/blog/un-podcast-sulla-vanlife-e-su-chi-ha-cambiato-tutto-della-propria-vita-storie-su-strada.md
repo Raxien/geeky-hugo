@@ -4,7 +4,7 @@ date = 2023-01-17T08:00:00Z
 description = "Speriamo però di dar voce a un dettaglio, a un particolare, a un evento, a qualcosa di unico accaduto nella vita di chi abbiamo avuto la fortuna di incontrare sulla nostra strada."
 image = ""
 title = "Un podcast sulla vanlife e su chi ha cambiato tutto della propria vita: “Storie su strada”"
-type = "Featured"
+type = "featured"
 
 +++
 Prima di lasciare tutto e cambiare vita avevamo pensato di creare un format per dare importanza alle persone che avremmo incontrato per strada. Doveva essere “un caffè con Sakè”, una pausa offerta a bordo del nostro van in compagnia di due chiacchiere.
