@@ -33,6 +33,6 @@ Speriamo però di dar voce a un dettaglio, a un particolare, a un evento, a qual
 
 Speriamo di farvi entrare in casa nostra o dei nostri ospiti e di catturare la vostra attenzione come se foste seduti vicino a noi!
 
-\[Qui\](https://vandipety.it/blog/storie-su-strada-ep.1-come-abbiamo-vissuto-il-cambiamento-delle-nostre-vite/) puoi leggere l'articolo sul primo episodio che trovi sul nostro canale YouTube
+[Qui](https://vandipety.it/blog/storie-su-strada-ep.1-come-abbiamo-vissuto-il-cambiamento-delle-nostre-vite/) puoi leggere l'articolo sul primo episodio che trovi sul nostro canale YouTube
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z3IUhW6bUO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
