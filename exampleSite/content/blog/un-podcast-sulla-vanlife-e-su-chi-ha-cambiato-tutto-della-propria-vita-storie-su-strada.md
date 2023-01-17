@@ -1,33 +1,37 @@
 +++
 categories = ["Curiosità"]
-date = 2022-08-15T07:00:00Z
-description = "Scarpe comode per tutti i giorni, scarpe per la pioggia, scarponcini da trekking, scarpe per la sera.. sì ma quali scegliere davvero?"
+date = 2023-01-17T08:00:00Z
+description = "Speriamo però di dar voce a un dettaglio, a un particolare, a un evento, a qualcosa di unico accaduto nella vita di chi abbiamo avuto la fortuna di incontrare sulla nostra strada."
 draft = true
-image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1660666972/Articoli/IMG_7726_pyyb9f.jpg"
+image = ""
 title = "Un podcast sulla vanlife e su chi ha cambiato tutto della propria vita: “Storie su strada”"
-type = "regular"
+type = "Featured"
 
 +++
-Dopo aver deciso gli abiti da inserire in valigia, è arrivato il momento di effettuare lo stesso lavoro con la scelta delle scarpe da portarsi dietro per vivere un anno in giro per l'Europa.
-Parole d'ordine praticità e comodità. Non avevamo in mente serate di gala in cui ci servissero i tacchi, piuttosto ci immaginavamo con ai piedi un paio di scarpe comode, quando non fossimo stati scalzi a contatto con il terreno. 
+Prima di lasciare tutto e cambiare vita avevamo pensato di creare un format per dare importanza alle persone che avremmo incontrato per strada. Doveva essere “un caffè con Sakè”, una pausa offerta a bordo del nostro van in compagnia di due chiacchiere.
 
+Poi è successo che per mesi non abbiamo incontrato italiani.
 
-Analizziamo insieme il cambiamento del clima in base alle stagioni:
--primavera: clima variabile, possibilità di pioggia
--estate: clima caldo, i nostri piedi hanno bisogno di respirare ma di rimanere comunque comodi.
--autunno: come in primavera, decisamente variabile.
--inverno: necessità di scarpe impermeabili, calde e resistenti.
+Per mesi ci siamo lasciati assorbire dai cambiamenti e dagli eventi. Per mesi abbiamo creato altro.
 
-#### Quindi, per "quattro stagioni", quali scarpe portiamo con noi?
+Abbiamo però continuato a bere un caffè a bordo, ogni giorno.
 
-Nel video che vi allegheremo al fondo dell'articolo abbiamo cercato di essere un po' divertenti, legandoci all'idea alle quattro stagioni.
-Dopo aver deciso di vivere in camper per un anno, la nostra scelta sulle scarpe da portare con noi è stata la seguente:
-* un paio di sandali/infradito
-* un paio di scarpe leggere, da tutti i giorni, utilizzabili d'estate in città e nelle passeggiate più impegnative
-* un paio di scarpe da trekking in goretex ma non troppo pesanti, per giornate piovose ma non troppo fredde
-* un paio di scarponcini robusti e impermeabili, da usare in inverno su terreni anche ghiacciati o scivolosi.
+Così un giorno di metà dicembre, dopo aver pranzato, abbiamo messo sul fuoco la moka e abbiamo iniziato a raccontare il perché del nostro cambio di vita. Eravamo parcheggiati su strada, a raccontare la nostra storia.. e così è nato “storie su strada”.
 
-Ovviamente non nascondiamo le scarpe nelle varie stagioni, può capitare di usare gli scarponcini impermeabili nei giorni di pioggia estivi, mentre le infradito sono sempre a bordo per quando usciamo dalla doccia. 
+Siamo partiti da noi, per noi.
 
+E da quell’inizio sono arrivati anche gli incontri con altre persone e le loro storie di cambiamento.
 
-Cosa ne dite? Avreste scelto diversamente? Fateci sapere il vostro parere nei commenti, ci fa sempre molto piacere la vostra opinione!
+Non sappiamo quanti episodi creeremo, sappiamo solo che è bello ascoltare e poter dare voce a chi incontriamo, e lo faremo finché ne avremo occasione.
+
+“Storie su strada" è un podcast sia audio che video, per poter tenere compagnia a chi vuole sentire una storia e a chi vuole anche guardare in volto le persone che la stanno raccontando.
+
+Ogni episodio verrà presentato da un articolo qui sul nostro sito.
+
+Non aspettatevi la professionalità di uno studio di registrazione. Si sentirà abbaiare, passerà un gatto davanti alla telecamera, si accenderà il motore del mezzo del vicino, ci saranno il vento o le onde dell’oceano.
+
+Speriamo però di dar voce a un dettaglio, a un particolare, a un evento, a qualcosa di unico accaduto nella vita di chi abbiamo avuto la fortuna di incontrare sulla nostra strada.
+
+Speriamo di farvi entrare in casa nostra o dei nostri ospiti e di catturare la vostra attenzione come se foste seduti vicino a noi!
+
+Qui puoi leggere l'articolo sul primo episodio e trovare il link al file. 
