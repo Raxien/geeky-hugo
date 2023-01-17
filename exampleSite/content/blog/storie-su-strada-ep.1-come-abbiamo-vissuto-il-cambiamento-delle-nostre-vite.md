@@ -35,6 +35,6 @@ Dove ci porterà tutto questo non lo sappiamo, ma sentiamo che ci sta accrescend
 
 Continueremo a farlo? “Cambiare” deriva dal greco kàmbein e significa curvare, girare intorno. Nel nostro caso non ci sono ostacoli da aggirare, ma la volontà di prendere una direzione nuova, qualsiasi essa sia. Imparato ciò, qualsiasi ostacolo ai nostri occhi sarà solo una grande rotonda e ci inventeremo più strade e di conseguenza più storie, da raccontare possibilmente su strada.
 
-Se hai piacere di vedere il video o ascoltare l'audio clicca
+Se hai piacere di vedere il video o ascoltare il nostro primo podcast lo trovi qui sotto:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z3IUhW6bUO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
