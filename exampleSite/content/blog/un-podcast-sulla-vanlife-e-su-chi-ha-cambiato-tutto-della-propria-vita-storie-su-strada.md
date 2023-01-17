@@ -2,7 +2,6 @@
 categories = ["Curiosità"]
 date = 2023-01-17T08:00:00Z
 description = "Speriamo però di dar voce a un dettaglio, a un particolare, a un evento, a qualcosa di unico accaduto nella vita di chi abbiamo avuto la fortuna di incontrare sulla nostra strada."
-draft = true
 image = ""
 title = "Un podcast sulla vanlife e su chi ha cambiato tutto della propria vita: “Storie su strada”"
 type = "Featured"
