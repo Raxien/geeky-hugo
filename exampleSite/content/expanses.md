@@ -26,7 +26,7 @@ Per quanto riguarda la connessione ad Internet momentaneamente ci affidiamo a du
 * **Settembre**: Abbiamo speso **<label id="totalsettembre"></label> €** e percoso <label id="km9"></label>
 * **Ottobre**: Abbiamo speso **<label id="totalottobre"></label> €** e percoso <label id="km10"></label>
 * **Novembre**: Abbiamo speso **<label id="totalnovembre"></label> €** e percoso <label id="km11"></label>
-* **Dicembre**: Abbiamo speso **<label id="totaldicembre"></label> €**. 
+* **Dicembre**: Abbiamo speso **<label id="totaldicembre"></label> €** e percoso <label id="km12"></label>
 
 #### Resoconto mensile 2023
 
