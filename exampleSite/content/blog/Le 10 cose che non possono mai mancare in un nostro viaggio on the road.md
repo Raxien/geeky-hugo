@@ -3,7 +3,7 @@ title: 'Le 10 cose che non possono mai mancare in un nostro viaggio on the road'
 description: Durante le nostre avventure abbiamo pian piano imparato a capire quali fossero gli oggetti fondamentali da avere appresso, ovviamente ad uso umano e animale
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657024162/Articoli/10_cose_per_un_viaggio_ontheroad_udittt.jpg
 date: 2022-07-05T10:00:00+01:00
-categories: ["Viaggiare", "Curiosità"]
+categories: ["Viaggio", "Curiosità"]
 type: regular
 ---
 In questo articolo abbiamo creato un elenco di 10 cose che speriamo possa aiutarvi nell'organizzazione dei vostri viaggi a più zampe e on the road.

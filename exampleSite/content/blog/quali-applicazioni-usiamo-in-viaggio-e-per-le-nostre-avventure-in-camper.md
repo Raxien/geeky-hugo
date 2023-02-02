@@ -1,5 +1,5 @@
 +++
-categories = ["Curiosità", "viaggiare"]
+categories = ["Curiosità", "Viaggio"]
 date = 2022-07-15T08:00:00Z
 description = "Non troppi anni fa si viaggiava utilizzando solo mappe cartacee e cartelli stradali. Al giorno d'oggi ci sono tantissime facilitazioni e abbiamo fatto una selezione di quelle più utili per il nostro viaggio. "
 image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657879625/Articoli/app_camper_drffxr.jpg"

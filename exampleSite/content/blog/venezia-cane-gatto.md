@@ -3,7 +3,7 @@ title: "Visitare Venezia con cane e gatto? Scoprite con noi come fare"
 description: "Erano anni che volevamo visitare la Serenissima, ma poterlo fare con Olimpia e Sakè è stato veramente emozionante. Un tour decisamente diverso dai soliti, ma che ci ha portati ad incontrare un sacco di sorrisi incuriositi."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1655741328/Articoli/venezia_1_2_qhbppl.jpg
 date: 2022-06-20T10:09:00+01:00
-categories: ["Viaggiare", "Italia"]
+categories: ["Viaggio", "Italia"]
 type: "regular" # available types: [featured/regular]
 draft: false
 Victor_Hugo: "true"
