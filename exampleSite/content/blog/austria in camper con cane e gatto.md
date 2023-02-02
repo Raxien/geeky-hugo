@@ -1,12 +1,11 @@
-+++
-categories = ["applicazioni", "viaggio"]
-date = 2023-02-08T08:00:00Z
-description = "3 settimane on the road"
-image = 
-title = "Austria in camper con cane e gatto"
-type = "regular"
-
-+++
+---
+title: "Austria in camper con cane e gatto"
+description: "3 settimane on the road"
+image: 
+date: 2023-02-01T10:00:00Z
+categories: ["Austria", "viaggiare"]
+type: regular
+---
 Nel mese di luglio 2022b abbiamo girovagato in van attraverso l’Austria per tre settimane, ovviamente in compagnia di cane e gatto, Olimpia e Sakè. 
 Non voglio scrivervi il solito articolo con aree sosta, tappe imperdibili, dove mangiare eccetera eccetera, perchè i nostri viaggi sono dettati da una serie di necessità personali, legate anche al benessere dei nostri animali, al fatto che la nostra non è una vacanza ma vita vera e propria, solo scandita da ritmi un po’ meno consueti. 
 Vorrei piuttosto parlarvi delle emozioni provate, delle persone incontrate. Di quello che ci portiamo nel cuore, chilometro dopo chilometro.

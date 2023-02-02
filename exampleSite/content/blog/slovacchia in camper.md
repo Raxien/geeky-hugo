@@ -1,12 +1,11 @@
-+++
-categories = ["applicazioni", "viaggio"]
-date = 2023-02-18T08:00:00Z
-description = "Un paese di passaggio, un luogo in cui merita fermarsi."
-image = 
-title = "Slovacchia in camper con cane e gatto"
-type = "regular"
-
-+++
+---
+title: "Slovacchia in camper con cane e gatto"
+description: "Un paese di passaggio, un luogo in cui merita fermarsi."
+image: 
+date: 2023-02-01T10:00:00Z
+categories: ["Slovacchia", "viaggiare"]
+type: regular
+---
 Della nostra visita in Slovacchia a bordo del van con cane e gatto, Olimpia e Sakè, ricorderemo principalmente Bratislava e il piccolo paesino Cicmany.
 Vi racconto della capitale come se facessimo due passi insieme, in una calda giornata estiva, con il termostato che segna 40 gradi e la paura di non riuscire a trovare un posto all’ombra per proteggere i nostri animali. Un giugno così caldo non era previsto, motivo per cui non ci siamo soffermati a lungo in questo paese, per poter raggiungere in fretta la catena montuosa dei Monti Tatra. 
 Ma torniamo a Bratislava. 
