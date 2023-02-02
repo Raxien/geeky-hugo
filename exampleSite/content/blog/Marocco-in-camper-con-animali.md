@@ -1,8 +1,8 @@
 ---
 title: "MAROCCO IN CAMPER CON CANE E GATTO: i documenti necessari"
 description: Per entrare in Marocco in camper con cane e gatto al seguito quali documento servono? 
-image: 
-date: 2023-03-15T10:00:00Z
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1675350176/Articoli/FB86B4A6-AC14-4E0F-A866-C6E6A8566CB0_1_201_a_ymfl9w.heic"
+date: 2023-01-15T10:00:00Z
 categories: ["Marocco", "viaggio"]
 type: regular
 ---
@@ -18,6 +18,8 @@ L’agenzia alla quale ci siamo rivolti è Gutierrez. Sono molto gentili, ti reg
 L’orario del biglietto non è prenotabile. Ci sono circa 8 partenze al giorno e basta arrivare al’imbarco un’ora e mezza prima.
 Al porto vengono effettuati i controlli del passaporto e rilasciati i biglietti ufficiali, con un documento da conservare per il ritorno. 
 Sulla nave si effettua il controllo del passaporto e si consegna la fiche: un foglio sul quale dovete scrivere i vostri dati personali, la provenienza e la destinazione. 
+
+![animali](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1675350217/Articoli/AFF22D3C-765D-4B9D-A9B2-783ED94CE735_1_201_a_tpensm.heic)
 
 Per quanto riguarda gli animali, i documenti necessari sono:-passaporto
 -vaccinazione antirabbica
