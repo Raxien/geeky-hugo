@@ -3,7 +3,7 @@ title: "Austria in camper con cane e gatto"
 description: "3 settimane on the road"
 image: 
 date: 2023-02-01T10:00:00Z
-categories: ["Austria", "viaggiare"]
+categories: ["Austria", "viaggio"]
 type: regular
 ---
 Nel mese di luglio 2022b abbiamo girovagato in van attraverso l’Austria per tre settimane, ovviamente in compagnia di cane e gatto, Olimpia e Sakè. 

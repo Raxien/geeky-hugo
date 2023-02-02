@@ -2,11 +2,9 @@
 title: "MAROCCO IN CAMPER CON CANE E GATTO: i documenti necessari"
 description: Per entrare in Marocco in camper con cane e gatto al seguito quali documento servono? 
 image: 
-date: 2022-03-15T09:00:00.000+02:00
-categories:
-- Curiosità
+date: 2023-03-15T10:00:00Z
+categories: ["Marocco", "viaggio"]
 type: regular
-
 ---
 Entrare in Marocco in camper e con animali al seguito è totalmente fattibile, basta conoscere i documenti necessari. 
 In questo articolo vi lasciamo la nostra esperienza sperando possa esservi di aiuto per velocizzare le pratiche e godervi il viaggio in totale serenità.

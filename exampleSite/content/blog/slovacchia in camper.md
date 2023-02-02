@@ -3,7 +3,7 @@ title: "Slovacchia in camper con cane e gatto"
 description: "Un paese di passaggio, un luogo in cui merita fermarsi."
 image: 
 date: 2023-02-01T10:00:00Z
-categories: ["Slovacchia", "viaggiare"]
+categories: ["Slovacchia", "viaggio"]
 type: regular
 ---
 Della nostra visita in Slovacchia a bordo del van con cane e gatto, Olimpia e Sakè, ricorderemo principalmente Bratislava e il piccolo paesino Cicmany.
