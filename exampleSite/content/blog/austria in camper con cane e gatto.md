@@ -18,7 +18,7 @@ Abbiamo lasciato Salisburgo addolciti dalla bellezza della città e dalla dolcez
 
 Per la sera ci siamo spostati a Wolfgangsee, dove si può percorrere una passeggiata meravigliosa di vari chilometri lungo la sponda del lago. Noi avevamo appuntamento l’indomani con Susanne e Andrea e i loro due gatti, Ally e Malou. Insieme ci siamo concessi passi lenti, ammirando il paesaggio, chiacchierando del più e del meno. Pranzando insieme, condividendo esperienze e emozioni. E un’altra giornata è volata via. 
 
-![austria van]("https://res.cloudinary.com/ilgattodicitturin/image/upload/v1675350710/Articoli/IMG_3362_sfbutr.jpg")
+![austria van](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1675350710/Articoli/IMG_3362_sfbutr.jpg)
 
 Abbiamo poi raggiunto Gmunden, altro paesino affacciato sul lago. Abbiamo scambiato due parole con una coppia di simpatici signori che hanno iniziato a giocare con Sakè, ascoltato con interesse la nostra storia e fra una chiacchiera e l’altra ci hanno consigliato dove trovare la miglior pizza in paese. E vi assicuro che la pizza era buona davvero. 
 Arrivati a Linz, ci siamo fermati volentieri per salutare un ragazzo vestito elegante, che non ha avuto timore di riempirsi dei peli dei nostri animali. E in città ci siamo concessi la visita di un museo:  L’ARS Electronica. Un mix di futuro e tecnologia, interessante e interattivo. Secondo noi, da non perdere. 

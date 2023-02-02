@@ -27,4 +27,4 @@ In Slovacchia non è possibile utilizzare i campeggi solo per camper service, mo
 
 Tutto sommato però attraversare il paese è stata un’esperienza che ricordiamo con piacere, malgrado sia stato un viaggio veloce in cui abbiamo dovuto tralasciare alcune zone come ad esempio le grotte di ghiaccio. 
 
-![gatto via]("https://res.cloudinary.com/ilgattodicitturin/image/upload/v1675350656/Articoli/IMG_5548_yabnem_vh90f6.jpg")
+![gatto via](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1675350656/Articoli/IMG_5548_yabnem_vh90f6.jpg)
