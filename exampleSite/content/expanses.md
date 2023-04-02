@@ -17,7 +17,7 @@ Per quanto riguarda la connessione ad Internet momentaneamente ci affidiamo a du
 
 <!-- section break -->
 
-#### Resoconto mensile 2022
+<!-- #### Resoconto mensile 2022
 
 * **Maggio**: Abbiamo speso **<label id="totalmaggio"></label> €** e percorso <label id="km5"></label>
 * **Giugno**: Abbiamo speso **<label id="totalgiugno"></label> €** e percoso <label id="km6"></label>
@@ -30,4 +30,4 @@ Per quanto riguarda la connessione ad Internet momentaneamente ci affidiamo a du
 
 #### Resoconto mensile 2023
 
-* **Gennaio**: Abbiamo speso **<label id="totalgennaio"></label> €**. **[in aggiornamento]**
+* **Gennaio**: Abbiamo speso **<label id="totalgennaio"></label> €**. **[in aggiornamento]** -->
