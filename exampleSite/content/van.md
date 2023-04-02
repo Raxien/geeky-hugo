@@ -1,7 +1,7 @@
 ---
 title: Il van
 description: Tutte le spese sostenute fino ad oggi per il nostro viaggio
-image: images/van.jpg
+image: images/van2.jpeg
 layout: van
 Victor_Hugo: "false"
 Focus_Keyword: "van"
