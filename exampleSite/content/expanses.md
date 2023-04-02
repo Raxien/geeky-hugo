@@ -13,7 +13,10 @@ Usiamo come supporto l’applicazione Splitwise (che potete scaricare [**qui se 
 
 Nei calcoli non sono inclusi i costi dell'assicurazione e bollo del van (che potete trovare [**qui**](https://vandipety.it/van)) in quanto esse variano in base alla tipologia e valore del mezzo. Tale esclusione e dovuta al fatto che vogliamo dare un calcolo più preciso in merito al costo della vita da fulltime vanlifers a prescindere dai costi del mezzo. Per quanto riguarda i costi di manutenzione, questi verranno inclusi.
 
-Per quanto riguarda la connessione ad Internet momentaneamente ci affidiamo a due operatori differenti ([**OGILink**](http://ogilink.it) con 400 Giga al mese e [**Broker per la telefonia**](https://www.brokerperlatelefonia.it) con SIM dati Illimitata) in quanto abbiamo la necessità lavorative di essere sempre connessi.
+Per quanto riguarda la connessione ad Internet precedentemente ci affidiamo a due operatori differenti (**OGILink** e **Broker per la telefonia**) ma entrambi si sono rivelati non adatti alle nostre esigenze. Abbiamo reciso i contratti e abbiamo deciso di optare per le SIM locali che a parità di prezzo sono più affidabili.
+
+Per usarle ci affidiamo ad un router portatile come [**questo**](http://amzn.to/3Zopkl5).
+
 
 <!-- section break -->
 
