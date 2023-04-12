@@ -191,12 +191,42 @@ Il costo del passavant è di 10 € in entrambe le frontiere (a Diama accettano 
 
 Il costo dell'assicurazione stradale varia in base ai giorni che si stipulano. Noi per 3 giorni sia all'andata che al ritorno abbiamo speso 20 €. 
 
-Il costo dell'alzata di sbarra è di 100 MAU (noi abbiamo contrattato per 2 euro. 
+Il costo dell'alzata di sbarra è di 100 MAU (noi abbiamo contrattato per 2 €). 
 
 Il costo dell'attraversamento del parco di Dwailing è di 200 MAU a persona (5 €)
 
 L'unico campeggio in cui abbiamo pernottato ci ha richiesto 500 MAU a notte, 12,50 € (2 persone e un van). 
 
+**Totale: 331,50 euro**
+
+<div id="Link"></div>
+
+##### Link Utili 
+
+<div id="Vlog"></div>
+
+##### Il nostro Vlog
+Se volete vedere il nostro vlog lo trovi di seguito:
+
+{{< youtube 9fsV_nTm9bg >}}
+
+
+<div id="Mappe"></div>
+
+##### Le nostre mappe
+Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
+
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}}
+
+Se quest'articolo o le mappe ti sono state utili e vuoi ringraziarci puoi offrici un litro di benzina:
+
+Se vuoi offrici un litro di benzina:
+
+{{< paypal >}}
+
+Oppure al seguente {{< extLink "link" " https://paypal.me/Vandipety" "Paypal">}}
+
+Se hai altri suggerimenti, curiosità o dubbi ti aspettiamo nei commenti 👇
 
 
 
