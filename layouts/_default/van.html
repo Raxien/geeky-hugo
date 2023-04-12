@@ -1,4 +1,8 @@
 {{ define "main" }}
+
+{{- $sectionDelimiter := "<!-- section break -->" -}}
+{{- $rawContentSections := split .RawContent $sectionDelimiter -}}
+
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 <!-- <script src="https://cdn.jsdelivr.net/npm/chart.js@3.8.0/dist/chart.min.js"></script> -->
 <script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
@@ -47,68 +51,75 @@
         {{ end }}
         <h2 class="mb-3">{{ .Title | markdownify }}</h2>
         <div class="content">
-          {{.Content}}
+            <!-- {{.Content}} -->
+            {{ index $rawContentSections 0 | .RenderString }}
         </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12 mb-4 mb-md-0">
-        <div class="p-4 border rounded">
-          <h2 class="h4 mb-5 title-border">Il nostro van in breve</h2>
-          <div class="row">
-            <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Mezzo</h4>
-              <h3 id="vanInfo" class="mb-5 h5 ">Roadcar 540</h3>
-            </div>
-            <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Motorizzazione</h4>
-              <h3 id="motorization" class="mb-5 h5 ">2.2 cc 140 cv</h3>
-            </div>
-            <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Assicurazione</h4>
-              <h3 id="assicuazione" class="mb-5 h5 "></h3>
-            </div>
-            <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Bollo</h4>
-              <h3 id="bollo" class="mb-5 h5 "></h3>
+
+        <div id="informazioni"></div>
+        <div class="row">
+          <div class="col-md-12 mb-4 mb-md-0">
+            <div class="p-4 border rounded">
+              <!-- <h2 class="h4 mb-5 title-border">Il nostro van in breve</h2> -->
+              <div class="row">
+                <div class="col-md-3 mb-3">
+                  <h4 class="h5 mb-2">Mezzo</h4>
+                  <h3 id="vanInfo" class="mb-5 h5 ">Roadcar 540</h3>
+                </div>
+                <div class="col-md-3 mb-3">
+                  <h4 class="h5 mb-2">Motorizzazione</h4>
+                  <h3 id="motorization" class="mb-5 h5 ">2.2 cc 140 cv</h3>
+                </div>
+                <div class="col-md-3 mb-3">
+                  <h4 class="h5 mb-2">Assicurazione</h4>
+                  <h3 id="assicuazione" class="mb-5 h5 "></h3>
+                </div>
+                <div class="col-md-3 mb-3">
+                  <h4 class="h5 mb-2">Bollo</h4>
+                  <h3 id="bollo" class="mb-5 h5 "></h3>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-3 mb-3">
+                  <h4 class="h5 mb-2">Costo Van</h4>
+                  <h3 id="initialCost" class="mb-5 h5 "></h3>
+                </div>
+                <div class="col-md-3 mb-3">
+                  <h4 class="h5 mb-2">Accessori</h4>
+                  <h3 id="accessoryCost" class="mb-5 h5 "></h3>
+                </div>
+                <div class="col-md-3 mb-3">
+                  <h4 class="h5 mb-2">Totale</h4>
+                  <h3 id="totalVanCost" class="mb-5 h5 "></h3>
+                </div>
+                <div class="col-md-3 mb-3">
+                  <h4 class="h5 mb-2">Km percorsi</h4>
+                  <h3 id="travelingKm" class="mb-5 h5 "></h3>
+                </div>
+              </div>
             </div>
           </div>
-          <div class="row">
-            <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Costo Van</h4>
-              <h3 id="initialCost" class="mb-5 h5 "></h3>
-            </div>
-            <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Accessori</h4>
-              <h3 id="accessoryCost" class="mb-5 h5 "></h3>
-            </div>
-            <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Totale</h4>
-              <h3 id="totalVanCost" class="mb-5 h5 "></h3>
-            </div>
-            <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Km percorsi</h4>
-              <h3 id="travelingKm" class="mb-5 h5 "></h3>
-            </div>
-          </div>
         </div>
+
+        <div class="content">
+          <!-- {{.Content}} -->
+          {{ index $rawContentSections 1 | .RenderString }}
       </div>
     </div>
+  </div>
 
-    <br>
-    <br>
+  <br>
+  <div id="costi"></div>
 
-    <div id="tblAccessory"></div>
+  <h5 >I Costi</h2>
+  <div id="tblAccessory"></div>
 
-    <br>
-    <br>
-
+  <br>
     <!-- disqus comments -->
-    {{ if .Site.DisqusShortname }}
-    <div class="border rounded p-4">
-      {{ template "_internal/disqus.html" . }}
-    </div>
-    {{ end }}
+  {{ if .Site.DisqusShortname }}
+  <div class="border rounded p-4">
+    {{ template "_internal/disqus.html" . }}
+  </div>
+  {{ end }}
   </div>
 
 </section>

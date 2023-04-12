@@ -78,6 +78,34 @@
       </div>
     </div>
     
+    <!-- <br>
+
+    <div class="row">
+      <div class="col-md-12 mb-4 mb-md-0">
+        <div class="p-4 border rounded">
+          <h2 class="h4 mb-5 title-border">Le nostre 🗺️</h2>
+          <div class="row">
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Data partenza</h4>
+              <h3 id="travelingStartDay" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Giorni di viaggio</h4>
+              <h3 id="travelingDay" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Km percorsi</h4>
+              <h3 id="travelingKm" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Paesi Visitati</h4>
+              <h3 id="visitedCuntry" class="mb-5 h5 "></h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     -->
     <br>
     
     <div class="row" style="display: none;">
@@ -125,7 +153,8 @@ var getTripData = function () {
       
       setStartDate(res.startingDate);
       setKmData(res.startingKm, res.actualKm);
-      setMap(res.visitedCountry);
+      setVisitedCountry(res.visitedCountry);
+      // setMap(res.visitedCountry);
 
       return data;
     },
@@ -225,6 +254,17 @@ var getTripData = function () {
     });
     
   };
+
+  let setVisitedCountry = function(visitedCuntry){
+    // box paesi visitati
+    document.getElementById('visitedCuntry').innerText = visitedCuntry.length;
+  };
+
+
+  let setMapList = function(){
+
+
+  } 
 
   $( document ).ready(function() {
     device = ( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) );

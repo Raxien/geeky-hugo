@@ -34,7 +34,7 @@ Per quanto riguarda gli animali, essendo il Marocco un paese extra Unione Europe
 > - Titolazione antirabbica presso centri specializzati
 > - Certificato di buona salute e documento per l'espatrio (24 ore prima e certificato al PIF, ufficio portuale)
 
-In primo luogo, l'animale domestico deve essere identificato con un microchip e avere un passaporto per animali domestici dell'UE, che contiene informazioni sulle vaccinazioni e altri trattamenti veterinari.
+In primo luogo, l'animale domestico deve essere identificato con un microchip e avere un passaporto per animali domestici dell'UE che contiene informazioni sulle vaccinazioni e altri trattamenti veterinari.
 
 Inoltre, deve essere vaccinato contro la rabbia e avere un certificato valido di vaccinazione antirabbica.  
 

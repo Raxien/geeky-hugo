@@ -2,29 +2,19 @@
 
 # main menu
 [[main]]
-name = "Diario di bordo"
+name = "Blog"
 url = ""
 weight = 1
-
-[[main]]
-name = "Chi Siamo"
-url = "about/"
-weight = 2
-
-[[main]]
-name = "Libri"
-url = "books/"
-weight = 3
 
 # [[main]]
 # name = "Attrezzature"
 # url = "gears/"
-# weight = 4
+# weight = 2
 
 [[main]]
 name = "Diamo i numeri"
 url = "#"
-weight = 6
+weight = 3
 hasChildren = true
 
   [[main]]
@@ -44,6 +34,17 @@ hasChildren = true
   name = "Il van"
   url = "van/"
   weight = 3
+
+
+[[main]]
+name = "Libri"
+url = "books/"
+weight = 4
+
+[[main]]
+name = "Chi Siamo"
+url = "about/"
+weight = 6
 
 [[main]]
 name = "Parlano di noi"

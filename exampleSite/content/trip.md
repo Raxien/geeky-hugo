@@ -1,21 +1,12 @@
 ---
 title: Il viaggio
 description: Tutte le spese sostenute fino ad oggi per il nostro viaggio
-image: images/trip.jpg
+image: images/trip.png
 layout: trip
 Victor_Hugo: "false"
 Focus_Keyword: "trip"
 ---
 
-Un viaggio che diventa esperienza di vita e che sappiamo quando ha avuto inizio ma non vogliamo sapere quando e come avrà fine andava in qualche modo documentato. Scoprite quanti km percorriamo e in quale angolo del mondo siamo finiti. 
-<!-- section break -->
-Di seguito tutti gli articoli relativi ai paesi visitati, comodamente a portata di un click.
-##### Italia
-<!-- >- **[Lago di Braies](in-gita-al-lago-di-braies-con-cane-e-gatto)**  -->
->- **[Venezia](https://vandipety.it/blog/venezia-cane-gatto/)** 
->- **[Noale](https://vandipety.it/blog/noale-un-piccolo-borgo-a-pochi-chilometri-da-venezia/)** 
->- **[Brolo](https://vandipety.it/blog/un-gatto-a-spasso-nel-paese-dei-gatti/)** 
+Un viaggio che diventa esperienza di vita e che sappiamo quando ha avuto inizio ma non vogliamo sapere quando e come avrà fine andava in qualche modo documentato. Qua troverete tutti i dati del viaggio come ad esempio quanti km percorriamo e in quale angolo del mondo siamo finiti! 🌎
 
-##### Austria
->- **[Salisburgo](https://vandipety.it/blog/salisburgo-un-tour-culinario-tra-palle-di-mozart-e-birrificio-stiegl/)** 
-<!-- >- **[Innsbruck](https://vandipety.it/blog/salisburgo-un-tour-culinario-tra-palle-di-mozart-e-birrificio-stiegl/)**  -->
+Di seguito trovi anche tutti gli articoli relativi ai paesi visitati e le mappe con tutte le informazioni utili, comodamente a portata di un click!
