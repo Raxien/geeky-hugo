@@ -5,7 +5,7 @@ image:
 date: 2022-07-26T17:00:00.000
 categories: ["Viaggio", "Guide", "Marocco"]
 type: featured
-draft: false
+draft: true
 ---
 
 Entrare in Mauritania a bordo di un camper è possibile?
