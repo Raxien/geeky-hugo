@@ -37,4 +37,4 @@ Continueremo a farlo? “Cambiare” deriva dal greco kàmbein e significa curva
 
 Se hai piacere di vedere il video o ascoltare il nostro primo podcast lo trovi qui sotto:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z3IUhW6bUO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube Z3IUhW6bUO8 >}}
