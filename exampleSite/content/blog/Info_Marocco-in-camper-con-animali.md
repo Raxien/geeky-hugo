@@ -4,7 +4,7 @@ description: Quali documenti servono per entrare in Marocco in camper con cane e
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1675350430/Articoli/IMG_6364_ekk5cx_veifcj.jpg"
 date: 2023-03-15T10:00:00Z
 categories: ["Marocco", "Viaggio", "Info"]
-type: regular
+type: featured
 ---
 
 Per entrare in Marocco via nave in camper e con animali al seguito è necessario essere in possesso di alcuni documenti fondamentali. 
