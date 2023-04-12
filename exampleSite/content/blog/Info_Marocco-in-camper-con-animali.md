@@ -32,7 +32,7 @@ Per quanto riguarda gli animali, essendo il Marocco un paese extra Unione Europe
 > - Microchip identificativo dell'animale
 > - Passaporto che si ottiene contestualmente alla vaccinazione antirabbica
 > - Titolazione antirabbica presso centri specializzati
-> - Certificato di buona salute (24 ore prima e certificato al PIF, ufficio portuale)
+> - Certificato di buona salute e documento per l'espatrio (24 ore prima e certificato al PIF, ufficio portuale)
 
 In primo luogo, l'animale domestico deve essere identificato con un microchip e avere un passaporto per animali domestici dell'UE, che contiene informazioni sulle vaccinazioni e altri trattamenti veterinari.
 
@@ -46,7 +46,7 @@ Noi ci siamo affidati all'{{< extLink "Istituto Zooprofilattico Sperimentale del
 
 Con questi documenti è necessario effettuare una visita da un veterinario (noi siamo andati alla struttura {{< extLink "Brulina" "https://www.cvbrulina.com/">}} in Palmones y Los Barrios vicino ad Algeciras, prenotando in anticipo) per ottenere un certificato di buona salute valido, che ci hanno detto essere valido per l’ingresso entro 24 ore. Costo 30 euro per animale.
 
-Una volta rilasciato questo documento, dovrete recarvi al PIF nel porto. È un ufficio adibito (vi lasciamo {{< extLink qui "https://goo.gl/maps/EpsgNCQfVRAkxcnR7">}} le coordinate) al controllo di questi documenti dove vi rilasceranno un foglio da mostrare una volta arrivati in Marocco.
+Una volta rilasciato questo documento, insieme al foglio per l'espatrio, dovrete recarvi al PIF nel porto. È un ufficio adibito (vi lasciamo {{< extLink qui "https://goo.gl/maps/EpsgNCQfVRAkxcnR7">}} le coordinate) al controllo di questi documenti, dove vi rilasceranno un altro documento da mostrare una volta arrivati in Marocco.
 Di seguito il nostro esempio:
 Ore 17.00 del venerdì abbiamo prenotato la visita
 Ore 19.00 eravamo al PIF per la validazione dei documenti
