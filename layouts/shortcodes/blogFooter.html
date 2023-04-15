@@ -1,0 +1,104 @@
+<!-- shortcode che crea il footer per gli articoli -->
+<!-- 
+  parametri
+  country : se vuoto mette messaggio generico - in alternativa mette personalizzato
+  payPal : 0|1 inserisce o meno il payPal
+  consult : 0|1 inserisce o meno il messaggio per la consulenza
+-->
+<!-- get param -->
+{{ $country:= (.Get 0) }}
+{{ $payPal:= (.Get 1) }}
+{{ $consult:= (.Get 2) }}
+
+{{ if not (eq $payPal "0") }}
+
+{{ $data := newScratch }}
+{{ $data.Set "value" "caffè" }}
+
+  <!-- Polonia -->
+  {{ if eq $country "PL" }}
+  {{ $data.Set "value" "pirogi" }}
+  <!-- Senegal -->
+  {{ else if eq $country "SN" }}
+  {{ $data.Set "value" "thieboudienne" }}
+  <!-- Mauritania -->
+  {{ else if eq $country "MA" }}
+  {{ $data.Set "value" "thieboudienne" }}
+  <!-- Olanda -->
+  {{ else if eq $country "NLD" }}
+  {{ $data.Set "value" "stamppot" }}
+  <!-- Marocco -->
+  {{ else if eq $country "MAR" }}
+  {{ $data.Set "value" "cus-cus" }}
+  <!-- Giappone -->
+  {{ else if eq $country "JAP" }}
+  {{ $data.Set "value" "ramen 🍜" }}
+  <!-- Slovacchia -->
+  {{ else if eq $country "SLV"}}
+  {{ $data.Set "value" "bryndzové halušky" }}
+  {{ end }}
+
+  Se vuoi ringraziarci puoi offrici un <strong class="title-border">{{ $data.Get "value" }}</strong>:  
+  
+  <br>
+  <br>
+
+  <div id="smart-button-container">
+    <div style="text-align: center;">
+      <div id="paypal-button-container"></div>
+    </div>
+  </div>
+  <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=EUR" data-sdk-integration-source="button-factory"></script>
+  <script>
+    function initPayPalButton() {
+      paypal.Buttons({
+        style: {
+          shape: 'pill',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'paypal',
+          
+        },
+
+        createOrder: function(data, actions) {
+          return actions.order.create({
+            purchase_units: [{"description":"Se vuoi offrici un litro di benzina","amount":{"currency_code":"EUR","value":1}}]
+          });
+        },
+
+        onApprove: function(data, actions) {
+          return actions.order.capture().then(function(orderData) {
+            
+            // Full available details
+            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+
+            // Show a success message within this page, e.g.
+            const element = document.getElementById('paypal-button-container');
+            element.innerHTML = '';
+            element.innerHTML = '<h3>Grazie per la donazione!</h3>';
+
+            // Or go to another URL:  actions.redirect('thank_you.html');
+            
+          });
+        },
+
+        onError: function(err) {
+          console.log(err);
+        }
+      }).render('#paypal-button-container');
+    }
+    initPayPalButton();
+  </script>
+
+Oppure al seguente <a href ='https://paypal.me/Vandipety' target = "_blank" rel = "nofollow noopener noreferrer" title="Grazie!"><span>link</span></a>
+
+<br>
+<br>
+
+{{ end }}
+
+{{ if eq $consult "1" }}
+<div> consult </div>
+{{ end }}
+
+Se hai altri suggerimenti, curiosità o dubbi ti aspettiamo nei commenti 👇

@@ -199,4 +199,3 @@ L'unico campeggio in cui abbiamo pernottato ci ha richiesto 500 MAU a notte, 12,
 
 
 
-

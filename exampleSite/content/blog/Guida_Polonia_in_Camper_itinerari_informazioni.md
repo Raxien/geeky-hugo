@@ -210,7 +210,6 @@ Uno dei parchi nazionali più famosi che per il momento non abbiamo avuto il pia
 
 Infine, il Parco Nazionale di Kampinos è situato a pochi chilometri a ovest di Varsavia, è il parco nazionale più vicino alla capitale. Ospita una grande varietà di flora e fauna, tra cui cervi, cinghiali, lontre e numerose specie di uccelli e offre numerose attività all'aperto, tra cui escursioni a piedi, in bicicletta e in canoa.
 
-
 <div id="Mezzi"></div>
 
 ##### Mezzi di trasporto pubblici 
@@ -329,12 +328,4 @@ Scrivici se vuoi affidarti a noi per scoprire insieme come organizzare al meglio
 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
 
-Se quest'articolo o le mappe ti sono state utili e vuoi ringraziarci puoi offrici un litro di benzina:
-
-Se vuoi offrici un litro di benzina:
-
-{{< paypal >}}
-
-Oppure al seguente {{< extLink "link" "https://paypal.me/Vandipety" >}}
-
-Se hai altri suggerimenti, curiosità o dubbi ti aspettiamo nei commenti 👇
+{{< blogFooter "PL" "1" "0" >}}

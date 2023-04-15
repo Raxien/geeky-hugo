@@ -214,19 +214,6 @@ Se volete vedere il nostro vlog lo trovi di seguito:
 <div id="Mappe"></div>
 
 ##### Le nostre mappe
-Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=18_x_kSmOimidCpZAW0h6sRxD1sJaadQ&ehbc=2E312F" "1">}}
 
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}}
-
-Se quest'articolo o le mappe ti sono state utili e vuoi ringraziarci puoi offrici un litro di benzina:
-
-Se vuoi offrici un litro di benzina:
-
-{{< paypal >}}
-
-Oppure al seguente {{< extLink "link" " https://paypal.me/Vandipety" "Paypal">}}
-
-Se hai altri suggerimenti, curiosità o dubbi ti aspettiamo nei commenti 👇
-
-
-
+{{< blogFooter "MA" "1" "0" >}}
