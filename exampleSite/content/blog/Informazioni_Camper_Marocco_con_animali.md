@@ -3,7 +3,7 @@ title: "Marocco in camper con cane e gatto: i documenti necessari"
 description: Quali documenti servono per entrare in Marocco in camper con cane e gatto? 
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1675350430/Articoli/IMG_6364_ekk5cx_veifcj.jpg"
 date: 2023-03-15T10:00:00Z
-categories: ["Marocco", "Viaggio", "Info"]
+categories: ["Informazioni", "Itinerari", "Marocco"]
 type: featured
 ---
 

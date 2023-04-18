@@ -1,5 +1,5 @@
 ---
-title: 'Polonia: itinerari, consigli e informazioni utili'
+title: 'Viaggio in Polonia: tutto quello da sapere e itinerari' 
 description: ""
 image: 
 date: 2022-07-26T17:00:00.000

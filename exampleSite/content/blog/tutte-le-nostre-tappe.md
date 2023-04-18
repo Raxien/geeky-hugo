@@ -1,5 +1,5 @@
 +++
-categories = ["applicazioni", "viaggio"]
+categories = ["vanlife", "viaggio"]
 date = 2023-01-02T08:00:00Z
 description = "Abbiamo voluto tenere traccia di tutte le nostre tappe"
 image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1672751449/Articoli/findpenguins_logo_standard_rgb_glv3wg.png"

@@ -11,3 +11,10 @@ min_version = "0.83.1"
 [author]
 name = "gethugothemes"
 homepage = "https://gethugothemes.com/"
+
+[module]
+[[module.imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/sachinchoolur/lightgallery"

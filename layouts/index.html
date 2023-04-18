@@ -4,8 +4,9 @@
 {{ with site.Params.banner }}
 {{ if .enable }}
 
-{{ $bgImage:= resources.Get .background_image }}
-<section class="banner text-center text-lg-start" style="background-image: url('{{ $bgImage.RelPermalink }}');">
+<!-- RIMOSSO: occupava troppo spazio -->
+<!-- {{ $bgImage:= resources.Get .background_image }} -->
+<!-- <section class="banner text-center text-lg-start" style="background-image: url('{{ $bgImage.RelPermalink }}');">
   <div class="container">
     <div class="row align-items-center flex-column-reverse flex-lg-row">
       <div class="col-lg-6 mb-5 mb-lg-0">
@@ -29,13 +30,13 @@
       {{ end }}
     </div>
   </div>
-</section>
+</section> -->
 {{ end }}
 {{ end }}
 <!--=================== banner section end ===================-->
 
 <!--=================== blog section start ===================-->
-<section class="section">
+<section class="section" style="padding-top: 40px">
   <div class="container">
     {{with site.Params.featured_post_title}}
     <div class="section-title">
