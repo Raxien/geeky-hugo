@@ -1,8 +1,8 @@
 ---
-title: 'Mauritania' 
-description: ""
-image: 
-date: 2022-07-26T17:00:00.000
+title: 'Mauritania in camper: informazioni utili e dogana'
+description: "Vuoi attraversare la Mauritania in camper? Scopri tutte le info qui"
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681930891/Articoli/Copertine/Mauritania_Camper_ofxmtr.jpg"
+date: 2023-03-06T17:00:00.000
 categories: ["Camper", "Dogana", "Mauritania"]
 type: featured
 draft: false
@@ -18,7 +18,7 @@ Vi riportiamo comunque tutte le informazioni relative alle pratiche doganali, ai
 > - [Itinerario](#Itinerario)
 > - [Informazioni utili](#Consigli)
 >     - [Documenti](#Documenti) 
->     - [Come pagare](#Pagare)
+>     - [Come pagare](#Come-pagare)
 >     - [Assicurazione sanitaria](#Assicurazione)
 >     - [Dogane](#Dogane)
 >     - [Strade](#Strade)
@@ -73,6 +73,8 @@ Per viaggiare in Mauritania è necessario il passaporto con validità residua di
 La moneta corrente è l' **Ouguiya mauritana** (MAU). 
 Il cambio è 40,37 Mau per 1 euro.
 E' possibile prelevare ai bancomat in città e cambiare in dogana (non consigliato).
+
+{{< card >}}
 
 <div id="Assicurazione"></div>
 
@@ -196,6 +198,8 @@ Il costo dell'alzata di sbarra è di 100 MAU (noi abbiamo contrattato per 2 €)
 Il costo dell'attraversamento del parco di Dwailing è di 200 MAU a persona (5 €)
 
 L'unico campeggio in cui abbiamo pernottato ci ha richiesto 500 MAU a notte, 12,50 € (2 persone e un van). 
+
+{{< card >}}
 
 **{{< underline "Totale: 331,50 euro" >}}**
 

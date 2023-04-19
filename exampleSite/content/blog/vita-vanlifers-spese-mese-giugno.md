@@ -4,9 +4,9 @@ description: Vogliamo tener traccia delle spese che sosterremo come fulltime van
   e in questo articolo vedremo nel dettaglio quelle del mese di giugno.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657440439/Articoli/spesa_giugno_pfo0lt.jpg
 date: 2022-07-11T08:00:00.000+02:00
-categories:
-- Spese
+categories: Spese
 type: regular
+draft: true
 
 ---
 Il totale delle spese per il mese di giugno, vivendo da fulltimevanlifers (ovvero sempre e solo a bordo della nostra casa a 4 ruote), ammonta a **981,52 €**. Cifra da dividere per 2 persone, 4 se vogliamo contare Sakè e Olimpia che però pagano come se fossero "bambini".

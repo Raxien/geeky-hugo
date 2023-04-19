@@ -5,6 +5,7 @@ description = "Vogliamo tener traccia delle spese che sosterremo come fulltime v
 image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1662109614/Articoli/spesa_agosto2_hl0w5z.jpg"
 title = "Vita da vanlifers, le spese del mese di agosto"
 type = "regular"
+draft = "true"
 
 +++
 Il totale delle spese per il mese di agosto, vivendo da fulltimevanlifers (ovvero sempre e solo a bordo della nostra casa a 4 ruote), ammonta a **769.67 €**. Cifra da dividere sempre per 2 persone.

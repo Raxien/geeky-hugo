@@ -4,7 +4,7 @@ date = 2023-01-17T08:00:00Z
 description = "Speriamo però di dar voce a un dettaglio, a un particolare, a un evento, a qualcosa di unico accaduto nella vita di chi abbiamo avuto la fortuna di incontrare sulla nostra strada."
 image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1674035837/Articoli/storie_su_strada_wye8az.png"
 title = "Un podcast sulla vanlife: “Storie su strada”"
-type = "featured"
+type = "regular"
 +++
 
 Prima di lasciare tutto e cambiare vita avevamo pensato di creare un format per dare importanza alle persone che avremmo incontrato per strada. Doveva essere “un caffè con Sakè”, una pausa offerta a bordo del nostro van in compagnia di due chiacchiere.

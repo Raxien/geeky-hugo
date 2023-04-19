@@ -2,10 +2,10 @@
 title: 'Polonia in camper: itinerario, consigli e informazioni utili'
 description: ""
 image: 
-date: 2022-07-26T17:00:00.000
+date: 2023-03-07T17:00:00.000
 categories: ["Viaggio", "Guide", "Polonia", "Camper"]
 type: featured
-draft: false
+draft: true
 ---
 
 In questo articolo ti porteremo con noi alla scoperta della Polonia, una terra che ci era stata consigliata da due viaggiatori e che ci ha conquistati dal primo giorno. Noi l'abbiamo visitata a bordo del nostro van, ma potrai seguire questo itinerario anche in auto oppure sfruttarne una parte se deciderai di viaggiare in aereo. Ci siamo concentrati sulla parte est del paese, scoprendola da sud a nord, nel luglio del 2022. 
