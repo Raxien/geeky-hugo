@@ -107,9 +107,9 @@ Costo 0 €
 
 **{{< underline "Aprile 2023" >}}**: il Senegal ha messo a dura prova il nostro van. Tornati con lo scalino rotto per via di un dosso, alcune viti dell'oblo a cui aggiungere il frena filetti e alcune plastiche scollate abbiamo deciso di sistemare qualcosa a Zagorà.
 Dati i tempi sono biblici durante il Ramadan, ci siamo affidati a un carrozziere per far siliconare le plastiche e abbiamo desistito per il resto dei lavori per un totale di 40 dh (3,60 euro). Di fortuna un ragazzo italiano aveva il teflon e abbiamo sistemato l'oblo.
-Con 40.000 km è anche ora di cambiare filtro e olio motore. Costo di 760 dh per l'olio (70 euro) mentre per il lavoro 200 dh (18 euro).
+Con 40.000 km è anche ora di cambiare filtro e olio motore, costo di 760 dh per l'olio (70 euro) e 200 dh (18 euro) per il lavoro e dei dischi dei freni anteriori per la belezza di 400 dh (36 euro).
 
-Costo totale 91,70 euro
+Costo totale 126,70 euro
 
 
 ###### Considerazioni sul mezzo
@@ -147,6 +147,7 @@ Da sistemare 🔧
 - Verificare Eberspacher - provengono vibrazioni strane
 - Fare ciclo di sanigen per pulire le acque
 - Touchscreen frigo - a volte troviamo il frigo spento, va capito se è colpa del touchscreen troppo "touch"
+- Zanzariera - i peli del nostro cane e la sabbia hanno fatto si che si è rotta la molla che tira i fili e rende la zanzariera scorrevole
 
 Lavori in valutazione 🔨
 - installare un secondo pannello da 150/300 W 
