@@ -3,8 +3,7 @@ title: Il van
 description: Costo, storia ed evoluzione del nostro Van
 image: images/van2.jpeg
 layout: van
-Victor_Hugo: "false"
-Focus_Keyword: "van"
+Focus_Keyword: "Camper"
 ---
 
 Dopo aver vissuto in Piemonte e viaggiato in aereo, auto e treno, a maggio 2022 abbiamo deciso di stravolgere il nostro quotidiano e vivere per un periodo indefinito a bordo di un van.

@@ -16,7 +16,7 @@ Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese. 
 > - [Il Paese](#Paese)
 >     - [Documenti e Visto](#Documenti) 
 >     - [Clima](#Clima)
->     - [Come pagare](#Pagare)
+>     - [Come pagare](#Come-pagare)
 >     - [Internet](#Internet)
 >     - [Vaccini e assicurazione sanitaria](#Vaccini)
 >     - [Sicurezza](#Sicurezza)
@@ -63,6 +63,8 @@ Noi siamo rimasti in paese dal 22 febbraio al 18 marzo. La temperatura ha raggiu
 La moneta corrente è il "{{< bold "Franco senegalese" >}}" (CFA o F). Un buon cambio è "{{< bold "650 CFA per 1 Euro" >}}" ed è facilmente ottenibile ovunque.
 Le carte di credito non sono accettate in tutto il Paese ma è possibile prelevare dai bancomat, tuttavia anche questi non sono molto diffusi. Per questo motivo consigliamo di arrivare con i contanti e cambiarli in loco.
 Se hai intenzione di usare le carte per prelevare contanti in Senegal ricordati di verificare, prima di partire, l’abilitazione della carta ai prelievi internazionali e soprattutto informati sui costi di commissione applicati dalla vostra banca.
+
+{{< card >}}
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854092/Articoli/Senegal/Senegal_Donne_colori_tcayom.jpg" >}}
 

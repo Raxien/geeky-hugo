@@ -244,12 +244,14 @@ In dogana noi abbiamo anche effettuato l'assicurazione per il veicolo, al prezzo
 
 ##### Strade 
 La situazione relativa alle condizioni delle strade in Senegal è la seguente: alcuni tratti, soprattutto quelli presenti nel nord del paese, sono terribilmente sconnessi, con buche ampie e dossi non sempre segnalati e di dimensioni maggiori in altezza rispetto a quelli europei. Nel sud del paese, nella zona della Casamance, ci è capitato di trovare dossi all'incontrario, dei veri e propri avvallamenti. Da Tambacounda in poi l'asfalto è molto ben mantenuto. 
+
 In tutte le città aspettati di trovare sovente un'unica arteria asfaltata, mentre le strade secondarie sono ricoperte di sabbia, quasi sempre percorribile solo con veicoli 4x4. 
 Noi abbiamo quasi sempre percorso la N1, una sorta di statale abbastanza ben mantenuta, e un tratto di autostrada nei pressi di Dakar.
 Prestate molta molta attenzione al gran numero di animali selvatici (asini, mucche, cavalli, capre, cani e scimmie) che attraverseranno la strada in ogni dove e in ogni quando. 
 Il senso di precedenza è abbastanza aleatorio, sia negli incroci che nelle rotonde. 
 Sovente quancuno ti supererà da destra e sinistra, magari a bordo di un motorino senza casco e trasportando più di tre persone. 
 Alcuni pulmini adibiti a taxi spesso trasportano persone sul tettuccio o semplicemente aggrappate alla carrozzeria posteriore, e non saprai quando e se davvero svolteranno perchè le loro spie segnaletiche sono quasi sempre accese a intermittenza.
+
 Ti sconsigliamo vivamente di guidare di notte.
 Sono frequenti i posti di blocco della polizia. Nel nord soprattutto cercheranno di multarti senza motivi plausibili. Assicurati di avere a bordo il doppio triangolo e l'estintore, obbligatori. 
 
@@ -257,7 +259,10 @@ Sono frequenti i posti di blocco della polizia. Nel nord soprattutto cercheranno
 
 ##### Quanto abbiamo speso
 Darve una cifra relativa al solo viaggio in Senegal è possibile, ma va contestualizzata all'interno dell'intero percorso perchè arrivando via terra bisogna tener conto del prezzo del traghetto per arrivare in Africa, dei chilometri necessari per aattraversare il Marocco da nord a sud, del visto di ingresso per la Mauritania (da pagare due volte ovviamente se si effettua lo stesso percorso in risalita) e dei 750 chilometri per attraversarla. 
+
 Sempre legato al fatto che abbiamo attraversato più stati del continente, non sappiamo dire il prezzo relativo all'assicurazione sanitaria solo per il Senegal, cifra che varia comunque in base alla compagnia scelta, al rischio pattuito e all'età dell'assicurato (noi per 3 mesi per due adulti di 33 anni in Marocco, Mauritania, Senegal e Gambia che non sapevamo se avremmo attraversato abbiamo speso in totale 528,78 euro con ViaggioSicuri).
+
+{{< card >}}
 
 Le nostre spese ammontano a:
 - {{< underline "Benzina">}}: 257 euro (3400 chilometri percorsi - prezzo gasolio 1-1,16 euro\litro)
