@@ -4,7 +4,7 @@ date = 2023-01-02T08:00:00Z
 description = "Abbiamo voluto tenere traccia di tutte le nostre tappe"
 image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1672751449/Articoli/findpenguins_logo_standard_rgb_glv3wg.png"
 title = "Tutte le nostre tappe"
-type = "featured"
+type = "regular"
 
 +++
 Da quando siamo partiti abbiamo postato ogni singolo giorno una storia mattutina su Instagram per tenere traccia di dove fossimo.

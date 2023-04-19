@@ -4,9 +4,9 @@ date = 2022-07-15T08:00:00Z
 description = "Non troppi anni fa si viaggiava utilizzando solo mappe cartacee e cartelli stradali. Al giorno d'oggi ci sono tantissime facilitazioni e abbiamo fatto una selezione di quelle più utili per il nostro viaggio. "
 image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657879625/Articoli/app_camper_drffxr.jpg"
 title = "Le applicazioni che usiamo in camper per viaggiare"
-type = "featured"
-
+type = "regular"
 +++
+
 Quando abbiamo parlato con una coppia di camperisti, amici di famiglia che hanno percorso tantissimi chilometri "_on the road_", hanno sgranato gli occhi alla frase "applicazioni da usare in viaggio", e ci hanno raccontato di cartine stradali stropicciate, cartelli scritti in lingue incomprensibili, richieste di aiuto che trovavano risposte solo in tante altre lingue del mondo.
 
 Erano veri viaggi di avventura? Forse sì. Ma benvenuti nell'era della tecnologia, che se può esserci amica ben venga.
