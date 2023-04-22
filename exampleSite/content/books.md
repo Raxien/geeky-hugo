@@ -8,6 +8,8 @@ layout: books
 
 Di seguito un elenco, mai completo, di tutti i libri che stiamo leggendo, che abbiamo letto e che abbiamo trovato interessanti. I link portano all'affiliazione di Amazon che ci permette di re-investire in altri libri.
 
+Se preferisci puoi vedere la lista anche {{< extLink "qui" "https://www.amazon.it/shop/vandipety/list/X1E7WF5ONYV3?ref_=cm_sw_r_cp_ud_aipsflist_aipsfvandipety_525D2XH79CXKBCA391MP" >}}.
+
 ##### Stiamo leggendo:
 <div><blockquote><ul id="nowReading"></ul></blockquote></div>
 
