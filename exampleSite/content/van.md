@@ -104,12 +104,16 @@ Per il pannello ci siamo affidati a un negozio marocchino a Tiznit che ha risald
 
 Costo 0 €
 
-**{{< underline "Aprile 2023" >}}**: il Senegal ha messo a dura prova il nostro van. Tornati con lo scalino rotto per via di un dosso, alcune viti dell'oblo a cui aggiungere il frena filetti e alcune plastiche scollate abbiamo deciso di sistemare qualcosa a Zagorà.
-Dati i tempi sono biblici durante il Ramadan, ci siamo affidati a un carrozziere per far siliconare le plastiche e abbiamo desistito per il resto dei lavori per un totale di 40 dh (3,60 euro). Di fortuna un ragazzo italiano aveva il teflon e abbiamo sistemato l'oblo.
-Con 40.000 km è anche ora di cambiare filtro e olio motore, costo di 760 dh per l'olio (70 euro) e 200 dh (18 euro) per il lavoro e dei dischi dei freni anteriori per la belezza di 400 dh (36 euro).
+**{{< underline "Aprile 2023" >}}**: il Senegal ha messo a dura prova il nostro van:
+- scalino rotto
+- alcune plastiche scollate
+- viti dell'oblo che non tengono e cascano
+Ci siamo affidati a un carrozziere di Zagorà per far siliconare le plastiche per un totale di 40 dh (3,60 euro). Di fortuna un ragazzo italiano aveva il teflon e abbiamo sistemato le viti dell'oblo.
+Si rompe anche la molla della zanzariera per via dello sporco accumulato ma riusciamo a sistemarla
+
+Visti i 40.000 km è ora di cambiare filtro e olio motore, costo di 760 dh per l'olio (70 euro) e 200 dh (18 euro) per il lavoro e dei dischi dei freni anteriori per la belezza di 400 dh (36 euro).
 
 Costo totale 126,70 euro
-
 
 ###### Considerazioni sul mezzo
 Solo dopo due anni e dopo averci vissuto per più di 11 mesi abbiamo capito bene quanto è "entry level" e quali lavori dovremo fare per arginare questi limiti.
@@ -146,7 +150,7 @@ Da sistemare 🔧
 - Verificare Eberspacher - provengono vibrazioni strane
 - Fare ciclo di sanigen per pulire le acque
 - Touchscreen frigo - a volte troviamo il frigo spento, va capito se è colpa del touchscreen troppo "touch"
-- Zanzariera - i peli del nostro cane e la sabbia hanno fatto si che si è rotta la molla che tira i fili e rende la zanzariera scorrevole
+- ~~Zanzariera - i peli del nostro cane e la sabbia hanno fatto si che si è rotta la molla che tira i fili e rende la zanzariera scorrevole~~ Risolto dopo aver smontato (presto il video qui) 
 
 Lavori in valutazione 🔨
 - installare un secondo pannello da 150/300 W 
