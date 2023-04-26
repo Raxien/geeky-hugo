@@ -143,10 +143,11 @@ Da sistemare 🔧
 - Maniglia frigo - rotta a metà per colpa di Olimpia
 - Scalino - si è rotto per un dosso in Senegal. Visti i problemi opteremo per toglierlo
 - Finestre - va messo il frena filetti o qualcosa di simile 
-- Sistemare portellone: si è scollato. Parzialmente sistemato con il silicone in Marocco. 
+- ~~Oblo: le viti non tengono~~ Messo téflon, sembra tenere
+- ~~Sistemare portellone scollato~~ Sistemato con il silicone in Marocco (presto il video qui)
 - Aggiustare sotto cintura in dinette - è presente una vite che risulta non fissata correttamente
 - Sistemare pavimento - scricchiola per via del caldo assurdo
-- Sistemare tavolino - non tiene bene
+- Sistemare tavolino - balla 💃
 - Verificare Eberspacher - provengono vibrazioni strane
 - Fare ciclo di sanigen per pulire le acque
 - Touchscreen frigo - a volte troviamo il frigo spento, va capito se è colpa del touchscreen troppo "touch"
@@ -173,20 +174,26 @@ Lavori in valutazione 🔨
     - contro: capire quanto risulterebbe ingombrante a bordo
 
 ##### Oggetti di uso quotidiano
-Ci sono alcuni oggetti di uso quotidiano che non possono mancare  a bordo, almeno per noi. 
-Ve li elenchiamo, dovessero servirvi come check list per partire in qualsiasi momento.
+Ci sono alcuni oggetti di uso quotidiano che non possono mancare a bordo, almeno per noi. 
+Ve li elenchiamo, dovessero servirvi come check list per partire in qualsiasi momento. Se vuoi vedere tutto quello che abbiamo a bordo basta andare **{{< extLink "qui" "https://www.amazon.it/shop/vandipety">}}**.
 
-pentola a pressione
-caffettiera
-robot cucina
-taglieri
-coltelli
-pippo
-scrubba
-spaz elettrico
-contenitori plastica cibo
-contenitori vestiti
-contenitori oggettistica
+
+- Vita di tutti i giorni
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0BFQB86ZL&linkId=bb9be606f129567d9d9647c741e44c98"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0915J8CF9&linkId=29f7ba2b63538976f0c1c036ecc8548e"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07RRBNNFF&linkId=9fd65842f58cdf864d9feb1fe9053931"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08L7VKH54&linkId=ec4ec156b8a5d82c0c5044d93bbae3e4"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07XBSDRZM&linkId=e99aa9bf9af7bc3f2b506df947e59cc5"></iframe>
+
+- Cucina
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B085SB1VHF&linkId=c894161df38a4877fd77a177bfbd7a0d"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B071LGWJWW&linkId=cd723d9e10f26ece92aa7d8b65e8e962"></iframe>
+
+- Per il bucato
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QG1PYC9&linkId=bf6c6816e744f591641cd279e7de21d5"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B002LLN7U6&linkId=097869060d32e8a7ffdd1cab55e798ca"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01MQO7S62&linkId=6447d5230c17887e552ca2d3cb4bd8d2"></iframe>
+
 
 #### Video
 Di seguito trovi i video girati con un tour del nostro mezzo e di come l'abbiamo organizzato, gli accessori installati e un focus in merito alla sicurezza a bordo.
