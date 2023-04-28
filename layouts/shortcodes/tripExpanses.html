@@ -1,7 +1,15 @@
 <!-- get param -->
-{{ $start:= (.Get 0) }}
-{{ $end:= (.Get 1) }}
+{{ $text:= (.Get 0) }}
+{{ $start:= (.Get 1) }}
+{{ $end:= (.Get 2) }}
 
+<blockquote>
+  <h6 id="testo">{{ $text }}</h5>
+  <div id="listExpanses"></div>
+  <h6>
+    <strong class="title-border">Totale : </strong><strong id="totalExpanses" class="title-border"></strong>
+  </h6>
+</blockquote>
 <!--=================== expanses script start ===================-->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@3.8.0/dist/chart.min.js"></script>
@@ -32,27 +40,24 @@
 
         console.log(data);
 
-
-
         let travelingSumCost = 0, i = 0;
+
+        // cancella i dati che non servono
         while(i < data.res.length){
           // console.log(data.res[i])
-          if(data.res[i].deleted_by == null)
+          if(toDate(data.res[i].date) <= toDate("{{ $start }}") 
+            || toDate(data.res[i].date) >= toDate("{{ $end }}")){
+              data.res[i].deleted_by = 1;      
+            }
+          else 
             travelingSumCost += parseFloat(data.res[i].cost);
+            
           i++;
         }
-        
-        travelingSumCost = Math.round((travelingSumCost + Number.EPSILON) * 100) / 100;
 
-        document.getElementById('listExpanses').innerText = travelingSumCost + ' €';
+        document.getElementById('totalExpanses').innerText = (Math.round((travelingSumCost + Number.EPSILON) * 100) / 100) + ' €';
 
-        // let day = parseInt(document.getElementById('travelingDay').innerText);
-        // costperDay = Math.round(((travelingSumCost / day) + Number.EPSILON) * 100) / 100
-
-        // document.getElementById('dailyCost').innerText = costperDay + ' €';
-
-        // setChart(data);
-        // setGrid(data);
+        setList(data);
 
         return data;
       },
@@ -62,11 +67,7 @@
     });
   }
 
-
-  let setChart = function(data){  
-    // load chart spese
-    const ctx = document.getElementById('catergory').getContext('2d');
-
+  let setList = function(data){  
     const obj = new Object();
 
     let i = 0;
@@ -76,8 +77,20 @@
         let cost = parseFloat(data.res[i].cost);
         let category_name = data.res[i].category.name;
         
+        if(category_name == 'Parcheggio')
+          category_name = 'Parcheggi';
+
+        if(category_name == 'Intrattenimento - Altro')
+          category_name = 'Musei';
+
         if(category_name == 'Hotel')
-          category_name = 'Campeggio'
+          category_name = 'Campeggio';
+
+        if(category_name == 'Spese personali - Altro')
+          category_name = 'Varie';
+
+        if(category_name == 'TV/Telefono/Internet')
+          category_name = 'Internet';
 
         let val = obj[category_name];
         
@@ -88,102 +101,21 @@
       i++;
     }
 
-    const _labels = Object.keys(obj);
-    const _data = Object.values(obj);
+    let entries = Object.entries(obj);
+    let sorted = entries.sort((a, b) => b[1] - a[1]);
 
-    console.log(_data);
-    console.log(_labels);
-
-    const color = [ 'rgba(255, 99, 132, 1)',
-                    'rgba(54, 162, 235, 1)',
-                    'rgba(255, 206, 86, 1)',
-                    'rgba(229, 122, 250, 1)',
-                    'rgba(32, 102, 255, 1)',
-                    'rgba(255, 159, 64, 1)',
-                    'rgba(153, 102, 255, 1)',
-                    'rgba(102, 178, 255, 1)',
-                    'rgba(153, 153, 255, 1)',
-                    'rgba(204, 255, 204, 1)',
-                    'rgba(255, 153, 153, 1)'
-    ]
-    const myChart = new Chart(ctx, {
-        type: 'doughnut',
-        data: {
-            labels: _labels, //['Cibo', 'Benzina', 'Manutenzione', 'Servizi', 'Varie', 'Animali'],
-            datasets: [{
-                label: 'Euro',
-                data: _data, 
-                backgroundColor: color,
-                borderColor: color,
-                borderWidth: 1
-            }]
-        }
-    }); 
-
-    // ------------------------------------------------------------------------------------------------------------
-    moment.locale('it');
-
-    const ctx2 = document.getElementById('monthly').getContext('2d');
-
-    const obj2 = new Object();
-
-    i = 0;
-    while(i < data.res.length){
-
-      if(data.res[i].deleted_by == null){
-        let cost = parseFloat(data.res[i].cost);
-        let month = moment(data.res[i].date).format('MMMM');
-        
-        let val = obj2[month];
-        
-        val = (val == undefined? 0 : val) + cost;
-
-        obj2[month] = Math.round((val + Number.EPSILON) * 100) / 100;
-      }
-      i++;
-    }
-
-    const _labels2 = Object.keys(obj2);
-    const _data2 = Object.values(obj2);
-    
-    i = 0;
-    while(i < _labels2.length){
-      if(document.getElementById('total' + _labels2[i]) != null)
-        document.getElementById('total' + _labels2[i]).innerText = obj2[_labels2[i]];
-       
-      i++;
-    }
-    // document.getElementById('totalMaggio').innerText = obj2[];
-
-    const myChart2 = new Chart(ctx2, {
-        type: 'bar',
-        options: {
-        plugins: {
-          legend: {
-              display: false
-            }
-          }
-        },
-        data: {
-            labels: _labels2.reverse(), //['Cibo', 'Benzina', 'Manutenzione', 'Servizi', 'Varie', 'Animali'],
-            datasets: [{
-                label: 'Euro',
-                data: _data2.reverse(), 
-                backgroundColor: color,
-                borderColor: color,
-                borderWidth: 1
-            }]
-        }
-    }); 
+    const ul = document.getElementById("listExpanses");
+    for(var j = 0; j < sorted.length;  j++)
+    { 
+      const li = document.createElement("li");
+      li.appendChild(document.createTextNode(`${sorted[j][0]}: ${sorted[j][1]} €`));
+      ul.appendChild(li);
+    } 
 
   }
 
-
   var getDaysArray = function(start, end) {
     for(var arr=[],dt=new Date(start); dt<=new Date(end); dt.setDate(dt.getDate()+1)){
-        // arr.push(new Date(dt));
-        
-        // arr.push(formatDate(new Date(dt)));
         arr[formatDate(new Date(dt))] = 0;
     }
     return arr;
@@ -193,8 +125,11 @@
     // let yourDate = new Date()
     return date.toISOString().split('T')[0];
   }
+
+  let toDate = function(date){
+    return new Date(date);
+  }
   
-  console.log('do it')
   getSW();
 
   </script>

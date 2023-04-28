@@ -14,20 +14,20 @@ Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese. 
 
 > ##### Tabella dei contenuti
 > - [Il Paese](#Paese)
->     - [Documenti e Visto](#Documenti) 
->     - [Clima](#Clima)
->     - [Come pagare](#Come-pagare)
->     - [Internet](#Internet)
->     - [Vaccini e assicurazione sanitaria](#Vaccini)
->     - [Sicurezza](#Sicurezza)
+> - [Documenti e Visto](#Documenti) 
+> - [Clima e quando andare](#Clima)
+> - [Come pagare](#Come-pagare)
+> - [Internet](#Internet)
+> - [Vaccini e assicurazione sanitaria](#Vaccini)
+> - [Sicurezza](#Sicurezza)
+> - [Mezzi di trasporto pubblici](#Mezzi)
+> - [Cosa mangiare](#Mangiare)
+> - [Dove dormire](#Dormire)
+> - [Viaggiare con il proprio animale](#Animali)
 > - [Itinerari](#Itinerario)
 >     - [7 Giorni](#Itinerario1) 
 >     - [14 Giorni](#Itinerario2)
 > - [Casamance](#Casamance)
-> - [Mezzi di trasporto pubblici](#Mezzi)
-> - [Dove e cosa mangiare](#Mangiare)
-> - [Dove dormire](#Dormire)
-> - [Viaggiare con il proprio animale](#Animali)
 > - [Link utili](#Link)
 >     - [Il nostro vlog](#Vlog)
 >     - [Le nostre mappe](#Mappe)
@@ -38,7 +38,7 @@ Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese. 
 ##### Il paese
 Il Senegal a differenza di molti altri paesi africani, citati per panorami mozzafiato o per itinerari unici in mezzo alla savana, offre agglomerati di capanne con tetto in paglia e abiti colorati svolazzanti qua e là, che trasportano in un tempo dimenticato. Alcune zone possono sembrare abbandonate a se stesse, ma la gentilezza delle persone non mancherà di stupirvi.
 Per questo motivo è forse un paese più da "{{< bold vivere >}}", a parer nostro, che da "{{< bold visitare >}}".
-Per quanto riguarda le città, la capitale è Dakar e la seconda più visitata è Saint Louis (scoprile qui insieme a noi ). 
+Per quanto riguarda le città, la capitale è Dakar e la seconda più visitata è Saint Louis.
 
 <div id="Documenti"></div>
 
@@ -122,8 +122,9 @@ La ricarica dei piani internet si può effettuare nei negozi che espongono il lo
 Non è richiesta alcuna vaccinazione obbligatoria per i viaggi in Senegal, tranne che per la vaccinazione contro la febbre gialla per viaggiatori maggiori di un anno di età, provenienti da Paesi in cui tale malattia è a rischio trasmissione (Kenya, Etiopia, ecc.), anche nel caso di solo transito aeroportuale, se questo è superiore alle 12 ore ed in ogni caso se si lascia l’aeroporto di scalo.
 Per informazioni su ulteriori vaccinazioni raccomandate ma non obbligatorie, ti consigliamo di consultare il tuo medico.
 Meglio portare con sé medicinali contro la dissenteria e un antibiotico ad ampio spettro, ma soprattutto un buon repellente per le zanzare.
- 
-Prima della partenza ti consigliamo di stipulare un’assicurazione sanitaria (noi abbiamo comprato un pacchetto assicurativo con viaggio sicuri per tutta la nostra permanenza in Africa, anche per il transito in Marocco e Mauritania).
+
+{{< assicurazione >}}
+
 Per maggiori informazioni ti rimandiamo al sito di {{< extLink "viaggiare sicuri" "https://www.viaggiaresicuri.it/find-country/country/SEN" "Stay safe!!" >}}.
 
 <div id="Sicurezza"></div>
@@ -135,6 +136,67 @@ A noi è successo un altro piccolo inconveniente: eravamo parcheggiati vicino a 
 Nella zona periferica della capitale Dakar si possono verificare maggiori episodi di microcriminalità, soprattutto furti o borseggi. Per evitare episodi spiacevoli (a noi {{< extLink "è successo" "https://youtu.be/Xb0CQXsTV1w">}}) evita di indossare gioielli e porta con te lo stretto necessario.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854092/Articoli/Senegal/Senegal_Bandiera_runzga.jpg" >}}
+
+<div id="Mezzi"></div>
+
+##### Mezzi di trasporto pubblici 
+I mezzi di trasporto in Senegal sono molto economici, ma è complicato poter fare affidamento sugli orari e sull’affidabilità dei veicoli.
+
+La linea ferroviaria è praticamente inesistente, mentre sono diffusi:
+
+- i 7-places o taxi-brousse: taxi collettivi che rappresentano il mezzo di trasporto più utilizzato. Partono solo quando si raggiungono i 7 passeggeri, vengono utilizzati per spostarsi da una parte all’altra della città o in città diverse e non effettuano fermate intermedie.
+- i minicar: sono autobus da una quindicina di posti (ma spesso caricano anche 20 persone).
+- i bus: sono autobus che appartengono a compagnie private e offrono fino a 60 posti. Sono utilizzati nelle tratte fra le città principali del Senegal.
+- i tam-tam: carretti trainati da cavalli o asini, diffusi per lo più nei piccoli villaggi. Offrono un passaggio a chiunque.
+- taxi: automobili decisamente datate, tipicamente gialle nel nord del paese e grigie a sud. 
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854060/Articoli/Senegal/Senegal_Cavalli_ft2m2t.jpg" >}}
+
+<div id="Mangiare"></div>
+
+##### Dove e cosa mangiare 
+In tutto il paese si trovano tantissime botteghine che vendono un po' di tutto oltre a banchetti di mercati quotidiani situati lungo tutte le strade, dove acquistare frutta, verdura e noccioline.
+
+I piatti nazionali senegalesi sono due: il Thieboudienne e lo Yassa. 
+Il Thieboudienne è composto da riso (bianco o rosso) con pesce accompagnato da verdure (pochi pezzettini di carota, cavolo e manioca). Si può trovare a volte con la carne. Un prezzo molto onesto è 1500 F a porzione.
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854084/Articoli/Senegal/Senegal_Tiebuden_4_yivo8o.jpg" >}}
+
+Lo Yassa poulet e lo yassa poisson sono invece rispettivamente piatti a base di pollo o pesce marinati e conditi con cipolla, pepe, sale, peperoncino e poi grigliati. Vengono accompagnati con riso. Ci è capitato di trovare il pesce anche sotto forma di polpette. 
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854083/Articoli/Senegal/Senegal_Tiebuden_Riso_qlzhvk.jpg" >}}
+
+Un altro piatto molto caratteristico è il maffè: uno spezzatino di manzo o pollo condito con pasta d’arachidi e accompagnato dal riso.
+
+Per quanto riguarda le bevande, si trovano frequentemente birre locali, la Malta (una birra analcolica ricca di vitamina B), il tè Kinkelibà e il caffè Touba (un caffè nel quale vengono messi in infusione chiodi di garofano e il djar, un pepe originario della vicina Guinea, noi l'abbiamo amato e costa solo 50 F a bicchierino a differenza del nespresso che ne costa 1000). 
+
+Sovente vi capiterà di aspettare anche un'ora per mangiare, soprattutto nei luoghi meno turistici, armatevi di pazienza. 
+
+Per quanto riguarda l'acqua, consigliamo di bere solamente quella in bottiglia.
+
+La frutta e la verdura si trovano ovunque. Frequenti sono angurie, banane e papaya, mentre durante la stagione delle piogge si trova ovunque il mango. I prezzi sono modici.
+La verdura viene rincarata per gli occidentali (parola di locali quando abbiamo detto loro che ci avevano chiesto 2 euro al chilo per carote e pomodori). Si trovano carote, pomodori, cavolo, melanzane e peperoni. Attenzione a lavarli bene e a consumarli in fretta, dal momento che vengono sovente esposti tutto il giorno al sole e sono già molto maturi.
+
+Piccola curiosità: in Casamance ricordati di provare il tapalapa, un pane composto da un mix di farine, cotto in forni di fango. 
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854096/Articoli/Senegal/Senegal_Tapalapa_xmjvdl.jpg" >}}
+
+<div id="Dormire"></div>
+
+##### Dove dormire
+Ascoltando l'esperienza di altri viaggiatori, nelle città principali si trovano ostelli e piccoli alberghi, che è meglio contattare telefonicamente dopo aver prenotato online. Lungo la costa si possono trovare anche resort più di lusso. 
+Per quanto riguarda i campeggi, dopo la pandemia il numero di quelli aperti è diminuito. Molti sono stati abbandonati. 
+Sostare in libera è possibile, con le dovute accortezze. 
+Noi abbiamo utilizzato le applicazioni park4night e iOverlander. 
+
+<div id="Animali"></div>
+
+##### Viaggiare con il proprio animale
+Per viaggiare extra Europa con il proprio animale occorre avere il passaporto, il microchip, la vaccinazione antirabbica in corso di validità e un documento che attesti la titolazione del vaccino (si effettua tramite un prelievo del sangue che viene analizzato in centri specializzati ed è obbligatorio per poter rientrare in Europa). 
+In Senegal non sono obbligatorie ulteriori profilassi particolari, in ogni caso noi abbiamo provveduto a somministrare a Olimpia e Sakè, i nostri cane e gatto, i consueti antiparassitari. Consigliamo di tenere il proprio animale sempre al guinzaglio, dal momento che numerosi animali selvatici camminano in ogni angolo del paese. 
+Sono frequenti casi di Leishmaniosi, valutate se fare il vaccino al vostro animale insieme al vostro veterinario. 
+Prestate particolare attenzione ai luoghi in cui vagano liberi i maiali, dal momento che sono portatori di un verme che può essere pericoloso e infettivo.
+A noi è successo, un pomeriggio in cui siedevano in spiaggia all'ombra delle palme, di trovare una piccola zecca sulle gambe di Paolo, quindi vi consigliamo di controllare quotidianamento voi e il pelo dei vostri animali.
 
 <div id="Itinerario"></div>
 
@@ -230,67 +292,6 @@ Come raggiungere la Casamance:
 
 Se pensi che possa interessarti questa zona ti consigliamo di inserirla nell'itinerario di 14 giorni, dedicandole almeno 5 giorni dato anche il tempo necessario per raggiungerla. 
 Se vuoi capire perchè abbiamo amato la Casamance puoi scoprirlo qui. 
-
-<div id="Mezzi"></div>
-
-##### Mezzi di trasporto pubblici 
-I mezzi di trasporto in Senegal sono molto economici, ma è complicato poter fare affidamento sugli orari e sull’affidabilità dei veicoli.
-
-La linea ferroviaria è praticamente inesistente, mentre sono diffusi:
-
-- i 7-places o taxi-brousse: taxi collettivi che rappresentano il mezzo di trasporto più utilizzato. Partono solo quando si raggiungono i 7 passeggeri, vengono utilizzati per spostarsi da una parte all’altra della città o in città diverse e non effettuano fermate intermedie.
-- i minicar: sono autobus da una quindicina di posti (ma spesso caricano anche 20 persone).
-- i bus: sono autobus che appartengono a compagnie private e offrono fino a 60 posti. Sono utilizzati nelle tratte fra le città principali del Senegal.
-- i tam-tam: carretti trainati da cavalli o asini, diffusi per lo più nei piccoli villaggi. Offrono un passaggio a chiunque.
-- taxi: automobili decisamente datate, tipicamente gialle nel nord del paese e grigie a sud. 
-
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854060/Articoli/Senegal/Senegal_Cavalli_ft2m2t.jpg" >}}
-
-<div id="Mangiare"></div>
-
-##### Dove e cosa mangiare 
-In tutto il paese si trovano tantissime botteghine che vendono un po' di tutto oltre a banchetti di mercati quotidiani situati lungo tutte le strade, dove acquistare frutta, verdura e noccioline.
-
-I piatti nazionali senegalesi sono due: il Thieboudienne e lo Yassa. 
-Il Thieboudienne è composto da riso (bianco o rosso) con pesce accompagnato da verdure (pochi pezzettini di carota, cavolo e manioca). Si può trovare a volte con la carne. Un prezzo molto onesto è 1500 F a porzione.
-
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854084/Articoli/Senegal/Senegal_Tiebuden_4_yivo8o.jpg" >}}
-
-Lo Yassa poulet e lo yassa poisson sono invece rispettivamente piatti a base di pollo o pesce marinati e conditi con cipolla, pepe, sale, peperoncino e poi grigliati. Vengono accompagnati con riso. Ci è capitato di trovare il pesce anche sotto forma di polpette. 
-
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854083/Articoli/Senegal/Senegal_Tiebuden_Riso_qlzhvk.jpg" >}}
-
-Un altro piatto molto caratteristico è il maffè: uno spezzatino di manzo o pollo condito con pasta d’arachidi e accompagnato dal riso.
-
-Per quanto riguarda le bevande, si trovano frequentemente birre locali, la Malta (una birra analcolica ricca di vitamina B), il tè Kinkelibà e il caffè Touba (un caffè nel quale vengono messi in infusione chiodi di garofano e il djar, un pepe originario della vicina Guinea, noi l'abbiamo amato e costa solo 50 F a bicchierino a differenza del nespresso che ne costa 1000). 
-
-Sovente vi capiterà di aspettare anche un'ora per mangiare, soprattutto nei luoghi meno turistici, armatevi di pazienza. 
-
-Per quanto riguarda l'acqua, consigliamo di bere solamente quella in bottiglia.
-
-La frutta e la verdura si trovano ovunque. Frequenti sono angurie, banane e papaya, mentre durante la stagione delle piogge si trova ovunque il mango. I prezzi sono modici.
-La verdura viene rincarata per gli occidentali (parola di locali quando abbiamo detto loro che ci avevano chiesto 2 euro al chilo per carote e pomodori). Si trovano carote, pomodori, cavolo, melanzane e peperoni. Attenzione a lavarli bene e a consumarli in fretta, dal momento che vengono sovente esposti tutto il giorno al sole e sono già molto maturi.
-
-Piccola curiosità: in Casamance ricordati di provare il tapalapa, un pane composto da un mix di farine, cotto in forni di fango. 
-
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854096/Articoli/Senegal/Senegal_Tapalapa_xmjvdl.jpg" >}}
-
-<div id="Dormire"></div>
-
-##### Dove dormire
-Ascoltando l'esperienza di altri viaggiatori, nelle città principali si trovano ostelli e piccoli alberghi, che è meglio contattare telefonicamente dopo aver prenotato online. Lungo la costa si possono trovare anche resort più di lusso. 
-Per quanto riguarda i campeggi, dopo la pandemia il numero di quelli aperti è diminuito. Molti sono stati abbandonati. 
-Sostare in libera è possibile, con le dovute accortezze. 
-Noi abbiamo utilizzato le applicazioni park4night e iOverlander. 
-
-<div id="Animali"></div>
-
-##### Viaggiare con il proprio animale
-Per viaggiare extra Europa con il proprio animale occorre avere il passaporto, il microchip, la vaccinazione antirabbica in corso di validità e un documento che attesti la titolazione del vaccino (si effettua tramite un prelievo del sangue che viene analizzato in centri specializzati ed è obbligatorio per poter rientrare in Europa). 
-In Senegal non sono obbligatorie ulteriori profilassi particolari, in ogni caso noi abbiamo provveduto a somministrare a Olimpia e Sakè, i nostri cane e gatto, i consueti antiparassitari. Consigliamo di tenere il proprio animale sempre al guinzaglio, dal momento che numerosi animali selvatici camminano in ogni angolo del paese. 
-Sono frequenti casi di Leishmaniosi, valutate se fare il vaccino al vostro animale insieme al vostro veterinario. 
-Prestate particolare attenzione ai luoghi in cui vagano liberi i maiali, dal momento che sono portatori di un verme che può essere pericoloso e infettivo.
-A noi è successo, un pomeriggio in cui siedevano in spiaggia all'ombra delle palme, di trovare una piccola zecca sulle gambe di Paolo, quindi vi consigliamo di controllare quotidianamento voi e il pelo dei vostri animali.
 
 <div id="Link"></div>
 
