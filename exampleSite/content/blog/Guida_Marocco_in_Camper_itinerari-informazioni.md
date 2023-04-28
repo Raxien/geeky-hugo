@@ -246,9 +246,9 @@ Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo i
 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}}
 
-Se quest'articolo o le mappe ti sono state utili e vuoi ringraziarci puoi offrici un litro di benzina:
+Se quest'articolo o le mappe ti sono state utili e vuoi ringraziarci puoi offrirci un litro di benzina:
 
-Se vuoi offrici un litro di benzina:
+Se vuoi offrirci un litro di benzina:
 
 {{< paypal >}}
 

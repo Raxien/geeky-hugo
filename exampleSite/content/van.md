@@ -115,6 +115,21 @@ Visti i 40.000 km è ora di cambiare filtro e olio motore, costo di 760 dh per l
 
 Costo totale 126,70 euro
 
+
+<div id="costi"></div>
+
+<details>
+  <summary>I costi nel dettaglio</summary>
+  
+  <div id="tblAccessory"></div>
+<!--   
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ``` -->
+</details>
+
 ###### Considerazioni sul mezzo
 Solo dopo due anni e dopo averci vissuto per più di 11 mesi abbiamo capito bene quanto è "entry level" e quali lavori dovremo fare per arginare questi limiti.
 Il non avere troppi accessori non è mai stato un contro, anzi. Siamo felici che mancassero in quanto non volevamo trovarci ad esempio con un tendalino che reputavamo e reputiamo ancora tutt'ora inutile.
@@ -177,23 +192,20 @@ Lavori in valutazione 🔨
 Ci sono alcuni oggetti di uso quotidiano che non possono mancare a bordo, almeno per noi. 
 Ve li elenchiamo, dovessero servirvi come check list per partire in qualsiasi momento. Se vuoi vedere tutto quello che abbiamo a bordo basta andare **{{< extLink "qui" "https://www.amazon.it/shop/vandipety">}}**.
 
+Di seguito alcuni prodotti che riteniamo indispensabili per {{< underline "vivere" >}} in van:
 
-- Vita di tutti i giorni
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0BFQB86ZL&linkId=bb9be606f129567d9d9647c741e44c98"></iframe>
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0915J8CF9&linkId=29f7ba2b63538976f0c1c036ecc8548e"></iframe>
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07RRBNNFF&linkId=9fd65842f58cdf864d9feb1fe9053931"></iframe>
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08L7VKH54&linkId=ec4ec156b8a5d82c0c5044d93bbae3e4"></iframe>
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07XBSDRZM&linkId=e99aa9bf9af7bc3f2b506df947e59cc5"></iframe>
 
-- Cucina
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B085SB1VHF&linkId=c894161df38a4877fd77a177bfbd7a0d"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B071LGWJWW&linkId=cd723d9e10f26ece92aa7d8b65e8e962"></iframe>
 
-- Per il bucato
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QG1PYC9&linkId=bf6c6816e744f591641cd279e7de21d5"></iframe>
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B002LLN7U6&linkId=097869060d32e8a7ffdd1cab55e798ca"></iframe>
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01MQO7S62&linkId=6447d5230c17887e552ca2d3cb4bd8d2"></iframe>
-
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B085SB1VHF&linkId=c894161df38a4877fd77a177bfbd7a0d"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B071LGWJWW&linkId=cd723d9e10f26ece92aa7d8b65e8e962"></iframe>
 
 #### Video
 Di seguito trovi i video girati con un tour del nostro mezzo e di come l'abbiamo organizzato, gli accessori installati e un focus in merito alla sicurezza a bordo.
