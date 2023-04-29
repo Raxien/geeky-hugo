@@ -10,7 +10,7 @@ victor: true
 ---
 
 Sogni di andare in Senegal ma non sai da dove iniziare?
-Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese. Sono informazioni scoperte sul luogo nel periodo in cui abbiamo transitato, cioè marzo 2022. 
+Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese. Sono informazioni scoperte sul luogo nel periodo in cui abbiamo transitato, cioè marzo 2023. 
 
 > ##### Tabella dei contenuti
 > - [Il Paese](#Paese)
