@@ -52,9 +52,14 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 **{{< underline "Giorno 10" >}}**: abbiamo visitato il paesino di Pont Aven, con il suo centro ben curato, approfittando di un piccolo mercato di contadini locali. Poi ci siamo spostati a Quimperle, dove abbiamo dormito in una sosta camper gratuita.
 
-**{{< underline "Giorno 11" >}}**: abbiamo raggiunto Vannes sotto la pioggia, poi abbiamo trovato un parcheggio ottimale in mezzo al bosco.
+**{{< underline "Giorno 11" >}}**: abbiamo raggiunto e passeggiato per le vie di Vannes sotto la pioggia, poi abbiamo trovato un parcheggio ottimale in mezzo al vicino bosco.
+
+**{{< underline "Giorno 12" >}}**: abbiamo visitato il piccolo ma delizioso borgo di Vitrè e ci siamo spostati a Rennes.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804772/Articoli/francia/IMG_3897_ytghyv.jpg" >}}
+
+Da qui in poi le nostre avventure sono proseguite verso sud, sempre seguendo la costa atlantica. Abbiamo attraversato la regione che si chiama Pays de la Loira, facendo solo un paio di tappe a Chateubriand (bellissimo e minuscolo borgo circondato da natura rigogliosa) e Nantes (purtroppo diluviava ma siamo comunque riusciti a vedere la statua dell'elefante, ispirato a Jules Verne e Leonardo, che barrisce e sputa acqua in movimento ) e rimandando al futuro invece la visita dei castelli della Loira. 
+Infine ci siamo diretti in Nuova Aquitania (trovi tutto qui)
 
 
 ##### In Breve
