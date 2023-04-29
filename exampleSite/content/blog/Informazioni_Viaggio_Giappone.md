@@ -117,7 +117,7 @@ Una volta scesi andiamo a visitare il **{{< bold "Golden Gai" >}}**
 
 **{{< underline "Giorno 1" >}}** iniziamo la visita della città partendo dal castello Nijo, passando per il mercato di Nishiki.
 
-**{{< underline "Giorno 2" >}}** 
+**{{< underline "Giorno 2" >}}** Il giorno seguente andiamo a fare qualcosa
 
 **{{< underline "Giorno 3" >}}** 
 
