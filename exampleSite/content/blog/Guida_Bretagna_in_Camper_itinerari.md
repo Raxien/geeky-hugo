@@ -87,7 +87,7 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
 
 **{{< underline "Giorno 11" >}}**: Vannes 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804772/Articoli/francia/IMG_3897_ytghyv.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682805540/Articoli/francia/IMG_3844_ikkvde.jpg" >}}
 
 <div id="Strade"></div>
 
