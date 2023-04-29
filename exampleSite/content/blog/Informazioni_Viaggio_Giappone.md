@@ -5,11 +5,7 @@ image:
 date: 2022-07-26T17:00:00.000
 categories: ["Viaggio", "Guide", "Giappone"]
 type: featured
-<<<<<<< HEAD
 draft: false
-=======
-draft: true
->>>>>>> 71f996ee8ca842573583c2fa5b63ac8e996d85b8
 ---
 
 Se stai cercando una destinazione che ti offra un'esperienza di viaggio unica, il Giappone è il posto giusto per te. Con una cultura millenaria, una cucina deliziosa e una perfetta armonia tra il passato e futuro, questo paese asiatico ha molto da offrire ai viaggiatori di ogni tipo. In questo articolo, esploreremo le ragioni per cui dovresti visitare il Giappone e ti proporremo alcuni itinerari imperdibili per il tuo viaggio nati dopo svariate visite nel paese.
@@ -117,9 +113,9 @@ Una volta scesi andiamo a visitare il **{{< bold "Golden Gai" >}}**
 
 **{{< underline "Giorno 6" >}}** con un ora di bus ci spostiamo nel surreale villaggio di **{{< bold "Shirakawa-Go" >}}**. Nel pomeriggio ci spostiamo a **{{< bold "Takayama" >}}**
 
-**{{< underline "Giorno 7" >}}** visitiamo il parco di Shiroyama, il mercato di Jinya 
+**{{< underline "Giorno 7" >}}** visitiamo Takayama partendo dal parco di Shiroyama, passando per il mercato di Jinya e perdendoci nello storico quartiere di Sanmachi Suji, detto anche "la piccola Kyoto". Nel tardo pomeriggio prendiamo il treno per **{{< bold "Kyoto" >}}** (3 ore circa)
 
-**{{< underline "Giorno 1" >}}** 
+**{{< underline "Giorno 1" >}}** iniziamo la visita della città partendo dal castello Nijo, passando per il mercato di Nishiki.
 
 **{{< underline "Giorno 2" >}}** 
 
@@ -133,17 +129,6 @@ Una volta scesi andiamo a visitare il **{{< bold "Golden Gai" >}}**
 
 **{{< underline "Giorno 7" >}}** 
 
-##### 14 Giorni
-
-
-SABATO 30/03: TAKAYAMA (vedi foto percorso, valutare poi bene in base al giorno prima)
-* SHIROYAMA
-* MERCATO TAKAYAMA JINYA
-* SANMACHI SUJI
-* YOSHIJIMA HERITAGE HOUSE
-* HIDA TEMPLE
-* spostamento a KYOTO 3 ore circa es treno 18.46-22.10. ritiro bagagli in luogo apposta.
-
 DOMENICA 31/03: KYOTO
 * CASTELLO NIJO
 * MERCATO NISHIKI
@@ -153,13 +138,11 @@ DOMENICA 31/03: KYOTO
 * PARCO MARUYAMA
 * GION
 
-
 LUNEDì 01/04: KYOTO
 * TEMPIO KIYOMIZUDERA
 * SANNENZAKA+NINENZAKA
 * QUARTIERE HIGIASHIYIAMA
 * PONTOCHO
-
 
 MARTEDì 02/04: KYOTO
 * KINKAKUJI (TEMPIO D’ORO)
