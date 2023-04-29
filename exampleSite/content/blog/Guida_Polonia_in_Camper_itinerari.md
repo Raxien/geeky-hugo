@@ -178,10 +178,9 @@ In camper o auto, mete imperdibili:
 <div id="Vlog"></div>
 
 ##### Il nostro Vlog
-Puoi rivedere il nostro ingresso in Polonia oppure la serie completa {{< extLink "qui" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV" >}}.
+Nel video qui sotto puoi rivedere il nostro ingresso in Polonia oppure trovi la serie completa {{< extLink "a questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV" >}}.
 
-<!-- https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV -->
-{{< youtube PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV >}}
+{{< youtube d5blVGXVJ08 >}}
 
 <!-- <div id="Mappe"></div> -->
 
