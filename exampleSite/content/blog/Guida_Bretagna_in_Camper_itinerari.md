@@ -2,13 +2,13 @@
 title: 'Bretagna in camper: itinerario, consigli e informazioni utili'
 description: "Alla scoperta della Bretagna in camper. Un viaggio on the road fantastico!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806078/Articoli/francia/IMG_5394_qzokva.jpg
-date: 2023-03-07T17:00:00.000
+date: 2023-04-10T17:00:00.000
 categories: ["Viaggio", "Guide", "Francia", "Camper"]
 type: featured
 draft: false
 ---
 
-Visitare la Bretagna in camper, van o auto vuol dire ammirare panorami mozzafiato e per noi è diventata una meta che consideriamo imperdibile. Vuoi qualche consiglio su come visitare questa regione francese on the road? In questo articolo ti racconteremo la nostra esperienza vissuta nel settembre 2022. 
+Visitare la Bretagna in camper, van o auto vuol dire ammirare panorami mozzafiato e per noi è diventata una meta che consideriamo **{{< bold "imperdibile" >}}**. Vuoi qualche consiglio su come visitare questa regione francese on the road? In questo articolo ti racconteremo la nostra esperienza vissuta nel settembre 2022. 
 Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tappe [qui](/blog/guida_normandia_in_camper_itinerari/).
 
 > ##### Tabella dei contenuti

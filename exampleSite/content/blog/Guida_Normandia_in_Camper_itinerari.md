@@ -2,7 +2,7 @@
 title: 'Normandia in camper: itinerario, consigli e informazioni utili'
 description: "Alla scoperta della Normandia in camper. Un viaggio on the road fantastico!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804742/Articoli/francia/IMG_4788_qzts1g.jpg
-date: 2023-03-07T17:00:00.000
+date: 2023-04-15T17:00:00.000
 categories: ["Viaggio", "Guide", "Francia", "Camper"]
 type: featured
 draft: false
