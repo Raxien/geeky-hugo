@@ -56,6 +56,8 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804772/Articoli/francia/IMG_3897_ytghyv.jpg" >}}
 
+Da qui in poi le nostre avventure sono proseguite verso sud, sempre seguendo la costa atlantica. Abbiamo attraversato la regione che si chiama Pays de la Loira, facendo solo un paio di tappe a Chateubriand (bellissimo e minuscolo borgo circondato da natura rigogliosa) e Nantes (purtroppo diluviava ma siamo comunque riusciti a vedere la statua dell'elefante, ispirato a Jules Verne e Leonardo, che barrisce e sputa acqua in movimento ) e rimandando al futuro invece la visita dei castelli della Loira. 
+Infine ci siamo diretti in Nuova Aquitania (a presto l'articolo completo).
 
 ##### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera. 
