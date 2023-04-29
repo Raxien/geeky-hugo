@@ -133,8 +133,6 @@ Nel video qui sotto puoi rivedere la nostra meraviglia di fronte ai fari oppure 
 
 {{< youtube QW8a24Bg_co >}}
 
-
-
 <!-- <div id="Mappe"></div> -->
 
 <!-- ##### Le nostre mappe -->
