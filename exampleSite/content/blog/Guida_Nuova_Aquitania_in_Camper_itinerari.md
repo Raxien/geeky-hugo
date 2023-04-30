@@ -29,7 +29,7 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 **{{< underline "Giorno 1-2" >}}**: siamo arrivati a La Rochelle sotto al diluvio, motivo per cui abbiamo deciso di sostare nei pressi dell'aeroporto e fare giusto due passi sulla scogliera. L'indomani abbiamo visitato il centro città sempre sotto al diluvio, spostandoci nel parcheggio vicino al piccolo porticciolo e scoprendo il mercato coperto. Nel pomeriggio ci siamo spostati lungo le sponde di un fiume per sgranchire le gambe passeggiando seguendo la riva e poi a Saint-Thomas-de-Conac, un piccolo paesino di campagna, per la notte. Sosta in libera.
 
-**{{< underline "Giorno 3-4" >}}**: abbiamo approfittato del sole per pulire tutto il van, immersi fra le colline del luogo, per poi dirigerci a Bordeaux, dove abbiamo sostato nei pressi di un lago fuori città. ne abbiamo approfittato anche per cercare un'officina per fare cambio olio e filtro e sistemare alcuni problemi ai plissettati.  
+**{{< underline "Giorno 3-4" >}}**: abbiamo approfittato del sole per pulire tutto il van, immersi fra le colline del luogo, per poi dirigerci a Bordeaux, dove abbiamo sostato nei pressi di un lago fuori città. Ne abbiamo approfittato anche per cercare un'officina per fare cambio olio e filtro e sistemare alcuni problemi al van.  
 
 **{{< underline "Giorno 5-6" >}}**: sbrigate le incombenze meccaniche ci siamo diretti nel parcheggio messo a disposizione da una famiglia che abita vicino alla vigna di proprietà a Vignobles Pestoury. Abbiamo approfittato del giro offerto e della degustazione, acquistando poi un paio di bottiglie di vino, davvero delizioso. 
 
@@ -39,7 +39,7 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 **{{< underline "Giorno 8" >}}**: ci siamo spostati a Cap Ferret, dove è possibile fare bellissime passeggiate sulla spiaggia e vedere tamonti mozzafiato. Sosta in libera.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806087/Articoli/francia/IMG_5489_w4edks.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862713/Articoli/francia/IMG_7621_yt3nni.jpg" >}}
 
 **{{< underline "Giorno 9-10" >}}**: abbiamo visitato la vicina l'Herbe, una piccola realtà di pescatori in cui perdersi fra reti e capanne. Poi ci siamo spostati a Biganos, un piccolo porticciolo con una fila di casette deliziose tutte colorate e infine ad Arcachon, dove abbiamo fatto due passi nel quartiere chiamato "Ville d'Hitre", con ville spettacolari dell'epoca di Napoleone III. Il centro del paese è decisamente chic, si può passeggiare fino a riva assaggiando i pasticcini di pasta choux. Sosta in libera.
 
@@ -113,7 +113,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "Dune di Pilat" >}}**: un must da vedere questo deserto che si affaccia sulla costa atlantica! 
 -   **{{< bold "Bayonne" >}}**: a noi questa cittadina è piaciuta davvero tanto, molto più autentica della vicina, più turistica e chic, Biarritz.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806037/Articoli/francia/IMG_4808_a5cb9x.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682863464/Articoli/francia/A11AE756-B3B1-4867-AB22-DC1B3797A139_2_qys5ua.jpg" >}}
 
 <div id="Link"></div>
 
