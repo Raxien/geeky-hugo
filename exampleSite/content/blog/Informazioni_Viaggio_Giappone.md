@@ -3,9 +3,9 @@ title: 'Viaggio in Giappone: tutto quello da sapere e itinerari'
 description: ""
 image: 
 date: 2022-07-26T17:00:00.000
-categories: ["Viaggio", "Guide", "Giappone"]
+categories: ["Asia", "Guida", "Itinerario"]
 type: featured
-draft: true
+draft: false
 ---
 
 Se stai cercando una destinazione che ti offra un'esperienza di viaggio unica, il Giappone è il posto giusto per te. Con una cultura millenaria, una cucina deliziosa e una perfetta armonia tra il passato e futuro, questo paese asiatico ha molto da offrire ai viaggiatori di ogni tipo. In questo articolo, esploreremo le ragioni per cui dovresti visitare il Giappone e ti proporremo alcuni itinerari imperdibili per il tuo viaggio nati dopo svariate visite nel paese.
@@ -19,13 +19,14 @@ Se stai cercando una destinazione che ti offra un'esperienza di viaggio unica, i
 > - [Mezzi di trasporto pubblici](#mezzi-di-trasporto-pubblici)
 > - [Cosa mangiare](#cosa-mangiare)
 > - [Dove dormire](#dove-dormire)
-> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
 > - [Itinerari](#itinerari)
 >     - [8 Giorni](#8-giorni) 
 >     - [14 Giorni](#14-giorni) 
 > - [I parchi e altre escursioni](#i-parchi-e-altre-escursioni)
-> - [Il nostro vlog](#il-nostro-vlog)
-     <!-- - [Le nostre mappe](#Mappe) -->
+
+<!-- - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale) -->
+<!-- - [Il nostro vlog](#il-nostro-vlog) -->
+<!-- - [Le nostre mappe](#Mappe) -->
 
 ##### Il paese
 Il Giappone è una delle nazioni più affascinanti e influenti al mondo. La sua storia è ricca di tradizioni, con riti e cerimonie che risalgono a secoli fa. Il paese offre anche molte attrazioni moderne, come i grattacieli di Tokyo, le tecnologie avanzate, i parchi tematici e molto altro ancora. 
@@ -57,6 +58,8 @@ Possibilità di ritiro all'aeroporto o di consegna direttamente a casa una sim d
 
 ##### Vaccini e assicurazione sanitaria
 L'Italia ha un accordo bilaterale con la Polonia, che prevede che i cittadini italiani che visitano la Polonia abbiano diritto all'assistenza sanitaria pubblica gratuita in caso di emergenza o malattia improvvisa. E' necessario presentare la Tessera Sanitaria.
+
+{{< assicurazione >}}
  
 Per maggiori informazioni vi rimandiamo al sito di {{< extLink "viaggiare sicuri" "https://www.viaggiaresicuri.it/find-country/country/POL" "Stay safe!!" >}}.
 
@@ -67,7 +70,8 @@ Il Giappone ha un'eccellente rete di trasporti pubblici, che include autobus, tr
 
 ##### Dove dormire
 
-##### Viaggiare con il proprio animale
+<!-- prossimamente -->
+<!-- ##### Viaggiare con il proprio animale -->
 
 ##### Itinerari
 In questa sezione ti proponiamo due itinerari che puoi compiere con i mezzi pubblici. Si basano su due viaggi effettuati nel paese (aprile 2017 e fine marzo-inizio aprile 2019). In un capitolo finale i luoghi che secondo noi meritano maggiormente e non vanno persi.
@@ -97,7 +101,7 @@ Partenza dall'aeroporto di Narita, Tokyo, e rientro dall'Aeroporto Internazional
 <div id="itinerario2"></div>
 
 ###### 14 Giorni
-L'itinerario classico. Permette di assaporare il Giappone in 8 giorni e vedere le principali attrazioni.
+L'itinerario Vandipety, permette di calarsi appieno nella cultura Giapponese partendo dalla futuristica Tokyo fino a ricalcare mete ricche di cultura passando dalle alpi giapponesi.
 Per ragioni economiche siamo partiti dall'aeroporto di Narita, Tokyo, e rientro dall'Aeroporto Internazionale di Tokyo. Se disponibile consigliamo di rientrare dall'Aeroporto Internazionale di Osaka cosi da vedere anche questa città.
 
 **{{< underline "Giorno 1" >}}** arrivo all'aeroporto di Narita e transfer all'hotel tramite treno. Visita del parco di **{{< bold "Ueno" >}}** e spostamento in serata al quartiere di **{{< bold "Akihabara" >}}**
@@ -106,107 +110,40 @@ Per ragioni economiche siamo partiti dall'aeroporto di Narita, Tokyo, e rientro 
 
 **{{< underline "Giorno 3" >}}** visita del quartiere **{{< bold "Asakusa" >}}** e il famoso **{{< bold "tempio Sensoji" >}}**. Nel pomeriggio fai due passi nell'isola artificiale di **{{< bold "Odaiba" >}}** per poi andare la sera a vedere la **{{< bold "Tokyo Tower" >}}**
 
-**{{< underline "Giorno 4" >}}** ci svegliamo presto per andare a prendere il treno in direzione **{{< bold "Kamakura" >}}** (circa 1 ora). Rientriamo verso sera e ci fermiamo ne quartiere governativo di **{{< bold "Shinjuku" >}}** per vedere Tokyo gratuitamente dall'alto sul palazzo del governo metropolitano.
-Una volta scesi andiamo a visitare il **{{< bold "Golden Gai" >}}**
+**{{< underline "Giorno 4" >}}** sveglia presto per andare a prendere il treno in direzione **{{< bold "Kamakura" >}}** (circa 1 ora). Rientro nel primo pomeriggio con visita nel quartiere governativo di **{{< bold "Shinjuku" >}}** per vedere Tokyo  dall'alto _gratuitamente_ sul palazzo del governo metropolitano.
+In serata passeggiata nel **{{< bold "Golden Gai" >}}**
 
-**{{< underline "Giorno 5" >}}** prendiamo il primo shinkansen per andare a **{{< bold "Kanazawa" >}}** (3 ore). Visitiamo il parco Kenrokuen, il castello, il distretto delle geisha e il mercato di Omicho.
+**{{< underline "Giorno 5" >}}** direzione **{{< bold "Kanazawa" >}}** raggiungibile con uno _Shinkansen_ (il treno proiettile) in 3 ore. Visita del parco Kenrokuen, il castello, il distretto delle geisha e il mercato di Omicho.
 
-**{{< underline "Giorno 6" >}}** con un ora di bus ci spostiamo nel surreale villaggio di **{{< bold "Shirakawa-Go" >}}**. Nel pomeriggio ci spostiamo a **{{< bold "Takayama" >}}**
+**{{< underline "Giorno 6" >}}** visita del surreale villaggio senza tempo di **{{< bold "Shirakawa-Go" >}}**. Nel pomeriggio trasferimento a **{{< bold "Takayama" >}}**
 
-**{{< underline "Giorno 7" >}}** abbiamo visitato Takayama partendo dal parco di Shiroyama, passando per il mercato di Jinya e perdendoci nello storico quartiere di Sanmachi Suji, detto anche "la piccola Kyoto". Nel tardo pomeriggio prendiamo il treno per **{{< bold "Kyoto" >}}** (3 ore circa)
+**{{< underline "Giorno 7" >}}** visita di Takayama partendo dal parco di Shiroyama, passando per il mercato di Jinya e finendo nello storico quartiere di Sanmachi Suji, detto anche "la piccola Kyoto". Nel tardo pomeriggio trasferimento in treno per **{{< bold "Kyoto" >}}** (3 ore circa)
 
-**{{< underline "Giorno 1" >}}** iniziamo la visita della città partendo dal castello Nijo, passando per il mercato di Nishiki.
+**{{< underline "Giorno 8" >}}** visita dell'antica capitale partendo in mattinata dal **{{< bold "castello Nijo" >}}**, passando per il **{{< bold "mercato di Nishiki" >}}**, per poi camminare nel **{{< bold "parco di Maruyama" >}}** e finendo per visitare il **{{< bold "santuario Yasaka" >}}**. Nel pomeriggio direzione **{{< bold "passeggiata del filoso" >}}** tramite pulman (30 minuti) e visita dei suoi numerosi santuari.
 
-**{{< underline "Giorno 2" >}}** Il giorno seguente andiamo a fare qualcosa
+**{{< underline "Giorno 9" >}}** visita del **{{< bold "tempio Kiyomizudera" >}}** per poi fare un tuffo nel passato passeggiando lungo le due stradine **{{< bold "Ninenzaka" >}}** e **{{< bold "Sannenzaka" >}}**. Nel pomeriggio vista al quartiere di **{{< bold "Pontocho" >}}** e dintorni.
 
-**{{< underline "Giorno 3" >}}** 
+**{{< underline "Giorno 10" >}}** visita del **{{< bold "tempio d'oro (Kinkakuji)" >}}** e del giardino roccioso nel **{{< bold "tempio Ryōan-ji" >}}**. Spostamento nel quartiere di **{{< bold "Arashiyama" >}}** per vedere la **{{< bold "foresta di bambù" >}}** e il **{{< bold "tempio Tenryū-ji" >}}**. Per ultimo visita del **{{< bold "Saga Toriimoto" >}}**, un vialetto costeggiato da diverse case in legno.
 
-**{{< underline "Giorno 4" >}}** 
+**{{< underline "Giorno 11" >}}** sveglia presto per andare a camminare al **{{< bold "Fushimi Inari" >}}**. Nel pomeriggio spostamento a Nara e visita del **{{< bold "tempio Toda-ji" >}}**
 
-**{{< underline "Giorno 5" >}}** 
+**{{< underline "Giorno 12" >}}** direzione **{{< bold "Hiroshima" >}}** tramite _Shinkansen_ in 2 ore. Giornata dedicata alla visita del suggestivo parco Shukkeien, il memoriale della pace e la città. Nel pomeriggio visita dell'isola di **{{< bold "Miyajima" >}}** e del suggestivo Torii nell'acqua raggiungibile con un treno (30 minuti) e poi in traghetto (15 minuti).
 
-**{{< underline "Giorno 6" >}}** 
+**{{< underline "Giorno 13" >}}** sveglia presto per vedere il Torii immerso nell'acqua e visita dell'isola con particolare attenzione al tempio Daisho-in, al monte Misen (raggiungibile con 2 ore di camminata o con la teleferica). Nel tardo pomeriggio rientro a Tokyo (circa 5 ore di treno)
 
-**{{< underline "Giorno 7" >}}** 
-
-DOMENICA 31/03: KYOTO
-* CASTELLO NIJO
-* MERCATO NISHIKI
-* PASSEGGIATA DEL FILOSOFO (si raggiunge in circa 30 min di bus)
-* TEMPIO CHION IN
-* SANTUARIO YASAKA
-* PARCO MARUYAMA
-* GION
-
-LUNEDì 01/04: KYOTO
-* TEMPIO KIYOMIZUDERA
-* SANNENZAKA+NINENZAKA
-* QUARTIERE HIGIASHIYIAMA
-* PONTOCHO
-
-MARTEDì 02/04: KYOTO
-* KINKAKUJI (TEMPIO D’ORO)
-* TEMPIO RYOAN-JI
-* ARASHIYAMA
-* FORESTA BAMBù
-* TENRUJI
-* SAGA TORIIMOTO
-
-
-MERCOLEDì 03/04: KYOTO
-* FUSHIMI INARI
-* spostamento a NARA+TEMPIO TODAJI
-* spedire bagagli a Tokyo
-
-
-GIOVEDì 04/04: spostamento ad HIROSHIMA in 2 ore 08.00-09.56
-* PARCO SHUKKEIEN
-* CASTELLO
-* CENTRAL PARK
-* MEMORIALE DELLA PACE
-* spostamento in treno (circa 30 min)+traghetto (circa 15 min) MIYAJIMA
-* TORII
-* TELEFERICA PER MONTE MISEN (oppure 2 ore circa a piedi, valutare se salire il giorno dopo)
-
-
-VENERDì 05/04: MIYAJIMA
-* TORII mattino presto vista senza marea e traghetti
-* TEMPIO DAISHO-IN
-* valutare e invertire con gg prima monte misen
-* spostamento a TOKYO 5 ore di treno(+15 min di traghetto dall’isola).Bagagli già in albergo
-
-
-SABATO 06/04: TOKYO
-* SUGAMO
-* RIKUGIEN GARDEN
-* YANAKA GINZA
-* rientro per ritirare bagagli e andare in aeroporto
-* 
-
+**{{< underline "Giorno 14" >}}** ultimo giorno dedicato a vedere di nuovo il parco di Ueno e il Yanaka Ginza per poi andare verso il quartiere della terza età di Sugamo e del giardino Rikugien. 
 
 ##### I parchi e altre escursioni
-La Polonia ha numerosi parchi nazionali e riserve naturali che offrono una grande varietà di paesaggi e attività all'aperto.
 
-Noi abbiamo avuto la fortuna di visitare i Monti Tatra e il parco di Slowinski ({{< extLink "un deserto in Polonia?" "https://youtu.be/kYUqetI7HHQ" >}}), rimanendo affascinati in entrambi i luoghi.
+<!-- Prossimamente -->
+<!-- ##### Il nostro Vlog -->
+<!-- Se vuoi vedere i nostri vlog sulla Polonia ti lasciamo di seguito i video:  -->
 
-Il Parco Nazionale dei Monti Tatra è un'importante destinazione per gli amanti della natura e degli sport all'aperto. Situato al confine tra la Polonia e la Slovacchia, ospita la più alta catena montuosa dei Carpazi, con vette che raggiungono i 2.500 metri. Offre una grande varietà di attività all'aperto, tra cui trekking, sci, arrampicata e mountain bike. D'estate la temperatura è mite e piacevole, ma può essere minata da temporali (noi siamo dovuti fuggire a causa di un fastidioso acquazzone).
-
-Il Parco Nazionale di Slowinski, situato sulla costa del Mar Baltico, è famoso per le sue dune di sabbia mobili che si estendono per oltre 40 chilometri lungo la costa. La più famosa è la duna di Lebka. Il parco offre numerose attività all'aperto, tra cui escursioni, camminate sulla spiaggia, e visite ai villaggi di pescatori locali e ai carboni fossili. 
-Per maggiori informazioni relative al parco ti rimandiamo {{< extLink "qui" "https://slowinskipn.pl/en/about-the-park" >}}, mentre per quanto riguarda i prezzi sia dell'ingresso al parco che del parcheggio trovi tutto {{< extLink "qui" "https://slowinskipn.pl/en/en-price-list2.html" >}}.
-Attenzione: i cani non sono ammessi nel parco ed è vietato campeggiare.
-
-Uno dei parchi nazionali più famosi che per il momento non abbiamo avuto il piacere di visitare è il Parco Nazionale di Białowieża, situato nella parte orientale della Polonia. Al suo interno ospita l'ultima foresta primaria della pianura europea, dove è possibile ammirare specie animali uniche, tra cui il bisonte europeo.
-
-Infine, il Parco Nazionale di Kampinos è situato a pochi chilometri a ovest di Varsavia, è il parco nazionale più vicino alla capitale. Ospita una grande varietà di flora e fauna, tra cui cervi, cinghiali, lontre e numerose specie di uccelli e offre numerose attività all'aperto, tra cui escursioni a piedi, in bicicletta e in canoa.
-
-##### Il nostro Vlog
-Se vuoi vedere i nostri vlog sulla Polonia ti lasciamo di seguito i video: 
-
-- vlog
+<!-- - vlog -->
 <!-- https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV -->
-{{< youtube PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV >}}
+<!-- {{< youtube PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV >}} -->
 
-Oppure la playlist completa {{< extLink "qui" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV" >}}
+<!-- Oppure la playlist completa {{< extLink "qui" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV" >}} -->
 
 <!-- <div id="Mappe"></div> -->
 
@@ -215,4 +152,4 @@ Oppure la playlist completa {{< extLink "qui" "https://youtube.com/playlist?list
 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
 
-{{< blogFooter "PL" "1" "0" >}}
+{{< blogFooter "JAP" "1" "0" >}}

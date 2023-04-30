@@ -3,11 +3,8 @@ title: 'Salisburgo: un tour culinario tra palle di Mozart e birrificio Stiegl'
 description: Patria natale di Mozart, incastonata fra fortezze e montagne, Salisburgo si rivela angolo dopo angolo come una sinfonia andante, fra alti palazzi e curati giardini. 
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1656413065/Articoli/salisburgo/salisburgo_1_1_eadwpf.jpg
 date: 2022-06-28T11:00:00.000+01:00
-categories: ["Viaggio", "Austria"]
+categories: ["Europa", "Itinerario"]
 type: regular
-Victor_Hugo: 'true'
-Focus_Keyword: cambiare vita famiglia
-Victor_Hugo_Clean: 'false'
 ---
 Siamo arrivati in città una domenica di inizio giugno, con più di 30 gradi inaspettati, per cui abbiamo subito deciso che il nostro tour di Salisburgo sarebbe stato un po' meno culturale e forse più culinario.  
 Abbiamo dormito fuori città ma alle 9 eravamo già pronti a camminare per sfruttare le prime ore del mattino insieme a Sakè e Olimpia. Quindi dopo aver indossato scarpe e guinzagli abbiamo iniziato a curiosare.  

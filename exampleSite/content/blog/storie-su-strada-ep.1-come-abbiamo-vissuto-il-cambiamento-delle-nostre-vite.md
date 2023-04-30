@@ -1,12 +1,12 @@
 +++
-categories = ["Curiosità"]
+categories = ["Curiosità", "YouTube"]
 date = 2023-01-17T09:18:00Z
 description = "Dove ci porterà tutto questo non lo sappiamo, ma sentiamo che ci sta accrescendo sotto tanti punti di vista e a oggi è l’investimento migliore che potessimo fare su noi stessi."
 image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1674035838/Articoli/storie_su_stra_ep1_ruaori.png"
 title = "“Storie su strada” ep.1: Come abbiamo vissuto il cambiamento delle nostre vite "
 type = "regular"
-
 +++
+
 Benvenuti a Storie su strada, il podcast che parla di cambiamento, di come viene vissuto, di tutte le forme che può assumere.
 
 Nel primo episodio parliamo di noi, della nostra storia. Dovevamo crederci per primi, metterci in discussione. E se non l’avessimo fatto forse questo podcast non avrebbe mai avuto un inizio.

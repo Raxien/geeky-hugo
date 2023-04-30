@@ -1,17 +1,12 @@
 ---
 title: 'Non solo l’ennesimo blog: la storia di una "famiglia bestiale"'
-description: Di come cambiare vita, di viaggi e avventure, degli incontri sulla via,
-  di come viaggiare con un gatto al guinzaglio.
+description: Di come cambiare vita, di viaggi e avventure, degli incontri sulla via, di come viaggiare con un gatto al guinzaglio.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1655735460/Articoli/questo_blog_1.2_snz7mt.jpg
 date: 2022-06-20T09:18:00.000+01:00
-categories:
-- Curiosità
+categories: ["Curiosità"]
 type: regular
-Victor_Hugo: 'true'
-Focus_Keyword: cambiare vita famiglia
-Victor_Hugo_Clean: 'false'
-
 ---
+
 Perché questo blog? Cosa ci può essere di nuovo da scrivere, dire o mostrare nel 2022?  
 Si può ancora ascoltare quella voce dentro di sé che dice di far qualcosa per non seppellirsi sotto le lamentele quotidiane e cambiare finalmente quella vita che non ci si sente cucita addosso? Noi vogliamo **crederci**. Noi vogliamo **provarci**.  
 Abbiamo iniziato a condividere la passione per i viaggi e per i cambiamenti 5 anni fa, quando pensavamo che una distanza di 100 km non ci avrebbe permesso di portare avanti una relazione stabile e creare una famiglia. Abbiamo cambiato idea, abbiamo prenotato quel treno per Parigi, e abbiamo iniziato a darci una *possibilità*. 

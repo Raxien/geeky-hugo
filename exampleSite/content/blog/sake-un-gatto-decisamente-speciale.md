@@ -6,9 +6,6 @@ date: 2022-06-24T12:00:00+01:00
 categories: ["Curiosità", "Animali"]
 type: "regular" # available types: [featured/regular]
 draft: false
-Victor_Hugo: "true"
-Focus_Keyword: "sakè speciale gatto" # lista keyword su cui verificare l'ottimizzazione della pagina 
-Victor_Hugo_Clean: "false"
 ---
 
 Era una sera di settembre. Stavamo mangiando in un ristorante giapponese di Torino, per viaggiare un po’ con la mente verso uno dei paesi che amiamo. Prima di chiedere il conto Paolo mi disse che doveva parlarmi di una cosa. Rimasi stranita, avevamo parlato tutta la sera come nostro solito. Cosa poteva essermi sfuggito? Mi passò il telefono, vidi delle immagini di cuccioli di gatto. Miele, il suo ragdoll di cinque anni, era venuto a mancare da un mese ed erano stati giorni pieni di sofferenza. Provai ad immaginare la nostra quotidianità con un gatto in casa: a detta di tutti sono autonomi seppur ruffiani, sarebbero aumentati i peli da pulire ma non così tanto. 

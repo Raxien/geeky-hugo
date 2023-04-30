@@ -3,7 +3,7 @@ title: 'Bretagna in camper: itinerario, consigli e informazioni utili'
 description: "Alla scoperta della Bretagna in camper. Un viaggio on the road fantastico!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806078/Articoli/francia/IMG_5394_qzokva.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Viaggio", "Guide", "Francia", "Camper"]
+categories: ["Europa", "Guida", "Itinerario", "Camper"]
 type: featured
 draft: false
 ---

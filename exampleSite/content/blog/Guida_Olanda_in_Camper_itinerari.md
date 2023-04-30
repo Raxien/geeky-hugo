@@ -3,10 +3,9 @@ title: 'Olanda in camper: itinerari, consigli e informazioni utili'
 description: ""
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1680644212/Senegal-in-camper_dycaxx.png
 date: 2022-07-26T17:00:00.000
-categories: ["Viaggio", "Guide", "Olanda"]
+categories: ["Europa", "Guida", "Itinerario"]
 type: featured
 draft: true
-victor: true
 ---
 
 Abbiamo avuto il piacere di visitare l'Olanda on the road nel mese di agosto, precisamente dall'8 agosto al 6 settembre. Siamo rimasti affascinati dai paesaggi e dalla gentilezza delle persone, oltre alla pulizia e alla bellezza di alcuni siti turistici e non. Sicuramente è un viaggio che consiglieremmo a chiunque, non solo a bordo di un van ma anche arrivando in aereo e sfrutando l'ottima rete di trasporti pubblici. 

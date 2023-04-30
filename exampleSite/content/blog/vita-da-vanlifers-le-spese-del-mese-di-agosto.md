@@ -6,8 +6,8 @@ image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1662109614/A
 title = "Vita da vanlifers, le spese del mese di agosto"
 type = "regular"
 draft = "true"
-
 +++
+
 Il totale delle spese per il mese di agosto, vivendo da fulltimevanlifers (ovvero sempre e solo a bordo della nostra casa a 4 ruote), ammonta a **769.67 €**. Cifra da dividere sempre per 2 persone.
 
 E' stato un mese di improvvisazione, di cambi di programma, di viaggio su strada rallentato, di contatto umani, di esperienze. Abbiamo speso meno, forse perchè abbiamo corso meno con le ruote del van e più con le nostre gambe, forse perchè anche le scorte a bordo effettuate nel mese prima ci hanno aiutati a non dover spendere troppo per la spesa alimentare. Vediamo tutto nel dettaglio.

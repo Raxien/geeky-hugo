@@ -3,13 +3,13 @@ title: "Slovacchia in camper con cane e gatto"
 description: "Un paese di passaggio, un luogo in cui merita fermarsi."
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1680475409/Articoli/chickmani_slovacchia_paajn5.jpg"
 date: 2023-02-01T10:00:00Z
-categories: ["Slovacchia", "Viaggio"]
+categories: ["Europa", "Itinerario", "Animali", "Camper"]
 type: regular
+draft: true
 ---
 
 La nostra visita della Slovacchia a bordo del van è durata purtroppo pochissimi giorni, un po' perchè avevamo un appuntamento in Polonia un po' perchè non ci aspettavamo di trovare una temperatura di 40 gradi a inizio luglio. 
 Vi lasciamo comunque il racconto delle nostre tappe e un paio di spunti per alcune mete che purtroppo in questo giro non siamo riusciti a raggiungere.
-
 
 ##### Tabella dei contenuti
 > - [Il Paese](#Paese)

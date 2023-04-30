@@ -3,7 +3,7 @@ title: 'Polonia in camper: itinerario, consigli e informazioni utili'
 description: "Alla scoperta della Polonia in camper. Un viaggio on the road fantastico!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682607681/Articoli/Polonia/monti_tatra_van_pcgmet.jpg
 date: 2023-03-07T17:00:00.000
-categories: ["Viaggio", "Guide", "Polonia", "Camper"]
+categories: ["Europa", "Guida", "Itinerario", "Camper"]
 type: featured
 draft: false
 ---

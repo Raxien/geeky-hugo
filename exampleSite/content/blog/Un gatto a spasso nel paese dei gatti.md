@@ -3,12 +3,9 @@ title: "Un gatto a spasso nel paese dei gatti"
 description: "Siamo partiti da Torino, città in cui sono iniziate le nostre avventure con Sakè al guinzaglio, e abbiamo raggiunto Brolo, paese dei gatti"
 image: "images/post/il_paese_dei_gatti_1_1.jpg"
 date: 2022-06-19T09:00:25+01:00
-categories: ["Viaggio", "Italia"]
+categories: ["Italia", "Itinerario", "Animali"]
 type: "regular" # available types: [featured/regular]
 draft: false
-Victor_Hugo: "true"
-Focus_Keyword: "cambiare vita famiglia" # lista keyword su cui verificare l'ottimizzazione della pagina 
-Victor_Hugo_Clean: "false"
 ---
 Brolo è una piccola frazione di Nonio, di 357 abitanti, che si affaccia sul Lago d’Orta in Piemonte, in provincia di Verbania. Passeggiando per le sue viuzze vi verrà voglia di guardare in tutte le direzioni, come se steste giocando a una caccia al tesoro. Noi ci siamo divertiti a cercare se qualcuno dei gatti raffigurati sui muretti, sulle facciate o sulle mattonelle dei numeri civici assomigliasse al nostro gatto viaggiatore. 
 

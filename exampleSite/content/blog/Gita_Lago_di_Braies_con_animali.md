@@ -3,9 +3,7 @@ title: In gita al Lago di Braies con cane e gatto
 description: Non avevamo aspettative sul capoluogo del Tirolo settentrionale, così ci siamo lasciati meravigliare viuzza dopo viuzza ed è stata una bellissima scoperta.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657873908/Articoli/Gita_al_lago_di_Braies.jpeg
 date: 2022-07-15T10:00:00.000+02:00
-categories:
-- Italia
-- viaggio
+categories: ["Itinerario", "Italia", "Animali"]
 type: regular
 
 ---

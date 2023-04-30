@@ -9,7 +9,7 @@
 
   <div class="tab-content">
     <div class="blog-card-list text-start tab-pane fade show active" id="Featured">
-      {{ range first 5 ( where site.RegularPages "Type" "featured" )}}
+      {{ range first 4 ( where site.RegularPages "Type" "featured" )}}
       <div class="card rounded-0">
         <div class="d-sm-flex">
           <!-- image path -->
@@ -50,7 +50,7 @@
       {{ end }}
     </div>
     <div class="blog-card-list text-start tab-pane fade" id="Recent">
-      {{ range first 5 ( where site.RegularPages "Section" "in" site.Params.mainSections )}}
+      {{ range first 4 ( where site.RegularPages "Section" "in" site.Params.mainSections )}}
       <div class="card rounded-0">
         <div class="d-sm-flex">
           <!-- image path -->

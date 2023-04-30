@@ -3,8 +3,7 @@ title: "Vivere un anno in giro per l'Europa: quali scarpe portiamo con noi?"
 description: Scarpe comode per tutti i giorni, scarpe per la pioggia, scarponcini da trekking, scarpe per la sera.. sì ma quali scegliere davvero?
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1660666972/Articoli/IMG_7726_pyyb9f.jpg
 date: 2022-08-15T09:00:00.000+02:00
-categories:
-- Curiosità
+categories: ["Curiosità"]
 type: regular
 
 ---

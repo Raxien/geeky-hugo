@@ -1,5 +1,5 @@
 +++
-categories = ["Podcast"]
+categories = ["Curiosità", "YouTube"]
 date = 2023-01-17T08:00:00Z
 description = "Speriamo però di dar voce a un dettaglio, a un particolare, a un evento, a qualcosa di unico accaduto nella vita di chi abbiamo avuto la fortuna di incontrare sulla nostra strada."
 image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1674035837/Articoli/storie_su_strada_wye8az.png"

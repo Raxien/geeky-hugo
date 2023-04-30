@@ -3,8 +3,8 @@ title: 'Alta Francia in camper: itinerario, consigli e informazioni utili'
 description: "Alla scoperta della Francia del Nord in camper. Un viaggio on the road fantastico!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804019/Articoli/francia/IMG_2771_ldmfwi.jpg
 date: 2023-04-17T17:00:00.000
-categories: ["Viaggio", "Guide", "Francia", "Camper"]
-type: featured
+categories: ["Europa", "Guida", "Itinerario", "Camper"]
+type: regular
 draft: false
 ---
 
