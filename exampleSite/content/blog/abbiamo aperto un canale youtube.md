@@ -32,7 +32,7 @@ Quindi se ogni tanto la sera non saprete quale film guardare e vi va di stare in
 
 _**{{< extLink "Stagione 1" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ9QT9yAaaqtoXtGUh2iMEI5" >}}**_: Un cambio di vita radicale ci porta alla scoperta di paesaggi mozzafiato, città affascinanti, culture uniche e persone straordinarie. Sali a bordo, la prima stagione inizia qui!
 
-_**{{< extLink "Stagione 2" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ929klaWueEsMuZZvFWZKIB" >}}**_: abbandoniamo le comodità dell'Europa per intraprendere un'avventura in Africa. Obiettivo? Scoprire nuove culture, incontrare persone diverse e mettersi alla prova in un ambiente completamente diverso da quello a cui siamo abituati. Riusciremo in questo intento?
+_**{{< extLink "Stagione 2" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ929klaWueEsMuZZvFWZKIB" >}}**_: abbandoniamo le comodità dell'Europa per intraprendere un'avventura in Africa. Obiettivo? Scoprire nuove culture e mettersi alla prova in un ambiente completamente diverso da quello a cui eravamo abituati. Riusciremo in questo intento?
 
 _Stagione 3_: ... 🔜
 
