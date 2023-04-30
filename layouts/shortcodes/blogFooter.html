@@ -36,6 +36,9 @@
   <!-- Normandia -->
   {{ else if eq $country "FR_N" }}
   {{ $data.Set "value" "una fetta di torta alle mele" }}
+   <!-- Alta Francia -->
+   {{ else if eq $country "FR_A" }}
+   {{ $data.Set "value" "una baguette" }}
   <!-- Bretagna -->
   {{ else if eq $country "FR_B" }}
   {{ $data.Set "value" "una Madleine" }}
@@ -46,6 +49,9 @@
   {{ else if eq $country "SLV"}}
   {{ $data.Set "value" "un bryndzové halušky" }}
   {{ end }}
+    <!-- Nuova Aquitania -->
+    {{ else if eq $country "FR_N" }}
+    {{ $data.Set "value" "un macaron" }}
 
   <!-- Se vuoi ringraziarci puoi offrirci un <strong class="title-border">{{ $data.Get "value" }}</strong>:   -->
   <br>

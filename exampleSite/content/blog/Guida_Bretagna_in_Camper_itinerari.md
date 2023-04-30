@@ -50,14 +50,16 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 **{{< underline "Giorno 9" >}}**: siamo rimasti nel piccolo paesino a chiacchierare con simpatici passanti, per poi dirigerci a **{{< bold "Concarneu" >}}** (non perderti uno dei famosi tortini al burro) e spostarci infine a **{{< bold "Pont Aven" >}}**, dormendo in piena natura vicino alla cappella di **{{< bold "Tremalo" >}}**.
 
-**{{< underline "Giorno 10" >}}**: abbiamo visitato il paesino di Pont Aven, con il suo centro ben curato, approfittando di un piccolo mercato di contadini locali. Poi ci siamo spostati a **{{< bold "Quimperle" >}}**, dove abbiamo dormito in una sosta camper gratuita.
+**{{< underline "Giorno 10" >}}**: abbiamo visitato il paesino di Pont Aven, con il suo centro ben curato, approfittando di un piccolo mercato di contadini locali. Poi ci siamo spostati a **{{< bold "Quimperle" >}}**, e infine in serata in periferia di Vannes.
 
-**{{< underline "Giorno 11" >}}**: abbiamo raggiunto **{{< bold "Vannes" >}}** sotto la pioggia, poi abbiamo trovato un parcheggio ottimale in mezzo al bosco.
+**{{< underline "Giorno 11" >}}**: abbiamo visitato **{{< bold "Vannes" >}}** sotto la pioggia, senza farci scoraggiare abbiamo passeggiato per le stradine fino a raggiungere i Jardin de la Prefecture, poi abbiamo trovato un parcheggio ottimale in mezzo al bosco a Chavagne, direzione Rennes.
+
+**{{< underline "Giorno 11" >}}**: dopo aver visitato **{{< bold "Rennes" >}}** ci siamo diretti a **{{< bold "Vitré" >}}**, piccolo borgo delizioso. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804772/Articoli/francia/IMG_3897_ytghyv.jpg" >}}
 
-Da qui in poi le nostre avventure sono proseguite verso sud, sempre seguendo la costa atlantica. Abbiamo attraversato la regione che si chiama Pays de la Loira, facendo solo un paio di tappe a Chateubriand (bellissimo e minuscolo borgo circondato da natura rigogliosa) e Nantes (purtroppo diluviava ma siamo comunque riusciti a vedere la statua dell'elefante, ispirato a Jules Verne e Leonardo, che barrisce e sputa acqua in movimento ) e rimandando al futuro invece la visita dei castelli della Loira. 
-Infine ci siamo diretti in Nuova Aquitania (a presto l'articolo completo).
+Da qui in poi le nostre avventure sono proseguite verso sud, sempre seguendo la costa atlantica. Abbiamo attraversato la regione che si chiama Pays de la Loira, facendo solo un paio di tappe: una a Moidson-la-Riviere (bellissimo e minuscolo borgo circondato da natura rigogliosa, a sud di Chateaubriant) e l'altra a Nantes (purtroppo diluviava ma siamo comunque riusciti a vedere la statua dell'elefante, ispirato a Jules Verne e Leonardo, che barrisce e sputa acqua in movimento ) e rimandando al futuro invece la visita dei castelli della Loira. 
+Infine ci siamo diretti in [Nuova Aquitania](/blog/guida_nuova_aquitania_in_camper_itinerari/), fino a raggiungere il capoluogo Bordeaux e da lì la Spagna del Nord (a breve l'articolo in merito)
 
 ##### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera. 
@@ -82,7 +84,9 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
 
 **{{< underline "Giorno 10" >}}**: Pont Aven - Quimperle
 
-**{{< underline "Giorno 11" >}}**: Vannes 
+**{{< underline "Giorno 11" >}}**: Vannes - Chavagne
+
+**{{< underline "Giorno 12" >}}**: Rennes - Vitré
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682805540/Articoli/francia/IMG_3844_ikkvde.jpg" >}}
 
@@ -116,8 +120,9 @@ In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "Mont Saint Michel" >}}**: per quanto ormai sia una meta a parer nostro troppo turistica, vale sicuramente una visita.
 -   **{{< bold "Dinan - Lehon" >}}**: bellissime sia Dinan che la piccola frazione Lehon. 
 -   **{{< bold "i fari" >}}**: Cap Ferhel, Fort La Latte, il faro di Ploumanac'h, il faro di Kermovran, il faro di Saint Mathieu.. davvero tutti meravigliosi, anche se avvolti nella nebbia. 
--   **{{< bold "Castel Meur, a Plougrescant " >}}**: la piccola casetta non è più raggiungibile nelle vicinanze per un incidente negli anni, ma il contesto attorno vale una deviazione!
--   **{{< bold "Ile de Batz " >}}**: questa piccola isola ci ha conquistati dal primo passo. Da non perdere. 
+-   **{{< bold "Castel Meur, a Plougrescant" >}}**: la piccola casetta non è più raggiungibile nelle vicinanze per un incidente negli anni, ma il contesto attorno vale una deviazione!
+-   **{{< bold "Ile de Batz" >}}**: questa piccola isola ci ha conquistati dal primo passo. Da non perdere. 
+-   **{{< bold "Vannes e Rennes" >}}**: due città molto belle e ordinate, senza perdere di vista la campagna circostante e i piccoli borghi limitrofi, come Vitré.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806037/Articoli/francia/IMG_4808_a5cb9x.jpg" >}}
 
