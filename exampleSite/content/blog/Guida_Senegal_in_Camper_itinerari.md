@@ -270,7 +270,7 @@ Le nostre spese ammontano a:
 - {{< underline "Autostrada">}}: 4,30 euro
 - {{< underline "Spesa alimentare">}}: 125 euro 
 - {{< underline "Ristoranti">}}: 25,40 euro (8 pasti fuori per due persone)
-- {{< underline "Varie (antizanzare, internet, triangolo, museo etc)">}}: 45,75 euro
+- {{< underline "Varie">}} (antizanzare, internet, triangolo, museo etc): 45,75 euro
 - {{< underline "Traghetto isola goree">}}: 16 euro
 - {{< underline "Assicurazione veicolo">}}: 30 euro 
 - {{< underline "Passavant">}}: 250 euro
