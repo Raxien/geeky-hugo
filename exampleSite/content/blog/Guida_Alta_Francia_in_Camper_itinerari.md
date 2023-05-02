@@ -1,5 +1,5 @@
 ---
-title: 'Alta Francia in camper: itinerario, consigli e informazioni utili'
+title: 'Alta Francia in camper con cane e gatto: itinerario, consigli e informazioni utili'
 description: "Alla scoperta della Francia del Nord in camper. Un viaggio on the road fantastico!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804019/Articoli/francia/IMG_2771_ldmfwi.jpg
 date: 2023-04-17T17:00:00.000
@@ -8,19 +8,20 @@ type: regular
 draft: false
 ---
 
-In questo articolo ti porteremo con noi alla scoperta della Francia del Nord. Abbiamo visitato questa regione a bordo del nostro van dal 10 settembre al 15 settembre 2022, ma potrai seguire questo itinerario anche in auto. Il clima non è stato dei migliori, ma alcune tappe ne sono valse davvero la pena. Potresti valutare di aggiungere alcune di queste se pensi di visitare la Normandia, in tal caso ti rimandiamo [all'articolo](/blog/guida_normandia_in_camper_itinerari/) dedicato in merito.
+In questo articolo ti porteremo con noi alla scoperta della Francia del Nord. Abbiamo visitato questa regione a bordo del nostro van dal 10 settembre al 15 settembre 2022, ma potrai seguire questo itinerario anche in auto. Il clima non è stato dei migliori come di consueto in queste zone, anche se alcuni attimi di sole ci hanno regalato panorami incredibili. Potresti valutare di aggiungere alcune di queste tappe a un viaggio in Normandia, in tal caso ti rimandiamo [all'articolo](/blog/guida_normandia_in_camper_itinerari/) dedicato in merito.
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Considerazioni e itinerario ideale](#considerazioni-e-itinerario-ideale)
+> - [Viaggiare con il proprio animale](#Animali)
 > - [Link utili](#Link)
 >     - [Il nostro vlog](#Vlog)
      <!-- - [Le nostre mappe](#Mappe) -->
 
 ##### Itinerario
-In questa sezione ti elencheremo tutte le tappe della nostra avventura, ricreando un piccolo diario giornaliero. 
+In questa sezione ti elencheremo tutte le tappe della nostra avventura, con un piccolo diario giornaliero. 
 Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni in merito a questa regione e soprattutto le tappe **{{< bold "imperdibili" >}}** puoi [cliccare qua](#Considerazioni).
 
 **{{< underline "Giorno 1" >}}**: la nostra prima tappa appena varcato il confine con il Belgio è stata **{{< bold "Dunkerque" >}}**. Il centro cittadino non è emozionante e purtroppo anche la zona vicina alla spiaggia degli sbarchi non offre scorci degni di nota. Palazzoni, nulla più. Carino un parco con statue di varie forme e materiali e una serie di tulipani rossi di ferro che svettano verso le nuvole. Un po' delusi anche dalla tanta pattumiera ci siamo spostati per dormire a Bergues, poco fuori le mura.
@@ -75,6 +76,11 @@ In camper, auto o moto le mete secondo noi imperdibili di questa regione sono:
 -   **{{< bold "Saint-Valery-Sur-Somme" >}}**: architettura, viuzze inconfondibili, ristorantini, panorami. Anche questo paesino davvero ha un suo perchè. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804005/Articoli/francia/IMG_2878_mauocu.jpg" >}}
+
+<div id="Animali"></div>
+
+##### Viaggiare con il proprio animale
+{{< animali >}}
 
 <div id="Link"></div>
 

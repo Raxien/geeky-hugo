@@ -1,6 +1,6 @@
 ---
-title: 'Bretagna in camper: itinerario, consigli e informazioni utili'
-description: "Alla scoperta della Bretagna in camper. Un viaggio on the road fantastico!"
+title: 'Bretagna in camper con cane e gatto: itinerario, consigli e informazioni utili'
+description: "Alla scoperta della Bretagna in camper, tra fari e paesi medievali!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806078/Articoli/francia/IMG_5394_qzokva.jpg
 date: 2023-04-10T17:00:00.000
 categories: ["Europa", "Guida", "Itinerario", "Camper"]
@@ -17,6 +17,7 @@ Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tapp
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni finali e itinerario ideale](#Cosiderazioni)
+> - [Viaggiare con il proprio animale](#Animali)
 > - [Link utili](#Link)
 >     - [Il nostro vlog](#Vlog)
      <!-- - [Le nostre mappe](#Mappe) -->
@@ -25,7 +26,7 @@ Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tapp
  {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806020/Articoli/francia/IMG_5510_df3poq.jpg" >}}
 
 ##### Itinerario
-In questa sezione ti elencheremo tutte le tappe della nostra avventura, ricreando un piccolo diario giornaliero. 
+In questa sezione ti elencheremo tutte le tappe della nostra avventura.
 Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#Considerazioni).
 
 **{{< underline "Giorno 1" >}}**: prima tappa **{{< bold "Mont Saint Michel" >}}**. Siamo arrivati di prima mattina al parcheggio di un chioschetto dove consumando colazione si può parcheggiare per un paio di ore. Acquistati caffè e Madeleine al cioccolato ci siamo gustati sia i dolci che la vista. Poi, assicurati gli animali in van per evitare loro la bolgia di gente che avremmo incontrato, ci siamo incamminati per un'oretta di passeggiata. Se non te la senti di camminare puoi fare la coda per prendere il trenino a pagamento. Avendo già visitato l'Abbazia anni prima, abbiamo solo camminato per le viuzze, a parer nostro rovinate un po' dalle troppe insegne turistiche, per poi dirigerci in un parcheggio a **{{< bold "Cherrueix" >}}**, in riva al mare. 
@@ -125,6 +126,15 @@ In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "Vannes e Rennes" >}}**: due città molto belle e ordinate, senza perdere di vista la campagna circostante e i piccoli borghi limitrofi, come Vitré.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806037/Articoli/francia/IMG_4808_a5cb9x.jpg" >}}
+
+<div id="Animali"></div>
+
+##### Viaggiare con il proprio animale
+Per viaggiare in Europa con il proprio animale occorre avere il passaporto, il microchip e la vaccinazione antirabbica in corso di validità.
+Ti consigliamo di prestare sempre attenzione nei luoghi affollati perchè le persone potrebbero avere timore, motivo per cui noi giriamo sempre con i nostri animali al guinzaglio. 
+In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata di mano. 
+Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
+Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 
 
 <div id="Link"></div>
 
