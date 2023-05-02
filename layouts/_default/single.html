@@ -62,7 +62,55 @@
           </li>
           <li class="list-inline-item d-flex align-items-center">
             <i class="fas fa-calendar me-2"></i>
-            <span>{{ time.Format ":date_long" .PublishDate }}</span>
+                      <!-- data di pubblicazione formattata Mese, gg aaaa -->
+                      {{ $date := time.Format ":date_long" .PublishDate }}
+                      {{ $sDate := split (string $date) " " }}
+
+                      <span>
+                        {{ $aMonth := index $sDate 0}}
+                        {{ $aDay := index $sDate 1}}
+                        {{ $aYear := index $sDate 2}}
+
+                        {{ $day := (string $aDay)}}
+                        {{ $month := (string $aMonth)}}
+                        {{ $year := (string $aYear)}}
+
+                        {{ replace $day "," " " }}
+                        {{ if eq $month "January" }}
+                        {{ "Gennaio" }}
+                        {{ else if eq $month "February" }}
+                        {{ "Febbraio" }}
+                        {{ else if eq $month "March" }}
+                        {{ "Marzo" }}
+                        {{ else if eq $month "April" }}
+                        {{ "Aprile" }}
+                        {{ else if eq $month "May" }}
+                        {{ "Maggio" }}
+                        {{ else if eq $month "June" }}
+                        {{ "Giugno" }}
+                        {{ else if eq $month "July" }}
+                        {{ "Luglio" }}
+                        {{ else if eq $month "August" }}
+                        {{ "Agosto" }}
+                        {{ else if eq $month "September" }}
+                        {{ "Settembre" }}
+                        {{ else if eq $month "October" }}
+                        {{ "Ottobre" }}
+                        {{ else if eq $month "November" }}
+                        {{ "Novembre" }}
+                        {{ else if eq $month "December" }}
+                        {{ "Dicembre" }}
+                        {{ end }}
+                        {{ $year }}
+                      </span>
+          </li>
+          <li class="list-inline-item d-flex align-items-center">
+            <i class="fas fa-glasses me-2"></i>
+            {{ $readTime := mul (div (countwords .Content) 300.0) 60 }}
+            {{ $minutes := math.Floor (div $readTime 60) }}
+            {{ $seconds := mod $readTime 60 }}
+            <span>{{ $minutes }} {{ cond (eq $minutes 1) "minuto" "minuti" }} e
+                  {{ $seconds }} {{ cond (eq $seconds 1) "secondo" "secondi" }}</span>
           </li>
         </ul>
         <div class="content drop-cap">{{.Content}}</div>

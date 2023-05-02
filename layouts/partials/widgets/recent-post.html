@@ -9,7 +9,7 @@
 
   <div class="tab-content">
     <div class="blog-card-list text-start tab-pane fade show active" id="Featured">
-      {{ range first 4 ( where site.RegularPages "Type" "featured" )}}
+      {{ range first 5 ( where site.RegularPages "Type" "featured" )}}
       <div class="card rounded-0">
         <div class="d-sm-flex">
           <!-- image path -->
@@ -41,7 +41,47 @@
             <ul class="list-inline card-meta d-flex align-items-center mb-3">
               <li class="list-inline-item d-flex align-items-center">
                 <i class="fas fa-calendar me-2"></i>
-                <span>{{ time.Format ":date_long" .PublishDate }}</span>
+                      <!-- data di pubblicazione formattata Mese, gg aaaa -->
+                      {{ $date := time.Format ":date_long" .PublishDate }}
+                      {{ $sDate := split (string $date) " " }}
+
+                      <span>
+                        {{ $aMonth := index $sDate 0}}
+                        {{ $aDay := index $sDate 1}}
+                        {{ $aYear := index $sDate 2}}
+
+                        {{ $day := (string $aDay)}}
+                        {{ $month := (string $aMonth)}}
+                        {{ $year := (string $aYear)}}
+
+                        {{ replace $day "," " " }}
+                        {{ if eq $month "January" }}
+                        {{ "Gennaio" }}
+                        {{ else if eq $month "February" }}
+                        {{ "Febbraio" }}
+                        {{ else if eq $month "March" }}
+                        {{ "Marzo" }}
+                        {{ else if eq $month "April" }}
+                        {{ "Aprile" }}
+                        {{ else if eq $month "May" }}
+                        {{ "Maggio" }}
+                        {{ else if eq $month "June" }}
+                        {{ "Giugno" }}
+                        {{ else if eq $month "July" }}
+                        {{ "Luglio" }}
+                        {{ else if eq $month "August" }}
+                        {{ "Agosto" }}
+                        {{ else if eq $month "September" }}
+                        {{ "Settembre" }}
+                        {{ else if eq $month "October" }}
+                        {{ "Ottobre" }}
+                        {{ else if eq $month "November" }}
+                        {{ "Novembre" }}
+                        {{ else if eq $month "December" }}
+                        {{ "Dicembre" }}
+                        {{ end }}
+                        {{ $year }}
+                      </span>
               </li>
             </ul>
           </div>
@@ -50,7 +90,7 @@
       {{ end }}
     </div>
     <div class="blog-card-list text-start tab-pane fade" id="Recent">
-      {{ range first 4 ( where site.RegularPages "Section" "in" site.Params.mainSections )}}
+      {{ range first 5 ( where site.RegularPages "Section" "in" site.Params.mainSections )}}
       <div class="card rounded-0">
         <div class="d-sm-flex">
           <!-- image path -->
@@ -82,7 +122,47 @@
             <ul class="list-inline card-meta d-flex align-items-center mb-3">
               <li class="list-inline-item d-flex align-items-center">
                 <i class="fas fa-calendar me-2"></i>
-                <span>{{ time.Format ":date_long" .PublishDate }}</span>
+                      <!-- data di pubblicazione formattata Mese, gg aaaa -->
+                      {{ $date := time.Format ":date_long" .PublishDate }}
+                      {{ $sDate := split (string $date) " " }}
+
+                      <span>
+                        {{ $aMonth := index $sDate 0}}
+                        {{ $aDay := index $sDate 1}}
+                        {{ $aYear := index $sDate 2}}
+
+                        {{ $day := (string $aDay)}}
+                        {{ $month := (string $aMonth)}}
+                        {{ $year := (string $aYear)}}
+
+                        {{ replace $day "," " " }}
+                        {{ if eq $month "January" }}
+                        {{ "Gennaio" }}
+                        {{ else if eq $month "February" }}
+                        {{ "Febbraio" }}
+                        {{ else if eq $month "March" }}
+                        {{ "Marzo" }}
+                        {{ else if eq $month "April" }}
+                        {{ "Aprile" }}
+                        {{ else if eq $month "May" }}
+                        {{ "Maggio" }}
+                        {{ else if eq $month "June" }}
+                        {{ "Giugno" }}
+                        {{ else if eq $month "July" }}
+                        {{ "Luglio" }}
+                        {{ else if eq $month "August" }}
+                        {{ "Agosto" }}
+                        {{ else if eq $month "September" }}
+                        {{ "Settembre" }}
+                        {{ else if eq $month "October" }}
+                        {{ "Ottobre" }}
+                        {{ else if eq $month "November" }}
+                        {{ "Novembre" }}
+                        {{ else if eq $month "December" }}
+                        {{ "Dicembre" }}
+                        {{ end }}
+                        {{ $year }}
+                      </span>
               </li>
             </ul>
           </div>

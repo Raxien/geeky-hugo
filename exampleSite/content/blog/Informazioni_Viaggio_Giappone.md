@@ -5,7 +5,7 @@ image:
 date: 2022-07-26T17:00:00.000
 categories: ["Asia", "Guida", "Itinerario"]
 type: featured
-draft: false
+draft: true
 ---
 
 Se stai cercando una destinazione che ti offra un'esperienza di viaggio unica, il Giappone è il posto giusto per te. Con una cultura millenaria, una cucina deliziosa e una perfetta armonia tra il passato e futuro, questo paese asiatico ha molto da offrire ai viaggiatori di ogni tipo. In questo articolo, esploreremo le ragioni per cui dovresti visitare il Giappone e ti proporremo alcuni itinerari imperdibili per il tuo viaggio nati dopo svariate visite nel paese.
