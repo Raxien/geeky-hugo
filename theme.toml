@@ -18,3 +18,8 @@ homepage = "https://gethugothemes.com/"
   ignoreConfig = false
   ignoreImports = false
   path = "github.com/sachinchoolur/lightgallery"
+
+  [sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
