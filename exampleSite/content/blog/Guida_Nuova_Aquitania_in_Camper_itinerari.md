@@ -1,5 +1,5 @@
 ---
-title: 'Nuova Aquitania in camper: itinerario, consigli e informazioni utili'
+title: 'Nuova Aquitania in camper con cane e gatto: itinerario, consigli e informazioni utili'
 description: "Alla scoperta della Nuova Aquitania in camper, lungo tutta la nosta atlantica del sud della Francia!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
 date: 2023-04-10T17:00:00.000
@@ -16,12 +16,13 @@ Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati s
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni finali e itinerario ideale](#Cosiderazioni)
+> - [Viaggiare con il proprio animale](#Animali)
 > - [Link utili](#Link)
 >     - [Il nostro vlog](#Vlog)
      <!-- - [Le nostre mappe](#Mappe) -->
 
 ##### Itinerario
-In questa sezione ti elencheremo tutte le tappe della nostra avventura, ricreando un piccolo diario giornaliero. 
+Vuoi visitare questa regione giorno dopo giorno insieme a noi? Abbiamo ricreato un piccolo diario giornaliero. 
 Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#Considerazioni).
 
 **{{< underline "Giorno 1-2" >}}**: siamo arrivati a La Rochelle sotto al diluvio, motivo per cui abbiamo deciso di sostare nei pressi dell'aeroporto e fare giusto due passi sulla scogliera. L'indomani abbiamo visitato il centro città sempre sotto al diluvio, spostandoci nel parcheggio vicino al piccolo porticciolo e scoprendo il mercato coperto. Nel pomeriggio ci siamo spostati lungo le sponde di un fiume per sgranchire le gambe passeggiando seguendo la riva e poi a Saint-Thomas-de-Conac, un piccolo paesino di campagna, per la notte. Sosta in libera.
@@ -111,6 +112,15 @@ In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "Bayonne" >}}**: a noi questa cittadina è piaciuta davvero tanto, molto più autentica della vicina, più turistica e chic, Biarritz.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682863464/Articoli/francia/A11AE756-B3B1-4867-AB22-DC1B3797A139_2_qys5ua.jpg" >}}
+
+<div id="Animali"></div>
+
+##### Viaggiare con il proprio animale
+Per viaggiare in Europa con il proprio animale occorre avere il passaporto, il microchip e la vaccinazione antirabbica in corso di validità.
+Ti consigliamo di prestare sempre attenzione nei luoghi affollati perchè le persone potrebbero avere timore, motivo per cui noi giriamo sempre con i nostri animali al guinzaglio. 
+In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata di mano. 
+Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
+Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 
 
 <div id="Link"></div>
 
