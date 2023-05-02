@@ -31,4 +31,7 @@ mediaType = "application/manifest+json"
 rel = "manifest"
 [outputs]
 home = ["HTML", "RSS", "JSON", "WebAppManifest"]
-disableKinds = ["sitemap"]
+[sitemap]
+  changefreq = 'hourly'
+  filename = 'sitemap.xml'
+  priority = 0.5
