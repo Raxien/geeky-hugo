@@ -1,7 +1,53 @@
 {{ $.Scratch.Add "index" slice }}
 {{ range site.RegularPages }}
 
-{{ $date:= time.Format ":date_long" .PublishDate }}
+{{ $date:= time.Format ":date_long" .PublishDate }} 
+
+{{ $sDate := split (string $date) " " }}
+
+{{ $aMonth := index $sDate 0}}
+{{ $aDay := index $sDate 1}}
+{{ $aYear := index $sDate 2}}
+
+{{ $day := (string $aDay)}}
+{{ $month := (string $aMonth)}}
+{{ $year := (string $aYear)}}
+
+{{ $sMonth := newScratch }}
+{{ $sMonth.Set "value" "" }}
+
+{{ $day := replace $day "," " " }}
+{{ if eq $month "January" }}
+{{ $sMonth.Set "value" "Gennaio" }}
+{{ else if eq $month "February" }}
+{{ $sMonth.Set "value" "Febbraio" }}
+{{ else if eq $month "March" }}
+{{ $sMonth.Set "value" "Marzo" }}
+{{ else if eq $month "April" }}
+{{ $sMonth.Set "value" "Aprile" }}
+{{ else if eq $month "May" }}
+{{ $sMonth.Set "value" "Maggio" }}
+{{ else if eq $month "June" }}
+{{ $sMonth.Set "value" "Giugno" }}
+{{ else if eq $month "July" }}
+{{ $sMonth.Set "value" "Luglio" }}
+{{ else if eq $month "August" }}
+{{ $sMonth.Set "value" "Agosto" }}
+{{ else if eq $month "September" }}
+{{ $sMonth.Set "value" "Settembre" }}
+{{ else if eq $month "October" }}
+{{ $sMonth.Set "value" "Ottobre" }}
+{{ else if eq $month "November" }}
+{{ $sMonth.Set "value" "Nobembre" }}
+{{ else if eq $month "December" }}
+{{ $sMonth.Set "value" "Dicembre" }}
+{{ end }}
+
+{{ $tradMonth := $sMonth.Get "value" }}
+
+{{ $resDate := add (string $day) $tradMonth }}
+{{ $resDate := add (string $resDate) " " }}
+{{ $resDate := add (string $resDate) $year }}
 
 {{ with .Params.image }}
 {{ if (fileExists (add `assets/` .)) }}
@@ -12,6 +58,7 @@
 {{ end }}
 {{ $image:= $.Scratch.Get "image" }}
 
-{{ $.Scratch.Add "index" (dict "title" .Title "date" $date "image" $image "categories" .Params.categories "contents" .Plain "permalink" .RelPermalink) }}
+{{ $.Scratch.Add "index" (dict "title" .Title "date" $resDate "image" $image "categories" .Params.categories "contents" .Plain "permalink" .RelPermalink) }}
+
 {{ end }}
 {{ $.Scratch.Get "index" | jsonify }}
