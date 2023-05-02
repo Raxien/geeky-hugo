@@ -3,12 +3,13 @@ title: 'Nuova Aquitania in camper: itinerario, consigli e informazioni utili'
 description: "Alla scoperta della Nuova Aquitania in camper, lungo tutta la nosta atlantica del sud della Francia!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Europa", "Guida", "Itinerario", "Camper"]
+categories: ["Viaggio", "Guide", "Francia", "Camper"]
 type: featured
 draft: false
 ---
 
 Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati sulla costa atlantica del sud della Francia. Siamo arrivati in questa regione dopo aver visitato la [Normandia](/blog/guida_normandia_in_camper_itinerari/) e la [Bretagna](/blog/guida_bretagna_in_camper_itinerari/) e siamo stati felicissimi di scoprire queste zone fino a raggiungere il capoluogo Bordeaux per poi dirigerci a Bayonne e Biarritz. 
+
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)
