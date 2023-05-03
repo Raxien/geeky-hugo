@@ -4,6 +4,7 @@ description: "Una spiaggia vista Marocco, con alle spalle meravigliose rovine ro
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1673425578/Articoli/bologna_1_odyxzg.jpg"
 date: 2023-01-09T23:00:00Z
 categories: ["Europa", "Itinerario"]
+country: Spagna
 type: "regular"
 ---
 

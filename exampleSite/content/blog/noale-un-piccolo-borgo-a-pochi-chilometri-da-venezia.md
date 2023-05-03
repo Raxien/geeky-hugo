@@ -4,6 +4,7 @@ description: Uno di quei paesi in cui ti viene voglia di fermarti, di fare due p
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657705481/Articoli/Noale_.jpg
 date: 2022-07-13T10:00:00Z
 categories: ["Italia", "Itinerario"]
+country: Italia
 type: regular
 ---
 Noale, un piccolo borgo a pochi chilometri da Venezia, era in realtà una tappa obbligatoria del nostro viaggio. Ci siamo dovuti fermare un paio di giorni per questioni lavorative, ma siamo riusciti a godere appieno della sua atmosfera. Ovviamente abbiamo fatto i turisti insieme a Sakè e Olimpia, che hanno attirato i sorrisi di numerosi passanti. Proprio la sera in cui siamo arrivati abbiamo avuto la fortuna di fermarci a chiacchierare con una signora del posto, che ci ha consigliato un tour delle cose imperdibili da vedere in questo piccolo borgo a pochi chilometri da Venezia. In pieno centro si trova una comoda area sosta camper, non utilizzabile il giovedi mattina per stallo mercatale. L'area è segnalata come a pagamento con una sbarra che si abbassa automaticamente la sera: quando siamo arrivati noi l'addetto al pagamento non si è mai presentato nonostante avessimo comunicato la nostra presenza. Sono presenti i servizi di carico e scarico acque. Di seguito il link di Park4night che potete scaricare [**qui se avete iPhone**](https://apps.apple.com/it/app/park4night-com/id430946556) o [**qui se avete Android**](https://play.google.com/store/apps/details?id=fr.tramb.park4night&hl=it&gl=US)

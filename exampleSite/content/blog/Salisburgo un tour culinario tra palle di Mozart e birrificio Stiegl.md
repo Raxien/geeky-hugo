@@ -4,6 +4,7 @@ description: Patria natale di Mozart, incastonata fra fortezze e montagne, Salis
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1656413065/Articoli/salisburgo/salisburgo_1_1_eadwpf.jpg
 date: 2022-06-28T11:00:00.000+01:00
 categories: ["Europa", "Itinerario"]
+country: Austria
 type: regular
 ---
 Siamo arrivati in città una domenica di inizio giugno, con più di 30 gradi inaspettati, per cui abbiamo subito deciso che il nostro tour di Salisburgo sarebbe stato un po' meno culturale e forse più culinario.  

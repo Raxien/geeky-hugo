@@ -4,6 +4,7 @@ description: Non avevamo aspettative sul capoluogo del Tirolo settentrionale, co
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657873908/Articoli/Gita_al_lago_di_Braies.jpeg
 date: 2022-07-15T10:00:00.000+02:00
 categories: ["Itinerario", "Italia", "Animali"]
+country: Italia
 type: regular
 
 ---

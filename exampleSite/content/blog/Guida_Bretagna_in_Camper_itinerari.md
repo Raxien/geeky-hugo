@@ -4,6 +4,7 @@ description: "Alla scoperta della Bretagna in camper, tra fari e paesi medievali
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806078/Articoli/francia/IMG_5394_qzokva.jpg
 date: 2023-04-10T17:00:00.000
 categories: ["Europa", "Guida", "Itinerario", "Camper"]
+country: Francia
 type: featured
 draft: false
 ---
@@ -20,8 +21,7 @@ Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tapp
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Link utili](#Link)
 >     - [Il nostro vlog](#Vlog)
-     <!-- - [Le nostre mappe](#Mappe) -->
-
+> - [Le nostre mappe](#le-nostre-mappe) 
 
  {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806020/Articoli/francia/IMG_5510_df3poq.jpg" >}}
 
@@ -148,11 +148,7 @@ Nel video qui sotto puoi rivedere la nostra meraviglia di fronte ai fari oppure 
 
 {{< youtube QW8a24Bg_co >}}
 
-<!-- <div id="Mappe"></div> -->
-
-<!-- ##### Le nostre mappe -->
-<!-- Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
-
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
+##### Le nostre mappe
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1Qe2J5JEntbQu5hEZpfvyuq6Z-gGc4S0&ehbc=2E312F" "1" >}}
 
 {{< blogFooter "FR_B" "1" "0" >}}

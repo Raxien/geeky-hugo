@@ -4,6 +4,7 @@ description: "Vuoi attraversare la Mauritania in camper? Scopri tutte le info qu
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681930891/Articoli/Copertine/Mauritania_Camper_ofxmtr.jpg"
 date: 2023-03-06T17:00:00.000
 categories: ["Africa", "Guida", "Dogana", "Camper"]
+country: Mauritania
 type: regular
 draft: false
 ---
