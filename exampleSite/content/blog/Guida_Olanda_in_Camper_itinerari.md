@@ -4,6 +4,7 @@ description: ""
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1680644212/Senegal-in-camper_dycaxx.png
 date: 2022-07-26T17:00:00.000
 categories: ["Europa", "Guida", "Itinerario"]
+country: Paesi Bassi
 type: featured
 draft: true
 ---
