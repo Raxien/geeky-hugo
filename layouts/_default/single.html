@@ -56,53 +56,61 @@
         {{ end }}
         <h1 class="h3 mb-4">{{.Title | markdownify}}</h1>
         <ul class="list-inline card-meta d-flex align-items-center mb-4">
-          <li class="list-inline-item d-flex align-items-center">
+          <li class="list-inline-item d-flex align-items-center" style="display: none !important; ">
             <i class="fas fa-user me-2"></i>
             <a href="{{`about` | relLangURL}}">{{site.Params.author}}</a>
           </li>
+          {{ if .Params.country}}
+          <li class="list-inline-item d-flex align-items-center">
+            <i class="fas fa-map-pin me-2"></i>
+            {{ $country := .Params.country}}
+            {{ $link:= add "search/?s=" $country }}
+            <a href="{{$link | relLangURL}}">{{.Params.country | title}}</a>
+          </li>
+          {{end}}
           <li class="list-inline-item d-flex align-items-center">
             <i class="fas fa-calendar me-2"></i>
-                      <!-- data di pubblicazione formattata Mese, gg aaaa -->
-                      {{ $date := time.Format ":date_long" .PublishDate }}
-                      {{ $sDate := split (string $date) " " }}
+            <!-- data di pubblicazione formattata Mese, gg aaaa -->
+            {{ $date := time.Format ":date_long" .PublishDate }}
+            {{ $sDate := split (string $date) " " }}
 
-                      <span>
-                        {{ $aMonth := index $sDate 0}}
-                        {{ $aDay := index $sDate 1}}
-                        {{ $aYear := index $sDate 2}}
+            <span>
+            {{ $aMonth := index $sDate 0}}
+            {{ $aDay := index $sDate 1}}
+            {{ $aYear := index $sDate 2}}
 
-                        {{ $day := (string $aDay)}}
-                        {{ $month := (string $aMonth)}}
-                        {{ $year := (string $aYear)}}
+            {{ $day := (string $aDay)}}
+            {{ $month := (string $aMonth)}}
+            {{ $year := (string $aYear)}}
 
-                        {{ replace $day "," " " }}
-                        {{ if eq $month "January" }}
-                        {{ "Gennaio" }}
-                        {{ else if eq $month "February" }}
-                        {{ "Febbraio" }}
-                        {{ else if eq $month "March" }}
-                        {{ "Marzo" }}
-                        {{ else if eq $month "April" }}
-                        {{ "Aprile" }}
-                        {{ else if eq $month "May" }}
-                        {{ "Maggio" }}
-                        {{ else if eq $month "June" }}
-                        {{ "Giugno" }}
-                        {{ else if eq $month "July" }}
-                        {{ "Luglio" }}
-                        {{ else if eq $month "August" }}
-                        {{ "Agosto" }}
-                        {{ else if eq $month "September" }}
-                        {{ "Settembre" }}
-                        {{ else if eq $month "October" }}
-                        {{ "Ottobre" }}
-                        {{ else if eq $month "November" }}
-                        {{ "Novembre" }}
-                        {{ else if eq $month "December" }}
-                        {{ "Dicembre" }}
-                        {{ end }}
-                        {{ $year }}
-                      </span>
+            {{ replace $day "," " " }}
+            {{ if eq $month "January" }}
+            {{ "Gennaio" }}
+            {{ else if eq $month "February" }}
+            {{ "Febbraio" }}
+            {{ else if eq $month "March" }}
+            {{ "Marzo" }}
+            {{ else if eq $month "April" }}
+            {{ "Aprile" }}
+            {{ else if eq $month "May" }}
+            {{ "Maggio" }}
+            {{ else if eq $month "June" }}
+            {{ "Giugno" }}
+            {{ else if eq $month "July" }}
+            {{ "Luglio" }}
+            {{ else if eq $month "August" }}
+            {{ "Agosto" }}
+            {{ else if eq $month "September" }}
+            {{ "Settembre" }}
+            {{ else if eq $month "October" }}
+            {{ "Ottobre" }}
+            {{ else if eq $month "November" }}
+            {{ "Novembre" }}
+            {{ else if eq $month "December" }}
+            {{ "Dicembre" }}
+            {{ end }}
+            {{ $year }}
+            </span>
           </li>
           <li class="list-inline-item d-flex align-items-center">
             <i class="fas fa-glasses me-2"></i>
