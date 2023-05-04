@@ -28,9 +28,8 @@ Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese. 
 >     - [7 Giorni](#Itinerario1) 
 >     - [14 Giorni](#Itinerario2)
 > - [Casamance](#Casamance)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
->     - [Le nostre mappe](#Mappe)
+> - [Il nostro vlog](#Vlog)
+> - [Le nostre mappe](#Mappe)
 <!-- > - [Parchi Nazionali](#Escursioni)  -->
 
 <div id="Paese"></div>
@@ -192,8 +191,8 @@ Noi abbiamo utilizzato le applicazioni park4night e iOverlander.
 <div id="Animali"></div>
 
 ##### Viaggiare con il proprio animale
-Per viaggiare extra Europa con il proprio animale occorre avere il passaporto, il microchip, la vaccinazione antirabbica in corso di validità e un documento che attesti la titolazione del vaccino (si effettua tramite un prelievo del sangue che viene analizzato in centri specializzati ed è obbligatorio per poter rientrare in Europa). 
-In Senegal non sono obbligatorie ulteriori profilassi particolari, in ogni caso noi abbiamo provveduto a somministrare a Olimpia e Sakè, i nostri cane e gatto, i consueti antiparassitari. Consigliamo di tenere il proprio animale sempre al guinzaglio, dal momento che numerosi animali selvatici camminano in ogni angolo del paese. 
+{{< animali "EX">}}
+
 Sono frequenti casi di Leishmaniosi, valutate se fare il vaccino al vostro animale insieme al vostro veterinario. 
 Prestate particolare attenzione ai luoghi in cui vagano liberi i maiali, dal momento che sono portatori di un verme che può essere pericoloso e infettivo.
 A noi è successo, un pomeriggio in cui siedevano in spiaggia all'ombra delle palme, di trovare una piccola zecca sulle gambe di Paolo, quindi vi consigliamo di controllare quotidianamento voi e il pelo dei vostri animali.
@@ -292,11 +291,7 @@ Come raggiungere la Casamance:
 
 Se pensi che possa interessarti questa zona ti consigliamo di inserirla nell'itinerario di 14 giorni, dedicandole almeno 5 giorni dato anche il tempo necessario per raggiungerla. 
 Se vuoi capire perchè abbiamo amato la Casamance puoi scoprirlo qui. 
-
-<div id="Link"></div>
-
-##### Link Utili 
-
+{{< animali >}}
 <div id="Vlog"></div>
 
 ##### Il nostro Vlog

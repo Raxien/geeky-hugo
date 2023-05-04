@@ -17,8 +17,7 @@ In questo articolo ti porteremo con noi alla scoperta della Francia del Nord. Ab
 > - [Servizi e soste](#servizi-e-soste)
 > - [Considerazioni e itinerario ideale](#considerazioni-e-itinerario-ideale)
 > - [Viaggiare con il proprio animale](#Animali)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
+> - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
 ##### Itinerario
@@ -81,11 +80,7 @@ In camper, auto o moto le mete secondo noi imperdibili di questa regione sono:
 <div id="Animali"></div>
 
 ##### Viaggiare con il proprio animale
-{{< animali >}}
-
-<div id="Link"></div>
-
-##### Link Utili 
+{{< animali "EU">}}
 
 <div id="Vlog"></div>
 

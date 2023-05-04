@@ -16,10 +16,9 @@ Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati s
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni finali e itinerario ideale](#Cosiderazioni)
+> - [Considerazioni e itinerario ideale](#Considerazioni)
 > - [Viaggiare con il proprio animale](#Animali)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
+> - [Il nostro vlog](#Vlog)
      <!-- - [Le nostre mappe](#Mappe) -->
 
 ##### Itinerario
@@ -126,7 +125,7 @@ Di seguito un'idea di quanto abbiamo speso nei 16 giorni in Nuova Aquitania, ten
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni finali e itinerario ideale
+##### Considerazioni e itinerario ideale
 Non conoscevamo la Nuova Aquitania e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
 
 In camper o auto, le mete imperdibili secondo noi sono :
@@ -141,15 +140,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 <div id="Animali"></div>
 
 ##### Viaggiare con il proprio animale
-Per viaggiare in Europa con il proprio animale occorre avere il passaporto, il microchip e la vaccinazione antirabbica in corso di validità.
-Ti consigliamo di prestare sempre attenzione nei luoghi affollati perchè le persone potrebbero avere timore, motivo per cui noi giriamo sempre con i nostri animali al guinzaglio. 
-In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata di mano. 
-Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
-Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 
-
-<div id="Link"></div>
-
-##### Link Utili 
+{{< animali "EU">}}
 
 <div id="Vlog"></div>
 

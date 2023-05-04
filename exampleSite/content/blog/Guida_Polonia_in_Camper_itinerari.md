@@ -16,10 +16,9 @@ In questo articolo ti porteremo con noi alla scoperta della Polonia, una terra c
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni finali e itinerario ideale](#Cosiderazioni)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
-     <!-- - [Le nostre mappe](#Mappe) -->
+> - [Considerazioni e itinerario ideale](#Considerazioni)
+> - [Il nostro vlog](#Vlog)
+> - [Le nostre mappe](#le-nostre-mappe) 
 
 ##### Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, ricreando un piccolo diario giornaliero. 
@@ -153,11 +152,9 @@ Di seguito un idea di quanto abbiamo speso nell'estate del 2022.
 
 {{< tripExpanses "Spese" "2022-07-03T00:00:00Z" "2022-07-29T00:00:00Z" >}}
 
-_NOTA: la voce Internet risulta alta in quanto per lavoro avevamo bisogno di giga illimitati e ci siamo affidati a due operatori._
-
 <div id="Considerazioni"></div>
 
-##### Considerazioni finali e itinerario ideale
+##### Considerazioni e itinerario ideale
 Sin dal primo momento abbiamo apprezzato la Polonia, motivo per cui ci sentiamo veramente di consigliarti di prendere in considerazione questo stato per le tue vacanze, in camper o meno. 
 
 In camper o auto, mete imperdibili:
@@ -172,10 +169,6 @@ In camper o auto, mete imperdibili:
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682607673/Articoli/Polonia/monti_tatra_vista_rjhahp.jpg" >}}
 
-<div id="Link"></div>
-
-##### Link Utili 
-
 <div id="Vlog"></div>
 
 ##### Il nostro Vlog
@@ -183,11 +176,7 @@ Nel video qui sotto puoi rivedere il nostro ingresso in Polonia oppure trovi la 
 
 {{< youtube d5blVGXVJ08 >}}
 
-<!-- <div id="Mappe"></div> -->
-
-<!-- ##### Le nostre mappe -->
-<!-- Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
-
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
+##### Le nostre mappe
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=14RYfqDoFR3i5zzqunEXiLMo&ehbc=2E312F" >}}
 
 {{< blogFooter "PL" "1" "0" >}}

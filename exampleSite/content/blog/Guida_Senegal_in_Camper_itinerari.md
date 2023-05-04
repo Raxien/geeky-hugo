@@ -22,10 +22,9 @@ Dopo quasi 30 giorni trascorsi in Senegal, qualche disavventura in dogana e non 
 > - [Dogane](#Dogane)
 > - [Strade](#Strade)
 > - [Quanto abbiamo speso](#Spesa)
-> - [Considerazioni finali e itinerario ideale](#Considerazioni)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
->     - [Le nostre mappe](#Mappe)
+> - [Considerazioni e itinerario ideale](#Considerazioni)
+> - [Il nostro vlog](#Vlog)
+> - [Le nostre mappe](#Mappe)
 
 <div id="Itinerario"></div>
 
@@ -280,7 +279,7 @@ Le nostre spese ammontano a:
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni finali
+##### Considerazioni
 Il nostro approccio iniziale al Senegal non è stato dei migliori: i problemi avuti in dogana, la troppa pattumiera ovunque, i problemi di corruzione e gestione della povertà nel paese ci hanno decisamente scossi.
 E' stato solo pensando a se e quando saremmo tornati in queste zone in van che abbiamo deciso di provare a raggiungere il sud, la Casamance, zona che ha decisamente risollevato il nostro morale, sia per i luoghi visitati sia per l'accoglienza da parte delle persone. 
 Tutta la magia che ci hanno regalato i 7 giorni vissuti in questa zona del Senegal non è stata intaccata neppure dai fatti sgradevoli accaduti nell'uscita dal paese. 
@@ -301,10 +300,6 @@ Tappe {{< underline "da valutare">}}:
 Tappe {{< underline "da evitare">}}:
 - Lago Rosa, per via del fatto che attualmente non è più rosa 
 - Petit Cote, troppo turistica e con hotel diroccati 
-
-<div id="Link"></div>
-
-##### Link Utili 
 
 <div id="Vlog"></div>
 

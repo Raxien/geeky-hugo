@@ -98,13 +98,7 @@ Consigliamo di prenotare in anticipo durante i periodi di alta stagione per gara
 Il campeggio libero in Polonia non è consentito, ma è permessa la sosta in auto. Motivo per cui noi non abbiamo mai avuto problemi a dormire in libera, nel pieno rispetto dell’abiente che ci circondava. In ogni caso sono presenti numerosi campeggi che offrono anche numerose escursioni.
 
 ##### Viaggiare con il proprio animale
-In generale, la Polonia è un paese accogliente per gli animali domestici, ma ci possono essere alcune restrizioni in alcune aree pubbliche, come parchi e ristoranti. Consigliamo di contattare in anticipo gli alloggi, i ristoranti e le attrazioni per verificare le loro politiche sull'ammissione degli animali domestici.
-
-L'animale domestico deve essere identificato con un microchip e avere un passaporto per animali domestici dell'UE, che contiene informazioni sulle vaccinazioni e altri trattamenti veterinari.
-
-Inoltre, deve essere vaccinato contro la rabbia e avere un certificato valido di vaccinazione antirabbica. 
-
-Per rispetto delle persone del luogo e del loro possibile timore, consigliamo di tenere il proprio animale domestico al guinzaglio. 
+{{< animali "EU">}}
 
 ##### Itinerari
 In questa sezione, basata sulla nostra esperienza di un mese nel paese, ti proponiamo un itinerario che puoi compiere con i mezzi pubblici.

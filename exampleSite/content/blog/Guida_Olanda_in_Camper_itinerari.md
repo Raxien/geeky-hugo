@@ -20,8 +20,7 @@ Abbiamo visitato e vissuto nei Paesi Bassi a bordo del nostro van, con cane e ga
 > - [Mezzi di trasporto pubblici](#Mezzi)
 > - [Considerazioni e itinerario ideale](#Considerazioni)
 > - [Viaggiare con il proprio animale](#Animali)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
+> - [Il nostro vlog](#Vlog)
      <!-- - [Le nostre mappe](#Mappe) -->
 
 <div id="Itinerario"></div>
@@ -184,11 +183,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 <div id="Animali"></div>
 
 ##### Viaggiare con il proprio animale
-{{< animali >}}
-
-<div id="Link"></div>
-
-##### Link Utili 
+{{< animali "EU">}}
 
 <div id="Vlog"></div>
 

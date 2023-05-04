@@ -30,10 +30,9 @@ Vi lasciamo comunque il racconto delle nostre tappe e un paio di spunti per alcu
 > - [Dove dormire](#Dormire)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Quanto abbiamo speso](#Spesa)
-> - [Considerazioni finali e itinerari in breve](#Cosiderazioni)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
->     - [Le nostre mappe](#Mappe)
+> - [Considerazioni e itinerari in breve](#Considerazioni)
+> - [Il nostro vlog](#Vlog)
+> - [Le nostre mappe](#Mappe)
 
 <div id="Paese"></div>
 
@@ -190,14 +189,7 @@ Consigliamo di prenotare in anticipo durante i periodi di alta stagione per gara
 <div id="Animali"></div>
 
 ##### Viaggiare con il proprio animale
-
-In generale, la Polonia è un paese accogliente per gli animali domestici, ma ci possono essere alcune restrizioni in alcune aree pubbliche, come parchi e ristoranti. Si consiglia di contattare in anticipo gli alloggi, i ristoranti e le attrazioni per verificare le loro politiche sull'ammissione degli animali domestici.
-
-L'animale domestico deve essere identificato con un microchip e avere un passaporto per animali domestici dell'UE, che contiene informazioni sulle vaccinazioni e altri trattamenti veterinari.
-
-Inoltre, deve essere vaccinato contro la rabbia e avere un certificato valido di vaccinazione antirabbica. 
-
-Per rispetto delle persone del luogo e del loro possibile timore, consigliamo di tenere il proprio animale domestico al guinzaglio. 
+{{< animali "EU">}}
 
 <div id="Speso"></div>
 
@@ -218,7 +210,7 @@ Passavant: 250 euro -->
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni finali 
+##### Considerazioni 
 se stai pensando di visitare la Slovacchia in camper/van sappi che non è possibile utilizzare i campeggi solo per camper service: ci hanno richiesto 25 euro per scaricare e sostare in un parcheggio. 
 Si fatica moltissimo anche a trovare il carico dell’acqua. 
 
@@ -228,11 +220,6 @@ I paesaggi che si attraversano mostrano natura rigogliosa e non contaminata che 
 Sicuramente prenderemmo in considerazione Bratislava come meta per un weekend, raggiungendola in aereo. E' davvero una città piacevole con una bella atmosfera conviviale.
 
 Scrivici se vuoi affidarti a noi per scoprire insieme come organizzare al meglio la tua vacanza :) 
-
-
-<div id="Link"></div>
-
-##### Link Utili 
 
 <div id="Vlog"></div>
 

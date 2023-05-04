@@ -42,7 +42,7 @@ Se vuoi sapere di più sulle nostre avventure in tutto il paese trovi l'articolo
 Noi abbiamo girato per tutto il centro città a piedi, ma se dovessi aver bisogno i mezzi di trasporto funzionano benissimo (vedi il traghetto che noi abbiamo preso 8 volte gratuitamente dal nostro parcheggio).
 E ricorda, in città devi prestare più attenzione alle biciclette che a qualsiasi altro mezzo, sbucano da ogni angolo!
 
-##### Considerazioni finali e itinerario ideale
+##### Considerazioni e itinerario ideale
 Dobbiamo essere sinceri, Amsterdam è stata forse una delle mete che ci è piaciuta meno di tutti i Paesi Bassi. Forse avessimo visto solo la città ci sarebbe piaciuta parecchio, ma avendo scoperto anche i piccoli villaggi ne siamo rimasti colpiti maggiormente. Merita in ogni caso una visita, e se dovesse capitarti di raggiungerla in primavera ti consigliamo una visita al parco Keukenhof per ammirare le distese di tulipani in fiore. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683208306/IMG_1446_krr9fi.jpg" >}}

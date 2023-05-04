@@ -35,23 +35,20 @@ Abbiamo deciso di scrivere due articoli, dal momento che il nostro viaggio nel p
 > - [Dove dormire](#Dormire)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Quanto abbiamo speso](#Spesa)
-> - [Considerazioni finali e itinerario ideale](#Cosiderazioni)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
->     - [Le nostre mappe](#Mappe)
+> - [Considerazioni e itinerario ideale](#Considerazioni)
+> - [Il nostro vlog](#Vlog)
+> - [Le nostre mappe](#Mappe)
 
 <div id="Paese"></div>
 
 ##### Il paese
-
-
 
 <div id="Itinerario"></div>
 
 ##### Itinerario
 
 In questa sezione vi elencheremo tutte le tappe della nostra avventura, portandovi con noi da nord a sud del paese, rimanendo sempre lungo la costa atlantica. 
-Al fondo di questo articolo troverete la mappa con tutti i puntalini relativi a soste e luoghi di interesse [clicca qui se vuoi saltare i dettagli](#Cosiderazioni) 
+Al fondo di questo articolo troverete la mappa con tutti i puntalini relativi a soste e luoghi di interesse [clicca qui se vuoi saltare i dettagli](#Considerazioni) 
 
 
 **{{< underline "Giorno 1" >}}**: siamo arrivati a Tanger Med intorno alle 13 e dopo aver svolto le pratiche doganali, passando attraverso lo scanner, ci siamo diretti immediatamente verso Assilah, 80 km a sud. Era sabato e per nostra fortuna abbiamo avuto modo di vivere subito l'atmosfera del souk. La passeggiata lungo le mura della cittadina è davvero piacevole. Abbiamo sostato in libera in un piazzale molto tranquillo a due passi dal centro città.
@@ -192,10 +189,10 @@ Numerosi sono gli alberghi o presenti sul territorio.
 <div id="Animali"></div>
 
 ##### Viaggiare con il proprio animale
-Per viaggiare extra Europa con il proprio animale occorre avere il passaporto, il microchip, la vaccinazione antirabbica in corso di validità e un documento che attesti la titolazione del vaccino (si effettua tramite un prelievo del sangue che viene analizzato in centri specializzati ed è obbligatorio per poter rientrare in Europa). 
+{{< animali "EX">}}
+
 In Marocco non sono obbligatorie ulteriori profilassi particolari, in ogni caso noi abbiamo provveduto a somministrare a Olimpia e Sakè, i nostri cane e gatto, i consueti antiparassitari. Consigliamo di tenere il proprio animale sempre al guinzaglio, dal momento che numerosi animali selvatici camminano in ogni angolo del paese. 
 Soprattutto lungo la costa abbiamo notato anche molti branchi di cani randagi. 
-
 
 <div id="Speso"></div>
 
@@ -205,7 +202,7 @@ Soprattutto lungo la costa abbiamo notato anche molti branchi di cani randagi.
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni finali
+##### Considerazioni
 Il nostro approccio iniziale al Marocco, entrando da Tnger Med, è stato un po' condizionato dalla troppa pattumiera presente ovunque: intere discariche a cielo aperto, popolate da animali intenti a mangiare la plastica e bambini a correre fra le macerie.
 Passeggiando per le stradine di Assilah ci siamo risollevati il morale, per poi apprezzare la piacevole Rabat, Essaouira, la costa di Legzira e le sue scogliere.
 
@@ -218,12 +215,6 @@ Tappe imperdibili:
 Tappe da evitare:
 - Lago Rosa, per via del fatto che attualmente non è più rosa 
 - Petit Cote, troppo turistica e con hotel diroccati 
-
-
-
-<div id="Link"></div>
-
-##### Link Utili 
 
 <div id="Vlog"></div>
 

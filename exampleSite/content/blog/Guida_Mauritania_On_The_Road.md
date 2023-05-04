@@ -28,9 +28,8 @@ Vi riportiamo comunque tutte le informazioni relative alle pratiche doganali, ai
 > - [Dove dormire](#Dormire)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Quanto abbiamo speso](#Spesa)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
->     - [Le nostre mappe](#Mappe)
+> - [Il nostro vlog](#Vlog)
+> - [Le nostre mappe](#Mappe)
 
 <div id="Paese"></div>
 
@@ -178,7 +177,8 @@ Se vi trovate in centri minori potete provare a chiedere alla gendarmerie dove s
 <div id="Animale"></div>
 
 ##### Viaggiare con il proprio animale
-Per viaggiare extra Europa con il proprio animale occorre avere il passaporto, il microchip, la vaccinazione antirabbica in corso di validità e un documento che attesti la titolazione del vaccino (si effettua tramite un prelievo del sangue che viene analizzato in centri specializzati ed è obbligatorio per poter rientrare in Europa). 
+{{< animali "EX">}}
+
 In Mauritania non sono obbligatorie ulteriori profilassi particolari, in ogni caso noi abbiamo provveduto a somministrare a Olimpia e Sakè, i nostri cane e gatto, i consueti antiparassitari. Consigliamo di tenere il proprio animale sempre al guinzaglio, dal momento che numerosi animali selvatici camminano in ogni angolo del paese. 
 
 <div id="Speso"></div>
@@ -203,10 +203,6 @@ L'unico campeggio in cui abbiamo pernottato ci ha richiesto 500 MAU a notte, 12,
 {{< card >}}
 
 **{{< underline "Totale: 331,50 euro" >}}**
-
-<div id="Link"></div>
-
-##### Link Utili 
 
 <div id="Vlog"></div>
 
