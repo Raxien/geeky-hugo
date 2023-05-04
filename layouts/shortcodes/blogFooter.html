@@ -51,12 +51,13 @@
   <!-- Slovacchia -->
   {{ else if eq $country "SLV"}}
   {{ $data.Set "value" "un bryndzové halušky" }}
-    <!-- Nuova Aquitania -->
-    {{ else if eq $country "FR_N" }}
-    {{ $data.Set "value" "un macaron" }}
-     <!-- Olanda -->
+  <!-- Nuova Aquitania -->
+  {{ else if eq $country "FR_N" }}
+  {{ $data.Set "value" "un macaron" }}
+  <!-- Olanda -->
   {{ else if eq $country "O"}}
   {{ $data.Set "value" "un kibbeling" }}
+  {{ end }}
 
   <!-- Se vuoi ringraziarci puoi offrirci un <strong class="title-border">{{ $data.Get "value" }}</strong>:   -->
   <br>
