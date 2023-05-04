@@ -17,7 +17,6 @@ In questo articolo ti porteremo con noi alla scoperta della Polonia, una terra c
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni e itinerario ideale](#Considerazioni)
-> - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
 ##### Itinerario

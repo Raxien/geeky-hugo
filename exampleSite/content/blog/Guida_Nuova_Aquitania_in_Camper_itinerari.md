@@ -116,7 +116,17 @@ In camper o auto, le mete imperdibili secondo noi sono :
 <div id="Animali"></div>
 
 ##### Viaggiare con il proprio animale
-{{< animali "EU">}}
+Per viaggiare in Europa con il proprio animale occorre avere il passaporto, il microchip e la vaccinazione antirabbica in corso di validità.
+Ti consigliamo di prestare sempre attenzione nei luoghi affollati perchè le persone potrebbero avere timore, motivo per cui noi giriamo sempre con i nostri animali al guinzaglio. 
+In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata di mano. 
+Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
+Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 
+
+<div id="Link"></div>
+
+##### Link Utili 
+
+<div id="Vlog"></div>
 
 ##### Il nostro Vlog 
 
