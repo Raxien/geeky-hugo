@@ -1,14 +1,16 @@
 ---
 title: 'Spagna del Nord in camper con cane e gatto: itinerario, consigli e informazioni utili'
-description: "Alla scoperta della Spagna del Nord in camper attraverso Paesi Baschi, Cantabria, Asturie e Galizia"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
-date: 2023-04-10T17:00:00.000
-categories: ["Europa", "Guida", "Itinerario"]
-type: featured
-draft: true
+description: "Alla scoperta della Spagna del Nord on the road attraverso Paesi Baschi, Cantabria, Asturie e Galizia"
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223914/IMG_9010_x6hrvl.jpg
+date: 2023-05-03T17:00:00.000
+categories: ["Europa", "Guida", "Itinerario", "Camper"]
+country: Spagna
+type: regular
+draft: false
 ---
 
-Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati sulla costa atlantica del sud della Francia. Siamo arrivati in questa regione dopo aver visitato la [Normandia](/blog/guida_normandia_in_camper_itinerari/) e la [Bretagna](/blog/guida_bretagna_in_camper_itinerari/) e siamo stati felicissimi di scoprire queste zone fino a raggiungere il capoluogo Bordeaux per poi dirigerci a Bayonne e Biarritz. 
+15 giorni affacciati sulla costa della Spagna del Nord? Tutto fattibile, attraversando 4 regioni (Paesi Baschi, Cantabria, Asturie e Galizia), panorami mozzafiato e alcune mete davvero imperdibili! Noi arrivavamo direttamente dalla [Francia](/blog/guida_nuova_aquitania_in_camper_itinerari/) e nonostante un primo impatto con le persone non troppo accoglienti come in altre zone spagnole, abbiamo trovato un clima abbastanza favorevole nonostante fosse novembre e luoghi che ci sono rimasti nel cuore. 
+Ti va di leggere cosa abbiamo da consigliare? Promettiamo mete davvero meravigliose! 
 
 
 > ##### Tabella dei contenuti
@@ -16,148 +18,131 @@ Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati s
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni finali e itinerario ideale](#Cosiderazioni)
+> - [Considerazioni e mete imperdibili](#Cosiderazioni)
 > - [Viaggiare con il proprio animale](#Animali)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
+> - [Il nostro vlog](#Vlog)
      <!-- - [Le nostre mappe](#Mappe) -->
 
 ##### Itinerario
-Vuoi visitare questa regione giorno dopo giorno insieme a noi? Abbiamo ricreato un piccolo diario giornaliero. 
-Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#Considerazioni).
+Di seguito troverai il nostro diario giornaliero, ma se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#Considerazioni).
 
 **{{< underline "Giorno 1" >}}**: La nostra prima meta spagnola dopo aver lasciato la Francia e aver fatto spesa al Mercadona è stata Pasaia. Qui abbiamo passeggiato per le vie del borgo, in un'atmosfera un po' più cupa rispetto ai paesini francesi, raggiungendo la casa di Victor Hugo, il piccolo porto, e un promontorio dal quale si può ammirare la costa. Tornando al van non abbiamo resistito a una fetta di tipica torta al formaggio e, soddisfatta anche la voglia di dolce, dopo pranzo ci siamo spostati a San Sebastian. Passeggiando lungo la costa siamo arrivati al Mirador, palazzo imperiale con splendida vista sulla baia, e poi nelle vie del centro, per ammirare la parte veja, piazza della Constitution e assaggiare le prime tapas al bar sport. Abbiamo scoperto una città davvero viva, animata da numerosi artisti di strada. Per la notte ci siamo spostati nella vicina Orio. 
 
-**{{< underline "Giorno 2" >}}**: ci siamo svegliati di prima mattina per fare una bella camminata sul promontorio, mentre i primi surfisti andavano a caccia di onde buone. Poi, complice la pioggia, ci siamo spostati a Zarautz, famosa per la sua spiaggia incastonata fra i promontori, e a Getaria: anche qui abbiamo passeggiato sul promontorio affacciato da un lato sulla cittadina e dall'altro sulla baia, trovando sulla strada un vecchio bunker e un faro abbandonato. Ultima tappa della giornata Zumaia con le sue famose rocce rosa, dalla forma stranissima e il terreno argilloso, rimaneggiati dal clima e dal tempo. Sosta per la notte su strada vista mare. 
+**{{< underline "Giorno 2" >}}**: ci siamo svegliati di prima mattina per fare una bella camminata sul promontorio, mentre i primi surfisti andavano a caccia di onde buone. Poi, complice la pioggia, ci siamo spostati a Zarautz, famosa per la sua spiaggia incastonata fra i promontori, e a Getaria: anche qui abbiamo passeggiato sul promontorio affacciato da un lato sulla cittadina e dall'altro sulla baia, trovando sulla strada un vecchio bunker e un faro abbandonato. Ultima tappa della giornata Zumaia con le sue famose rocce rosa, dalla forma stranissima e il terreno argilloso, rimaneggiati dal clima e dal tempo. Sosta per la notte su strada vista mare nei pressi di Deba. 
 
-**{{< underline "Giorno 3" >}}**: il maltempo non ci dava tregua ma abbiamo comunque fatto due passi nel piccolo villaggio di Deba
+**{{< underline "Giorno 3" >}}**: il maltempo non ci dava tregua ma abbiamo comunque fatto due passi nel piccolo villaggio di Deba, poi dato che il 31 ottobre era l'ultimo lunedì del mese e coincideva con un grande mercato nella città di Guernica, con una serie di bancarelle per tutte le vie, abbiamo deciso di raggiungere questa meta. Siamo arrivati volutamente nel tardo pomeriggio per poter passeggiare insieme a Olimpia e Sakè nel momento in cui molte persone rientravano a casa,e per assaggiare un pinxto, la tapa di qui: una fetta di formaggio su un pezzo di baguette (1 euro). Dopo aver camminato per la città abbiamo raggiunto la riserva di Urdaibai. 
 
-**{{< underline "Giorno 4" >}}**: il 1 novembre si celebra un festival nella città di Gernika, con una serie di bancarelle per tutte le vie. Siamo arrivati volutamente nel tardo pomeriggio, con un po' meno caos, per poter passeggiare insieme a Olimpia e Sakè e non senza assaggiare un Pastel Vasco, tipico dolce della zona ripieno di crema. Dopo aver camminato per la città abbiamo raggiunto da riserva di Urdaibai. 
+**{{< underline "Giorno 4" >}}**: abbiamo dedicato la mattinata a scoprire la natura attorno alla riserva, fermandoci per ammirare la chiesetta di Mundaka, poi abbiamo proseguito lungo la costa fino a raggiungere una comoda area sosta con tavolini per picnic nei pressi della turistica San Juan de Gatzelugatze.
 
-**{{< underline "Giorno 4" >}}**: abbiamo dedicato la mattinata a scoprire la natura attorno alla 
-2/11 riserva, poi San Juan nelle vicinanze, bimbi francesi e signori di Barcellona 
-3/11 San juan, signore di Barcellona, funghi, Jeje e marito 
-4/11 vicina di camper con cane Bilbao, centro Bilbao, signora x pastel Vasco pasticceria, museo ragazza che visita luci con noi, 
-5/11 Santander, playa, santillana do mar, persone in centro, mangiamo quesa da con latte fresco, 
-6/11 San vincente de la barquera, gente al porto, bufones de pria anziano che ci racconta maree, spettacolare!,, ci bagna l onda, andiamo a oviedo seguendo maratona, gjion
-7/11 signori lungo mare gjion,cudillero ragazza con gatto al porto, piccolo paese pescatori, playa de silenzio tramonto, 
-8/11 playa cathedral, carretto empanada, vicini di camper 
-9/11 pranzo la coruna pizza da Luca, ci racconta di aver coronato un sogno. Poi ci spostiamo sulla costa 
-10/11 fermi sulla riva, vicini di van giocano a scacchi, conosciamo marius e inga, ci scambiamo i contatti e andiamo a muxia, cambiando idea su Santiago 
-11/11 conosciamo un pellegrino tedesco di Stoccarda, ci raggiungono i nostri amici, tramonto bellissimo, giochiamo a carcassone 
-12/11 ciao amici noi andiamo a fare spesa per olimpia e per noi, empanada, arriviamo a combarro, ci aspettano inga e marius, puliamo il van, serata a carcassone
-13/11 visitiamo combarro paese di pescatori, diluvia, yoga con inga, passeggiata con sakè, cane arriva lui soffia, serata carcassone
+**{{< underline "Giorno 5" >}}**: sveglia presto per raggiungere a piedi la scalinata che conduce alla chiesa di San Juan. L'accesso al sito è gratuito ma è necessario ottenere un ticket prenotando online dato l'ingresso contingentato (trovi tutte le informazioni utili {{< extLink "qui" "https://turismo.euskadi.eus/es/san-juan-de-gaztelugatxe/aa30-12376/es/">}}). La camminata dal punto dove abbiamo parcheggiato noi può essere un po' impegnativa, ecco perchè ti segnaliamo che puoi trovare un parcheggio più vicino. Inoltre, ti consigliamo un abbigliamento con scarpe adatte per evitare soprattutto di scivolare sui 241 scalini. Per il resto, prenditi il tempo per lasciarti meravigliare da questo luogo spettacolare (di prima mattina c'erano pochissimi turisti!). Nel pomeriggio, dopo aver fatto amicizia con altri camperisti mangiando panini vista oceano, abbiamo raggiunto l'area camper gratuita vicina all'aeroporto di Bilbao.
 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223893/IMG_9044_t9frgd.jpg" >}}
 
+**{{< underline "Giorno 6" >}}**: abbiamo raggiunto comodamente il centro città con il treno che impiega 30 minuti (1,80 euro a/r) lasciando gli animali a bordo del van dato che diluviava abbondantemente. Una volta arrivati abbiamo passeggiato per il Casco viejo, raggiungendo il mercato del La Ribera (peccato fosse chiuso nel pomeriggio), acquistando un delizioso Pastel Vasco presso la {{< extLink "pasticceria Arrese" "https://www.arrese.biz/">}}, attraversando il ponte di Calatrava, fino ad arrivare al Museo Guggenheim (vuoi risparmiare 1 euro sul biglietto? Prenota in anticipo sul {{< extLink "sito ufficiale" "https://www.guggenheim-bilbao.eus/">}}), che abbiamo visitato in un paio d'ore.
 
- siamo arrivati a La Rochelle sotto al diluvio, motivo per cui abbiamo deciso di sostare nei pressi dell'aeroporto e fare giusto due passi sulla scogliera. L'indomani abbiamo visitato il centro città sempre sotto al diluvio, spostandoci nel parcheggio vicino al piccolo porticciolo e scoprendo il mercato coperto. Nel pomeriggio ci siamo spostati lungo le sponde di un fiume per sgranchire le gambe passeggiando seguendo la riva e poi a Saint-Thomas-de-Conac, un piccolo paesino di campagna, per la notte. Sosta in libera.
+Vuoi vedere le nostre avventure fino a qui? Trovi tutto in questo video!
+{{< youtube Htsc7-shv1w>}}
 
-**{{< underline "Giorno 3-4" >}}**: abbiamo approfittato del sole per pulire tutto il van, immersi fra le colline del luogo, per poi dirigerci a Bordeaux, dove abbiamo sostato nei pressi di un lago fuori città. Ne abbiamo approfittato anche per cercare un'officina per fare cambio olio e filtro e sistemare alcuni problemi al van.  
+**{{< underline "Giorno 7" >}}**: ci siamo sposati a Santander e poi in direzione delle bellissime spiagge: playa de Covachos, playa de la Arnia, playa de Valdearenas. Nel pomeriggio abbiamo raggiunto il delizioso borgo di Santillana do Mar: luogo di passaggio del Cammino di Santiago, non perdetevi una fetta di quesada (torta al latte), servita con un bicchiere di latte fresco! Notte in libera a San Vicente de la Barquera. 
 
-**{{< underline "Giorno 5-6" >}}**: sbrigate le incombenze meccaniche ci siamo diretti nel parcheggio messo a disposizione da una famiglia che abita vicino alla vigna di proprietà a Vignobles Pestoury. Abbiamo approfittato del giro offerto e della degustazione, acquistando poi un paio di bottiglie di vino, davvero delizioso. 
+**{{< underline "Giorno 8" >}}**: dopo aver fatto due passi lungo la costa ci siamo rimessi in marcia, fermandoci per una tappa al santuario Iglesia de Nuestra Senora de los Dolores, poco dopo il borgo di Llanes, fino a raggiungere i Bufones de Pria: un luogo davvero incantevole! Immagina dei veri e propri geyser fra le rocce, creati dalla forse delle onde che si infrangono sulla costa. Se capiti qui in un giorno poco soleggiato la magia dovrebbe essere addirittura maggiore a detta dei contadini del posto! Nel pomeriggio abbiamo raggiunto Oviedo, altra meta del Cammino di Santiago, con la bellissima Cattedrale di San Salvador e la piazza sulla quale si affaccia, per poi spostarci per la notte a Gijon. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862713/Articoli/francia/IMG_7177_gurulo.jpg" >}}
+**{{< underline "Giorno 9" >}}**: a Gijon abbiamo fatto due passi lungo tutta la passeggiata che sorge parallela alla costa, fino a perderci per le viuzze de lquartiere dei pescatori. Ci siamo poi rimessi in strada per raggiungere Cudillero, un piccolo borgo colorato letteralmente incastonato fra le scogliere. Pochi chilometri dopo Cudillero, seguendo la strada lungo la costa, ci siamo fermati per caso ad ammirare la meravigliosa Playa del Silencio: un luogo magico! Notte in libera presso la Playa de las Catedrales (zona di Ribadeo).
 
-**{{< underline "Giorno 7" >}}**: ultima visita della città di Bordeaux con le sue strade in stile europeo: molto bella Rue Catherine, la Cattedrale, il Municipio. Qui abbiamo assaggiato un buonissimo macaron ripieno di gelato al pistacchio! Abbiamo anche avuto il piacere di conoscere il team di Caramaps, applicazione che usiamo per trovare informazioni su soste e servizi. Sosta libera a Lanton, sulla baia di Cap Ferret.
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223945/IMG_9784_useo2h.jpg" >}}
 
-**{{< underline "Giorno 8" >}}**: ci siamo spostati a Cap Ferret, dove è possibile fare bellissime passeggiate sulla spiaggia e vedere tamonti mozzafiato. Sosta in libera.
+**{{< underline "Giorno 10" >}}**: in questo luogo fai molta attenzione alle maree: noi al mattino presto abbiamo avuto la fortuna di passeggiare dra le rocce altissime che creano delle vere e proprie grotte all'interno delle quali ci si può affacciare quando la marea è bassa. Davvero suggestivo! Sempre in questo parcheggio si ha la fortuna che un paio di volte al mattino arriva un simpatico carretto di un signore che porta pane e empanadas ripiene (noi abbiamo provato quella con i membrillos da lui consigliataci, ed era deliziosa)! Notte il libera presso l'area camper gratuita di Betanzos.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862713/Articoli/francia/IMG_7621_yt3nni.jpg" >}}
+**{{< underline "Giorno 11" >}}**: direzione La Coruna. Dopo aver passeggiato per la città abbiamo scoperto la {{< extLink "pizzeria Terramia" "https://www.facebook.com/pizzeriaterramia.lacoruna/">}} e con Luca, il proprietario connazionale, abbiamo scambiato una piacevole chiacchierata! Se ami i cannoli qui potrai trovarne davvero di deliziosi! Nel pomeriggio abbiamo raggiunto a piedi la Torre di Hercules, faro di costruzione romana. Notte sulla costa.
 
-**{{< underline "Giorno 9-10" >}}**: abbiamo visitato la vicina l'Herbe, una piccola realtà di pescatori in cui perdersi fra reti e capanne. Poi ci siamo spostati a Biganos, un piccolo porticciolo con una fila di casette deliziose tutte colorate e infine ad Arcachon, dove abbiamo fatto due passi nel quartiere chiamato "Ville d'Hitre", con ville spettacolari dell'epoca di Napoleone III. Il centro del paese è decisamente chic, si può passeggiare fino a riva assaggiando i pasticcini di pasta choux. Sosta in libera.
+**{{< underline "Giorno 12-13" >}}**: siamo rimasti nel parcheggio affacciato sulla costa fino al pomeriggio, facendo amicizia con una coppia di ragazzi tedeschi, per poi spostarci a Muxia. Il nostro percorso iniziale prevedeva di raggiundere Santiago, che abbiamo deciso di rimandare però a un futuro cammino :) Sosta in libera al faro. A Muxia abbiamo fatto bellissime passeggiate, dal faro al centro del paesino, scambiando due chiacchiere con alcuni pellegrini e con le persone del posto. Il tramonto qui è a dir poco spettacolare. 
 
-**{{< underline "Giorno 11" >}}**: ci siamo spostati alle Dune di Pilat, mentre un vento forte soffiava senza tregua. Un grande peccato osservare parte dei boschi limitrofi bruciati nell'estate 2022. Ci siamo poi spostati verso la spiaggia di Biscarosse, dove abbiamo visto un tramonto spettacolare. Sosta in libera sul lago (in zona ci sono numerosi limiti di altezza).
+**{{< underline "Giorno 14" >}}**: lasciata Muxia, ci siamo diretti verso Combarro, approfittando di un paesino lungo la strada per fare spesa, carico e scarico e pranzare con un'empanada al tonno. Il paesino è un tipico villaggio galiziano di pescatori, costellato di horreos, gli antichi granai. Sosta libera per camper 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862705/Articoli/francia/IMG_7856_kdf2ob.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223845/IMG_0183_gwedzw.jpg" >}}
 
-**{{< underline "Giorno 12-13" >}}**: abbiamo trovato un piccolo angolo di pace presso il lago Mimizan, che permette una bella passeggiata anche sul molo. Notte in libera. 
-
-**{{< underline "Giorno 14-15" >}}**: dopo una sosta sulla spiaggia ci siamo spostati a Bayonne prima di cena. Qui abbiamo compriamo un gateaux bretone alla crema pasticciera delizioso, che abbiamo divorato visitando la città. Meritano una visita la Cattedrale e il chiostro. Ci siamo spostati per dormire lungo il mare, in un'area sosta permessa solo fuori stagione, frequentata da numerosi surfisti e da cui si può ammirare in lontananza il faro di Biarritz. 
-
-**{{< underline "Giorno 16" >}}**: abbiamo raggiunto Biarritz e abbiamo passeggiato per le sue vie fino a raggiungere la statua della Madonna affacciata sulla costa e il porticciolo, per poi spostarci in un parcheggio affacciato sulla baia con possibilità di fare una bella passeggiata. Da qui noi ci siamo spostati a Saint Jean de Luz per una piccola sosta prima di raggiungere la nostra ultima tappa francese, Hendaye, dalla quale siamo entrati in Spagna del Nord. 
-
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862725/Articoli/francia/IMG_8318_i0b77u.jpg" >}}
 
 ##### In Breve
-Di seguito le sole tappe. Abbiamo sempre dormito in libera, in parcheggi in cui non erano presenti divieti o in aree camper gratuite. 
+Di seguito le sole tappe della nostra avventura. Abbiamo sempre dormito in libera o in aree sosta gratuite. 
 
-**{{< underline "Giorno 1-2" >}}**: La Rochelle - Saint-Thomas-de-Conac
+**{{< underline "Giorno 1" >}}**: Pasaia - San Sebastian - Orio
 
-**{{< underline "Giorno 3-4" >}}**: Bordeaux
+**{{< underline "Giorno 2" >}}**: Zarautz - Getaria - Zumaia
 
-**{{< underline "Giorno 5-6" >}}**: Vignobles Pestoury
+**{{< underline "Giorno 3" >}}**: Deba - Guernica - riserva di Urdaibai
 
-**{{< underline "Giorno 7" >}}**: Bordeaux - Lanton
+**{{< underline "Giorno 4" >}}**: Mundaka - San Juan de Gatzelugatze
 
-**{{< underline "Giorno 8" >}}**: Cap Ferret
+**{{< underline "Giorno 5" >}}**: San Juan de Gatzelugatze - Bilbao
  
-**{{< underline "Giorno 9-10" >}}**: L'Herbe - Biganos - Arcachon
+**{{< underline "Giorno 6" >}}**: Bilbao 
 
-**{{< underline "Giorno 11" >}}**: Dune di Pilat - Biscarosse
+**{{< underline "Giorno 7" >}}**: Santander - Santillana do Mar - San Vicente de la Barquera
 
-**{{< underline "Giorno 12-13" >}}**: Mimizan
+**{{< underline "Giorno 8" >}}**: Bufones de Pria - Oviedo - Gijon
 
-**{{< underline "Giorno 14-15" >}}**: Bayonne
+**{{< underline "Giorno 9" >}}**: Gijon - Cudillero - Playa de las Catedrales
 
-**{{< underline "Giorno 16" >}}**: Biarritz 
+**{{< underline "Giorno 10" >}}**: Playa de las Catedrales - Betanzos
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862720/Articoli/francia/IMG_8478_icsos7.jpg" >}}
+**{{< underline "Giorno 11" >}}**: La Coruna
+
+**{{< underline "Giorno 12-13" >}}**: Muxia
+
+**{{< underline "Giorno 14" >}}**: Combarro
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223945/IMG_9784_useo2h.jpg" >}}
 
 <div id="Strade"></div>
 
 ##### Strade 
-Come nel resto del paese non abbiamo trovato strade in condizioni pericolose. 
+In tutte e quattro le regioni che abbiamo attraversato in Spagna del Nord abbiamo trovato le strade in condizioni perfette. L'autostrada è a pagamento, mentre è gratuita l'autopista.
 
 ##### Servizi e soste
-In Francia è molto semplice trovare aree di servizio attrezzate e gratuite per carico e scarico.
+In Spagna del Nord è semplice trovare aree di servizio attrezzate e gratuite per carico e scarico.
 Per le soste in libera noi non abbiamo avuto problemi dato che ci siamo recati in un periodo di bassa stagione. 
-Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio. 
+Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio, soprattutto nelle zone affacciate sulla costa. 
 
 <div id="Speso"></div>
 
 ##### Quanto abbiamo speso
-Di seguito un'idea di quanto abbiamo speso nei 16 giorni in Nuova Aquitania, tenendo però conto che questo viaggio rientra in un percorso molto più ampio, che ci ha visti percorrere tutta la costa atlantica del paese da nord a sud. 
+Di seguito un'idea di quanto abbiamo speso nei 15 giorni in Spagna del Nord, tenendo conto che arrivavamo dalla Francia e abbiamo proseguito verso il Portogallo. 
 
 {{< tripExpanses "Spese" "2022-10-29T00:00:00Z" "2022-11-13T00:00:00Z" >}}
 
 {{< card >}}
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862708/Articoli/francia/IMG_7194_rumhcv.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223905/IMG_8866_dea0c1.jpg" >}}
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni finali e itinerario ideale
-Non conoscevamo la Nuova Aquitania e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
+##### Considerazioni e mete imperdibili
+La Spagna del Nord era un luogo a noi del tutto sconosciuto. La natura ha fatto da padrona regalandoci scorci veramente spettacolari. Ci hanno un po' delusi i borghi affacciati sulla costa, con palazzi un po' fatiscenti e non troppo in armonia con il contesto.
 
 In camper o auto, le mete imperdibili secondo noi sono :
--   **{{< bold "La Rochelle" >}}**: il paese merita una passeggiata. Se non trovi maltempo ti suggeriamo una visita alle isole vicine. 
--   **{{< bold "Bordeaux" >}}**: il capoluogo perde un po' del fascino di autenticità, però la città offre parecchi servizi e le colline attorno sono bellissime.
--   **{{< bold "Baia di Cap Ferret" >}}**: Cap Ferret, L'Herbe, Biganos, Arcachon..con il senno di poi ci saremmo fermati molto di più in questa zona così poco turistica ma davvero piacevole!
--   **{{< bold "Dune di Pilat" >}}**: un must da vedere questo deserto che si affaccia sulla costa atlantica! 
--   **{{< bold "Bayonne" >}}**: a noi questa cittadina è piaciuta davvero tanto, molto più autentica della vicina, più turistica e chic, Biarritz.
+-   **{{< bold "San Sebastian" >}}**: la cittadina è forse la più bella di tutta la zona. Molto elegante, offre anche un panorama di divertimento per i più giovani. 
+-   **{{< bold "San Juan de Gatzelugatze" >}}**: questo posto, famoso ai più per le riprese di Game of Thrones, a noi è rimasto davvero nel cuore. 
+-   **{{< bold "Bilbao " >}}**: la città non è rinomata per la sicurezza, anche se noi ci siamo sempre sentiti al sicuro. Imperdibile la visita al Museo Guggenheim se sei un'amante dell'arte moderna.
+-   **{{< bold "Bufones de Pria" >}}**: qui la natura è veramente spettacolare, sembrerà di essere in Islanda! Un luogo inaspettato!
+-   **{{< bold "Oviedo" >}}**: famosa per il passaggio del Cammino di Santiago, la città è comunque deliziosa.
+-   **{{< bold "Playa de las Catedrales" >}}**: sarà solo una spiaggia per molti, ma affacciarsi e fare due passi fra le rocce qui ha un suo perchè!
+-   **{{< bold "Muxia" >}}**: luogo magico soprattutto per i pellegrini, merita una sosta al tramonto! 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682863464/Articoli/francia/A11AE756-B3B1-4867-AB22-DC1B3797A139_2_qys5ua.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223926/IMG_9550_uxwttl.jpg" >}}
 
 <div id="Animali"></div>
 
 ##### Viaggiare con il proprio animale
-Per viaggiare in Europa con il proprio animale occorre avere il passaporto, il microchip e la vaccinazione antirabbica in corso di validità.
-Ti consigliamo di prestare sempre attenzione nei luoghi affollati perchè le persone potrebbero avere timore, motivo per cui noi giriamo sempre con i nostri animali al guinzaglio. 
-In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata di mano. 
-Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
-Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 
+{{< animali >}}
 
-<div id="Link"></div>
-
-##### Link Utili 
 
 <div id="Vlog"></div>
 
 ##### Il nostro Vlog 
 
-Nel video qui sotto puoi sentire le nostre considerazioni su queste zone oppure trovi la serie completa sul paese {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.
+Nel video qui sotto puoi scoprire insieme a noi alcuni dei luoghi che ci sono rimasti nel cuore.
 
-{{< youtube 3BQKTpHqFP4>}}
+{{< youtube CkCwT4rboXI>}} 
 
 
 <!-- <div id="Mappe"></div> -->
@@ -167,4 +152,4 @@ Nel video qui sotto puoi sentire le nostre considerazioni su queste zone oppure 
 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
 
-{{< blogFooter "FR_N" "1" "0" >}}
+{{< blogFooter "SP_n" "1" "0" >}}

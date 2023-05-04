@@ -30,6 +30,9 @@
   <!-- Marocco -->
   {{ else if eq $country "MAR" }}
   {{ $data.Set "value" "un cous cous" }}
+  <!-- Spagna del Nord -->
+  {{ else if eq $country "SP_n" }}
+  {{ $data.Set "value" "un pinxto" }}
   <!-- Giappone -->
   {{ else if eq $country "JAP" }}
   {{ $data.Set "value" "un ramen 🍜" }}
@@ -48,10 +51,12 @@
   <!-- Slovacchia -->
   {{ else if eq $country "SLV"}}
   {{ $data.Set "value" "un bryndzové halušky" }}
-  {{ end }}
     <!-- Nuova Aquitania -->
     {{ else if eq $country "FR_N" }}
     {{ $data.Set "value" "un macaron" }}
+     <!-- Olanda -->
+  {{ else if eq $country "O"}}
+  {{ $data.Set "value" "un kibbeling" }}
 
   <!-- Se vuoi ringraziarci puoi offrirci un <strong class="title-border">{{ $data.Get "value" }}</strong>:   -->
   <br>
