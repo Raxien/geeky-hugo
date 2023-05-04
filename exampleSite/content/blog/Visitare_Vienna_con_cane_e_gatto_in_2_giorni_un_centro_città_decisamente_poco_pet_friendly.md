@@ -4,6 +4,7 @@ description: "La capitale austriaca era nei nostri piani da anni e una visita er
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1658858589/Articoli/vienna_1_kzuowu.jpg
 date: 2022-07-26T17:01:00.000
 categories: ["Europa", "Guida", "Animali"]
+country: Austria
 type: regular
 ---
 Quando abbiamo iniziato l'avventura Vandipety abbiamo cambiato tour più volte, finchè in quello definitivo abbiamo inserito anche Vienna, da visitare ovviamente con cane e gatto. 

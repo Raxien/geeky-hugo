@@ -4,6 +4,7 @@ description: "Alla scoperta dei Paesi Bassi on the road, verso mete turistiche e
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683208302/IMG_0407_xg5wru.jpg
 date: 2022-07-26T17:00:00.000
 categories: ["Europa", "Guida", "Itinerario"]
+country: Paesi Bassi
 type: featured
 draft: false
 ---

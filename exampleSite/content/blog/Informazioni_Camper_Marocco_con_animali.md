@@ -4,6 +4,7 @@ description: Quali documenti servono per entrare in Marocco in camper con cane e
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1675350430/Articoli/IMG_6364_ekk5cx_veifcj.jpg"
 date: 2023-03-15T10:00:00Z
 categories: ["Africa", "Guida", "Animali", "Camper"]
+country: Marocco
 type: featured
 ---
 
@@ -21,7 +22,6 @@ In questo articolo vi lasciamo la nostra esperienza sperando possa esservi di ai
 Il Marocco richiede ai visitatori stranieri di avere un passaporto valido per almeno sei mesi dalla data di ingresso nel paese. Questo significa che se la scadenza del passaporto è vicina, è necessario rinnovarlo prima di partire. Inoltre, il passaporto deve avere almeno una pagina vuota per il visto d'ingresso e per i timbri di controllo.
 
 Il visto d'ingresso turistico non è richiesto per i cittadini provenienti dall'Italia, che possono rimanere nel paese per 90 giorni senza tale documento.
-
 
 In generale, l'ingresso via nave in Marocco è simile all'ingresso via aereo, con alcune differenze nella procedura di controllo, dal momento che i controlli doganali si affettuano o sulla nave o una volta arrivati e coinvolgono anche il controllo del mezzo attraverso uno scanner.
 

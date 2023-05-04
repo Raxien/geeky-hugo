@@ -4,6 +4,7 @@ description: "Alla scoperta della Francia del Nord in camper. Un viaggio on the 
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804019/Articoli/francia/IMG_2771_ldmfwi.jpg
 date: 2023-04-17T17:00:00.000
 categories: ["Europa", "Guida", "Itinerario", "Camper"]
+country: Francia
 type: regular
 draft: false
 ---
@@ -18,7 +19,7 @@ In questo articolo ti porteremo con noi alla scoperta della Francia del Nord. Ab
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Link utili](#Link)
 >     - [Il nostro vlog](#Vlog)
-     <!-- - [Le nostre mappe](#Mappe) -->
+> - [Le nostre mappe](#le-nostre-mappe) 
 
 ##### Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, con un piccolo diario giornaliero. 
@@ -93,11 +94,7 @@ Nel video qui sotto puoi rivedere il nostro ingresso in Francia oppure trovi la 
 
 {{< youtube haPUPL6dgpI >}}
 
-<!-- <div id="Mappe"></div> -->
-
-<!-- ##### Le nostre mappe -->
-<!-- Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
-
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
+##### Le nostre mappe
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1h_zkHyaexgfCRWw0ZEwkRLa7MfW243o&ehbc=2E312F" >}} -->
 
 {{< blogFooter "FR" "1" "0" >}}

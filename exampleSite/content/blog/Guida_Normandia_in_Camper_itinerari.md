@@ -4,6 +4,7 @@ description: "Alla scoperta della Normandia in camper, un faro dopo l'altro!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804742/Articoli/francia/IMG_4788_qzts1g.jpg
 date: 2023-03-07T17:00:00.000
 categories: ["Viaggio", "Guide", "Francia", "Camper"]
+country: Francia
 type: featured
 draft: false
 ---
@@ -21,7 +22,7 @@ Ti consigliamo di anche dare un'occhiata anche a un paio di mete nell'[Alta Fran
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Link utili](#Link)
 >     - [Il nostro vlog](#Vlog)
-     <!-- - [Le nostre mappe](#Mappe) -->
+> - [Le nostre mappe](#le-nostre-mappe) 
 
 ##### Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, ricreando un piccolo diario giornaliero. 
@@ -143,12 +144,7 @@ Nel video qui sotto puoi rivedere il nostro Vlog in Normandia oppure trovi la se
 
 {{< youtube GYiGS6j605c >}}
 
-
-<!-- <div id="Mappe"></div> -->
-
-<!-- ##### Le nostre mappe -->
-<!-- Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
-
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
+##### Le nostre mappe
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1k7WeDnRorbC4wtUu2AybAgNgaNgSjNo&ehbc=2E312F" "1">}}
 
 {{< blogFooter "FR_N" "1" "0" >}}

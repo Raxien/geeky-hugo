@@ -4,6 +4,7 @@ description: "Non avevamo aspettative sul capoluogo del Tirolo settentrionale, c
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657706817/Articoli/Innsbruck_a_passeggio.jpg
 date: 2022-07-26T17:00:00.000
 categories: ["Europa", "Animali", "Itinerario"]
+country: Austria
 type: regular
 ---
 Innsbruck è stata la prima cittadina austriaca che abbiamo visitato con i nostri animali non appena varcato il confine italiano. Abbiamo comprato qualche yogurt a Vipiteno e poi via, superato il Brennero, ci siamo lasciati casa alle spalle. Siamo arrivati di sera, sotto un temporale, abbiamo cercato il parcheggio più vicino e siamo andati a dormire. L'indomani era lunedì di Pentecoste, festa per tutti. Ci siamo svegliati con un bel sole caldo e abbiamo spostato il van in una viuzza residenziale con case colorate da un lato e ville d'epoca dall'altro, l'ideale per iniziare a passeggiare con Olimpia e Sakè per le vie di Innsbruck. 

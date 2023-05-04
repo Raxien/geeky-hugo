@@ -4,6 +4,7 @@ description: ""
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681839060/Articoli/Copertine/Senegal_in_Van_nbfqyv.jpg
 date: 2023-03-26T17:00:00.000
 categories: ["Africa", "Dogana", "Itinerario", "Camper"]
+country: Senegal
 type: featured
 draft: false
 victor: true

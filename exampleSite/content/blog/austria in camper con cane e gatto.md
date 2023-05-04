@@ -3,7 +3,8 @@ title: Austria in camper con cane e gatto
 description: 3 settimane on the road
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1675350710/Articoli/IMG_3427_gttfeh.jpg
 date: 2023-02-01T10:00:00.000+00:00
-categories: ["europa", "animali", "camper"]
+categories: ["Europa", "Animali", "camper"]
+country: Austria
 type: regular
 ---
 

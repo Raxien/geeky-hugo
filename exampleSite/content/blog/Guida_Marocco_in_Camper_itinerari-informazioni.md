@@ -5,6 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1680644212/Sen
 date: 2022-07-26T17:00:00.000
 categories: ["Africa", "Guida", "Itinerario", "Camper"]
 type: featured
+country: Marocco
 draft: true
 victor: true
 ---

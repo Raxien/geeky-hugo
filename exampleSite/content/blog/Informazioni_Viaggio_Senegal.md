@@ -4,9 +4,9 @@ description: ""
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681839215/Articoli/Copertine/Senegal_Informazioni_Viaggio_tg3jnb.png
 date: 2023-03-26T17:00:00.000
 categories: ["Africa", "Guida", "Itinerario"]
+country: Senegal
 type: regular
 draft: false
-victor: true
 ---
 
 Sogni di andare in Senegal ma non sai da dove iniziare?
