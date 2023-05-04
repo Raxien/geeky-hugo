@@ -19,8 +19,7 @@ Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tapp
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni finali e itinerario ideale](#Cosiderazioni)
 > - [Viaggiare con il proprio animale](#Animali)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
+> - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
  {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806020/Articoli/francia/IMG_5510_df3poq.jpg" >}}
@@ -135,10 +134,6 @@ Ti consigliamo di prestare sempre attenzione nei luoghi affollati perchè le per
 In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata di mano. 
 Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
 Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 
-
-<div id="Link"></div>
-
-##### Link Utili 
 
 <div id="Vlog"></div>
 

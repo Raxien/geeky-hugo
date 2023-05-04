@@ -23,9 +23,8 @@ Dopo quasi 30 giorni trascorsi in Senegal, qualche disavventura in dogana e non 
 > - [Strade](#Strade)
 > - [Quanto abbiamo speso](#Spesa)
 > - [Considerazioni finali e itinerario ideale](#Considerazioni)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
->     - [Le nostre mappe](#Mappe)
+> - [Il nostro vlog](#Vlog)
+> - [Le nostre mappe](#Mappe)
 
 <div id="Itinerario"></div>
 
@@ -301,10 +300,6 @@ Tappe {{< underline "da valutare">}}:
 Tappe {{< underline "da evitare">}}:
 - Lago Rosa, per via del fatto che attualmente non è più rosa 
 - Petit Cote, troppo turistica e con hotel diroccati 
-
-<div id="Link"></div>
-
-##### Link Utili 
 
 <div id="Vlog"></div>
 

@@ -20,8 +20,7 @@ Ti consigliamo di anche dare un'occhiata anche a un paio di mete nell'[Alta Fran
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni finali e itinerario ideale](#Cosiderazioni)
 > - [Viaggiare con il proprio animale](#Animali)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
+> - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
 ##### Itinerario
@@ -132,10 +131,6 @@ In camper o auto, mete imperdibili:
 
 ##### Viaggiare con il proprio animale
 {{< animali >}}
-
-<div id="Link"></div>
-
-##### Link Utili 
 
 <div id="Vlog"></div>
 

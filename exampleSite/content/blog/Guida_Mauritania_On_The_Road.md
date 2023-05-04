@@ -28,9 +28,8 @@ Vi riportiamo comunque tutte le informazioni relative alle pratiche doganali, ai
 > - [Dove dormire](#Dormire)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Quanto abbiamo speso](#Spesa)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
->     - [Le nostre mappe](#Mappe)
+> - [Il nostro vlog](#Vlog)
+> - [Le nostre mappe](#Mappe)
 
 <div id="Paese"></div>
 
@@ -203,10 +202,6 @@ L'unico campeggio in cui abbiamo pernottato ci ha richiesto 500 MAU a notte, 12,
 {{< card >}}
 
 **{{< underline "Totale: 331,50 euro" >}}**
-
-<div id="Link"></div>
-
-##### Link Utili 
 
 <div id="Vlog"></div>
 

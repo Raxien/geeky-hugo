@@ -31,9 +31,8 @@ Vi lasciamo comunque il racconto delle nostre tappe e un paio di spunti per alcu
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Quanto abbiamo speso](#Spesa)
 > - [Considerazioni finali e itinerari in breve](#Cosiderazioni)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
->     - [Le nostre mappe](#Mappe)
+> - [Il nostro vlog](#Vlog)
+> - [Le nostre mappe](#Mappe)
 
 <div id="Paese"></div>
 
@@ -228,11 +227,6 @@ I paesaggi che si attraversano mostrano natura rigogliosa e non contaminata che 
 Sicuramente prenderemmo in considerazione Bratislava come meta per un weekend, raggiungendola in aereo. E' davvero una città piacevole con una bella atmosfera conviviale.
 
 Scrivici se vuoi affidarti a noi per scoprire insieme come organizzare al meglio la tua vacanza :) 
-
-
-<div id="Link"></div>
-
-##### Link Utili 
 
 <div id="Vlog"></div>
 

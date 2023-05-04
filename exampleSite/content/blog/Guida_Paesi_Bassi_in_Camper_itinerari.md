@@ -20,15 +20,14 @@ Abbiamo visitato e vissuto nei Paesi Bassi a bordo del nostro van, con cane e ga
 > - [Mezzi di trasporto pubblici](#Mezzi)
 > - [Considerazioni e itinerario ideale](#Considerazioni)
 > - [Viaggiare con il proprio animale](#Animali)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
+> - [Il nostro vlog](#Vlog)
      <!-- - [Le nostre mappe](#Mappe) -->
 
 <div id="Itinerario"></div>
 
 ##### Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, ricreando un piccolo diario giornaliero e rimandandoti a una sezione dedicata per quanto riguarda la visita della capitale, Amsterdam.
-Noi siamo arrivati in Olanda dalla Germania del Nord e abbiamo attraversato tutto il paese da nord a sud, dirigendoci poi in Belgio.
+Noi siamo arrivati nei Paesi Bassi dalla Germania del Nord e abbiamo attraversato tutto il paese da nord a sud, dirigendoci poi in Belgio.
 
 Se vuoi saltare subito alle conclusioni e alla mappa con tutte le soste e ai luoghi che secondo noi meritano di pù [clicca qui](#Considerazioni). 
 
@@ -49,18 +48,18 @@ Poi ci siamo diretti alla città di Groninga (sosta in libera in periferia, lung
 
 **{{< underline "Giorno 8" >}}**: complice un clima non stabile abbiamo visitato il paesino nel pomeriggio. Le casette sono disposte a file ordinate lungo una scacchiera di stradine e canali. Dopo aver scambiato qualche parola con i locali, abbiamo continuato a camminare senza una meta tra i canali. Poco prima di tornare al van abbiamo acquistato della verdura in una cassettina davanti al portone di un palazzo a due piani, lasciando i soldi nella buca delle lettere (usanza tipica in questo paese come in altri paesi del nord Europa). Per la notte ci siamo spostati a Hoorn.
 
-**{{< underline "Giorno 9" >}}**: Hoorn in passato era un importante porto mercantile e in qualche modo trattiene ancora un po’ il fascino di quell’atmosfera. Il centro storico è caratterizzato da palazzi caratteristici, che riportano anche il simbolo della città, l’unicorno. Nei giorni precedenti al nostro arrivo aveva avuto luogo un festival, cosa che non ha reso la nostra visita del tutto piacevole, con spazzatura ovunque e netturbini all’azione. Abbiamo quindi deciso di rientrare a bordo del camper e raggiungere la riva di una canale, proprio vicino a un mulino: parcheggio ideale per fare due passi, circondati da campi e pecore al pascolo. Da lì ci siamo spostati ad Alkmaar. La città è famosa per la produzione di formaggio e il mercato tipico, che si tiene ogni venerdì mattina e ogni martedì sera dalle 19 alle 21 nella piazza principale (trovi maggiori informazioni {{< extLink "qui " "https://www.kaasmarkt.nl/it/">}}). Dato che era martedì abbiamo deciso di approfittarne per immergerci ancora di più nell’atmosfera delle usanze locali. Dopo aver parcheggiato vicino a un centro sportivo, abbiamo raggiunto a piedi il centro fino alla piazza centrale, piena di torrette di forme arancioni e tondeggianti di formaggio, che vengono caricate su dei carretti e trasportate da coppie di uomini nei punti dai quali poi vengono vendute al pubblico. Insieme a noi numerose persone, tutte attente a osservare quel gioco di schemi e ad annusare il profumo nell’aria. Ci siamo fatti prendere per la gola da un carretto che vendeva panini con fettine di formaggio fuso, per poi tornare dopo poco ad acquistarne un terzo. Dopo aver comprato anche un paio di pezzi di formaggio siamo rientrati con il bottino, più che soddisfatti.
+**{{< underline "Giorno 9" >}}**: Hoorn in passato era un importante porto mercantile e in qualche modo trattiene ancora un po’ il fascino di quell’atmosfera. Il centro storico è caratterizzato da palazzi caratteristici, che riportano anche il simbolo della città, l’unicorno. Nei giorni precedenti al nostro arrivo aveva avuto luogo un festival, cosa che non ha reso la nostra visita del tutto piacevole, con spazzatura ovunque e netturbini all’azione. Abbiamo quindi deciso di rientrare a bordo del camper e raggiungere la riva di una canale, proprio vicino a un mulino: parcheggio ideale per fare due passi, circondati da campi e pecore al pascolo. Da lì ci siamo spostati ad Alkmaar. La città è famosa per la produzione di formaggio e il mercato tipico, che si tiene ogni venerdì mattina e ogni martedì sera dalle 19 alle 21 nella piazza principale (trovi maggiori informazioni {{< extLink "qui " "https://www.kaasmarkt.nl/it/">}}). Dato che era martedì abbiamo deciso di approfittarne per immergerci ancora di più nell’atmosfera delle usanze locali. Dopo aver parcheggiato vicino a un centro sportivo, abbiamo raggiunto a piedi il centro fino alla piazza centrale, piena di torrette di forme arancioni e tondeggianti di formaggio, che vengono caricate su dei carretti e trasportate da coppie di uomini nei punti dai quali poi vengono vendute al pubblico. Curioso vero? Se ti va puoi scoprire tutto nel nostro {{< extLink "video" "https://youtu.be/XG1jF3oNLCc">}}. Insieme a noi numerose persone, tutte attente a osservare quel gioco di schemi e ad annusare il profumo nell’aria. Ci siamo fatti prendere per la gola da un carretto che vendeva panini con fettine di formaggio fuso, per poi tornare dopo poco ad acquistarne un terzo. Dopo aver comprato anche un paio di pezzi di formaggio siamo rientrati con il bottino, più che soddisfatti.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683208299/IMG_0284_ao3ena.jpg" >}}
 
 
 **{{< underline "Giorno 10" >}}**: sotto una pioggia torrenziale abbiamo raggiunto la stazione dei treni per far salire a bordo con noi Davide, un caro amico, con il quale avremmo visitato l'isola di Texel. Insieme a lui siamo arrivati in un campeggio nei pressi di Den Helder, dove ci ha accolti una simpatica signora anziana. Dopo aver pranzato e aver montato la tenda vicino al van, abbiamo raggiunto a piedi le vicine dune affacciate sul Mare del Nord. Sembrava per un attimo di camminare nei paesaggi irlandesi dell’entroterra. Un’unica strada, a curve morbide, costeggiata solo dalla natura.
 
-**{{< underline "Giorno 11" >}}**: ci siamo diretti all'isola di Texel, arrivando al porto con un tempismo perfetto. La traversata dura una ventina di minuti (trovi {{< extLink "qui " "https://www.teso.nl/en/">}} le info utili). Quando abbiamo toccato terra siamo andati dritti al faro a nord dell'isola, parcheggiando in un punto vista mare. Il caldo sembrava non voler darci tregua, così abbiamo deciso di spostarci verso ovest, in un paesino sulla costa. Trovato un parcheggio perfetto per lasciare Olimpia e Sakè a bordo, sotto l’ombra di qualche albero, noi abbiamo indossato il costume e ci siamo diretti verso la spiaggia,fermandoci solo per assaggiare la tipica birra Texel, per poi tuffarci nelle acque gelide del Mare del Nord. Nel tardo pomeriggio siamo rientrati con il traghetto e abbiamo raggiunto il campeggio. 
+**{{< underline "Giorno 11" >}}**: ci siamo diretti all'isola di Texel, arrivando al porto con un tempismo perfetto. La traversata dura una ventina di minuti (trovi {{< extLink "qui " "https://www.teso.nl/en/">}} le info utili). Quando abbiamo toccato terra siamo andati dritti al faro a nord dell'isola, parcheggiando in un punto vista mare. Il caldo sembrava non voler darci tregua, così abbiamo deciso di spostarci verso ovest, in un paesino sulla costa. Trovato un parcheggio perfetto per lasciare Olimpia e Sakè a bordo, sotto l’ombra di qualche albero, noi abbiamo indossato il costume e ci siamo diretti verso la spiaggia,fermandoci solo per assaggiare la tipica birra Texel, per poi tuffarci nelle acque gelide del Mare del Nord (vuoi provare il brivido insieme a noi? {{< extLink "Tuffati" "https://youtu.be/Ds7jcZOdV7g">}} anche tu!). Nel tardo pomeriggio siamo rientrati con il traghetto e abbiamo raggiunto il campeggio. 
 
 **{{< underline "Giorno 12" >}}**: siamo tornati ad Alkmaar assaggiando per pranzo i tipici kibbeling, pezzetti di merluzzo fritti in pastella. Poi ci siamo spostati a Volendam, un piccolo paesino portuale con pochi passanti, qualche bicicletta, case ordinate e curate che si affacciano sul canale. L'ultimo stop in compagnia di Davide è stata la vicina isola di Marken, che si può raggiungere via traghetto o in auto attraversando una striscia di terra. Il centro è pedonale e riservato ai residenti e il tempo qui sembra essersi fermato a 50 anni fa. Oltrepassato un porticciolo, abbiamo camminato sui ciottoli ammirando la natura circostante. Nel tardo pomeriggio abbiamo raggiunto Amsterdam, parcheggiando per la notte a NDSM Wharf, un quartiere hypster in evoluzione, decorato da murales e con una buona offerta di locali serali.
 
-**{{< bold "Vuoi scoprire cosa abbiamo visitato a Amsterdam in 2 giorni?" >}}**:Vuoi scoprire cosa abbiamo visitato a Amsterdam in 2 giorni? Clicca [qui](/blog/guida_amsterdam_in_camper_itinerari/)
+**{{< bold "Vuoi scoprire cosa abbiamo visitato a Amsterdam in 2 giorni?" >}}**:Vuoi scoprire cosa abbiamo visitato a Amsterdam in 2 giorni? Clicca [qui](/blog/guida_amsterdam_in_camper_itinerari/).
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683208294/IMG_1448_axxzm5.jpg" >}}
 
@@ -132,7 +131,7 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera, tranne dove specific
 <div id="Clima"></div>
 
 ##### Clima e quando andare
-In Olanda il clima è sovente piovoso, con inverni che possono essere molto rigidi.
+Nei Paesi Bassi il clima è sovente piovoso, con inverni che possono essere molto rigidi.
 
 La primavera può essere la stagione ideale per ammirare i numerosi campi di tulipani in fiore, ma potresti trovare ancora giornate fredde e ventose oltre che piovose.
 
@@ -156,7 +155,7 @@ In prossimità dell'isola di Texel non siamo riusciti a sostare in libera di not
 ##### Quanto abbiamo speso
 Di seguito un'idea di quanto abbiamo speso per rimanere un mese nei Paesi Bassi, tenendo però conto che questo viaggio rientra in un percorso molto più ampio e che siamo rimasti fermi più giorni per trovare un amico. 
 In tutto il paese si riesce a pagare comodamente con la carta di credito e/o debito, anche per cifre minime. 
-{{< tripExpanses "Spese" "2022-80-08T00:00:00Z" "2022-09-06T00:00:00Z" >}}
+{{< tripExpanses "Spese" "2022-08-08T00:00:00Z" "2022-09-06T00:00:00Z" >}}
 
 {{< card >}}
 
@@ -186,17 +185,15 @@ In camper o auto, le mete imperdibili secondo noi sono :
 ##### Viaggiare con il proprio animale
 {{< animali >}}
 
-<div id="Link"></div>
-
-##### Link Utili 
 
 <div id="Vlog"></div>
 
 ##### Il nostro Vlog 
 
-Nel video qui sotto puoi sentire le nostre considerazioni su queste zone oppure trovi la serie completa sul paese {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.
+Nel video qui sotto puoi fare un po' il turista insieme a noi oppure trovi la serie completa sul paese {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ9CusTey8eX6KaVHeVOKXGL">}}.
 
-{{< youtube 3BQKTpHqFP4>}}
+
+{{< youtube GZQ6wqNHkYo>}}
 
 
 <!-- <div id="Mappe"></div> -->

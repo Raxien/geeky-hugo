@@ -17,8 +17,7 @@ In questo articolo ti porteremo con noi alla scoperta della Polonia, una terra c
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni finali e itinerario ideale](#Cosiderazioni)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
+> - [Il nostro vlog](#Vlog)
      <!-- - [Le nostre mappe](#Mappe) -->
 
 ##### Itinerario
@@ -171,10 +170,6 @@ In camper o auto, mete imperdibili:
 -   **{{< underline "Parco Slowinski" >}}**: sapevi che esiste un deserto in Polonia? Allora devi assolutamente visitare questo parco! Una volta scalata la duna di 40 metri ti troverai difronte a un paesaggio mozzafiato.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682607673/Articoli/Polonia/monti_tatra_vista_rjhahp.jpg" >}}
-
-<div id="Link"></div>
-
-##### Link Utili 
 
 <div id="Vlog"></div>
 

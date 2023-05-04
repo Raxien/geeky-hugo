@@ -36,9 +36,8 @@ Abbiamo deciso di scrivere due articoli, dal momento che il nostro viaggio nel p
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Quanto abbiamo speso](#Spesa)
 > - [Considerazioni finali e itinerario ideale](#Cosiderazioni)
-> - [Link utili](#Link)
->     - [Il nostro vlog](#Vlog)
->     - [Le nostre mappe](#Mappe)
+> - [Il nostro vlog](#Vlog)
+> - [Le nostre mappe](#Mappe)
 
 <div id="Paese"></div>
 
