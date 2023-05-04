@@ -5,7 +5,7 @@ image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1675350430/Ar
 date: 2023-03-15T10:00:00Z
 categories: ["Africa", "Guida", "Animali", "Camper"]
 country: Marocco
-type: featured
+type: regular
 ---
 
 Per entrare in Marocco via nave in camper e con animali al seguito è necessario essere in possesso di alcuni documenti fondamentali. 

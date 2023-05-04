@@ -5,7 +5,7 @@ image:
 date: 2022-07-26T17:00:00.000
 categories: ["Africa", "Guida", "Itinerario", "Camper"]
 country: Marocco
-type: featured
+type: regular
 draft: true
 ---
 

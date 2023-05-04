@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682607681/Art
 date: 2023-03-07T17:00:00.000
 categories: ["Europa", "Guida", "Itinerario", "Camper"]
 country: Polonia
-type: featured
+type: regular
 draft: false
 ---
 

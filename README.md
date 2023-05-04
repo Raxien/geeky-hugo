@@ -71,6 +71,8 @@ you will be able to edit and preview your site ✨.
 Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
 ## Deployment and hosting
 
+todo
+
 [![Deploy to
 Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gethugothemes/geeky-hugo)
 
