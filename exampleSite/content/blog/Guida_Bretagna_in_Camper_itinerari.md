@@ -17,7 +17,7 @@ Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tapp
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni e itinerario ideale](#Considerazioni)
+> - [Considerazioni e tappe imperdibili](#Considerazioni)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
@@ -113,7 +113,7 @@ Di seguito un'idea di quanto abbiamo speso nei 10 giorni in Bretagna, tenendo pe
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni e itinerario ideale
+##### Considerazioni e tappe imperdibili
 Questa è stata la nostra prima esperienza in Bretagna e abbiamo davvero amato questa regione. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera magica e di altri tempi. 
 
 In camper o auto, le mete imperdibili secondo noi sono :

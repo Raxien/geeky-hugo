@@ -9,10 +9,12 @@ type: featured
 draft: false
 ---
 
-Abbiamo visitato Amsterdam in 2 giorni, con cane e gatto come compagni di viaggio, nel mese di agosto 2022. Per la nostra visita ci siamo fatti consigliare da un amico che vive vicino alla città, scoprendo alcune mete un po' meno turistiche ma decisamente più autentiche. 
-Essendo estate il clima era mite, anche se il vento e la pioggia possono sempre essere all'ordine del giorno, motivo per cui ti consigliamo di portare con te un k-way o una mantellina!
-Noi siamo arrivati in città in camper e abbiamo **{{< bold "sostato" >}}** gratuitamente e **{{< bold "dormito in libera" >}}** nel quartiere NDSM Wharf (ti lasciamo la posizione qui se ne avessi bisogno, sperando sia ancora fattibile) Se vuoi sostare solo di giorno puoi spostarti nei parcheggi direttamente affacciati sul canale, se invece vuoi pernottare è consentito solo nelle vie limitrofe. Da questa zona il centro città è facilmente raggiungibile con traghetti gratuti che partono ogni 10 minuti circa (durata tragitto 15 minuti, animali ammessi!).
-In ogni caso, anche se arrivassi in aereo, le mete che ti consigliamo sono sempre le stesse!
+Abbiamo visitato Amsterdam in 2 giorni, con cane e gatto come compagni di viaggio, nel mese di agosto 2022. Per la nostra visita ci siamo fatti {{< extLink "consigliare da un amico che vive vicino alla città" "https://www.youtube.com/watch?v=bfCMcCSxOcE&list=PLHaclq_J5PZ9CusTey8eX6KaVHeVOKXGL&index=7" >}}, scoprendo alcune mete un po' meno turistiche ma decisamente più autentiche. 
+Essendo estate il clima era mite, anche se il vento e la pioggia possono sempre essere all'ordine del giorno, motivo per cui ti consigliamo di portare con te un k-way o {{< extLink "una mantellina" "https://amzn.to/44HlPdo" >}}!
+Noi siamo arrivati in città in camper e abbiamo **{{< bold "sostato" >}}** gratuitamente e **{{< bold "dormito in libera" >}}** nel quartiere NDSM Wharf <!-- (ti lasciamo la posizione qui se ne avessi bisogno, sperando sia ancora fattibile) -->
+
+Se vuoi sostare solo di giorno puoi spostarti nei parcheggi direttamente affacciati sul canale, se invece vuoi pernottare è consentito solo nelle vie limitrofe. Da questa zona il centro città è facilmente raggiungibile con traghetti gratuti che partono ogni 10 minuti circa (durata tragitto 15 minuti, animali ammessi!).
+In ogni caso, anche se arrivassi in aereo, le mete che ti consigliamo sono sempre le stesse! ✈️
 
 ##### 3 tappe imperdibili
 Questi luoghi ci sono stati consigliati da Davide, e ci sentiamo di consigliarteli proprio in amicizia, per una visita della città anche un po' più divertente. 
@@ -26,7 +28,6 @@ Questi luoghi ci sono stati consigliati da Davide, e ci sentiamo di consigliarte
 **{{< underline "Museo Straat" >}}**: è il {{< extLink "museo" "https://https://straatmuseum.com/en/" >}} di street-art nel quartiere nord della città. Troverai opere anche sui muri dei palazzi limitrofi, ma la suo interno si nascondono delle vere opere d'arte. Potresti anche vedere qualche artista all'opera. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683208301/IMG_1447_qfofcr.jpg" >}}
-
 
 ##### Itinerario completo
 Vuoi leggere ogni attimo della nostra avventura vissuta in città insieme a Olimpia e Sakè? Qui trovi il nostro diario giornaliero.

@@ -15,7 +15,7 @@ In questo articolo ti porteremo con noi alla scoperta della Francia del Nord. Ab
 > - [Itinerario](#itinerario)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
-> - [Considerazioni e itinerario ideale](#considerazioni-e-itinerario-ideale)
+> - [Considerazioni e tappe imperdibili](#Considerazioni)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
@@ -66,7 +66,9 @@ In Alta Francia la situazione relativa alle strade è perfetta.
 Non abbiamo avuto alcun problema a trovare i servizi di carico e scarico per il van. 
 Abbiamo potuto dormire sempre in libera, nonostante parecchie limitazioni a mezzi superiori ai 2 metri di altezza (a volte anche 1.90), soprattutto nelle vicinanze delle spiagge. 
 
-##### Considerazioni e itinerario ideale
+<div id="Considerazioni"></div>
+
+##### Considerazioni e tappe imperdibili
 Negli anni abbiamo imparato ad apprezzare molti lati della Francia, ecco perchè anche in questa zona, nonostante il maltempo, abbiamo trovato luoghi che ci sono rimasti nel cuore.  
 
 In camper, auto o moto le mete secondo noi imperdibili di questa regione sono:

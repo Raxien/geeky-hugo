@@ -35,7 +35,7 @@ Abbiamo deciso di scrivere due articoli, dal momento che il nostro viaggio nel p
 > - [Dove dormire](#Dormire)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Quanto abbiamo speso](#Spesa)
-> - [Considerazioni e itinerario ideale](#Considerazioni)
+> - [Considerazioni e tappe imperdibili](#Considerazioni)
 > - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#Mappe)
 

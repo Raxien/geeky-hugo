@@ -22,7 +22,7 @@ Dopo quasi 30 giorni trascorsi in Senegal, qualche disavventura in dogana e non 
 > - [Dogane](#Dogane)
 > - [Strade](#Strade)
 > - [Quanto abbiamo speso](#Spesa)
-> - [Considerazioni e itinerario ideale](#Considerazioni)
+> - [Considerazioni e tappe imperdibili](#Considerazioni)
 > - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#Mappe)
 

@@ -16,7 +16,7 @@ In questo articolo ti porteremo con noi alla scoperta della Polonia, una terra c
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni e itinerario ideale](#Considerazioni)
+> - [Considerazioni e tappe imperdibili](#Considerazioni)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
 ##### Itinerario
@@ -153,7 +153,7 @@ Di seguito un idea di quanto abbiamo speso nell'estate del 2022.
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni e itinerario ideale
+##### Considerazioni e tappe imperdibili
 Sin dal primo momento abbiamo apprezzato la Polonia, motivo per cui ci sentiamo veramente di consigliarti di prendere in considerazione questo stato per le tue vacanze, in camper o meno. 
 
 In camper o auto, mete imperdibili:

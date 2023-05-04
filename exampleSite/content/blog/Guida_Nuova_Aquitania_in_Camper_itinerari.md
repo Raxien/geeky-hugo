@@ -16,7 +16,7 @@ Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati s
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni e itinerario ideale](#Considerazioni)
+> - [Considerazioni e tappe imperdibili](#Considerazioni)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
@@ -101,7 +101,7 @@ Di seguito un'idea di quanto abbiamo speso nei 16 giorni in Nuova Aquitania, ten
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni e itinerario ideale
+##### Considerazioni e tappe imperdibili
 Non conoscevamo la Nuova Aquitania e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
 
 In camper o auto, le mete imperdibili secondo noi sono :

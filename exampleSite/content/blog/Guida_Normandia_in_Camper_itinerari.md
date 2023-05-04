@@ -18,7 +18,7 @@ Ti consigliamo di anche dare un'occhiata anche a un paio di mete nell'[Alta Fran
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni e itinerario ideale](#Considerazioni)
+> - [Considerazioni e tappe imperdibili](#Considerazioni)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
@@ -116,7 +116,7 @@ Di seguito un'idea di quanto abbiamo speso nei 10 giorni in Normandia, tenendo p
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni e itinerario ideale
+##### Considerazioni e tappe imperdibili
 A noi la Francia è rimasta nel cuore, due volte sue due. I paesini sono ordinati e puliti, con un'architettura armonica. Sovente l'odore di pane e burro ti inviterà a entrare in una boulangerie e difficilmente ne rimarrai deluso. 
 
 In camper o auto, mete imperdibili:
