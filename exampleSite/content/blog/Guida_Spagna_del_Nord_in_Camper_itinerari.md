@@ -1,11 +1,11 @@
 ---
-title: 'Nuova Aquitania in camper con cane e gatto: itinerario, consigli e informazioni utili'
-description: "Alla scoperta della Nuova Aquitania in camper, lungo tutta la nosta atlantica del sud della Francia!"
+title: 'Spagna del Nord in camper con cane e gatto: itinerario, consigli e informazioni utili'
+description: "Alla scoperta della Spagna del Nord in camper attraverso Paesi Baschi, Cantabria, Asturie e Galizia"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Viaggio", "Guide", "Francia", "Camper"]
+categories: ["Europa", "Guida", "Itinerario"]
 type: featured
-draft: false
+draft: true
 ---
 
 Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati sulla costa atlantica del sud della Francia. Siamo arrivati in questa regione dopo aver visitato la [Normandia](/blog/guida_normandia_in_camper_itinerari/) e la [Bretagna](/blog/guida_bretagna_in_camper_itinerari/) e siamo stati felicissimi di scoprire queste zone fino a raggiungere il capoluogo Bordeaux per poi dirigerci a Bayonne e Biarritz. 
@@ -26,7 +26,31 @@ Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati s
 Vuoi visitare questa regione giorno dopo giorno insieme a noi? Abbiamo ricreato un piccolo diario giornaliero. 
 Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#Considerazioni).
 
-**{{< underline "Giorno 1-2" >}}**: siamo arrivati a La Rochelle sotto al diluvio, motivo per cui abbiamo deciso di sostare nei pressi dell'aeroporto e fare giusto due passi sulla scogliera. L'indomani abbiamo visitato il centro città sempre sotto al diluvio, spostandoci nel parcheggio vicino al piccolo porticciolo e scoprendo il mercato coperto. Nel pomeriggio ci siamo spostati lungo le sponde di un fiume per sgranchire le gambe passeggiando seguendo la riva e poi a Saint-Thomas-de-Conac, un piccolo paesino di campagna, per la notte. Sosta in libera.
+**{{< underline "Giorno 1" >}}**: La nostra prima meta spagnola dopo aver lasciato la Francia e aver fatto spesa al Mercadona è stata Pasaia. Qui abbiamo passeggiato per le vie del borgo, in un'atmosfera un po' più cupa rispetto ai paesini francesi, raggiungendo la casa di Victor Hugo, il piccolo porto, e un promontorio dal quale si può ammirare la costa. Tornando al van non abbiamo resistito a una fetta di tipica torta al formaggio e, soddisfatta anche la voglia di dolce, dopo pranzo ci siamo spostati a San Sebastian. Passeggiando lungo la costa siamo arrivati al Mirador, palazzo imperiale con splendida vista sulla baia, e poi nelle vie del centro, per ammirare la parte veja, piazza della Constitution e assaggiare le prime tapas al bar sport. Abbiamo scoperto una città davvero viva, animata da numerosi artisti di strada. Per la notte ci siamo spostati nella vicina Orio. 
+
+**{{< underline "Giorno 2" >}}**: ci siamo svegliati di prima mattina per fare una bella camminata sul promontorio, mentre i primi surfisti andavano a caccia di onde buone. Poi, complice la pioggia, ci siamo spostati a Zarautz, famosa per la sua spiaggia incastonata fra i promontori, e a Getaria: anche qui abbiamo passeggiato sul promontorio affacciato da un lato sulla cittadina e dall'altro sulla baia, trovando sulla strada un vecchio bunker e un faro abbandonato. Ultima tappa della giornata Zumaia con le sue famose rocce rosa, dalla forma stranissima e il terreno argilloso, rimaneggiati dal clima e dal tempo. Sosta per la notte su strada vista mare. 
+
+**{{< underline "Giorno 3" >}}**: il maltempo non ci dava tregua ma abbiamo comunque fatto due passi nel piccolo villaggio di Deba
+
+**{{< underline "Giorno 4" >}}**: il 1 novembre si celebra un festival nella città di Gernika, con una serie di bancarelle per tutte le vie. Siamo arrivati volutamente nel tardo pomeriggio, con un po' meno caos, per poter passeggiare insieme a Olimpia e Sakè e non senza assaggiare un Pastel Vasco, tipico dolce della zona ripieno di crema. Dopo aver camminato per la città abbiamo raggiunto da riserva di Urdaibai. 
+
+**{{< underline "Giorno 4" >}}**: abbiamo dedicato la mattinata a scoprire la natura attorno alla 
+2/11 riserva, poi San Juan nelle vicinanze, bimbi francesi e signori di Barcellona 
+3/11 San juan, signore di Barcellona, funghi, Jeje e marito 
+4/11 vicina di camper con cane Bilbao, centro Bilbao, signora x pastel Vasco pasticceria, museo ragazza che visita luci con noi, 
+5/11 Santander, playa, santillana do mar, persone in centro, mangiamo quesa da con latte fresco, 
+6/11 San vincente de la barquera, gente al porto, bufones de pria anziano che ci racconta maree, spettacolare!,, ci bagna l onda, andiamo a oviedo seguendo maratona, gjion
+7/11 signori lungo mare gjion,cudillero ragazza con gatto al porto, piccolo paese pescatori, playa de silenzio tramonto, 
+8/11 playa cathedral, carretto empanada, vicini di camper 
+9/11 pranzo la coruna pizza da Luca, ci racconta di aver coronato un sogno. Poi ci spostiamo sulla costa 
+10/11 fermi sulla riva, vicini di van giocano a scacchi, conosciamo marius e inga, ci scambiamo i contatti e andiamo a muxia, cambiando idea su Santiago 
+11/11 conosciamo un pellegrino tedesco di Stoccarda, ci raggiungono i nostri amici, tramonto bellissimo, giochiamo a carcassone 
+12/11 ciao amici noi andiamo a fare spesa per olimpia e per noi, empanada, arriviamo a combarro, ci aspettano inga e marius, puliamo il van, serata a carcassone
+13/11 visitiamo combarro paese di pescatori, diluvia, yoga con inga, passeggiata con sakè, cane arriva lui soffia, serata carcassone
+
+
+
+ siamo arrivati a La Rochelle sotto al diluvio, motivo per cui abbiamo deciso di sostare nei pressi dell'aeroporto e fare giusto due passi sulla scogliera. L'indomani abbiamo visitato il centro città sempre sotto al diluvio, spostandoci nel parcheggio vicino al piccolo porticciolo e scoprendo il mercato coperto. Nel pomeriggio ci siamo spostati lungo le sponde di un fiume per sgranchire le gambe passeggiando seguendo la riva e poi a Saint-Thomas-de-Conac, un piccolo paesino di campagna, per la notte. Sosta in libera.
 
 **{{< underline "Giorno 3-4" >}}**: abbiamo approfittato del sole per pulire tutto il van, immersi fra le colline del luogo, per poi dirigerci a Bordeaux, dove abbiamo sostato nei pressi di un lago fuori città. Ne abbiamo approfittato anche per cercare un'officina per fare cambio olio e filtro e sistemare alcuni problemi al van.  
 
@@ -94,7 +118,7 @@ Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio.
 ##### Quanto abbiamo speso
 Di seguito un'idea di quanto abbiamo speso nei 16 giorni in Nuova Aquitania, tenendo però conto che questo viaggio rientra in un percorso molto più ampio, che ci ha visti percorrere tutta la costa atlantica del paese da nord a sud. 
 
-{{< tripExpanses "Spese" "2022-10-14T00:00:00Z" "2022-10-28T00:00:00Z" >}}
+{{< tripExpanses "Spese" "2022-10-29T00:00:00Z" "2022-11-13T00:00:00Z" >}}
 
 {{< card >}}
 
