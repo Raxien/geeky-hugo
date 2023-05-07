@@ -122,12 +122,6 @@ In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata 
 Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
 Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 
 
-<div id="Link"></div>
-
-##### Link Utili 
-
-<div id="Vlog"></div>
-
 ##### Il nostro Vlog 
 
 Nel video qui sotto puoi sentire le nostre considerazioni su queste zone oppure trovi la serie completa sul paese {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.

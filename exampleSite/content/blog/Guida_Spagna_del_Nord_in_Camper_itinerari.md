@@ -20,7 +20,7 @@ Ti va di leggere cosa abbiamo da consigliare? Promettiamo mete meravigliose!
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni finali e itinerario ideale](#Cosiderazioni)
 > - [Viaggiare con il proprio animale](#Animali)
-> - [Il nostro vlog](#Vlog)
+> - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
 ##### Itinerario
@@ -138,12 +138,6 @@ Ti consigliamo di prestare sempre attenzione nei luoghi affollati perchè le per
 In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata di mano. 
 Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
 Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 
-
-<div id="Link"></div>
-
-##### Link Utili 
-
-<div id="Vlog"></div>
 
 ##### Il nostro Vlog 
 
