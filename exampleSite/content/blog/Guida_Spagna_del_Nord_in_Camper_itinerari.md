@@ -3,14 +3,14 @@ title: 'Spagna del Nord in camper con cane e gatto: itinerario, consigli e infor
 description: "Alla scoperta della Spagna del Nord on the road attraverso Paesi Baschi, Cantabria, Asturie e Galizia"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223914/IMG_9010_x6hrvl.jpg
 date: 2023-05-03T17:00:00.000
-categories: ["Europa", "Guida", "Itinerario", "Camper"]
+categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Spagna
 type: regular
 draft: false
 ---
 
-15 giorni affacciati sulla costa della Spagna del Nord? Tutto fattibile, attraversando 4 regioni (Paesi Baschi, Cantabria, Asturie e Galizia), panorami mozzafiato e alcune mete davvero imperdibili! Noi arrivavamo direttamente dalla [Francia](/blog/guida_nuova_aquitania_in_camper_itinerari/) e nonostante un primo impatto con le persone non troppo accoglienti come in altre zone spagnole, abbiamo trovato un clima abbastanza favorevole nonostante fosse novembre e luoghi che ci sono rimasti nel cuore. 
-Ti va di leggere cosa abbiamo da consigliare? Promettiamo mete davvero meravigliose! 
+Spagna del Nord in 15 giorni affacciati sulla costa? Per noi è stato un viaggio bellissimo, attraversando 4 regioni (Paesi Baschi, Cantabria, Asturie e Galizia), panorami mozzafiato e alcune mete davvero imperdibili! Arrivavamo direttamente dalla [Francia](/blog/guida_nuova_aquitania_in_camper_itinerari/) e nonostante un primo impatto con le persone non troppo accoglienti come in altre zone spagnole, abbiamo trovato un clima abbastanza favorevole nonostante fosse novembre e luoghi che ci sono rimasti nel cuore. 
+Ti va di leggere cosa abbiamo da consigliare? Promettiamo mete meravigliose! 
 
 
 > ##### Tabella dei contenuti
@@ -21,10 +21,10 @@ Ti va di leggere cosa abbiamo da consigliare? Promettiamo mete davvero meravigli
 > - [Considerazioni finali e itinerario ideale](#Cosiderazioni)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Il nostro vlog](#Vlog)
-     <!-- - [Le nostre mappe](#Mappe) -->
+> - [Le nostre mappe](#le-nostre-mappe) 
 
 ##### Itinerario
-Di seguito troverai il nostro diario giornaliero, ma se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#Considerazioni).
+Di seguito troverai il nostro diario giornaliero, ma se vuoi leggere l'itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#Considerazioni).
 
 **{{< underline "Giorno 1" >}}**: La nostra prima meta spagnola dopo aver lasciato la Francia e aver fatto spesa al Mercadona è stata Pasaia. Qui abbiamo passeggiato per le vie del borgo, in un'atmosfera un po' più cupa rispetto ai paesini francesi, raggiungendo la casa di Victor Hugo, il piccolo porto, e un promontorio dal quale si può ammirare la costa. Tornando al van non abbiamo resistito a una fetta di tipica torta al formaggio e, soddisfatta anche la voglia di dolce, dopo pranzo ci siamo spostati a San Sebastian. Passeggiando lungo la costa siamo arrivati al Mirador, palazzo imperiale con splendida vista sulla baia, e poi nelle vie del centro, per ammirare la parte veja, piazza della Constitution e assaggiare le prime tapas al bar sport. Abbiamo scoperto una città davvero viva, animata da numerosi artisti di strada. Per la notte ci siamo spostati nella vicina Orio. 
 
@@ -151,12 +151,7 @@ Nel video qui sotto puoi scoprire insieme a noi alcuni dei luoghi che ci sono ri
 
 {{< youtube CkCwT4rboXI>}} 
 
-
-<!-- <div id="Mappe"></div> -->
-
-<!-- ##### Le nostre mappe -->
-<!-- Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
-
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
+##### Le nostre mappe
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=11GfW4gwkFqTBJcnrv5FV-ak3qVS4jws&ehbc=2E312F" >}}
 
 {{< blogFooter "SP_n" "1" "0" >}}
