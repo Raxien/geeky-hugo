@@ -3,7 +3,7 @@ title: 'Normandia in camper con cane e gatto: itinerario, consigli e informazion
 description: "Alla scoperta della Normandia in camper, un faro dopo l'altro!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804742/Articoli/francia/IMG_4788_qzts1g.jpg
 date: 2023-03-07T17:00:00.000
-categories: ["Viaggio", "Guide", "Francia", "Camper"]
+categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Francia
 type: featured
 draft: false

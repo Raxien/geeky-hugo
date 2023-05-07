@@ -3,7 +3,7 @@ title: 'Alta Francia in camper con cane e gatto: itinerario, consigli e informaz
 description: "Alla scoperta della Francia del Nord in camper. Un viaggio on the road fantastico!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804019/Articoli/francia/IMG_2771_ldmfwi.jpg
 date: 2023-04-17T17:00:00.000
-categories: ["Europa", "Guida", "Itinerario", "Animali", "Camper"]
+categories: ["Europa", "Guida", "Itinerari", "Animali", "Camper"]
 country: Francia
 type: regular
 draft: false

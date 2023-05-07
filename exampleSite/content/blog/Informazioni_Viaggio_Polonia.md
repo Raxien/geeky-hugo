@@ -3,7 +3,7 @@ title: 'Viaggio in Polonia: tutto quello da sapere e itinerari'
 description: "Tutto quello che ti serve sapere per andare in Polonia"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682605728/Articoli/Polonia/cracovia_piazza_cizq4y.jpg
 date: 2022-07-26T17:00:00.000
-categories: ["Europa", "Guida", "Itinerario"]
+categories: ["Europa", "Guida", "Itinerari"]
 country: Polonia
 type: regular
 draft: false
@@ -40,7 +40,7 @@ La Polonia ha un clima temperato continentale, con inverni freddi e estati calde
 
 Se stai **cercando di evitare la folla** e goderti il clima fresco, la primavera e l'autunno sono buoni momenti per visitare la Polonia. 
 
-In inverno, la Polonia offre molti festival, mercatini di Natale e attività invernali come lo sci e lo snowboard. Tuttavia, il clima può essere rigido e freddo, quindi preparati a vestirti in modo adeguato.
+In inverno puoi visitare alcuni festival e i famosi mercatini di Natale, tuttavia il clima può essere rigido e freddo, quindi preparati a vestirti in modo adeguato.
 
 In generale, il periodo migliore per visitare la Polonia è durante l'estate, quando il clima è mite e ci sono molte attività e eventi culturali in corso. 
 
@@ -62,14 +62,14 @@ Ci sono diverse opzioni di offerte di internet mobile disponibili, a seconda del
 
 Le principali compagnie di telefonia mobile in Polonia sono Orange, T-Mobile, Plus, Play e Virgin Mobile, e offrono piani tariffari che includono diverse opzioni di pacchetti di dati.
 
-Essendo la Polonia parte dell'Unione Europea potete usare la vostra promozione Italiana su tutto il territorio senza costi aggiuntivi.
+Essendo la Polonia parte dell'Unione Europea puoi usare la tua promozione italiana su tutto il territorio senza costi aggiuntivi.
 
 ##### Vaccini e assicurazione sanitaria
 L'Italia ha un accordo bilaterale con la Polonia, che prevede che i cittadini italiani che visitano la Polonia abbiano diritto all'assistenza sanitaria pubblica gratuita in caso di emergenza o malattia improvvisa. E' necessario presentare la Tessera Sanitaria.
  
 {{< assicurazione >}}
 
-Per maggiori informazioni vi rimandiamo al sito di {{< extLink "viaggiare sicuri" "https://www.viaggiaresicuri.it/find-country/country/POL" "Stay safe!!" >}}.
+Per maggiori informazioni ti rimandiamo al sito di {{< extLink "viaggiare sicuri" "https://www.viaggiaresicuri.it/find-country/country/POL" "Stay safe!!" >}}.
 
 ##### Mezzi di trasporto pubblici 
 La Polonia ha una buona rete di trasporti pubblici, che include autobus, treni e tram.

@@ -3,7 +3,7 @@ title: 'Bretagna in camper con cane e gatto: itinerario, consigli e informazioni
 description: "Alla scoperta della Bretagna in camper, tra fari e paesi medievali!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806078/Articoli/francia/IMG_5394_qzokva.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Europa", "Guida", "Itinerario", "Camper"]
+categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Francia
 type: featured
 draft: false

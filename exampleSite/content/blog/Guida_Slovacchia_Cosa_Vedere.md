@@ -3,7 +3,7 @@ title: "Slovacchia in camper con cane e gatto"
 description: "Un paese di passaggio, un luogo in cui merita fermarsi."
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1680475409/Articoli/chickmani_slovacchia_paajn5.jpg"
 date: 2023-02-01T10:00:00Z
-categories: ["Europa", "Itinerario", "Animali", "Camper"]
+categories: ["Europa", "Itinerari", "Animali", "Camper"]
 country: Slovacchia
 type: regular
 draft: true

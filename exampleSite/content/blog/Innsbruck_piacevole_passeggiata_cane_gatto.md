@@ -3,7 +3,7 @@ title: 'Innsbruck: una piacevole passeggiata con cane e gatto '
 description: "Non avevamo aspettative sul capoluogo del Tirolo settentrionale, così ci siamo lasciati meravigliare viuzza dopo viuzza ed è stata una bellissima scoperta"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657706817/Articoli/Innsbruck_a_passeggio.jpg
 date: 2022-07-26T17:00:00.000
-categories: ["Europa", "Animali", "Itinerario"]
+categories: ["Europa", "Animali", "Itinerari"]
 country: Austria
 type: regular
 ---
