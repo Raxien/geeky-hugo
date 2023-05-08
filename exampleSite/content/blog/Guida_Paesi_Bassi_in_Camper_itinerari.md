@@ -144,7 +144,7 @@ La condizione delle strade nei Paesi Bassi è in ottimo stato. Le autostrade son
 
 ##### Servizi e soste
 In tutto il paese la sosta in libera non è contemplata. 
-Ci sono numerosi luogh in natura dove noi abbiamo dormito in sicurezza.
+Ci sono numerosi luoghi in natura dove noi abbiamo dormito in sicurezza.
 Si trovano numerosi campeggi, a prezzi non economici, che non sempre permettono il solo utilizzo dei servizi camper. Trovare tali servizi non è sempre facilissimo, si possono trovare a volte in aree cittadine adibite o in prossimità dei centri commerciali o stazioni di servizio.  
 In prossimità dell'isola di Texel non siamo riusciti a sostare in libera di notte e abbiamo preferito dormire in un campeggio meno costoso sulla terraferma, usufruendo del comodo traghetto. 
 
