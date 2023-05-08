@@ -7,39 +7,37 @@ categories: ["Curiosità"]
 type: regular
 ---
 
-Quando abbiamo deciso di lasciare casa e vivere sul nostro camper abbiamo dovuto pensare anche a come organizzare la valigia e soprattutto a quali vestiti scegliere di portare con noi. 
+Quando abbiamo deciso di lasciare casa e vivere sul nostro van abbiamo dovuto pensare anche a quali vestiti scegliere di portare con noi. 
 
 Carta e penna alla mano, abbiamo scritto una lista di indumenti essenziali per essere pronti a vivere in modo ben organizzato le quattro stagioni.
 Poi abbiamo aperto l'armadio e osservato tutti i nostri capi: che cosa doveva davvero viaggiare insieme a noi?
 
-Abiti comodi, pratici da lavare, nulla di troppo ingombrante, nulla di troppo prezioso. 
+Abiti comodi, pratici da lavare, nulla di troppo ingombrante, nulla di troppo delicato. 
 
-#### Quindi, per un mobile ridotto alle dimensioni di un grande cassetto, quali vestiti scegliere?
+#### quali vestiti scegliere per vivere in camper?
 
-Vi scrivo un elenco. Per essere pratica, veritiera e minimale come lo siamo stati davvero noi nella preparazione.
+Ti riportiamo qui il nostro elenco, per essere pratici e minimale come lo siamo stati davvero noi nella preparazione.
 
-* T-shirts: una decina a testa. Per averne di ricambio, sia se non riusciamo a lavarle in tempo, sia perchè Sakè con le sue unghiette me ne ha già bucate 3, che sono diventate quelle da usare solo sul camper. 
-Personalmente ho anche 4 canotte senza manica, di cui due si possono usare come canottiere quando farà più freddo.
-* Felpe/maglioni: Paolo ha optato per 4 felpe, io che sono freddolosa ne ho 3 più leggere e 3 più pesanti, più un maglione a collo alto per l'inverno.
+* T-shirts: una decina a testa. Per averne di ricambio, sia se non riusciamo a lavarle in tempo, sia perchè Sakè con le sue unghiette ce ne ha già bucate 3 (anche se con ago e filo le abbiamo prontamente ricucite!)
+* Felpe/maglioni: 3 felpe leggere e 2 più pesanti, più un maglione a collo alto per l'inverno.
 * Pantaloni corti: entrambi ne abbiamo 4 paia.
-* Abiti: ne ho portati 3, comodi e leggeri, da indossare soprattutto mentre viaggiamo per non avere lacci che infatidiscono.
-* Pantaloni lunghi: Paolo ha un jeans e 3 pantaloni della tuta, io due jeans, due pantaloni leggeri, un pantalone della tuta leggermente felpato e un paio di pantaloni tecnici spessi per l'inverno.
+* Abiti: ne ho portati 2, comodi e leggeri, da indossare soprattutto mentre viaggiamo per non avere lacci che infatidiscono.
+* Pantaloni lunghi: Paolo ha un jeans e 3 pantaloni della tuta, Sara due jeans, due pantaloni leggeri, un pantalone della tuta e un paio di pantaloni tecnici spessi per l'inverno.
 * Intimo: 10 mutande, 10 paia di calze miste estive ed invernali, 3 reggiseni, 2 canottiere. 
-* Pigiama: 1 estivo, 1 per la mezza stagione, 1 per l'inverno.
+* Pigiama: 1 estivo, 1 per l'inverno.
 * Cappelli: 1 estivo, 1 invernale
-* Sciarpe: 1 estiva e 1 invernale per me, 1 paracollo in pile per Paolo.
+* Sciarpe: 1 estiva e 1 invernale per Sara, 1 paracollo in pile per Paolo.
 * Guanti: 1 paio a testa.
 * Giubbotti: 1 estivo, 1 invernale per entrambi.
-* Costumi: 1 per Paolo, 2 per me.
+* Costumi: 1 per Paolo, 2 per Sara.
 
 E per le borse? Uno zaino a testa.
-E per le scarpe? Il beauty? 
-Per non annoiarvi vi scriverò un altro articolo.
+E per le scarpe? Trovi tutto [qui](/blog/Camper_un_anno_quali_scarpe_portare).
 
-Abbiamo portato troppo? Troppo poco? Forse sì, forse no. Ma siamo in viaggio da meno di due mesi e non possiamo prevedere il meteo che incontreremo. Se dovessimo avere dei capi che si rivelano davvero inutilizzati li regaleremo così come abbiamo fatto con molti di quelli che avevamo a casa, quando abbiamo deciso di non possedere troppi oggetti materiali, scelta che si è rivelata davvero liberatoria.
+Abbiamo portato troppo? Troppo poco? Forse sì, forse no. Se dovessimo avere dei capi che si rivelano davvero inutilizzati li regaleremo così come abbiamo fatto con molti di quelli che avevamo a casa quando abbiamo deciso di non possedere troppi oggetti materiali, scelta che si è rivelata davvero liberatoria.
 
-Come organizzate le vostre valigie? Concordate con noi che alla fine si portano sempre troppi abiti? 
-Fatecelo sapere nei commenti. 
+E tu come organizzi le tue valigie? Concordi con noi che alla fine si portano sempre troppi abiti? 
+Ti aspettiamo nei commenti :)
 
 
 
