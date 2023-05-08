@@ -3,7 +3,7 @@ title: 'Paesi Bassi in camper con cane e gatto: itinerari, consigli e informazio
 description: "Alla scoperta dei Paesi Bassi on the road, verso mete turistiche e non "
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683208302/IMG_0407_xg5wru.jpg
 date: 2022-07-26T17:00:00.000
-categories: ["Europa", "Guida", "Itinerario"]
+categories: ["Europa", "Guida", "Itinerari"]
 country: Paesi Bassi
 type: featured
 draft: false
@@ -11,17 +11,17 @@ draft: false
 
 Abbiamo visitato e vissuto nei Paesi Bassi a bordo del nostro van, con cane e gatto come compagni di viaggio, nel mese di agosto 2022. Siamo rimasti affascinati dai paesaggi e dalla gentilezza delle persone, oltre che dalla bellezza di alcuni siti turistici e non. Sicuramente è un viaggio che consiglieremmo a chiunque, non solo a bordo di un van ma anche arrivando in aereo e sfruttando l'ottima rete di trasporti pubblici. 
 
-##### Tabella dei contenuti
+> #### Tabella dei contenuti
 > - [Itinerario](#itinerario)
 > - [Clima](#clima)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Mezzi di trasporto pubblici](#Mezzi)
-> - [Considerazioni e itinerario ideale](#Considerazioni)
+> - [Considerazioni e tappe imperdibili](#Considerazioni)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Il nostro vlog](#Vlog)
-     <!-- - [Le nostre mappe](#Mappe) -->
+> - [Le nostre mappe](#le-nostre-mappe) 
 
 <div id="Itinerario"></div>
 
@@ -144,7 +144,7 @@ La condizione delle strade nei Paesi Bassi è in ottimo stato. Le autostrade son
 
 ##### Servizi e soste
 In tutto il paese la sosta in libera non è contemplata. 
-Ci sono numerosi luogh in natura dove noi abbiamo dormito in sicurezza.
+Ci sono numerosi luoghi in natura dove noi abbiamo dormito in sicurezza.
 Si trovano numerosi campeggi, a prezzi non economici, che non sempre permettono il solo utilizzo dei servizi camper. Trovare tali servizi non è sempre facilissimo, si possono trovare a volte in aree cittadine adibite o in prossimità dei centri commerciali o stazioni di servizio.  
 In prossimità dell'isola di Texel non siamo riusciti a sostare in libera di notte e abbiamo preferito dormire in un campeggio meno costoso sulla terraferma, usufruendo del comodo traghetto. 
 
@@ -166,7 +166,7 @@ I mezzi di trasporto pubblici sono davvero efficienti in tutto il paese. Bus, tr
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni e itinerario ideale
+##### Considerazioni e tappe imperdibili
 Non conoscevamo la Nuova Aquitania e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
 
 In camper o auto, le mete imperdibili secondo noi sono :
@@ -195,13 +195,8 @@ Nel video qui sotto puoi fare un po' il turista insieme a noi oppure trovi la se
 
 {{< youtube GZQ6wqNHkYo>}}
 
-
-<!-- <div id="Mappe"></div> -->
-
-<!-- ##### Le nostre mappe -->
-<!-- Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
-
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
+##### Le nostre mappe
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=18RnPYKLcA6PMTXjiw1tkFTP3i2_ni1s&ehbc=2E312F" >}}
 
 {{< blogFooter "O" "1" "0" >}}
 

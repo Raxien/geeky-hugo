@@ -82,6 +82,24 @@
               <h3 id="travelingSumCost" class="mb-5 h5 "></h3>
             </div> -->
           </div>
+          <div class="row">
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">I° anno</h4>
+              <h3 id="annoUno" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">II° anno</h4>
+              <h3 id="annoDue" class="mb-5 h5 "></h3>
+            </div>
+            <!-- <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Con Assicurazione e Bollo</h4>
+              <h3 id="dailyVanCost" class="mb-5 h5 "></h3>
+            </div> -->
+            <!-- <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">Spesa</h4>
+              <h3 id="travelingSumCost" class="mb-5 h5 "></h3>
+            </div> -->
+          </div>
         </div>
       </div>
     </div>
@@ -154,11 +172,13 @@
 
 <!--=================== expanses script start ===================-->
 <script>
-
   // let rpcUrl = "http://localhost:3000";
-  let rpcUrl = "https://vandipety-api.herokuapp.com";
+  // let rpcUrl = "https://vandipety-api.herokuapp.com";
+  let rpcUrl = "https://vandipetyapi.onrender.com";
+  
   let tripData  = null;
   let costperDay = null;
+
   let getTripData = function () {
 
     console.log('getting data');
@@ -196,13 +216,35 @@
         console.log(data);
 
         let travelingSumCost = 0, i = 0;
+        let year = 2; //calculateyear(tripData.startingDate);
+        let annoUno = 0, annoDue = 0;
+        let dtUno =  moment(toDate(tripData.startingDate)), dtDue = toDate(tripData.startingDate);
+        dtDue = moment(dtDue).add(1, 'year');
+        // dtDue.setFullYear(dtDue.getFullYear() + 1);
+
+        console.log('welcome to favelas')
+        console.log(dtUno);
+        console.log(dtDue);
+
         while(i < data.res.length){
           // console.log(data.res[i])
-          if(data.res[i].deleted_by == null)
+          if(data.res[i].deleted_by == null) {
             travelingSumCost += parseFloat(data.res[i].cost);
+          
+            if(toDate(data.res[i].date) <= dtDue){
+                 annoUno += parseFloat(data.res[i].cost);     
+            }
+            else {
+              annoDue += parseFloat(data.res[i].cost);
+            }
+          }
+        
           i++;
         }
         
+        document.getElementById('annoUno').innerText = annoUno + ' €';
+        document.getElementById('annoDue').innerText = annoDue + ' €';
+
         travelingSumCost = Math.round((travelingSumCost + Number.EPSILON) * 100) / 100;
 
         document.getElementById('travelingSumCost').innerText = travelingSumCost + ' €';
@@ -523,6 +565,16 @@
                     // language : it_IT
                     }).render(document.getElementById("tblSpese"));
 
+  }
+
+  let calculateyear = function(startingDate) {
+    var a = moment([2007, 0, 29]);
+    var b = moment();
+    a.diff(b, 'year') // 1
+  }
+
+  let toDate = function(date){
+    return new Date(date);
   }
 
   $( document ).ready(function() {

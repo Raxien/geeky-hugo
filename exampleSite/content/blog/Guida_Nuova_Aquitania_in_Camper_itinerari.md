@@ -3,24 +3,23 @@ title: 'Nuova Aquitania in camper con cane e gatto: itinerario, consigli e infor
 description: "Alla scoperta della Nuova Aquitania in camper, lungo tutta la nosta atlantica del sud della Francia!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Europa", "Animali", "Itinerario", "Camper"]
+categories: ["Europa", "Animali", "Itinerari", "Camper"]
 country: Francia
-type: featured
+type: regular
 draft: false
 ---
 
 Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati sulla costa atlantica del sud della Francia. Siamo arrivati in questa regione dopo aver visitato la [Normandia](/blog/guida_normandia_in_camper_itinerari/) e la [Bretagna](/blog/guida_bretagna_in_camper_itinerari/) e siamo stati felicissimi di scoprire queste zone fino a raggiungere il capoluogo Bordeaux per poi dirigerci a Bayonne e Biarritz. 
-
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni finali e itinerario ideale](#Cosiderazioni)
+> - [Considerazioni e tappe imperdibili](#Considerazioni)
 > - [Viaggiare con il proprio animale](#Animali)
-> - [Il nostro vlog](#Vlog)
-     <!-- - [Le nostre mappe](#Mappe) -->
+> - [Il nostro vlog](#il-nostro-vlog)
+> - [Le nostre mappe](#le-nostre-mappe) 
 
 ##### Itinerario
 Vuoi visitare questa regione giorno dopo giorno insieme a noi? Abbiamo ricreato un piccolo diario giornaliero. 
@@ -102,7 +101,7 @@ Di seguito un'idea di quanto abbiamo speso nei 16 giorni in Nuova Aquitania, ten
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni finali e itinerario ideale
+##### Considerazioni e tappe imperdibili
 Non conoscevamo la Nuova Aquitania e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
 
 In camper o auto, le mete imperdibili secondo noi sono :
@@ -123,20 +122,13 @@ In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata 
 Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
 Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 
 
-<div id="Vlog"></div>
-
 ##### Il nostro Vlog 
 
 Nel video qui sotto puoi sentire le nostre considerazioni su queste zone oppure trovi la serie completa sul paese {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.
 
 {{< youtube 3BQKTpHqFP4>}}
 
-
-<!-- <div id="Mappe"></div> -->
-
-<!-- ##### Le nostre mappe -->
-<!-- Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
-
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
+##### Le nostre mappe
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1MHF6Cy2vwWikjALaqs5u8QAf2PibH1Y&ehbc=2E312F" "1">}}
 
 {{< blogFooter "FR_N" "1" "0" >}}

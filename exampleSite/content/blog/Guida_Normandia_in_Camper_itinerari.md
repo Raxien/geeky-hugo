@@ -3,7 +3,7 @@ title: 'Normandia in camper con cane e gatto: itinerario, consigli e informazion
 description: "Alla scoperta della Normandia in camper, un faro dopo l'altro!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804742/Articoli/francia/IMG_4788_qzts1g.jpg
 date: 2023-03-07T17:00:00.000
-categories: ["Viaggio", "Guide", "Francia", "Camper"]
+categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Francia
 type: featured
 draft: false
@@ -18,7 +18,7 @@ Ti consigliamo di anche dare un'occhiata anche a un paio di mete nell'[Alta Fran
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni finali e itinerario ideale](#Cosiderazioni)
+> - [Considerazioni e tappe imperdibili](#Considerazioni)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
@@ -116,7 +116,7 @@ Di seguito un'idea di quanto abbiamo speso nei 10 giorni in Normandia, tenendo p
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni finali e itinerario ideale
+##### Considerazioni e tappe imperdibili
 A noi la Francia è rimasta nel cuore, due volte sue due. I paesini sono ordinati e puliti, con un'architettura armonica. Sovente l'odore di pane e burro ti inviterà a entrare in una boulangerie e difficilmente ne rimarrai deluso. 
 
 In camper o auto, mete imperdibili:
@@ -130,7 +130,7 @@ In camper o auto, mete imperdibili:
 <div id="Animali"></div>
 
 ##### Viaggiare con il proprio animale
-{{< animali >}}
+{{< animali "EU">}}
 
 <div id="Vlog"></div>
 

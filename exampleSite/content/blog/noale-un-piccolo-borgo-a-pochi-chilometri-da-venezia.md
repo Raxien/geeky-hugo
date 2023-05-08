@@ -3,7 +3,7 @@ title: 'Noale: un piccolo borgo a pochi chilometri da Venezia'
 description: Uno di quei paesi in cui ti viene voglia di fermarti, di fare due parole con la gente del posto, di saperne un po' di più.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657705481/Articoli/Noale_.jpg
 date: 2022-07-13T10:00:00Z
-categories: ["Italia", "Itinerario"]
+categories: ["Italia", "Itinerari"]
 country: Italia
 type: regular
 ---

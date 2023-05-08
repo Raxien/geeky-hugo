@@ -2,29 +2,30 @@
 title: 'Spagna del Nord in camper con cane e gatto: itinerario, consigli e informazioni utili'
 description: "Alla scoperta della Spagna del Nord on the road attraverso Paesi Baschi, Cantabria, Asturie e Galizia"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223914/IMG_9010_x6hrvl.jpg
-date: 2023-05-02T17:00:00.000
-categories: ["Europa", "Guida", "Itinerario", "Camper"]
+date: 2023-05-03T17:00:00.000
+categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Spagna
 type: regular
 draft: false
 ---
 
-15 giorni affacciati sulla costa della Spagna del Nord? Tutto fattibile, attraversando 4 regioni (Paesi Baschi, Cantabria, Asturie e Galizia), panorami mozzafiato e alcune mete davvero imperdibili! Noi arrivavamo direttamente dalla [Francia](/blog/guida_nuova_aquitania_in_camper_itinerari/) e nonostante un primo impatto con le persone non troppo accoglienti come in altre zone spagnole, abbiamo trovato un clima abbastanza favorevole nonostante fosse novembre e luoghi che ci sono rimasti nel cuore. 
-Ti va di leggere cosa abbiamo da consigliare? Promettiamo mete davvero meravigliose! 
+Spagna del Nord in 15 giorni affacciati sulla costa? Per noi è stato un viaggio bellissimo, attraversando 4 regioni (Paesi Baschi, Cantabria, Asturie e Galizia), panorami mozzafiato e alcune mete davvero imperdibili! Arrivavamo direttamente dalla [Francia](/blog/guida_nuova_aquitania_in_camper_itinerari/) e nonostante un primo impatto con le persone non troppo accoglienti come in altre zone spagnole, abbiamo trovato un clima abbastanza favorevole nonostante fosse novembre e luoghi che ci sono rimasti nel cuore. 
+Ti va di leggere cosa abbiamo da consigliare? Promettiamo mete meravigliose! 
 
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)
+> - [In breve](#in-breve)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni e mete imperdibili](#Cosiderazioni)
+> - [Considerazioni e tappe imperdibili](#Cosiderazioni)
 > - [Viaggiare con il proprio animale](#Animali)
-> - [Il nostro vlog](#Vlog)
-     <!-- - [Le nostre mappe](#Mappe) -->
+> - [Il nostro vlog](#il-nostro-vlog)
+> - [Le nostre mappe](#le-nostre-mappe) 
 
 ##### Itinerario
-Di seguito troverai il nostro diario giornaliero, ma se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#Considerazioni).
+Di seguito troverai il nostro diario giornaliero, ma se vuoi leggere l'itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#Considerazioni).
 
 **{{< underline "Giorno 1" >}}**: La nostra prima meta spagnola dopo aver lasciato la Francia e aver fatto spesa al Mercadona è stata Pasaia. Qui abbiamo passeggiato per le vie del borgo, in un'atmosfera un po' più cupa rispetto ai paesini francesi, raggiungendo la casa di Victor Hugo, il piccolo porto, e un promontorio dal quale si può ammirare la costa. Tornando al van non abbiamo resistito a una fetta di tipica torta al formaggio e, soddisfatta anche la voglia di dolce, dopo pranzo ci siamo spostati a San Sebastian. Passeggiando lungo la costa siamo arrivati al Mirador, palazzo imperiale con splendida vista sulla baia, e poi nelle vie del centro, per ammirare la parte veja, piazza della Constitution e assaggiare le prime tapas al bar sport. Abbiamo scoperto una città davvero viva, animata da numerosi artisti di strada. Per la notte ci siamo spostati nella vicina Orio. 
 
@@ -60,7 +61,6 @@ Vuoi vedere le nostre avventure fino a qui? Trovi tutto in questo video!
 **{{< underline "Giorno 14" >}}**: lasciata Muxia, ci siamo diretti verso Combarro, approfittando di un paesino lungo la strada per fare spesa, carico e scarico e pranzare con un'empanada al tonno. Il paesino è un tipico villaggio galiziano di pescatori, costellato di horreos, gli antichi granai. Sosta libera per camper 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223845/IMG_0183_gwedzw.jpg" >}}
-
 
 ##### In Breve
 Di seguito le sole tappe della nostra avventura. Abbiamo sempre dormito in libera o in aree sosta gratuite. 
@@ -116,8 +116,8 @@ Di seguito un'idea di quanto abbiamo speso nei 15 giorni in Spagna del Nord, ten
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni e mete imperdibili
-La Spagna del Nord era un luogo a noi del tutto sconosciuto. La natura ha fatto da padrona regalandoci scorci veramente spettacolari. Ci hanno un po' delusi i borghi affacciati sulla costa, con palazzi un po' fatiscenti e non troppo in armonia con il contesto.
+##### Considerazioni e tappe imperdibili
+Non conoscevamo la Nuova Aquitania e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
 
 In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "San Sebastian" >}}**: la cittadina è forse la più bella di tutta la zona. Molto elegante, offre anche un panorama di divertimento per i più giovani. 
@@ -125,7 +125,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "Bilbao " >}}**: la città non è rinomata per la sicurezza, anche se noi ci siamo sempre sentiti al sicuro. Imperdibile la visita al Museo Guggenheim se sei un'amante dell'arte moderna.
 -   **{{< bold "Bufones de Pria" >}}**: qui la natura è veramente spettacolare, sembrerà di essere in Islanda! Un luogo inaspettato!
 -   **{{< bold "Oviedo" >}}**: famosa per il passaggio del Cammino di Santiago, la città è comunque deliziosa.
--   **{{< bold "Playa de las Catedrales" >}}**: sarà solo una spiaggia per molti, ma affacciarsi e fare due passi fra le rocce qui ha un suo perchè!
+-   **{{< bold "Playa de las Catedrales" >}}**: sarà solo una spiaggia per molti, ma affacciarsi e fare due passi fra le rocce qui ha un suo perché!
 -   **{{< bold "Muxia" >}}**: luogo magico soprattutto per i pellegrini, merita una sosta al tramonto! 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223926/IMG_9550_uxwttl.jpg" >}}
@@ -133,10 +133,11 @@ In camper o auto, le mete imperdibili secondo noi sono :
 <div id="Animali"></div>
 
 ##### Viaggiare con il proprio animale
-{{< animali >}}
-
-
-<div id="Vlog"></div>
+Per viaggiare in Europa con il proprio animale occorre avere il passaporto, il microchip e la vaccinazione antirabbica in corso di validità.
+Ti consigliamo di prestare sempre attenzione nei luoghi affollati perchè le persone potrebbero avere timore, motivo per cui noi giriamo sempre con i nostri animali al guinzaglio. 
+In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata di mano. 
+Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
+Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 
 
 ##### Il nostro Vlog 
 
@@ -144,12 +145,7 @@ Nel video qui sotto puoi scoprire insieme a noi alcuni dei luoghi che ci sono ri
 
 {{< youtube CkCwT4rboXI>}} 
 
-
-<!-- <div id="Mappe"></div> -->
-
-<!-- ##### Le nostre mappe -->
-<!-- Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
-
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
+##### Le nostre mappe
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=11GfW4gwkFqTBJcnrv5FV-ak3qVS4jws&ehbc=2E312F" >}}
 
 {{< blogFooter "SP_n" "1" "0" >}}

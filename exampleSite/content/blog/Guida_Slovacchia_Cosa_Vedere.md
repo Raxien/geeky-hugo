@@ -3,7 +3,7 @@ title: "Slovacchia in camper con cane e gatto"
 description: "Un paese di passaggio, un luogo in cui merita fermarsi."
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1680475409/Articoli/chickmani_slovacchia_paajn5.jpg"
 date: 2023-02-01T10:00:00Z
-categories: ["Europa", "Itinerario", "Animali", "Camper"]
+categories: ["Europa", "Itinerari", "Animali", "Camper"]
 country: Slovacchia
 type: regular
 draft: true
@@ -12,7 +12,7 @@ draft: true
 La nostra visita della Slovacchia a bordo del van è durata purtroppo pochissimi giorni, un po' perchè avevamo un appuntamento in Polonia un po' perchè non ci aspettavamo di trovare una temperatura di 40 gradi a inizio luglio. 
 Vi lasciamo comunque il racconto delle nostre tappe e un paio di spunti per alcune mete che purtroppo in questo giro non siamo riusciti a raggiungere.
 
-##### Tabella dei contenuti
+> ##### Tabella dei contenuti
 > - [Il Paese](#Paese)
 > - [Itinerario](#Itinerario)
 > - [Consigli Utili](#Consigli)
@@ -30,7 +30,7 @@ Vi lasciamo comunque il racconto delle nostre tappe e un paio di spunti per alcu
 > - [Dove dormire](#Dormire)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Quanto abbiamo speso](#Spesa)
-> - [Considerazioni finali e itinerari in breve](#Cosiderazioni)
+> - [Considerazioni e itinerari in breve](#Considerazioni)
 > - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#Mappe)
 
@@ -189,14 +189,7 @@ Consigliamo di prenotare in anticipo durante i periodi di alta stagione per gara
 <div id="Animali"></div>
 
 ##### Viaggiare con il proprio animale
-
-In generale, la Polonia è un paese accogliente per gli animali domestici, ma ci possono essere alcune restrizioni in alcune aree pubbliche, come parchi e ristoranti. Si consiglia di contattare in anticipo gli alloggi, i ristoranti e le attrazioni per verificare le loro politiche sull'ammissione degli animali domestici.
-
-L'animale domestico deve essere identificato con un microchip e avere un passaporto per animali domestici dell'UE, che contiene informazioni sulle vaccinazioni e altri trattamenti veterinari.
-
-Inoltre, deve essere vaccinato contro la rabbia e avere un certificato valido di vaccinazione antirabbica. 
-
-Per rispetto delle persone del luogo e del loro possibile timore, consigliamo di tenere il proprio animale domestico al guinzaglio. 
+{{< animali "EU">}}
 
 <div id="Speso"></div>
 
@@ -217,7 +210,7 @@ Passavant: 250 euro -->
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni finali 
+##### Considerazioni 
 se stai pensando di visitare la Slovacchia in camper/van sappi che non è possibile utilizzare i campeggi solo per camper service: ci hanno richiesto 25 euro per scaricare e sostare in un parcheggio. 
 Si fatica moltissimo anche a trovare il carico dell’acqua. 
 

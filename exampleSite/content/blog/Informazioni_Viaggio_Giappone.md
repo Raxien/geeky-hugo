@@ -3,9 +3,9 @@ title: 'Viaggio in Giappone: tutto quello da sapere e itinerari'
 description: ""
 image: 
 date: 2022-07-26T17:00:00.000
-categories: ["Asia", "Guida", "Itinerario"]
+categories: ["Asia", "Guida", "Itinerari"]
 country: Giappone
-type: featured
+type: regular
 draft: true
 ---
 

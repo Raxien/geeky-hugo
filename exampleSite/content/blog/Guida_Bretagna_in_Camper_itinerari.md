@@ -3,7 +3,7 @@ title: 'Bretagna in camper con cane e gatto: itinerario, consigli e informazioni
 description: "Alla scoperta della Bretagna in camper, tra fari e paesi medievali!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806078/Articoli/francia/IMG_5394_qzokva.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Europa", "Guida", "Itinerario", "Camper"]
+categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Francia
 type: featured
 draft: false
@@ -17,7 +17,7 @@ Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tapp
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni finali e itinerario ideale](#Cosiderazioni)
+> - [Considerazioni e tappe imperdibili](#Considerazioni)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
@@ -113,7 +113,7 @@ Di seguito un'idea di quanto abbiamo speso nei 10 giorni in Bretagna, tenendo pe
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni finali e itinerario ideale
+##### Considerazioni e tappe imperdibili
 Questa è stata la nostra prima esperienza in Bretagna e abbiamo davvero amato questa regione. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera magica e di altri tempi. 
 
 In camper o auto, le mete imperdibili secondo noi sono :
@@ -129,11 +129,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 <div id="Animali"></div>
 
 ##### Viaggiare con il proprio animale
-Per viaggiare in Europa con il proprio animale occorre avere il passaporto, il microchip e la vaccinazione antirabbica in corso di validità.
-Ti consigliamo di prestare sempre attenzione nei luoghi affollati perchè le persone potrebbero avere timore, motivo per cui noi giriamo sempre con i nostri animali al guinzaglio. 
-In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata di mano. 
-Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
-Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 
+{{< animali "EU">}}
 
 <div id="Vlog"></div>
 

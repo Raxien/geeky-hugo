@@ -21,7 +21,7 @@ logo_height = "150px"
 mainSections = ["blog"]
 mobile = ""
 navbar_fixed = false
-recent_post_title = "Post recenti"
+recent_post_title = "Ultimi Post"
 search = true
 [advertisement]
 image = ""
@@ -48,7 +48,7 @@ enable = false
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [widgets]
-sidebar = ["newsletter", "tappe", "categories", "recent-post"]
+sidebar = ["newsletter", "tappe", "categories"]
 [[social]]
 icon = "fab fa-youtube"
 link = "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw"
@@ -65,7 +65,7 @@ title = "instagram"
 icon = "fab fa-facebook"
 link = "https://www.facebook.com/ilgattodicitturin"
 title = "facebook"
-#[[social]]
-# icon = "fas fa-store"
-# link = "https://www.almonature.com"
-# title = "Negozio"
+[[social]]
+icon = "fas fa-store"
+link = "https://www.amazon.it/shop/vandipety"
+title = "Negozio"

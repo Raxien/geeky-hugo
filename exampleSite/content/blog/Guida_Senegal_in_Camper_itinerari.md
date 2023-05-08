@@ -3,7 +3,7 @@ title: 'Senegal in camper: itinerario, consigli e informazioni utili'
 description: ""
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681839060/Articoli/Copertine/Senegal_in_Van_nbfqyv.jpg
 date: 2023-03-26T17:00:00.000
-categories: ["Africa", "Dogana", "Itinerario", "Camper"]
+categories: ["Africa", "Dogana", "Itinerari", "Camper"]
 country: Senegal
 type: featured
 draft: false
@@ -11,7 +11,7 @@ victor: true
 ---
 
 Andare in Senegal in camper non era previsto nei nostri piani ma, spinti dai racconti di altri camperisti (che puoi 
-{{< extLink "ascoltare qui" "https://youtu.be/bEgypQBv2wI" "Ascolta il podcast dei Giramondo ma non troppo - un anno e mezzo in Marocco e non solo">}}) e dopo essere arrivati nel Sahara Occidentale ci siamo ritrovati ad attraversare la Mauritania, stato che divide il mondo arabo dall'Africa Nera.
+{{< extLink "ascoltare qui" "https://youtu.be/bEgypQBv2wI" "Ascolta il podcast dei Giramondo ma non troppo - un anno e mezzo in Marocco e non solo">}}) e dopo essere arrivati nel Sahara Occidentale ci siamo ritrovati ad attraversare la Mauritania, stato che divide il mondo arabo dall'Africa nera.
 
 Dopo quasi 30 giorni trascorsi in Senegal, qualche disavventura in dogana e non solo, numerose conoscenze con i locali, parole imparate in dialetto, soluzioni pratiche trovate qua e là e informazioni utili a camperisti e non, ci è balzata in mente l'idea di scrivere un articolo sulla nostra avventura, sperando che possa essere utile a chi sta pensando di cimentarsi in un viaggio simile. 
 
@@ -22,7 +22,7 @@ Dopo quasi 30 giorni trascorsi in Senegal, qualche disavventura in dogana e non 
 > - [Dogane](#Dogane)
 > - [Strade](#Strade)
 > - [Quanto abbiamo speso](#Spesa)
-> - [Considerazioni finali e itinerario ideale](#Considerazioni)
+> - [Considerazioni e tappe imperdibili](#Considerazioni)
 > - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#Mappe)
 
@@ -279,7 +279,7 @@ Le nostre spese ammontano a:
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni finali
+##### Considerazioni
 Il nostro approccio iniziale al Senegal non è stato dei migliori: i problemi avuti in dogana, la troppa pattumiera ovunque, i problemi di corruzione e gestione della povertà nel paese ci hanno decisamente scossi.
 E' stato solo pensando a se e quando saremmo tornati in queste zone in van che abbiamo deciso di provare a raggiungere il sud, la Casamance, zona che ha decisamente risollevato il nostro morale, sia per i luoghi visitati sia per l'accoglienza da parte delle persone. 
 Tutta la magia che ci hanno regalato i 7 giorni vissuti in questa zona del Senegal non è stata intaccata neppure dai fatti sgradevoli accaduti nell'uscita dal paese. 
