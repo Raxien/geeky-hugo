@@ -34,6 +34,11 @@ $(document).ready(function () {
       $searchBar = $(targetId);
       $searchBar.toggleClass('open');
     }
+
+    setTimeout(() => {
+      document.getElementById("search-query").focus();
+    }, "100")
+
   });
 
   // tab
