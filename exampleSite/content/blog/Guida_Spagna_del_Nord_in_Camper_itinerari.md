@@ -15,10 +15,11 @@ Ti va di leggere cosa abbiamo da consigliare? Promettiamo mete meravigliose!
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)
+> - [In breve](#in-breve)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni finali e itinerario ideale](#Cosiderazioni)
+> - [Considerazioni e tappe imperdibili](#Cosiderazioni)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
@@ -60,7 +61,6 @@ Vuoi vedere le nostre avventure fino a qui? Trovi tutto in questo video!
 **{{< underline "Giorno 14" >}}**: lasciata Muxia, ci siamo diretti verso Combarro, approfittando di un paesino lungo la strada per fare spesa, carico e scarico e pranzare con un'empanada al tonno. Il paesino è un tipico villaggio galiziano di pescatori, costellato di horreos, gli antichi granai. Sosta libera per camper 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223845/IMG_0183_gwedzw.jpg" >}}
-
 
 ##### In Breve
 Di seguito le sole tappe della nostra avventura. Abbiamo sempre dormito in libera o in aree sosta gratuite. 
@@ -116,7 +116,7 @@ Di seguito un'idea di quanto abbiamo speso nei 15 giorni in Spagna del Nord, ten
 
 <div id="Considerazioni"></div>
 
-##### Considerazioni finali e itinerario ideale
+##### Considerazioni e tappe imperdibili
 Non conoscevamo la Nuova Aquitania e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
 
 In camper o auto, le mete imperdibili secondo noi sono :
