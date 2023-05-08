@@ -7,11 +7,11 @@ title = "“Storie su strada” ep.1: Come abbiamo vissuto il cambiamento delle 
 type = "regular"
 +++
 
-Benvenuti a Storie su strada, il podcast che parla di cambiamento, di come viene vissuto, di tutte le forme che può assumere.
+_Storie su strada_ è il nostro **podcast** che parla di cambiamento, di come viene vissuto, di tutte le forme che può assumere.
 
 Nel primo episodio parliamo di noi, della nostra storia. Dovevamo crederci per primi, metterci in discussione. E se non l’avessimo fatto forse questo podcast non avrebbe mai avuto un inizio.
 
-Siamo Sara e Paolo e il 18 maggio 2022 abbiamo cambiato la nostra vita per vivere a bordo del nostro van in giro per l’Europa, insieme a Olimpia, la nostra rottweiler di 9 anni che sta ringiovanendo giorno per giorno, e Sakè, il nostro gattino giramondo.
+Siamo Sara e Paolo e il 18 maggio 2022 abbiamo cambiato la nostra vita per vivere a bordo del nostro van in giro per l’Europa, insieme a Olimpia, la nostra rottweiler di 10 anni che sta ringiovanendo giorno per giorno, e Sakè, il nostro gattino giramondo.
 
 “La Sara di 15 anni fa pensava che sarebbe rimasta per sempre nel suo paese di origine, mentre oggi si sente a casa in ogni angolo del mondo. Alla domanda “cosa voglio fare da grande?” preferisce rispondere chi vuole essere: se stessa, una persona felice.
 
@@ -21,7 +21,7 @@ In questa prima puntata abbiamo cercato di raccontare come abbiamo affrontato il
 
 Per quanto riguarda il cambiamento lavorativo, a entrambi piaceva il proprio lavoro, ma sentivamo dei limiti di ritorno a noi stessi.
 
-Ci mancava il poter fare un lavoro creato da noi, costruito sulle persone che siamo oggi. Sentivamo entrambi la necessità di imparare altro e di metterci in giorno per non arenarci.
+Ci mancava il poter fare un lavoro creato da noi, costruito sulle persone che siamo oggi. Sentivamo entrambi la necessità di imparare altro e di metterci in gioco per non arenarci.
 
 Per quanto riguarda il cambiamento relativo agli affetti, stiamo imparando ogni giorno che non è la distanza fisica ad essere importante, quanto quella mentale. E se si è vicini con mente e cuore con familiari e amici, si è al loro fianco giorno per giorno, molto più che vivere sullo stesso pianerottolo e sperare di non incontrarsi per le scale!
 

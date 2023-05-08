@@ -3,7 +3,7 @@ title: 'Alta Francia in camper con cane e gatto: itinerario, consigli e informaz
 description: "Alla scoperta della Francia del Nord in camper. Un viaggio on the road fantastico!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804019/Articoli/francia/IMG_2771_ldmfwi.jpg
 date: 2023-04-17T17:00:00.000
-categories: ["Europa", "Guida", "Itinerari", "Animali", "Camper"]
+categories: ["Europa", "Guida", "Itinerario", "Camper"]
 country: Francia
 type: regular
 draft: false
@@ -15,7 +15,7 @@ In questo articolo ti porteremo con noi alla scoperta della Francia del Nord. Ab
 > - [Itinerario](#itinerario)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
-> - [Considerazioni e tappe imperdibili](#Considerazioni)
+> - [Considerazioni e itinerario ideale](#considerazioni-e-itinerario-ideale)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
@@ -66,9 +66,7 @@ In Alta Francia la situazione relativa alle strade è perfetta.
 Non abbiamo avuto alcun problema a trovare i servizi di carico e scarico per il van. 
 Abbiamo potuto dormire sempre in libera, nonostante parecchie limitazioni a mezzi superiori ai 2 metri di altezza (a volte anche 1.90), soprattutto nelle vicinanze delle spiagge. 
 
-<div id="Considerazioni"></div>
-
-##### Considerazioni e tappe imperdibili
+##### Considerazioni e itinerario ideale
 Negli anni abbiamo imparato ad apprezzare molti lati della Francia, ecco perchè anche in questa zona, nonostante il maltempo, abbiamo trovato luoghi che ci sono rimasti nel cuore.  
 
 In camper, auto o moto le mete secondo noi imperdibili di questa regione sono:
@@ -82,7 +80,7 @@ In camper, auto o moto le mete secondo noi imperdibili di questa regione sono:
 <div id="Animali"></div>
 
 ##### Viaggiare con il proprio animale
-{{< animali "EU">}}
+{{< animali >}}
 
 <div id="Vlog"></div>
 
