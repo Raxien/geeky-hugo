@@ -21,7 +21,7 @@ Abbiamo visitato e vissuto nei Paesi Bassi a bordo del nostro van, con cane e ga
 > - [Considerazioni e tappe imperdibili](#Considerazioni)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Il nostro vlog](#Vlog)
-     <!-- - [Le nostre mappe](#Mappe) -->
+> - [Le nostre mappe](#le-nostre-mappe) 
 
 <div id="Itinerario"></div>
 
@@ -195,13 +195,8 @@ Nel video qui sotto puoi fare un po' il turista insieme a noi oppure trovi la se
 
 {{< youtube GZQ6wqNHkYo>}}
 
-
-<!-- <div id="Mappe"></div> -->
-
-<!-- ##### Le nostre mappe -->
-<!-- Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
-
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
+##### Le nostre mappe
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=18RnPYKLcA6PMTXjiw1tkFTP3i2_ni1s&ehbc=2E312F" >}}
 
 {{< blogFooter "O" "1" "0" >}}
 
