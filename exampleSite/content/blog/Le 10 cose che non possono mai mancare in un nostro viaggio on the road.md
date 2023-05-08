@@ -32,7 +32,7 @@ Ecco cosa usiamo qui:
 
 * **{{< underline "Libri" >}}**: che siano cartacei o sul kindle, le storie altrui viaggiano con noi da sempre
 
-* **{{< underline "Scorta di cibo" >}}**: ebbene sì,non riusciamo a fare a meno di colazione, pranzo, merenda e cena. Se non mangiamo ci innervosiamo, soprattutto Sara, che in alternativa ha delle vere crisi di risate.
+* **{{< underline "Scorta di cibo" >}}**: ebbene sì,non riusciamo a fare a meno di colazione, pranzo, merenda e cena. Se non mangiamo ci innervosiamo, soprattutto Sara, che in alternativa ha delle vere crisi di risate. A tal proposito, una valida alleata per cucinare più in fretta e consumare meno gas è la nostra pentola a pressione
 
 
 Hai qualche consiglio da darci?   
