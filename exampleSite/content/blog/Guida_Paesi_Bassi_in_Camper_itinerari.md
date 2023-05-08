@@ -11,7 +11,7 @@ draft: false
 
 Abbiamo visitato e vissuto nei Paesi Bassi a bordo del nostro van, con cane e gatto come compagni di viaggio, nel mese di agosto 2022. Siamo rimasti affascinati dai paesaggi e dalla gentilezza delle persone, oltre che dalla bellezza di alcuni siti turistici e non. Sicuramente è un viaggio che consiglieremmo a chiunque, non solo a bordo di un van ma anche arrivando in aereo e sfruttando l'ottima rete di trasporti pubblici. 
 
-##### Tabella dei contenuti
+> #### Tabella dei contenuti
 > - [Itinerario](#itinerario)
 > - [Clima](#clima)
 > - [Strade](#strade)

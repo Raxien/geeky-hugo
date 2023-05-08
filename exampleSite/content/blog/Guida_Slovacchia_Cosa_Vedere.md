@@ -12,7 +12,7 @@ draft: true
 La nostra visita della Slovacchia a bordo del van è durata purtroppo pochissimi giorni, un po' perchè avevamo un appuntamento in Polonia un po' perchè non ci aspettavamo di trovare una temperatura di 40 gradi a inizio luglio. 
 Vi lasciamo comunque il racconto delle nostre tappe e un paio di spunti per alcune mete che purtroppo in questo giro non siamo riusciti a raggiungere.
 
-##### Tabella dei contenuti
+> ##### Tabella dei contenuti
 > - [Il Paese](#Paese)
 > - [Itinerario](#Itinerario)
 > - [Consigli Utili](#Consigli)

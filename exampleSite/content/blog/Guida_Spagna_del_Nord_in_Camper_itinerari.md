@@ -125,7 +125,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "Bilbao " >}}**: la città non è rinomata per la sicurezza, anche se noi ci siamo sempre sentiti al sicuro. Imperdibile la visita al Museo Guggenheim se sei un'amante dell'arte moderna.
 -   **{{< bold "Bufones de Pria" >}}**: qui la natura è veramente spettacolare, sembrerà di essere in Islanda! Un luogo inaspettato!
 -   **{{< bold "Oviedo" >}}**: famosa per il passaggio del Cammino di Santiago, la città è comunque deliziosa.
--   **{{< bold "Playa de las Catedrales" >}}**: sarà solo una spiaggia per molti, ma affacciarsi e fare due passi fra le rocce qui ha un suo perchè!
+-   **{{< bold "Playa de las Catedrales" >}}**: sarà solo una spiaggia per molti, ma affacciarsi e fare due passi fra le rocce qui ha un suo perché!
 -   **{{< bold "Muxia" >}}**: luogo magico soprattutto per i pellegrini, merita una sosta al tramonto! 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223926/IMG_9550_uxwttl.jpg" >}}
