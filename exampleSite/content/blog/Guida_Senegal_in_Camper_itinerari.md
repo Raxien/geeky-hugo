@@ -11,7 +11,7 @@ victor: true
 ---
 
 Andare in Senegal in camper non era previsto nei nostri piani ma, spinti dai racconti di altri camperisti (che puoi 
-{{< extLink "ascoltare qui" "https://youtu.be/bEgypQBv2wI" "Ascolta il podcast dei Giramondo ma non troppo - un anno e mezzo in Marocco e non solo">}}) e dopo essere arrivati nel Sahara Occidentale ci siamo ritrovati ad attraversare la Mauritania, stato che divide il mondo arabo dall'Africa Nera.
+{{< extLink "ascoltare qui" "https://youtu.be/bEgypQBv2wI" "Ascolta il podcast dei Giramondo ma non troppo - un anno e mezzo in Marocco e non solo">}}) e dopo essere arrivati nel Sahara Occidentale ci siamo ritrovati ad attraversare la Mauritania, stato che divide il mondo arabo dall'Africa nera.
 
 Dopo quasi 30 giorni trascorsi in Senegal, qualche disavventura in dogana e non solo, numerose conoscenze con i locali, parole imparate in dialetto, soluzioni pratiche trovate qua e là e informazioni utili a camperisti e non, ci è balzata in mente l'idea di scrivere un articolo sulla nostra avventura, sperando che possa essere utile a chi sta pensando di cimentarsi in un viaggio simile. 
 

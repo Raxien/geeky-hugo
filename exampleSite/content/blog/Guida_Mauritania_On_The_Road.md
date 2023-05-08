@@ -34,7 +34,7 @@ Vi riportiamo comunque tutte le informazioni relative alle pratiche doganali, ai
 <div id="Paese"></div>
 
 ##### Il paese
-La Mauritania è un paese in forte crisi, il 45% della popolazione vive con meno di 2 dollari al giorno. Da sempre si trova a metà fra le tensioni tra mondo arabo e Africa Nera.
+La Mauritania è un paese in forte crisi, il 45% della popolazione vive con meno di 2 dollari al giorno. Da sempre si trova a metà fra le tensioni tra mondo arabo e Africa nera.
 Vi rimandiamo al sito di {{< extLink "viaggiare sicuri" "https://www.viaggiaresicuri.it/find-country/country/MA" "Stay safe!!" >}} per controllare le situazioni aggiornate sul paese.
 
 <div id="Itinerario"></div>
