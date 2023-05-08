@@ -44,7 +44,7 @@ Di seguito troverai il nostro diario giornaliero, ma se vuoi leggere l'itinerari
 Vuoi vedere le nostre avventure fino a qui? Trovi tutto in questo video!
 {{< youtube Htsc7-shv1w>}}
 
-**{{< underline "Giorno 7" >}}**: ci siamo sposati a Santander e poi in direzione delle bellissime spiagge: playa de Covachos, playa de la Arnia, playa de Valdearenas. Nel pomeriggio abbiamo raggiunto il delizioso borgo di Santillana do Mar: luogo di passaggio del Cammino di Santiago, non perdetevi una fetta di quesada (torta al latte), servita con un bicchiere di latte fresco! Notte in libera a San Vicente de la Barquera. 
+**{{< underline "Giorno 7" >}}**: ci siamo spostati a Santander e poi in direzione delle bellissime spiagge: playa de Covachos, playa de la Arnia, playa de Valdearenas. Nel pomeriggio abbiamo raggiunto il delizioso borgo di Santillana do Mar: luogo di passaggio del Cammino di Santiago, non perdetevi una fetta di quesada (torta al latte), servita con un bicchiere di latte fresco! Notte in libera a San Vicente de la Barquera. 
 
 **{{< underline "Giorno 8" >}}**: dopo aver fatto due passi lungo la costa ci siamo rimessi in marcia, fermandoci per una tappa al santuario Iglesia de Nuestra Senora de los Dolores, poco dopo il borgo di Llanes, fino a raggiungere i Bufones de Pria: un luogo davvero incantevole! Immagina dei veri e propri geyser fra le rocce, creati dalla forse delle onde che si infrangono sulla costa. Se capiti qui in un giorno poco soleggiato la magia dovrebbe essere addirittura maggiore a detta dei contadini del posto! Nel pomeriggio abbiamo raggiunto Oviedo, altra meta del Cammino di Santiago, con la bellissima Cattedrale di San Salvador e la piazza sulla quale si affaccia, per poi spostarci per la notte a Gijon. 
 
