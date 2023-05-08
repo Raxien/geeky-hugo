@@ -2,7 +2,7 @@
 title: 'Spagna del Nord in camper con cane e gatto: itinerario, consigli e informazioni utili'
 description: "Alla scoperta della Spagna del Nord on the road attraverso Paesi Baschi, Cantabria, Asturie e Galizia"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223914/IMG_9010_x6hrvl.jpg
-date: 2023-05-03T17:00:00.000
+date: 2023-05-02T17:00:00.000
 categories: ["Europa", "Guida", "Itinerario", "Camper"]
 country: Spagna
 type: regular
