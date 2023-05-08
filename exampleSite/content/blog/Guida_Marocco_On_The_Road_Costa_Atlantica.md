@@ -3,7 +3,7 @@ title: 'Marocco'
 description: ""
 image: 
 date: 2022-07-26T17:00:00.000
-categories: ["Africa", "Guida", "Itinerario", "Camper"]
+categories: ["Africa", "Guida", "Itinerari", "Camper"]
 country: Marocco
 type: regular
 draft: true
@@ -14,7 +14,7 @@ Sicuramente se leggete le disposizioni della Farnesina non è uno dei luoghi pi�
 Proprio per questo motivo e dato che noi abbiamo solo attraversato il paese, non possiamo scrivere una guida dettagliata del posto.
 Vi riportiamo comunque tutte le informazioni relative alle pratiche doganali, ai costi e alla situazione delle strade. 
 
-##### Tabella dei contenuti
+> ##### Tabella dei contenuti
 > - [Il Paese](#Paese)
 > - [Itinerario](#Itinerario)
 > - [Consigli Utili](#Consigli)
@@ -34,7 +34,7 @@ Vi riportiamo comunque tutte le informazioni relative alle pratiche doganali, ai
 <div id="Paese"></div>
 
 ##### Il paese
-La Mauritania è un paese in forte crisi, il 45% della popolazione vive con meno di 2 dollari al giorno. Da sempre si trova a metà fra le tensioni tra mondo arabo e Africa Nera.
+La Mauritania è un paese in forte crisi, il 45% della popolazione vive con meno di 2 dollari al giorno. Da sempre si trova a metà fra le tensioni tra mondo arabo e Africa nera.
 Vi rimandiamo al sito di {{< extLink "viaggiare sicuri" "https://www.viaggiaresicuri.it/find-country/country/MA" "Stay safe!!" >}} per controllare le situazioni aggiornate sul paese.
 
 <div id="Itinerario"></div>

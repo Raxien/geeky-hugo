@@ -7,6 +7,7 @@ Victor_Hugo: 'false'
 Focus_Keyword: expanses
 
 ---
+
 Per permetterci questa scelta di vita abbiamo risparmiato giorno per giorno e lo stiamo facendo ancora. Ci piace da sempre tenere conto delle spese, per cui ecco dei [grafici](#chart) e la [tabella](#tblSpese) dove teniamo traccia di tutte le spese e di come questo viaggio potrà davvero mantenersi nei mesi.
 
 Usiamo come supporto l’applicazione Splitwise (che potete scaricare **{{< extLink "qui se avete iPhone" "https://apps.apple.com/us/app/splitwise/id458023433" >}}** o **{{< extLink "qui se avete Android" "https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile" >}}**) che ci aiutava già nella gestione delle spese di casa. Basta inserire la cifra, indicizzarla secondo una categoria ed inserire chi ha pagato e i calcoli sono fatti.
@@ -16,7 +17,6 @@ Nei calcoli non sono inclusi i costi dell'assicurazione e bollo del van (che pot
 Per quanto riguarda la connessione ad Internet precedentemente ci affidiamo a due operatori differenti (**OGILink** e **Broker per la telefonia**) ma entrambi si sono rivelati non adatti alle nostre esigenze. Abbiamo reciso i contratti e abbiamo deciso di optare per le SIM locali che a parità di prezzo sono più affidabili.
 
 Per usarle ci affidiamo ad un router portatile come **{{< extLink "questo" "http://amzn.to/3Zopkl5" >}}**.
-
 
 <!-- section break -->
 

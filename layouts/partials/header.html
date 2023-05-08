@@ -86,7 +86,7 @@
         {{ if site.Params.search }}
         <div class="search-wrap" id="search-wrap">
           <form action="{{ `search`| relLangURL }}" class="search-bar d-flex align-items-center justify-content-center">
-            <input class="search-input w-100 border-0 h-100" id="search-query" name="s" type="search" placeholder="Cerca..." />
+            <input class="search-input w-100 border-0 h-100" id="search-query" name="s" type="search" placeholder="Cerca..." autocomplete="off"/>
             <span class="close-search toggle-search" data-target="#search-wrap">
               <i class="fas fa-times"></i>
             </span>

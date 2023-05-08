@@ -3,7 +3,7 @@ title: 'Marocco in camper: itinerari, consigli e informazioni utili'
 description: ""
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1680644212/Senegal-in-camper_dycaxx.png
 date: 2022-07-26T17:00:00.000
-categories: ["Africa", "Guida", "Itinerario", "Camper"]
+categories: ["Africa", "Guida", "Itinerari", "Camper"]
 type: regular
 country: Marocco
 draft: true
@@ -16,7 +16,7 @@ Sicuramente sulla nostra decisione hanno molto influito i racconti più che posi
 A fine gennaio 2023 abbiamo quindi comprato i biglietti per il traghetto da Algeciras a Tanger Med e ci siamo imbarcati insieme a Olimpia e Sakè. 
 Abbiamo deciso di scrivere due articoli, dal momento che il nostro viaggio nel paese si è interrotto per proseguire a su verso la Mauritania e il Senegal: nel primo troverete tutte le tappe che abbiamo effettuato lungo la costa atlantica, nel secondo l'itinerario relativo all'entroterra e alla risalita. 
 
-##### Tabella dei contenuti
+> ##### Tabella dei contenuti
 > - [Il Paese](#Paese)
 > - [Itinerario](#Itinerario)
 > - [Consigli Utili](#Consigli)
