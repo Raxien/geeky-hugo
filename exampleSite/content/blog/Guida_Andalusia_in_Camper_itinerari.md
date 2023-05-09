@@ -17,7 +17,7 @@ Abbiamo visitato l'Andalusia nel gennaio 2023, in un periodo non molto battuto e
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni e tappe imperdibili](#Cosiderazioni)
+> - [Considerazioni e tappe imperdibili](#Considerazioni)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Il nostro vlog](#Vlog)
      <!-- - [Le nostre mappe](#Mappe) -->
@@ -151,7 +151,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 
 ##### Viaggiare con il proprio animale
 Per viaggiare in Europa con il proprio animale occorre avere il passaporto, il microchip e la vaccinazione antirabbica in corso di validità.
-Ti consigliamo di prestare sempre attenzione nei luoghi affollati perchè le persone potrebbero avere timore, motivo per cui noi giriamo sempre con i nostri animali al guinzaglio. 
+Ti consigliamo di prestare sempre attenzione nei luoghi affollati perché le persone potrebbero avere timore, motivo per cui noi giriamo sempre con i nostri animali al guinzaglio. 
 In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata di mano. 
 Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
 Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 

@@ -19,7 +19,7 @@ Ti va di leggere cosa abbiamo da consigliare? Promettiamo mete meravigliose!
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni e tappe imperdibili](#Cosiderazioni)
+> - [Considerazioni e tappe imperdibili](#Considerazioni)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
@@ -31,11 +31,11 @@ Di seguito troverai il nostro diario giornaliero, ma se vuoi leggere l'itinerari
 
 **{{< underline "Giorno 2" >}}**: ci siamo svegliati di prima mattina per fare una bella camminata sul promontorio, mentre i primi surfisti andavano a caccia di onde buone. Poi, complice la pioggia, ci siamo spostati a Zarautz, famosa per la sua spiaggia incastonata fra i promontori, e a Getaria: anche qui abbiamo passeggiato sul promontorio affacciato da un lato sulla cittadina e dall'altro sulla baia, trovando sulla strada un vecchio bunker e un faro abbandonato. Ultima tappa della giornata Zumaia con le sue famose rocce rosa, dalla forma stranissima e il terreno argilloso, rimaneggiati dal clima e dal tempo. Sosta per la notte su strada vista mare nei pressi di Deba. 
 
-**{{< underline "Giorno 3" >}}**: il maltempo non ci dava tregua ma abbiamo comunque fatto due passi nel piccolo villaggio di Deba, poi dato che il 31 ottobre era l'ultimo lunedì del mese e coincideva con un grande mercato nella città di Guernica, con una serie di bancarelle per tutte le vie, abbiamo deciso di raggiungere questa meta. Siamo arrivati volutamente nel tardo pomeriggio per poter passeggiare insieme a Olimpia e Sakè nel momento in cui molte persone rientravano a casa,e per assaggiare un pinxto, la tapa di qui: una fetta di formaggio su un pezzo di baguette (1 euro). Dopo aver camminato per la città abbiamo raggiunto la riserva di Urdaibai. 
+**{{< underline "Giorno 3" >}}**: il maltempo non ci dava tregua ma abbiamo comunque fatto due passi nel piccolo villaggio di Deba, poi dato che il 31 ottobre era l'ultimo lunedì del mese e coincideva con un grande mercato nella città di Guernica, con una serie di bancarelle per tutte le vie, abbiamo deciso di raggiungere questa meta. Siamo arrivati volutamente nel tardo pomeriggio per poter passeggiare insieme a Olimpia e Sakè nel momento in cui molte persone rientravano a casa, e per assaggiare un pinxto, la tapa di qui: una fetta di formaggio su un pezzo di baguette (1 euro). Dopo aver camminato per la città abbiamo raggiunto la riserva di Urdaibai. 
 
 **{{< underline "Giorno 4" >}}**: abbiamo dedicato la mattinata a scoprire la natura attorno alla riserva, fermandoci per ammirare la chiesetta di Mundaka, poi abbiamo proseguito lungo la costa fino a raggiungere una comoda area sosta con tavolini per picnic nei pressi della turistica San Juan de Gatzelugatze.
 
-**{{< underline "Giorno 5" >}}**: sveglia presto per raggiungere a piedi la scalinata che conduce alla chiesa di San Juan. L'accesso al sito è gratuito ma è necessario ottenere un ticket prenotando online dato l'ingresso contingentato (trovi tutte le informazioni utili {{< extLink "qui" "https://turismo.euskadi.eus/es/san-juan-de-gaztelugatxe/aa30-12376/es/">}}). La camminata dal punto dove abbiamo parcheggiato noi può essere un po' impegnativa, ecco perchè ti segnaliamo che puoi trovare un parcheggio più vicino. Inoltre, ti consigliamo un abbigliamento con scarpe adatte per evitare soprattutto di scivolare sui 241 scalini. Per il resto, prenditi il tempo per lasciarti meravigliare da questo luogo spettacolare (di prima mattina c'erano pochissimi turisti!). Nel pomeriggio, dopo aver fatto amicizia con altri camperisti mangiando panini vista oceano, abbiamo raggiunto l'area camper gratuita vicina all'aeroporto di Bilbao.
+**{{< underline "Giorno 5" >}}**: sveglia presto per raggiungere a piedi la scalinata che conduce alla chiesa di San Juan. L'accesso al sito è gratuito ma è necessario ottenere un ticket prenotando online dato l'ingresso contingentato (trovi tutte le informazioni utili {{< extLink "qui" "https://turismo.euskadi.eus/es/san-juan-de-gaztelugatxe/aa30-12376/es/">}}). La camminata dal punto dove abbiamo parcheggiato noi può essere un po' impegnativa, ecco perché ti segnaliamo che puoi trovare un parcheggio più vicino. Inoltre, ti consigliamo un abbigliamento con scarpe adatte per evitare soprattutto di scivolare sui 241 scalini. Per il resto, prenditi il tempo per lasciarti meravigliare da questo luogo spettacolare (di prima mattina c'erano pochissimi turisti!). Nel pomeriggio, dopo aver fatto amicizia con altri camperisti mangiando panini vista oceano, abbiamo raggiunto l'area camper gratuita vicina all'aeroporto di Bilbao.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223893/IMG_9044_t9frgd.jpg" >}}
 
@@ -52,11 +52,11 @@ Vuoi vedere le nostre avventure fino a qui? Trovi tutto in questo video!
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223945/IMG_9784_useo2h.jpg" >}}
 
-**{{< underline "Giorno 10" >}}**: in questo luogo fai molta attenzione alle maree: noi al mattino presto abbiamo avuto la fortuna di passeggiare dra le rocce altissime che creano delle vere e proprie grotte all'interno delle quali ci si può affacciare quando la marea è bassa. Davvero suggestivo! Sempre in questo parcheggio si ha la fortuna che un paio di volte al mattino arriva un simpatico carretto di un signore che porta pane e empanadas ripiene (noi abbiamo provato quella con i membrillos da lui consigliataci, ed era deliziosa)! Notte il libera presso l'area camper gratuita di Betanzos.
+**{{< underline "Giorno 10" >}}**: in questo luogo fai molta attenzione alle maree: noi al mattino presto abbiamo avuto la fortuna di passeggiare fra le rocce altissime che creano delle vere e proprie grotte all'interno delle quali ci si può affacciare quando la marea è bassa. Davvero suggestivo! Sempre in questo parcheggio si ha la fortuna che un paio di volte al mattino arriva un simpatico carretto di un signore che porta pane e empanadas ripiene (noi abbiamo provato quella con i membrillos da lui consigliataci, ed era deliziosa)! Notte il libera presso l'area camper gratuita di Betanzos.
 
 **{{< underline "Giorno 11" >}}**: direzione La Coruna. Dopo aver passeggiato per la città abbiamo scoperto la {{< extLink "pizzeria Terramia" "https://www.facebook.com/pizzeriaterramia.lacoruna/">}} e con Luca, il proprietario connazionale, abbiamo scambiato una piacevole chiacchierata! Se ami i cannoli qui potrai trovarne davvero di deliziosi! Nel pomeriggio abbiamo raggiunto a piedi la Torre di Hercules, faro di costruzione romana. Notte sulla costa.
 
-**{{< underline "Giorno 12-13" >}}**: siamo rimasti nel parcheggio affacciato sulla costa fino al pomeriggio, facendo amicizia con una coppia di ragazzi tedeschi, per poi spostarci a Muxia. Il nostro percorso iniziale prevedeva di raggiundere Santiago, che abbiamo deciso di rimandare però a un futuro cammino :) Sosta in libera al faro. A Muxia abbiamo fatto bellissime passeggiate, dal faro al centro del paesino, scambiando due chiacchiere con alcuni pellegrini e con le persone del posto. Il tramonto qui è a dir poco spettacolare. 
+**{{< underline "Giorno 12-13" >}}**: siamo rimasti nel parcheggio affacciato sulla costa fino al pomeriggio, facendo amicizia con una coppia di ragazzi tedeschi, per poi spostarci a Muxia. Il nostro percorso iniziale prevedeva di raggiungere Santiago, che abbiamo deciso di rimandare però a un futuro cammino :) Sosta in libera al faro. A Muxia abbiamo fatto bellissime passeggiate, dal faro al centro del paesino, scambiando due chiacchiere con alcuni pellegrini e con le persone del posto. Il tramonto qui è a dir poco spettacolare. 
 
 **{{< underline "Giorno 14" >}}**: lasciata Muxia, ci siamo diretti verso Combarro, approfittando di un paesino lungo la strada per fare spesa, carico e scarico e pranzare con un'empanada al tonno. Il paesino è un tipico villaggio galiziano di pescatori, costellato di horreos, gli antichi granai. Sosta libera per camper 
 
@@ -134,7 +134,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 
 ##### Viaggiare con il proprio animale
 Per viaggiare in Europa con il proprio animale occorre avere il passaporto, il microchip e la vaccinazione antirabbica in corso di validità.
-Ti consigliamo di prestare sempre attenzione nei luoghi affollati perchè le persone potrebbero avere timore, motivo per cui noi giriamo sempre con i nostri animali al guinzaglio. 
+Ti consigliamo di prestare sempre attenzione nei luoghi affollati perché le persone potrebbero avere timore, motivo per cui noi giriamo sempre con i nostri animali al guinzaglio. 
 In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata di mano. 
 Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
 Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 

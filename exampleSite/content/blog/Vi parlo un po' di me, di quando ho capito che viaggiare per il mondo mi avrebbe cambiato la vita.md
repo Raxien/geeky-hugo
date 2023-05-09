@@ -31,7 +31,7 @@ regola n.8: **ringrazia**. Prenditi un attimo per dire grazie e nota quanto ques
 
 regola n.9: **ama**. Ama senza riserve. E lasciati amare.  
 
-regola n.10: **viaggia**. Che per me è diventato sinonimo di vivi. Perchè ho capito che viaggiare per il mondo mi ha cambiato la vita.  
+regola n.10: **viaggia**. Che per me è diventato sinonimo di vivi. Perché ho capito che viaggiare per il mondo mi ha cambiato la vita.  
 
 #### Da sola? No, ero con me stessa.
 

@@ -145,7 +145,7 @@ Sono frequenti moltissimi posti di blocco della polizia e all'ordine del giorno 
 Se la multa vi viene effettuata in loco è da pagare subito in contanti, se invece vi viene effettuata da un autovelox automatico vi verrà segnalata all'uscita dal paese. 
 Nei posti di blocco a sud, superata la città di Layoune, vi verrà richiesta la fiche de police, cioè un documento che riporta i dati dei viaggiatori e del mezzo (potete stamparle dal web oppure crearle fotocopiando i passaporti e aggiungendo i dati del veicolo o ancora realizzandole a mano come abbiamo fatto noi. I dati strettamente necessari sono: nome e cognome, nazionalità, numero di passaporto,targa del mezzo).
 
-Prestate attenzione perchè non di rado potrebbero attraversarvi la starda alcuni animali selvatici (in particolare dromedari o asini).
+Prestate attenzione perché non di rado potrebbero attraversarvi la starda alcuni animali selvatici (in particolare dromedari o asini).
 
 Sovente quancuno vi supererà da destra e sinistra, magari a bordo di un motorino senza casco.
 Vi sconsigliamo di guidare di notte.

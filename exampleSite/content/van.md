@@ -20,7 +20,7 @@ In questa pagina troverai tutte le [informazioni](#il-van-in-breve) relative al 
 <!-- section break -->
 
 ##### Storia e evoluzione del Van
-Questa sezione è dedicata alla cronostoria di come abbiamo deciso di intraprendere questa avventura e al perché abbiamo deciso di acquistare un accessorio rispetto che un altro. Abbiamo fatto molti errori dettati dall'inesperienza e dal budget che ci eravamo fissati, ma piano piano stiamo migliorando. Alla fine trovi le [considerazioni](#considerazioni) soprattutto in merito a tutti gli errori commessi.
+Questa sezione è dedicata alla cronistoria di come abbiamo deciso di intraprendere questa avventura e al perché abbiamo deciso di acquistare un accessorio rispetto che un altro. Abbiamo fatto molti errori dettati dall'inesperienza e dal budget che ci eravamo fissati, ma piano piano stiamo migliorando. Alla fine trovi le [considerazioni](#considerazioni) soprattutto in merito a tutti gli errori commessi.
 
 
 **{{< underline "Natale 2020" >}}**: "ah, esistono i van e non bisogna andare solo in campeggio?" così abbiamo esordito a Natale, scoprendo un mondo! Abbiamo trascorso un giorno intero incollati allo schermo del pc a scoprire queste piccole case mobili e immaginando come sarebbero cambiati i nostri viaggi on the road con Olimpia sacrificata nel bagagliaio in mezzo alle valigie!
@@ -30,7 +30,7 @@ Questa sezione è dedicata alla cronostoria di come abbiamo deciso di intraprend
 - bagno a bordo
 - tetto massimo 45k euro
 
-Abbiamo deciso di optare per un van perché risulta più indiscreto e non volevamo qualcosa di troppo lungo in quanto amiamo stare sia in natura che visitare le città. Sul bagno a bordo siamo stati intrasigenti: vuoi per capriccio o per comodità, in ogni caso l'idea di poter fare una doccia immersi nel traffico di una capitale europea o sedersi sul trono subito dopo il caffè mattutino allettava entrambi..!
+Abbiamo deciso di optare per un van perché risulta più indiscreto e non volevamo qualcosa di troppo lungo in quanto amiamo stare sia in natura che visitare le città. Sul bagno a bordo siamo stati fermi: vuoi per capriccio o per comodità, in ogni caso l'idea di poter fare una doccia immersi nel traffico di una capitale europea o sedersi sul trono subito dopo il caffè mattutino allettava entrambi..!
 
 
 **{{< underline "Febbraio 2021" >}}**: abbiamo valutato di far camperizzare un van ma abbiamo desistito in quanto le ditte contattate non erano sicure sulla data di consegna. Abbiamo così optato per i mezzi in pronta, o quasi, consegna. In Piemonte c'erano solamente 3 mezzi disponibili.
@@ -65,7 +65,7 @@ Costo totale per tutti gli accessori 2350 € ([qui](#costi) trovi i prezzi per 
 Abbiamo acquistato anche un uscurante termico.
 
 **{{< underline "Novembre 2021" >}}**: dopo averci "vissuto" a bordo tutti i weekend e un mese in Danimarca è stato tempo di tirare le somme e procedere con le migliorie prima del successivo viaggio ({{< extLink "qui" "https://www.youtube.com/watch?v=pwsXaymLF0k" >}} se vuoi scoprire dove).
-L'oscurante termico è risultato ingombrante e fastidioso da mettere e togliere (in caso di emergenza non va bene). Così abbiamo deciso di aggiungere i plisettati frontali.
+L'oscurante termico è risultato ingombrante e fastidioso da mettere e togliere (in caso di emergenza non va bene). Così abbiamo deciso di aggiungere i plissettati frontali.
 Sempre in fatto di sicurezza abbiamo aggiunto anche un computerino di bordo per avere più precisione circa la carica del pannello solare e il MonoControl della Truma, indispensabile per evitare di dover scendere e chiudere la bombola ogni volta prima di azionare il motore.
 
 Costo totale 880 €.
@@ -83,17 +83,17 @@ Abbiamo trovato aiuto a Belluno presso xxx che è rimasto fino a chiusura a fres
 
 Pochi giorni dopo abbiamo toccato e smontato la sottoscocca paramotore sinistra, sistemata di fortuna presso l'unica officina aperta di sabato in Trentino.
 
-**{{< underline "Settembre 2022" >}}**: dopo svariati mesi a bordo abbiamo capito che il nostro impianto elettrico era sottodimesionato per gli utilizzi. Abbiamo così acquistato una batteria e un pannello portatile della EcoFlow. Essendo in viaggio ci siamo affidati alle uniche disponibili sul mercato Olandese.
+**{{< underline "Settembre 2022" >}}**: dopo svariati mesi a bordo abbiamo capito che il nostro impianto elettrico era sottodimensionato per gli utilizzi. Abbiamo così acquistato una batteria e un pannello portatile della EcoFlow. Essendo in viaggio ci siamo affidati alle uniche disponibili sul mercato Olandese.
 
 Costo totale 988 €
 
 **{{< underline "Ottobre 2022" >}}**: dopo 22400 km era tempo di cambiare filtro e olio motore (209.40 €).
 Abbiamo anche avuto problemi dovuti ad un'installazione mal eseguita del plisettato lato guidatore e perdevamo acqua dalla frusta calda.
-Il primo problema è stato sistemato con un po' di bioadesivo mentre il rubinetto era stato montato erroneamente.
+Il primo problema è stato sistemato con un po' di biadesivo mentre il rubinetto era stato montato erroneamente.
 
 Anche l'installazione del kit di Acqua travel non era ottimale. Con le vibrazioni si era svitato leggermente creando muffe. Abbiamo sistemato in autonomia, arrabattandoci con materiali di recupero (vedi {{< extLink "qua" "https://youtu.be/uhFYfbis9a4" >}}).
 
-**{{< underline "Novembre 2022" >}}**: si sono rotte due ante e abbiamo risolto con un po' di pattafix ({{< extLink "cosi" "https://youtu.be/m_5-1S0MCWU">}}).
+**{{< underline "Novembre 2022" >}}**: si sono rotte due ante e abbiamo risolto con un po' di Pattafix ({{< extLink "cosi" "https://youtu.be/m_5-1S0MCWU">}}).
 
 **{{< underline "Dicembre 2022" >}}**: ruggine e muffa! Gli spot vista oceano e la forte umidità del Portogallo si sono fatti sentire.
 Abbiamo trovato dei punti di ruggine sul tetto del van e nel frigo e abbiamo sistemato con del Ferox e abbiamo applicato un protettore antimuffa dopo averla rimossa. 
@@ -107,11 +107,11 @@ Costo 0 €
 **{{< underline "Aprile 2023" >}}**: il Senegal ha messo a dura prova il nostro van:
 - scalino rotto
 - alcune plastiche scollate
-- viti dell'oblo che non tengono e cascano
-Ci siamo affidati a un carrozziere di Zagorà per far siliconare le plastiche per un totale di 40 dh (3,60 euro). Di fortuna un ragazzo italiano aveva il teflon e abbiamo sistemato le viti dell'oblo.
+- viti dell'oblò che non tengono e cascano
+Ci siamo affidati a un carrozziere di Zagorà per far siliconare le plastiche per un totale di 40 dh (3,60 euro). Di fortuna un ragazzo italiano aveva il Téflon e abbiamo sistemato le viti dell'oblò.
 Si rompe anche la molla della zanzariera per via dello sporco accumulato ma riusciamo a sistemarla
 
-Visti i 40.000 km è ora di cambiare filtro e olio motore, costo di 760 dh per l'olio (70 euro) e 200 dh (18 euro) per il lavoro e dei dischi dei freni anteriori per la belezza di 400 dh (36 euro).
+Visti i 40.000 km è ora di cambiare filtro e olio motore, costo di 760 dh per l'olio (70 euro) e 200 dh (18 euro) per il lavoro e dei dischi dei freni anteriori per la bellezza di 400 dh (36 euro).
 
 Costo totale 126,70 euro
 
@@ -134,7 +134,7 @@ Costo totale 126,70 euro
 Solo dopo due anni e dopo averci vissuto per più di 11 mesi abbiamo capito bene quanto è "entry level" e quali lavori dovremo fare per arginare questi limiti.
 Il non avere troppi accessori non è mai stato un contro, anzi. Siamo felici che mancassero in quanto non volevamo trovarci ad esempio con un tendalino che reputavamo e reputiamo ancora tutt'ora inutile.
 
-Il limite maggiore risulta quello relativo alla scarsa isolazione termica e in alcuni punti la mancanza totale di plastiche (presenti ad esempio nei fanali posteriori in modelli di fascia più alta ). Questo ci ha creato grossi problemi durante la stagione umida del Portogallo e della Francia ({{< extLink "qua" "https://youtu.be/m_5-1S0MCWU">}} o {{< extLink "qua" "https://youtu.be/uhFYfbis9a4" >}} se vuoi farti un'idea).
+Il limite maggiore risulta quello relativo alla scarsa coibentazione e in alcuni punti la mancanza totale di plastiche (presenti ad esempio nei fanali posteriori in modelli di fascia più alta ). Questo ci ha creato grossi problemi durante la stagione umida del Portogallo e della Francia ({{< extLink "qua" "https://youtu.be/m_5-1S0MCWU">}} o {{< extLink "qua" "https://youtu.be/uhFYfbis9a4" >}} se vuoi farti un'idea).
 Altro problema: i materiali! Non sono ottimi ma vanno bene. Con un po' di colla vinilica o silicone si aggiusta tutto (come abbiamo fatto {{< extLink "qui" "https://youtu.be/Htsc7-shv1w" >}}).
 
 Per quanto riguarda la scelta del motore, abbiamo fatto bene a scegliere la motorizzazione Citroen da 140cv rispetto a quella da 120cv. Sono "solo" 20cv ma si sono sentiti tutti durante le salite! 
@@ -149,7 +149,7 @@ In primis avremmo messo un pannello più prestante e un inverter meno potente. 2
 
 Per quanto riguarda le batterie, avremmo optato direttamente per una litio di pari potenza ma alla fin fine abbiamo imparato a conviverci e con quella portatile abbiamo risolto, per ora, i nostri problemi.
 
-Per quanto riguarda l'acquisto del riscaldamento a diesel esterno, forse era meglio rimuovere la truma combi a gas per mettere quella a diesel. Quella che abbiamo installato funziona ma è altamente rumorosa soprattutto quando si attacca e stacca di continuo.
+Per quanto riguarda l'acquisto del riscaldamento a diesel esterno, forse era meglio rimuovere la Truma combi a gas per mettere quella a diesel. Quella che abbiamo installato funziona ma è altamente rumorosa soprattutto quando si attacca e stacca di continuo.
 
 ###### To-Do 
 Di seguito la lista check-list di cose da sistemare e aggiornamenti che vorremmo fare al nostro "passaggio" dall'Italia. Alcuni sono check di routine altri invece vanno sistemati in quanto potrebbero, alla lunga, creare problemi durante il viaggio.
@@ -158,7 +158,7 @@ Da sistemare 🔧
 - Maniglia frigo - rotta a metà per colpa di Olimpia
 - Scalino - si è rotto per un dosso in Senegal. Visti i problemi opteremo per toglierlo
 - Finestre - va messo il frena filetti o qualcosa di simile 
-- ~~Oblo: le viti non tengono~~ Messo téflon, sembra tenere
+- ~~Oblò: le viti non tengono~~ Messo téflon, sembra tenere
 - ~~Sistemare portellone scollato~~ Sistemato con il silicone in Marocco (presto il video qui)
 - Aggiustare sotto cintura in dinette - è presente una vite che risulta non fissata correttamente
 - Sistemare pavimento - scricchiola per via del caldo assurdo
@@ -170,10 +170,10 @@ Da sistemare 🔧
 
 Lavori in valutazione 🔨
 - installare un secondo pannello da 150/300 W 
-    - pro: aumentare l'efficenza energetica soprattutto in inverno perchè copriamo a mala pena l'esigenza del frigo.
-    - contro: andrà rimosso l'oblo in bagno. Va capito cosa mettere al suo posto.
+    - pro: aumentare l'efficenza energetica soprattutto in inverno perché copriamo a mala pena l'esigenza del frigo.
+    - contro: andrà rimosso l'oblò in bagno. Va capito cosa mettere al suo posto.
 - possibilità di collegare il pannello esterno
-    - pro: lasciare il van all'ombra e caricare le batterie con il pannelo portatile
+    - pro: lasciare il van all'ombra e caricare le batterie con il pannello portatile
     - contro: da valutare se l'impianto permette di fare ciò
 - possibilità di sfruttare i pannelli superiori per caricare Ecoflow (nel caso si aggiunga un secondo pannello solare), senza sfruttare l'inverter
     - pro: possibilità di caricare la nostra batteria portatile tramite uno dei due pannelli quando siamo carichi
@@ -185,7 +185,7 @@ Lavori in valutazione 🔨
     - pro: evitare che entrino umidità e freddo
     - contro: nessuno
 - rendere isolante la tenda oscurante in dotazione
-    - pro: potrebbe esser utile per isolare la parte frontale dal resto dell'abitacolo (i plisettati sono inutili in merito)
+    - pro: potrebbe esser utile per isolare la parte frontale dal resto dell'abitacolo (i plissettati sono inutili in merito)
     - contro: capire quanto risulterebbe ingombrante a bordo
 
 ##### Oggetti di uso quotidiano
