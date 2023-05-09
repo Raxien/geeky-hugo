@@ -133,7 +133,7 @@ I vari step che abbiamo attraversato sono:
 <div id="Strade"></div>
 
 ##### Strade 
-La situazione relativa alle condizioni delle strade in Mauritania è altamente variabile. Tra la nostra andata e il nostro ritorno, in un mese di tempo, abbiamo notato un notevole miglioramento (forse era cabiata anche la nostra percezione).
+La situazione relativa alle condizioni delle strade in Mauritania è altamente variabile. Tra la nostra andata e il nostro ritorno, in un mese di tempo, abbiamo notato un notevole miglioramento (forse era cambiata anche la nostra percezione).
 Alcune voragini presenti all'andata erano state sistemate. 
 I tratti più pericolosi ad oggi sono:
 - la terra di nessuno (i 4 km che dividono Marocco da Mauritania, per metà perfetti e per metà sterrati), che in caso di forte vento può essere ricoperta da sabbia e mascherare alcune buche pericolose. In questo caso potete chiedere a qualche trasportatore che conosce bene la tratta di farvi da apripista. 
@@ -159,7 +159,7 @@ Se vi fermate verrete abbastanza presi d'assalto per la richiesta di denaro (arg
 <div id="Escursioni"></div>
 
 ##### Escursioni
-Come dicevamo all'inizio non abbiamo visitato il paese, ma l'abbiamo solo attraversato. Vi citiamo però alcune mete ed escurzioni consigliateci da altri viaggiatori:
+Come dicevamo all'inizio non abbiamo visitato il paese, ma l'abbiamo solo attraversato. Vi citiamo però alcune mete ed escursioni consigliateci da altri viaggiatori:
 - treno più lungo del mondo che parte da Noadibou 
 - piste nel deserto da percorrere a bordo di un mezzo 4x4
 - cittadina di Atar

@@ -161,13 +161,13 @@ Il Thieboudienne è composto da riso (bianco o rosso) con pesce accompagnato da 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854084/Articoli/Senegal/Senegal_Tiebuden_4_yivo8o.jpg" >}}
 
-Lo Yassa poulet e lo yassa poisson sono invece rispettivamente piatti a base di pollo o pesce marinati e conditi con cipolla, pepe, sale, peperoncino e poi grigliati. Vengono accompagnati con riso. Ci è capitato di trovare il pesce anche sotto forma di polpette. 
+Lo Yassa poulet e lo Yassa poisson sono invece rispettivamente piatti a base di pollo o pesce marinati e conditi con cipolla, pepe, sale, peperoncino e poi grigliati. Vengono accompagnati con riso. Ci è capitato di trovare il pesce anche sotto forma di polpette. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854083/Articoli/Senegal/Senegal_Tiebuden_Riso_qlzhvk.jpg" >}}
 
 Un altro piatto molto caratteristico è il maffè: uno spezzatino di manzo o pollo condito con pasta d’arachidi e accompagnato dal riso.
 
-Per quanto riguarda le bevande, si trovano frequentemente birre locali, la Malta (una birra analcolica ricca di vitamina B), il tè Kinkelibà e il caffè Touba (un caffè nel quale vengono messi in infusione chiodi di garofano e il djar, un pepe originario della vicina Guinea, noi l'abbiamo amato e costa solo 50 F a bicchierino a differenza del nespresso che ne costa 1000). 
+Per quanto riguarda le bevande, si trovano frequentemente birre locali, la Malta (una birra analcolica ricca di vitamina B), il tè Kinkelibà e il caffè Touba (un caffè nel quale vengono messi in infusione chiodi di garofano e il djar, un pepe originario della vicina Guinea, noi l'abbiamo amato e costa solo 50 F a bicchierino a differenza del Nespresso che ne costa 1000). 
 
 Sovente vi capiterà di aspettare anche un'ora per mangiare, soprattutto nei luoghi meno turistici, armatevi di pazienza. 
 
@@ -195,7 +195,7 @@ Noi abbiamo utilizzato le applicazioni park4night e iOverlander.
 
 Sono frequenti casi di Leishmaniosi, valutate se fare il vaccino al vostro animale insieme al vostro veterinario. 
 Prestate particolare attenzione ai luoghi in cui vagano liberi i maiali, dal momento che sono portatori di un verme che può essere pericoloso e infettivo.
-A noi è successo, un pomeriggio in cui siedevano in spiaggia all'ombra delle palme, di trovare una piccola zecca sulle gambe di Paolo, quindi vi consigliamo di controllare quotidianamento voi e il pelo dei vostri animali.
+A noi è successo, un pomeriggio in cui eravamo seduti in spiaggia all'ombra delle palme, di trovare una piccola zecca sulle gambe di Paolo, quindi vi consigliamo di controllare quotidianamente voi e il pelo dei vostri animali.
 
 <div id="Itinerario"></div>
 
@@ -280,7 +280,7 @@ Rientro a Dakar per un'ultima visita della città.
 ##### Casamance
 Abbiamo deciso di dedicare a questa zona del paese un paragrafo a parte, sia perché è il luogo che più ci è piaciuto (quanto? {{< extLink "scoprilo qui" "https://youtu.be/EAJRtniCcxc" >}}), sia perché i modi per raggiungerla sono molteplici e volevamo racchiudere in merito tutte le informazioni che abbiamo trovato.
 La regione di Casamance, a sud del Gambia, vanta bellissime spiagge, meno rovinate dai cumuli di immondizia come quelle situate a nord del paese. 
-Noi abbiamo visitato i villaggi di Cap Skirring, Kabrousse (l'ultimo villaggio prima del confine con la Guinea-Bissau),Diembering (famoso per i tipici alberi Fromager), Elikine (da cui si può salire su di uan piroga e raggiungere l'isola di Carabane) e Oussoye (famosa per i boschi sacri legati all'animismo, religione molto sentita in questa zona del paese). 
+Noi abbiamo visitato i villaggi di Cap Skirring, Kabrousse (l'ultimo villaggio prima del confine con la Guinea-Bissau),Diembering (famoso per i tipici alberi Fromager), Elikine (da cui si può salire su di una piroga e raggiungere l'isola di Carabane) e Oussoye (famosa per i boschi sacri legati all'animismo, religione molto sentita in questa zona del paese). 
 In questa zona ci siamo sentiti davvero ben accolti, le persone sono cordiali e vige meno corruzione. 
 Altre due mete molto belle sono Point Saint George e l'isola di Karabane. 
 Come raggiungere la Casamance: 

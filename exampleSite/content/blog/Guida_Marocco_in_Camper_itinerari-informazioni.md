@@ -141,7 +141,7 @@ I problemi maggiori si possono avere nelle zone più remote o in prossimità di 
 Nella zona a sud ovest, confinante con il deserto, si trovano alcune piste percorribili solo mezzi con 4x4.
 Anche nei territori del Sahara occidentale la strada principale è in ottimo stato.
 A nord del paese si trova anche l'autostrada, i cui lavori si stanno protraendo verso sud, con previsione di raggiungere la città di Daklha. 
-Sono frequenti moltissimi posti di blocco della polizia e all'ordine del giorno i controlli relativi alla velocità. Fermatevi sempre in prossimità dei posti di blocco finchè un funzionario non vi farà segno di procedere, pena la multa. 
+Sono frequenti moltissimi posti di blocco della polizia e all'ordine del giorno i controlli relativi alla velocità. Fermatevi sempre in prossimità dei posti di blocco finché un funzionario non vi farà segno di procedere, pena la multa. 
 Se la multa vi viene effettuata in loco è da pagare subito in contanti, se invece vi viene effettuata da un autovelox automatico vi verrà segnalata all'uscita dal paese. 
 Nei posti di blocco a sud, superata la città di Layoune, vi verrà richiesta la fiche de police, cioè un documento che riporta i dati dei viaggiatori e del mezzo (potete stamparle dal web oppure crearle fotocopiando i passaporti e aggiungendo i dati del veicolo o ancora realizzandole a mano come abbiamo fatto noi. I dati strettamente necessari sono: nome e cognome, nazionalità, numero di passaporto,targa del mezzo).
 

@@ -29,7 +29,7 @@ Abbiamo visitato e vissuto nei Paesi Bassi a bordo del nostro van, con cane e ga
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, ricreando un piccolo diario giornaliero e rimandandoti a una sezione dedicata per quanto riguarda la visita della capitale, Amsterdam.
 Noi siamo arrivati nei Paesi Bassi dalla Germania del Nord e abbiamo attraversato tutto il paese da nord a sud, dirigendoci poi in Belgio.
 
-Se vuoi saltare subito alle conclusioni e alla mappa con tutte le soste e ai luoghi che secondo noi meritano di pù [clicca qui](#Considerazioni). 
+Se vuoi saltare subito alle conclusioni e alla mappa con tutte le soste e ai luoghi che secondo noi meritano di più [clicca qui](#Considerazioni). 
 
 **{{< underline "Giorno 1" >}}**: il primo paesino olandese che abbiamo visitato è stato Bourtange.
 Abbiamo parcheggiato presso il centro informazioni da cui parte la passeggiata per visitare il borgo antico, con le mura che circondano piccoli mulini e casette adibite a botteghe o alberghi, immersi in un tempo che sembra essersi fermato (animali ammessi). Terminata la visita ci siamo diretti verso Appingedam, villaggio noto per le case con le cucine sospese sul canale. Un'unica via centrale mostra dei veri e propri cubetti spuntare dai palazzi, a più altezze. Da dietro le finestre senza tende si può immaginare di entrare in quelle cucine e sentire il profumo di caffè, di torta alla cannella, di ortensie fresche. 
@@ -79,7 +79,7 @@ Poi ci siamo diretti alla città di Groninga (sosta in libera in periferia, lung
 Il centro città si affaccia tutto sul canale, costeggiato da case e locali pieni di dettagli.
 Se ti capita cerca un birrificio con tavoli e sedie in legno nel quale si può giocare liberamente a biliardo o a giochi di società e ordina una birra e le tipiche polpette chiamate bitterbollen!
 Ci sono alcuni parchi molto belli in città, merita passeggiare con calma e sedersi su di una panchina a osservare il sole che scende dietro ai tetti, proprio come fanno gli olandesi. 
-Laciata Utrecht siamo tornati verso Gouda, direzione Belgio. 
+Lasciata Utrecht siamo tornati verso Gouda, direzione Belgio. 
 <!-- to do: inserire link belgio  -->
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683208292/IMG_1442_y8i7v3.jpg" >}}
@@ -162,7 +162,7 @@ In tutto il paese si riesce a pagare comodamente con la carta di credito e/o deb
 <div id="Mezzi"></div>
 
 ##### Mezzi di trasporto pubblici 
-I mezzi di trasporto pubblici sono davvero efficienti in tutto il paese. Bus, treni, tram, traghetti, biciclette: noi non abbiamo mai avuto problemi nè con i pagamenti nè con gli orari. 
+I mezzi di trasporto pubblici sono davvero efficienti in tutto il paese. Bus, treni, tram, traghetti, biciclette: noi non abbiamo mai avuto problemi né con i pagamenti né con gli orari. 
 
 <div id="Considerazioni"></div>
 
@@ -171,7 +171,7 @@ Non conoscevamo la Nuova Aquitania e dobbiamo essere sinceri, certe sue caratter
 
 In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "Giethoorn - Belt Schutsloot" >}}**: la "piccola Venezia" merita sicuramente una sosta, ma la vicina Belt Schutsloot ti regalerà una visita davvero autentica
--   **{{< bold "Alkmaar" >}}**: la visita della sola cittadina potrebbe essere poco rilevante, motivo per cui ti consigliamo di raggiungerla di martedi sera o veverdì mattina per assistere al famoso mercato del formaggio (qui trovi informazioni in merito agli orari)
+-   **{{< bold "Alkmaar" >}}**: la visita della sola cittadina potrebbe essere poco rilevante, motivo per cui ti consigliamo di raggiungerla di martedì sera o venerdì mattina per assistere al famoso mercato del formaggio (qui trovi informazioni in merito agli orari)
 -   **{{< bold "isola di Texel" >}}**: a noi è piaciuta davvero tanto! Natura, spiagge, faro, bagno nel Mare del Nord, la birra locale.. merita una visita!
 -   **{{< bold "Amsterdam" >}}**: è forse una delle mete che a noi è piaciuta meno, perché tranne il quartiere Jordaan, l'abbiamo trovata meno autentica.
 -   **{{< bold "Zaanse Schans" >}}**: è il tipico paesino con i mulini!

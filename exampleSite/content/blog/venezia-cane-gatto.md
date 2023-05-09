@@ -23,7 +23,7 @@ Per quanto riguarda noi, abbiamo soggiornato con il camper in una zona vicino a 
 
 ##### Mezzi di trasporto petfriendly a Venezia
 
-Dal punto di vista dei trasporti, Venezia è sicuramente una città petfriendly. I cani di tutte le taglie sono ammessi gratuitamente, nel numero massimo di un animale per ogni viaggiatore, sia sui mezzi pubblici ACTV (vaporetto,traghetto), sia sui bus e tram che collegano Venezia a Mestre (eccezion fatta per i treni). Ovviamente dovrai avere con te guinzaglio e museruola, che noi abbiamo fatto indossare ad Olimpia in quanto cane di grossa taglia.
+Dal punto di vista dei trasporti, Venezia è sicuramente una città petfriendly. I cani di tutte le taglie sono ammessi gratuitamente, nel numero massimo di un animale per ogni viaggiatore, sia sui mezzi pubblici ACTV (vaporetto, traghetto), sia sui bus e tram che collegano Venezia a Mestre (eccezion fatta per i treni). Ovviamente dovrai avere con te guinzaglio e museruola, che noi abbiamo fatto indossare ad Olimpia in quanto cane di grossa taglia.
 I biglietti per i pullman sono acquistabili presso le tabaccherie e costano 1.50€ a testa a tratta.
 
 ##### Quando visitare Venezia con cane e gatto 

@@ -19,7 +19,7 @@ Sotto casa incontrammo i primi sorrisi curiosi e anche qualche critica. C'era ch
 
 #### Il *"gattodicitturin"* fuori dai confini della sua città
 
-Dato che con Olimpia andavamo sempre a trovare le nostre famiglie a un'ora di distanza da noi, abbiamo attrezzato l’auto con una lettiera improvvisata in una scatola delle scarpe e abbiamo iniziato a portare Sakè con noi in quelle uscite e nelle altre avventure fuoriporta. Sarebbe stato possibile vivere le nostre avventure ontheroad estive anche con lui? L'avremmo scoperto di lì a pochi mesi, fino a decidere di trasformare le nostre vite e andare a vivere su di un van.
+Dato che con Olimpia andavamo sempre a trovare le nostre famiglie a un'ora di distanza da noi, abbiamo attrezzato l’auto con una lettiera improvvisata in una scatola delle scarpe e abbiamo iniziato a portare Sakè con noi in quelle uscite e nelle altre avventure fuoriporta. Sarebbe stato possibile vivere le nostre avventure on the road estive anche con lui? L'avremmo scoperto di lì a pochi mesi, fino a decidere di trasformare le nostre vite e andare a vivere su di un van.
 
 Curioso? 
 Scopri di più in questo video! 

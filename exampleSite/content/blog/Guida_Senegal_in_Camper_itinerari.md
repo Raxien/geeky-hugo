@@ -78,7 +78,7 @@ Da qui in poi avremmo potuto scegliere fra due possibilità: attraversare la Gam
 
 **{{< underline "Giorno 14" >}}**: in mattinata abbiamo raggiunto Cap Skirring, cambiato i soldi nell'unica banca presente, comprato angurie nel parcheggio dell'aeroporto, caricato l'acqua in un piccolo camping (contrattando per 1400 F, 2.15 euro, anziché 4000 F richiesti), mentre nel pomeriggio abbiamo raggiunto a piedi lungo la spiaggia il confine segnato sulla mappa con la Guinea, oltrepassandolo in linea d'aria.
 
-**{{< underline "Giorno 15" >}}**: innamorati del posto e della gente del luogo abbiamo fatto il primo bagno dell'anno nell'oceano, insieme a un ragazzo di nome Ibu, imparando parole in dialetto e scoprendo pià dettagli sulla cultura del posto, mentre le numerose zanzare e i 43 gradi a bordo senza possibilità di grandi zone d'ombra, iniziavano a farci pensare di doverci spostare, anche per tutelare Olimpia e Sakè, i nostri animali. 
+**{{< underline "Giorno 15" >}}**: innamorati del posto e della gente del luogo abbiamo fatto il primo bagno dell'anno nell'oceano, insieme a un ragazzo di nome Ibu, imparando parole in dialetto e scoprendo più dettagli sulla cultura del posto, mentre le numerose zanzare e i 43 gradi a bordo senza possibilità di grandi zone d'ombra, iniziavano a farci pensare di doverci spostare, anche per tutelare Olimpia e Sakè, i nostri animali. 
 
 **{{< underline "Giorno 16" >}}**: in mattinata siamo andati a vedere i famosi Fromager (alberi altissimi e dal tronco sottile ma molto particolare) della vicina Diembering, poi abbiamo cucinato il pesce pescato per noi da Ibu a bordo del van e in serata ne abbiamo approfittato per salutare definitivamente lui e i nostri vicini di casa, una famigliola francese con cui abbiamo piacevolmente chiacchierato ogni giorno. 
 
@@ -101,7 +101,7 @@ Pulito, con servizi e docce a disposizione, carico dell'acqua limitato, Wi-Fi ut
 
 **{{< underline "Giorno 24" >}}**: da Yene abbiamo raggiunto lo Zebrabar vicino a Saint Louis (attenzione all'ultimo tratto di strada, noi ci siamo insabbiati!).
 
-**{{< underline "Giorno 25" >}}**: abbiamo raggiunto la dogana di Diama alle 16.30, svolgendo le pratiche di uscita in modo rapido e senza problemi. Tenete con voi i franchi senegalesi giusti per pagare sbarre e dogane in quanto non accettano euro (possibilità di cambiare i sefa residui alla frontiera con il Marocco). Abbiamo dormito nel parco nazionale di Dwailing avantaggiandoci per attraversare la Mauritania in un giorno solo. 
+**{{< underline "Giorno 25" >}}**: abbiamo raggiunto la dogana di Diama alle 16.30, svolgendo le pratiche di uscita in modo rapido e senza problemi. Tenete con voi i franchi senegalesi giusti per pagare sbarre e dogane in quanto non accettano euro (possibilità di cambiare i sefa residui alla frontiera con il Marocco). Abbiamo dormito nel parco nazionale di Dwailing avvantaggiandoci per attraversare la Mauritania in un giorno solo. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854092/Articoli/Senegal/Senegal_Bandiera_runzga.jpg" >}}
 
@@ -176,9 +176,9 @@ La seconda è quella che abbiamo attraversato noi. La strada per raggiungerla no
 
 Lungo il percorso ci sono alcune tasse obbligatorie: quelle relative all'uscita dalla Mauritania (le trovi dettagliate nell'articolo in merito) e quella che si paga per attraversare semplicemente un piccolo ponte alla cifra di 800 oug o 8 euro, utile per farsi alzare una sbarra (non si può contrattare e se si prova si ottiene come risposta "allora tornate in Mauritania")
 
-Consigli: se vUOIprocedere in autonomia non daRe i passaporti a nessuno tranne che ai doganieri. Alla frontiera è pieno di persone che cercheranno di prendere i tuoi preziosi documenti per occuparsi di tutte le pratiche. Se non fai attenzione (e non contratti subito) alla fine ti chiederanno un sacco di soldi. Procurati delle fotocopie dei passaporti e libretto di circolazione. Tolto quando espressamente richiesto dal doganiere cerca di dare sempre la fotocopia. 
+Consigli: se vuoi procedere in autonomia non dare i passaporti a nessuno tranne che ai doganieri. Alla frontiera è pieno di persone che cercheranno di prendere i tuoi preziosi documenti per occuparsi di tutte le pratiche. Se non fai attenzione (e non contratti subito) alla fine ti chiederanno un sacco di soldi. Procurati delle fotocopie dei passaporti e libretto di circolazione. Tolto quando espressamente richiesto dal doganiere cerca di dare sempre la fotocopia. 
 
-A questo punto ti troverai davanti due edifici. Vai in quello di destra per ottenere il visto. E' gratuitoto con il passaporto italiano ed è un passaggio abbastanza veloce. Giusto il tempo di prendere le impronte e scattare una fotografia con una webcam.
+A questo punto ti troverai davanti due edifici. Vai in quello di destra per ottenere il visto. E' gratuito con il passaporto italiano ed è un passaggio abbastanza veloce. Giusto il tempo di prendere le impronte e scattare una fotografia con una webcam.
 Nell'edificio a sinistra, invece, puoi sbrigare tutte le faccende relative al mezzo. Qui esistono varie possibilità che dipendono dall'età del mezzo o dal fatto che tu abbia o meno il **Carnet du passage** (trovi maggiori informazioni in merito a questo documento sul sito dell'{{< extLink "ACI" "https://www.aci.it/il-club/soci-in-viaggio/per-chi-va-allestero/carnet-de-passages-en-douane.html">}}).
 
 Partiamo dal caso in cui tu sia in possesso del **Carnet du passage** (CdP da ora in poi). Ti viene fornito un documento che ti permetterà di girare sul suolo temporaneamente per 3 o 5 giorni (e se siete fortunati 10!), per poi raggiungere la dogana a Dakar e ottenere il timbro che ti permette di poter stare 3 mesi sul territorio senza problemi. Non è possibile rinnovarlo.
@@ -249,7 +249,7 @@ In tutte le città aspettati di trovare sovente un'unica arteria asfaltata, ment
 Noi abbiamo quasi sempre percorso la N1, una sorta di statale abbastanza ben mantenuta, e un tratto di autostrada nei pressi di Dakar.
 Prestate molta molta attenzione al gran numero di animali selvatici (asini, mucche, cavalli, capre, cani e scimmie) che attraverseranno la strada in ogni dove e in ogni quando. 
 Il senso di precedenza è abbastanza aleatorio, sia negli incroci che nelle rotonde. 
-Sovente quancuno ti supererà da destra e sinistra, magari a bordo di un motorino senza casco e trasportando più di tre persone. 
+Sovente qualcuno ti supererà da destra e sinistra, magari a bordo di un motorino senza casco e trasportando più di tre persone. 
 Alcuni pulmini adibiti a taxi spesso trasportano persone sul tettuccio o semplicemente aggrappate alla carrozzeria posteriore, e non saprai quando e se davvero svolteranno perché le loro spie segnaletiche sono quasi sempre accese a intermittenza.
 
 Ti sconsigliamo vivamente di guidare di notte.
@@ -258,7 +258,7 @@ Sono frequenti i posti di blocco della polizia. Nel nord soprattutto cercheranno
 <div id="Speso"></div>
 
 ##### Quanto abbiamo speso
-Darve una cifra relativa al solo viaggio in Senegal è possibile, ma va contestualizzata all'interno dell'intero percorso perché arrivando via terra bisogna tener conto del prezzo del traghetto per arrivare in Africa, dei chilometri necessari per aattraversare il Marocco da nord a sud, del visto di ingresso per la Mauritania (da pagare due volte ovviamente se si effettua lo stesso percorso in risalita) e dei 750 chilometri per attraversarla. 
+Dare una cifra relativa al solo viaggio in Senegal è possibile, ma va contestualizzata all'interno dell'intero percorso perché arrivando via terra bisogna tener conto del prezzo del traghetto per arrivare in Africa, dei chilometri necessari per attraversare il Marocco da nord a sud, del visto di ingresso per la Mauritania (da pagare due volte ovviamente se si effettua lo stesso percorso in risalita) e dei 750 chilometri per attraversarla. 
 
 Sempre legato al fatto che abbiamo attraversato più stati del continente, non sappiamo dire il prezzo relativo all'assicurazione sanitaria solo per il Senegal, cifra che varia comunque in base alla compagnia scelta, al rischio pattuito e all'età dell'assicurato (noi per 3 mesi per due adulti di 33 anni in Marocco, Mauritania, Senegal e Gambia che non sapevamo se avremmo attraversato abbiamo speso in totale 528,78 euro con ViaggioSicuri).
 
