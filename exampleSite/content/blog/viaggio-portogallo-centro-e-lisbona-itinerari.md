@@ -13,7 +13,6 @@ Città con case dalle pareti colorate e onde dell'oceano indimenticabili anche s
 Vieni con noi alla scoperta di Lisbona e di tante altre piccole realtà del centro del Portogallo, in un roadtrip di 10 giorni da vivere in automobile o in campervan. 
 Se invece hai intenzione di visitare anche altre zone del paese ti rimandiamo [all'articolo generale](/blog/viaggio-portogallo-in-camper-itinerari/).
 
-
 ##### Itinerario
 
 - **{{< underline "Giorno 1 - Aveiro" >}}**:
@@ -22,8 +21,6 @@ Se invece hai intenzione di visitare anche altre zone del paese ti rimandiamo [a
  La città di Aveiro non si affaccia sull’oceano ma le due spiagge più belle nei dintorni di Aveiro sono Costa Nova, famosa per le sue caratteristiche casette di legno a righe colorate, e Praia de Barra, dove è possibile ammirare il faro più alto di tutto il Portogallo. Si trovano a soli 10 km dal centro città e nei mesi estivi si possono raggiungere con un bus diretto.
 
  {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683737087/IMG_0884_wbzgzm.jpg" >}}
-
-
 
 - **{{< underline "Giorno 2 - Coimbra" >}}**:
   
@@ -34,8 +31,6 @@ Se invece hai intenzione di visitare anche altre zone del paese ti rimandiamo [a
   Tomar, antica sede dell’Ordine dei Templari, ospita su di una collina sopra la città il Convento de Cristo, una delle più importanti opere rinascimentali in Portogallo. È un edificio davvero affascinante, con numerose cappelle, chiostri e cori, oltre a contenere al suo interno la Charola, l’originaria chiesa romanica costruita su imitazione del Sacro Sepolcro a Gerusalemme. Il prezzo del biglietto è di 6 €, comprensivi anche dei giardini che si affaciano sulla città. .Vi consigliamo di prendervi un paio d'ore per ammirare il {{< extLink "convento" "http://www.conventocristo.gov.pt/pt/index.php" >}}.
 
   {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683737118/IMG_1146_ektdmk.jpg" >}}
-
-
 
 - **{{< underline "Giorno 4 - Nazarè" >}}**:
   

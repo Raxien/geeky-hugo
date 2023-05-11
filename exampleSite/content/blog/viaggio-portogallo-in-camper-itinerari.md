@@ -11,9 +11,7 @@ draft: true
 
 Abbiamo visitato il Portogallo in camper con cane e gatto a dicembre 2022, in un periodo non molto battuto dal turismo e quindi con più facilità di trovare posto per la sosta (tieni presente che il campeggio libero è vietato in questo paese dal 2021!). Il clima non è stato dei più favorevoli, ma abbiamo comunque potuto ammirare luoghi bellissimi!
 Abbiamo deciso di suddividere gli itinerari in 4 regioni: il nord e Porto, il centro e Lisbona, la costa dell'Alentejo e il sud con l'Algarve. In questo articolo ti proponiamo le tappe e i consigli utili per visitare il paese anche in compagnia del tuo animale domestico, rimandandoti agli articoli specifici per i dettagli di ogni città o luogo da visitare.
-Vamos!
-
-
+**Vamos!**
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)
