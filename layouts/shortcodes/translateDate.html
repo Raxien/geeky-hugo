@@ -1,0 +1,35 @@
+<!-- shortcode traduce la data da inglese in italiano -->
+<!-- 
+  parametri
+  mese: il mese in inglese
+-->
+<!-- get param -->
+{{ $month:= (.Get 0) }}
+
+{{ if $month.contains "January" }}
+{{ replace $month "Junary" "Gennaio" }}
+{{ else if $month.contains "February" }}
+{{ replace $month "February" "Febbraio" }}
+{{ else if $month.contains "March" }}
+{{ replace $month "March" "Marzo" }}
+{{ else if $month.contains "April" }}
+{{ replace $month "April" "Aprile" }}
+{{ else if $month.contains "May" }}
+{{ replace $month "May" "Maggio" }}
+{{ else if $month.contains "June" }}
+{{ replace $month "June" "Giugno" }}
+{{ else if $month.contains "July" }}
+{{ replace $month "July" "Luglio" }}
+{{ else if $month.contains "August" }}
+{{ replace $month "August" "Agosto" }}
+{{ else if $month.contains "September" }}
+{{ replace $month "September" "Settembre" }}
+{{ else if $month.contains "October" }}
+{{ replace $month "October" "Ottobre" }}
+{{ else if $month.contains "November" }}
+{{ replace $month "November" "Novembre" }}
+{{ else if $month.contains "December" }}
+{{ replace $month "December" "Dicembre" }}
+{{ end }}
+  
+{{ $month }}
