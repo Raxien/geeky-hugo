@@ -20,14 +20,14 @@ Se invece hai intenzione di visitare o aggiungere nel tuo viaggio altre zone del
 
 - **{{< underline "Giorno 2 - Viana do Castelo" >}}**: 
   
-  Viana do Castelo è una delle più belle città del nord del Portogallo con il sui caratteristico centro storico, ricchissimo di eleganti palazzi storici. Il centro della vita cittadina è la pedonale Praça da República che ospita il vecchio municipio e una fontana rinascimentale in granito. A Viana do Castelo si può visitare anche la nave Gil Eannes, che portava aiuto medico ai pescherecci portoghesi che pescavano il baccalà. Altri siti da non perdere sono la Cattedrale, la Fortezza de Sao Tiago de Barba che permette di passeggiare lungo i suoi bastioni,l'Igreja de Misericordia e le sue meravigliose piastrelle decorative, considerate tra le più belle di tutto il Portogallo. 
-  Ciò che consigliamo di non perdere è il Monte de Santa Luzia, la collina che sorge alle spalle della città, che si può raggiungere con la funicolare oppure tramite due chilometri di strada in salita. Dall'alto si possono ammirare panorami incredibili e visitare il Santuario do Sagrado Coração de Jesus e le rovine di un villaggio fortificato. Ti auguriamo di trovare bel tempo, quando noi siamo saliti in cima ci ha avolti una fitta nebbia autunnale. 
+  Viana do Castelo è una delle più belle città del nord del Portogallo con il sui caratteristico centro storico, ricchissimo di eleganti palazzi storici. Il centro della vita cittadina è la pedonale Praça da República che ospita il vecchio municipio e una fontana rinascimentale in granito. A Viana do Castelo si può visitare anche la nave Gil Eannes, che portava aiuto medico ai pescherecci portoghesi che pescavano il baccalà. Altri siti da non perdere sono la Cattedrale, la Fortezza de Sao Tiago de Barba che permette di passeggiare lungo i suoi bastioni, l'Igreja de Misericordia e le sue meravigliose piastrelle decorative, considerate tra le più belle di tutto il Portogallo. 
+  Ciò che consigliamo di non perdere è il Monte de Santa Luzia, la collina che sorge alle spalle della città, che si può raggiungere con la funicolare oppure tramite due chilometri di strada in salita. Dall'alto si possono ammirare panorami incredibili e visitare il Santuario do Sagrado Coração de Jesus e le rovine di un villaggio fortificato. Ti auguriamo di trovare bel tempo, quando noi siamo saliti in cima ci ha avvolti una fitta nebbia autunnale. 
 
   {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683730703/IMG_0486_tdfzfo.jpg" >}}
 
 - **{{< underline "Giorno 3 - Braga" >}}**:
   
-  Braga è una delle città più antiche del Portogallo e nelle sue immediate vicinanze ha sede il santuario di Bom Jesus do Monte, circondato da uno splendido parco. Puoiraggiungerlo o tramite una monumentale scalinata a fisarmonica in granito con oltre 600 gradini, che ospita anche le tapep della Via Crucis, oppure tramite la funicolare del Bom Jesus, la più vecchia al mondo alimentata dalla forza dell’acqua. Noi abbiamo optato per salire con quest'ultima dato che diluviava e poi scendere tramite la scalinata. La vista panoramica dall'alto è magnifica. Il biglietto costa 1.50 singola corsa € e 2 € a/r e il percorso dura circa 5 minuti.
+  Braga è una delle città più antiche del Portogallo e nelle sue immediate vicinanze ha sede il santuario di Bom Jesus do Monte, circondato da uno splendido parco. Puoi raggiungerlo o tramite una monumentale scalinata a fisarmonica in granito con oltre 600 gradini, che ospita anche le tappe della Via Crucis, oppure tramite la funicolare del Bom Jesus, la più vecchia al mondo alimentata dalla forza dell’acqua. Noi abbiamo optato per salire con quest'ultima dato che diluviava e poi scendere tramite la scalinata. La vista panoramica dall'alto è magnifica. Il biglietto costa 1.50 singola corsa € e 2 € a/r e il percorso dura circa 5 minuti.
 
   {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683730625/IMG_0571_qmmtdr.jpg" >}}
 
@@ -62,3 +62,4 @@ Nel video qui sotto puoi vedere le nostre avventure nel Portogallo del Nord!
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
 
 {{< blogFooter "PT" "1" "0" >}}
+

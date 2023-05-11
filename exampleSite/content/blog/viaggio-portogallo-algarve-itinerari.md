@@ -9,7 +9,7 @@ type: featured
 draft: true
 ---
 
-L'Algarve è una delle mete più rinomate del turismo portoghese: questa regione è presa d'assalto d'estate, soprattutto dagli amanti del surf (non pensare di poter fare un bagnetto tranquillo perchè le acque sono tutt'altro che calde) e della natura, ma anche in inverno è meta di numerose persone che ne sfruttano il clima mite per "svernare".
+L'Algarve è una delle mete più rinomate del turismo portoghese: questa regione è presa d'assalto d'estate, soprattutto dagli amanti del surf (non pensare di poter fare un bagno tranquillo perché le acque sono tutt'altro che calde) e della natura, ma anche in inverno è meta di numerose persone che ne sfruttano il clima mite per "svernare".
 Le sue spiagge e scogliere sono davvero meravigliose e meritano una sosta in qualsiasi stagione. 
 Se vuoi visitare insieme a noi tutto il resto del paese ti rimandiamo [all'articolo generale](/blog/viaggio-portogallo-in-camper-itinerari/).
 
@@ -35,7 +35,7 @@ Se vuoi visitare insieme a noi tutto il resto del paese ti rimandiamo [all'artic
   Portimao è famosa per le spiagge di sabbia bianca e per le sue acque più calde e calme rispetto alle altre destinazioni dell'Algarve. Le due spiagge che noi abbiamo particolarmente amato sono: Praia do Alemão, raggiungibile anche tramite una bella passeggiata sulle scogliere e Praia dos Três Castelos, presa un po' più d'assalto dai turisti. 
   Non troppo distante da Portimao ti consigliamo Ferragudo, un piccolo borgo di pescatori dove il tempo sembra essersi fermato. Camminando tra stradine e scalinate si giunge alla chiesa di Igreia da Nossa Senhora da Conceicão, dalla quale puoi ammirare un bellissimo panorama.
   
-  Poco più a sud trovi Carvoeiro, un pittoresco villaggio preso d'assalto in estate da tutte le tipologie di turisti. La piccola spiaggia affacciata sulla piazza del paese è sabbiosa e circondata da scogliere. Tutta la costa della zona di Carvoeiro si alterna fra scogliere, grotte e calette, da esplorare con gite in barca private o in gruppo. Un'escursione molto bella potrebbe essere quella diretta alle grotte di Benagil.Noi abbiamo passeggiato lungo la Passerella Carvoeiro, che si estende dal centro di Carvoeiro e ragala splendidi scorci sulla costa. 
+  Poco più a sud trovi Carvoeiro, un pittoresco villaggio preso d'assalto in estate da tutte le tipologie di turisti. La piccola spiaggia affacciata sulla piazza del paese è sabbiosa e circondata da scogliere. Tutta la costa della zona di Carvoeiro si alterna fra scogliere, grotte e calette, da esplorare con gite in barca private o in gruppo. Un'escursione molto bella potrebbe essere quella diretta alle grotte di Benagil. Noi abbiamo passeggiato lungo la Passerella Carvoeiro, che si estende dal centro di Carvoeiro e ragala splendidi scorci sulla costa. 
 
    {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683757921/IMG_3359_nz6q5e.jpg" >}}
 
@@ -73,7 +73,7 @@ L'Algarve è una regione che, se vissuta on the road, secondo noi offre scorci d
 
 ##### Il nostro Vlog 
 
-Vuoi rivivere le nostre avventure on the road in Portogallo? Trovi tutta la playlist {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.
+Vuoi rivivere le nostre avventure on the road in Portogallo? Trovi tutta la playlist {{< extLink "a questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ9fxLqD_0GFKVZBwnHQiM4I" >}}.
 
 
 
@@ -86,3 +86,4 @@ Vuoi rivivere le nostre avventure on the road in Portogallo? Trovi tutta la play
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
 
 {{< blogFooter "PT" "1" "0" >}}
+
