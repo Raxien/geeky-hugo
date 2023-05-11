@@ -10,7 +10,7 @@ draft: false
 ---
 
 Visitare la Bretagna in camper, van o auto vuol dire ammirare panorami mozzafiato e per noi è diventata una meta che consideriamo **{{< bold "imperdibile" >}}**. Vuoi qualche consiglio su come visitare questa regione francese on the road? In questo articolo ti racconteremo la nostra esperienza vissuta nel settembre 2022. 
-Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tappe [qui](/blog/guida_normandia_in_camper_itinerari/).
+Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tappe [qui](/blog/viaggio-francia-normandia-in-camper-itinerari/).
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)

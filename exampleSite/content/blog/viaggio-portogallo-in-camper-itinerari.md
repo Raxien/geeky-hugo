@@ -28,7 +28,7 @@ Vamos!
 ##### Itinerario
 Le tappe che ti elenchiamo sono state tutte raggiunte a bordo del nostro van 5.40, ma puoi effettuarle anche a bordo di un'automobile o con un mezzo più grande. 
 
-[**{{< underline "IL NORD E PORTO " >}}**:](/blog/guida_portogallo_nord_e_porto.itinerari/)
+[**{{< underline "IL NORD E PORTO " >}}**:](/blog/viaggio-portogallo-del-nord-e-porto-informazioni-e-itinerari/)
 
 - Valenca
 - Viana do Castelo
@@ -36,7 +36,7 @@ Le tappe che ti elenchiamo sono state tutte raggiunte a bordo del nostro van 5.4
 - Porto
 
 
-[**{{< underline "DA AVEIRO A LISBONA" >}}**:](/blog/guida_portogallo_centro_e_lisbona.itinerari/)
+[**{{< underline "DA AVEIRO A LISBONA" >}}**:](/blog/viaggio-portogallo-centro-e-lisbona-itinerari/)
 
 - Aveiro 
 - Coimbra
@@ -52,7 +52,7 @@ Le tappe che ti elenchiamo sono state tutte raggiunte a bordo del nostro van 5.4
 - Lisbona
 
 
-[**{{< underline "L'ALENTEJO" >}}**:](/blog/guida_portogallo_alentejo.itinerari/)
+[**{{< underline "L'ALENTEJO" >}}**:](/blog/viaggio-portogallo-e-alentejo-itinerari/)
 
 - Alcacer do sal 
 - Sines 
@@ -62,7 +62,7 @@ Le tappe che ti elenchiamo sono state tutte raggiunte a bordo del nostro van 5.4
 - Bordeira
 
 
-[**{{< underline "L'ALGARVE" >}}**:](/blog/guida_portogallo_algarve.itinerari/)
+[**{{< underline "L'ALGARVE" >}}**:](/blog/viaggio-portogallo-algarve-itinerari/)
 
 - Sagres 
 - Lagos e Playa don camilo

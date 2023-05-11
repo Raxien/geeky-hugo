@@ -11,7 +11,7 @@ draft: true
 
 Città con case dalle pareti colorate e onde dell'oceano indimenticabili anche se non pratichi surf? 
 Vieni con noi alla scoperta di Lisbona e di tante altre piccole realtà del centro del Portogallo, in un roadtrip di 10 giorni da vivere in automobile o in campervan. 
-Se invece hai intenzione di visitare anche altre zone del paese ti rimandiamo [all'articolo generale](/blog/guida_portogallo_in_camper_itinerari/).
+Se invece hai intenzione di visitare anche altre zone del paese ti rimandiamo [all'articolo generale](/blog/viaggio-portogallo-in-camper-itinerari/).
 
 
 ##### Itinerario

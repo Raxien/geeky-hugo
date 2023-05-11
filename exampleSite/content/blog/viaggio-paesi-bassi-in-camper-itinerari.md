@@ -59,7 +59,7 @@ Poi ci siamo diretti alla città di Groninga (sosta in libera in periferia, lung
 
 **{{< underline "Giorno 12" >}}**: siamo tornati ad Alkmaar assaggiando per pranzo i tipici kibbeling, pezzetti di merluzzo fritti in pastella. Poi ci siamo spostati a Volendam, un piccolo paesino portuale con pochi passanti, qualche bicicletta, case ordinate e curate che si affacciano sul canale. L'ultimo stop in compagnia di Davide è stata la vicina isola di Marken, che si può raggiungere via traghetto o in auto attraversando una striscia di terra. Il centro è pedonale e riservato ai residenti e il tempo qui sembra essersi fermato a 50 anni fa. Oltrepassato un porticciolo, abbiamo camminato sui ciottoli ammirando la natura circostante. Nel tardo pomeriggio abbiamo raggiunto Amsterdam, parcheggiando per la notte a NDSM Wharf, un quartiere hypster in evoluzione, decorato da murales e con una buona offerta di locali serali.
 
-**{{< bold "Vuoi scoprire cosa abbiamo visitato a Amsterdam in 2 giorni?" >}}**:Vuoi scoprire cosa abbiamo visitato a Amsterdam in 2 giorni? Clicca [qui](/blog/guida_amsterdam_in_camper_itinerari/).
+**{{< bold "Vuoi scoprire cosa abbiamo visitato a Amsterdam in 2 giorni?" >}}**:Vuoi scoprire cosa abbiamo visitato a Amsterdam in 2 giorni? Clicca [qui](/blog/viaggio-amsterdam-tre-tappe-imperdibili/).
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683208294/IMG_1448_axxzm5.jpg" >}}
 

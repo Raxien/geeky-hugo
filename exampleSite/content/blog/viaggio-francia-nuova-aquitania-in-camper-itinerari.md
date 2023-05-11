@@ -9,7 +9,7 @@ type: regular
 draft: false
 ---
 
-Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati sulla costa atlantica del sud della Francia. Siamo arrivati in questa regione dopo aver visitato la [Normandia](/blog/guida_normandia_in_camper_itinerari/) e la [Bretagna](/blog/guida_bretagna_in_camper_itinerari/) e siamo stati felicissimi di scoprire queste zone fino a raggiungere il capoluogo Bordeaux per poi dirigerci a Bayonne e Biarritz. 
+Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati sulla costa atlantica del sud della Francia. Siamo arrivati in questa regione dopo aver visitato la [Normandia](/blog/viaggio-francia-normandia-in-camper-itinerari/) e la [Bretagna](/blog/viaggio-francia-bretagna-in-camper-itinerari/) e siamo stati felicissimi di scoprire queste zone fino a raggiungere il capoluogo Bordeaux per poi dirigerci a Bayonne e Biarritz. 
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)

@@ -11,7 +11,7 @@ draft: true
 
 L'Algarve è una delle mete più rinomate del turismo portoghese: questa regione è presa d'assalto d'estate, soprattutto dagli amanti del surf (non pensare di poter fare un bagnetto tranquillo perchè le acque sono tutt'altro che calde) e della natura, ma anche in inverno è meta di numerose persone che ne sfruttano il clima mite per "svernare".
 Le sue spiagge e scogliere sono davvero meravigliose e meritano una sosta in qualsiasi stagione. 
-Se vuoi visitare insieme a noi tutto il resto del paese ti rimandiamo [all'articolo generale](/blog/guida_portogallo_in_camper_itinerari/).
+Se vuoi visitare insieme a noi tutto il resto del paese ti rimandiamo [all'articolo generale](/blog/viaggio-portogallo-in-camper-itinerari/).
 
 
 ##### Itinerario

@@ -18,8 +18,6 @@ La storia narra che venne anche appeso un piccolo topo con addosso un mantello s
 
 ![Un gatto in una città di gatti](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1655735465/Articoli/IL_PAESE_DEI_GATTI__1.2_x4uzgk.jpg)
 
-
-
 #### I gatti come simbolo tra arte e curiosità
 
 Come dicevamo è impossibile non fermarsi a caccia delle raffigurazioni. Entrando in paese e proseguendo fino a una piccola piazzetta con parcheggi e una piccola locanda, si trovano una statua raffigurante un gatto che osserva il Lago d’Orta spuntare fra i tetti sottostanti, e una serie di panetti di cemento anch’essi decorati con immagini di gatti. 

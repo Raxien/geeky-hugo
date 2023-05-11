@@ -10,7 +10,7 @@ draft: false
 ---
 
 Stai pensando di visitare la Polonia ma non sai da dove iniziare?
-Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese oltre a un consiglio su un possibile itinerario in breve. Se invece ti interessa scoprire il nostro itinerario on the road ti rimandiamo all'articolo dedicato che trovi [qui](/blog/guida_polonia_in_camper_itinerari/).
+Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese oltre a un consiglio su un possibile itinerario in breve. Se invece ti interessa scoprire il nostro itinerario on the road ti rimandiamo all'articolo dedicato che trovi [qui](/blog/viaggio-polonia-in-camper-itinerari/).
 
 > ##### Tabella dei contenuti
 > - [Il Paese](#il-paese) 
@@ -102,7 +102,7 @@ Il campeggio libero in Polonia non è consentito, ma è permessa la sosta in aut
 
 ##### Itinerari
 In questa sezione, basata sulla nostra esperienza di un mese nel paese, ti proponiamo un itinerario che puoi compiere con i mezzi pubblici.
-Se vuoi invece raggiungere il paese in camper o rivivere le nostra avventura, a questo [link](/blog/Guida_Polonia_in_Camper_itinerari/) abbiamo ricreato un piccolo diario giornaliero segnalando in un capitolo finale i luoghi che secondo noi meritano maggiormente. 
+Se vuoi invece raggiungere il paese in camper o rivivere le nostra avventura, a questo [link](/blog/viaggio-polonia-in-camper-itinerari/) abbiamo ricreato un piccolo diario giornaliero segnalando in un capitolo finale i luoghi che secondo noi meritano maggiormente. 
 
 <div id="Itinerario1"></div>
 

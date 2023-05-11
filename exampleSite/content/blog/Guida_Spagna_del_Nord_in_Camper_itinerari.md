@@ -9,7 +9,7 @@ type: regular
 draft: false
 ---
 
-Spagna del Nord in 15 giorni affacciati sulla costa? Per noi è stato un viaggio bellissimo, attraversando 4 regioni (Paesi Baschi, Cantabria, Asturie e Galizia), panorami mozzafiato e alcune mete davvero imperdibili! Arrivavamo direttamente dalla [Francia](/blog/guida_nuova_aquitania_in_camper_itinerari/) e nonostante un primo impatto con le persone non troppo accoglienti come in altre zone spagnole, abbiamo trovato un clima abbastanza favorevole nonostante fosse novembre e luoghi che ci sono rimasti nel cuore. 
+Spagna del Nord in 15 giorni affacciati sulla costa? Per noi è stato un viaggio bellissimo, attraversando 4 regioni (Paesi Baschi, Cantabria, Asturie e Galizia), panorami mozzafiato e alcune mete davvero imperdibili! Arrivavamo direttamente dalla [Francia](/blog/viaggio-francia-nuova-aquitania-in-camper-itinerari/) e nonostante un primo impatto con le persone non troppo accoglienti come in altre zone spagnole, abbiamo trovato un clima abbastanza favorevole nonostante fosse novembre e luoghi che ci sono rimasti nel cuore. 
 Ti va di leggere cosa abbiamo da consigliare? Promettiamo mete meravigliose! 
 
 
