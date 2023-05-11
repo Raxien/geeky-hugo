@@ -10,8 +10,8 @@ draft: false
 ---
 
 In questo articolo ti porteremo con noi alla scoperta della Normandia, regione francese che adoriamo e che abbiamo visitato sia in auto sia in van. Pronto a scoprire paesini fiabeschi e spiagge ricche di storia? Non senza entrare in una boulangerie e uscire con una baguette sotto braccio :)
-Se la tua idea è quella di visitare la Normandia insieme alla Bretagna, ti rimandiamo all'[articolo](/blog/guida_bretagna_in_camper_itinerari/) in merito così da poter unire i due itinerari. 
-Ti consigliamo di anche dare un'occhiata anche a un paio di mete nell'[Alta Francia](/blog/guida_alta_francia_in_camper_itinerari/)!
+Se la tua idea è quella di visitare la Normandia insieme alla Bretagna, ti rimandiamo all'[articolo](/blog/viaggio-francia-bretagna-in-camper-itinerari/) in merito così da poter unire i due itinerari. 
+Ti consigliamo di anche dare un'occhiata anche a un paio di mete nell'[Alta Francia](/blog/viaggio-francia-alta-francia-in-camper-itinerari/)!
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)

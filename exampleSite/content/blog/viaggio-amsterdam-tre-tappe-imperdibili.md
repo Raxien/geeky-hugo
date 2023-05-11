@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683208317/IMG
 date: 2023-04-26T17:00:00.000
 categories: ["Europa", "Guida", "Animali", "Itinerari"]
 country: Paesi Bassi
-type: featured
+type: regular
 draft: false
 ---
 
@@ -37,7 +37,7 @@ Vuoi leggere ogni attimo della nostra avventura vissuta in città insieme a Olim
 
 **{{< underline "Giorno 2" >}}**: in una lenta e uggiosa domenica mattina abbiamo deciso di tornare a passeggiare per i canali di Amsterdam. Se a differenza nostra sai con precisione le date del tuo viaggio, ti consigliamo di prenotare in anticipo i biglietti per la casa museo di Anna Frank (sono acquistabili solo online e di solito si esauriscono a inizio mese, clicca qui per prenotare in tempo!). Abbiamo quindi gironzolato senza una meta precisa per la città, facendoci rapire da alcuni dettagli come un lampadario creato con un cavallo bianco a testa in giù. Sempre al Jordaan abbiamo fatto una piacevole scoperta: un piccolo museo (Met Muizenhuis). Immaginate un intero villaggio in miniatura che risale lungo una parete principale, mostrando interni di attività e abitazioni, popolate da topolini, tutti diversi, tutti protagonisti. Su di un’altra parete del locale sono esposte le copertine di libri tradotti in lingue diverse e proseguendo nella seconda stanza si trova una città affacciata sui canali in miniatura, ovviamente popolata dai simpatici animaletti. L'artista aveva iniziato a creare i primi personaggi nel salotto di casa. Davanti a quella finestra senza tende si affacciavano tutti i bambini, ma anche gli adulti, a cercare di capire la storia di quei personaggi, a studiarne l’evoluzione, a chiedere ancora nuovi particolari. Mese dopo mese la costruzione divenne alta 3 metri, tanto ricca da essere esposta nella biblioteca cittadina. Visto il successo riscontrato, l'artista iniziò a scrivere delle storie di ognuna di queste stanza e dei vari personaggi, che vennero tradotte nelle lingue di tantissimi paesi. Siamo usciti dal negozio museo felici come bambini, con una cartolina ricordo da appendere nel van. Dopo pranzo abbiamo deciso di curiosare un po’ meglio il quartiere in cui alloggiavamo e, complice il maltempo, siamo entrati al museo Straat che ospita opere di street-art dai dettagli unici. Alcune sono maestose e talmente ricche di particolari da sembrare delle fotografie. Una visita davvero interessante. 
 
-Se vuoi sapere di più sulle nostre avventure in tutto il paese trovi l'articolo dedicato [qui](/blog/guida_olanda_in_camper_itinerari/).
+Se vuoi sapere di più sulle nostre avventure in tutto il paese trovi l'articolo dedicato [qui](/blog/viaggio-paesi-bassi-in-camper-itinerari/).
 
 
 ##### Mezzi di trasporto pubblici 
@@ -61,6 +61,6 @@ Nel video qui sotto puoi camminare per le vie di Amsterdam insieme a noi oppure 
 {{< youtube dDNv8ZuuvEU>}}
 
 <!-- ##### Le nostre mappe -->
-<!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} --> -->
+<!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} --> 
 
 {{< blogFooter "O" "1" "0" >}}

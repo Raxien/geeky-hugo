@@ -10,7 +10,7 @@ draft: true
 ---
 
 In questo articolo ti portiamo con noi alla scoperta di Porto e di altre tre cittadine del Portogallo del Nord, che noi abbiamo raggiunto a bordo del nostro van. Puoi prendere in considerazione questo itinerario anche se decidi di affittare un'automobile arrivando a Porto in aereo. 
-Se invece hai intenzione di visitare o aggiungere nel tuo viaggio altre zone del paese ti rimandiamo [all'articolo generale](/blog/guida_portogallo_in_camper_itinerari/).
+Se invece hai intenzione di visitare o aggiungere nel tuo viaggio altre zone del paese ti rimandiamo [all'articolo generale](/blog/viaggio-portogallo-in-camper-itinerari/).
 
 
 ##### Itinerario

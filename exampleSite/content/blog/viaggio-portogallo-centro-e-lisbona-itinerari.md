@@ -10,8 +10,8 @@ draft: true
 ---
 
 Città con case dalle pareti colorate e onde dell'oceano indimenticabili anche se non pratichi surf? 
-Vieni con noi alla scoperta di Lisbona e di tante altre piccole realtà del centro del Portogallo, in un road trip di 10 giorni da vivere in automobile o in campervan. 
-Se invece hai intenzione di visitare anche altre zone del paese ti rimandiamo [all'articolo generale](/blog/guida_portogallo_in_camper_itinerari/).
+Vieni con noi alla scoperta di Lisbona e di tante altre piccole realtà del centro del Portogallo, in un roadtrip di 10 giorni da vivere in automobile o in campervan. 
+Se invece hai intenzione di visitare anche altre zone del paese ti rimandiamo [all'articolo generale](/blog/viaggio-portogallo-in-camper-itinerari/).
 
 
 ##### Itinerario
@@ -31,7 +31,7 @@ Se invece hai intenzione di visitare anche altre zone del paese ti rimandiamo [a
 
 - **{{< underline "Giorno 3 - Tomar" >}}**:
   
-  Tomar, antica sede dell’Ordine dei Templari, ospita su di una collina sopra la città il Convento de Cristo, una delle più importanti opere rinascimentali in Portogallo. È un edificio davvero affascinante, con numerose cappelle, chiostri e cori, oltre a contenere al suo interno la Charola, l’originaria chiesa romanica costruita su imitazione del Sacro Sepolcro a Gerusalemme. Il prezzo del biglietto è di 6 €, comprensivi anche dei giardini che si affacciano sulla città. .Vi consigliamo di prendervi un paio d'ore per ammirare il {{< extLink "convento" "http://www.conventocristo.gov.pt/pt/index.php" >}}.
+  Tomar, antica sede dell’Ordine dei Templari, ospita su di una collina sopra la città il Convento de Cristo, una delle più importanti opere rinascimentali in Portogallo. È un edificio davvero affascinante, con numerose cappelle, chiostri e cori, oltre a contenere al suo interno la Charola, l’originaria chiesa romanica costruita su imitazione del Sacro Sepolcro a Gerusalemme. Il prezzo del biglietto è di 6 €, comprensivi anche dei giardini che si affaciano sulla città. .Vi consigliamo di prendervi un paio d'ore per ammirare il {{< extLink "convento" "http://www.conventocristo.gov.pt/pt/index.php" >}}.
 
   {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683737118/IMG_1146_ektdmk.jpg" >}}
 
@@ -69,7 +69,7 @@ Se invece hai intenzione di visitare anche altre zone del paese ti rimandiamo [a
   Sintra ha forse più fama che meraviglie da mostrare. E' sì caratterizzata da un fascino singolare, ma vuoi per colpa forse delle aspettative o della scarsa manutenzione delle sue opere cittadine, a noi ha lasciato l'amaro in bocca. La visita di ognuna delle attrazioni è veramente costosa, oltre al fatto che si pagano anche profumatamente i mezzi pubblici che collegano i vari monumenti. 
   Per questo motivo noi abbiamo preferito visitare solamente il Palacio Nacional de Sintra (10 €), un palazzo reale medievale con numerose sale interne e un’impressionante collezione di azulejos, in particolare quelli che rivestono le pareti della Sala das Sereias dedicata alle Sirene. Anche la Sala dei Blasoni è degna di nota, grazie al soffitto a cassettoni con i blasoni delle 74 famiglie nobili del Portogallo.
   Gli altri palazzi visitabili sono: il Palácio da Pena, un castello fiabesco dalle pareti color giallo, rosa e violetto, arroccato in cima a una collina da cui si gode una vista mozzafiato sull’oceano, e il giardino con l'omonimo nome (noi abbiamo optato per una visita solo di questa parte ammirando l'esterno del castello); la Quinta do Regaleira , imponente villa ottocentesca; il Convento dos Capuchos (o Convento del Sughero) ricoperto internamente da sughero per riparare i monaci dalla perenne umidità della zona; il Parque de Monserrate che racchiude un museo botanico, giardini esotici con specchi d’acqua, stagni, cascate, cappelle e sentieri pittoreschi. 
-  Avrai capito che puoi impiegare mezza giornata o 4 giorni interi per vedere questa città. Se ti servono più informazioni puoi trovarle {{< extLink "qui" "https://www.visitportugal.com/it/content/scoprire-sintra" >}}.
+  Avrai capito che puoi impiegare mezza giornata o 4 giorni interi per vedere questa città. Se ti servono più informazioni puoi trovarle {{< extLink "qui" "https://www.visitportugal.com/it/content/scoprire-sintra" >}}
 
 
 - **{{< underline "Giorno 10 - Lisbona" >}}**:
@@ -95,7 +95,7 @@ Se ti avanza un po' di tempo potresti raggiungere la vicina Cascais, cittadina m
 ##### Il nostro Vlog 
 
 Vuoi salire a bordo del van con noi? 
-Puoi trovare la serie completa delle nostre avventure in Portogallo {{< extLink "a questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ9fxLqD_0GFKVZBwnHQiM4I" >}}.
+Puoi trovare la serie completa delle nostre avventure in Portogallo {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.
 
 <!-- <div id="Mappe"></div> -->
 
@@ -105,4 +105,3 @@ Puoi trovare la serie completa delle nostre avventure in Portogallo {{< extLink 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
 
 {{< blogFooter "PT" "1" "0" >}}
-

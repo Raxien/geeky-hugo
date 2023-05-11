@@ -10,7 +10,7 @@ draft: true
 ---
 
 L'Alentejo solitamente non è una delle mete di prima scelta quando si pensa al Portogallo. Eppure questa zona è costellata di piccoli paesini e ricca di natura, ideale per chi cerca un po' più di pace rispetto alla più turistica regione dell'Algarve. In questo articolo ti elenchiamo le mete che abbiamo raggiunto seguendo solamente la costa atlantica a bordo del nostro van.
-Se invece hai intenzione di visitare Porto o Lisbona o l'Algarve ti rimandiamo [all'articolo generale](/blog/guida_portogallo_in_camper_itinerari/).
+Se invece hai intenzione di visitare Porto o Lisbona o l'Algarve ti rimandiamo [all'articolo generale](/blog/viaggio-portogallo-in-camper-itinerari/).
 
 
 ##### Itinerario
