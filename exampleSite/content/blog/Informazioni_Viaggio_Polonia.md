@@ -33,7 +33,7 @@ La Polonia ha un ricco patrimonio culturale e storico ed è conosciuta per la su
 
 Sono presenti numerosi parchi nazionali e riserve naturali, tra cui i monti Tatra, le foreste di Białowieża e le dune di sabbia di Slowinski. Questi luoghi offrono una grande varietà di attività all'aperto, come escursioni, sci, mountain bike e canoa.
 
-Il polacco è la lingua ufficiale ma la maggioranza della popolazione parla motlo bene l'inglese.
+Il polacco è la lingua ufficiale ma la maggioranza della popolazione parla molto bene l'inglese.
 
 ##### Clima e quando andare
 La Polonia ha un clima temperato continentale, con inverni freddi e estati calde. Le temperature medie invernali variano tra -6°C e -1°C, mentre le temperature medie estive si aggirano intorno ai 19°C. Tuttavia, le temperature possono raggiungere i 30°C durante le ondate di calore estive.
@@ -95,7 +95,7 @@ In Polonia ci sono molte opzioni di alloggio, per tutti i budget, tra cui hotel,
 
 Consigliamo di prenotare in anticipo durante i periodi di alta stagione per garantirsi la disponibilità delle sistemazioni preferite.
 
-Il campeggio libero in Polonia non è consentito, ma è permessa la sosta in auto. Motivo per cui noi non abbiamo mai avuto problemi a dormire in libera, nel pieno rispetto dell’abiente che ci circondava. In ogni caso sono presenti numerosi campeggi che offrono anche numerose escursioni.
+Il campeggio libero in Polonia non è consentito, ma è permessa la sosta in auto. Motivo per cui noi non abbiamo mai avuto problemi a dormire in libera, nel pieno rispetto dell’ambiente che ci circondava. In ogni caso sono presenti numerosi campeggi che offrono anche numerose escursioni.
 
 ##### Viaggiare con il proprio animale
 {{< animali "EU">}}
@@ -107,7 +107,7 @@ Se vuoi invece raggiungere il paese in camper o rivivere le nostra avventura, a 
 <div id="Itinerario1"></div>
 
 ###### 7 Giorni
-Ecco un possibile itinerario di 7 giorni in Polonia con partenza dall'aeroporto di Cracovio e rientro da Wrocław (Bratislava).
+Ecco un possibile itinerario di 7 giorni in Polonia con partenza dall'aeroporto di Cracovia e rientro da Wrocław (Bratislava).
 
 **{{< underline "Giorno 1" >}}** Arrivo a Cracovia. Primo approccio alla città partendo dalla città vecchia e del quartiere ebraico Kazimierz.
 

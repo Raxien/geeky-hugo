@@ -10,9 +10,9 @@ type: regular
 ---
 Stai pensando di visitare il lago di Braies e vuoi avventurarti insieme al tuo cane o gatto? 
 
-Prima di raccontarti la nostra avventura ti segnaliamo un paio di informazioni utili, soprattutto in caso di visita estiva: dato il sovraffolamento di turismo, dal 2022 nei mesi estivi dalle ore 09.30 alle 16.00 la Valle di Braies è raggiungibile solo mediante mezzi pubblici, a piedi e in bici. Il transito con mezzi privati è consentito solo previa prenotazione del parcheggio o con esibizione di un valido permesso di transito (puoi trovare maggiori informazioni a questo [**sito**](https://www.prags.bz/it)).
+Prima di raccontarti la nostra avventura ti segnaliamo un paio di informazioni utili, soprattutto in caso di visita estiva: dato il sovraffollamento di turismo, dal 2022 nei mesi estivi dalle ore 09.30 alle 16.00 la {{< extLink "Valle di Braies" "https://www.braies.org" >}} è raggiungibile solo mediante mezzi pubblici, a piedi e in bici. Il transito con mezzi privati è consentito solo previa prenotazione del parcheggio o con esibizione di un valido permesso di transito ({{< extLink "qui puoi trovare maggiori informazioni" "https://www.prags.bz/it" >}}).
 
-![](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657873911/Articoli/Riva_del_lago_di_Braies.jpg)
+![Riva Lago di Braies](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657873911/Articoli/Riva_del_lago_di_Braies.jpg)
 
 #### In gita al lago di Braies con cane e gatto
 
@@ -41,8 +41,8 @@ Da qui partono una camminata verso un rifugio e altre più impegnative verso una
 
 Proseguendo lungo il perimetro inizia una parte di scalinate strette e in salita.
 
-Tornando verso l'ingresso noi ci siamo imbattuti in molte persone che facevano il giro al contrario, per cui potresti "scontrarvi" con altri cani all'improvviso. Presta attenzione, anche perchè molte persone hanno con sè i passeggini per i bambini, per cui alcuni passaggi possono risultare davvero stretti. Noi non abbiamo fatto indossare la museruola ad Olimpia, ma l'abbiamo tenuta sempre a portata di mano in caso di necessità per evitare nervosismi.
+Tornando verso l'ingresso noi ci siamo imbattuti in molte persone che facevano il giro al contrario, per cui potresti "scontrarvi" con altri cani all'improvviso. Presta attenzione, anche perché molte persone hanno con sè i passeggini per i bambini, per cui alcuni passaggi possono risultare davvero stretti. Noi non abbiamo fatto indossare la museruola ad Olimpia, ma l'abbiamo tenuta sempre a portata di mano in caso di necessità per evitare nervosismi.
 
 Evitando il sovraffolamento per noi è stata una gita decisamente divertente. Ti lasciamo un'immagine di questo bellissimo lago incastonato fra le montagne. Facci sapere nei commenti se l'hai già visitato o se in qualche modo ti abbiamo risvegliato la curiosità di andarci, magari insieme al tuo amico a quattro zampe :) 
 
-![](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657873913/Articoli/Lago_di_Braies.jpg)
+![Lago di Braies](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657873913/Articoli/Lago_di_Braies.jpg)

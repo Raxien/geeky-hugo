@@ -1,15 +1,16 @@
 ---
-title: 'Nuova Aquitania in camper con cane e gatto: itinerario, consigli e informazioni utili'
-description: "Alla scoperta della Nuova Aquitania in camper, lungo tutta la nosta atlantica del sud della Francia!"
+title: 'Andalusia in camper con cane e gatto: itinerario, consigli e informazioni utili'
+description: "Alla scoperta dell'Andalusia in camper, un viaggio on the road alla ricerca di luoghi ricchi di storia affacciati sulla costa"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Europa", "Animali", "Itinerari", "Camper"]
-country: Francia
-type: regular
-draft: false
+categories: ["Europa", "Guida", "Itinerario", "Camper"]
+type: featured
+draft: true
 ---
 
-Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati sulla costa atlantica del sud della Francia. Siamo arrivati in questa regione dopo aver visitato la [Normandia](/blog/guida_normandia_in_camper_itinerari/) e la [Bretagna](/blog/guida_bretagna_in_camper_itinerari/) e siamo stati felicissimi di scoprire queste zone fino a raggiungere il capoluogo Bordeaux per poi dirigerci a Bayonne e Biarritz. 
+Abbiamo visitato l'Andalusia nel gennaio 2023, in un periodo non molto battuto e quindi con più facilità di trovare posto per la sosta e con un clima decisamente più favorevole rispetto al caldo che può colpire queste zone in estate. Siamo arrivati in questa regione spagnola direttamente dal Portogallo e ci mancano ancora alcune tappe che faremo al nostro ritorno dal Marocco. Abbiamo amato alcune particolarità dell'Andalusia, mentre altre (soprattutto le località turistiche sulla costa) a noi non sono piaciute. In questo articolo non riporteremo tutto il nostro diario quotidiano dal momento che siamo stati un mese in questa regione per motivi lavorativi e familiari, ma ti porteremo comunque con noi da Siviglia a Granada, attraverso i caratteristici paesini bianchi, avventurandoci al Caminito del Rey, scoprendo luoghi storici inaspettati e bevendo una cerveza affacciati sulla costa. Vamos! 
+
+<!-- [Bretagna](/blog/guida_bretagna_in_camper_itinerari/)  per togliere poi command k u -->
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)
@@ -18,12 +19,45 @@ Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati s
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni e tappe imperdibili](#Considerazioni)
 > - [Viaggiare con il proprio animale](#Animali)
-> - [Il nostro vlog](#il-nostro-vlog)
-> - [Le nostre mappe](#le-nostre-mappe) 
+> - [Il nostro vlog](#Vlog)
+     <!-- - [Le nostre mappe](#Mappe) -->
 
 ##### Itinerario
-Vuoi visitare questa regione giorno dopo giorno insieme a noi? Abbiamo ricreato un piccolo diario giornaliero. 
+Le tappe che ti elenchiamo sono state tutte raggiunte a bordo del nostro van 5.40, ma puoi effettuarle anche se affitti un'automobile o con un mezzo più grande. Ti segnaliamo solo di prestare attenzione alla lunghezza del tuo camper se vuoi raggiungere Mijias Pueblo o il Caminito del Rey passando da Alora. 
+
 Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#Considerazioni).
+
+
+**{{< underline "Giorno 1" >}}**: come dicevamo noi abbiamo raggiunto l'Andalusia arrivando dal Portogallo, quindi la nostra prima meta è stata El Rochio, piccolo borgo caratteristico, immerso nel Parco Nazionale di Doñana, famoso per la Romeria del Rocio (che si celebra la Domenica di Pentecoste), quando diviene un luogo di pellegrinaggio nel quale si riuniscono un milione di devoti. Sosta in libera sulla costa. 
+
+**{{< underline "Giorno 2-3" >}}**: ci siamo spostati a Santiponce, a 15 km da Siviglia, per scoprire il centro archeologico romano di Italica e il Santuario di San Isidoro. Noi abbiamo apprezzato entrambi i siti, gratuiti da visitare. Al centro Italica Oil abbiamo fatto rifornimento di gasolio a un prezzo davvero conveniente. Poi ci siamo spostati a Siviglia, in un parcheggio gratuito a mezz'ora piedi dal centro città, che abbiamo subito raggiunto per passeggiare fra le sue vie attraversando il ponte dal quartiere Triana, per arrivare in Piazza di Spagna e ammirare ogni centimetro cubo della sua meravigliosa architettura. Ci siamo poi diretti all'Università, alla Cattedrale e alla Giralda perdendoci per le vie di Santa Cruz, all'Archivio generale delle Indie e ci siamo spostati al Setas per osservare da fuori la costruzione del centro commerciale e della sua passerella. Sosta in libera.
+L'indomani abbiamo di nuovo raggiunto a piedi il centro città o Casco Antiguo, visitando in mattinata l'Alcazar (per il quale ti consigliamo di comprare con anticipo i biglietti {{< extLink "qui" "https://www.realalcazarsevilla.com/it/?gad=1&gclid=CjwKCAjwxr2iBhBJEiwAdXECw6ZTR1OLYuZk3UlpHNtyKeQs5r9BTwV66jN8aULls91g5ioMEk8i_RoCNjcQAvD_BwE" >}}), il celebre palazzo reale con i suoi giardini, e perdendoci poi per le calle mangiando empanadas, prima di tornare al van e spostarci verso Chipiona. Era Capodanno e non volevamo avere problemi con i botti per i nostri animali! Notte affacciati sulla costa in libera. 
+
+**{{< underline "Giorno 4" >}}**: abbiamo visitato Chipiona per poi dirigerci verso Cadice. Per la notte abbiamo preferito un parcheggio un po' fuori città affacciato sulla costa. 
+
+**{{< underline "Giorno 5" >}}**: abbiamo visitato Cadice 
+01/01 vicini capodanno cagnotto piccolo chipiona
+02/01 Cadice 
+03/01 dentista Cadice 
+04/01 conil tramonto 
+05/01 persone a Los Reyes magos conil
+06/01 furgonetto a Vejer de la Frontera 5 in w e altri 
+07/01 playa bolonia 
+08/01 boelo Claudia e Fausto e moglie 
+09/01 Gianni vacante
+10/01 tarifa 
+11/01 ragazzi su funicolare e scimmie Gibilterra  
+12/01 mak playa sardina Marina e Maurizio cena da loro 
+13/01 Marina e Maurizio intervista 
+14/01 sara e Valentina a Marbella, giro in paese, dune di artola 
+15/01 mijias pueblo arroccato in alto e ragazza italiana a fuengirola 
+17/01 benalmaldena e il monumento a colombo Castillo colomares , italiani anziani con cane e viaggiare viajando 
+18/01 spagnolo a alora
+19/01 caminito del rey con guida 
+20/01 malaga mercato coperto poi belvedere e rovine, nera e balcone d’Europa verso Granada 
+21-22 granada Alhambra e giro in centro con luca poi fino al belvedere
+25/01 Marbella con Paola e ema 
+
 
 **{{< underline "Giorno 1-2" >}}**: siamo arrivati a La Rochelle sotto al diluvio, motivo per cui abbiamo deciso di sostare nei pressi dell'aeroporto e fare giusto due passi sulla scogliera. L'indomani abbiamo visitato il centro città sempre sotto al diluvio, spostandoci nel parcheggio vicino al piccolo porticciolo e scoprendo il mercato coperto. Nel pomeriggio ci siamo spostati lungo le sponde di un fiume per sgranchire le gambe passeggiando seguendo la riva e poi a Saint-Thomas-de-Conac, un piccolo paesino di campagna, per la notte. Sosta in libera.
 
@@ -122,13 +156,24 @@ In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata 
 Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
 Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 
 
+<div id="Link"></div>
+
+##### Link Utili 
+
+<div id="Vlog"></div>
+
 ##### Il nostro Vlog 
 
 Nel video qui sotto puoi sentire le nostre considerazioni su queste zone oppure trovi la serie completa sul paese {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.
 
 {{< youtube 3BQKTpHqFP4>}}
 
-##### Le nostre mappe
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1MHF6Cy2vwWikjALaqs5u8QAf2PibH1Y&ehbc=2E312F" "1">}}
+
+<!-- <div id="Mappe"></div> -->
+
+<!-- ##### Le nostre mappe -->
+<!-- Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
+
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
 
 {{< blogFooter "FR_N" "1" "0" >}}

@@ -40,7 +40,7 @@ Vi rimandiamo al sito di {{< extLink "viaggiare sicuri" "https://www.viaggiaresi
 <div id="Itinerario"></div>
 
 ##### Itinerario
-Il nostro itinerario è stato, come accennavamo, molto breve e solo di passaggio. Questo perchè per visitare l'entroterra è consigliabile un mezzo 4x4, anche affittabile in loco, e perchè in quelle zone le temperature sono molto alte: con i nostri animali non ci sarebbe stato possibile.
+Il nostro itinerario è stato, come accennavamo, molto breve e solo di passaggio. Questo perché per visitare l'entroterra è consigliabile un mezzo 4x4, anche affittabile in loco, e perché in quelle zone le temperature sono molto alte: con i nostri animali non ci sarebbe stato possibile.
 
 ###### Andata
 Nel primo giorno abbiamo svolto le pratiche doganali al mattino e ci siamo recati direttamente nella capitale, Nouackchott, dopo 7 ore di guida. 
@@ -55,7 +55,7 @@ Nel terzo giorno abbiamo percorso i 48 chilometri di sterrato che conducono al c
 Abbiamo attraversato il parco del Dwailing (a pagamento) fino a raggiungere gli uffici doganali. Abbiamo svolto le pratiche doganali velocemente, proseguendo il nostro viaggio in Senegal (di cui puoi trovare i dettagli qui)
 
 ###### Rientro 
-Siamo arrivati al confine fra Senegal e Mauritania di sabato pomeriggio intorno alle 16.30. Abbiamo svolto in un'ora tutte le pratiche doganali e abbiamo dormito nel parco nazionale di Dwailing avantaggiandoci sui chilometri da percorrere.
+Siamo arrivati al confine fra Senegal e Mauritania di sabato pomeriggio intorno alle 16.30. Abbiamo svolto in un'ora tutte le pratiche doganali e abbiamo dormito nel parco nazionale di Dwailing avvantaggiandoci sui chilometri da percorrere.
 Così facendo l'indomani abbiamo raggiunto la capitale in orario di pausa pranzo e, approfittando di un traffico inesistente, siamo arrivati di fronte alla dogana con il Marocco, sostando prima dell'ingresso.
 
 <div id="Consigli"></div>
@@ -135,13 +135,13 @@ I vari step che abbiamo attraversato sono:
 <div id="Strade"></div>
 
 ##### Strade 
-La situazione relativa alle condizioni delle strade in Mauritania è altamente variabile. Tra la nostra andata e il nostro ritorno, in un mese di tempo, abbiamo notato un notevole miglioramento (forse era cabiata anche la nostra percezione).
+La situazione relativa alle condizioni delle strade in Mauritania è altamente variabile. Tra la nostra andata e il nostro ritorno, in un mese di tempo, abbiamo notato un notevole miglioramento (forse era cambiata anche la nostra percezione).
 Alcune voragini presenti all'andata erano state sistemate. 
 I tratti più pericolosi ad oggi sono:
 - la **{{< underline "terra di nessuno" >}}** (i 4 km che dividono Marocco da Mauritania, per metà perfetti e per metà sterrati), che in caso di forte vento può essere ricoperta da sabbia e mascherare alcune buche pericolose. In questo caso potete chiedere a qualche trasportatore che conosce bene la tratta di farvi da apripista. 
 - la tratta dalla frontiera al primo incrocio 
 - dal primo incrocio alla città di Chami (anche se al ritorno noi abbiamo trovato questo tratto migliorato)
-- un tratto di sola sabbia sulla n1 che attraversa la capitale perchè stanno effettuando dei lavori 
+- un tratto di sola sabbia sulla n1 che attraversa la capitale perché stanno effettuando dei lavori 
 - i 48 km che conducono a Diama, soprattutto gli ultimi 5, solo sterrati e con presenza di buche profonde (anche qui al ritorno abbiamo trovato un miglioramento, impiegando mezz'ora di guida in meno)
 
 In ogni posto di blocco ci sono state richieste le fiche de police (almeno una quarantina a persona tra andata e ritorno).
@@ -161,7 +161,7 @@ Se vi fermate verrete abbastanza presi d'assalto per la richiesta di denaro (arg
 <div id="Escursioni"></div>
 
 ##### Escursioni
-Come dicevamo all'inizio non abbiamo visitato il paese, ma l'abbiamo solo attraversato. Vi citiamo però alcune mete ed escurzioni consigliateci da altri viaggiatori:
+Come dicevamo all'inizio non abbiamo visitato il paese, ma l'abbiamo solo attraversato. Vi citiamo però alcune mete ed escursioni consigliateci da altri viaggiatori:
 - treno più lungo del mondo che parte da Noadibou 
 - piste nel deserto da percorrere a bordo di un mezzo 4x4
 - cittadina di Atar

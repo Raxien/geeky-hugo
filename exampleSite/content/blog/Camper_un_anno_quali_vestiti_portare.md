@@ -18,10 +18,10 @@ Abiti comodi, pratici da lavare, nulla di troppo ingombrante, nulla di troppo de
 
 Ti riportiamo qui il nostro elenco, per essere pratici e minimale come lo siamo stati davvero noi nella preparazione.
 
-* T-shirts: una decina a testa. Per averne di ricambio, sia se non riusciamo a lavarle in tempo, sia perchè Sakè con le sue unghiette ce ne ha già bucate 3 (anche se con ago e filo le abbiamo prontamente ricucite!)
+* T-shirts: una decina a testa. Per averne di ricambio, sia se non riusciamo a lavarle in tempo, sia perché Sakè con le sue unghiette ce ne ha già bucate 3 (anche se con ago e filo le abbiamo prontamente ricucite!)
 * Felpe/maglioni: 3 felpe leggere e 2 più pesanti, più un maglione a collo alto per l'inverno.
 * Pantaloni corti: entrambi ne abbiamo 4 paia.
-* Abiti: ne ho portati 2, comodi e leggeri, da indossare soprattutto mentre viaggiamo per non avere lacci che infatidiscono.
+* Abiti: ne ho portati 2, comodi e leggeri, da indossare soprattutto mentre viaggiamo per non avere lacci che infastidiscono.
 * Pantaloni lunghi: Paolo ha un jeans e 3 pantaloni della tuta, Sara due jeans, due pantaloni leggeri, un pantalone della tuta e un paio di pantaloni tecnici spessi per l'inverno.
 * Intimo: 10 mutande, 10 paia di calze miste estive ed invernali, 3 reggiseni, 2 canottiere. 
 * Pigiama: 1 estivo, 1 per l'inverno.

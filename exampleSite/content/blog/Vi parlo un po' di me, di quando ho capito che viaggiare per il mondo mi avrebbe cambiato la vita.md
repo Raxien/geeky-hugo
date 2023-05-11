@@ -31,7 +31,7 @@ regola n.8: **ringrazia**. Prenditi un attimo per dire grazie e nota quanto ques
 
 regola n.9: **ama**. Ama senza riserve. E lasciati amare.  
 
-regola n.10: **viaggia**. Che per me è diventato sinonimo di vivi. Perchè ho capito che viaggiare per il mondo mi ha cambiato la vita.  
+regola n.10: **viaggia**. Che per me è diventato sinonimo di vivi. Perché ho capito che viaggiare per il mondo mi ha cambiato la vita.  
 
 #### Da sola? No, ero con me stessa.
 
@@ -43,4 +43,4 @@ Come potevo essere così sfrontata verso ciò che avevo detto di amare fino a qu
 #### Poi ho imparato davvero a ringraziare e a crescere
 
 Sono tornata altre 3 volte in Irlanda. A fare i conti con il suo cielo, con il verde dei suoi prati. Sono tornata a *ringraziare *quella terra che mi aveva fatto sentire come a casa, a far pace con quella me che finalmente si era lasciata andare in balia della felicità. Ho imparato che nel mondo là fuori do il meglio di me. Lascio andare i pregiudizi, assorbo le differenze, le faccio mie. Faccio tesoro dei cambiamenti che potrebbero *arricchirmi* e accetto quelli che arrivano a *farmi crescere*. 
-Se solo potessi chiamare nonno oggi gli direi, forse sempre tra le lacrime, quanto è bello salutare e sorridere in tutte le lingue del mondo. Perché quel ciao e quella linea che si allarga piano piano sul volto sono state le regole migliori che potessero insegnarmi e il mio passpartout per la felicità.
+Se solo potessi chiamare nonno oggi gli direi, forse sempre tra le lacrime, quanto è bello salutare e sorridere in tutte le lingue del mondo. Perché quel ciao e quella linea che si allarga piano piano sul volto sono state le regole migliori che potessero insegnarmi e il mio passepartout per la felicità.

@@ -21,7 +21,7 @@ Valutando il clima in base alle stagioni avremmo trovato:
 
 Dopo aver deciso di vivere in camper per un anno, la nostra scelta sulle scarpe da portare con noi è stata la seguente:
 * un paio di infradito
-* un paio di scarpe leggere, da tutti i giorni, utilizzabili d'estate in città e nelle passeggiate menoimpegnative
+* un paio di scarpe leggere, da tutti i giorni, utilizzabili d'estate in città e nelle passeggiate meno impegnative
 * un paio di scarpe da trekking non troppo pesanti, ideali per camminate un po' più impegnative
 * un paio di scarponcini robusti e impermeabili, da usare sia in inverno sia su terreni ghiacciati o scivolosi.
 

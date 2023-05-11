@@ -11,7 +11,7 @@ draft: false
 
 Venezia è indubbiamente una delle città più belle al mondo, tanto da essere stata riconosciuta dall’Unesco come Patrimonio Mondiale dell’Umanità. Non staremo qui ad indicarti le meraviglie architettoniche, gli eventi artistici, cosa fare durante il Carnevale, dove gustare i famosi cicchetti: vorremmo piuttosto rassicurarti di poterla visitare anche insieme ai tuoi amici a 4 zampe. 
 Tieni però conto che con 118 isolette, 150 canali e 400 ponti, questa città turistica è sì un ricco tesoro d’arte e cultura, ma sa mettere alla prova la nostra stanchezza e di conseguenza quella dei nostri animali.
-Potresti metterci ore ed ore a passeggiare per le vie ed i canali uno diverso dagli altri, e non averne mai abbastanza perchè dietro l'angolo ci sarà sempre un nuovo stupore. Ricordati che non sei sola/o, bensì responsabile di 4 zampe ed una coda scodinzolante che ti seguirà con dedizione. 
+Potresti metterci ore ed ore a passeggiare per le vie ed i canali uno diverso dagli altri, e non averne mai abbastanza perché dietro l'angolo ci sarà sempre un nuovo stupore. Ricordati che non sei sola/o, bensì responsabile di 4 zampe ed una coda scodinzolante che ti seguirà con dedizione. 
 Per visitare in tranquillità Venezia con il proprio cane e gatto è obbligatorio avere con sè gli appositi sacchetti per raccogliere le deiezioni. Ti consigliamo anche una buona scorta d’acqua potabile per evitare problemi causati dall’alta umidità della laguna, soprattutto in estate, e di fare attenzione ai rumori che potrebbero infastidire il tuo animale, soprattutto un gatto. Sakè è abituato a muoversi in città, ma non sceglieremmo Venezia come una delle prime gite al guinzaglio. 
 
 ##### Dove soggiornare a Venezia con animali
@@ -23,7 +23,7 @@ Per quanto riguarda noi, abbiamo soggiornato con il camper in una zona vicino a 
 
 ##### Mezzi di trasporto petfriendly a Venezia
 
-Dal punto di vista dei trasporti, Venezia è sicuramente una città petfriendly. I cani di tutte le taglie sono ammessi gratuitamente, nel numero massimo di un animale per ogni viaggiatore, sia sui mezzi pubblici ACTV (vaporetto,traghetto), sia sui bus e tram che collegano Venezia a Mestre (eccezion fatta per i treni). Ovviamente dovrai avere con te guinzaglio e museruola, che noi abbiamo fatto indossare ad Olimpia in quanto cane di grossa taglia.
+Dal punto di vista dei trasporti, Venezia è sicuramente una città petfriendly. I cani di tutte le taglie sono ammessi gratuitamente, nel numero massimo di un animale per ogni viaggiatore, sia sui mezzi pubblici ACTV (vaporetto, traghetto), sia sui bus e tram che collegano Venezia a Mestre (eccezion fatta per i treni). Ovviamente dovrai avere con te guinzaglio e museruola, che noi abbiamo fatto indossare ad Olimpia in quanto cane di grossa taglia.
 I biglietti per i pullman sono acquistabili presso le tabaccherie e costano 1.50€ a testa a tratta.
 
 ##### Quando visitare Venezia con cane e gatto 

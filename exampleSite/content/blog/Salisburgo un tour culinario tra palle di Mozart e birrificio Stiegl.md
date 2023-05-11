@@ -18,7 +18,7 @@ Abbiamo così dato il via al nostro *tour culinario di Salisburgo*: prima meta, 
 
 ##### Tour culinario a Salisburgo 
 
-Cercheremo di prenderti per la gola con soli due ingredienti, il cioccolato e la birra. Tieni un posticino anche per un po' di burro, capirai il perchè.  
+Cercheremo di prenderti per la gola con soli due ingredienti, il cioccolato e la birra. Tieni un posticino anche per un po' di burro, capirai il perché.  
 
 Come ti dicevamo prima, ci siamo fermati in centro città per acquistare le famose **Palle di Mozart**, decidendo di provare i prodotti della pasticceria Furst (1,60€ al pezzo). Le sfere di cioccolato ci hanno conquistati dal primo morso: un cuore di marzapane e pistacchio avvolto da cioccolato e gianduja. Una a testa non poteva bastare, così abbiamo subito divorato quella conservata per la merenda. 
 

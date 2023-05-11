@@ -40,7 +40,7 @@ Vi rimandiamo al sito di {{< extLink "viaggiare sicuri" "https://www.viaggiaresi
 <div id="Itinerario"></div>
 
 ##### Itinerario
-Il nostro itinerario è stato, come accennavamo, molto breve e solo di passaggio. Questo perchè per visitare l'entroterra è consigliabile un mezzo 4x4, anche affittabile in loco, e perchè in quelle zone le temperature sono molto alte: con i nostri animali non ci sarebbe stato possibile.
+Il nostro itinerario è stato, come accennavamo, molto breve e solo di passaggio. Questo perché per visitare l'entroterra è consigliabile un mezzo 4x4, anche affittabile in loco, e perché in quelle zone le temperature sono molto alte: con i nostri animali non ci sarebbe stato possibile.
 
 - Andata
 
@@ -133,13 +133,13 @@ I vari step che abbiamo attraversato sono:
 <div id="Strade"></div>
 
 ##### Strade 
-La situazione relativa alle condizioni delle strade in Mauritania è altamente variabile. Tra la nostra andata e il nostro ritorno, in un mese di tempo, abbiamo notato un notevole miglioramento (forse era cabiata anche la nostra percezione).
+La situazione relativa alle condizioni delle strade in Mauritania è altamente variabile. Tra la nostra andata e il nostro ritorno, in un mese di tempo, abbiamo notato un notevole miglioramento (forse era cambiata anche la nostra percezione).
 Alcune voragini presenti all'andata erano state sistemate. 
 I tratti più pericolosi ad oggi sono:
 - la terra di nessuno (i 4 km che dividono Marocco da Mauritania, per metà perfetti e per metà sterrati), che in caso di forte vento può essere ricoperta da sabbia e mascherare alcune buche pericolose. In questo caso potete chiedere a qualche trasportatore che conosce bene la tratta di farvi da apripista. 
 - la tratta dalla frontiera al primo incrocio 
 - dal primo incrocio alla città di Chami (anche se al ritorno noi abbiamo trovato questo tratto migliorato)
-- un tratto di sola sabbia sulla n1 che attraversa la capitale perchè stanno effettuando dei lavori 
+- un tratto di sola sabbia sulla n1 che attraversa la capitale perché stanno effettuando dei lavori 
 - i 48 km che conducono a Diama, soprattutto gli ultimi 5, solo sterrati e con presenza di buche profonde (anche qui al ritorno abbiamo trovato un miglioramento, impiegando mezz'ora di guida in meno)
 
 In ogni posto di blocco ci sono state richieste le fiche de police (almeno una quarantina a persona tra andata e ritorno).
@@ -159,7 +159,7 @@ Se vi fermate verrete abbastanza presi d'assalto per la richiesta di denaro (arg
 <div id="Escursioni"></div>
 
 ##### Escursioni
-Come dicevamo all'inizio non abbiamo visitato il paese, ma l'abbiamo solo attraversato. Vi citiamo però alcune mete ed escurzioni consigliateci da altri viaggiatori:
+Come dicevamo all'inizio non abbiamo visitato il paese, ma l'abbiamo solo attraversato. Vi citiamo però alcune mete ed escursioni consigliateci da altri viaggiatori:
 - treno più lungo del mondo che parte da Noadibou 
 - piste nel deserto da percorrere a bordo di un mezzo 4x4
 - cittadina di Atar

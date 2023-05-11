@@ -1,10 +1,9 @@
 ---
-title: Lista Libri
+title: Tutti i libri consigliati da noi
 description: Lista dei libri letti in viaggio
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657832150/book_vmll4s.jpg
 layout: books
 ---
-#### Tutti i libri consigliati da noi
 
 Di seguito un elenco, mai completo, di tutti i libri che stiamo leggendo, che abbiamo letto e che abbiamo trovato interessanti. I link portano all'affiliazione di Amazon che ci permette di re-investire in altri libri.
 
@@ -16,5 +15,7 @@ Se preferisci puoi vedere la lista anche {{< extLink "qui" "https://www.amazon.i
 ##### Appena finiti:
 <div><blockquote><ul id="justEnded"></ul></blockquote></div>
 
-<div id="otherBook"></div>
-
+<div style="table-row;">
+	  <div id="otherBook_1" style="display: table-cell; padding: 1em;"></div>
+	  <div id="otherBook_2" style="display: table-cell; padding: 1em;"></div>
+</div>

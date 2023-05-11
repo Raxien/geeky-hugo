@@ -9,7 +9,7 @@ type: regular
 ---
 
 Nel mese di luglio 2022 abbiamo girovagato in van attraverso l’Austria per tre settimane, ovviamente in compagnia di cane e gatto, Olimpia e Sakè.
-Non voglio scrivervi il solito articolo con aree sosta, tappe imperdibili, dove mangiare eccetera eccetera, perchè i nostri viaggi sono dettati da una serie di necessità personali, legate anche al benessere dei nostri animali, al fatto che la nostra non è una vacanza ma vita vera e propria, solo scandita da ritmi un po’ meno consueti.
+Non voglio scrivervi il solito articolo con aree sosta, tappe imperdibili, dove mangiare eccetera eccetera, perché i nostri viaggi sono dettati da una serie di necessità personali, legate anche al benessere dei nostri animali, al fatto che la nostra non è una vacanza ma vita vera e propria, solo scandita da ritmi un po’ meno consueti.
 
 Vorrei piuttosto parlarvi delle emozioni provate, delle persone incontrate. 
 
@@ -24,7 +24,7 @@ Per la sera ci siamo spostati a Wolfgangsee, dove si può percorrere una passegg
 ![austria van](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1675350710/Articoli/IMG_3362_sfbutr.jpg)
 
 Abbiamo poi raggiunto Gmunden, altro paesino affacciato sul lago. Abbiamo scambiato due parole con una coppia di simpatici signori che hanno iniziato a giocare con Sakè, ascoltato con interesse la nostra storia e fra una chiacchiera e l’altra ci hanno consigliato dove trovare la miglior pizza in paese. E vi assicuro che la pizza era buona davvero.
-Arrivati a Linz, ci siamo fermati volentieri per salutare un ragazzo vestito elegante, che non ha avuto timore di riempirsi dei peli dei nostri animali. E in città ci siamo concessi la visita di un museo:  L’ARS Electronica. Un mix di futuro e tecnologia, interessante e interattivo. Secondo noi, da non perdere.
+Arrivati a Linz, ci siamo fermati volentieri per salutare un ragazzo vestito elegante, che non ha avuto timore di riempirsi dei peli dei nostri animali. E in città ci siamo concessi la visita di un museo: {{< extLink "l’ARS Electronica" "https://ars.electronica.art" >}}. Un mix di futuro e tecnologia, interessante e interattivo. Secondo noi, da non perdere.
 
 Poi nel tardo pomeriggio, per caso o per fortuna, siamo arrivati all’osservatorio Goberlwarte, una scala in ferro che si innalza verso l’alto e che permette di avere una visuale a 360° del panorama sulle colline attorno al paesino di Grein. Lassù non servono tante parole, parla il vento. Porta via i pensieri e aiuta a restare nel momento, ad ammirare il ciclo del giorno pronto a cedere il turno a quello della notte, la luna spavalda che entra a rubare la scena al sole. Siamo scesi con calma, con il cuore in gola. Ci siamo fermati a salutare una signora che ci ha raccontato della sua famiglia, di come abbia insegnato al figlio a vivere nel mondo e fuori dagli schemi.
 

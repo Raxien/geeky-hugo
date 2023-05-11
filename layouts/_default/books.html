@@ -105,7 +105,9 @@
           res = data.json;
           
           let nowId = "#nowReading", justId = "#justEnded", otherId = "#otherBook";
-          let i = 0;
+          let otherId1 = "#otherBook_1", otherId2 = "#otherBook_2";
+           otherId = otherId1;
+          let i = 0, flag = true;
           while(i < res.length ){
             let element = res[i];
             console.log(res[i]);
@@ -121,6 +123,15 @@
               }
 
               $('#' + element.Type).append(liElement(element));
+
+              if(flag) {
+              flag = false;
+              otherId = otherId2;
+            }
+              else {
+              flag = true;
+              otherId = otherId1;
+            } 
             }
 
             i++;

@@ -23,7 +23,7 @@ Il Marocco richiede ai visitatori stranieri di avere un passaporto valido per al
 
 Il visto d'ingresso turistico non è richiesto per i cittadini provenienti dall'Italia, che possono rimanere nel paese per 90 giorni senza tale documento.
 
-In generale, l'ingresso via nave in Marocco è simile all'ingresso via aereo, con alcune differenze nella procedura di controllo, dal momento che i controlli doganali si affettuano o sulla nave o una volta arrivati e coinvolgono anche il controllo del mezzo attraverso uno scanner.
+In generale, l'ingresso via nave in Marocco è simile all'ingresso via aereo, con alcune differenze nella procedura di controllo, dal momento che i controlli doganali si effettuano o sulla nave o una volta arrivati e coinvolgono anche il controllo del mezzo attraverso uno scanner.
 
 ###### Animali
 Per quanto riguarda gli animali, essendo il Marocco un paese extra Unione Europea, ci sono alcune regole da seguire.
@@ -73,7 +73,7 @@ Se prevedete di visitare le zone vicino a Merzouga e le imponenti dune di sabbia
 ###### Nave e orario
 Noi siamo partiti con il nostro mezzo da Algeciras in direzione Tanger Med.
 
-L’orario del biglietto non è prenotabile. Ci sono circa 8 partenze al giorno e basta arrivare al’imbarco un’ora e mezza prima.
+L’orario del biglietto non è prenotabile. Ci sono circa 8 partenze al giorno e basta arrivare all’imbarco un’ora e mezza prima.
 Al porto vengono effettuati i controlli del passaporto e rilasciati i biglietti ufficiali, con un documento da conservare per il ritorno. 
 Sulla nave si effettua il controllo del passaporto e si consegna la fiche de police: un foglio sul quale dovete scrivere i vostri dati personali, la provenienza e la destinazione. 
 
