@@ -39,7 +39,7 @@ Se invece hai intenzione di visitare Porto o Lisbona o l'Algarve ti rimandiamo [
 
 - **{{< underline "Giorno 5 - Bordeira" >}}**: 
   
-  Bordeira è vicinissima al villaggio di Carrapateira, da dove si accede alla spiaggia mediante una strada asfaltata. Poco distante trovi anche il paesino di Aljezur, con casettte colorate e meravigliose passeggiate sulle scogliere.
+  Bordeira è vicinissima al villaggio di Carrapateira, da dove si accede alla spiaggia mediante una strada asfaltata. Poco distante trovi anche il paesino di Aljezur, con casette colorate e meravigliose passeggiate sulle scogliere.
 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683730690/IMG_0658_kxmcto.jpg" >}}
@@ -50,7 +50,7 @@ In queste zone ti consigliamo di viaggiare senza mete e senza fretta. Noi abbiam
 
 ##### Il nostro Vlog 
 
-Puoi trovare la serie completa delle nostre avventure in Portogallo {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.
+Puoi trovare la serie completa delle nostre avventure in Portogallo {{< extLink "a questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ9fxLqD_0GFKVZBwnHQiM4I" >}}.
 
 
 <!-- <div id="Mappe"></div> -->

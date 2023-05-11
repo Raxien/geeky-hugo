@@ -1,7 +1,7 @@
 ---
 title: 'Portogallo in camper con cane e gatto: itinerario, consigli e informazioni utili'
 description: "Alla scoperta del Portogallo in camper, un viaggio on the road attraverso Porto e Lisbona fino a raggiungere le scogliere l'Algarve"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683816018/IMG_1491_f1hx1p.jpg
 date: 2023-04-10T17:00:00.000
 categories: ["Europa", "Guida", "Itinerario", "Camper"]
 country: Portogallo 
@@ -35,6 +35,7 @@ Le tappe che ti elenchiamo sono state tutte raggiunte a bordo del nostro van 5.4
 - Braga
 - Porto
 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683816072/IMG_2056_wv38d1.jpg" >}}
 
 [**{{< underline "DA AVEIRO A LISBONA" >}}**:](/blog/guida_portogallo_centro_e_lisbona.itinerari/)
 
@@ -50,6 +51,9 @@ Le tappe che ti elenchiamo sono state tutte raggiunte a bordo del nostro van 5.4
 - Sintra
 - Cascais
 - Lisbona
+  
+  
+     {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683816075/IMG_2026_ir5z9v.jpg" >}}
 
 
 [**{{< underline "L'ALENTEJO" >}}**:](/blog/guida_portogallo_alentejo.itinerari/)
@@ -62,10 +66,13 @@ Le tappe che ti elenchiamo sono state tutte raggiunte a bordo del nostro van 5.4
 - Bordeira
 
 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683816019/IMG_1268_zozs1g.jpg" >}}
+
+
 [**{{< underline "L'ALGARVE" >}}**:](/blog/guida_portogallo_algarve.itinerari/)
 
 - Sagres 
-- Lagos e Playa don camilo
+- Lagos
 - Portimao 
 - Ferragoudo
 - Silves
@@ -73,10 +80,7 @@ Le tappe che ti elenchiamo sono state tutte raggiunte a bordo del nostro van 5.4
 - Faro
 - Tavira
 
-
- {{< extLink "qui" "https://www.realalcazarsevilla.com/it/?gad=1&gclid=CjwKCAjwxr2iBhBJEiwAdXECw6ZTR1OLYuZk3UlpHNtyKeQs5r9BTwV66jN8aULls91g5ioMEk8i_RoCNjcQAvD_BwE" >}})
-
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862713/Articoli/francia/IMG_7621_yt3nni.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683816124/IMG_3301_o9zgqv.jpg" >}}
 
 
 <div id="Strade"></div>
@@ -104,7 +108,6 @@ Per motivi personali e lavorativi siamo rimasti in Portogallo un mese e mezzo. T
 
 {{< card >}}
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862708/Articoli/francia/IMG_7194_rumhcv.jpg" >}}
 
 <div id="Considerazioni"></div>
 
@@ -112,13 +115,15 @@ Per motivi personali e lavorativi siamo rimasti in Portogallo un mese e mezzo. T
 
 
 In camper o auto, le mete imperdibili secondo noi sono :
--   **{{< bold "Viana do Castelo" >}}**: il paese merita una passeggiata. Se non trovi maltempo ti suggeriamo una visita alle isole vicine. 
--   **{{< bold "Porto" >}}**: il capoluogo perde un po' del fascino di autenticità, però la città offre parecchi servizi e le colline attorno sono bellissime.
--   **{{< bold "Coimbra" >}}**: Cap Ferret, L'Herbe, Biganos, Arcachon..con il senno di poi ci saremmo fermati molto di più in questa zona così poco turistica ma davvero piacevole!
--   **{{< bold "Dune di Pilat" >}}**: un must da vedere questo deserto che si affaccia sulla costa atlantica! 
--   **{{< bold "Bayonne" >}}**: a noi questa cittadina è piaciuta davvero tanto, molto più autentica della vicina, più turistica e chic, Biarritz.
+-   **{{< bold "Viana do Castelo" >}}**: è davvero una cittadina deliziosa. Con il maltempo perde parte del suo fascino ma se ti è possibile passeggia per le sue stradine senza fretta. 
+-   **{{< bold "Porto" >}}**: noi abbiamo visto Porto con tantissimi cantieri in corso. Incarna decisamente lo spirito di saudade portoghese. 
+-   **{{< bold "Coimbra" >}}**: cittadina deliziosa, noi abbiamo adorato passeggiare sia nei parchi che nelle viuzze. A vedere gli studenti in divisa vien voglia di tornare subito sui banchi di scuola!
+-   **{{< bold "Cabo da Roca" >}}**: emozionante a qualsiasi ora, ma se ti capita di passeggiare sulle scogliere quando va via la folla curiosa per immortalare solo il tramonto o al mattino presto.. ti regala scorci stupendi e ti fa capire la voglia di andare a cercare cosa c'è al di là del mare!
+-   **{{< bold "Lisbona" >}}**: città viva, elegante e che offre tanto da fare e visitare.
+-   **{{< bold "Alentejo" >}}**: meno turistico ma se ami la natura e la costa fa la caso tuo.
+-   **{{< bold "Algarve" >}}**: a noi le cittadine di questa regione non sono piaciute, ma le scogliere meritano sicuramente una visita. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682863464/Articoli/francia/A11AE756-B3B1-4867-AB22-DC1B3797A139_2_qys5ua.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683816045/IMG_1739_fzeeir.jpg" >}}
 
 <div id="Animali"></div>
 
@@ -130,7 +135,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 
 ##### Il nostro Vlog 
 
-Puoi trovare la serie completa delle nostre avventure in Portogallo {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.
+Puoi trovare la serie completa delle nostre avventure in Portogallo {{< extLink "a questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ9fxLqD_0GFKVZBwnHQiM4I" >}}.
 
 
 
@@ -143,3 +148,4 @@ Puoi trovare la serie completa delle nostre avventure in Portogallo {{< extLink 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
 
 {{< blogFooter "FR_N" "1" "0" >}}
+
