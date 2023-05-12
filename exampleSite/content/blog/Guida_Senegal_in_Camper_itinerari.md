@@ -1,6 +1,6 @@
 ---
 title: 'Senegal in camper: itinerario, consigli e informazioni utili' 
-description: ""
+description: "Itinerario di viaggio in camper alla scoperta del Senegal - Informazioni, mappe e spot"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681839060/Articoli/Copertine/Senegal_in_Van_nbfqyv.jpg
 date: 2023-03-26T17:00:00.000
 categories: ["Africa", "Dogana", "Itinerari", "Camper"]
