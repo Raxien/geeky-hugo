@@ -20,8 +20,7 @@ In questa pagina troverai tutte le [informazioni](#il-van-in-breve) relative al 
 <!-- section break -->
 
 ##### Storia e evoluzione del Van
-Questa sezione è dedicata alla cronistoria di come abbiamo deciso di intraprendere questa avventura e al perché abbiamo deciso di acquistare un accessorio rispetto che un altro. Abbiamo fatto molti errori dettati dall'inesperienza e dal budget che ci eravamo fissati, ma piano piano stiamo migliorando. Alla fine trovi le [considerazioni](#considerazioni) soprattutto in merito a tutti gli errori commessi.
-
+Questa sezione è dedicata alla cronistoria di come abbiamo deciso di intraprendere questa avventura e al perché abbiamo deciso di acquistare un accessorio rispetto che un altro. Abbiamo fatto molti errori dettati dall'inesperienza e dal budget che ci eravamo fissati, ma piano piano stiamo migliorando. Alla fine trovi le [considerazioni](#considerazioni-sugli-accessori) soprattutto in merito a tutti gli errori commessi.
 
 **{{< underline "Natale 2020" >}}**: "ah, esistono i van e non bisogna andare solo in campeggio?" così abbiamo esordito a Natale, scoprendo un mondo! Abbiamo trascorso un giorno intero incollati allo schermo del pc a scoprire queste piccole case mobili e immaginando come sarebbero cambiati i nostri viaggi on the road con Olimpia sacrificata nel bagagliaio in mezzo alle valigie!
 
