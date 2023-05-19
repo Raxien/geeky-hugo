@@ -242,8 +242,8 @@
           i++;
         }
         
-        document.getElementById('annoUno').innerText = annoUno + ' €';
-        document.getElementById('annoDue').innerText = annoDue + ' €';
+        document.getElementById('annoUno').innerText = Math.round((annoUno + Number.EPSILON) * 100) / 100 + ' €';
+        document.getElementById('annoDue').innerText = Math.round((annoDue + Number.EPSILON) * 100) / 100 + ' €';
 
         travelingSumCost = Math.round((travelingSumCost + Number.EPSILON) * 100) / 100;
 
