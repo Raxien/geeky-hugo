@@ -1,20 +1,25 @@
 ---
 title: Chi Siamo
-description: Descrizione di chi siamo
+description: Due esseri umani con i piedi per terra e il sogno di visitare ogni angolo del mondo
 date: 2022-06-19T10:00:25+01:00
 image: images/chisiamo.png
 layout: about
-
 ---
-Siamo Sara e Paolo, nati nel 1990 sotto il segno dei pesci. Testoni e sognatori. Ci siamo conosciuti parlando dei paesi che avremmo voluto visitare e da allora non abbiamo smesso di farlo insieme. Abbiamo macinato chilometri con auto, treni, aerei, finché abbiamo deciso che un van avrebbe potuto essere la casa ideale per aiutarci a collezionare emozioni in giro per il mondo. 
 
-Con noi vive Olimpia, una rottweiler di 9 anni. La dolcezza fatta a cane. Sa il fatto suo e non teme di proteggerci. E' da sempre la nostra compagna di viaggio preferita.
+Siamo Sara e Paolo, nati nel 1990 sotto il segno dei pesci, testoni e sognatori. Ci siamo conosciuti parlando dei paesi che avremmo voluto visitare e da allora non abbiamo smesso di viaggiare insieme. Abbiamo percorso chilometri a piedi, in bicicletta, con auto, treni, aerei, finché a maggio 2022 abbiamo deciso che un [van](/van/) avrebbe potuto essere la casa ideale per aiutarci a collezionare emozioni più che cimeli e cartoline in giro per il mondo. 
 
-Sakè è l’ultimo arrivato, un gattino europeo che rischiava di fare una brutta fine. L’abbiamo arruolato e da quel momento non ha smesso di stupirci. E' curioso e amante dell’avventura, non poteva che essere dei nostri.
+Così siamo partiti insieme a Olimpia, una rottweiler di 10 anni che da sempre è la nostra compagna di viaggio preferita, e Sakè, un gattino europeo di 3 anni salvato per caso (o per fortuna) un sabato pomeriggio e da allora viviamo a bordo di 9 metri quadrati in un equilibrio perfetto per non pestarci piedi e zampe.
 
-Tutti e quattro siamo grandi camminatori, amanti del timido sole del mattino e dell’arietta fresca della sera. Ci emoziona fermarci per strada e chiacchierare con chi si incuriosisce vedendo questa buffa famiglia a passeggio. Ci piace pensare ad un itinerario e poi perderci nei dettagli scovati per caso.. **se sentite ridere in lontananza potremmo essere noi**.
+Per il momento abbiamo visitato 15 paesi fra Europa e Africa e ogni confine che attraversiamo significa per noi una possibilità in più di imparare qualcosa: una lingua, una cultura, una ricetta, un suono.
 
-Se vuoi sapere di più leggi gli articoli su di noi:
+Amiamo fermarci a chiacchierare con chiunque: persone del posto, stranieri come noi, italiani come noi.
+
+Ogni giorno cerchiamo nuovi stimoli anche lavorativi e creativi, motivo per cui abbiamo deciso di aprire questo blog e {{< extLink "un canale YouTube" "https://www.youtube.com/@vandipety" >}}, in modo da poter raccontare la nostra esperienza e condividere tutto ciò che scopriamo.
+
+Le nostre mete future? 
+Siamo cambiati tanto da quando siamo partiti. Se un tempo avevamo bisogno di sapere dove avremmo aperto gli occhi l'indomani, oggi lasciamo molto più spazio all'improvvisazione. Il mondo qua fuori offre a volte strade che sarebbe un peccato non percorrere. 
+
+Se vuoi scoprire qualche curiosità in più su di noi trovi tutto in questi articoli:
 
 - **[Non solo l’ennesimo blog: la storia di una “famiglia bestiale”](/blog/cambiare-vita-e-ancora-possibile?)**
 - **[Vi parlo un po’ di me, di quando ho capito che viaggiare per il mondo mi avrebbe cambiato la vita](/blog/quando-ho-capito-che-viaggiare-per-il-mondo-mi-avrebbe-cambiato-la-vita)**
