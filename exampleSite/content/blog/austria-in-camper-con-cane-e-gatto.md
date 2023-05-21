@@ -76,10 +76,9 @@ Per la notte ci siamo spostati a Gmunden.
 
 **{{< underline "Giorno 23" >}}**: lasciata la capitale austriaca abbiamo deciso di spostarci in un paesino di campagna nelle vicinanze: **Rust**. Purtroppo le temperature estive non hanno aiutato e, con 39 gradi sotto al sole, abbiamo visitato il centro del paese e la riserva dedicata alle cicogne un po' di corsa.
 
-Da questa zona dell'Austria le nostre avventure sono proseguite verso Est, in [Slovacchia](/blog/viaggio-slovacchia-in-camper-itinerari/) prima e in [Polonia](/blog/viaggio-polonia-in-camper-itinerari/) subito dopo. 
+Da questa zona dell'Austria le nostre avventure sono proseguite verso Est, in [Slovacchia](/blog/viaggio-slovacchia-in-camper) prima e in [Polonia](/blog/viaggio-polonia-in-camper-itinerari/) subito dopo. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684674595/IMG_3781_d6m78n.jpg" >}}
-
 
 
 ###### In Breve
@@ -122,8 +121,6 @@ Di seguito le sole tappe della nostra avventura. Abbiamo sempre dormito in liber
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684674599/IMG_5064_loyaic.jpg" >}}
 
-<div id="Strade"></div>
-
 ##### Strade 
 In tutta l'Austria la situazione delle strade è in condizioni impeccabili. L'autostrada è a pagamento con vignetta (con varie formule di durata e costi relativi), noi però abbiamo preferito percorrere le strade statali. 
 
@@ -140,7 +137,6 @@ Di seguito un'idea di quanto abbiamo speso in 3 settimane in Austria.
 {{< card >}}
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684674600/IMG_4670_xkdshk.jpg" >}}
-
 
 ##### Viaggiare con il proprio animale
 {{< animali "EU">}}
