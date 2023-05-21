@@ -173,8 +173,8 @@
 <!--=================== expanses script start ===================-->
 <script>
   // let rpcUrl = "http://localhost:3000";
-  // let rpcUrl = "https://vandipety-api.herokuapp.com";
-  let rpcUrl = "https://vandipetyapi.onrender.com";
+  let rpcUrl = "https://vandipety-api.herokuapp.com";
+  // let rpcUrl = "https://vandipetyapi.onrender.com";
   
   let tripData  = null;
   let costperDay = null;
@@ -242,8 +242,8 @@
           i++;
         }
         
-        document.getElementById('annoUno').innerText = annoUno + ' €';
-        document.getElementById('annoDue').innerText = annoDue + ' €';
+        document.getElementById('annoUno').innerText = Math.round((annoUno + Number.EPSILON) * 100) / 100 + ' €';
+        document.getElementById('annoDue').innerText = Math.round((annoDue + Number.EPSILON) * 100) / 100 + ' €';
 
         travelingSumCost = Math.round((travelingSumCost + Number.EPSILON) * 100) / 100;
 

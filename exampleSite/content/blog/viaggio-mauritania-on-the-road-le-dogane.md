@@ -27,9 +27,9 @@ Vi riportiamo comunque tutte le informazioni relative alle pratiche doganali, ai
 > - [Escursioni](#Escursioni) 
 > - [Dove dormire](#Dormire)
 > - [Viaggiare con il proprio animale](#Animali)
-> - [Quanto abbiamo speso](#Spesa)
-> - [Il nostro vlog](#Vlog)
-> - [Le nostre mappe](#Mappe)
+> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
+> - [Il nostro vlog](#il-nostro-vlog)
+> - [Le nostre mappe](#le-nostre-mappe)
 
 <div id="Paese"></div>
 
@@ -52,7 +52,7 @@ Nel secondo giorno abbiamo passeggiato sulla riva raggiungendo il porto e osserv
 Abbiamo sostato nell'ultimo villaggio abitato a una cinquantina di chilometri dalla frontiera di Diama, chiedendo ospitalità alla gendarmerie. 
 
 Nel terzo giorno abbiamo percorso i 48 chilometri di sterrato che conducono al confine impiegandoci 2 ore e mezza circa. Prestate attenzione ai numerosi animali selvatici, soprattutto facoceri. 
-Abbiamo attraversato il parco del Dwailing (a pagamento) fino a raggiungere gli uffici doganali. Abbiamo svolto le pratiche doganali velocemente, proseguendo il nostro viaggio in Senegal (di cui puoi trovare i dettagli qui)
+Abbiamo attraversato il parco del Dwailing (a pagamento) fino a raggiungere gli uffici doganali. Abbiamo svolto le pratiche doganali velocemente, proseguendo il nostro viaggio in Senegal (di cui puoi trovare [i dettagli qui](/blog/guida_senegal_in_camper_itinerari/))
 
 ###### Rientro 
 Siamo arrivati al confine fra Senegal e Mauritania di sabato pomeriggio intorno alle 16.30. Abbiamo svolto in un'ora tutte le pratiche doganali e abbiamo dormito nel parco nazionale di Dwailing avvantaggiandoci sui chilometri da percorrere.
@@ -181,8 +181,6 @@ Se vi trovate in centri minori potete provare a chiedere alla gendarmerie dove s
 
 In Mauritania non sono obbligatorie ulteriori profilassi particolari, in ogni caso noi abbiamo provveduto a somministrare a Olimpia e Sakè, i nostri cane e gatto, i consueti antiparassitari. Consigliamo di tenere il proprio animale sempre al guinzaglio, dal momento che numerosi animali selvatici camminano in ogni angolo del paese. 
 
-<div id="Speso"></div>
-
 ##### Quanto abbiamo speso
 Il costo del Visto dipende dalla frontiera in cui entrate. 
 Arrivando dal Marocco si pagano 55€ a persona. 
@@ -204,14 +202,10 @@ L'unico campeggio in cui abbiamo pernottato ci ha richiesto 500 MAU a notte, 12,
 
 **{{< underline "Totale: 331,50 euro" >}}**
 
-<div id="Vlog"></div>
-
 ##### Il nostro Vlog
 Se volete vedere il nostro vlog lo trovi di seguito:
 
 {{< youtube 9fsV_nTm9bg >}}
-
-<div id="Mappe"></div>
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=18_x_kSmOimidCpZAW0h6sRxD1sJaadQ&ehbc=2E312F" "1">}}

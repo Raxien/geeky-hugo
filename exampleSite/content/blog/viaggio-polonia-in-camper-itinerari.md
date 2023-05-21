@@ -9,7 +9,7 @@ type: regular
 draft: false
 ---
 
-In questo articolo ti porteremo con noi alla scoperta della Polonia, terra che ci ha conquistati dal primo giorno. L'abbiamo visitata a bordo del nostro van e ci siamo concentrati sulla parte est del paese, scoprendola da sud a nord, nel luglio del 2022. Potrai seguire questo itinerario anche in auto oppure sfruttarne una parte se deciderai di viaggiare in aereo: in tal caso trovi le informazioni dettagliate in merito al paese e un itinerario breve nell'articolo dedicato che trovi [qui](/blog/informazioni_viaggio_polonia/).
+In questo articolo ti porteremo con noi alla scoperta della Polonia, terra che ci ha conquistati dal primo giorno. L'abbiamo visitata a bordo del nostro van e ci siamo concentrati sulla parte est del paese, scoprendola da sud a nord, nel luglio del 2022. Potrai seguire questo itinerario anche in auto oppure sfruttarne una parte se deciderai di viaggiare in aereo: in tal caso trovi le informazioni dettagliate in merito al paese e un itinerario breve nell'articolo dedicato che trovi [qui](/blog/viaggio-polonia-informazioni-e-itinerari/).
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)
