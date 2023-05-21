@@ -17,7 +17,6 @@ Stai pianificando un viaggio on the road e sei in panico perché non sai cosa po
 {{< extLink "una borraccia" "https://amzn.to/3NQxosJ" >}} nel nostro zainetto non manca mai insieme {{< extLink "a una ciotola pieghevole" "https://amzn.to/42HQ1Da" >}} per poter dare da bere al tuo fido compagno a quattro zampe in ogni dove!
 
 ##### 3 Cibo
-
 1. **{{< underline "Cibo per animali" >}}**: se non vogliamo essere assaliti dal gatto al mattino o divorati da cane subito dopo, teniamo le scorte di cibo sempre a portata. Consigliamo {{< extLink "questo umido per il gatto" "https://amzn.to/3ptyyjr">}} e {{< extLink "questo secco per il cane" "https://amzn.to/42DJE3Y" >}}. Un consiglio calcola bene le quantità in modo da non trovarti senza a metà del viaggio!
 
 ##### 5 Guinzaglio, Pettorina e Museruola

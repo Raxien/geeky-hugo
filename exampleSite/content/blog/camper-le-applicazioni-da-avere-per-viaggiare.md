@@ -14,7 +14,6 @@ Erano veri viaggi "avventura"? Forse sì. Ma benvenuti nell'era della tecnologia
 Siamo i figli di questo cambiamento informatico, in qualche modo ci fa anche piacere poterlo utilizzare nel miglior modo possibile.
 
 ##### Le applicazioni per il viaggio
-
 In generale in ogni nostro viaggio abbiamo sempre usato: 
 
 * **{{< underline "Google Maps" >}}** e **{{< underline "Maps.Me" >}}**: usiamo la prima quando abbiamo internet a disposizione, mentre Maps.Me quando siamo in zone senza connessione (come quando siamo andati in [Senegal](/blog/guida_senegal_in_camper_itinerari-informazioni/))
@@ -40,7 +39,6 @@ In generale in ogni nostro viaggio abbiamo sempre usato:
   [_iOS_](https://apps.apple.com/it/app/splitwise/id458023433 "iOS") _-_ [_Android_](https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile&hl=it&gl=US "Android")
 
 ##### Le applicazioni per le avventure in camper
-
 Per quanto riguarda la applicazioni strettamente connesse alla vita da vanlifers usiamo:
 
 * **{{< underline "Park4Night" >}}**: noi abbiamo la versione completa a pagamento (9,99€ annui), che ne permette l'utilizzo anche offline e mostra tutti i servizi che si possono trovare per strada, dai parcheggi alle aree sosta a pagamento o gratuiti, dai camping alle aree di carico/scarico, i servizi di lavanderia o di rifornimento gas e così via.

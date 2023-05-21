@@ -3,7 +3,7 @@ title: 'Alta Francia in camper con cane e gatto: itinerario, consigli e informaz
 description: "Alla scoperta della Francia del Nord in camper. Un viaggio on the road fantastico!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804019/Articoli/francia/IMG_2771_ldmfwi.jpg
 date: 2023-04-17T17:00:00.000
-categories: ["Europa", "Guida", "Itinerario", "Camper"]
+categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Francia
 type: regular
 draft: false
@@ -15,14 +15,14 @@ In questo articolo ti porteremo con noi alla scoperta della Francia del Nord. Ab
 > - [Itinerario](#itinerario)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
+> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
 > - [Considerazioni e itinerario ideale](#considerazioni-e-itinerario-ideale)
-> - [Viaggiare con il proprio animale](#Animali)
-> - [Il nostro vlog](#Vlog)
+> - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
 ##### Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, con un piccolo diario giornaliero. 
-Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni in merito a questa regione e soprattutto le tappe **{{< bold "imperdibili" >}}** puoi [cliccare qua](#Considerazioni).
+Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni in merito a questa regione e soprattutto le tappe **{{< bold "imperdibili" >}}** puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
 
 **{{< underline "Giorno 1" >}}**: la nostra prima tappa appena varcato il confine con il Belgio è stata **{{< bold "Dunkerque" >}}**. Il centro cittadino non è emozionante e purtroppo anche la zona vicina alla spiaggia degli sbarchi non offre scorci degni di nota. Palazzoni, nulla più. Carino un parco con statue di varie forme e materiali e una serie di tulipani rossi di ferro che svettano verso le nuvole. Un po' delusi anche dalla tanta pattumiera ci siamo spostati per dormire a Bergues, poco fuori le mura.
 
@@ -57,14 +57,15 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682803939/Articoli/francia/IMG_7056_adovjs.jpg" >}}
 
-<div id="Strade"></div>
-
 ##### Strade 
 In Alta Francia la situazione relativa alle strade è perfetta.
 
 ##### Servizi e soste
 Non abbiamo avuto alcun problema a trovare i servizi di carico e scarico per il van. 
 Abbiamo potuto dormire sempre in libera, nonostante parecchie limitazioni a mezzi superiori ai 2 metri di altezza (a volte anche 1.90), soprattutto nelle vicinanze delle spiagge. 
+
+##### Viaggiare con il proprio animale
+{{< animali >}}
 
 ##### Considerazioni e itinerario ideale
 Negli anni abbiamo imparato ad apprezzare molti lati della Francia, ecco perché anche in questa zona, nonostante il maltempo, abbiamo trovato luoghi che ci sono rimasti nel cuore.  
@@ -76,13 +77,6 @@ In camper, auto o moto le mete secondo noi imperdibili di questa regione sono:
 -   **{{< bold "Saint-Valery-Sur-Somme" >}}**: architettura, viuzze inconfondibili, ristorantini, panorami. Anche questo paesino davvero ha un suo perché. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804005/Articoli/francia/IMG_2878_mauocu.jpg" >}}
-
-<div id="Animali"></div>
-
-##### Viaggiare con il proprio animale
-{{< animali >}}
-
-<div id="Vlog"></div>
 
 ##### Il nostro Vlog
 Nel video qui sotto puoi rivedere il nostro ingresso in Francia oppure trovi la serie completa sul paese {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.

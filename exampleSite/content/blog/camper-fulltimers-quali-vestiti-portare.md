@@ -14,8 +14,7 @@ Poi abbiamo aperto l'armadio e osservato tutti i nostri capi: che cosa doveva da
 
 Abiti comodi, pratici da lavare, nulla di troppo ingombrante, nulla di troppo delicato. 
 
-#### quali vestiti scegliere per vivere in camper?
-
+##### quali vestiti scegliere per vivere in camper?
 Ti riportiamo qui il nostro elenco, per essere pratici e minimale come lo siamo stati davvero noi nella preparazione.
 
 * T-shirts: una decina a testa. Per averne di ricambio, sia se non riusciamo a lavarle in tempo, sia perché Sakè con le sue unghiette ce ne ha già bucate 3 (anche se con ago e filo le abbiamo prontamente ricucite!)

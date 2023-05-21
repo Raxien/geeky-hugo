@@ -12,20 +12,20 @@ Per entrare in Marocco via nave in camper e con animali al seguito è necessario
 In questo articolo vi lasciamo la nostra esperienza sperando possa esservi di aiuto per velocizzare le pratiche e godervi il viaggio in totale serenità.
 
 > ##### Tabella dei contenuti
-> - [Documenti](#Documenti) 
-> - [Animali](#Animali)
-> - [Nave e Orari](#Nave-e-orario)
-> - [Quanto abbiamo speso](#Quanto-abbiamo-speso)
-> - [Il nostro vlog](#Vlog)
+> - [Documenti](#documenti) 
+> - [Animali](#animali)
+> - [Nave e Orari](#nave-e-orario)
+> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
+> - [Il nostro vlog](#il-nostro-vlog)
 
-###### Documenti
+##### Documenti
 Il Marocco richiede ai visitatori stranieri di avere un passaporto valido per almeno sei mesi dalla data di ingresso nel paese. Questo significa che se la scadenza del passaporto è vicina, è necessario rinnovarlo prima di partire. Inoltre, il passaporto deve avere almeno una pagina vuota per il visto d'ingresso e per i timbri di controllo.
 
 Il visto d'ingresso turistico non è richiesto per i cittadini provenienti dall'Italia, che possono rimanere nel paese per 90 giorni senza tale documento.
 
 In generale, l'ingresso via nave in Marocco è simile all'ingresso via aereo, con alcune differenze nella procedura di controllo, dal momento che i controlli doganali si effettuano o sulla nave o una volta arrivati e coinvolgono anche il controllo del mezzo attraverso uno scanner.
 
-###### Animali
+##### Animali
 Per quanto riguarda gli animali, essendo il Marocco un paese extra Unione Europea, ci sono alcune regole da seguire.
 
 > In breve:
@@ -70,14 +70,14 @@ Se prevedete di visitare le zone vicino a Merzouga e le imponenti dune di sabbia
 
 ![animali](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1675350434/Articoli/IMG_6024_kswhoo_s8ygtc.jpg)
 
-###### Nave e orario
+##### Nave e orario
 Noi siamo partiti con il nostro mezzo da Algeciras in direzione Tanger Med.
 
 L’orario del biglietto non è prenotabile. Ci sono circa 8 partenze al giorno e basta arrivare all’imbarco un’ora e mezza prima.
 Al porto vengono effettuati i controlli del passaporto e rilasciati i biglietti ufficiali, con un documento da conservare per il ritorno. 
 Sulla nave si effettua il controllo del passaporto e si consegna la fiche de police: un foglio sul quale dovete scrivere i vostri dati personali, la provenienza e la destinazione. 
 
-###### Quanto abbiamo speso
+##### Quanto abbiamo speso
 Il prezzo del biglietto andata e ritorno per due persone e un van di 5.40 metri senza rimorchio è stato di **{{< underline "300 euro">}}** (biglietto open per un anno).
 Se avessimo scelto Ceuta come destinazione avremmo pagato circa **{{< underline "40/50 euro">}}** in meno, ma i controlli alla dogana sono più lunghi e abbiamo preferito questa tratta per sbrigarli a bordo e velocizzare il tutto.
 Gli animali non hanno pagato alcuna sovrattassa. 
@@ -85,7 +85,7 @@ Gli animali non hanno pagato alcuna sovrattassa.
 L’agenzia alla quale ci siamo rivolti è quella di {{< extLink "Viajes Normandie" "https://www.viajesnormandie.net/" >}} a Palmones y Los Barrios. Sono molto gentili e i più economici e ti regalano una bottiglia di vino e un pacco di biscotti!
 Come servizio aggiuntivo ti permettono di lasciare in deposito il drone gratuitamente! 
 
-###### Vlog
+###### Il nostro vlog
 Di seguito il nostro ingresso in Marocco con il van e i nostri animali! 
 
 {{< youtube VBb-Zza0oUs >}}

@@ -23,7 +23,7 @@ Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese o
 > - [Dove dormire](#dove-dormire)
 > - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
 > - [Itinerari](#itinerari)
->     - [7 Giorni](#7-giorni) 
+>     - [7 Giorni](#7-giorni)) 
 > - [I parchi e altre escursioni](#i-parchi-e-altre-escursioni)
 > - [Il nostro vlog](#il-nostro-vlog)
      <!-- - [Le nostre mappe](#Mappe) -->
@@ -103,8 +103,6 @@ Il campeggio libero in Polonia non è consentito, ma è permessa la sosta in aut
 ##### Itinerari
 In questa sezione, basata sulla nostra esperienza di un mese nel paese, ti proponiamo un itinerario che puoi compiere con i mezzi pubblici.
 Se vuoi invece raggiungere il paese in camper o rivivere le nostra avventura, a questo [link](/blog/viaggio-polonia-in-camper-itinerari/) abbiamo ricreato un piccolo diario giornaliero segnalando in un capitolo finale i luoghi che secondo noi meritano maggiormente. 
-
-<div id="Itinerario1"></div>
 
 ###### 7 Giorni
 Ecco un possibile itinerario di 7 giorni in Polonia con partenza dall'aeroporto di Cracovia e rientro da Wrocław (Bratislava).

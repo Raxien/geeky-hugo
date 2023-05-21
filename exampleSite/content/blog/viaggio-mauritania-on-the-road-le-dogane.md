@@ -15,29 +15,25 @@ Proprio per questo motivo e dato che noi abbiamo solo attraversato il paese per 
 Vi riportiamo comunque tutte le informazioni relative alle pratiche doganali, ai costi e alla situazione delle strade. Vi lasciamo anche alcune escursioni che potete fare nel caso vogliate visitare più a fondo il paese.
 
 > ##### Tabella dei contenuti
-> - [Il Paese](#Paese)
-> - [Itinerario](#Itinerario)
-> - [Informazioni utili](#Consigli)
->     - [Documenti](#Documenti) 
->     - [Come pagare](#Come-pagare)
->     - [Assicurazione sanitaria](#Assicurazione)
->     - [Dogane](#Dogane)
->     - [Strade](#Strade)
->     - [Sicurezza](#Sicurezza)
-> - [Escursioni](#Escursioni) 
-> - [Dove dormire](#Dormire)
-> - [Viaggiare con il proprio animale](#Animali)
+> - [Il Paese](#il-paese)
+> - [Itinerario](#itinerario)
+> - [Informazioni utili](#informazioni-utili)
+>     - [Documenti](#documenti) 
+>     - [Come pagare](#come-pagare)
+>     - [Assicurazione sanitaria](#assicurazione-sanitaria)
+>     - [Dogane](#dogana)
+>     - [Strade](#strade)
+>     - [Sicurezza nel paese](#sicurezza-nel-paese)
+> - [Escursioni](#escursioni) 
+> - [Dove dormire](#dove-dormire)
+> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe)
 
-<div id="Paese"></div>
-
 ##### Il paese
 La Mauritania è un paese in forte crisi, il 45% della popolazione vive con meno di 2 dollari al giorno. Da sempre si trova a metà fra le tensioni tra mondo arabo e Africa nera.
 Vi rimandiamo al sito di {{< extLink "viaggiare sicuri" "https://www.viaggiaresicuri.it/find-country/country/MA" "Stay safe!!" >}} per controllare le situazioni aggiornate sul paese.
-
-<div id="Itinerario"></div>
 
 ##### Itinerario
 Il nostro itinerario è stato, come accennavamo, molto breve e solo di passaggio. Questo perché per visitare l'entroterra è consigliabile un mezzo 4x4, anche affittabile in loco, e perché in quelle zone le temperature sono molto alte: con i nostri animali non ci sarebbe stato possibile.
@@ -58,16 +54,10 @@ Abbiamo attraversato il parco del Dwailing (a pagamento) fino a raggiungere gli 
 Siamo arrivati al confine fra Senegal e Mauritania di sabato pomeriggio intorno alle 16.30. Abbiamo svolto in un'ora tutte le pratiche doganali e abbiamo dormito nel parco nazionale di Dwailing avvantaggiandoci sui chilometri da percorrere.
 Così facendo l'indomani abbiamo raggiunto la capitale in orario di pausa pranzo e, approfittando di un traffico inesistente, siamo arrivati di fronte alla dogana con il Marocco, sostando prima dell'ingresso.
 
-<div id="Consigli"></div>
-
 ##### Informazioni utili
-
-<div id="Documenti"></div>
 
 ###### Documenti
 Per viaggiare in Mauritania è necessario il passaporto con validità residua di almeno sei mesi. Serve effettuare il visto a pagamento in dogana e il passavant a pagamento per il mezzo. Per i costi trovi tutto nella sezione apposita più [sotto](#Spesa).
-
-<div id="Pagare"></div>
 
 ###### Come pagare
 La moneta corrente è l' **Ouguiya mauritana** (MAU). 
@@ -76,13 +66,9 @@ E' possibile prelevare ai bancomat in città e cambiare in dogana (non consiglia
 
 {{< card >}}
 
-<div id="Assicurazione"></div>
-
 ###### Assicurazione sanitaria
 Prima della partenza vi consigliamo di stipulare un’assicurazione sanitaria (noi abbiamo comprato un pacchetto assicurativo con viaggio sicuri per tutta la nostra permanenza in Africa, anche per il transito in Marocco e Senegal).
 Per maggiori informazioni vi rimandiamo al sito di {{< extLink "viaggiare sicuri" "https://www.viaggiaresicuri.it/find-country/country/MA" "Stay safe!!" >}}.
-
-<div id="Dogana"></div>
 
 ###### Dogana
 Entrare in Mauritania con il proprio mezzo è abbastanza semplice. Potete effettuare tutti i passaggi in autonomia oppure affidarvi a un passeur, concordando prima la cifra (circa 20 euro), che vi aiuterà ad attraversare la terra di nessuno entrando dal Marocco e sbrigherà per voi le varie pratiche negli uffici. 
@@ -132,8 +118,6 @@ I vari step che abbiamo attraversato sono:
 - bisogna stipulare l'assicurazione stradale 
 - alzata di sbarra consegnando fiche de police e passaporti e pagando la tassa comune (noi abbiamo contrattato con l'assicuratore per farcela alzare)
 
-<div id="Strade"></div>
-
 ##### Strade 
 La situazione relativa alle condizioni delle strade in Mauritania è altamente variabile. Tra la nostra andata e il nostro ritorno, in un mese di tempo, abbiamo notato un notevole miglioramento (forse era cambiata anche la nostra percezione).
 Alcune voragini presenti all'andata erano state sistemate. 
@@ -152,13 +136,9 @@ I dati strettamente necessari sono:
 - numero di passaporto
 - targa del mezzo 
 
-<div id="Sicurezza"></div>
-
 ##### Sicurezza nel paese
 La sicurezza nel paese sembra essere mantenuta grazie ai numerosi posti di blocco. Fate però molta attenzione, soprattutto nei piccoli paesi dell'entroterra, in cui potete rischiare che lancino le pietra in direzione del vostro mezzo. 
 Se vi fermate verrete abbastanza presi d'assalto per la richiesta di denaro (argent) o regali (cadeaux).
-
-<div id="Escursioni"></div>
 
 ##### Escursioni
 Come dicevamo all'inizio non abbiamo visitato il paese, ma l'abbiamo solo attraversato. Vi citiamo però alcune mete ed escursioni consigliateci da altri viaggiatori:
@@ -168,13 +148,9 @@ Come dicevamo all'inizio non abbiamo visitato il paese, ma l'abbiamo solo attrav
 - cittadina di Cinguetti 
 - mercato del pesce e dei cammelli nella capitale 
 
-<div id="Dormire"></div>
-
 ##### Dove dormire
 Per la sosta in capitale abbiamo preferito sostare in un campeggio, onde evitare problemi.
 Se vi trovate in centri minori potete provare a chiedere alla gendarmerie dove sostare in sicurezza. 
-
-<div id="Animale"></div>
 
 ##### Viaggiare con il proprio animale
 {{< animali "EX">}}

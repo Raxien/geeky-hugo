@@ -3,16 +3,15 @@ title: 'Tour di 7 giorni in Algarve in camper'
 description: "Un road trip in Algarve, affacciati sulle scogliere"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683757945/IMG_2877_affjhz.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Europa", "Guida", "Itinerario", "Camper"]
+categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Portogallo 
 type: featured
-draft: true
+draft: false  
 ---
 
 L'Algarve è una delle mete più rinomate del turismo portoghese: questa regione è presa d'assalto d'estate, soprattutto dagli amanti del surf (non pensare di poter fare un bagno tranquillo perché le acque sono tutt'altro che calde) e della natura, ma anche in inverno è meta di numerose persone che ne sfruttano il clima mite per "svernare".
 Le sue spiagge e scogliere sono davvero meravigliose e meritano una sosta in qualsiasi stagione. 
 Se vuoi visitare insieme a noi tutto il resto del paese ti rimandiamo [all'articolo generale](/blog/viaggio-portogallo-in-camper-itinerari/).
-
 
 ##### Itinerario
 
@@ -21,7 +20,6 @@ Se vuoi visitare insieme a noi tutto il resto del paese ti rimandiamo [all'artic
   Sagres si trova nella parte più a ovest dell’Algarve e per la sua posizione è riuscita a mantenersi un po’ più isolata rispetto all’invasione turistica che ha subito il resto della regione.
   La principale attrazione è la Fortaleza, una muraglia a scopo difensivo, incastonata fra le scogliere.
   Non lontano da Sagres si trova poi il punto più occidentale dell’Algarve, _Cabo de Sao Vicente_. Questo faro (a fine 2022 in restauro) offre panorami mozzafiato soprattutto al tramonto. 
-
 
 - **{{< underline "Giorno 2 - Lagos" >}}**:
   
@@ -37,8 +35,7 @@ Se vuoi visitare insieme a noi tutto il resto del paese ti rimandiamo [all'artic
   
   Poco più a sud trovi Carvoeiro, un pittoresco villaggio preso d'assalto in estate da tutte le tipologie di turisti. La piccola spiaggia affacciata sulla piazza del paese è sabbiosa e circondata da scogliere. Tutta la costa della zona di Carvoeiro si alterna fra scogliere, grotte e calette, da esplorare con gite in barca private o in gruppo. Un'escursione molto bella potrebbe essere quella diretta alle grotte di Benagil. Noi abbiamo passeggiato lungo la Passerella Carvoeiro, che si estende dal centro di Carvoeiro e ragala splendidi scorci sulla costa. 
 
-   {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683757921/IMG_3359_nz6q5e.jpg" >}}
-
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683757921/IMG_3359_nz6q5e.jpg" >}}
 
 - **{{< underline "Giorno 4 - Silves" >}}**:
   
@@ -49,36 +46,26 @@ Se vuoi visitare insieme a noi tutto il resto del paese ti rimandiamo [all'artic
   
   Albufeira offre un centro storico in cui si trovano numerosi ristoranti, bar e negozi e una zona moderna piena di hotel e appartamenti. Nel piccolo centro storico si trova ancora qualche scorcio legato al passato. Le due spiagge principali sono Praia dos Pescadores e Praia do Tunel. Noi abbiamo adorato passeggiare lungo la non troppo distante Praia da Falésia, una lunga spiaggia sabbiosa con scogliere rossastre raggiungibile grazie a una passerella. 
 
-   {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683757849/IMG_3471_zxckbh.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683757849/IMG_3471_zxckbh.jpg" >}}
 
 
 - **{{< underline "Giorno 6 - Faro" >}}**: 
   
   Faro è solitamente sfruttata come luogo di passaggio dai turisti. nel centro storico si possono osservare la Porta Arco da Vila e la Cattedrale Sè oltre alle antiche mura risalenti al periodo moresco e le varie porte di accesso. A 5 chilometri da Faro vi è Praia de Faro. Non distante si trova l'aeroporto e in prossimità una laguna in cui si possono fare delle belle passeggiate. 
 
-
 - **{{< underline "Giorno 7 - Tavira" >}}**: 
 
   Tavira è un villaggio di pescatori tipico di questa regione ed è circondata da una serie di spiagge che appartengono all’area protetta del Parco Naturale di Ria Formosa. 
   Situata sull'isola di Tavira c'è una spiaggia raggiungibile a piedi, Praia do Barrel, in cui si trovano più di duecento ancore arrugginite appartenenti ai vecchi pescherecci di tonni, che donano a questo luogo l'appellativo di "cimitero delle ancore". 
 
-
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683757805/IMG_3702_pmpukm.jpg" >}}
-
 
 ##### Curiosità
 L'Algarve è una regione che, se vissuta on the road, secondo noi offre scorci decisamente degni di una sosta. Anche i piccoli paesini si prestano per piacevoli passeggiate. Visitare questi luoghi fuori stagione può far assaporare un po' di saudade, ma li rende certamente più autentici rispetto all'estate, periodo in cui vengono presi d'assalto dal turismo. 
 
-
-
 ##### Il nostro Vlog 
 
 Vuoi rivivere le nostre avventure on the road in Portogallo? Trovi tutta la playlist {{< extLink "a questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ9fxLqD_0GFKVZBwnHQiM4I" >}}.
-
-
-
-
-<!-- <div id="Mappe"></div> -->
 
 <!-- ##### Le nostre mappe -->
 <!-- Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 

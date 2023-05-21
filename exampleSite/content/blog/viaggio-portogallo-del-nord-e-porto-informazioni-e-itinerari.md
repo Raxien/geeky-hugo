@@ -3,7 +3,7 @@ title: 'Porto e dintorni in 5 giorni'
 description: "Alla scoperta del Portogallo del Nord"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683730729/IMG_0723_n3ptpi.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Europa", "Guida", "Itinerario", "Camper"]
+categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Portogallo 
 type: featured
 draft: true

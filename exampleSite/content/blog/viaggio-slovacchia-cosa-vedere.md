@@ -30,7 +30,7 @@ Vi lasciamo comunque il racconto delle nostre tappe e un paio di spunti per alcu
 > - [Dove dormire](#Dormire)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Quanto abbiamo speso](#Spesa)
-> - [Considerazioni e itinerari in breve](#Considerazioni)
+> - [Considerazioni e itinerari in breve](#considerazioni-e-tappe-imperdibili)
 > - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#Mappe)
 
@@ -111,7 +111,7 @@ Le regole doganali polacche sono simili a quelle degli altri paesi dell'Unione E
 Se stai viaggiando all'interno dell'Unione Europea, non ci sono controlli doganali alle frontiere, ma potrebbero essere effettuati controlli casuali per verificare il rispetto delle regole doganali e delle restrizioni sui prodotti.
 
 
-<div id="Strade"></div>
+
 
 ##### Strade 
 A dispetto della credenza popolare, la Polonia ha delle strade perfette. Non abbiamo avuto difficoltà nel muoverci on the road all'interno del paese, anche nelle zone più rurali, che anzi offrono panorami bellissimi.
@@ -208,7 +208,7 @@ Passavant: 250 euro -->
 
 **Totale: 912,80 euro**
 
-<div id="Considerazioni"></div>
+
 
 ##### Considerazioni 
 se stai pensando di visitare la Slovacchia in camper/van sappi che non è possibile utilizzare i campeggi solo per camper service: ci hanno richiesto 25 euro per scaricare e sostare in un parcheggio. 

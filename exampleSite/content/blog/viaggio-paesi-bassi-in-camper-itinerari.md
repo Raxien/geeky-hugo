@@ -13,23 +13,22 @@ Abbiamo visitato e vissuto nei Paesi Bassi a bordo del nostro van, con cane e ga
 
 > #### Tabella dei contenuti
 > - [Itinerario](#itinerario)
+>   - [In breve](#in-breve)
 > - [Clima](#clima)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Mezzi di trasporto pubblici](#Mezzi)
-> - [Considerazioni e tappe imperdibili](#Considerazioni)
-> - [Viaggiare con il proprio animale](#Animali)
-> - [Il nostro vlog](#Vlog)
+> - [Mezzi di trasporto pubblici](#mezzi-di-trasporto-pubblici)
+> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
+> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
+> - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
-
-<div id="Itinerario"></div>
 
 ##### Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, ricreando un piccolo diario giornaliero e rimandandoti a una sezione dedicata per quanto riguarda la visita della capitale, Amsterdam.
 Noi siamo arrivati nei Paesi Bassi dalla Germania del Nord e abbiamo attraversato tutto il paese da nord a sud, dirigendoci poi in Belgio.
 
-Se vuoi saltare subito alle conclusioni e alla mappa con tutte le soste e ai luoghi che secondo noi meritano di più [clicca qui](#Considerazioni). 
+Se vuoi saltare subito alle conclusioni e alla mappa con tutte le soste e ai luoghi che secondo noi meritano di più [clicca qui](#considerazioni-e-tappe-imperdibili). 
 
 **{{< underline "Giorno 1" >}}**: il primo paesino olandese che abbiamo visitato è stato Bourtange.
 Abbiamo parcheggiato presso il centro informazioni da cui parte la passeggiata per visitare il borgo antico, con le mura che circondano piccoli mulini e casette adibite a botteghe o alberghi, immersi in un tempo che sembra essersi fermato (animali ammessi). Terminata la visita ci siamo diretti verso Appingedam, villaggio noto per le case con le cucine sospese sul canale. Un'unica via centrale mostra dei veri e propri cubetti spuntare dai palazzi, a più altezze. Da dietro le finestre senza tende si può immaginare di entrare in quelle cucine e sentire il profumo di caffè, di torta alla cannella, di ortensie fresche. 
@@ -41,7 +40,6 @@ Poi ci siamo diretti alla città di Groninga (sosta in libera in periferia, lung
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683208315/IMG_9911_q2ufmc.jpg" >}}
 
-
 **{{< underline "Giorno 6" >}}**: ultima sveglia affacciati sul canale, per poi spostarci a mezz'ora di distanza per sfruttare una stazione di servizio in un porto, poi al paesino di Urk e infine in un parcheggio affacciato sulla riva, trovato per caso, a Oostvaardersplassen.
 
 **{{< underline "Giorno 7" >}}**: la strada che abbiamo percorso nel pomeriggio era completamente immersa fra campi e distese di pale eoliche, fino a raggiungere un paesino sospeso fra ponti e canali, Onderdijk. Il tempo qui sembrava essersi fermato: abbiamo fatto due passi passeggiando tra i canali e i cortili delle case in quello che sembrava essere un paese fantasma, con ragnatele su auto e piante e parecchia spazzatura in giro che ci hanno un po’ amareggiati. Dopo essere tornati al van, complice un tasso di umidità che rendeva il nostro livello di sopportazione decisamente più basso e visto che l’odore di fritto del venditore ambulante invadeva i muri di casa nostra, abbiamo deciso di spostarci in un altro parcheggio raggiungendo un vicino paesino decisamente più invitante, Medemblik.
@@ -51,7 +49,6 @@ Poi ci siamo diretti alla città di Groninga (sosta in libera in periferia, lung
 **{{< underline "Giorno 9" >}}**: Hoorn in passato era un importante porto mercantile e in qualche modo trattiene ancora un po’ il fascino di quell’atmosfera. Il centro storico è caratterizzato da palazzi caratteristici, che riportano anche il simbolo della città, l’unicorno. Nei giorni precedenti al nostro arrivo aveva avuto luogo un festival, cosa che non ha reso la nostra visita del tutto piacevole, con spazzatura ovunque e netturbini all’azione. Abbiamo quindi deciso di rientrare a bordo del camper e raggiungere la riva di una canale, proprio vicino a un mulino: parcheggio ideale per fare due passi, circondati da campi e pecore al pascolo. Da lì ci siamo spostati ad Alkmaar. La città è famosa per la produzione di formaggio e il mercato tipico, che si tiene ogni venerdì mattina e ogni martedì sera dalle 19 alle 21 nella piazza principale (trovi maggiori informazioni {{< extLink "qui " "https://www.kaasmarkt.nl/it/">}}). Dato che era martedì abbiamo deciso di approfittarne per immergerci ancora di più nell’atmosfera delle usanze locali. Dopo aver parcheggiato vicino a un centro sportivo, abbiamo raggiunto a piedi il centro fino alla piazza centrale, piena di torrette di forme arancioni e tondeggianti di formaggio, che vengono caricate su dei carretti e trasportate da coppie di uomini nei punti dai quali poi vengono vendute al pubblico. Curioso vero? Se ti va puoi scoprire tutto nel nostro {{< extLink "video" "https://youtu.be/XG1jF3oNLCc">}}. Insieme a noi numerose persone, tutte attente a osservare quel gioco di schemi e ad annusare il profumo nell’aria. Ci siamo fatti prendere per la gola da un carretto che vendeva panini con fettine di formaggio fuso, per poi tornare dopo poco ad acquistarne un terzo. Dopo aver comprato anche un paio di pezzi di formaggio siamo rientrati con il bottino, più che soddisfatti.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683208299/IMG_0284_ao3ena.jpg" >}}
-
 
 **{{< underline "Giorno 10" >}}**: sotto una pioggia torrenziale abbiamo raggiunto la stazione dei treni per far salire a bordo con noi Davide, un caro amico, con il quale avremmo visitato l'isola di Texel. Insieme a lui siamo arrivati in un campeggio nei pressi di Den Helder, dove ci ha accolti una simpatica signora anziana. Dopo aver pranzato e aver montato la tenda vicino al van, abbiamo raggiunto a piedi le vicine dune affacciate sul Mare del Nord. Sembrava per un attimo di camminare nei paesaggi irlandesi dell’entroterra. Un’unica strada, a curve morbide, costeggiata solo dalla natura.
 
@@ -84,8 +81,7 @@ Lasciata Utrecht siamo tornati verso Gouda, direzione Belgio.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683208292/IMG_1442_y8i7v3.jpg" >}}
 
-
-##### In Breve
+###### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera, tranne dove specificato. 
 
 **{{< underline "Giorno 1" >}}**: Bourtange - Appingendam - Groninga
@@ -137,8 +133,6 @@ La primavera può essere la stagione ideale per ammirare i numerosi campi di tul
 
 L'estate del 2022 è stata decisamente buona, con giornate molto calde e soleggiate. Essendo il paese a nord, ricorda che il sole tramonta più tardi che in Italia, quindi aspettati giornate che ti sembreranno più lunghe. 
 
-<div id="Strade"></div>
-
 ##### Strade 
 La condizione delle strade nei Paesi Bassi è in ottimo stato. Le autostrade sono gratuite e non è richiesta alcuna vignetta. 
 
@@ -164,8 +158,6 @@ In tutto il paese si riesce a pagare comodamente con la carta di credito e/o deb
 ##### Mezzi di trasporto pubblici 
 I mezzi di trasporto pubblici sono davvero efficienti in tutto il paese. Bus, treni, tram, traghetti, biciclette: noi non abbiamo mai avuto problemi né con i pagamenti né con gli orari. 
 
-<div id="Considerazioni"></div>
-
 ##### Considerazioni e tappe imperdibili
 Non conoscevamo la Nuova Aquitania e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
 
@@ -179,19 +171,11 @@ In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "Rotterdam" >}}**: città particolare, con i grattacieli che si specchiano nei canali e le famose case cubiche.
 -   **{{< bold "Utrecht" >}}**: ti verrà voglia di affittare una bici e sfrecciare a fianco alla gente del posto, sederti su di una panchina e osservare il sole tramontare.. Utrecht è una cittadina a misura d'uomo, bella da visitare e vivere!
 
-
-<div id="Animali"></div>
-
 ##### Viaggiare con il proprio animale
 {{< animali >}}
 
-
-<div id="Vlog"></div>
-
 ##### Il nostro Vlog 
-
 Nel video qui sotto puoi fare un po' il turista insieme a noi oppure trovi la serie completa sul paese {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ9CusTey8eX6KaVHeVOKXGL">}}.
-
 
 {{< youtube GZQ6wqNHkYo>}}
 

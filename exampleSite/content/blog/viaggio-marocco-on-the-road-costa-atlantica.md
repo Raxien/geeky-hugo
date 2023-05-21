@@ -130,7 +130,7 @@ I vari step che abbiamo attraversato sono:
 - bisogna stipulare l'assicurazione stradale 
 - alzata di sbarra consegnando fiche de police e passaporti e pagando la tassa comune (noi abbiamo contrattato con l'assicuratore per farcela alzare)
 
-<div id="Strade"></div>
+
 
 ##### Strade 
 La situazione relativa alle condizioni delle strade in Mauritania è altamente variabile. Tra la nostra andata e il nostro ritorno, in un mese di tempo, abbiamo notato un notevole miglioramento (forse era cambiata anche la nostra percezione).

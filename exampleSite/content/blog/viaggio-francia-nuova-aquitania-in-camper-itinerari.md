@@ -13,17 +13,18 @@ Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati s
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)
+>   - [In breve](#in-breve)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni e tappe imperdibili](#Considerazioni)
-> - [Viaggiare con il proprio animale](#Animali)
+> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale))
+> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
 ##### Itinerario
 Vuoi visitare questa regione giorno dopo giorno insieme a noi? Abbiamo ricreato un piccolo diario giornaliero. 
-Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#Considerazioni).
+Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
 
 **{{< underline "Giorno 1-2" >}}**: siamo arrivati a La Rochelle sotto al diluvio, motivo per cui abbiamo deciso di sostare nei pressi dell'aeroporto e fare giusto due passi sulla scogliera. L'indomani abbiamo visitato il centro città sempre sotto al diluvio, spostandoci nel parcheggio vicino al piccolo porticciolo e scoprendo il mercato coperto. Nel pomeriggio ci siamo spostati lungo le sponde di un fiume per sgranchire le gambe passeggiando seguendo la riva e poi a Saint-Thomas-de-Conac, un piccolo paesino di campagna, per la notte. Sosta in libera.
 
@@ -53,7 +54,7 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862725/Articoli/francia/IMG_8318_i0b77u.jpg" >}}
 
-##### In Breve
+###### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera, in parcheggi in cui non erano presenti divieti o in aree camper gratuite. 
 
 **{{< underline "Giorno 1-2" >}}**: La Rochelle - Saint-Thomas-de-Conac
@@ -78,8 +79,6 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera, in parcheggi in cui 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862720/Articoli/francia/IMG_8478_icsos7.jpg" >}}
 
-<div id="Strade"></div>
-
 ##### Strade 
 Come nel resto del paese non abbiamo trovato strade in condizioni pericolose. 
 
@@ -87,8 +86,6 @@ Come nel resto del paese non abbiamo trovato strade in condizioni pericolose.
 In Francia è molto semplice trovare aree di servizio attrezzate e gratuite per carico e scarico.
 Per le soste in libera noi non abbiamo avuto problemi dato che ci siamo recati in un periodo di bassa stagione. 
 Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio. 
-
-<div id="Speso"></div>
 
 ##### Quanto abbiamo speso
 Di seguito un'idea di quanto abbiamo speso nei 16 giorni in Nuova Aquitania, tenendo però conto che questo viaggio rientra in un percorso molto più ampio, che ci ha visti percorrere tutta la costa atlantica del paese da nord a sud. 
@@ -99,7 +96,8 @@ Di seguito un'idea di quanto abbiamo speso nei 16 giorni in Nuova Aquitania, ten
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862708/Articoli/francia/IMG_7194_rumhcv.jpg" >}}
 
-<div id="Considerazioni"></div>
+##### Viaggiare con il proprio animale
+{{< animali "EU">}}
 
 ##### Considerazioni e tappe imperdibili
 Non conoscevamo la Nuova Aquitania e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
@@ -113,17 +111,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682863464/Articoli/francia/A11AE756-B3B1-4867-AB22-DC1B3797A139_2_qys5ua.jpg" >}}
 
-<div id="Animali"></div>
-
-##### Viaggiare con il proprio animale
-Per viaggiare in Europa con il proprio animale occorre avere il passaporto, il microchip e la vaccinazione antirabbica in corso di validità.
-Ti consigliamo di prestare sempre attenzione nei luoghi affollati perché le persone potrebbero avere timore, motivo per cui noi giriamo sempre con i nostri animali al guinzaglio. 
-In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata di mano. 
-Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
-Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 
-
 ##### Il nostro Vlog 
-
 Nel video qui sotto puoi sentire le nostre considerazioni su queste zone oppure trovi la serie completa sul paese {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.
 
 {{< youtube 3BQKTpHqFP4>}}

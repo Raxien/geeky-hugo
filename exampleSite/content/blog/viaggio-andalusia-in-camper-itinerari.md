@@ -3,7 +3,7 @@ title: 'Andalusia in camper con cane e gatto: itinerario, consigli e informazion
 description: "Alla scoperta dell'Andalusia in camper, un viaggio on the road alla ricerca di luoghi ricchi di storia affacciati sulla costa"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Europa", "Guida", "Itinerario", "Camper"]
+categories: ["Europa", "Guida", "Itinerari", "Camper"]
 type: featured
 draft: true
 ---
@@ -17,15 +17,15 @@ Abbiamo visitato l'Andalusia nel gennaio 2023, in un periodo non molto battuto e
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni e tappe imperdibili](#Considerazioni)
-> - [Viaggiare con il proprio animale](#Animali)
-> - [Il nostro vlog](#Vlog)
+> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
+> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
+> - [Il nostro vlog](#il-nostro-vlog)
      <!-- - [Le nostre mappe](#Mappe) -->
 
 ##### Itinerario
 Le tappe che ti elenchiamo sono state tutte raggiunte a bordo del nostro van 5.40, ma puoi effettuarle anche se affitti un'automobile o con un mezzo più grande. Ti segnaliamo solo di prestare attenzione alla lunghezza del tuo camper se vuoi raggiungere Mijias Pueblo o il Caminito del Rey passando da Alora. 
 
-Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#Considerazioni).
+Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
 
 
 **{{< underline "Giorno 1" >}}**: come dicevamo noi abbiamo raggiunto l'Andalusia arrivando dal Portogallo, quindi la nostra prima meta è stata El Rochio, piccolo borgo caratteristico, immerso nel Parco Nazionale di Doñana, famoso per la Romeria del Rocio (che si celebra la Domenica di Pentecoste), quando diviene un luogo di pellegrinaggio nel quale si riuniscono un milione di devoti. Sosta in libera sulla costa. 
@@ -112,7 +112,7 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera, in parcheggi in cui 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862720/Articoli/francia/IMG_8478_icsos7.jpg" >}}
 
-<div id="Strade"></div>
+
 
 ##### Strade 
 Come nel resto del paese non abbiamo trovato strade in condizioni pericolose. 
@@ -133,7 +133,7 @@ Di seguito un'idea di quanto abbiamo speso nei 16 giorni in Nuova Aquitania, ten
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862708/Articoli/francia/IMG_7194_rumhcv.jpg" >}}
 
-<div id="Considerazioni"></div>
+
 
 ##### Considerazioni e tappe imperdibili
 Non conoscevamo la Nuova Aquitania e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.

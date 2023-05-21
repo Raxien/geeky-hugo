@@ -13,39 +13,31 @@ Sogni di andare in Senegal ma non sai da dove iniziare?
 Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese. Sono informazioni scoperte sul luogo nel periodo in cui abbiamo transitato, cioè marzo 2023. 
 
 > ##### Tabella dei contenuti
-> - [Il Paese](#Paese)
-> - [Documenti e Visto](#Documenti) 
-> - [Clima e quando andare](#Clima)
-> - [Come pagare](#Come-pagare)
-> - [Internet](#Internet)
-> - [Vaccini e assicurazione sanitaria](#Vaccini)
-> - [Sicurezza](#Sicurezza)
-> - [Mezzi di trasporto pubblici](#Mezzi)
-> - [Cosa mangiare](#Mangiare)
-> - [Dove dormire](#Dormire)
-> - [Viaggiare con il proprio animale](#Animali)
-> - [Itinerari](#Itinerario)
->     - [7 Giorni](#Itinerario1) 
->     - [14 Giorni](#Itinerario2)
-> - [Casamance](#Casamance)
-> - [Il nostro vlog](#Vlog)
-> - [Le nostre mappe](#Mappe)
-<!-- > - [Parchi Nazionali](#Escursioni)  -->
-
-<div id="Paese"></div>
+> - [Il Paese](#il-paese)
+> - [Documenti e Visto](#documenti-e-visto) 
+> - [Clima e quando andare](#clima-e-quando-andare)
+> - [Come pagare](#come-pagare)
+> - [Internet](#internet)
+> - [Vaccini e assicurazione sanitaria](#vaccini-e-assicurazione-sanitaria)
+> - [Sicurezza nel paese](#sicurezza-nel-paese)
+> - [Mezzi di trasporto pubblici](#mezzi-di-trasporto-pubblici)
+> - [Dove e cosa mangiare](#dove-e-cosa-mangiare)
+> - [Dove dormire](#dove-dormire)
+> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
+> - [Itinerari](#itinerario)
+>     - [7 Giorni](#7-giorni) 
+>     - [14 Giorni](#14-giorni)
+> - [Casamance](#casamance)
+> - [Il nostro vlog](#il-nostro-vlog)
 
 ##### Il paese
 Il Senegal a differenza di molti altri paesi africani, citati per panorami mozzafiato o per itinerari unici in mezzo alla savana, offre agglomerati di capanne con tetto in paglia e abiti colorati svolazzanti qua e là, che trasportano in un tempo dimenticato. Alcune zone possono sembrare abbandonate a se stesse, ma la gentilezza delle persone non mancherà di stupirvi.
 Per questo motivo è forse un paese più da "{{< bold vivere >}}", a parer nostro, che da "{{< bold visitare >}}".
 Per quanto riguarda le città, la capitale è Dakar e la seconda più visitata è Saint Louis.
 
-<div id="Documenti"></div>
-
 ##### Documenti e visto
 Per viaggiare in Senegal è necessario il passaporto con validità residua di almeno sei mesi. Per viaggi con permanenza massima di 90 giorni non serve il visto e vale il timbro rilasciato sul passaporto in frontiera, all’arrivo nel paese. 
 Per i documenti necessari per entrare nel paese con il proprio mezzo ti rimandiamo all'[articolo apposito](/blog/guida_senegal_in_camper_itinerari-informazioni/) sul viaggio da noi compiuto in van.
-
-<div id="Clima"></div>
 
 ##### Clima e quando andare
 In Senegal il clima è sempre caldo ed è caratterizzato da due stagioni: la stagione secca e la stagione delle piogge.
@@ -56,8 +48,6 @@ La stagione delle piogge va da giugno a ottobre. In questo periodo possono esser
 
 Noi siamo rimasti in paese dal 22 febbraio al 18 marzo. La temperatura ha raggiunto picchi di 43 gradi sulla costa della Casamance e 45 gradi nella zona di Tambacounda.
 
-<div id="Pagare"></div>
-
 ##### Come pagare
 La moneta corrente è il "{{< bold "Franco senegalese" >}}" (CFA o F). Un buon cambio è "{{< bold "650 CFA per 1 Euro" >}}" ed è facilmente ottenibile ovunque.
 Le carte di credito non sono accettate in tutto il Paese ma è possibile prelevare dai bancomat, tuttavia anche questi non sono molto diffusi. Per questo motivo consigliamo di arrivare con i contanti e cambiarli in loco.
@@ -66,8 +56,6 @@ Se hai intenzione di usare le carte per prelevare contanti in Senegal ricordati 
 {{< card >}}
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854092/Articoli/Senegal/Senegal_Donne_colori_tcayom.jpg" >}}
-
-<div id="Internet"></div>
 
 ##### Internet
 Gli operatori sul suolo sono principalmente tre:
@@ -115,8 +103,6 @@ I Wi-Fi nei due campeggi in cui siamo andati non avevano connessione stabile. Si
 
 La ricarica dei piani internet si può effettuare nei negozi che espongono il logo dell'operatore. Non sempre questo è possibile, ad esempio a Cap Skirring siamo entrati in più botteghe che esponevano il logo Espresso senza che sapessero cosa fosse (!).
 
-<div id="Vaccini"></div>
-
 ##### Vaccini e assicurazione sanitaria
 Non è richiesta alcuna vaccinazione obbligatoria per i viaggi in Senegal, tranne che per la vaccinazione contro la febbre gialla per viaggiatori maggiori di un anno di età, provenienti da Paesi in cui tale malattia è a rischio trasmissione (Kenya, Etiopia, ecc.), anche nel caso di solo transito aeroportuale, se questo è superiore alle 12 ore ed in ogni caso se si lascia l’aeroporto di scalo.
 Per informazioni su ulteriori vaccinazioni raccomandate ma non obbligatorie, ti consigliamo di consultare il tuo medico.
@@ -126,8 +112,6 @@ Meglio portare con sé medicinali contro la dissenteria e un antibiotico ad ampi
 
 Per maggiori informazioni ti rimandiamo al sito di {{< extLink "viaggiare sicuri" "https://www.viaggiaresicuri.it/find-country/country/SEN" "Stay safe!!" >}}.
 
-<div id="Sicurezza"></div>
-
 ##### Sicurezza nel paese
 In tutto il paese l'ospitalità pare essere sacra, ma non dimenticarti che i ladruncoli possono essere dappertutto.
 Al di là dei problemi di corruzione che dilagano in tutto il paese, sovente ti verrà richiesto in prestito il cellulare per scattare una fotografia. Non fare l'errore di darlo.
@@ -135,8 +119,6 @@ A noi è successo un altro piccolo inconveniente: eravamo parcheggiati vicino a 
 Nella zona periferica della capitale Dakar si possono verificare maggiori episodi di microcriminalità, soprattutto furti o borseggi. Per evitare episodi spiacevoli (a noi {{< extLink "è successo" "https://youtu.be/Xb0CQXsTV1w">}}) evita di indossare gioielli e porta con te lo stretto necessario.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854092/Articoli/Senegal/Senegal_Bandiera_runzga.jpg" >}}
-
-<div id="Mezzi"></div>
 
 ##### Mezzi di trasporto pubblici 
 I mezzi di trasporto in Senegal sono molto economici, ma è complicato poter fare affidamento sugli orari e sull’affidabilità dei veicoli.
@@ -150,8 +132,6 @@ La linea ferroviaria è praticamente inesistente, mentre sono diffusi:
 - taxi: automobili decisamente datate, tipicamente gialle nel nord del paese e grigie a sud. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854060/Articoli/Senegal/Senegal_Cavalli_ft2m2t.jpg" >}}
-
-<div id="Mangiare"></div>
 
 ##### Dove e cosa mangiare 
 In tutto il paese si trovano tantissime botteghine che vendono un po' di tutto oltre a banchetti di mercati quotidiani situati lungo tutte le strade, dove acquistare frutta, verdura e noccioline.
@@ -180,15 +160,11 @@ Piccola curiosità: in Casamance ricordati di provare il tapalapa, un pane compo
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854096/Articoli/Senegal/Senegal_Tapalapa_xmjvdl.jpg" >}}
 
-<div id="Dormire"></div>
-
 ##### Dove dormire
 Ascoltando l'esperienza di altri viaggiatori, nelle città principali si trovano ostelli e piccoli alberghi, che è meglio contattare telefonicamente dopo aver prenotato online. Lungo la costa si possono trovare anche resort più di lusso. 
 Per quanto riguarda i campeggi, dopo la pandemia il numero di quelli aperti è diminuito. Molti sono stati abbandonati. 
 Sostare in libera è possibile, con le dovute accortezze. 
 Noi abbiamo utilizzato le applicazioni park4night e iOverlander. 
-
-<div id="Animali"></div>
 
 ##### Viaggiare con il proprio animale
 {{< animali "EX">}}
@@ -197,13 +173,9 @@ Sono frequenti casi di Leishmaniosi, valutate se fare il vaccino al vostro anima
 Prestate particolare attenzione ai luoghi in cui vagano liberi i maiali, dal momento che sono portatori di un verme che può essere pericoloso e infettivo.
 A noi è successo, un pomeriggio in cui eravamo seduti in spiaggia all'ombra delle palme, di trovare una piccola zecca sulle gambe di Paolo, quindi vi consigliamo di controllare quotidianamente voi e il pelo dei vostri animali.
 
-<div id="Itinerario"></div>
-
 ##### Itinerario
 In questa sezione, basata sulla nostra esperienza di un mese nel paese, ti proponiamo un paio di itinerari che puoi compiere con i mezzi pubblici.
 Se vuoi invece raggiungere il paese in camper o rivivere le nostra avventura, a questo [link](/blog/guida_senegal_in_camper_itinerari-informazioni/) abbiamo ricreato un piccolo diario giornaliero segnalando in un capitolo finale i luoghi che secondo noi meritano maggiormente e quelli che si possono evitare. 
-
-<div id="Itinerario1"></div>
 
 ###### 7 Giorni
 Ecco un possibile itinerario di 7 giorni in Senegal con partenza e arrivo dall'aeroporto di Dakar.
@@ -223,7 +195,6 @@ Attenzione: quando noi abbiamo visitato il Lago Rosa, non era più rosa. I dinto
 **{{< underline "Giorno 4" >}}**: Safari a Bandia
 Visita del Parco Nazionale di Bandia per un safari in jeep. Qui avrai l'opportunità di avvistare leoni, giraffe, zebre, bufali, ippopotami e molte altre specie selvatiche.
 
-
 **{{< underline "Giorno 5-6" >}}**: La Somone
 Partenza per la Somone dove potrai rilassarti in uno dei resort e goderti le bellissime spiagge sabbiose.
 Dedica un po' di tempo per fare un escursione in piroga nel fiume Somone per ammirare l'ecosistema di mangrovie e le isole sabbiose.
@@ -232,8 +203,6 @@ Dedica un po' di tempo per fare un escursione in piroga nel fiume Somone per amm
 Ultima giornata a Dakar per fare acquisti al mercato di Soumbedioune o per rilassarti in spiaggia a Plage de N'Gor. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854056/Articoli/Senegal/Senegal_Isola_Goree_h0gbfj.jpg" >}}
-
-<div id="Itinerario14"></div>
 
 ###### 14 Giorni
 Questo itinerario di 14 giorni in Senegal ti permetterà di scoprire le principali attrazioni turistiche del paese, tra cui parchi naturali, isole, spiagge e città. Ti rimandiamo al capitolo [Casamance](#casamance) per valutare un'ulteriore alternativa in questo itinerario, noi ti consigliamo di preferirla a tutta la zona della Petit Cote.
@@ -275,8 +244,6 @@ Rientro a Dakar per un'ultima visita della città.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854081/Articoli/Senegal/Senegal_Isola_Goree_Donna_ihzss8.jpg" >}}
 
-<div id="Casamance"></div>
-
 ##### Casamance
 Abbiamo deciso di dedicare a questa zona del paese un paragrafo a parte, sia perché è il luogo che più ci è piaciuto (quanto? {{< extLink "scoprilo qui" "https://youtu.be/EAJRtniCcxc" >}}), sia perché i modi per raggiungerla sono molteplici e volevamo racchiudere in merito tutte le informazioni che abbiamo trovato.
 La regione di Casamance, a sud del Gambia, vanta bellissime spiagge, meno rovinate dai cumuli di immondizia come quelle situate a nord del paese. 
@@ -292,7 +259,6 @@ Come raggiungere la Casamance:
 Se pensi che possa interessarti questa zona ti consigliamo di inserirla nell'itinerario di 14 giorni, dedicandole almeno 5 giorni dato anche il tempo necessario per raggiungerla. 
 Se vuoi capire perché abbiamo amato la Casamance puoi scoprirlo qui. 
 {{< animali >}}
-<div id="Vlog"></div>
 
 ##### Il nostro Vlog
 Se volete vedere i nostri vlog o vuoi sentire le nostre considerazioni ti lasciamo di seguito i video: 

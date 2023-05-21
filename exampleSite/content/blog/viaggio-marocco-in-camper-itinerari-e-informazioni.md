@@ -35,7 +35,7 @@ Abbiamo deciso di scrivere due articoli, dal momento che il nostro viaggio nel p
 > - [Dove dormire](#Dormire)
 > - [Viaggiare con il proprio animale](#Animali)
 > - [Quanto abbiamo speso](#Spesa)
-> - [Considerazioni e tappe imperdibili](#Considerazioni)
+> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
 > - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#Mappe)
 
@@ -48,7 +48,7 @@ Abbiamo deciso di scrivere due articoli, dal momento che il nostro viaggio nel p
 ##### Itinerario
 
 In questa sezione vi elencheremo tutte le tappe della nostra avventura, portandovi con noi da nord a sud del paese, rimanendo sempre lungo la costa atlantica. 
-Al fondo di questo articolo troverete la mappa con tutti i puntalini relativi a soste e luoghi di interesse [clicca qui se vuoi saltare i dettagli](#Considerazioni) 
+Al fondo di questo articolo troverete la mappa con tutti i puntalini relativi a soste e luoghi di interesse [clicca qui se vuoi saltare i dettagli](#considerazioni-e-tappe-imperdibili) 
 
 
 **{{< underline "Giorno 1" >}}**: siamo arrivati a Tanger Med intorno alle 13 e dopo aver svolto le pratiche doganali, passando attraverso lo scanner, ci siamo diretti immediatamente verso Assilah, 80 km a sud. Era sabato e per nostra fortuna abbiamo avuto modo di vivere subito l'atmosfera del souk. La passeggiata lungo le mura della cittadina è davvero piacevole. Abbiamo sostato in libera in un piazzale molto tranquillo a due passi dal centro città.
@@ -133,7 +133,7 @@ Prima della partenza vi consigliamo però di stipulare un’assicurazione sanita
 
 ##### Dogana
 
-<div id="Strade"></div>
+
 
 ##### Strade 
 La situazione relativa alle condizioni delle strade in Marocco è decisamente migliore rispetto all'opinione che si può avere. Le strade principali ma anche moltissime arterie secondarie sono asfaltate. 
@@ -200,7 +200,7 @@ Soprattutto lungo la costa abbiamo notato anche molti branchi di cani randagi.
 
 
 
-<div id="Considerazioni"></div>
+
 
 ##### Considerazioni
 Il nostro approccio iniziale al Marocco, entrando da Tnger Med, è stato un po' condizionato dalla troppa pattumiera presente ovunque: intere discariche a cielo aperto, popolate da animali intenti a mangiare la plastica e bambini a correre fra le macerie.

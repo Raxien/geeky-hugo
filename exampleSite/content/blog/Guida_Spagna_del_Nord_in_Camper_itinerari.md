@@ -12,20 +12,18 @@ draft: false
 Spagna del Nord in 15 giorni affacciati sulla costa? Per noi è stato un viaggio bellissimo, attraversando 4 regioni (Paesi Baschi, Cantabria, Asturie e Galizia), panorami mozzafiato e alcune mete davvero imperdibili! Arrivavamo direttamente dalla [Francia](/blog/viaggio-francia-nuova-aquitania-in-camper-itinerari/) e nonostante un primo impatto con le persone non troppo accoglienti come in altre zone spagnole, abbiamo trovato un clima abbastanza favorevole nonostante fosse novembre e luoghi che ci sono rimasti nel cuore. 
 Ti va di leggere cosa abbiamo da consigliare? Promettiamo mete meravigliose! 
 
-
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)
 > - [In breve](#in-breve)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
-> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni e tappe imperdibili](#Considerazioni)
-> - [Viaggiare con il proprio animale](#Animali)
+> - [Quanto abbiamo speso](#quanto-abbiamo-speso)****
+> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
 ##### Itinerario
-Di seguito troverai il nostro diario giornaliero, ma se vuoi leggere l'itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#Considerazioni).
+Di seguito troverai il nostro diario giornaliero, ma se vuoi leggere l'itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
 
 **{{< underline "Giorno 1" >}}**: La nostra prima meta spagnola dopo aver lasciato la Francia e aver fatto spesa al Mercadona è stata Pasaia. Qui abbiamo passeggiato per le vie del borgo, in un'atmosfera un po' più cupa rispetto ai paesini francesi, raggiungendo la casa di Victor Hugo, il piccolo porto e un promontorio dal quale si può ammirare la costa. Tornando al van non abbiamo resistito a una fetta di tipica torta al formaggio e, soddisfatta anche la voglia di dolce, dopo pranzo ci siamo spostati a San Sebastian. Passeggiando lungo la costa siamo arrivati al Mirador, palazzo imperiale con splendida vista sulla baia, e poi nelle vie del centro, per ammirare la parte veja, piazza della Constitution e assaggiare le prime tapas al bar sport. Abbiamo scoperto una città davvero viva, animata da numerosi artisti di strada. Per la notte ci siamo spostati nella vicina Orio. 
 
@@ -93,8 +91,6 @@ Di seguito le sole tappe della nostra avventura. Abbiamo sempre dormito in liber
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223945/IMG_9784_useo2h.jpg" >}}
 
-<div id="Strade"></div>
-
 ##### Strade 
 In tutte e quattro le regioni che abbiamo attraversato in Spagna del Nord abbiamo trovato le strade in condizioni perfette. L'autostrada è a pagamento, mentre è gratuita l'autopista.
 
@@ -102,8 +98,6 @@ In tutte e quattro le regioni che abbiamo attraversato in Spagna del Nord abbiam
 In Spagna del Nord è semplice trovare aree di servizio attrezzate e gratuite per carico e scarico.
 Per le soste in libera noi non abbiamo avuto problemi dato che ci siamo recati in un periodo di bassa stagione. 
 Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio, soprattutto nelle zone affacciate sulla costa. 
-
-<div id="Speso"></div>
 
 ##### Quanto abbiamo speso
 Di seguito un'idea di quanto abbiamo speso nei 15 giorni in Spagna del Nord, tenendo conto che arrivavamo dalla Francia e abbiamo proseguito verso il Portogallo. 
@@ -114,7 +108,8 @@ Di seguito un'idea di quanto abbiamo speso nei 15 giorni in Spagna del Nord, ten
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223905/IMG_8866_dea0c1.jpg" >}}
 
-<div id="Considerazioni"></div>
+##### Viaggiare con il proprio animale
+{{< animali >}}
 
 ##### Considerazioni e tappe imperdibili
 Non conoscevamo la Nuova Aquitania e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
@@ -129,15 +124,6 @@ In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "Muxia" >}}**: luogo magico soprattutto per i pellegrini, merita una sosta al tramonto! 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223926/IMG_9550_uxwttl.jpg" >}}
-
-<div id="Animali"></div>
-
-##### Viaggiare con il proprio animale
-Per viaggiare in Europa con il proprio animale occorre avere il passaporto, il microchip e la vaccinazione antirabbica in corso di validità.
-Ti consigliamo di prestare sempre attenzione nei luoghi affollati perché le persone potrebbero avere timore, motivo per cui noi giriamo sempre con i nostri animali al guinzaglio. 
-In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata di mano. 
-Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
-Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 
 
 ##### Il nostro Vlog 
 

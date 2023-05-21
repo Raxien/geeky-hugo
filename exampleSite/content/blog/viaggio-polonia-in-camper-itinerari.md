@@ -13,15 +13,17 @@ In questo articolo ti porteremo con noi alla scoperta della Polonia, terra che c
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)
+>   - [In breve](#in-breve)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni e tappe imperdibili](#Considerazioni)
+> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
+> - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
-
+> 
 ##### Itinerario
 In questa sezione troverai un diario giornaliero con tutte le tappe della nostra avventura.
-Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni in merito al paese e soprattutto le tappe imperdibili puoi [cliccare qua](#Considerazioni).
+Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni in merito al paese e soprattutto le tappe imperdibili puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
 
 **{{< underline "Giorno 1" >}}**: la nostra prima tappa, arrivando dalla Slovacchia, è stata la città di Zakopane, famosa località turistica che offre parecchi servizi sia in estate che in inverno grazie alla posizione fra le montagne. La via centrale è un susseguirsi di negozi di attrezzature e abbigliamento sportivo, souvenir e ristoranti, ma ci è successo addirittura di camminare di fianco a cerbiatti (che hanno tentato di {{< extLink "attaccare il nostro cane!" "https://youtu.be/myxqn3u4mJY">}}) in cerca di cibo! 
 
@@ -88,7 +90,7 @@ Al momento della nostra visita il centro storico di Poznan era in ristrutturazio
 
 **{{< underline "Giorno 28-29" >}}**: abbiamo visitato Stettino, ammirando tutta la città seguendo la linea rossa sull'asfalto che segnala tutti i maggiori luoghi di interesse. Sosta in libera vicino al porto, al di là del Danubio. L'indomani abbiamo abbandonato questo ({{< extLink "meraviglioso paese" "https://youtu.be/F33QgFoQgTE" >}})!
 
-##### In Breve
+###### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera. 
 
 **{{< underline "Giorno 1" >}}**: Zakopane 
@@ -129,7 +131,7 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682607500/Articoli/Polonia/danzica_case_bbp71v.jpg" >}}
 
-<div id="Strade"></div>
+
 
 ##### Strade 
 La Polonia ha una vasta rete stradale, che comprende autostrade, strade nazionali e locali in stato a dir poco **"perfetto"**. Noi abbiamo percorso sempre le strade nazionali e locali senza problemi, anche nelle zone più di campagna.
@@ -142,8 +144,6 @@ In alternativa si può richiedere nei campeggi di effettuare solo i servizi a pa
 
 Il campeggio libero in Polonia non è consentito, ma è permessa la sosta in auto. Motivo per cui noi non abbiamo mai avuto problemi a dormire in libera, nel pieno rispetto dell’abiente che ci circondava. 
 
-<div id="Speso"></div>
-
 ##### Quanto abbiamo speso
 In generale il costo della vita in Polonia è più basso rispetto a quello italiano, soprattutto a livello alimentare abbiamo potuto giovare di prezzi vantaggiosi sia per fare la spesa sia per assaggiare i piatti tipici. 
 
@@ -152,8 +152,6 @@ In generale il costo della vita in Polonia è più basso rispetto a quello itali
 Di seguito un idea di quanto abbiamo speso nell'estate del 2022.
 
 {{< tripExpanses "Spese" "2022-07-03T00:00:00Z" "2022-07-29T00:00:00Z" >}}
-
-<div id="Considerazioni"></div>
 
 ##### Considerazioni e tappe imperdibili
 Sin dal primo momento abbiamo apprezzato la Polonia, motivo per cui ci sentiamo veramente di consigliarti di prendere in considerazione questo paese per le tue vacanze, in camper, auto o sfruttando le strutture e i mezzi pubblici. 
@@ -169,8 +167,6 @@ Le mete secondo noi imperdibili, per quanto riguarda la parte ovest del paese, s
 -   **{{< underline "Parco Slowinski" >}}**: sapevi che esiste un deserto in Polonia? Allora devi assolutamente visitare questo parco! Una volta scalata la duna di 40 metri ti troverai difronte a un paesaggio mozzafiato.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682607673/Articoli/Polonia/monti_tatra_vista_rjhahp.jpg" >}}
-
-<div id="Vlog"></div>
 
 ##### Il nostro Vlog
 Nel video qui sotto puoi rivedere il nostro ingresso in Polonia oppure trovi la serie completa {{< extLink "a questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV" >}}.

@@ -13,7 +13,6 @@ Abbiamo visitato Amsterdam in 2 giorni, con cane e gatto come compagni di viaggi
 Essendo estate il clima era mite, anche se il vento e la pioggia possono sempre essere all'ordine del giorno, motivo per cui ti consigliamo di portare con te un k-way o {{< extLink "una mantellina" "https://amzn.to/44HlPdo" >}}!
 Noi siamo arrivati in città in camper e abbiamo **{{< bold "sostato" >}}** gratuitamente e **{{< bold "dormito in libera" >}}** nel quartiere NDSM Wharf <!-- (ti lasciamo la posizione qui se ne avessi bisogno, sperando sia ancora fattibile) -->
 
-
 Se vuoi sostare solo di giorno puoi spostarti nei parcheggi direttamente affacciati sul canale, se invece vuoi pernottare è consentito solo nelle vie limitrofe. Da questa zona il centro città è facilmente raggiungibile con traghetti gratuiti che partono ogni 10 minuti circa (durata tragitto 15 minuti, animali ammessi!).
 In ogni caso, anche se arrivassi in aereo, le mete che ti consigliamo sono sempre le stesse! ✈️
 
@@ -49,13 +48,11 @@ Dobbiamo essere sinceri, Amsterdam è stata forse una delle mete che ci è piaci
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683208306/IMG_1446_krr9fi.jpg" >}}
 
-
 ##### Viaggiare con il proprio animale
 In città ci sono numerose fontane, ma se la visiti in estate con il tuo amico a quattro zampe, ti consigliamo di portare con te una ciotola (noi usiamo questa che attacchiamo allo zaino con il pratico moschettone) e una borraccia. 
 Ti consigliamo di tenere il tuo animale al guinzaglio per evitare problemi, soprattutto con le numerose biciclette che sfrecciano a destra e sinistra. 
 
 ##### Il nostro Vlog 
-
 Nel video qui sotto puoi camminare per le vie di Amsterdam insieme a noi oppure trovi la serie completa sul paese {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ9CusTey8eX6KaVHeVOKXGL" >}}.
 
 {{< youtube dDNv8ZuuvEU>}}

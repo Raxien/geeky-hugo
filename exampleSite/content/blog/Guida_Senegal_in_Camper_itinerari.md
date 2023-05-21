@@ -16,24 +16,24 @@ Andare in Senegal in camper non era previsto nei nostri piani ma, spinti dai rac
 Dopo quasi 30 giorni trascorsi in Senegal, qualche disavventura in dogana e non solo, numerose conoscenze con i locali, parole imparate in dialetto, soluzioni pratiche trovate qua e là e informazioni utili a camperisti e non, ci è balzata in mente l'idea di scrivere un articolo sulla nostra avventura, sperando che possa essere utile a chi sta pensando di cimentarsi in un viaggio simile. 
 
 > ##### Tabella dei contenuti
-> - [Itinerario](#Itinerario)
+> - [Itinerario](#itinerario)
+>   - [Ingresso in paese, Saint Louis e Lago Retba](#ingresso-in-paese-saint-louis-e-lago-retba)
+>   - [Dakar e la Petit Cotè](#dakar-e-la-petit-cote)
+>   - [Direzione Casamance](#direzione-casamance)
 >   - [In breve](#in-breve)
-> - [Escursioni](#Escursioni)
-> - [Dogane](#Dogane)
-> - [Strade](#Strade)
-> - [Quanto abbiamo speso](#Spesa)
-> - [Considerazioni e tappe imperdibili](#Considerazioni)
-> - [Il nostro vlog](#Vlog)
-> - [Le nostre mappe](#Mappe)
-
-<div id="Itinerario"></div>
+> - [Escursioni](#escursioni)
+> - [Dogane](#dogane)
+> - [Strade](#strade)
+> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
+> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
+> - [Il nostro vlog](#il-nostro-vlog)
+> - [Le nostre mappe](#le-nostre-mappe)
 
 ##### Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, ricreando un piccolo diario giornaliero. 
-Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se  vuoi leggere le nostre considerazioni in merito al paese e soprattutto le tappe **{{< underline "imperdibili" >}}** puoi farlo [cliccando qua](#Considerazioni).
+Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se  vuoi leggere le nostre considerazioni in merito al paese e soprattutto le tappe **{{< underline "imperdibili" >}}** puoi farlo [cliccando qua](#considerazioni-e-tappe-imperdibili)).
 
 ###### Ingresso in paese, Saint Louis e Lago Retba
-
 **{{< underline "Giorno 1" >}}**: siamo arrivati alla dogana senegalese di Diama in tarda mattinata, per poi dirigerci direttamente a Saint Louis. Attraversando la cittadina l'impatto è notevole: una prima isola centrale decorata da colorate casette coloniali lascia lo spazio a un ponte che conduce all'isola dei pescatori, martoriata da sporcizia in ogni angolo, bambini che vagano in mezzo a una moltitudine di cani randagi e caprette, una spiaggia meravigliosa caratterizzata più da rifiuti che granelli di sabbia. Abbiamo sostato con il van a sud dell'isola dei pescatori, in libera e totalmente indisturbati.
 
 **{{< underline "Giorno 2" >}}**: ne abbiamo approfittato per visitare il {{< extLink "museo di fotografia di Saint Louis" "https://web.facebook.com/MuseedelaPhotographiedeStLouis/?_rdc=1&_rdr" "museo di fotografia di Saint Louis">}}. La visita si divide in 7 unità dislocate e la vera attrattiva a parer nostro sono proprio le location, vecchie case abbandonate, popolate da arte e natura incolta. Prezzo del biglietto 2000 F (3 euro) a persona, tempo di visita 1,30 h. Sosta in libera sull'isola dei pescatori (puoi usare i pullman cittadini per spostarti o come noi andare a piedi).
@@ -49,7 +49,6 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854059/Articoli/Senegal/Senegal_Artisti_qbm10j.jpg" >}}
 
 ###### Dakar e la Petit Cotè
-
 **{{< underline "Giorno 6" >}}**: guidare nella capitale, Dakar, non è una delle esperienze più semplici, motivo per cui studiando la cartina abbiamo circumnavigato la città dall'esterno, approfittando di un appuntamento nel quartiere periferico di Guediawaye. Qui abbiamo visitato una scuola che insegna alle ragazze a cucire, trovando per loro alcuni stage di inserimento nel lavoro (per informazioni progetto {{< extLink "Sunugal" "https://www.sunugal.it/progetti-sunugal.html">}} e associazione {{< extLink "Gis Gis" "https://web.facebook.com/gisgisdakar/?locale=it_IT&_rdc=1&_rdr">}}, che vende in Italia nei punti di ecomercato). Nel primo pomeriggio abbiamo proseguito lungo la "route de la corniche ovest" per visitare la gigantesca statua in bronzo alta 49 metri raffigurante una donna e un uomo con bambino che troneggia sui tetti della città e sull'Atlantico (Monument de la Reinassance Africane, visitabile anche all'interno a pagamento). Abbiamo sostato in una vietta laterale tranquilla e ombreggiata per dirigerci in piazza dell'Indipendenza e ottenere il primo timbro di proroga sul passavant del mezzo che concede i primi 15 giorni di permesso. Siamo arrivati 15 minuti prima della chiusura e l'operazione è stata rapida! Abbiamo approfittato della vicinanza al porto per visitare un mercato locale: aspettatevi di essere invitati a fermarvi davanti a ogni bancarella per comprare qualcosa e armatevi di pazienza e fermezza laddove necessario!. Abbiamo sostato in un viale alberato nella zona delle ambasciate, ma in città trovi anche un campeggio.
 
 **{{< underline "Giorno 7" >}}**: visitiamo l'isola di Goree, meglio nota come isola degli schiavi, al mattino presto per due motivi: lasciare gli animali a bordo del van senza che patissero il caldo ed evitare la ressa di turisti mista a venditori locali. Ci siamo così imbarcati alle 7.30 insieme a una decina di passeggeri (normalmente parte ogni mezz'ora dalle 6:15 alle 22:30, prezzo 5200 F o 8 euro a/r per persona) e dopo 20 minuti eravamo sull'isola. Intorno a noi solo il rumore della natura che si svegliava, poche persone intente a preparare la colazione e stendere i panni, opere d'arte sparse qua e là da ammirare in silenzio. Abbiamo percorso tutto il perimetro, leggendo la storia del luogo e immaginandone le atrocità subite da uomini, donne e bambini che qui venivano smistati e privati della loro identità prima di essere stivati a bordo delle navi che li avrebbero condotti nelle Americhe a lavorare e perire nelle piantagioni. Sull'isola si trovano anche un paio di musei (quello relativo alla casa degli schiavi ha ultime recensioni pessime!) e alcuni ristoranti, oltre a botteghe sparse qua e là (se vuoi sapere di più clicca {{< extLink "qui" "https://youtu.be/AHVvaftCd70" >}}). Noi siamo rientrati a Dakar con il traghetto delle 10.30, che è arrivato sull'isola trasportando circa 300 persone fra turisti e locali. Abbiamo a fatica raggiunto l'autostrada, per colpa del traffico cittadino, e siamo arrivati sulla Petit Cote giusto in tempo per pranzo. La nostra meta temporanea per spezzare il viaggio è stata Yenne, affacciata sulla costa e caratterizzata da resort abbandonati e alcune strutture in costruzione. Abbiamo sostato in libera con il van lungo la spiaggia, in un posto tranquillo ma invaso dalle zanzare! Possibilità di campeggio nei dintorni.
@@ -65,7 +64,6 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854070/Articoli/Senegal/Senegal_Fadial_Baobab_utzizh.jpg" >}}
 
 ###### Direzione Casamance
-
 Da qui in poi avremmo potuto scegliere fra due possibilità: attraversare la Gambia e la relativa dogana o circumnavigarla allungandoci verso le zone più interne del paese per raggiungere la Casamance (per tutte le alternative vi rimandiamo al paragrafo dedicato). Visto che avevamo già avuto problemi entrando in paese e avendo incontrato più persone che ci avevano raccontato aneddoti vari su posti di blocco corrotti, abbiamo deciso di percorrere più chilometri raggiungendo la città di Tambacounda. L'unico problema che abbiamo riscontrato prendendo questa decisione è stato il caldo, che ha fatto impazzire il cicalino dello scalino del van, impedendoci di proseguire per un paio di ore. Questa disavventura ci ha obbligati a fermarci in città per la notte, con 37 gradi a bordo e un rumore di traffico assordante. Presente un solo "hotel" che chiede 11000 F (16 euro) per poter sostare in una piazzola, abbiamo deciso di spostarci poco più avanti presso un benzinaio (notte infernale).
 
 **{{< underline "Giorno 11" >}}**: dopo esserci alzati alle 6 e aver fatto gasolio (presso una Shell che in realtà ci ha messo gasolio mischiato acqua!) siamo partiti decisi a raggiungere la Casamance entro sera, per non perdere altro tempo prezioso. La strada si è rivelata ben diversa in questo tratto: pochissimo traffico, asfalto in ottime condizioni (tranne qualche buca nel tratto finale), pochissimi dossi, natura rigogliosa, piccoli villaggi con case dal tetto in paglia e persone sorridenti. L'impressione è stata davvero ottima, tant'è che in questo luogo abbiamo iniziato ad apprezzare il nostro viaggio in Senegal. Abbiamo pranzato all'ombra di un albero sotto lo sguardo curioso di donne e bambini che abbiamo salutato con gioia, per poi ripartire e raggiungere un parcheggio a 10 minuti da Cap Skirring nel tardo pomeriggio, senza immaginare che questo luogo ci avrebbe rapiti per 6 giorni. Sosta in libera in natura vicino a un hotel abbandonato (dove siamo rimasti a dormire per giorni).
@@ -240,7 +238,7 @@ Entrando dalla Guinea Bisseau il passavant per il Senegal costa 4 euro.
 
 In dogana noi abbiamo anche effettuato l'assicurazione per il veicolo, al prezzo di 30 euro per un mese (ci è stata richiesta in un paio di posti di blocco). Si possono anche cambiare i soldi ad un cambio sfavorevolissimo o comprare sim a un prezzo rincarato, motivo per cui consigliamo di fare tutto a Saint Louis, che si raggiunge in meno di un'ora di strada.
 
-<div id="Strade"></div>
+
 
 ##### Strade 
 La situazione relativa alle condizioni delle strade in Senegal è la seguente: alcuni tratti, soprattutto quelli presenti nel nord del paese, sono terribilmente sconnessi, con buche ampie e dossi non sempre segnalati e di dimensioni maggiori in altezza rispetto a quelli europei. Nel sud del paese, nella zona della Casamance, ci è capitato di trovare dossi all'incontrario, dei veri e propri avvallamenti. Da Tambacounda in poi l'asfalto è molto ben mantenuto. 
@@ -254,8 +252,6 @@ Alcuni pulmini adibiti a taxi spesso trasportano persone sul tettuccio o semplic
 
 Ti sconsigliamo vivamente di guidare di notte.
 Sono frequenti i posti di blocco della polizia. Nel nord soprattutto cercheranno di multarti senza motivi plausibili. Assicurati di avere a bordo il doppio triangolo e l'estintore, obbligatori. 
-
-<div id="Speso"></div>
 
 ##### Quanto abbiamo speso
 Dare una cifra relativa al solo viaggio in Senegal è possibile, ma va contestualizzata all'interno dell'intero percorso perché arrivando via terra bisogna tener conto del prezzo del traghetto per arrivare in Africa, dei chilometri necessari per attraversare il Marocco da nord a sud, del visto di ingresso per la Mauritania (da pagare due volte ovviamente se si effettua lo stesso percorso in risalita) e dei 750 chilometri per attraversarla. 
@@ -277,9 +273,9 @@ Le nostre spese ammontano a:
 
 {{< underline "Totale: 798 euro">}}
 
-<div id="Considerazioni"></div>
 
-##### Considerazioni
+
+##### Considerazioni e tappe imperdibili
 Il nostro approccio iniziale al Senegal non è stato dei migliori: i problemi avuti in dogana, la troppa pattumiera ovunque, i problemi di corruzione e gestione della povertà nel paese ci hanno decisamente scossi.
 E' stato solo pensando a se e quando saremmo tornati in queste zone in van che abbiamo deciso di provare a raggiungere il sud, la Casamance, zona che ha decisamente risollevato il nostro morale, sia per i luoghi visitati sia per l'accoglienza da parte delle persone. 
 Tutta la magia che ci hanno regalato i 7 giorni vissuti in questa zona del Senegal non è stata intaccata neppure dai fatti sgradevoli accaduti nell'uscita dal paese. 
@@ -301,8 +297,6 @@ Tappe {{< underline "da evitare">}}:
 - Lago Rosa, per via del fatto che attualmente non è più rosa 
 - Petit Cote, troppo turistica e con hotel diroccati 
 
-<div id="Vlog"></div>
-
 ##### Il nostro Vlog
 Se vuoi vedere i nostri vlog o vuoi sentire le nostre considerazioni ti lasciamo di seguito i video: 
 
@@ -313,8 +307,6 @@ Se vuoi vedere i nostri vlog o vuoi sentire le nostre considerazioni ti lasciamo
 - {{< underline "le nostre considerazioni">}}
 
 {{< youtube avKZAgEAd0Q >}}
-
-<div id="Mappe"></div>
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1EogDF__ObgoOfXHFqgH2fxtq-A2SzGY&ehbc=2E312F" "1">}}

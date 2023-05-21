@@ -1,11 +1,11 @@
-+++
-categories = ["Italia", "Camper", "Curiosità"]
-date = 2023-01-02T08:00:00Z
-description = "Abbiamo voluto tenere traccia di tutte le nostre tappe"
-image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1672751449/Articoli/findpenguins_logo_standard_rgb_glv3wg.png"
-title = "Tutte le nostre tappe"
-type = "regular"
-+++
+---
+title: 'Abbiamo voluto tenere traccia di tutte le nostre tappe' 
+description: "L'applicazione giusta per tenere traccia di tutte le nostre le tappe in giro per il mondo"
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1672751449/Articoli/findpenguins_logo_standard_rgb_glv3wg.png
+date: 2023-01-22T17:00:00.000
+categories: ["Italia", "Camper", "Curiosità"]
+type: regular
+---
 
 Quando siamo partiti abbiamo postato ogni singolo giorno una storia mattutina su Instagram per tenere traccia di dove fossimo, poi cambiando continente (ebbene sì, abbiamo traghettato in [Africa](https://www.youtube.com/playlist?list=PLHaclq_J5PZ929klaWueEsMuZZvFWZKIB)) e avendo problemi di connessione Internet, abbiamo deciso di mantenere traccia delle nostre tappe negli articoli qui sul blog dedicati ad ogni paese e di sfruttare un'applicazione che ci permettesse di associare fotografie a posizione nel mondo. 
 
@@ -31,6 +31,6 @@ Insomma senza di loro non sarebbe stata la stessa cosa. Senza di loro non saremm
 
 Andiamo avanti con loro, grazie a loro.
 
-Ti lasciamo il [link](https://findpenguins.com/0knsmwp4npafs/trip/6370d91fc6caf3-83958962) della mappa. Cercheremo di aggiornarla il più possibile in tempo reale : )
+Ti lasciamo il {{< extLink "link" "https://findpenguins.com/0knsmwp4npafs/trip/6370d91fc6caf3-83958962" >}} della mappa. Cercheremo di aggiornarla il più possibile in tempo reale : )
 
 Se invece vuoi rivedere le nostre avventure in Europa e in Africa trovi tutto sul nostro **{{< extLink "canale YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw" >}}. 

@@ -15,17 +15,18 @@ Ti consigliamo di anche dare un'occhiata anche a un paio di mete nell'[Alta Fran
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)
+>   - [In breve](#in-breve)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni e tappe imperdibili](#Considerazioni)
-> - [Viaggiare con il proprio animale](#Animali)
-> - [Il nostro vlog](#Vlog)
+> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale))
+> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
+> - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
 ##### Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, ricreando un piccolo diario giornaliero. 
-Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), se invece vuoi sapere cosa consigliamo come tappe **{{< bold "imperdibili" >}}** puoi [cliccare qua](#Considerazioni).
+Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), se invece vuoi sapere cosa consigliamo come tappe **{{< bold "imperdibili" >}}** puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
 
 **{{< underline "Giorno 1" >}}**: la nostra meta, arrivando dall'Alta Francia è stata Le Treport, primo paese della Normandia. Se arrivi invece dalla regione di Parigi ti consigliamo vivamente una tappa nel piccolo paesino di Giverny, che abbiamo visitato anni fa raggiungendolo proprio a bordo della nostra automobile. Tornando a Le Treport, abbiamo passeggiato fino al faro e poi verso la spiaggia, ammirando una fila di casette colorate, ma ti consigliamo di non perdere anche le pittoresche casette che si estendono dall'altro lato della città, verso la spiaggia di Mers les Bains. Quando ha iniziato a piovere abbiamo deciso di spostarci per la notte a Dieppe, dove abbiamo cenato presso una piccola osteria a base di succo di mela, galette con funghi emmental e uovo, e galette con prosciutto emmental e uovo, senza farci mancare una crepe dolce con mele. La cena è finita con un quarto d’ora di ringraziamenti alla cassa e la cuoca, una nonnina dallo sguardo dolce, che agitava le mani verso di noi da una piccola finestrella che dava sulla cucina. Notte in libera nel grande parcheggio affacciato sulla spiaggia. 
 
@@ -66,7 +67,7 @@ Puoi tranquillamente dedicare una sola giornata alla loro visita, scegliendo mag
 **{{< underline "Giorno 11" >}}**: siamo arrivati di prima mattina al parcheggio di un chioschetto non distante da Mont Saint Michel, dove consumando colazione si può parcheggiare per un paio di ore. Acquistati caffè e Madeleine al cioccolato ci siamo gustati sia i dolci che la vista. Poi, assicurati gli animali in van per evitare loro la bolgia di gente che avremmo incontrato, ci siamo incamminati per un'oretta di passeggiata. Se non te la senti di camminare puoi fare la coda per salire sul trenino a pagamento. Avendo già visitato l'Abbazia anni prima, abbiamo solo camminato per le viuzze, a parer nostro rovinate un po' dalle troppe insegne turistiche, per poi dirigerci in un parcheggio a Cherrueix, in riva al mare. 
 
 
-##### In Breve
+###### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera. 
 
 **{{< underline "Giorno 1" >}}**: Le Treport - Dieppe
@@ -93,7 +94,7 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682805540/Articoli/francia/IMG_3844_ikkvde.jpg" >}}
 
-<div id="Strade"></div>
+
 
 ##### Strade 
 Tutte le strade percorse in Normandia sono in buono stato e regalano scorci davvero mozzafiato. 
@@ -114,7 +115,8 @@ Di seguito un'idea di quanto abbiamo speso nei 10 giorni in Normandia, tenendo p
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804701/Articoli/francia/IMG_3908_molbfa.jpg" >}}
 
-<div id="Considerazioni"></div>
+##### Viaggiare con il proprio animale
+{{< animali "EU">}}
 
 ##### Considerazioni e tappe imperdibili
 A noi la Francia è rimasta nel cuore, due volte sue due. I paesini sono ordinati e puliti, con un'architettura armonica. Sovente l'odore di pane e burro ti inviterà a entrare in una boulangerie e difficilmente ne rimarrai deluso. 
@@ -126,13 +128,6 @@ In camper o auto, mete imperdibili:
 -   **{{< bold "le spiagge degli sbarchi" >}}**: in questo viaggio non abbiamo replicato tutte le spiagge, ma se non le hai mai viste te le consigliamo tutte, in particolare Omaha Beach e il vicino Cimitero Monumentale. 
 -   **{{< bold "Granville" >}}**: città vivace e piacevole da visitare, vi verrà davver voglia di cercare i numerosi gnometti sparsi ovunque.
 -   **{{< bold "Mont Saint Michel" >}}**: per quanto ormai sia una meta a parer nostro troppo turistica, vale sicuramente una visita.
-
-<div id="Animali"></div>
-
-##### Viaggiare con il proprio animale
-{{< animali "EU">}}
-
-<div id="Vlog"></div>
 
 ##### Il nostro Vlog
 Nel video qui sotto puoi rivedere il nostro Vlog in Normandia oppure trovi la serie completa sul paese {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.

@@ -3,7 +3,7 @@ title: 'Da Aveiro a Lisbona: 10 giorni on the road'
 description: "Alla scoperta del centro del Portogallo, in un viaggio on the road tra città e onde dell'oceano atlantico"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683737113/IMG_1457_qal72d.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Europa", "Guida", "Itinerario", "Camper"]
+categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Portogallo 
 type: featured
 draft: true
@@ -72,9 +72,6 @@ Se invece hai intenzione di visitare anche altre zone del paese ti rimandiamo [a
   Lisbona è forse la città con meno 'saudade' (malinconia) tipica dei luoghi portoghesi, dato che è viva e piena di cose da vedere. L’Alfama è il più antico quartiere della capitale, con le sue facciate delle case con l’intonaco corroso, gli azulejos stinti e i vicoli stretti. Non perderti la vista che puoi ammirare dal Miradouro de Santa Luzia. Il Castello di Sao Jorge è uno degli edifici più antichi, posto sul colle più alto di Lisbona. La piazza più grande è la Praca do Comercio, vicina al lussuoso quartiere Baixa con i suoi negozi alla moda, ristoranti e pasticcerie tradizionali. La via principale è la pedonale Rua Augusta, che dall’Arco arriva fino a piazza Rossio. Una delle migliori attrazioni della Baixa è l’Elevador de Santa Justa, ascensore in ferro che conduce in cima a una torre da dove si apre una vista a 360 gradi sopra Lisbona e le colline circostanti. Sempre n questo quartiere a noi sono piaciute molto le rovine del Convento do Carmo. 
   Poco distanti dal centro trovi la Torre di Belém, bastione alto 30 metri e circondato da quattro torrette. che è uno dei monumenti più rappresentativi di Lisbona e il Monastero dos Jeronimos.
   Noi abbiamo amato passeggiare per la città senza fretta, ammirandola ancor di più in orario di tramonto quando la luce del sole la rende davvero raggiante. 
-
-
-
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683737134/IMG_2021_kbejtx.jpg" >}}
 

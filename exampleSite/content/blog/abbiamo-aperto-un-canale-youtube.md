@@ -25,7 +25,6 @@ Dipende dai punti di vista. A noi sono serviti un po' di tutorial e tanta tanta 
 Quindi se ogni tanto la sera non sai quale film guardare e ti va di stare in nostra compagnia, puoi aprire YouTube e andare sul **{{< extLink "canale Vandipety" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw" >}}**! Se vorrai lasciarci anche un mi piace e un commento il tuo parere è per noi davvero prezioso e ci aiuta a migliorare ogni giorno di più! ☺️
 
 ##### Stagioni
-
 _**{{< extLink "Stagione 1" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ9QT9yAaaqtoXtGUh2iMEI5" >}}**_: Un cambio di vita radicale ci porta alla scoperta di paesaggi mozzafiato, città affascinanti e persone straordinarie nel nostro continente. Sali a bordo, la prima stagione inizia qui!
 
 _**{{< extLink "Stagione 2" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ929klaWueEsMuZZvFWZKIB" >}}**_: Abbiamo abbandonato le comodità dell'Europa per intraprendere un'avventura in Africa. Obiettivo? Scoprire nuove culture e metterci alla prova in un ambiente completamente diverso da quello a cui eravamo abituati. Riusciremo in questo intento?

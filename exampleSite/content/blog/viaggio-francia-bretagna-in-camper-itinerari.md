@@ -14,19 +14,20 @@ Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tapp
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)
+>   - [In Breve](#in-breve)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni e tappe imperdibili](#Considerazioni)
-> - [Viaggiare con il proprio animale](#Animali)
-> - [Il nostro vlog](#Vlog)
+> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale))
+> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
+> - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
  {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806020/Articoli/francia/IMG_5510_df3poq.jpg" >}}
 
 ##### Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura.
-Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#Considerazioni).
+Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
 
 **{{< underline "Giorno 1" >}}**: prima tappa **{{< bold "Mont Saint Michel" >}}**. Siamo arrivati di prima mattina al parcheggio di un chioschetto dove consumando colazione si può parcheggiare per un paio di ore. Acquistati caffè e Madeleine al cioccolato ci siamo gustati sia i dolci che la vista. Poi, assicurati gli animali in van per evitare loro la bolgia di gente che avremmo incontrato, ci siamo incamminati per un'oretta di passeggiata. Se non te la senti di camminare puoi fare la coda per prendere il trenino a pagamento. Avendo già visitato l'Abbazia anni prima, abbiamo solo camminato per le viuzze, a parer nostro rovinate un po' dalle troppe insegne turistiche, per poi dirigerci in un parcheggio a **{{< bold "Cherrueix" >}}**, in riva al mare. 
 
@@ -61,7 +62,7 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 Da qui in poi le nostre avventure sono proseguite verso sud, sempre seguendo la costa atlantica. Abbiamo attraversato la regione che si chiama Pays de la Loira, facendo solo un paio di tappe: una a Moidson-la-Riviere (bellissimo e minuscolo borgo circondato da natura rigogliosa, a sud di Chateaubriant) e l'altra a Nantes (purtroppo diluviava ma siamo comunque riusciti a vedere la statua dell'elefante, ispirato a Jules Verne e Leonardo, che barrisce e sputa acqua in movimento ) e rimandando al futuro invece la visita dei castelli della Loira. 
 Infine ci siamo diretti in [Nuova Aquitania](/blog/guida_nuova_aquitania_in_camper_itinerari/), fino a raggiungere il capoluogo Bordeaux e da lì la Spagna del Nord (a breve l'articolo in merito)
 
-##### In Breve
+###### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera. 
 
 **{{< underline "Giorno 1" >}}**: Mont Saint Michel - Cherrueix
@@ -90,7 +91,7 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682805540/Articoli/francia/IMG_3844_ikkvde.jpg" >}}
 
-<div id="Strade"></div>
+
 
 ##### Strade 
 Come nel resto del paese non abbiamo trovato strade in condizioni pericolose. Tutte le zone in prossimità dei fari regalano scorci davvero mozzafiato.
@@ -98,9 +99,7 @@ Come nel resto del paese non abbiamo trovato strade in condizioni pericolose. Tu
 ##### Servizi e soste
 In Francia è molto semplice trovare aree di servizio attrezzate e gratuite per carico e scarico.
 Per le soste in libera noi non abbiamo avuto problemi dato che ci siamo recati in un periodo di bassa stagione. L'unica attenzione che ti consigliamo è di prestare attenzione a luoghi in cui il vento potrebbe essere fastidioso o addirittura pericoloso. 
-Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio. 
-
-<div id="Speso"></div>
+Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio. >
 
 ##### Quanto abbiamo speso
 Di seguito un'idea di quanto abbiamo speso nei 10 giorni in Bretagna, tenendo però conto che questo viaggio rientra in un percorso molto più ampio, che ci ha visti percorrere tutta la costa atlantica del paese da nord a sud. 
@@ -111,7 +110,7 @@ Di seguito un'idea di quanto abbiamo speso nei 10 giorni in Bretagna, tenendo pe
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806085/Articoli/francia/IMG_4801_mof0mc.jpg" >}}
 
-<div id="Considerazioni"></div>
+
 
 ##### Considerazioni e tappe imperdibili
 Questa è stata la nostra prima esperienza in Bretagna e abbiamo davvero amato questa regione. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera magica e di altri tempi. 
@@ -131,10 +130,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 ##### Viaggiare con il proprio animale
 {{< animali "EU">}}
 
-<div id="Vlog"></div>
-
 ##### Il nostro Vlog 
-
 Nel video qui sotto puoi rivedere la nostra meraviglia di fronte ai fari oppure trovi la serie completa sul paese {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.
 
 {{< youtube QW8a24Bg_co >}}

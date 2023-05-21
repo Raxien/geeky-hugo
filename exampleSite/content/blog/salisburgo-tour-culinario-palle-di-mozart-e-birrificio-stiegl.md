@@ -7,6 +7,7 @@ categories: ["Europa", "Itinerari"]
 country: Austria
 type: regular
 ---
+
 Siamo arrivati in città una domenica di inizio giugno, con più di 30 gradi inaspettati, per cui abbiamo subito deciso che il nostro tour di Salisburgo sarebbe stato abbastanza rapido.  
 Avendo parcheggiato dal lato opposto del centro città ci siamo trovati davanti alla spettacolare **Fortezza Hohensalzburg**, che svetta maestosa sopra ai tetti dei palazzi. Attraversando il Ponte Mozart siamo arrivati in Mozartplatz, dalla quale ci si ritrova subito vicino alla **Cattedrale di Salisburgo**, alla **Domplatz**** e a "**Sphera**", la statua tonda dorata con un uomo in cima che guarda verso una donna incastonata nella montagna.  
 
@@ -17,7 +18,6 @@ Abbiamo così dato il via al nostro *tour culinario di Salisburgo*: prima meta, 
 ![Vista sulla fortezza di Salisburgo](https://res.cloudinary.com/ilgattodicitturin/image/upload/v1656413071/Articoli/salisburgo/salisburgo_1_2_kusmnl.jpg "Vista sulla fortezza di Salisburgo")
 
 ##### Tour culinario a Salisburgo 
-
 Cercheremo di prenderti per la gola con soli due ingredienti, il cioccolato e la birra. Tieni un posticino anche per un po' di burro, capirai il perché.  
 
 Come ti dicevamo prima, ci siamo fermati in centro città per acquistare le famose **Palle di Mozart**, decidendo di provare i prodotti della pasticceria Furst (1,60€ al pezzo). Le sfere di cioccolato ci hanno conquistati dal primo morso: un cuore di marzapane e pistacchio avvolto da cioccolato e gianduja. Una a testa non poteva bastare, così abbiamo subito divorato quella conservata per la merenda. 

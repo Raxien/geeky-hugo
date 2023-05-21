@@ -1,11 +1,11 @@
-+++
-categories = ["Curiosità", "YouTube"]
-date = 2023-01-17T09:18:00Z
-description = "Dove ci porterà tutto questo non lo sappiamo, ma sentiamo che ci sta accrescendo sotto tanti punti di vista e a oggi è l’investimento migliore che potessimo fare su noi stessi."
-image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1674035838/Articoli/storie_su_stra_ep1_ruaori.png"
-title = "“Storie su strada” ep.1: Come abbiamo vissuto il cambiamento delle nostre vite "
-type = "regular"
-+++
+---
+title: "Storie su strada”: un podcast sul nostro cambiamento di vita"
+description: "Un podcast alla scoperta di come abbiamo deciso di cambiare vita"
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1674035838/Articoli/storie_su_stra_ep1_ruaori.png"
+date: 2023-02-17T23:00:00Z
+categories: ["Curiosità", "YouTube"]
+type: "regular"
+---
 
 _Storie su strada_ è il nostro **podcast** che parla di cambiamento, di come viene vissuto, di tutte le forme che può assumere.
 
