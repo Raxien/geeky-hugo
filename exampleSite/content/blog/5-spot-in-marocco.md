@@ -75,7 +75,7 @@ Se ti venisse voglia di pizza non temere: da {{< extLink "Snack Pizzeria Slimane
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684676852/IMG_1300_uvyhzx.jpg" >}}
 
-#### 5 Lago El Sidi Chahede
+#### 5 - Lago El Sidi Chahede
 Questo è il nostro spot del cuore ed è **il luogo che più abbiamo forse amato di tutto il Marocco**. Siamo rimasti 5 giorni immersi nel nulla, senza che ci mancasse alcunché. Attorno a noi le montagne rosse, verdi, bianche. Qualche campo di grano. Il letto di quello che un tempo era un lago, oggi totalmente prosciugato. 
 Potrebbe intimorire alcuni, noi abbiamo apprezzato tutto: il silenzio, il cielo stellato, la possibilità di camminare in qualsiasi direzione.
 Non esistono zone d'ombra ma dalle 11 del mattino si alza una brezza davvero piacevole. 
