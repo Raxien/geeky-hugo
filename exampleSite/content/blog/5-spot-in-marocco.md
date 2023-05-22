@@ -3,7 +3,8 @@ title: 'Marocco in camper: 5 spot da sogno'
 description: 5 parcheggi, tutti gratuiti tranne uno, immersi nella natura in cui vivere e sognare a bordo del tuo camper. Vieni a scoprirli con noi!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684676753/IMG_9525_hvzska.jpg
 date: 2023-05-18T10:00:00+01:00
-categories: [ "Curiosità", "Consigli","Itinerario"]
+categories: [ "Curiosità", "Consigli","Itinerari"]
+country: Marocco
 type: featured
 draft: false 
 ---

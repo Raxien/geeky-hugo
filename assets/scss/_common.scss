@@ -485,3 +485,35 @@ select {
     }
   }
 }
+
+
+.article__pros-cons {
+  border-top-width: 5px;
+  border-top-style: solid;
+}
+
+.article__pros-cons__pros  {
+  border-color: #00ab54 !important;
+  color: #00ab54 !important;
+}
+
+.article__pros-cons__cons {
+  border-color: #f71735 !important;
+  color: #f71735 !important;
+}
+
+.article__pros-cons__pros li:before {
+  background-color: #00ab54 !important;
+}
+
+.article__pros-cons__cons li:before {
+  background-color: #f71735 !important;
+}
+
+.ul_pro li::before {
+  background: #00ab54 !important;
+}
+
+.ul_cons li::before {
+  background: #f71735 !important;
+}

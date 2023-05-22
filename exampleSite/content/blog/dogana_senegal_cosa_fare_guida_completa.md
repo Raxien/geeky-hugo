@@ -6,7 +6,7 @@ date: 2023-03-26T17:00:00.000
 categories: ["Africa", "Dogana"]
 country: Senegal
 type: featured
-draft: true
+draft: false
 ---
 
 Se vuoi arrivare in Senegal a bordo del tuo mezzo che sia moto, auto o camper e non sai come fare, **sei nel posto giusto**! 
@@ -49,25 +49,33 @@ Entrambe hanno i loro **pro** e soprattutto **contro** e la scelta dipende essen
 3. che mezzo possiedi
 
 ###### Rosso
-> {{< bold "Pro" >}} 
-> - Facilmente raggiungibile con qualsiasi mezzo 
-> - Facilmente raggiungibile in qualsiasi stagione
-> 
-> {{< underline "Contro" >}}
-> - Estremamente corrotta
-> - Costi esorbitanti per entrare (e uscire)
+> <h6 class="article__pros-cons article__pros-cons__pros">PRO</h6>
+> <ul class="ul_pro">
+>   <li>Facilmente raggiungibile con qualsiasi mezzo</li>
+>   <li>Raggiungibile in qualsiasi stagione</li>
+> </ul>
+
+> <h6 class="article__pros-cons article__pros-cons__cons">CONTRO</h6>
+> <ul class="ul_cons">
+>   <li>Estremamente corrotta</li>
+>   <li>Costi esorbitanti per entrare (e uscire)</li>
+> </ul>
 
 La strada è molto facile da percorrere, tutta asfaltata e facilmente raggiungibile a bordi di qualsiasi mezzo.
 Il vero problema è l'estrema corruzione che si riflette in costi esorbitanti se si vuole passare da questa dogana. Quando eravamo al famoso [Zebrabar](/blog/guida_senegal_in_camper_itinerari/), abbiamo sentito di persone che hanno sborsato addirittura 1000 euro per entrare (e immaginiamo lo stesso per uscire dal Senegal)!
 
 ###### Diama
-> {{< underline "Pro" >}} 
-> - Economica
-> - Poco frequentata
-> 
-> {{< underline "Contro" >}}
-> - Meno facile da raggiungere
-> - Durante la stagione delle piogge raggiungibile solo con un 4x4
+> <h6 class="article__pros-cons article__pros-cons__pros">PRO</h6>
+> <ul class="ul_pro">
+>   <li>Economica</li>
+>   <li>Poco frequentata</li>
+> </ul>
+
+> <h6 class="article__pros-cons article__pros-cons__cons">CONTRO</h6>
+> <ul class="ul_cons">
+>   <li>Meno facile da raggiungere</li>
+>   <li>Durante la stagione delle piogge raggiungibile solo con un 4x4</li>
+> </ul>
 
 L'unico problema di questa dogana è la strada in quanto dall'ultima "città" della Mauritania al confine ci sono 48 chilometri di strada sterrata **in pessime condizioni** il cui tempo di percorrenza è di circa 2 ore e mezza. Questa strada diventa **impraticabile per i mezzi non 4x4** durante la stagione delle piogge. Ha di positivo che si trova all'interno del **parco del Dwailing** e permette di avvistare numerosi animali selvatici, soprattutto facoceri e uccelli di tutti i colori che migrano verso il vicino [parco del Djoudj](/blog/informazioni_viaggio_senegal/).
 
