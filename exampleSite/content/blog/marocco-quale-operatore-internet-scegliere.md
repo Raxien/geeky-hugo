@@ -45,7 +45,7 @@ Vuoi vedere le nostre avventure in questo luogo fra trekking e rocce colorate?
 {{< youtube VUcb9JEbnME>}}
 
 #### Cattedrale di Amsfrane 
-Non immaginarti una sosta religiosa, perchè di una Cattedrale in questo luogo troverai solo la forma di una montagan imponente. Tutto attorno la natura regna sovrana, con alberi e il letto del fiume. 
+Non immaginarti una sosta religiosa, perché di una Cattedrale in questo luogo troverai solo la forma di una montagan imponente. Tutto attorno la natura regna sovrana, con alberi e il letto del fiume. 
 
 _ACCESSO_ 
 La strada per arrivarci è tutta in salita e piena di curve, un po' stretta in alcuni punti e quasi totalmente asfaltata, tranne l'ultimo tratto in cui occorre attraversare il letto del fiume. 

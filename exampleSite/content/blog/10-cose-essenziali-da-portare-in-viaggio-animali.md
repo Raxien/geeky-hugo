@@ -12,7 +12,7 @@ Viaggiamo da un anno on the road con il nostro cane e il nostro gatto ed eccoti 
 
 ##### 1. Acqua
 Che il tuo animale sia o meno abituato a bere dalle fontane, non è sempre detto che si possano trovare, che siano funzionanti e che l'acqua sia potabile.
-Ecco perchè ti consigliamo di portare con te {{< extLink "una borraccia" "https://amzn.to/3NQxosJ" >}} come questa che mantiene anche l'acqua fresca!
+Ecco perché ti consigliamo di portare con te {{< extLink "una borraccia" "https://amzn.to/3NQxosJ" >}} come questa che mantiene anche l'acqua fresca!
 
 
 ##### 2. Ciotola
@@ -46,8 +46,8 @@ In alcuni paesi la museruola è d'obbligo attaccata al guinzaglio, in altri inve
 
 
 ##### 9. Pettorina 
-Perchè preferiamo la pettorina al collare?
-Per il cane per comodità e sicurezza, per il gatto perchè è più difficile da sfilare autonomamente e c'è meno rischio che rimanga impigliato in rami o quant'altro.
+Perché preferiamo la pettorina al collare?
+Per il cane per comodità e sicurezza, per il gatto perché è più difficile da sfilare autonomamente e c'è meno rischio che rimanga impigliato in rami o quant'altro.
 <!-- Per i nostri animali usiamo queste -->
 
 
