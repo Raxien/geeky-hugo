@@ -131,8 +131,6 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682607500/Articoli/Polonia/danzica_case_bbp71v.jpg" >}}
 
-
-
 ##### Strade 
 La Polonia ha una vasta rete stradale, che comprende autostrade, strade nazionali e locali in stato a dir poco **"perfetto"**. Noi abbiamo percorso sempre le strade nazionali e locali senza problemi, anche nelle zone più di campagna.
 
