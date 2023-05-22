@@ -7,6 +7,7 @@ categories: ["Europa", "Guida", "Animali"]
 country: Austria
 type: regular
 ---
+
 Quando abbiamo iniziato {{< extLink "l'avventura Vandipety" "https://www.youtube.com/watch?v=Za72BX3mgNY" >}} abbiamo cambiato tour più volte, finché in quello definitivo abbiamo inserito anche Vienna, da visitare ovviamente con cane e gatto. 
 Quello che non ci aspettavamo era di trovare una città così poco pet friendly, ma dopo un paio di settimane {{< extLink "di restrizioni in altri luoghi austriaci" "https://www.youtube.com/watch?v=5On2kJVs7Hk&list=PLHaclq_J5PZ9M2bL8Cgqg8a_9vxRXWftV&index=2&t=5s" >}}, come ad esempio lungo i laghi, qualcosa potevamo prevedere.
 Sul web non si trovavano molte informazioni, quindi quando abbiamo parcheggiato il nostro van in centro città (era sabato pomeriggio, parcheggio possibile e gratuito, proibito invece dal lunedì al venerdì) abbiamo iniziato a passeggiare con Olimpia e Sakè.

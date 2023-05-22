@@ -26,13 +26,19 @@
   {{ $data.Set "value" "un thieboudienne" }}
   <!-- Olanda -->
   {{ else if eq $country "NLD" }}
-  {{ $data.Set "value" "un stamppot" }}
+  {{ $data.Set "value" "un panino con l'aringa" }}
+ <!-- Belgio -->
+  {{ else if eq $country "B" }}
+  {{ $data.Set "value" "una birra trappista" }}
   <!-- Marocco -->
   {{ else if eq $country "MAR" }}
   {{ $data.Set "value" "un cous cous" }}
   <!-- Spagna del Nord -->
   {{ else if eq $country "SP_n" }}
   {{ $data.Set "value" "un pinxto" }}
+  <!-- Andalusia -->
+  {{ else if eq $country "SP_a" }}
+  {{ $data.Set "value" "una tapa" }}
   <!-- Giappone -->
   {{ else if eq $country "JAP" }}
   {{ $data.Set "value" "un ramen 🍜" }}
@@ -57,6 +63,9 @@
   <!-- Olanda -->
   {{ else if eq $country "O"}}
   {{ $data.Set "value" "un kibbeling" }}
+  <!-- Austria -->
+  {{ else if eq $country "A"}}
+  {{ $data.Set "value" "una birra" }}
   <!-- Portogallo -->
   {{ else if eq $country "PT"}}
   {{ $data.Set "value" "un Pastel de nata" }}
