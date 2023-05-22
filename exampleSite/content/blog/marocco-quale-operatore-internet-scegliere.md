@@ -4,7 +4,7 @@ description: 5 parcheggi, tutti gratuiti tranne uno, in cui vivere e sognare a b
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684506267/IMG_9525_umvoqs.jpg
 date: 2022-07-05T10:00:00+01:00
 categories: [ "Curiosità", "Consigli"]
-type: featured
+type: regular
 draft: true
 ---
 

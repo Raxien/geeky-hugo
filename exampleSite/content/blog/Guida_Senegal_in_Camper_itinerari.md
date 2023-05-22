@@ -5,9 +5,8 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681839060/Art
 date: 2023-03-26T17:00:00.000
 categories: ["Africa", "Dogana", "Itinerari", "Camper"]
 country: Senegal
-type: featured
+type: regular
 draft: false
-victor: true
 ---
 
 Andare in Senegal in camper non era previsto nei nostri piani ma, spinti dai racconti di altri camperisti (che puoi 

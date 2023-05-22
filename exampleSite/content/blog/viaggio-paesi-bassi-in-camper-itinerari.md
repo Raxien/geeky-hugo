@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683208302/IMG
 date: 2022-07-26T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari"]
 country: Paesi Bassi
-type: featured
+type: regular
 draft: false
 ---
 

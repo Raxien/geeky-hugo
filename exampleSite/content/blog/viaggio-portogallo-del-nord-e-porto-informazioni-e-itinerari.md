@@ -5,8 +5,8 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683730729/IMG
 date: 2023-04-10T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Portogallo 
-type: featured
-draft: true
+type: regular
+draft: false
 ---
 
 In questo articolo ti portiamo con noi alla scoperta di Porto e di altre tre cittadine del Portogallo del Nord, che noi abbiamo raggiunto a bordo del nostro van. Puoi prendere in considerazione questo itinerario anche se decidi di affittare un'automobile arrivando a Porto in aereo. 

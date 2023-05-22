@@ -4,7 +4,7 @@ description: Scopri le 10 cose essenziali da avere per un viaggio indimenticabil
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657024162/Articoli/10_cose_per_un_viaggio_ontheroad_udittt.jpg
 date: 2022-07-05T10:00:00+01:00
 categories: [ "Animali", "Consigli"]
-type: featured
+type: regular
 draft: true
 ---
 

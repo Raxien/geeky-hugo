@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223914/IMG
 date: 2023-05-03T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Spagna
-type: regular
+type: featured
 draft: false
 ---
 

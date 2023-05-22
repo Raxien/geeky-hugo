@@ -4,12 +4,9 @@ description: Scopri le 5 cose essenziali da portare con te per un viaggio on the
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657024162/Articoli/10_cose_per_un_viaggio_ontheroad_udittt.jpg
 date: 2022-07-05T10:00:00+01:00
 categories: [ "Animali", "Consigli"]
-type: featured
+type: regular
 draft: true
 ---
-
-
-
 
 
 SCRIVERLO TUTTO!!!!!!!!!!!!!!!!
