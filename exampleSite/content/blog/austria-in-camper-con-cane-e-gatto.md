@@ -57,7 +57,6 @@ Per la notte ci siamo spostati a Gmunden.
 
 {{< youtube 5On2kJVs7Hk>}} 
 
-
 **{{< underline "Giorno 13-14" >}}**: **Gmunden** è un altro paesino affacciato su di un lago che riporta l'ennesimo divieto di balneazione per cani. Si possono però fare delle belle passeggiate sul molo, picnic sull'erba insieme alle persone del posto, visitare il giardino del castello affacciato sul molo, e le viuzze strette del centro storico. In città si trova anche {{< extLink "un'ottima pizzeria" "http://www.hacklpizza.at/" >}} che permette l'asporto (noi abbiamo gustato due pizze ottime in riva al lago!). Sosta in libera in un parcheggio vicino al lago. 
 
 **{{< underline "Giorno 15" >}}**: abbiamo visitato le bellissime **cascate di Traun** raggiungibili tramite una passerella in legno, fatto il bagno in un fiume nelle immediate vicinanze e abbiamo dormito nella foresta al riparo dal diluvio.  
@@ -79,7 +78,6 @@ Per la notte ci siamo spostati a Gmunden.
 Da questa zona dell'Austria le nostre avventure sono proseguite verso Est, in [Slovacchia](/blog/viaggio-slovacchia-in-camper) prima e in [Polonia](/blog/viaggio-polonia-in-camper-itinerari/) subito dopo. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684674595/IMG_3781_d6m78n.jpg" >}}
-
 
 ###### In Breve
 Di seguito le sole tappe della nostra avventura. Abbiamo sempre dormito in libera o in aree sosta gratuite. 

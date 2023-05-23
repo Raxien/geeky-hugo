@@ -36,11 +36,11 @@ Di seguito trovi anche tutti gli articoli relativi ai paesi visitati e le mappe 
     - Nuova acquitania [ [Camper](/blog/viaggio-francia-nuova-aquitania-in-camper-itinerari/) - {{< extLink "Mappa" "https://www.google.com/maps/d/u/0/embed?mid=1MHF6Cy2vwWikjALaqs5u8QAf2PibH1Y&ehbc=2E312F" >}} ]
 
 - Spagna 
-    - Nord [ [Itineario](/blog/guida_spagna_del_nord_in_camper_itinerari/) - {{< extLink "Mappa" "https://www.google.com/maps/d/u/0/embed?mid=11GfW4gwkFqTBJcnrv5FV-ak3qVS4jws&ehbc=2E312F" >}} ]
+    - Nord [ [Itineario](/blog/guida-spagna-del-nord-in-camper-itinerari/) - {{< extLink "Mappa" "https://www.google.com/maps/d/u/0/embed?mid=11GfW4gwkFqTBJcnrv5FV-ak3qVS4jws&ehbc=2E312F" >}} ]
 
 ###### Africa
 
 - Marocco [⚠️ Presto]
 - Mauritania [ [Camper](/blog/viaggio-mauritania-on-the-road-le-dogane/) - {{< extLink "Mappa" "https://www.google.com/maps/d/u/0/embed?mid=18_x_kSmOimidCpZAW0h6sRxD1sJaadQ&ehbc=2E312F" >}} ]
-- Senegal [[Guida](/blog/informazioni_viaggio_senegal/) - [Itinerario](/blog/guida_senegal_in_camper_itinerari/) - {{< extLink "Mappa" "https://www.google.com/maps/d/u/0/embed?mid=1EogDF__ObgoOfXHFqgH2fxtq-A2SzGY&ehbc=2E312F" >}}]
+- Senegal [[Guida](/blog/informazioni_viaggio_senegal/) - [Itinerario](/blog/guida-senegal-in-camper-itinerari/) - {{< extLink "Mappa" "https://www.google.com/maps/d/u/0/embed?mid=1EogDF__ObgoOfXHFqgH2fxtq-A2SzGY&ehbc=2E312F" >}}]
 

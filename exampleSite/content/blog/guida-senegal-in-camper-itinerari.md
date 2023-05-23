@@ -22,7 +22,6 @@ Dopo quasi 30 giorni trascorsi in Senegal, qualche disavventura in dogana e non 
 >   - [In breve](#in-breve)
 > - [Escursioni](#escursioni)
 > - [Dogane](#dogane)
-> - [Strade](#strade)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
 > - [Il nostro vlog](#il-nostro-vlog)
@@ -160,97 +159,9 @@ Per quanto riguarda questi luoghi non possiamo darti la nostra opinione in merit
 
 <div id="Dogana"></div>
 
-##### Dogana
-Entrare in Senegal in auto o con il proprio camper è fattibile con le dovute accortezze e armandosi di pazienza.
-Il nostro ingresso nel paese non è stato dei migliori quindi nel corso della nostra permanenza abbiamo deciso di raccogliere varie informazioni che vi mettiamo a disposizione, in modo da poter aiutare chi fosse intenzionato a intraprendere la stessa avventura. 
-
-Per arrivare al confine senegalese dal nord bisogna attraversare prima il Marocco (scopri {{< extLink qui "https://www.youtube.com/watch?v=9fsV_nTm9bg" >}} la nostra avventura) e poi la Mauritania (qui per saperne di più). Se vuoi intraprendere quest'avventura ti consigliamo vivamente di leggere i precedenti articoli per conoscere la condizione delle strade e i costi da sostenere!
-
-Per entrare in Senegal esistono due dogane: Rosso e Diama.
-La prima è facilmente raggiungibile ma estremamente corrotta. Attualmente arrivano a chiedere addirittura 1000 euro per entrare(e poi per uscire)! Da evitare, tranne in casi di assoluta impossibilità!
-
-La seconda è quella che abbiamo attraversato noi. La strada per raggiungerla non è delle migliori ma i costi sono decisamente minori.
-
-Lungo il percorso ci sono alcune tasse obbligatorie: quelle relative all'uscita dalla Mauritania (le trovi dettagliate nell'articolo in merito) e quella che si paga per attraversare semplicemente un piccolo ponte alla cifra di 800 oug o 8 euro, utile per farsi alzare una sbarra (non si può contrattare e se si prova si ottiene come risposta "allora tornate in Mauritania")
-
-Consigli: se vuoi procedere in autonomia non dare i passaporti a nessuno tranne che ai doganieri. Alla frontiera è pieno di persone che cercheranno di prendere i tuoi preziosi documenti per occuparsi di tutte le pratiche. Se non fai attenzione (e non contratti subito) alla fine ti chiederanno un sacco di soldi. Procurati delle fotocopie dei passaporti e libretto di circolazione. Tolto quando espressamente richiesto dal doganiere cerca di dare sempre la fotocopia. 
-
-A questo punto ti troverai davanti due edifici. Vai in quello di destra per ottenere il visto. E' gratuito con il passaporto italiano ed è un passaggio abbastanza veloce. Giusto il tempo di prendere le impronte e scattare una fotografia con una webcam.
-Nell'edificio a sinistra, invece, puoi sbrigare tutte le faccende relative al mezzo. Qui esistono varie possibilità che dipendono dall'età del mezzo o dal fatto che tu abbia o meno il **Carnet du passage** (trovi maggiori informazioni in merito a questo documento sul sito dell'{{< extLink "ACI" "https://www.aci.it/il-club/soci-in-viaggio/per-chi-va-allestero/carnet-de-passages-en-douane.html">}}).
-
-Partiamo dal caso in cui tu sia in possesso del **Carnet du passage** (CdP da ora in poi). Ti viene fornito un documento che ti permetterà di girare sul suolo temporaneamente per 3 o 5 giorni (e se siete fortunati 10!), per poi raggiungere la dogana a Dakar e ottenere il timbro che ti permette di poter stare 3 mesi sul territorio senza problemi. Non è possibile rinnovarlo.
-
-Nel caso in cui tu non sia in possesso del {{< underline "CdP">}}, non disperare, ma soprattutto mantieni la calma.
-Vai dal doganiere con il libretto di circolazione (prova prima con una fotocopia, non si sa mai). Ti verrà rilasciato un documento temporaneo chiamato Passavant e ti verranno dati 3 giorni per raggiungere la prima dogana. Un consiglio: se entri di mercoledì, essendoci il weekend di mezzo, ti verranno dati 5 giorni! Questo è ottimo perché ti permette di non correre! Attenzione: è possibile anche ottenere 10 giorni, ma abbiamo notato che vengono concessi solo pagando un'agenzia privata. 
-
-Il costo del passavant è di:
-- veicolo con meno di 8 anni: {{< underline "10 euro">}}.
-- veicolo con più di 8 anni: {{< underline "250 euro">}}.
-
-Questi sono i costi per chi proviene dalla Mauritania. 
-
-Entro lo scadere dei giorni che ti sono stati dati devi assolutamente dirigerti alla prima dogana per rinnovare il documento e ti verrà messo il primo dei due timbri possibili che ti permetterà di rimanere con il veicolo sul suolo Senegalese altri 15 giorni. Il totale dei giorni permessi è quindi 30 (più 3, 5 o 10 a seconda dei giorni concessi all'ingresso in dogana).
-
-Dogane dove è possibile {{< underline "rinnovare">}}: 
-    - Saint Louis (corrotta)
-    - Dakar
-    - Kaolak
-    - Tambacounda
-    - Ziguinchor
-
-{{< underline Attenzione>}}: Il rinnovo è gratuito ma ogni tanto, a Saint Louis e Dakar in particolare, provano a chiedere soldi!
-
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1681854073/Articoli/Senegal/Senegal_Van_nql3tl.jpg" >}}
-
-###### Possibili problemi e la nostra disavventura
-
-Tutto quello che ti abbiamo detto finora funziona se sul Passavant viene apposta la dicitura “per Turismo”.
-
-Se come a noi ti viene scritto “a Declarer”, cioè da dichiarare il motivo della permanenza, inizia una trafila di problemi. Questo succede a prescindere dall'età del mezzo: abbiamo raccolto più informazioni in merito grazie ad altri viaggiatori incontrati di persona. Il nostro consiglio è quello di mantenere sempre la calma e controllare questa scritta quando viene compilato il foglio dicendo fermamente che sei in paese per turismo (noi non lo sapevamo e abbiamo scoperto dopo che sarebbero iniziati i problemi).
-Avendo il mezzo con meno di 8 anni abbiamo pagato 10 euro e siamo entrati, con 5 giorni di permesso, ma con la scritta errata.
-
-
-Una volta arrivati a Saint Louis abbiamo scoperto la storia di alcuni camperisti:
-- {{< underline "caso 1">}}: mezzo con più di 8 anni. Ha pagato 250 euro in dogana, gli hanno scritto "a declarer", a Dakar gli hanno detto che quel passavant gli dava diritto a 3 mesi ma che avrebbe dovuto tornare l'indomani. Ha atteso 8 giorni andando ogni mattina in taxi in dogana, gli hanno dato un nuovo documento che concedeva 3 mesi ma richiedeva di contattare un funzionario entro 15 giorni, da pagare a sue spese. Alla richiesta di ulteriori 250 euro, pena il blocco del mezzo, ha deciso di rimanere fino alla scadenza dei 15 giorni e poi è uscito dal paese.
-
-- {{< underline "caso 2">}}: mezzo con meno di 8 anni. Ha pagato 10 euro in dogana, gli hanno scritto "a declarer", anche a lui a Dakar hanno detto che quel passavant dava diritto a 3 mesi ma che avrebbe dovuto tornare l'indomani. Ha atteso 7 giorni circolando però in paese a suo rischio e pericolo, poi gli hanno dato un nuovo passavant che concedeva 3 mesi ma richiedeva un rinnovo dopo 15 giorni, per il quale doveva chiamare un funzionario da pagare a sue spese. Gli hanno richiesto 800 euro, pena il blocco del mezzo, così anche lui a malincuore ha deciso di uscire subito dal paese. 
-
-- {{< underline "caso 3">}}: una coppia spagnola con un mezzo con meno di 8 anni. Anche a loro hanno scritto "a declarer", ma alzando la voce sono riusciti a ottenere il rinnovo.  
-
-
-- {{< underline "caso 4">}}: mezzo con più di 8 anni, pagamento anticipato di 250 euro a un famosissimo passeur. Foglio rilasciato con scritta "turismo". 10 giorni di concessione a cui aggiungere i due rinnovi da 15 giorni (totale 40 giorni di possibilità di rimanere con il mezzo in paese)
-
-
-###### La nostra esperienza: 
-
-Ci siamo recati al terzo giorno a Saint Louis, dove il doganiere è stato irremovibile e non ci ha rinnovato il documento dicendoci che non era rinnovabile e ci ha dato il numero di un "collega", della famosa agenzia privata. Possiamo essere criticati in merito (e ci hanno criticati) per non aver alzato abbastanza la voce e non aver chiamato l'Ambasciata, ma essendo alle prime esperienze ci concediamo la possibilità di aver sbagliato e ne traiamo insegnamento. Abbiamo quindi pagato 240 euro, ottenendo un nuovo passavant di 10 giorni, rinnovabile un paio di volte di 15 giorni. 
-Dogane in cui abbiamo rinnovato successivamente senza problemi:
-
-- Dakar
-- Zuguinchor (gentilezza e cordialità del personale)
-
-Il nostro dubbio quindi è che venga "manomesso" il documento iniziale qualora non sia stato effettuato in anticipo a pagamento tramite la famosa agenzia di riferimento. 
-
-Nel caso si voglia stare di più in Senegal con il proprio mezzo o nel caso in cui ti creino problemi con il passavant, si può uscire dal paese entrando in Gambia o Guinea Bissau.
-In Gambia il visto costa 5000 F a persona più 5000 F per il mezzo e in uscita si ha un nuovo passavant pagando 2500 F. Questo avviene se si sta più di un giorno. Nel caso del solo attraversamento pare non venga rilasciato un nuovo passavant.
-Entrando dalla Guinea Bisseau il passavant per il Senegal costa 4 euro.
-
-In dogana noi abbiamo anche effettuato l'assicurazione per il veicolo, al prezzo di 30 euro per un mese (ci è stata richiesta in un paio di posti di blocco). Si possono anche cambiare i soldi ad un cambio sfavorevolissimo o comprare sim a un prezzo rincarato, motivo per cui consigliamo di fare tutto a Saint Louis, che si raggiunge in meno di un'ora di strada.
-
-
-
-##### Strade 
-La situazione relativa alle condizioni delle strade in Senegal è la seguente: alcuni tratti, soprattutto quelli presenti nel nord del paese, sono terribilmente sconnessi, con buche ampie e dossi non sempre segnalati e di dimensioni maggiori in altezza rispetto a quelli europei. Nel sud del paese, nella zona della Casamance, ci è capitato di trovare dossi all'incontrario, dei veri e propri avvallamenti. Da Tambacounda in poi l'asfalto è molto ben mantenuto. 
-
-In tutte le città aspettati di trovare sovente un'unica arteria asfaltata, mentre le strade secondarie sono ricoperte di sabbia, quasi sempre percorribile solo con veicoli 4x4. 
-Noi abbiamo quasi sempre percorso la N1, una sorta di statale abbastanza ben mantenuta, e un tratto di autostrada nei pressi di Dakar.
-Prestate molta molta attenzione al gran numero di animali selvatici (asini, mucche, cavalli, capre, cani e scimmie) che attraverseranno la strada in ogni dove e in ogni quando. 
-Il senso di precedenza è abbastanza aleatorio, sia negli incroci che nelle rotonde. 
-Sovente qualcuno ti supererà da destra e sinistra, magari a bordo di un motorino senza casco e trasportando più di tre persone. 
-Alcuni pulmini adibiti a taxi spesso trasportano persone sul tettuccio o semplicemente aggrappate alla carrozzeria posteriore, e non saprai quando e se davvero svolteranno perché le loro spie segnaletiche sono quasi sempre accese a intermittenza.
-
-Ti sconsigliamo vivamente di guidare di notte.
-Sono frequenti i posti di blocco della polizia. Nel nord soprattutto cercheranno di multarti senza motivi plausibili. Assicurati di avere a bordo il doppio triangolo e l'estintore, obbligatori. 
+##### Dogana e Strade
+Entrare in Senegal in auto, moto o con il proprio camper è fattibile con le dovute accortezze e armandosi di pazienza.
+Se vuoi sapere di più [clicca qui per andare all'articolo dedicato.](/blog/dogana-senegal-cosa-fare-guida-completa)
 
 ##### Quanto abbiamo speso
 Dare una cifra relativa al solo viaggio in Senegal è possibile, ma va contestualizzata all'interno dell'intero percorso perché arrivando via terra bisogna tener conto del prezzo del traghetto per arrivare in Africa, dei chilometri necessari per attraversare il Marocco da nord a sud, del visto di ingresso per la Mauritania (da pagare due volte ovviamente se si effettua lo stesso percorso in risalita) e dei 750 chilometri per attraversarla. 

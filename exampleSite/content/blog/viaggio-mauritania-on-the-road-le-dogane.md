@@ -11,7 +11,7 @@ draft: false
 
 Entrare in Mauritania a bordo di un camper è possibile?
 Sicuramente se leggete le disposizioni della {{< extLink "Farnesina" "https://www.viaggiaresicuri.it/find-country/country/MA" "Stay safe!!" >}} non è uno dei luoghi più consigliati da visitare.
-Proprio per questo motivo e dato che noi abbiamo solo attraversato il paese per andare in Senegal (che puoi trovare [qui](/blog/guida_senegal_in_camper_itinerari-informazioni/)), non possiamo scrivere una guida dettagliata del posto.
+Proprio per questo motivo e dato che noi abbiamo solo attraversato il paese per andare in Senegal (che puoi trovare [qui](/blog/guida-senegal-in-camper-itinerari-informazioni/)), non possiamo scrivere una guida dettagliata del posto.
 Vi riportiamo comunque tutte le informazioni relative alle pratiche doganali, ai costi e alla situazione delle strade. Vi lasciamo anche alcune escursioni che potete fare nel caso vogliate visitare più a fondo il paese.
 
 > ##### Tabella dei contenuti
@@ -48,7 +48,7 @@ Nel secondo giorno abbiamo passeggiato sulla riva raggiungendo il porto e osserv
 Abbiamo sostato nell'ultimo villaggio abitato a una cinquantina di chilometri dalla frontiera di Diama, chiedendo ospitalità alla gendarmerie. 
 
 Nel terzo giorno abbiamo percorso i 48 chilometri di sterrato che conducono al confine impiegandoci 2 ore e mezza circa. Prestate attenzione ai numerosi animali selvatici, soprattutto facoceri. 
-Abbiamo attraversato il parco del Dwailing (a pagamento) fino a raggiungere gli uffici doganali. Abbiamo svolto le pratiche doganali velocemente, proseguendo il nostro viaggio in Senegal (di cui puoi trovare [i dettagli qui](/blog/guida_senegal_in_camper_itinerari/))
+Abbiamo attraversato il parco del Dwailing (a pagamento) fino a raggiungere gli uffici doganali. Abbiamo svolto le pratiche doganali velocemente, proseguendo il nostro viaggio in Senegal (di cui puoi trovare [i dettagli qui](/blog/guida-senegal-in-camper-itinerari/))
 
 ###### Rientro 
 Siamo arrivati al confine fra Senegal e Mauritania di sabato pomeriggio intorno alle 16.30. Abbiamo svolto in un'ora tutte le pratiche doganali e abbiamo dormito nel parco nazionale di Dwailing avvantaggiandoci sui chilometri da percorrere.

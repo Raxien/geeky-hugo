@@ -62,7 +62,7 @@ Entrambe hanno i loro **pro** e soprattutto **contro** e la scelta dipende essen
 > </ul>
 
 La strada è molto facile da percorrere, tutta asfaltata e facilmente raggiungibile a bordi di qualsiasi mezzo.
-Il vero problema è l'estrema corruzione che si riflette in costi esorbitanti se si vuole passare da questa dogana. Quando eravamo al famoso [Zebrabar](/blog/guida_senegal_in_camper_itinerari/), abbiamo sentito di persone che hanno sborsato addirittura 1000 euro per entrare (e immaginiamo lo stesso per uscire dal Senegal)!
+Il vero problema è l'estrema corruzione che si riflette in costi esorbitanti se si vuole passare da questa dogana. Quando eravamo al famoso [Zebrabar](/blog/guida-senegal-in-camper-itinerari/), abbiamo sentito di persone che hanno sborsato addirittura 1000 euro per entrare (e immaginiamo lo stesso per uscire dal Senegal)!
 
 ###### Diama
 > <h6 class="article__pros-cons article__pros-cons__pros">PRO</h6>
@@ -231,8 +231,8 @@ Se vuoi vedere i nostri vlog o vuoi sentire le nostre considerazioni in merito a
 
 ##### Articoli consigliati
 Per altre informazioni, itinerari e mappe sul Senegal e sui paesi da attraversare per arrivarci ti lasciamo di seguito alcuni link:
-- [Senegal: guida completa](/blog/guida_senegal_in_camper_itinerari/)
-- [Senegal: il nostro itinerario e le mappe](/blog/informazioni_viaggio_senegal/)
+- [Senegal: guida completa](/blog/guida-senegal-in-camper-itinerari/)
+- [Senegal: il nostro itinerario e le mappe](/blog/informazioni-viaggio-senegal/)
 - [Mauritania: come attraversare la dogana](/blog/viaggio-mauritania-on-the-road-le-dogane/)
 
 {{< blogFooter "SN" "1" "0" >}}

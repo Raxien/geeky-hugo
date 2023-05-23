@@ -37,7 +37,7 @@ Per quanto riguarda le città, la capitale è Dakar e la seconda più visitata �
 
 ##### Documenti e visto
 Per viaggiare in Senegal è necessario il passaporto con validità residua di almeno sei mesi. Per viaggi con permanenza massima di 90 giorni non serve il visto e vale il timbro rilasciato sul passaporto in frontiera, all’arrivo nel paese. 
-Per i documenti necessari per entrare nel paese con il proprio mezzo ti rimandiamo all'[articolo apposito](/blog/guida_senegal_in_camper_itinerari-informazioni/) sul viaggio da noi compiuto in van.
+Per i documenti necessari per entrare nel paese con il proprio mezzo ti rimandiamo all'[articolo apposito](/blog/guida-senegal-in-camper-itinerari-informazioni/) sul viaggio da noi compiuto in van.
 
 ##### Clima e quando andare
 In Senegal il clima è sempre caldo ed è caratterizzato da due stagioni: la stagione secca e la stagione delle piogge.
@@ -175,7 +175,7 @@ A noi è successo, un pomeriggio in cui eravamo seduti in spiaggia all'ombra del
 
 ##### Itinerario
 In questa sezione, basata sulla nostra esperienza di un mese nel paese, ti proponiamo un paio di itinerari che puoi compiere con i mezzi pubblici.
-Se vuoi invece raggiungere il paese in camper o rivivere le nostra avventura, a questo [link](/blog/guida_senegal_in_camper_itinerari-informazioni/) abbiamo ricreato un piccolo diario giornaliero segnalando in un capitolo finale i luoghi che secondo noi meritano maggiormente e quelli che si possono evitare. 
+Se vuoi invece raggiungere il paese in camper o rivivere le nostra avventura, a questo [link](/blog/guida-senegal-in-camper-itinerari-informazioni/) abbiamo ricreato un piccolo diario giornaliero segnalando in un capitolo finale i luoghi che secondo noi meritano maggiormente e quelli che si possono evitare. 
 
 ###### 7 Giorni
 Ecco un possibile itinerario di 7 giorni in Senegal con partenza e arrivo dall'aeroporto di Dakar.
