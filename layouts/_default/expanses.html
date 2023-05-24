@@ -155,10 +155,15 @@
     <br>
     <br>
     
-    <div id="tblSpese" name="tblSpese"></div>
+    <details>
+      <summary>I costi nel dettaglio</summary>
+      <div id="tblSpese" name="tblSpese"></div>
+    </details>
 
-    <br>
-    <br>
+    <div class="content">
+      <!-- {{.Content}} -->
+      {{ index $rawContentSections 1 | .RenderString }}
+    </div>
 
     <!-- disqus comments -->
     {{ if .Site.DisqusShortname }}

@@ -3,7 +3,7 @@ title: 'Belgio in camper con cane e gatto: 3 tappe imperdibili'
 description: "On the road in territori fiamminghi"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Europa", "Guida", "Itinerario", "Camper"]
+categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Belgio
 type: regular
 draft: true

@@ -19,18 +19,11 @@ Per quanto riguarda la connessione ad Internet precedentemente ci affidiamo a du
 Per usarle ci affidiamo ad un router portatile come **{{< extLink "questo" "http://amzn.to/3Zopkl5" >}}**.
 
 <!-- section break -->
+##### Video
 
-<!-- #### Resoconto mensile 2022
+_**{{< extLink "Quanto abbiamo speso dopo 6 mesi" "https://youtu.be/CYJHHkg3_3s" >}}**_: dopo 6 mesi in viaggio in Europa raccontiamo nel dettaglio le nostre spese.
 
-* **Maggio**: Abbiamo speso **<label id="totalmaggio"></label> €** e percorso <label id="km5"></label>
-* **Giugno**: Abbiamo speso **<label id="totalgiugno"></label> €** e percoso <label id="km6"></label>
-* **Luglio**: Abbiamo speso **<label id="totalluglio"></label> €** e percoso <label id="km7"></label>
-* **Agosto**: Abbiamo speso **<label id="totalagosto"></label> €** e percoso <label id="km8"></label>
-* **Settembre**: Abbiamo speso **<label id="totalsettembre"></label> €** e percoso <label id="km9"></label>
-* **Ottobre**: Abbiamo speso **<label id="totalottobre"></label> €** e percoso <label id="km10"></label>
-* **Novembre**: Abbiamo speso **<label id="totalnovembre"></label> €** e percoso <label id="km11"></label>
-* **Dicembre**: Abbiamo speso **<label id="totaldicembre"></label> €** e percoso <label id="km12"></label>
+_**{{< extLink "Come risparmiamo" "https://youtu.be/rCvzJ8LsRrc" >}}**_: un video in merito a come facciamo a risparmiare a bordo!
 
-#### Resoconto mensile 2023
-
-* **Gennaio**: Abbiamo speso **<label id="totalgennaio"></label> €**. **[in aggiornamento]** -->
+**La verità!** Quanto abbiamo speso dopo 1 anno in giro fra due continenti e 13 paesi:
+{{< youtube 0NrXpFEY6Wc >}}

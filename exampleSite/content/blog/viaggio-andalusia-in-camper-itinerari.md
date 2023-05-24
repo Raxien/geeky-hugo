@@ -3,7 +3,7 @@ title: 'Andalusia in camper con cane e gatto: itinerario, consigli e informazion
 description: "Alla scoperta dell'Andalusia in camper, un viaggio on the road alla ricerca di luoghi ricchi di storia affacciati sulla costa"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Europa", "Guida", "Itinerario", "Camper"]
+categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Spagna
 type: featured
 draft: false

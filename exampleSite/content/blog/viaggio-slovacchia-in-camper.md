@@ -9,7 +9,7 @@ type: regular
 draft: false
 ---
 
-Il nostro tour della Slovacchia a bordo del van è durato purtroppo pochissimi giorni, un po' perché avevamo un appuntamento in Polonia un po' perché non ci aspettavamo di trovare una temperatura di 40 gradi a inizio luglio. 
+Il nostro tour della Slovacchia a bordo del van è durato purtroppo pochissimi giorni, un po' perché [avevamo un appuntamento in Polonia ](/blog/viaggio-polonia-in-camper-itinerari)  un po' perché non ci aspettavamo di trovare una temperatura di **40 gradi a inizio luglio.**
 Vi lasciamo comunque il racconto delle nostre tappe e un paio di spunti per alcune mete che purtroppo in questo giro non siamo riusciti a raggiungere.
 
 > ##### Tabella dei contenuti
@@ -21,18 +21,19 @@ Vi lasciamo comunque il racconto delle nostre tappe e un paio di spunti per alcu
 > - [Le nostre mappe](#Mappe)
 
 ##### Itinerario
-Come dicevamo il nostro è stato un itinerario creato ad hoc per sfruttare il paese e le sue strade come ponte per arrivare nella zona dei **Monti Tatra a sud della Polonia**. Siamo entrati in Slovacchia il 29 giugno e siamo usciti il 3 luglio. Giusto una toccata e fuga, che potrebbe essere presa in considerazione per chi ha pochi giorni ma vuole farsi un'idea del paese vivendolo on the road. 
+Come dicevamo il nostro è stato un itinerario creato ad hoc per sfruttare il paese e le sue strade come ponte per arrivare nella zona dei **Monti Tatra a sud della Polonia**. Siamo entrati in Slovacchia il 29 giugno sera e siamo usciti il 3 luglio. Giusto una toccata e fuga, che potrebbe essere presa in considerazione per chi ha pochi giorni ma vuole farsi un'idea del paese vivendolo on the road. 
 
-**{{< underline "Giorno 1: Bratislava" >}}**: abbiamo lasciato l'Austria subito dopo aver cenato per raggiungere la vicinissima capitale della Slovacchia, **Bratislava**, intorno alle 21. Abbiamo parcheggiato sul lungo Danubio, in una zona con localini popolati da giovani che erano intenti a godersi la serata seduti a riva e data l’aria fresca abbiamo deciso di approfittarne per fare una bella passeggiata con Olimpia e Sakè e di concederci anche noi una birra al rientro, ascoltando un po’ di buona musica. Notte in libera affacciati sul Danubio.
+**{{< underline "Giorno 1: Bratislava" >}}**: abbiamo [lasciato l'Austria](/blog/austria-in-camper-con-cane-e-gatto) raggiungendo la vicinissima capitale della Slovacchia, **Bratislava**, intorno alle 21. Abbiamo parcheggiato sul lungo Danubio, in una zona con localini popolati da giovani che erano intenti a godersi la serata seduti a riva e data l’aria fresca abbiamo deciso di approfittarne per fare una bella passeggiata con i nostri animali e di concederci anche noi una birra al rientro, ascoltando un po’ di buona musica. Notte in libera affacciati sul Danubio.
 
-**{{< underline "Giorno 2: Bratislava" >}}**: siamo arrivati alle 8 di mattina nel centro cittadino attraversando il ponte vicino alla costruzione Ufo: ci siamo ritrovati in un dedalo di stradine davvero piacevole, con facciate colorate dei palazzi e bizzarre statue sparse qua e là: un uomo in bronzo che si affaccia da un tombino, un altro che saluta scon le braccia per aria e un gran sorriso, un soldato appoggiato a una panchina e così via. Ce ne sono molte e pare fossero state create per donare alla città un po’ di gioia dopo il periodo austero del regime comunista e che fossero piaciute così tanto alla popolazione da richiederne la costruzione di altre. Lasciato il centro dopo aver ammirato ancora la **Chiesa Blu**, abbiamo deciso di spostarci verso il van e raggiungere il famoso mercato cittadino. 
+**{{< underline "Giorno 2: Bratislava" >}}**: siamo arrivati alle 8 di mattina nel centro cittadino attraversando il ponte vicino alla costruzione Ufo: ci siamo ritrovati in un dedalo di stradine davvero piacevole, con facciate colorate dei palazzi e bizzarre statue sparse qua e là: un uomo in bronzo che si affaccia da un tombino, un altro che saluta scon le braccia per aria e un gran sorriso, un soldato appoggiato a una panchina e così via. Ce ne sono molte e pare fossero state create per donare alla città un po’ di gioia dopo il periodo austero del regime comunista e che fossero piaciute così tanto alla popolazione da richiederne la costruzione di altre. Lasciato il centro dopo aver ammirato ancora la **Chiesa Blu** abbiamo deciso di spostarci verso il {{< extLink "famoso mercato cittadino di Miletičova" "https://www.trhoviskaruzinov.sk/" >}}.
 
-Purtroppo lo streetfood proposto era quasi tutto carnivoro, quindi abbiamo deciso di fermarci **allo stand thailandese**, dove siamo stati accolti da un simpatico signore che non parlava una parola di inglese ma che quando ha capito che eravamo italiani ci ha sfoggiato il suo sorriso migliore, dicendoci: "bella Italia!". Pranzo squisito. Complice il grande caldo, con 40 gradi a bordo, abbiamo lasciato nostro malgrado la capitale slovacca per raggiungere un parcheggio ombreggiato nei pressi di Piestany, nelle campagne del paese in riva al Danubio.
+Purtroppo **lo street food proposto era quasi tutto carnivoro** ma siamo riusciti a trovare un tipico ristorante locale che faceva al caso nostro: **lo stand thailandese!** Siamo stati accolti dal proprietario che non parlava una parola di inglese ma che quando ha capito che eravamo italiani ci ha sfoggiato il suo sorriso migliore, dicendoci: **"bella Italia!".** Pranzo squisito. Complice il grande caldo abbiamo lasciato, nostro malgrado, la capitale slovacca per raggiungere un parcheggio ombreggiato nei pressi di **Piestany**, nelle campagne del paese in riva al Danubio.
 
 Vuoi rivedere le nostre avventure nella capitale? 
+
 {{< youtube sS90azvpc4c>}}
 
-**{{< underline "Giorno 3: Bojnice" >}}**: dopo aver fatto colazione abbiamo deciso di regalare un tuffo nel fiume a Olimpia, scelta decisamente apprezzata dalla nostra rottweiler che si è direttamente fiondata verso la riva. Nel tardo pomeriggio, dopo esser rimasti nascosti fin che potevamo sotto l’ombra donata da un paio di alberi, ci siamo recati in un piccolo paesino, **Bojnice**, dove abbiamo ammirato i giardini di un castello, prima di cercare un nuovo posto dove passare la notte. Ci siamo lasciati guidare un po' dall'istinto e abbiamo deciso di percorrere una strada immersa fra boschi e montagne e raggiungere il particolare borgo di Cickmany, che **sembrava essere uscito da una fiaba dei fratelli Grimm**. Abbiamo trascorso la notte finalmente avvolti nel piumone, soli in tutto il piazzale ai piedi dell’impianto dello ski-lift.
+**{{< underline "Giorno 3: Bojnice" >}}**: dopo aver fatto colazione abbiamo deciso di regalare un tuffo nel fiume alla nostra cagnolona Olimpia, scelta decisamente apprezzata dalla nostra rottweiler che si è direttamente fiondata verso la riva. Nel tardo pomeriggio, dopo esser rimasti nascosti fin che potevamo sotto l’ombra donata da un paio di alberi, ci siamo recati in un piccolo paesino, **Bojnice**, dove abbiamo ammirato i giardini di un castello, prima di cercare un nuovo posto dove passare la notte. Ci siamo lasciati guidare un po' dall'istinto e abbiamo deciso di percorrere una strada immersa fra boschi e montagne e raggiungere il particolare borgo di Cickmany, che **sembrava essere uscito da una fiaba dei fratelli Grimm**. Abbiamo trascorso la notte finalmente avvolti nel piumone, soli in tutto il piazzale ai piedi dell’impianto dello ski-lift.
 
 **{{< underline "Giorno 4: Cickmany" >}}**: un borgo di circa 200 abitanti situato in una bellissima conca verde tra le montagne, animato da **caratteristiche abitazioni decorate con greche di colore bianco** che rappresentano cuori, uccelli, motivi geometrici e ricordano quasi dei biscotti di pan di zenzero glassati. Le strutture originali risalivano al 1272, ma dopo un grandioso incendio, divampato nel 1921, furono poche le costruzioni che poterono salvarsi e così fu deciso di riportare il borgo all’antico splendore ristrutturandolo il possibile. Già solo la strada per arrivarci è pittoresca, attorniata da distese di pini che terminano davanti al piazzale di quella che d’inverno dev’essere un’animata stazione sciistica. La via centrale è una sola, intervallata da un museo e da un paio di strutture ricettive. Pochi i turisti, quasi del tutto locali.
 Abbiamo trascorso la notte in un’altra zona di montagna, vicino a un lago, in località **Liptovská Mara**. Vicino a noi solo una coppia di stranieri in tenda. Davanti, il lago in tutta la sua estensione e alle nostre spalle l’ingresso del bosco. Regnava il silenzio, interrotto solo da qualche suono della natura. 
@@ -56,8 +57,6 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera, in parcheggi in cui 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684676272/IMG_5441_apebh6.jpg" >}}
 
-
-
 ##### Strade 
 In tutto il paese abbiamo percorso strade statali ma anche strade in zone di campagna e montagna senza avere alcun problema. 
 
@@ -79,5 +78,3 @@ I pochi giorni trascorsi in Slovacchia ci hanno fatto apprezzare tantissime cose
 <!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=11GfW4gwkFqTBJcnrv5FV-ak3qVS4jws&ehbc=2E312F" >}} -->
 
 {{< blogFooter "SLV" "1" "0" >}}
-
-
