@@ -16,7 +16,7 @@ Siamo i figli di questo cambiamento informatico, in qualche modo ci fa anche pia
 ##### Le applicazioni per il viaggio
 In generale in ogni nostro viaggio abbiamo sempre usato: 
 
-* **{{< underline "Google Maps" >}}** e **{{< underline "Maps.Me" >}}**: usiamo la prima quando abbiamo internet a disposizione, mentre Maps.Me quando siamo in zone senza connessione (come quando siamo andati in [Senegal](/blog/guida_senegal_in_camper_itinerari-informazioni/))
+* **{{< underline "Google Maps" >}}** e **{{< underline "Maps.Me" >}}**: usiamo la prima quando abbiamo internet a disposizione, mentre Maps.Me quando siamo in zone senza connessione (come quando siamo andati in [Senegal](/blog/guida-senegal-in-camper-itinerari-informazioni/))
 
   _Google Maps:_ [_iOS_](https://apps.apple.com/it/app/google-maps-gps-e-ristoranti/id585027354 "iOS") _-_ [_Android_](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=it&gl=US "Android")
 
