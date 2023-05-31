@@ -21,7 +21,6 @@ In questo articolo vi lasciamo la nostra esperienza sperando possa esservi di ai
 >   - [Consigli utili](#consigli-utili)
 >   - [Nave e Orari](#nave-e-orario)
 > - [Quanto costa](#quanto-costa)
-> - [Il nostro vlog](#il-nostro-vlog)
 
 ##### Documenti
 Il Marocco richiede ai visitatori stranieri di avere un passaporto **valido per almeno sei mesi dalla data di ingresso** nel paese. Questo significa che se la scadenza del passaporto è vicina, è necessario rinnovarlo prima di partire. Inoltre, il passaporto deve avere almeno una pagina vuota per il visto d'ingresso e per i timbri di controllo.
@@ -48,6 +47,8 @@ Per ottenere la titolazione è necessario fare un prelievo del sangue presso il 
 Noi ci siamo affidati all'{{< extLink "Istituto Zooprofilattico Sperimentale delle Venezie (IZSVe)" "https://www.izsvenezie.it/servizi/servizi-specifici/titolazione-anticorpi-rabbia/">}}.
 
 **{{< underline "Attenzione">}}**: ricordatevi di far scrivere sul passaporto alla voce VI i dettagli dell’esame effettuato (noi non lo sapevamo e abbiamo passato un brutto quarto d’ora).
+
+{{< youtube VBb-Zza0oUs >}}
 
 ###### Ingresso in Marocco
 Prima di poter entrare in Marocco è necessario effettuare una visita da un veterinario per l'ottenimento del **certificato di buona salute**, valido 10 giorni. 
@@ -124,9 +125,6 @@ Gli animali non hanno pagato alcuna sovrattassa.
 L’agenzia alla quale ci siamo rivolti è quella di {{< extLink "Viajes Normandie" "https://www.viajesnormandie.net/" >}} a Palmones y Los Barrios. Sono molto gentili e i più economici e ti regalano una bottiglia di vino e un pacco di biscotti!
 Come servizio aggiuntivo ti permettono di lasciare in deposito il drone gratuitamente! 
 
-###### Il nostro vlog
-Di seguito il nostro ingresso in Marocco con il van e i nostri animali! 
-
-{{< youtube VBb-Zza0oUs >}}
+{{< blogFooter "MAR" >}}
 
 <!-- Per tutte le altre informazioni relative al nostro itinerario completo in Marocco trovi tutto nei due articoli dedicati  -->
