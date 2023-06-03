@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684678075/Cop
 date: 2023-05-21T10:00:00+01:00
 categories: [ "Curiosità", "Consigli"]
 type: featured
-draft: false
+draft: true
 ---
 
 Nelle ultime settimane abbiamo deciso di **stravolgere un po' il nostro sito web**.
