@@ -29,8 +29,7 @@ Di seguito trovi anche tutti gli articoli relativi ai paesi visitati e le mappe 
     - Amsterdam [[Guida](/blog/viaggio-amsterdam-tre-tappe-imperdibili/)]
 
 - Francia 
-    - Alta Francia [ [Camper](/blog/viagio-francia-
-    - alta-francia-in-camper-itinerari) - {{< extLink "Mappa" "https://www.google.com/maps/d/u/0/embed?mid=1h_zkHyaexgfCRWw0ZEwkRLa7MfW243o&ehbc=2E312F" >}} ]
+    - Alta Francia [ [Camper](/blog/viagio-francia-alta-francia-in-camper-itinerari) - {{< extLink "Mappa" "https://www.google.com/maps/d/u/0/embed?mid=1h_zkHyaexgfCRWw0ZEwkRLa7MfW243o&ehbc=2E312F" >}} ]
     - Normandia [ [Camper](/blog/viaggio-francia-normandia-in-camper-itinerari/) - {{< extLink "Mappa" "https://www.google.com/maps/d/u/0/embed?mid=1k7WeDnRorbC4wtUu2AybAgNgaNgSjNo&ehbc=2E312F" >}} ]
     - Bretagna [ [Camper](/blog/viaggio-francia-bretagna-in-camper-itinerari/) - {{< extLink "Mappa" "https://www.google.com/maps/d/u/0/embed?mid=1Qe2J5JEntbQu5hEZpfvyuq6Z-gGc4S0&ehbc=2E312F" >}} ]
     - Nuova acquitania [ [Camper](/blog/viaggio-francia-nuova-aquitania-in-camper-itinerari/) - {{< extLink "Mappa" "https://www.google.com/maps/d/u/0/embed?mid=1MHF6Cy2vwWikjALaqs5u8QAf2PibH1Y&ehbc=2E312F" >}} ]
