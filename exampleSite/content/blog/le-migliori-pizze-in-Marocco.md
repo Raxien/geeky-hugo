@@ -6,36 +6,36 @@ date: 2023-05-27T10:00:00+01:00
 categories: [ "Curiosità", "Consigli"]
 country: Marocco
 type: featured
-draft: true
+draft: false
 ---
 
 
 
-Quando si viaggia in Marocco si pensa subito a Tajine e Cous cous, ma se come noi si è amanti della pizza e soprattutto si rimane in paese per 4 mesi.. 
-ad un certo punto la ricerca si fa accurata per addentare una _fetta degna di ustione sul palato_.
+Quando si viaggia in Marocco si pensa subito a Tajine e Cous cous, ma se come noi si è amanti della pizza e soprattutto si rimane in un paese estero per 4 mesi.. 
+ad un certo punto la ricerca si fa accurata per addentare _una fetta degna di ustione sul palato_.
 
 Eccovi quindi un articolo dedicato a sua maestà **la pizza**, assaggiata personalmente in Marocco.
 
- Se una pizza delude non è mai un’esperienza piacevole. Ecco perchè la nostra ricerca è stata abbastanza
- accurata e siamo felici di elencarvi, a parimerito, un numero ristretto di locali nei quali torneremmo immediatamente. 
+Se una pizza delude non è mai un’esperienza piacevole. Ecco perchè la nostra ricerca è stata abbastanza
+accurata e siamo felici di elencarvi, a parimerito, un numero ristretto di locali nei quali torneremmo immediatamente. 
 
-Abbiamo volutamente ordinato la classica margherita e vi lasceremo recensione, fotografia, indirizzo. Insomma, tutto quello che può servirvi se anche voi vi trovate in questo paese, in zone meno turistiche (e più autentiche) e venite assaliti da una voglia irrefrenabile di quel piatto il cui nome si comprende in tutte le lingue del mondo, **la Pizza**! 
+Abbiamo volutamente ordinato la classica margherita e vi lasceremo recensione, fotografia, indirizzo. Insomma, tutto quello che può servirvi se anche voi vi trovate in questo paese in zone meno turistiche (e più autentiche) e venite assaliti da una voglia irrefrenabile di quel piatto il cui nome si comprende in tutte le lingue del mondo, **la Pizza**! 
 
 Siete pronti a scoprire con noi 4 pizze in Marocco davvero deliziose? Noi abbiamo l’acquolina in bocca al solo ricordo.
 
 #### 🍕 Le Rital, Tetouan: 
 
-**Servizio**: ottimo! Tutto lo staff è gentile e cordiale, alcuni parlano un po' di inglese, francese o spagnolo. 
+**Servizio**: ottimo! Tutto lo staff è gentile e cordiale e parla un po' di inglese, francese o spagnolo. 
 
 **Location**: locale su due piani, molto pulito, con un ampio parcheggio di fronte (in cui è possibile pernottare gratuitamente se come noi viaggiate in camper). 
 
-**Menu**: oltre alla pizza, servita in dimensioni M o L, troverete panini (con formaggio nell'impasto del pane!) e tacos.
+**Menu**: oltre alla pizza, servita in dimensioni M o L, trovate anche panini (con formaggio nell'impasto del pane!) e tacos.
 
 **Prezzo**: davvero onesto, 25 Dh per una margherita media, 40 Dh per una large. Segnaliamo ogni giorno la possibilità della promozione a prezzo ridotto prendendo 3 margherite (59 Dh per tre margherite medie, 99 dh 3 margherite grandi).
 
 **LA PIZZA**: impasto ben lievitato, cotto nel forno a legna, rimane sottile e con un buon bordo. Dose di condimento perfetta, buona la salsa di pomodoro. Una di quelle pizze che si amerebbe anche in Italia.
 
-Che dire, siamo tornati due sere dopo tanto ci è piaciuta!
+Che dire, siamo ritornati due sere dopo tanto ci è piaciuta! E ci torneremmo ancora, ancora e ancora!
 
 📍 Local 1, Résidence ÉLÉGANCE, Av. 9 Avril, Tétouan 93000
 
@@ -65,7 +65,7 @@ Che dire, siamo tornati due sere dopo tanto ci è piaciuta!
 
 **Location**: locale ampio su due piani, pulito, affacciato sulla strada.
 
-**Menu**: oltre alla pizza, si trovano anche primi piatti. 
+**Menu**: oltre alla pizza si trovano anche primi piatti. 
 
 **Prezzo**: la margherita costa 22 Dh, prezzo ottimo data la dimensione leggermente ridotta.
 
@@ -80,9 +80,9 @@ Che dire, siamo tornati due sere dopo tanto ci è piaciuta!
 
 **Servizio**: tutto lo staff è molto gentile, parlano anche francese.  
 
-**Location**: locale carino e arredato con gusto, il posizione centrale e con parcheggio comodo nelle vicinanze.
+**Location**: locale carino e arredato con gusto, in posizione centrale e con parcheggio comodo nelle vicinanze.
 
-**Menu**: oltre alla pizza, si trovano anche molti altri piatti. 
+**Menu**: oltre alla pizza si trovano anche molti altri piatti. 
 
 **Prezzo**: la margherita costa 38 Dh.
 
@@ -94,7 +94,8 @@ Che dire, siamo tornati due sere dopo tanto ci è piaciuta!
 
 
 
-Diteci di voi! Siete del team pizza all'estero sì o preferite mangiare solo cibi locali? 
+Ora diteci di voi! 
+Siete del team pizza all'estero sì o preferite mangiare solo cibi locali? 
 Noi, dopo 4 mesi in Africa, ammettiamo di non essere riusciti a farne a meno! 
 
 
