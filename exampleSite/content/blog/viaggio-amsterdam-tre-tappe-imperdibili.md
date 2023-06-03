@@ -13,7 +13,7 @@ Abbiamo visitato Amsterdam in 2 giorni, con cane e gatto come compagni di viaggi
 Essendo estate il clima era mite, anche se il vento e la pioggia possono sempre essere all'ordine del giorno, motivo per cui ti consigliamo di portare con te un k-way o {{< extLink "una mantellina" "https://amzn.to/44HlPdo" >}}!
 Noi siamo arrivati in città in camper e abbiamo **{{< bold "sostato" >}}** gratuitamente e **{{< bold "dormito in libera" >}}** nel quartiere NDSM Wharf <!-- (ti lasciamo la posizione qui se ne avessi bisogno, sperando sia ancora fattibile) -->
 
-Se vuoi sostare solo di giorno puoi spostarti nei parcheggi direttamente affacciati sul canale, se invece vuoi pernottare è consentito solo nelle vie limitrofe. Da questa zona il centro città è facilmente raggiungibile con traghetti gratuiti che partono ogni 10 minuti circa (durata tragitto 15 minuti, animali ammessi!).
+Se vuoi sostare solo di giorno puoi spostarti nei parcheggi direttamente affacciati sul canale, se invece vuoi pernottare è consentito solo nelle vie limitrofe. Da questa zona il centro città è facilmente raggiungibile [con traghetti gratuiti](#mezzi-di-trasporto-pubblici) che partono ogni 10 minuti circa (durata tragitto 15 minuti, animali ammessi!).
 In ogni caso, anche se arrivassi in aereo, le mete che ti consigliamo sono sempre le stesse! ✈️
 
 ##### 3 tappe imperdibili
@@ -25,7 +25,8 @@ Questi luoghi ci sono stati consigliati da Davide, e ci sentiamo di consigliarte
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683208308/IMG_0737_foal8a.jpg" >}}
 
-**{{< underline "Museo Straat" >}}**: è il {{< extLink "museo" "https://https://straatmuseum.com/en/" >}} di street-art nel quartiere nord della città. Troverai opere anche sui muri dei palazzi limitrofi, ma la suo interno si nascondono delle vere opere d'arte. Potresti anche vedere qualche artista all'opera. 
+**{{< underline "Museo Straat" >}}**: è il {{< extLink "museo di street-art" "https://https://straatmuseum.com/en/" >}} nel quartiere nord della città. Troverai opere anche sui muri dei palazzi limitrofi, ma la suo interno si nascondono delle vere opere d'arte. Tra queste citiamo anche le opere dell'italiano Millo (che potete vedere anche {{< extLink "a Torino per esempio" "https://www.turismotorino.org/it/esperienze/cultura/musei-e-fondazioni/arte-barriera-murales-millo" >}}) Potresti anche vedere qualche artista all'opera. 
+Il quartiere è raggiungibile {{< extLink "https://reisinfo.gvb.nl/en/lijnen/F4/dienstregeling/heen/4257/ma-tm-vr " " gratuitamente con il traghetto F4" >}}.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683208301/IMG_1447_qfofcr.jpg" >}}
 
