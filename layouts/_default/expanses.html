@@ -370,7 +370,7 @@
 
       if(data.res[i].deleted_by == null){
         let cost = parseFloat(data.res[i].cost);
-        let month = moment(data.res[i].date).format('MMMM');
+        let month = moment(data.res[i].date).format('MMMM-YY');
         
         let val = obj2[month];
         
@@ -383,7 +383,8 @@
 
     const _labels2 = Object.keys(obj2);
     const _data2 = Object.values(obj2);
-    
+    console.log("obj2")
+    console.log(obj2)
     i = 0;
     while(i < _labels2.length){
       if(document.getElementById('total' + _labels2[i]) != null)
@@ -542,7 +543,7 @@
     // let yourDate = new Date()
     return date.toISOString().split('T')[0];
   }
-
+  // griglia
   let setGrid = function(data) {
     var result = [];
 
@@ -587,7 +588,7 @@
     getSW();
 
   });
-  </script>
+</script>
 <!--=================== expanses script end ===================-->
 {{ end }}
 
