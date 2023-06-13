@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1685396172/2_o
 date: 2023-05-28T10:00:00+01:00
 categories: [ "Animali", "Consigli"]
 type: featured
-draft: true
+draft: false
 ---
 
 Avendo viaggiato insieme al nostro cane e al nostro gatto in 15 stati tra Italia, Europa e Africa, abbiamo deciso di raccogliere in questo articolo tutte le informazioni che abbiamo trovato. 
