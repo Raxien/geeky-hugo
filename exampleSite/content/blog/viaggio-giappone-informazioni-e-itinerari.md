@@ -2,7 +2,7 @@
 title: 'Viaggio in Giappone: tutto quello da sapere e itinerari' 
 description: ""
 image: 
-date: 2022-07-26T17:00:00.000
+date: 2023-06-10T17:00:00.000
 categories: ["Asia", "Guida", "Itinerari"]
 country: Giappone
 type: regular
@@ -18,16 +18,10 @@ Se stai cercando una destinazione che ti offra un'esperienza di viaggio unica, i
 > - [Internet](#internet)
 > - [Vaccini e assicurazione sanitaria](#vaccini-e-assicurazione-sanitaria)
 > - [Mezzi di trasporto pubblici](#mezzi-di-trasporto-pubblici)
-> - [Cosa mangiare](#cosa-mangiare)
-> - [Dove dormire](#dove-dormire)
 > - [Itinerari](#itinerari)
 >     - [8 Giorni](#8-giorni) 
 >     - [14 Giorni](#14-giorni) 
-> - [I parchi e altre escursioni](#i-parchi-e-altre-escursioni)
-
-<!-- - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale) -->
-<!-- - [Il nostro vlog](#il-nostro-vlog) -->
-<!-- - [Le nostre mappe](#Mappe) -->
+> - [Le nostre mappe](#le-nostre-mappe)
 
 ##### Il paese
 Il Giappone è una delle nazioni più affascinanti e influenti al mondo. La sua storia è ricca di tradizioni, con riti e cerimonie che risalgono a secoli fa. Il paese offre anche molte attrazioni moderne, come i grattacieli di Tokyo, le tecnologie avanzate, i parchi tematici e molto altro ancora. 
@@ -44,11 +38,11 @@ L'estate (giugno-agosto) può essere calda e umida, specialmente nelle regioni c
 ##### Come pagare
 In Giappone la moneta ufficiale è lo yen ( ¥, pronunciato "en"). Le banconote polacche vanno dai 1000 ¥ ai 10000 ¥, mentre le monete variano dai 1 ¥ ai 500 ¥,.
 
-I bancomat sono facilmente disponibili in tutto il paese e possono essere utilizzati per prelevare denaro contante. In particolar modo li troverete nei Combini, i negozi aperti 24 ore su 24, 7 giorni su 7 sparsi ovunque sul territorio.
+I bancomat sono facilmente disponibili in tutto il paese e possono essere utilizzati per prelevare denaro contante. In particolare modo li troverete nei Combini, i negozi aperti 24 ore su 24, 7 giorni su 7 sparsi ovunque sul territorio.
 
 {{< card >}}
 
-Il Giappone è un paese moderno ma in merito alle carte di credito sono molto indietro. Vengono accettate negli alberghi e negozi delle grandi città mentre nei ristoranti portatevi i contanti!
+Il Giappone è un paese moderno ma in merito alle carte di credito sono molto indietro. Vengono accettate negli alberghi e negozi delle grandi città mentre nei ristoranti portatevi i contanti! Tutte le monetine che vi avanzano potete spenderle nei numerosi distributori sparsi ovunque!
 
 Attualmente un euro vale circa 147,6 ¥.
 
@@ -62,14 +56,16 @@ L'Italia ha un accordo bilaterale con la Polonia, che prevede che i cittadini it
 
 {{< assicurazione >}}
  
-Per maggiori informazioni vi rimandiamo al sito di {{< extLink "viaggiare sicuri" "https://www.viaggiaresicuri.it/find-country/country/POL" "Stay safe!!" >}}.
+Per maggiori informazioni vi rimandiamo al sito di {{< extLink "viaggiare sicuri" "https://www.viaggiaresicuri.it/find-country/country/JPN" "Stay safe!!" >}}.
 
 ##### Mezzi di trasporto pubblici 
-Il Giappone ha un'eccellente rete di trasporti pubblici, che include autobus, treni e tram.
+Il Giappone ha un'eccellente rete di trasporti pubblici. Ci può spostare per tutto il paese usando autobus, treni e tram. Hanno di contro che sono molto cari quindi consigliamo di acquistare dei pass:
+-  {{< extLink "Pass per la metro di Tokyo" "https://www.tokyometro.jp/en/ticket/travel/" >}}: potete accedere gratuitamente per 24/46/72 ore a tutte le linee della metro di Tokyo Metro e le linee Toei.
+-  {{< extLink "JR Pass" "https://japanrailpass.net" >}}: potete usare gratuitamente tutte le linee JR che comprende i famosi treni proiettile **shinkansen**, alcuni traghetti e pullman. Prima di procedere con l'acquisto consulta {{< extLink "le linee valide qua" "https://japanrailpass.net/en/about_jrp.html#anchor04" >}}.
 
-##### Cosa mangiare 
+<!-- ##### Cosa mangiare  -->
 
-##### Dove dormire
+<!-- ##### Dove dormire -->
 
 <!-- prossimamente -->
 <!-- ##### Viaggiare con il proprio animale -->
@@ -80,24 +76,25 @@ In questa sezione ti proponiamo due itinerari che puoi compiere con i mezzi pubb
 <div id="Itinerario1"></div>
 
 ###### 8 Giorni
-L'itinerario classico. Permette di assaporare il Giappone in 8 giorni e vedere le principali attrazioni.
-Partenza dall'aeroporto di Narita, Tokyo, e rientro dall'Aeroporto Internazionale di Osaka.
+L'itinerario classico. Permette di assaporare il Giappone in 8 giorni e vedere le principali attrazioni dalla futuristica **Tokyo** all'antica capitale di **Kyoto** passando per **Kamakura** e **Nara**.
+Partenza dall'aeroporto di Narita e rientro dall'Aeroporto Internazionale di Osaka.
 
-**{{< underline "Giorno 1" >}}** 
+**{{< underline "Giorno 1" >}}** arrivo all'aeroporto di Narita e transfer all'hotel tramite treno. Visita del parco di **{{< bold "Ueno" >}}** e spostamento in serata al quartiere di **{{< bold "Akihabara" >}}**
 
-**{{< underline "Giorno 2" >}}** 
+**{{< underline "Giorno 2" >}}** visita in mattinata al santuario di **{{< bold "Meiji Jingu" >}}** per proseguire in **{{< bold "Harajuku" >}}**, il quartiere della moda e dei giovani. Nel pomeriggio visita nel famoso quartiere di **{{< bold "Shibuja" >}}** dove risiede la statua di Hachiko e il famoso incrocio.
 
-**{{< underline "Giorno 3" >}}** 
+**{{< underline "Giorno 3" >}}** visita del quartiere **{{< bold "Asakusa" >}}** e il famoso **{{< bold "tempio Sensoji" >}}**. Nel pomeriggio fai due passi nell'isola artificiale di **{{< bold "Odaiba" >}}** per poi andare la sera a vedere la **{{< bold "Tokyo Tower" >}}**
 
-**{{< underline "Giorno 4" >}}** 
+**{{< underline "Giorno 4" >}}** sveglia presto per andare a prendere il treno in direzione **{{< bold "Kamakura" >}}** (circa 1 ora). Rientro nel primo pomeriggio con visita nel quartiere governativo di **{{< bold "Shinjuku" >}}** per vedere Tokyo dall'alto _gratuitamente_ sul palazzo del governo metropolitano.
+In serata passeggiata nel **{{< bold "Golden Gai" >}}**
 
-**{{< underline "Giorno 5" >}}** 
+**{{< underline "Giorno 5" >}}** altra sveglia presto per prendere lo shinkansen direzione l'antica capitale (2 ore e 40 minuti). Visita al **{{< bold "castello Nijo" >}}**, passando per il **{{< bold "mercato di Nishiki" >}}**, per poi camminare nel **{{< bold "parco di Maruyama" >}}** e finendo per visitare il **{{< bold "santuario Yasaka" >}}**. Nel pomeriggio direzione **{{< bold "tempio Kiyomizudera" >}}** per poi fare un tuffo nel passato passeggiando lungo le due stradine **{{< bold "Ninenzaka" >}}** e **{{< bold "Sannenzaka" >}}**. In serata visita del quartiere di **{{< bold "Pontocho" >}}** e dintorni.
 
-**{{< underline "Giorno 6" >}}** 
+**{{< underline "Giorno 6" >}}** visita del **{{< bold "tempio d'oro (Kinkakuji)" >}}** e del giardino roccioso nel **{{< bold "tempio Ryōan-ji" >}}**. Spostamento nel quartiere di **{{< bold "Arashiyama" >}}** per vedere la **{{< bold "foresta di bambù" >}}** e il **{{< bold "tempio Tenryū-ji" >}}**. Per ultimo visita del **{{< bold "Saga Toriimoto" >}}**, un vialetto costeggiato da diverse case in legno.
 
-**{{< underline "Giorno 7" >}}** 
+**{{< underline "Giorno 7" >}}** sveglia presto per andare a camminare al **{{< bold "Fushimi Inari" >}}**. Nel pomeriggio spostamento a Nara e visita del **{{< bold "tempio Toda-ji" >}}**
 
-**{{< underline "Giorno 8" >}}** 
+**{{< underline "Giorno 8" >}}** mattina dedicata alla **{{< bold "percoso del filoso" >}}** (raggiungibile in 30 minuti di pullman) e visita dei suoi numerosi santuari. Nel primo pomeriggio trasferimento a **Osaka** tramite shinkansen (14 minuti) per visitare il suo iconico (anche se ora è una replica) Castello e il **quartiere Minami**. In serata transfer verso l'Aeroporto Internazionale di Osaka.
 
 <div id="itinerario2"></div>
 
@@ -111,7 +108,7 @@ Per ragioni economiche siamo partiti dall'aeroporto di Narita, Tokyo, e rientro 
 
 **{{< underline "Giorno 3" >}}** visita del quartiere **{{< bold "Asakusa" >}}** e il famoso **{{< bold "tempio Sensoji" >}}**. Nel pomeriggio fai due passi nell'isola artificiale di **{{< bold "Odaiba" >}}** per poi andare la sera a vedere la **{{< bold "Tokyo Tower" >}}**
 
-**{{< underline "Giorno 4" >}}** sveglia presto per andare a prendere il treno in direzione **{{< bold "Kamakura" >}}** (circa 1 ora). Rientro nel primo pomeriggio con visita nel quartiere governativo di **{{< bold "Shinjuku" >}}** per vedere Tokyo  dall'alto _gratuitamente_ sul palazzo del governo metropolitano.
+**{{< underline "Giorno 4" >}}** sveglia presto per andare a prendere il treno in direzione **{{< bold "Kamakura" >}}** (circa 1 ora). Rientro nel primo pomeriggio con visita nel quartiere governativo di **{{< bold "Shinjuku" >}}** per vedere Tokyo dall'alto _gratuitamente_ sul palazzo del governo metropolitano.
 In serata passeggiata nel **{{< bold "Golden Gai" >}}**
 
 **{{< underline "Giorno 5" >}}** direzione **{{< bold "Kanazawa" >}}** raggiungibile con uno _Shinkansen_ (il treno proiettile) in 3 ore. Visita del parco Kenrokuen, il castello, il distretto delle geisha e il mercato di Omicho.
@@ -120,7 +117,7 @@ In serata passeggiata nel **{{< bold "Golden Gai" >}}**
 
 **{{< underline "Giorno 7" >}}** visita di Takayama partendo dal parco di Shiroyama, passando per il mercato di Jinya e finendo nello storico quartiere di Sanmachi Suji, detto anche "la piccola Kyoto". Nel tardo pomeriggio trasferimento in treno per **{{< bold "Kyoto" >}}** (3 ore circa)
 
-**{{< underline "Giorno 8" >}}** visita dell'antica capitale partendo in mattinata dal **{{< bold "castello Nijo" >}}**, passando per il **{{< bold "mercato di Nishiki" >}}**, per poi camminare nel **{{< bold "parco di Maruyama" >}}** e finendo per visitare il **{{< bold "santuario Yasaka" >}}**. Nel pomeriggio direzione **{{< bold "passeggiata del filoso" >}}** tramite pulman (30 minuti) e visita dei suoi numerosi santuari.
+**{{< underline "Giorno 8" >}}** visita dell'antica capitale partendo in mattinata dal **{{< bold "castello Nijo" >}}**, passando per il **{{< bold "mercato di Nishiki" >}}**, per poi camminare nel **{{< bold "parco di Maruyama" >}}** e finendo per visitare il **{{< bold "santuario Yasaka" >}}**. Nel pomeriggio direzione **{{< bold "percoso del filoso" >}}** tramite pullman (30 minuti) e visita dei suoi numerosi santuari.
 
 **{{< underline "Giorno 9" >}}** visita del **{{< bold "tempio Kiyomizudera" >}}** per poi fare un tuffo nel passato passeggiando lungo le due stradine **{{< bold "Ninenzaka" >}}** e **{{< bold "Sannenzaka" >}}**. Nel pomeriggio vista al quartiere di **{{< bold "Pontocho" >}}** e dintorni.
 
@@ -134,7 +131,7 @@ In serata passeggiata nel **{{< bold "Golden Gai" >}}**
 
 **{{< underline "Giorno 14" >}}** ultimo giorno dedicato a vedere di nuovo il parco di Ueno e il Yanaka Ginza per poi andare verso il quartiere della terza età di Sugamo e del giardino Rikugien. 
 
-##### I parchi e altre escursioni
+<!-- ##### I parchi e altre escursioni -->
 
 <!-- Prossimamente -->
 <!-- ##### Il nostro Vlog -->
@@ -146,11 +143,9 @@ In serata passeggiata nel **{{< bold "Golden Gai" >}}**
 
 <!-- Oppure la playlist completa {{< extLink "qui" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV" >}} -->
 
-<!-- <div id="Mappe"></div> -->
+##### Le nostre mappe
+Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
 
-<!-- ##### Le nostre mappe -->
-<!-- Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
-
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1kN6Jsl-kEKC6ZozMZVQVfJlZ-F49hWo&ehbc=2E312F" >}}
 
 {{< blogFooter "JAP" "1" "0" >}}
