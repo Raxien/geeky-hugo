@@ -84,6 +84,6 @@ Nel video qui sotto puoi rivedere il nostro ingresso in Francia oppure trovi la 
 {{< youtube haPUPL6dgpI >}}
 
 ##### Le nostre mappe
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1h_zkHyaexgfCRWw0ZEwkRLa7MfW243o&ehbc=2E312F" >}} -->
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1h_zkHyaexgfCRWw0ZEwkRLa7MfW243o&ehbc=2E312F" >}}
 
 {{< blogFooter "FR" "1" "0" >}}
