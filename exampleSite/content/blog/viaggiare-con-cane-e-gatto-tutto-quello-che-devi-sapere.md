@@ -1,7 +1,7 @@
 ---
 title: 'Viaggiare con cane e gatto: tutto quello che devi sapere'
 description: Tutto quello che devi sapere se vuoi viaggiare con il tuo cane o gatto sia in Italia che all'estero! Leggi il nostro articolo per pianificare al meglio la tua avventura!
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1685396172/2_oacacj.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/w_700/f_auto,q_auto:eco/v1685396172/2_oacacj.png
 date: 2023-05-28T10:00:00+01:00
 categories: [ "Animali", "Consigli"]
 type: featured

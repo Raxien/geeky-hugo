@@ -1,7 +1,7 @@
 ---
 title: Austria in camper con cane e gatto
 description: 3 settimane on the road tra città, musei e natura
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1675350710/Articoli/IMG_3427_gttfeh.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1675350710/Articoli/IMG_3427_gttfeh.jpg
 date: 2023-02-01T10:00:00.000+00:00
 categories: ["Europa", "Itinerari", "Camper", "Animali"]
 country: Austria
@@ -44,7 +44,7 @@ Nel primo pomeriggio ci siamo spostati presso un piccolo laghetto, a **Rieden am
 La tappa successiva per noi è stata **Thalgau**, un borgo piccolino incastonato in un ventaglio di montagne.
 Sosta in libera in uno spiazzo vicino a un parco giochi. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684674589/IMG_3447_xhxl6a.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684674589/IMG_3447_xhxl6a.jpg" >}}
 
 **{{< underline "Giorno 8-9" >}}**: dopo una passeggiata nei dintorni fra casette bianche e stradine sterrate, abbiamo raggiunto su consiglio di una famiglia austriaca il paesino di **Mondsee e l'omonimo lago**, nelle cui acque si specchiano le montagne attorno: spettacolo bellissimo! Anche la via centrale del paese è suggestiva, così come la chiesa che offre anche una piccola ala interna con giochi dedicati ai bambini. 
 Non in tutta l'Austria è consentito pernottare il libera, motivo per cui per la notte ci siamo spostati sulle colline intorno **al lago di Wolfgangsee**: qui puoi camminare lungo tutto il perimetro, imbattendoti in scorci spettacolari e zone d'ombra davvero piacevoli. Sosta sulle sponde del lago consentita a pagamento solo di giorno. 
@@ -61,7 +61,7 @@ Per la notte ci siamo spostati a Gmunden.
 
 **{{< underline "Giorno 15" >}}**: abbiamo visitato le bellissime **cascate di Traun** raggiungibili tramite una passerella in legno, fatto il bagno in un fiume nelle immediate vicinanze e abbiamo dormito nella foresta al riparo dal diluvio.  
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684674600/IMG_4118_eu3zva.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684674600/IMG_4118_eu3zva.jpg" >}}
 
 **{{< underline "Giorno 16-17" >}}**: ci siamo spostati nella deliziosa cittadina di **Linz** parcheggiando in un viale in una zona residenziale dalla quale si raggiunge facilmente a piedi il centro città con le sue stradine con palazzi dalle facciate colorate. Dato il maltempo del secondo giorno ne abbiamo approfittato per visitare un museo, l’ARS ELECTRONICA, che si è rivelato una scoperta molto interessante (animali non ammessi): il modo interattivo in cui viene spiegato come sfruttare l’intelligenza artificiale in svariati ambiti, dalla musica alla creazione di nuovi materiali è davvero coinvolgente, per adulti e bambini. Se hai bisogno di più informazioni in merito le trovi {{< extLink "qui" "https://ars.electronica.art" >}}.
 
@@ -77,7 +77,7 @@ Per la notte ci siamo spostati a Gmunden.
 
 Da questa zona dell'Austria le nostre avventure sono proseguite verso Est, in [Slovacchia](/blog/viaggio-slovacchia-in-camper) prima e in [Polonia](/blog/viaggio-polonia-in-camper-itinerari/) subito dopo. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684674595/IMG_3781_d6m78n.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684674595/IMG_3781_d6m78n.jpg" >}}
 
 ###### In Breve
 Di seguito le sole tappe della nostra avventura. Abbiamo sempre dormito in libera o in aree sosta gratuite. 
@@ -117,7 +117,7 @@ Di seguito le sole tappe della nostra avventura. Abbiamo sempre dormito in liber
 **{{< underline "Giorno 23" >}}**: Rust
 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684674599/IMG_5064_loyaic.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684674599/IMG_5064_loyaic.jpg" >}}
 
 ##### Strade 
 In tutta l'Austria la situazione delle strade è in condizioni impeccabili. L'autostrada è a pagamento con vignetta (con varie formule di durata e costi relativi), noi però abbiamo preferito percorrere le strade statali. 
@@ -134,7 +134,7 @@ Di seguito un'idea di quanto abbiamo speso in 3 settimane in Austria.
 
 {{< card >}}
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684674600/IMG_4670_xkdshk.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684674600/IMG_4670_xkdshk.jpg" >}}
 
 ##### Viaggiare con il proprio animale
 {{< animali "EU">}}

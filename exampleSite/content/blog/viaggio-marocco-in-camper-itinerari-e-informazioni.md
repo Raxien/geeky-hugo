@@ -1,7 +1,7 @@
 ---
 title: 'Marocco in camper: itinerari, consigli e informazioni utili' 
 description: ""
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1680644212/Senegal-in-camper_dycaxx.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1680644212/Senegal-in-camper_dycaxx.png
 date: 2022-07-26T17:00:00.000
 categories: ["Africa", "Guida", "Itinerari", "Camper"]
 type: regular
@@ -17,39 +17,32 @@ A fine gennaio 2023 abbiamo quindi comprato i biglietti per il traghetto da Alge
 Abbiamo deciso di scrivere due articoli, dal momento che il nostro viaggio nel paese si è interrotto per proseguire a su verso la Mauritania e il Senegal: nel primo troverete tutte le tappe che abbiamo effettuato lungo la costa atlantica, nel secondo l'itinerario relativo all'entroterra e alla risalita. 
 
 > ##### Tabella dei contenuti
-> - [Il Paese](#Paese)
-> - [Itinerario](#Itinerario)
-> - [Consigli Utili](#Consigli)
->     - [Documenti](#Documenti) 
->     - [Clima](#Clima)
->     - [Come pagare](#Pagare)
->     - [Internet](#Internet)
->     - [Vaccini e assicurazione sanitaria](#Vaccini)
->     - [Dogane](#Dogane)
->     - [Strade](#Strade)
->     - [Sicurezza](#Sicurezza)
-> - [Parchi e altre escursioni](#Escursioni) 
-> - [Casamance](#Casamance)
-> - [Mezzi di trasporto pubblici](#Mezzi)
-> - [Dove e cosa mangiare](#Mangiare)
-> - [Dove dormire](#Dormire)
-> - [Viaggiare con il proprio animale](#Animali)
-> - [Quanto abbiamo speso](#Spesa)
+> - [Il Paese](#il-paese)
+> - [Itinerario](#itineario)
+> - [Consigli Utili](#consigli-utili)
+>     - [Documenti](#documenti) 
+>     - [Clima](#clima-e-quando-andare)
+>     - [Come pagare](#come-pagare)
+>     - [Vaccini e assicurazione sanitaria](#vaccini-e-assicurazione-sanitaria)
+>     - [Dogane](#dogana)
+>     - [Strade](#strade)
+>     - [Sicurezza](#sicurezza-nel-paese)
+> - [Parchi e altre escursioni](#i-parchi-e-altre-escursioni) 
+> - [Mezzi di trasporto pubblici](#mezzi-di-trasporto-pubblici)
+> - [Dove e cosa mangiare](#dove-e-cosa-mangiare)
+> - [Dove dormire](#dove-dormire)
+> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
+> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
-> - [Il nostro vlog](#Vlog)
-> - [Le nostre mappe](#Mappe)
-
-<div id="Paese"></div>
+> - [Il nostro vlog](#il-nostro-vlog)
+> - [Le nostre mappe](#le-nostre-mappe)
 
 ##### Il paese
-
-<div id="Itinerario"></div>
 
 ##### Itinerario
 
 In questa sezione vi elencheremo tutte le tappe della nostra avventura, portandovi con noi da nord a sud del paese, rimanendo sempre lungo la costa atlantica. 
 Al fondo di questo articolo troverete la mappa con tutti i puntalini relativi a soste e luoghi di interesse [clicca qui se vuoi saltare i dettagli](#considerazioni-e-tappe-imperdibili) 
-
 
 **{{< underline "Giorno 1" >}}**: siamo arrivati a Tanger Med intorno alle 13 e dopo aver svolto le pratiche doganali, passando attraverso lo scanner, ci siamo diretti immediatamente verso Assilah, 80 km a sud. Era sabato e per nostra fortuna abbiamo avuto modo di vivere subito l'atmosfera del souk. La passeggiata lungo le mura della cittadina è davvero piacevole. Abbiamo sostato in libera in un piazzale molto tranquillo a due passi dal centro città.
 
@@ -71,7 +64,6 @@ Lasciata la capitale ci siamo diretti a El Jadida, antica colonia portoghese, so
 **{{< underline "Giorno 9-10" >}}**: lasciata la cittadina ci siamo recati ad Had Draa per visitare un famoso mercato rurale della domenica, dedicato sia a frutta e verdura che al bestiame. Prezzi davvero vantaggiosi, attenzione ai borseggiatori. Da qui ci siamo diretti verso sud di Imsouane, sostando in libera per due giorni a ridosso delle dune, facendo delle belle passeggiate e godendo di un tramonto magico. 
 
 **{{< underline "Giorno 11" >}}**: lasciata la costa abbiamo raggiunto Agadir, che però ci ha accolti con un traffico e un caos che non ci hanno fatto venir voglia di sostare. Abbiamo approfittato del parcheggio di un Carrefour per fare un po' di spesa e poi siamo ripartiti direzione Tifnit. Qui abbiamo trovato un parcheggio in libera con vista sul piccolo paese dei pescatori, che abbiamo raggiunto con una bella passeggiata.
-
 
 **{{< underline "Giorno 12" >}}**: abbiamo pranzato in compagnia in riva all'oceano, approfittando di un piccolo ristorante che grigliava pesce fresco e ci siamo diretti in serata verso Tiznit, dove abbiamo dormito in libera in un parcheggio di fronte al camping, che era al completo.
 
@@ -95,41 +87,27 @@ Lasciata la capitale ci siamo diretti a El Jadida, antica colonia portoghese, so
 
 **{{< underline "Giorno 23" >}}**: abbiamo passeggiato lungo la costa in quasta zona molto tranquilla per poi dirigerci dopo pranzo alla frontiera sud. Notte in libera in Frontiera, per entrare il giorno dopo in Mauritania. 
 
-
-<div id="Consigli"></div>
-
 ##### Consigli utili
 Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese. 
 
-<div id="Documenti"></div>
 
 ##### Documenti
 
 crta verde 
 
-<div id="Clima"></div>
 
 ##### Clima e quando andare
 
-<div id="Pagare"></div>
 
 ##### Come pagare
 
-
-
-<div id="Internet"></div>
-
 ##### Internet
 
-
-<div id="Vaccini"></div>
 
 ##### Vaccini e assicurazione sanitaria
 Non è richiesta alcuna vaccinazione obbligatoria per i viaggi in Marocco.
 
 Prima della partenza vi consigliamo però di stipulare un’assicurazione sanitaria, se ne trovano moltissime su internet e il prezzo varia in base ai giorni di permanenza, all'età e allo stato di salute. 
-
-<div id="Dogana"></div>
 
 ##### Dogana
 
@@ -150,43 +128,27 @@ Prestate attenzione perché non di rado potrebbero attraversarvi la starda alcun
 Sovente quancuno vi supererà da destra e sinistra, magari a bordo di un motorino senza casco.
 Vi sconsigliamo di guidare di notte.
 
-
-<div id="Sicurezza"></div>
-
 ##### Sicurezza nel paese
 In tutto il paese l'ospitalità pare essere sacra, ma non dimenticatevi che i ladruncoli possono essere dappertutto.
 In particolare abbiamo sentito numerose storie di persone verso il cui mezzo sono stati tirati dei massi. 
 Sovente i bambini vi fermeranno per chiedere una moneta. 
 
-
-<div id="Escursioni"></div>
-
 ##### I parchi e altre escursioni
 
-<div id="Mezzi"></div>
-
 ##### Mezzi di trasporto pubblici 
-
-
-<div id="Mangiare"></div>
 
 ##### Dove e cosa mangiare 
 In tutto il paese si trovano tantissime botteghine che vendono un po' di tutto 
 Nel nord è molto facile trovare anche grandi supermercati come Carrefour o Marjane.
 
-
 Per quanto riguarda l'acqua, consigliamo di bere solamente quella in bottiglia.
 
 Ramadan 
-
-<div id="Dormire"></div>
 
 ##### Dove dormire
 Lungo tutto il territorio si trovano numerosi campeggi. 
 Noi siamo riusciti per la maggior parte delle volte a soggiornare in libera. 
 Numerosi sono gli alberghi o presenti sul territorio.
-
-<div id="Animali"></div>
 
 ##### Viaggiare con il proprio animale
 {{< animali "EX">}}
@@ -194,12 +156,7 @@ Numerosi sono gli alberghi o presenti sul territorio.
 In Marocco non sono obbligatorie ulteriori profilassi particolari, in ogni caso noi abbiamo provveduto a somministrare a Olimpia e Sakè, i nostri cane e gatto, i consueti antiparassitari. Consigliamo di tenere il proprio animale sempre al guinzaglio, dal momento che numerosi animali selvatici camminano in ogni angolo del paese. 
 Soprattutto lungo la costa abbiamo notato anche molti branchi di cani randagi. 
 
-<div id="Speso"></div>
-
 ##### Quanto abbiamo speso
-
-
-
 
 
 ##### Considerazioni
@@ -208,15 +165,12 @@ Passeggiando per le stradine di Assilah ci siamo risollevati il morale, per poi 
 
 La strada per raggiungere Daklha può risultare eterna e noiosa, ma alcuni scorci di questi paesaggi ci hanno lasciati davvero senza fiato.
 
-
 Tappe imperdibili: 
 - 
 
 Tappe da evitare:
 - Lago Rosa, per via del fatto che attualmente non è più rosa 
 - Petit Cote, troppo turistica e con hotel diroccati 
-
-<div id="Vlog"></div>
 
 ##### Il nostro Vlog
 
@@ -229,8 +183,6 @@ Se volete vedere i nostri vlog o vuoi sentire le nostre considerazioni ti lascia
 - le nostre considerazioni
 
 {{< youtube avKZAgEAd0Q >}}
-
-<div id="Mappe"></div>
 
 ##### Le nostre mappe
 

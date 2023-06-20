@@ -1,12 +1,12 @@
 ---
 title: 'Viaggio in Giappone: tutto quello da sapere e itinerari' 
 description: ""
-image: 
-date: 2023-06-10T17:00:00.000
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1687279327/Articoli/Giappone/tori-in-acqua_gzscgp.jpg
+date: 2023-06-19T17:00:00.000
 categories: ["Asia", "Guida", "Itinerari"]
 country: Giappone
-type: regular
-draft: true
+type: featured
+draft: false
 ---
 
 Se stai cercando una destinazione che ti offra un'esperienza di viaggio unica, il Giappone è il posto giusto per te. Con una cultura millenaria, una cucina deliziosa e una perfetta armonia tra il passato e futuro, questo paese asiatico ha molto da offrire ai viaggiatori di ogni tipo. In questo articolo, esploreremo le ragioni per cui dovresti visitare il Giappone e ti proporremo alcuni itinerari imperdibili per il tuo viaggio nati dopo svariate visite nel paese.
@@ -30,6 +30,8 @@ La natura del Giappone è altrettanto spettacolare, con montagne imponenti, fior
 
 La lingua ufficiale è il giapponese ed è difficile trovare qualcuno che parla inglese. Per ovviare a questo problema mi consigliamo di scaricare un traduttore offline sul vostro telefono. Noi usiamo Google Translate ({{< extLink "Ios" "https://apps.apple.com/us/app/google-translate/id414706506" >}}, {{< extLink "Android" "https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en_US&pli=1" >}})
 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1687279325/Articoli/Giappone/tempio-notte-tokyo-asakusa_frbfcb.jpg" >}}
+
 ##### Clima e quando andare
 Il Giappone ha un clima vario a seconda della stagione e della regione. In generale, **{{< underline "la migliore stagione" >}}** per visitare il paese è la primavera (marzo-maggio) quando i ciliegi in fiore offrono uno spettacolo mozzafiato, seguita dall'autunno (settembre-novembre), con i suoi splendidi colori autunnali. 
 
@@ -45,6 +47,8 @@ I bancomat sono facilmente disponibili in tutto il paese e possono essere utiliz
 Il Giappone è un paese moderno ma in merito alle carte di credito sono molto indietro. Vengono accettate negli alberghi e negozi delle grandi città mentre nei ristoranti portatevi i contanti! Tutte le monetine che vi avanzano potete spenderle nei numerosi distributori sparsi ovunque!
 
 Attualmente un euro vale circa 147,6 ¥.
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1687279276/Articoli/Giappone/cervi-cibo-myajima_sm51ks.jpg" >}}
 
 ##### Internet
 La soluzione migliore per avere internet è quella di acquistare una SIM dati. Noi consigliamo {{< extLink "questa" "https://www.japan-rail-pass.com/it/accesso-a-Internet/sim-card">}}.
@@ -63,6 +67,8 @@ Il Giappone ha un'eccellente rete di trasporti pubblici. Ci può spostare per tu
 -  {{< extLink "Pass per la metro di Tokyo" "https://www.tokyometro.jp/en/ticket/travel/" >}}: potete accedere gratuitamente per 24/46/72 ore a tutte le linee della metro di Tokyo Metro e le linee Toei.
 -  {{< extLink "JR Pass" "https://japanrailpass.net" >}}: potete usare gratuitamente tutte le linee JR che comprende i famosi treni proiettile **shinkansen**, alcuni traghetti e pullman. Prima di procedere con l'acquisto consulta {{< extLink "le linee valide qua" "https://japanrailpass.net/en/about_jrp.html#anchor04" >}}.
 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1687279269/Articoli/Giappone/capotreno-stazione-nara_jmli6n.jpg" >}}
+
 <!-- ##### Cosa mangiare  -->
 
 <!-- ##### Dove dormire -->
@@ -72,6 +78,8 @@ Il Giappone ha un'eccellente rete di trasporti pubblici. Ci può spostare per tu
 
 ##### Itinerari
 In questa sezione ti proponiamo due itinerari che puoi compiere con i mezzi pubblici. Si basano su due viaggi effettuati nel paese (aprile 2017 e fine marzo-inizio aprile 2019). In un capitolo finale i luoghi che secondo noi meritano maggiormente e non vanno persi.
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1687279331/Articoli/Giappone/tori-isola-in-acqua_sd0h8g.jpg" >}}
 
 <div id="Itinerario1"></div>
 
@@ -88,6 +96,8 @@ Partenza dall'aeroporto di Narita e rientro dall'Aeroporto Internazionale di Osa
 **{{< underline "Giorno 4" >}}** sveglia presto per andare a prendere il treno in direzione **{{< bold "Kamakura" >}}** (circa 1 ora). Rientro nel primo pomeriggio con visita nel quartiere governativo di **{{< bold "Shinjuku" >}}** per vedere Tokyo dall'alto _gratuitamente_ sul palazzo del governo metropolitano.
 In serata passeggiata nel **{{< bold "Golden Gai" >}}**
 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1687279270/Articoli/Giappone/kamakura-budda_yn79uf.jpg" >}}
+
 **{{< underline "Giorno 5" >}}** altra sveglia presto per prendere lo shinkansen direzione l'antica capitale (2 ore e 40 minuti). Visita al **{{< bold "castello Nijo" >}}**, passando per il **{{< bold "mercato di Nishiki" >}}**, per poi camminare nel **{{< bold "parco di Maruyama" >}}** e finendo per visitare il **{{< bold "santuario Yasaka" >}}**. Nel pomeriggio direzione **{{< bold "tempio Kiyomizudera" >}}** per poi fare un tuffo nel passato passeggiando lungo le due stradine **{{< bold "Ninenzaka" >}}** e **{{< bold "Sannenzaka" >}}**. In serata visita del quartiere di **{{< bold "Pontocho" >}}** e dintorni.
 
 **{{< underline "Giorno 6" >}}** visita del **{{< bold "tempio d'oro (Kinkakuji)" >}}** e del giardino roccioso nel **{{< bold "tempio Ryōan-ji" >}}**. Spostamento nel quartiere di **{{< bold "Arashiyama" >}}** per vedere la **{{< bold "foresta di bambù" >}}** e il **{{< bold "tempio Tenryū-ji" >}}**. Per ultimo visita del **{{< bold "Saga Toriimoto" >}}**, un vialetto costeggiato da diverse case in legno.
@@ -96,10 +106,12 @@ In serata passeggiata nel **{{< bold "Golden Gai" >}}**
 
 **{{< underline "Giorno 8" >}}** mattina dedicata alla **{{< bold "percoso del filoso" >}}** (raggiungibile in 30 minuti di pullman) e visita dei suoi numerosi santuari. Nel primo pomeriggio trasferimento a **Osaka** tramite shinkansen (14 minuti) per visitare il suo iconico (anche se ora è una replica) Castello e il **quartiere Minami**. In serata transfer verso l'Aeroporto Internazionale di Osaka.
 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1687279323/Articoli/Giappone/tori-fujiminari_cgbiwn.jpg" >}}
+
 <div id="itinerario2"></div>
 
 ###### 14 Giorni
-L'itinerario Vandipety, permette di calarsi appieno nella cultura Giapponese partendo dalla futuristica Tokyo fino a ricalcare mete ricche di cultura passando dalle alpi giapponesi.
+L'itinerario **Vandipety**, permette di calarsi appieno nella cultura Giapponese partendo dalla futuristica Tokyo fino a ricalcare mete ricche di cultura passando dalle alpi giapponesi.
 Per ragioni economiche siamo partiti dall'aeroporto di Narita, Tokyo, e rientro dall'Aeroporto Internazionale di Tokyo. Se disponibile consigliamo di rientrare dall'Aeroporto Internazionale di Osaka cosi da vedere anche questa città.
 
 **{{< underline "Giorno 1" >}}** arrivo all'aeroporto di Narita e transfer all'hotel tramite treno. Visita del parco di **{{< bold "Ueno" >}}** e spostamento in serata al quartiere di **{{< bold "Akihabara" >}}**
@@ -111,11 +123,15 @@ Per ragioni economiche siamo partiti dall'aeroporto di Narita, Tokyo, e rientro 
 **{{< underline "Giorno 4" >}}** sveglia presto per andare a prendere il treno in direzione **{{< bold "Kamakura" >}}** (circa 1 ora). Rientro nel primo pomeriggio con visita nel quartiere governativo di **{{< bold "Shinjuku" >}}** per vedere Tokyo dall'alto _gratuitamente_ sul palazzo del governo metropolitano.
 In serata passeggiata nel **{{< bold "Golden Gai" >}}**
 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1687279284/Articoli/Giappone/bar-tokyo-ragazza_xgfakr.jpg" >}}
+
 **{{< underline "Giorno 5" >}}** direzione **{{< bold "Kanazawa" >}}** raggiungibile con uno _Shinkansen_ (il treno proiettile) in 3 ore. Visita del parco Kenrokuen, il castello, il distretto delle geisha e il mercato di Omicho.
 
 **{{< underline "Giorno 6" >}}** visita del surreale villaggio senza tempo di **{{< bold "Shirakawa-Go" >}}**. Nel pomeriggio trasferimento a **{{< bold "Takayama" >}}**
 
 **{{< underline "Giorno 7" >}}** visita di Takayama partendo dal parco di Shiroyama, passando per il mercato di Jinya e finendo nello storico quartiere di Sanmachi Suji, detto anche "la piccola Kyoto". Nel tardo pomeriggio trasferimento in treno per **{{< bold "Kyoto" >}}** (3 ore circa)
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1687279299/Articoli/Giappone/Shirakawa-Go-case_vwrlka.jpg" >}}
 
 **{{< underline "Giorno 8" >}}** visita dell'antica capitale partendo in mattinata dal **{{< bold "castello Nijo" >}}**, passando per il **{{< bold "mercato di Nishiki" >}}**, per poi camminare nel **{{< bold "parco di Maruyama" >}}** e finendo per visitare il **{{< bold "santuario Yasaka" >}}**. Nel pomeriggio direzione **{{< bold "percoso del filoso" >}}** tramite pullman (30 minuti) e visita dei suoi numerosi santuari.
 
@@ -123,13 +139,19 @@ In serata passeggiata nel **{{< bold "Golden Gai" >}}**
 
 **{{< underline "Giorno 10" >}}** visita del **{{< bold "tempio d'oro (Kinkakuji)" >}}** e del giardino roccioso nel **{{< bold "tempio Ryōan-ji" >}}**. Spostamento nel quartiere di **{{< bold "Arashiyama" >}}** per vedere la **{{< bold "foresta di bambù" >}}** e il **{{< bold "tempio Tenryū-ji" >}}**. Per ultimo visita del **{{< bold "Saga Toriimoto" >}}**, un vialetto costeggiato da diverse case in legno.
 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1687279291/Articoli/Giappone/antiche-case-giapponesi_c1toth.jpg" >}}
+
 **{{< underline "Giorno 11" >}}** sveglia presto per andare a camminare al **{{< bold "Fushimi Inari" >}}**. Nel pomeriggio spostamento a Nara e visita del **{{< bold "tempio Toda-ji" >}}**
 
-**{{< underline "Giorno 12" >}}** direzione **{{< bold "Hiroshima" >}}** tramite _Shinkansen_ in 2 ore. Giornata dedicata alla visita del suggestivo parco Shukkeien, il memoriale della pace e la città. Nel pomeriggio visita dell'isola di **{{< bold "Miyajima" >}}** e del suggestivo Torii nell'acqua raggiungibile con un treno (30 minuti) e poi in traghetto (15 minuti).
+**{{< underline "Giorno 12" >}}** direzione **{{< bold "Hiroshima" >}}** tramite _Shinkansen_ in 2 ore. Giornata dedicata alla visita del suggestivo parco Shukkeien, il memoriale della pace e la città. Nel pomeriggio visita dell'isola di **{{< bold "Miyajima" >}}** e del suggestivo Torii nell'acqua raggiungibile con un treno (30 minuti) e poi in traghetto (15 minuti). Non dimenticatevi di provare le ostriche!
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1687279298/Articoli/Giappone/ostriche-myashima_by6pix.jpg" >}}
 
 **{{< underline "Giorno 13" >}}** sveglia presto per vedere il Torii immerso nell'acqua e visita dell'isola con particolare attenzione al tempio Daisho-in, al monte Misen (raggiungibile con 2 ore di camminata o con la teleferica). Nel tardo pomeriggio rientro a Tokyo (circa 5 ore di treno)
 
 **{{< underline "Giorno 14" >}}** ultimo giorno dedicato a vedere di nuovo il parco di Ueno e il Yanaka Ginza per poi andare verso il quartiere della terza età di Sugamo e del giardino Rikugien. 
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1687279298/Articoli/Giappone/nonnina-giapponese_vnzmbg.jpg" >}}
 
 <!-- ##### I parchi e altre escursioni -->
 

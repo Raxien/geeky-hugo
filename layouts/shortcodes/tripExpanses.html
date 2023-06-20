@@ -47,7 +47,6 @@
         // cancella i dati che non servono
         while(i < data.res.length){
           // console.log(data.res[i])
-          // console.log(data.res[i])
           if(toDate(data.res[i].date) <= toDate("{{ $start }}") || toDate(data.res[i].date) >= toDate("{{ $end }}") || data.res[i].category.id === 8){
               data.res[i].deleted_by = 1;      
             }

@@ -1,7 +1,7 @@
 ---
 title: '5 parcheggi per camper in Marocco da sogno'
 description: 5 parcheggi, tutti gratuiti tranne uno, in cui vivere e sognare a bordo del tuo camper
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684506267/IMG_9525_umvoqs.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684506267/IMG_9525_umvoqs.jpg
 date: 2022-07-05T10:00:00+01:00
 categories: [ "Curiosità", "Consigli"]
 type: regular
@@ -28,7 +28,7 @@ Vuoi fare anche un bagno o camminare a riva? Ti basta fare qualche chilometro di
 
 L'unico problema di questo luogo è che essendo in cima alle scogliere può essere pericoloso in caso di forte vento. E' proprio per questo motivo che abbiamo deciso di spostarci ed evitare di metterci in pericolo.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684505852/IMG_7082_pg35bw.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684505852/IMG_7082_pg35bw.jpg" >}}
 
 #### Tafraout
 Hai mai immaginato di dormire in mezzo a un palmeto? Per noi è stata una prima volta davvero emozionante.
@@ -55,7 +55,7 @@ Troverai solo un paio di container che rivendono pane e snack preconfezionati. S
 
 Nei weekend e nei giorni di festa la zona si anima di persone per lo più del posto che grigliano e campeggiano. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684506297/IMG_1460_sgnjte.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684506297/IMG_1460_sgnjte.jpg" >}}
 
 #### Lago El Ouidane
 Non appena superata la diga e un paio di resort turistici ci si ritrova davanti una spianata di terra secca, dove un tempo questo lago era decisamente più rigoglioso. Puoi decidere di parcheggiare all'inizio all'ombra di qualche albero o in riva in pieno sole e in compagnia di qualche pescatore.
@@ -66,7 +66,7 @@ A poche centinaia di metri dall'accesso si trova una piccola bottega in cui trov
 
 Se ti venisse voglia di pizza non temere: da {{< extLink "da Snack Pizzeria Slimane" " https://goo.gl/maps/u6ybUJ5bxPwFKo2b8?coh=178573&entry=tt" >}} trovi la margherita a 22 DH e uscirai davvero soddisfatta/o!  
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684505893/IMG_1300_ekbfqz.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684505893/IMG_1300_ekbfqz.jpg" >}}
 
 
 #### Lago El Sidi Chahede
@@ -81,7 +81,7 @@ A pochi chilometri, sulla riva di un lago limitrofo ancora esistente, puoi trova
 
 Purtroppo siamo andati via per cercare una fontana dove caricare acqua (a mezz'ora) e un luogo dove fare la spesa (raggiungendo la vicina Fez in un'ora).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684506311/DSC02744_ymmifg.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684506311/DSC02744_ymmifg.jpg" >}}
 
 
 

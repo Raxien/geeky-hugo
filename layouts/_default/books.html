@@ -1,5 +1,6 @@
 {{ define "main" }}
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 
 <!--=================== about section start ===================-->
 <section class="section">
@@ -29,8 +30,8 @@
           <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
           <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 992px)">
           <source srcset="{{ $imageXL.RelPermalink }}">
-          <img loading="lazy" decoding="async" class="img-fluid mb-5 w-100 rounded-4" src="{{$imageFallback.RelPermalink}}"
-            alt="{{.Title}}" width="{{$image.Width}}" height="{{$image.Height}}">
+          <img loading="lazy" decoding="async" class="img-fluid mb-5 w-100 rounded-4"
+            src="{{$imageFallback.RelPermalink}}" alt="{{.Title}}" width="{{$image.Width}}" height="{{$image.Height}}">
         </picture>
         {{ end }}
         <!-- /image processing for multiple device -->
@@ -88,61 +89,61 @@
     return string.charAt(0).toUpperCase() + string.slice(1);
   }
 
-  let liElement = function(data) {
-    return '<li><strong><a href="' + data.url + '">' + data.title + '</a></strong> di ' + data.author +  '</li>';
+  let liElement = function (data) {
+    return '<li><strong><a href="' + data.url + '">' + data.title + '</a></strong> di ' + data.author + '</li>';
   }
 
   let buildList = function () {
 
-      console.log('getting data');
-      $.ajax({
-        type: 'GET', // added,
-        url: rpcUrl + "/data/books",
-        contentType: "application/json",
-        success: function (data) {
+    console.log('getting data');
+    $.ajax({
+      type: 'GET', // added,
+      url: rpcUrl + "/data/books",
+      contentType: "application/json",
+      success: function (data) {
+        // debugger;
+        console.log(data);
+        res = data.json;
+
+        let nowId = "#nowReading", justId = "#justEnded", otherId = "#otherBook";
+        let otherId1 = "#otherBook_1", otherId2 = "#otherBook_2";
+        otherId = otherId1;
+        let i = 0, flag = true;
+        while (i < res.length) {
+          let element = res[i];
+          console.log(res[i]);
           // debugger;
-          console.log(data);
-          res = data.json;
-          
-          let nowId = "#nowReading", justId = "#justEnded", otherId = "#otherBook";
-          let otherId1 = "#otherBook_1", otherId2 = "#otherBook_2";
-           otherId = otherId1;
-          let i = 0, flag = true;
-          while(i < res.length ){
-            let element = res[i];
-            console.log(res[i]);
-            // debugger;
-            if(element.status === _READING)
-              $(nowId).append(liElement(element));
-            else if(element.status === _FINISH)
-              $(justId).append(liElement(element));
-            else {
-              if($('#' + element.Type).val() === undefined ){
-                $(otherId).append('<h5>' + capitalizeFirstLetter(element.Type) + '</h5>');
-                $(otherId).append('<ul id="' + element.Type + '"></ul>')
-              }
+          if (element.status === _READING)
+            $(nowId).append(liElement(element));
+          else if (element.status === _FINISH)
+            $(justId).append(liElement(element));
+          else {
+            if ($('#' + element.Type).val() === undefined) {
+              $(otherId).append('<h5>' + capitalizeFirstLetter(element.Type) + '</h5>');
+              $(otherId).append('<ul id="' + element.Type + '"></ul>')
+            }
 
-              $('#' + element.Type).append(liElement(element));
+            $('#' + element.Type).append(liElement(element));
 
-              if(flag) {
+            if (flag) {
               flag = false;
               otherId = otherId2;
             }
-              else {
+            else {
               flag = true;
               otherId = otherId1;
-            } 
             }
-
-            i++;
           }
 
-          return data;
-        },
-        error: function (xhr, status, error) {
-            console.log('Error: ' + error.message);
-        } 
-        });
+          i++;
+        }
+
+        return data;
+      },
+      error: function (xhr, status, error) {
+        console.log('Error: ' + error.message);
+      }
+    });
   }
 
   $(document).ready(function () {
