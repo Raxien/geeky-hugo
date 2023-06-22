@@ -1,7 +1,7 @@
 ---
 title: "Vandipety: il \"cognome\" della nostra famiglia"
 description: Non sapevamo che nome attribuire al nostro sito, poi abbiamo giocato con le parole ed è nata la magia.
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1660666366/Articoli/IMG_9993_msunds.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1660666366/Articoli/IMG_9993_msunds.jpg
 date: 2022-08-15T11:00:00.000+02:00
 categories: ["Curiosità"]
 type: regular

@@ -1,7 +1,7 @@
 ---
 title: 'Abbiamo voluto tenere traccia di tutte le nostre tappe' 
 description: "L'applicazione giusta per tenere traccia di tutte le nostre le tappe in giro per il mondo"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1672751449/Articoli/findpenguins_logo_standard_rgb_glv3wg.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1672751449/Articoli/findpenguins_logo_standard_rgb_glv3wg.png
 date: 2023-01-22T17:00:00.000
 categories: ["Italia", "Camper", "Curiosità"]
 type: regular

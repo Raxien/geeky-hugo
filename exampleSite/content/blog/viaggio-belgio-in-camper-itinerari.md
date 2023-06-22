@@ -1,8 +1,8 @@
 ---
 title: 'Belgio in camper con cane e gatto: 3 tappe imperdibili'
 description: "On the road in territori fiamminghi"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
-date: 2023-04-10T17:00:00.000
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
+date: 2023-05-30T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Belgio
 type: regular
@@ -35,9 +35,9 @@ Nonostante il poco tempo a disposizione siamo comunque riusciti a trovare 3 dest
 
 {{< extLink "qui" "https://www.realalcazarsevilla.com/it/?gad=1&gclid=CjwKCAjwxr2iBhBJEiwAdXECw6ZTR1OLYuZk3UlpHNtyKeQs5r9BTwV66jN8aULls91g5ioMEk8i_RoCNjcQAvD_BwE" >}})
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862713/Articoli/francia/IMG_7177_gurulo.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682862713/Articoli/francia/IMG_7177_gurulo.jpg" >}}
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862725/Articoli/francia/IMG_8318_i0b77u.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682862725/Articoli/francia/IMG_8318_i0b77u.jpg" >}}
 
 ##### Strade 
 
@@ -53,7 +53,7 @@ Siamo stati davvero troppo poco in Belgio per poter dare un parere costruttivo. 
 Il costo della vita sicuramente è più alto che altrove, abbiamo potuto notarlo sia mangiando fuori sia facendo una piccola spesa "di sopravvivenza", e anche questo fattore ha inciso sui giorni di permamenza in paese.
 Il clima subisce le correnti atlantiche, a inizio settembre abbiamo trovato sia bel tempo sia acquazzoni e umidità elevata nell'arco di 5 giorni. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223926/IMG_9550_uxwttl.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1683223926/IMG_9550_uxwttl.jpg" >}}
 
 ##### Il nostro Vlog 
 

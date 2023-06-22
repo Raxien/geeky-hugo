@@ -1,11 +1,11 @@
 ---
 title: 'Andalusia in camper con cane e gatto: itinerario, consigli e informazioni utili'
 description: "Alla scoperta dell'Andalusia in camper, un viaggio on the road alla ricerca di luoghi ricchi di storia affacciati sulla costa"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
 date: 2023-04-10T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Spagna
-type: featured
+type: regular
 draft: false
 ---
 <!-- TODO
@@ -78,11 +78,11 @@ Le tappe che vorremmo ancora effettuare sono:
 - Ronda
 - Cordova
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862713/Articoli/francia/IMG_7177_gurulo.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682862713/Articoli/francia/IMG_7177_gurulo.jpg" >}}
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862713/Articoli/francia/IMG_7621_yt3nni.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682862713/Articoli/francia/IMG_7621_yt3nni.jpg" >}}
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862725/Articoli/francia/IMG_8318_i0b77u.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682862725/Articoli/francia/IMG_8318_i0b77u.jpg" >}}
 
 ###### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera, in parcheggi in cui non erano presenti divieti o in aree camper gratuite. 
@@ -115,7 +115,7 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera, in parcheggi in cui 
 
 **{{< underline "Giorno 17-18" >}}**: Granada
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682862720/Articoli/francia/IMG_8478_icsos7.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682862720/Articoli/francia/IMG_8478_icsos7.jpg" >}}
 
 ##### Strade 
 In tutta l'Andalusia abbiamo trovato le strade in condizioni perfette. L'autostrada è a pagamento, mentre è gratuita l'autopista.
@@ -132,7 +132,7 @@ Di seguito un'idea di quanto abbiamo speso nei 15 giorni in Spagna del Nord, ten
 
 {{< card >}}
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223905/IMG_8866_dea0c1.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1683223905/IMG_8866_dea0c1.jpg" >}}
 
 ##### Viaggiare con il proprio animale
 {{< animali "EU">}}
@@ -146,7 +146,7 @@ In camper o auto, le mete imperdibili secondo noi sono:
 -   **{{< bold "Caminito del Rey " >}}**: se sogni brivido e avventura è la meta giusta.
 -   **{{< bold "Granada" >}}**: se ami la storia e l'architettua Granada non deluderà le tue aspettative.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683223926/IMG_9550_uxwttl.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1683223926/IMG_9550_uxwttl.jpg" >}}
 
 ##### Il nostro Vlog 
 

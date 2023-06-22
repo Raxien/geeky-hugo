@@ -1,7 +1,7 @@
 ---
 title: 'Viaggio con cane e gatto: le 10 cose essenziali da portare con te!'
 description: Scopri le 10 cose essenziali da avere per un viaggio indimenticabile con il tuo animale! Leggi il nostro articolo per pianificare al meglio la tua avventura.
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1657024162/Articoli/10_cose_per_un_viaggio_ontheroad_udittt.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1657024162/Articoli/10_cose_per_un_viaggio_ontheroad_udittt.jpg
 date: 2022-07-05T10:00:00+01:00
 categories: [ "Animali", "Consigli"]
 type: regular
@@ -13,7 +13,6 @@ Viaggiamo da un anno on the road con il nostro cane e il nostro gatto ed eccoti 
 ##### 1. Acqua
 Che il tuo animale sia o meno abituato a bere dalle fontane, non è sempre detto che si possano trovare, che siano funzionanti e che l'acqua sia potabile.
 Ecco perché ti consigliamo di portare con te {{< extLink "una borraccia" "https://amzn.to/3NQxosJ" >}} come questa che mantiene anche l'acqua fresca!
-
 
 ##### 2. Ciotola
 Se pensi, come facciamo noi, di usare anche tu la stessa borraccia, ti consigliamo di avere {{< extLink "una ciotola pieghevole" "https://amzn.to/42HQ1Da" >}} per poter dare da bere al tuo fido compagno a quattro zampe in ogni dove! Con il pratico moschettone la puoi appendere al tuo zainetto e non ti darà alcun fastidio. 
@@ -61,8 +60,6 @@ Ne abbiamo parlato in questo articolo!
 La cosa più importante di tutte è forse la voglia di divertirsi e vivere bellissime avventure insieme!
 Ricordati sempre di rispettare i tempi del tuo animale e di prestare attenzione al clima.
 Talvolta abbiamo visitato posti che sembravano pattumiere a cielo aperto, se ti è possibile usa i sacchettini per le deiezioni e buttali nelle pattumiere comunali. 
-
-
 
 Ti lasciamo il {{< extLink "link al reel" "https://www.instagram.com/reel/CfoKWj7Da3m/?utm_source=ig_web_button_share_sheet" >}} sugli oggetti che non possono mancare per viaggiare con animali. 
 

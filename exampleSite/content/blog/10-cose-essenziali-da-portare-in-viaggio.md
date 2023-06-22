@@ -1,10 +1,10 @@
 ---
 title: 'Le 10 cose essenziali da portare in viaggio'
 description: Scopri le 10 cose essenziali da portare con te per un viaggio on the road indimenticabile. Leggi il nostro articolo per pianificare al meglio la tua avventura.
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1683732572/Articoli/Viaggio/bagagli-viaggio-zaino_bjgtuu.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1683732572/Articoli/Viaggio/bagagli-viaggio-zaino_bjgtuu.jpg
 date: 2022-05-09T10:00:00+01:00
 categories: ["Consigli"]
-type: featured
+type: regular
 draft: false
 ---
 
@@ -28,7 +28,7 @@ Ecco una comoda lista di 10 cose che dovresti assolutamente portare con te, con 
 > 1. [Varie: adattatore universale e sicurezza](#10-varie-adattatore-universale-e-sicurezza)
 > - [Ultimi consigli prima di partire](#ultimi-consigli-prima-di-partire)
 > - [Check List](#check-list)
-
+> 
 </details>
 
 ##### Le 10 cose da avere
@@ -107,7 +107,7 @@ Prima di lasciarti una comoda check list per verificare di aver preso tutto, ti 
 
 - **_Porta con te una fotocopia di tutti i documenti_**. Avere una fotocopia di passaporto, biglietti dei mezzi di trasporto e le prenotazioni di dove alloggerai può tornare sempre utile. Per sicurezza tienine una copia anche sul cellulare!
 
-- **_Per la tua scorta d'acqua._** Puoi usare [l'applicazione Fontanelle](/blog/camper_applicazioni_per_viaggiare) che ti permette di trovare un punto dove ricaricare la borraccia nelle vicinanze!
+- **_Per la tua scorta d'acqua._** Puoi usare [l'applicazione Fontanelle](/blog/camper-le-applicazioni-da-avere-per-viaggiare) che ti permette di trovare un punto dove ricaricare la borraccia nelle vicinanze!
 
 - **_Non portare troppe cose._** Una volta che sei in procinto di chiudere la valigia o lo zaino, chiediti se quello che hai stivato è veramente necessario. In caso la risposta sia **no**, alleggerisci senza problemi. Ricorda, less is more.
 

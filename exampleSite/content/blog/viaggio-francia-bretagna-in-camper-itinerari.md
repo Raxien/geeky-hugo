@@ -1,7 +1,7 @@
 ---
 title: 'Bretagna in camper con cane e gatto: itinerario, consigli e informazioni utili'
 description: "Alla scoperta della Bretagna in camper, tra fari e paesi medievali!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806078/Articoli/francia/IMG_5394_qzokva.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682806078/Articoli/francia/IMG_5394_qzokva.jpg
 date: 2023-04-10T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Francia
@@ -23,7 +23,7 @@ Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tapp
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
- {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806020/Articoli/francia/IMG_5510_df3poq.jpg" >}}
+ {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682806020/Articoli/francia/IMG_5510_df3poq.jpg" >}}
 
 ##### Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura.
@@ -41,11 +41,11 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 **{{< underline "Giorno 6" >}}**: sveglia di buon’ora per andare a visitare la casa incastonata fra le rocce, **{{< bold "Castel Meur" >}}**, a **{{< bold "Plougrescant" >}}**. Poi causa pioggia ci siamo spostati al faro di **{{< bold "Ploumanac'h" >}}**, bellissimo nonostante il maltempo. Nel tardo pomeriggio ci siamo spostati a **{{< bold "Morlaix" >}}**, famosa per il ponte maestoso e poi a **{{< bold "Roscoff" >}}**. Sosta in libera. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806087/Articoli/francia/IMG_5489_w4edks.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682806087/Articoli/francia/IMG_5489_w4edks.jpg" >}}
 
 **{{< underline "Giorno 7" >}}**: gita all'**{{< bold "Ile de Batz" >}}**, piccolo gioiello raggiungibile con un traghetto dalla città di Roscoff. Qui il tempo sembra essersi fermato davvero tra spiagge bianche, strade ciottolate, campi incolti, cavalli selvaggi. Ci è rimasta davvero nel cuore. Se decidi di visitarla ti consigliamo di comprare una baguette farcita in una delle panetterie di Roscoff per pranzo e goderti un pic-nic in natura. Tornati al van abbiamo raggiunto il faro di **{{< bold "Kermovran" >}}** e poi ci siamo diretti verso **{{< bold "Point du Saint Mathieu" >}}**. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806078/Articoli/francia/IMG_5772_oizi8q.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682806078/Articoli/francia/IMG_5772_oizi8q.jpg" >}}
 
 **{{< underline "Giorno 8" >}}**: abbiamo visitato il faro di **{{< bold "Saint Mathieu" >}}** e la vicina abbazia senza tetto, per poi dirigerci a **{{< bold "Quimper" >}}** e per la notte a **{{< bold "Fouesnant" >}}**, in un parcheggio affacciato sulla baia. 
 
@@ -57,7 +57,7 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 **{{< underline "Giorno 11" >}}**: dopo aver visitato **{{< bold "Rennes" >}}** ci siamo diretti a **{{< bold "Vitré" >}}**, piccolo borgo delizioso. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682804772/Articoli/francia/IMG_3897_ytghyv.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682804772/Articoli/francia/IMG_3897_ytghyv.jpg" >}}
 
 Da qui in poi le nostre avventure sono proseguite verso sud, sempre seguendo la costa atlantica. Abbiamo attraversato la regione che si chiama Pays de la Loira, facendo solo un paio di tappe: una a Moidson-la-Riviere (bellissimo e minuscolo borgo circondato da natura rigogliosa, a sud di Chateaubriant) e l'altra a Nantes (purtroppo diluviava ma siamo comunque riusciti a vedere la statua dell'elefante, ispirato a Jules Verne e Leonardo, che barrisce e sputa acqua in movimento ) e rimandando al futuro invece la visita dei castelli della Loira. 
 Infine ci siamo diretti in [Nuova Aquitania](/blog/guida-nuova-aquitania-in-camper-itinerari/), fino a raggiungere il capoluogo Bordeaux e da lì la Spagna del Nord (a breve l'articolo in merito)
@@ -89,7 +89,7 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
 
 **{{< underline "Giorno 12" >}}**: Rennes - Vitré
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682805540/Articoli/francia/IMG_3844_ikkvde.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682805540/Articoli/francia/IMG_3844_ikkvde.jpg" >}}
 
 
 
@@ -108,7 +108,7 @@ Di seguito un'idea di quanto abbiamo speso nei 10 giorni in Bretagna, tenendo pe
 
 {{< card >}}
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806085/Articoli/francia/IMG_4801_mof0mc.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682806085/Articoli/francia/IMG_4801_mof0mc.jpg" >}}
 
 
 
@@ -123,7 +123,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "Ile de Batz" >}}**: questa piccola isola ci ha conquistati dal primo passo. Da non perdere. 
 -   **{{< bold "Vannes e Rennes" >}}**: due città molto belle e ordinate, senza perdere di vista la campagna circostante e i piccoli borghi limitrofi, come Vitré.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1682806037/Articoli/francia/IMG_4808_a5cb9x.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682806037/Articoli/francia/IMG_4808_a5cb9x.jpg" >}}
 
 <div id="Animali"></div>
 
