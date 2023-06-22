@@ -1,66 +1,74 @@
 ---
-title: 'Un nuovo inizio'
-description: Un blog che vuole essere una grande scatola dei ricordi, un nuovo inizio per un'avventura che speriamo non abbia fine. 
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684678075/Copia_di_Aggiungi_un_intestazione_1_xokzp6.jpg
-date: 2023-05-21T10:00:00+01:00
+title: 'Quanto costa vivere un anno in camper?'
+description: Sono passati 365 giorni, vissuti tra Europa e Africa, sempre a bordo del nostro camper. E' tempo di tirare le somme e capire se e come continuare a viaggiare!
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1684678075/Copia_di_Aggiungi_un_intestazione_1_xokzp6.jpg
+date: 2023-05-31T10:00:00+01:00
 categories: [ "Curiosità", "Consigli"]
 type: featured
-draft: true
+draft: true 
 ---
 
-Nelle ultime settimane abbiamo deciso di **stravolgere un po' il nostro sito web**.
-Avevamo scritto di getto una decina di articoli mesi fa, poi tutto si era un po' arenato, dando spazio ad altri progetti che avevamo intrapreso nello stesso periodo.
-Da quando siamo partiti ci siamo messi in gioco cercando di reinventarci in tanti modi ed essendo tutto nuovo occorrono non solo energia e voglia, ma anche tempo.
-Ed è proprio prendendo tempo, sedendoci attorno al tavolino del nostro van e sorseggiando un caffè, che abbiamo deciso di **avviare un nuovo progetto**: 
-<h6 style="text-align: center !important">scrivere gli articoli delle nostre avventure!</h6>
-<br>
+Era il 18 maggio 2022 quando abbiamo iniziato ad annotare il primo rifornimento di gasolio, la prima spesa alimentare.
 
-Avevamo già iniziato a farlo ma non ci avevamo creduto abbastanza. In tante occasioni abbiamo avuto modo di dare consigli a voce e quindi ci siamo detti: perché non condividere la nostra esperienza con tutti?
+I primi di tanti numeri che avremmo scritto per controllare di rientrare nel budget mensile che ci eravamo prefissati.
 
-Sono state le esperienze che abbiamo vissuto, le piccole cose che abbiamo imparato, le leggi che abbiamo scoperto nei vari paesi, i consigli da poter dare sulle condizioni delle strade, sui luoghi scoperti per caso e nei quali manderesti le persone a cui vuoi bene, a farci venir voglia di tener traccia nero su bianco.
+Una delle regole prima di partire per vivere a bordo del nostro van è stata proprio questa:
+**stabilire una cifra limite**, salvo imprevisti.
+O meglio, per poter gestire con più tranquillità anche eventuali imprevisti. 
 
-Sono stati quegli incontri con altri viaggiatori, quelle chiacchierate durate sempre troppo poco, quelle frasi come "ti ricordi quel posto?" o "ah che bella quella volta.." a farci venire voglia di condividere.
+#### Cifra limite 
+1000 euro totali, comprensivi di tutto, anche delle spese per i nostri animali, cane e gatto. Esclusi solo assicurazione e bollo.
+500 euro a testa.
+A suo tempo io ne spendevo 490 solo di affitto, ogni mese.
+Mi sono concessa 10 euro in più per vivere ogni giorno in un angolo diverso del mondo.
 
-Ecco che quindi, proprio appoggiati su quel tavolino che ha sentito i nostri racconti e ha visto prender forma la nostra idea, abbiamo iniziato a scrivere:
+Abbiamo fatto di meglio, in itinere.
+Le due voci escluse sono rientrate nel totale.
 
-##### Guide
-Trovi al loro interno **consigli in generale** su alcuni paesi, come i documenti necessari per arrivarci, la situazione delle strade, le dogane e così via. 
+#### Quindi, quanto abbiamo speso? 
 
-##### Itinerari in camper (e non)
-Puoi leggere delle mete che abbiamo raggiunto in questi anni, sia in camper che non, con alcuni consigli su quelle che per noi **risultano "imperdibili" e il perché**, corredati di fotografie scattate da noi. 
+Per vivere un anno a bordo del nostro van, insieme a cane e gatto, abbiamo speso 10417.41 €: meno di 15 € al giorno a testa.
 
-##### Le mappe 
-Mettiamo le mani avanti: non siamo proprietari del suolo pubblico! Ecco perché le nostre mappe sono **gratuite**! 
-Le troverai al fondo dei nostri articoli con tutti i posti visitati e le soste che abbiamo effettuato. Abbiamo deciso di condividerle gratuitamente in quanto non possiamo promettere al 100% che gli spot rimangano valide nel tempo.
+Nel totale rientra davvero tutto: gasolio, cibo, parcheggi, visite culturali, dogane e visti, traghetto, assicurazione sanitaria, internet etc..
 
-##### Articoli "redazionali"
-Non vogliamo limitarci a parlarti di città, soste, musei e cibi tipici. Vogliamo raccontarti anche di qualche dettaglio che ci ha colpiti, di qualcosa che ci ha fatti crescere o ragionare... insomma farti viaggiare un po' al nostro fianco!
+Tutto ciò che ci ha portati a visitare 2 continenti, 13 paesi, percorrere 30000 km, vivere 4 mesi in Africa da soli lontanto da tutti, inventandoci parole mai sentite prima per comunicare e cavandocela sempre con un sorriso (ok, tranne in dogana quando il poliziotto corrotto è stato irremovibile e ha rovinato i nostri piani. Vuoi scoprire cosa è successo? Scopri tutto {{< extLink "in questo video!" "youtube avKZAgEAd0Q">}}).
 
-##### Il van!
-Non gli abbiamo dato un nome (anche se la community ha votato per **Scricchiolo**) ma il nostro van ci accompagna ogni giorno nei luoghi che desideriamo raggiungere, quindi [nella sezione a lui dedicata](/van/) troverai:
-- le spese sostenute per acquiesto e manuntenzione
-- gli accessori montati a bordo
-- la sua storia e gli errori commessi
-- una check-list infinita di cose da sistemare 😅
+Abbiamo usato con parsimonia quei soldi risparmiati negli anni, che hanno acquisito un senso per noi ancora più pieno di valore.
 
-##### Gli animali 
-A Olimpia e Sakè manca davvero solo la parola quindi scriveremo noi per loro i consigli utili e i documenti necessari per viaggiare con animali al seguito in ogni angolo del mondo!
+Avremmo forse potuto concederci più sfizi, mangiare più volte al ristorante, lavare i panni nelle lavanderie a gettone invece di caricare l'acqua al fiume.. ma qualcosa nelle nostre teste e nei nostri cuori ci suggerisce di dire sì a cosa ci fa davvero essere felici: scoprire il mondo. 
 
-##### Le spese
-Avevamo l'abitudine di tener traccia delle nostre spese già quando abitavamo a Torino e abbiamo deciso di continuare a farlo anche viaggiando, sia per essere consapevoli di come stiamo conducendo questo stile di vita, sia per poter essere utili a chi voglia intraprendere un'esperienza simile e abbia il piacere di fare un confronto.
-Trovi i dettagli grafici [in questa sezione](/expanses/) oppure puoi vedere il nostro video relativo alle spese dopo sei mesi a bordo del van:
+#### Avremmo potuto fare di meglio?
 
-{{< youtube CYJHHkg3_3s >}}}}
+Avremmo potuto spendere meno, rallentando i ritmi, non andandoci a cercare problemi alle dogane, non dovendo stipulare l'assicurazione sanitaria per l'estero, non acquistando i biglietti per il traghetto.
 
-##### Newsletter
-Trovare il tempo di leggere qualcosa in più sappiamo bene che può essere impegnativo, ma ci fa piacere scrivere e inviare ogni settimana una piccola newsletter da qualsiasi parte nel mondo ci troviamo.
-9 metri quadrati arriva via mail ogni mercoledì in pausa pranzo e dura il tempo di bere un caffè!
-Se hai piacere di iscriverti puoi farlo comodamente qui sotto 👇
+Ci sono strade però che vanno percorse nel momento in cui si palesano davanti a noi. 
+**Forse fino a qui doveva andare proprio come è andata.**
+Chi può dirlo.
 
-<div style="text-align: center;"><iframe src="https://vandipety.substack.com/embed" height="150" style=" background:white;" frameborder="0" scrolling="no" class="ow g-3 mb-3"></iframe></div>
+In tante occasioni abbiamo parcheggiato magari a un paio di chilometri a distanza per non pagare il biglietto del parcheggio. 
+Tirchi? No, abbiamo unito l'utile al dilettevole, concedendoci anche del tempo per una passeggiata.
 
-##### Varie
-Si tratta di cose da nerd, per lo più. Migliorie di design del sito che però speriamo aiutino a rendere questo contenitore virtuale lo spazio migliore per i nostri appunti di viaggio. 
+Non abbiamo dormito nei campeggi. Fuorilegge? No, ci bastano i servizi che abbiamo a bordo, imparati a usare con la giusta parsimonia. 
+
+Non siamo andati molte volte al ristorante. Asociali? No, ci piace cucinare mentre chiacchieriamo di quello che abbiamo scritto o filmato o visitato, coccolando i nostri animali e godendoci un attimo in famiglia. 
+
+Ci sono tanti non.. che però leggiamo al contrario, rilanciando la questione a nostro favore.
+
+#### Possiamo e vogliamo continuare? 
+
+A conti fatti siamo molto contenti della cifra spesa, che ci permette di sapere perfettamente dove possiamo migliorare (in primis sul carburante, quindi sulla velocità del viaggio) e di continuare a vivere a bordo di casa nostra, sistemando giusto qualche danno qua e là soprattutto alle plastiche prima di ripartire.
+
+Vuoi sapere quali sono i lavori che dovremo sistemare e come abbiamo analizzato la cifra finale? 
+Trovi tutto in questo video sul nostro canale YouTube.
+
+{{< youtube CYJHHkg3_3s >}}
 
 
-> _Stiamo creando le fondamenta di una grande scatola dei ricordi, un nuovo inizio per un'avventura che speriamo non abbia fine._
+Se invece sei curiosa/o e vuoi vedere le nostre spese in tempo reale ti rimandiamo alla sezione dedicata su questo sito. 
+
+Ci farebbe molto piacere un tuo parere, se vorrai scriverci nei commenti ti leggeremo volentieri!
+
+
+
+
+
