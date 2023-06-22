@@ -6,7 +6,7 @@ date: 2023-04-10T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Spagna
 type: regular
-draft: false
+draft: true 
 ---
 <!-- TODO
 
@@ -43,7 +43,7 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 Successivamente ci siamo spostati a **Siviglia**, in un parcheggio gratuito a mezz'ora piedi dal centro città, che abbiamo subito raggiunto per passeggiare fra le sue vie attraversando il ponte dal quartiere Triana, per arrivare in Piazza di Spagna e ammirare ogni centimetro cubo della sua meravigliosa architettura. Ci siamo poi diretti all'Università, alla Cattedrale e alla Giralda perdendoci per le vie di Santa Cruz, all'Archivio generale delle Indie e ci siamo spostati al Setas per osservare da fuori la costruzione del centro commerciale e della sua passerella. Sosta in libera.
 L'indomani abbiamo di nuovo raggiunto a piedi il centro città o Casco Antiguo, visitando in mattinata l'Alcazar (per il quale ti consigliamo di comprare con anticipo i biglietti {{< extLink "qui" "https://www.realalcazarsevilla.com/it/" >}}), il celebre palazzo reale con i suoi giardini, e perdendoci poi per le calle mangiando empanadas, prima di tornare al van e spostarci verso Chipiona (era Capodanno e non volevamo avere problemi con i botti per i nostri animali!). Notte affacciati sulla costa in libera. 
 
-**{{< underline "Giorno 4-5" >}}**: abbiamo visitato **Chipiona** per poi dirigerci verso Cadice. Per la notte abbiamo preferito un parcheggio un po' fuori città affacciato sulla costa, mentre di giorno ci siamo spostati verso il centro. Complice il maltempo, la nostra visita è stata abbastanza rapida, ma siamo comunque riusciti a passeggiare per le calle, raggiungendo AAAAAA PARCO, CASTELLO, QUERCIA 
+**{{< underline "Giorno 4-5" >}}**: abbiamo visitato **Chipiona** per poi dirigerci verso Cadice. Per la notte abbiamo preferito un parcheggio un po' fuori città affacciato sulla costa, mentre di giorno ci siamo spostati verso il centro. Complice il maltempo, la nostra visita è stata abbastanza rapida, ma siamo comunque riusciti a passeggiare per le calle, raggiungendo il parco  PARCO, CASTELLO, QUERCIA 
 
 **{{< underline "Giorno 6-7" >}}**: giunti a **Conil de la Frontera** abbiamo prima ammirato la costa a nord del piccolo paesino, poi ci siamo persi in una passeggiata fra le casette bianche, animate nel nostro caso dalla sfilata dei **Los Reyes Magos** (tenutasi il 6 gennaio). 
 
@@ -87,7 +87,8 @@ Le tappe che vorremmo ancora effettuare sono:
 ###### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera, in parcheggi in cui non erano presenti divieti o in aree camper gratuite. 
 
-**{{< underline "Giorno 1" >}}**: El Rochio
+
+**{{< underline "Giorno 1" >}}**: Cordoba
 
 **{{< underline "Giorno 2-3" >}}**: Siviglia
 
@@ -138,7 +139,7 @@ Di seguito un'idea di quanto abbiamo speso nei 15 giorni in Spagna del Nord, ten
 {{< animali "EU">}}
 
 ##### Considerazioni e tappe imperdibili
-Non conoscevamo la Nuova Aquitania e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
+Non conoscevamo l'Andalusia e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
 
 In camper o auto, le mete imperdibili secondo noi sono:
 -   **{{< bold "Siviglia" >}}**: è una città splendida, che cattura l'attenzione in ogni angolo. 
