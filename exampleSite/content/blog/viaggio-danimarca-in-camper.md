@@ -1,93 +1,202 @@
 ---
-title: 'Andalusia in camper con cane e gatto: itinerario, consigli e informazioni utili'
-description: "Alla scoperta dell'Andalusia in camper, un viaggio on the road alla ricerca di luoghi ricchi di storia affacciati sulla costa"
+title: 'Danimarca in camper con cane e gatto: itinerario, consigli e informazioni utili'
+description: "Alla scoperta della Danimarca in camper, un viaggio on the road tra fari, casette colorate e mattoncini Lego"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
 date: 2023-04-10T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
-country: Spagna
+country: Danimarca
 type: regular
 draft: true 
 ---
 
-Abbiamo visitato l'Andalusia in due step, nel gennaio 2023 e a giugno 2023, una volta rientrati dal Marocco.  In entrambi questi periodi è più facile trovare posti in cui sostare in libera, anche se quando siamo tornati in Europa abbiamo trovato più cartelli di divieto. In estate non assicuriamo di riuscire a trovare facilmente luoghi in cui sostare.  
+Il viaggio in Danimarca in camper è stato il nostro primo viaggio lungo dopo pochi weekend trascorsi in giro per il Piemonte. Alcuni hanno pensato che fossimo folli, mentre noi ci siamo divertiti un sacco. Abbiamo dormito 29 notti in libera, caricato e scaricato le acque senza problemi in soste apposite trovate quasi sempre in autostrada oppure vicino alle cittadine.
+Di seguito trovi anche i dettagli e le informazioni sui posti dove abbiamo pernottato.
+E' un viaggio che abbiamo amato per tanti motivi: era la nostra prima avventura "lunga", le persone del luogo si sono rivelate gentilissime, i luoghi da visitare sono spettacolari. 
+Abbiamo speso 2000 euro in totale, comprensivi di qualsiasi uscita, per un mese in camper in Danimarca. 
+Partiamo, o meglio se parti dopo aver letto questo articolo mandaci una foto che ci farebbe davvero piacere!
 
-A gennaio siamo arrivati in questa regione spagnola [direttamente dal Portogallo](/blog/viaggio-portogallo-in-camper-itinerari/), visitandone una parte. Abbiamo amato alcune particolarità dell'Andalusia, mentre altre (soprattutto le località turistiche sulla costa) a noi non sono granché piaciute. In questo articolo non riporteremo tutto il nostro diario quotidiano dal momento che siamo stati un mese in questa regione per motivi lavorativi e familiari, ma ti porteremo comunque con noi da Siviglia a Granada, attraverso i caratteristici paesini bianchi, avventurandoci al Caminito del Rey, scoprendo luoghi storici inaspettati e addentrandoci un po' anche nell'entroterra, dandoti un paio di possibilità in fatto di itinerari. Vamos! 
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)
 >   - [In breve](#in-breve)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
-> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
 > - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
 > - [Il nostro vlog](#il-nostro-vlog)
      <!-- - [Le nostre mappe](#Mappe) -->
 
+
 ##### Itinerario
-Le tappe che ti elenchiamo sono state tutte raggiunte a bordo del nostro piccolo van ma puoi effettuarle anche in moto, auto o con un mezzo più grande. Ti segnaliamo **solo di prestare attenzione alla lunghezza del tuo camper** se vuoi raggiungere Mijias Pueblo o il Caminito del Rey passando da Alora. 
 
-Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
+**{{< underline "Giorno 1" >}}**: siamo partiti da Torino alle ore 15.30 circa, direzione Chiasso. Abbiamo trovato traffico intenso in zona Como per alluvioni e lavori in autostrada, cenato velocemente in area sosta verso le 21 prima di passare il San Gottardo, sfruttato la luce estiva per superare la Svizzera e arrivare dritti a Friburgo in Brisgovia alle 00.50. Abbiamo pernottato vicino ad altri van in una tranquilla zona residenziale.
+ 
+47.9814, 7.8507 (lat, lng)
+N 47° 58' 53" E 7° 51' 2" (lat lng)
+2 Türkenlouisstraße
+79102 Freiburg im Breisgau Germany
 
-**{{< underline "Giorno 1" >}}**: entrando in Andalusia arrivando dal Portogallo la nostra prima meta è stata **El Rochio**, piccolo borgo caratteristico immerso nel **Parco Nazionale di Doñana**, famoso per la Romeria del Rocio (che si celebra la Domenica di Pentecoste) quando diviene un luogo di pellegrinaggio nel quale si riuniscono un milione di devoti. Sosta in libera sulla costa. 
+**{{< underline "Giorno 2" >}}**: dopo colazione ci siamo diretti a piedi verso il centro cittadino raggiungibile in una ventina di minuti, ammirando lo stile architettonico tipico della zona e le strade piacevolmente pulite intervallate da piccoli canali (attenzione, la tradizione narra che se si inciampa in uno di questi canali ci si sposi con un cittadino/a di Friburgo!). Concediti il tempo di osservare i particolari delle insegne dei negozi, i muri dei vicoli interni ricoperti da murales particolari. Tutto a Friburgo è curato e colorato. Noi ci siamo poi diretti verso il parco dal quale si può ammirare la città dall’alto, che volendo è raggiungibile anche con la funicolare. Rientrati nelle vie del centro, siamo tornati alla piazza del Monastero, che ospitava il mercato del sabato mattina. Alle 15 siamo ripartiti in  direzione Rottweil. Il paesino è piccolo e tranquillo, con graziose casette colorate e decorazioni sulle insegne dei negozi. Purtroppo di sabato pomeriggio era quasi tutto chiuso. Abbiamo così ripreso il nostro viaggio lasciando la zona della Foresta Nera e Renania per un viaggio futuro. Un incidente sulla strada, complice la fame e la stanchezza, ci hanno fatto compiere una deviazione e ci siamo fermati in uno spot nelle campagne limitrofe per cenare e guidare successivamente ancora un’oretta.
+ 
+49.0292, 9.2724 (lat, lng)
+N 49° 1' 45" E 9° 16' 21" (lat lng)
+Wunnensteinberg 71723 Großbottwar Germany
 
-**{{< underline "Giorno 2-3" >}}**: ci siamo spostati a **Santiponce**, a 15 km da Siviglia, per scoprire il **centro archeologico romano di Italica** e il **Santuario di San Isidoro**, entrambi piacevoli e gratuiti da visitare. Al centro Italica Oil abbiamo fatto rifornimento di gasolio a un prezzo davvero conveniente. 
+**{{< underline "Giorno 3" >}}**: ci siamo svegliati con la pioggia e abbiamo deciso di partire subito, arrivando a Wurzburg verso le 10.30. La domenica in città non si paga il parcheggio per cui abbiamo posteggiato direttamente sul fiume vicino al ponte “alte mainbrucke”, da cui si possono raggiungere seguendo un percorso segnalato la Residenz, il palazzo barocco patrimonio Unesco con i suoi giardini puliti e curati, e dopo 40 minuti di passeggiata la Fortezza "Festung Marienberg" in cima alla collina.
+La vista dall’alto della città è veramente sorprendente, soprattutto pensando che la metà era stata rasa al suolo da un bombardamento avvenuto nel 1945. Meritano una visita i vicini giardini, pieni di statue e aiuole decorate. Dopo Wurzburg abbiamo deciso di fermarci a Giften, in un posteggio affacciato direttamente sul lago, meraviglioso!
 
-Successivamente ci siamo spostati a **Siviglia**, in un parcheggio gratuito a mezz'ora piedi dal centro città, che abbiamo subito raggiunto per passeggiare fra le sue vie attraversando il ponte dal quartiere Triana, per arrivare in Piazza di Spagna e ammirare ogni centimetro cubo della sua meravigliosa architettura. Ci siamo poi diretti all'Università, alla Cattedrale e alla Giralda perdendoci per le vie di Santa Cruz, abbiamo dato un'occhiata all'Archivio generale delle Indie e ci siamo spostati al Setas per osservare da fuori la costruzione del centro commerciale e della sua passerella. Sosta in libera.
-L'indomani abbiamo di nuovo raggiunto a piedi il centro città o Casco Antiguo, visitando in mattinata l'Alcazar (per il quale ti consigliamo di comprare con anticipo i biglietti {{< extLink "qui" "https://www.realalcazarsevilla.com/it/" >}}), il celebre palazzo reale con i suoi giardini, e perdendoci poi per le calle mangiando empanadas, prima di tornare al van e spostarci verso Chipiona (era Capodanno e non volevamo avere problemi con i botti per i nostri animali!). Notte affacciati sulla costa in libera. 
+52.2163, 9.8275 (lat, lng)
+N 52° 12' 59" E 9° 49' 39" (lat lng)
+27 Jeinser Weg 31157 Sarstedt Germany
 
-**{{< underline "Giorno 4-5" >}}**: abbiamo visitato **Chipiona** per poi dirigerci verso Cadice. Per la notte abbiamo preferito un parcheggio un po' fuori città affacciato sulla costa, mentre di giorno ci siamo spostati verso il centro. Complice il maltempo, la nostra visita è stata abbastanza rapida, ma siamo comunque riusciti a passeggiare per le calle, raggiungendo il teatro romano, la Cattedrale, playa de La Caleta, il Castillo de Santa Catalina, Parco Genoves e il Ficus centenario nel giardino Clara Campoamor.
+**{{< underline "Giorno 4" >}}**: dopo una bella passeggiata mattutina siamo ripartiti direzione Brema e abbiamo parcheggiato gratuitamente nei pressi dello stabilimento della Becks da dove, attraversando un ponte, abbiamo raggiunto direttamente il centro del paese. Ci siamo diretti in Bottcherstraße richiamati dal profumo di caffè tostato (qui infatti venne creato il caffè decaffeinato dell'azienda Hag), poi nella piazza centrale per vedere la statua dei musicanti di Brema, abbiamo comprato del cioccolato nel famoso negozio “Hachez” e ci siamo spostati prima verso il quartiere Schnoor, dove un tempo vivevano i marinai della città, e poi a Das Viertel, il quartiere degli artisti disseminato di murales e casette colorate. Abbiamo lasciato la città per andare a dormire al lago di Bistensee, poco prima dell’ultima tappa tedesca.
 
-**{{< underline "Giorno 6-7" >}}**: giunti a **Conil de la Frontera** abbiamo prima ammirato la costa a nord del piccolo paesino, poi ci siamo persi in una passeggiata fra le casette bianche, animate nel nostro caso dalla sfilata dei **Los Reyes Magos**, la famosa festa celebrata un tempo molto più del Natale. Ogni anno in questa giornata si possono ammorare sfilare in ogni paesino figuranti vestiti da Re Magi, in una delle feste più celebri del paese.  
+54.3988, 9.7002 (lat, lng)
+N 54° 23' 56" E 9° 42' 1" (lat lng)
+16 Dorfstraße Bistensee 24358 Ahlefeld-Bistensee Germany
 
-**{{< underline "Giorno 8" >}}**: un altro paesino caratteristico e molto piacevole da visitare anche per la posizione collinare è **Vejer de la Frontera**. Non distante ti consigliamo una visita a **El Palmar**, una spiaggia molto bella presa d'assalto dagli amanti del surf e che regala tramonti mozzafiato.
+**{{< underline "Giorno 4" >}}**: siamo ripartiti in direzione Flensburg per fare spesa e benzina, abbiamo raggiunto una vicina area di carico e scarico e poi abbiamo attraversato il confine, senza essere fermati alla dogana. Prima tappa danese: Tonder! Qui abbiamo subito ammirato le casette colorate e ordinate, con nessuna tenda alle finestre ma candele e oggetti di decoro. Ci siamo poi spostati a Mogeltonder in area sosta, in un paesino che ci ha accolti con un viale in ciottoli tutto alberato e casette con tetto in paglia e mattoni a vista. Davvero un piccolo gioiellino. Butta un occhio davanti alle abitazioni, potresti trovare delle piccole cassettine in cui prendere delle marmellate fatte in casa.
 
-**{{< underline "Giorno 9" >}}**: sulla strada verso Tarifa ti consigliamo vivamente una sosta a **Playa Bolonia**. Qui puoi fare bellissime passeggiate e visitare gratuitamente un sito archeologico romano, **Boelo Claudia**, che secondo noi merita una visita già solo per la posizione e gli scorci da cartolina che regala.
+54.9415, 8.8083 (lat, lng)
+N 54° 56' 29" E 8° 48' 30" (lat lng)
+29 Slotsgaden 6270 Tønder Denmark
 
-**{{< underline "Giorno 10" >}}**: **Tarifa** è una cittadina popolata da amanti del surf. Noi l'abbiamo visitata velocemente, giusto il tempo di recarci lungo la passerella che divide il Mar Mediterraneo dall'Oceano Atlantico.
+**{{< underline "Giorno 5" >}}**: abbiamo approfittato dell’apertura mattutina per visitare la chiesa di Mogeltonder che possiede l’organo più antico della Danimarca e interni curati con affreschi su tutta la volta. Siamo ripartiti in direzione isola di Rømo, che si può raggiungere tramite una lingua di terra che ospita anche una pista ciclabile: nota lodevole al servizio di pista ciclabile esteso per tutto il Paese. Dopo una
+piccola sosta da Otto & Ani’s Fisk per gustare un panino farcito con gamberetti direttamente sul porto, abbiamo proseguito verso la vicina spiaggia di Sønderstrand per poi andare a pranzare a Lakolk. Qui si può parcheggiare direttamente sulla spiaggia: fai solo attenzione a seguire le orme di altri camper e a non rimanere bloccato nella sabbia. Ci siamo riposati un paio d’ore godendoci la giornata di sole e ci siamo diretti verso Ribe, la più antica città della Danimarca. Il centro è un dedalo di stradine con casette storte e colorate, un'atmosfera davvero rilassante: ormai abbiamo capito che qui è tutto curato nei minimi dettagli e verrebbe voglia di entrare in casa con loro a leggere un bel libro su quelle invitanti poltroncine. Molto grazioso il piccolo porticciolo dove è attraccata la Johanne Dan, un antica barca a vela progettata con lo scafo piatto per poter navigare fra le acque basse di Ribe. Questa città venne devastata in passato dalle inondazioni ed ancora oggi i suoi abitanti sono obbligati ad evacuare in certe situazioni. Ci sarebbe stato da visitare il museo vichingo o partecipare alla ronda serale ma abbiamo decido di guadagnare chilometri e abbiamo sostato sulla costa, con vista su uno spettacolare tramonto.
 
-**{{< underline "Giorno 11" >}}**: vuoi fare un volo mentale in Gran Bretagna e osservare le scimmie zampettare intorno a te? **Gibilterra** è la meta giusta! Se pensi di volerla visitare ricorda di portare con te il passaporto!
-Dopo i controlli doganali (puoi entrare in auto/camper oppure lasciare il tuo mezzo subito fuori città e **evitare di non trovare poi parcheggio** nelle strette viuzze centrali) devi attraversare la pista dell'aeroporto e poi puoi proseguire dritto se vuoi passeggiare nella via centrale oppure prendere la funicolare sulla sinistra e recarti nel parco ([a questo link trovi]() le informazioni in merito). Noi abbiamo visitato solo la parte "gratuita", se invece vuoi vedere più esemplari di bertucce devi acquistare il ticket per la riserva.
+  55.4514, 8.5588 (lat, lng)
+N 55° 27' 5" E 8° 33' 32" (lat lng)
+62 Vestre Strandvej 6731 Tjæreborg Denmark
 
-Ecco due consigli:
-- non tenere in mano del cibo perché ovviamente le scimmie cercheranno di rubartelo. Non fa bene alla loro salute e potresti farti del male in caso di attacchi da parte loro (e ne sarebbero giustificate in tal caso!)
-- non fidarti dei venditori di tour, se fai due conti ti vengono a costare di più del biglietto di andata e ritorno in funicolare.
+**{{< underline "Giorno 6" >}}**: ci siamo svegliati con una fresca pioggerella e siamo ripartiti verso le statue “men at the sea”, quattro omoni bianchi affacciati sul mare, che si trovano a Esbjerg. La strada da qui in poi è diventata un susseguirsi di casette basse, collinette e prati fino a Hvide Sande e al faro di Lyngvig. Dune, sabbia, mare, vento, cielo azzurro. Abbiamo pranzato in un parcheggio per kitesurfers affacciato sul fiordo di Ringkobing e poi ci siamo spostati per visitare a 10 km il paesino e il caratteristico porticciolo con case di pescatori a contrasto con casette moderne. Abbiamo proseguito verso Thyborg, dove si possono ammirare la "sneglehuset", una casa interamente ricoperta da conchiglie, il museo marittimo e il museo a cielo aperto commemorativo della guerra dello Jutland del 1916. Poi siamo ripartiti in direzione del faro di Bovbjerg, che con il suo colore rosso contrasta perfettamente con il cielo blu e la spiaggia alla base delle scogliere. Ci siamo fermati per ammirare il panorama, poi ci siamo spostati a dormire al fiordo di Lemvig.
 
-**{{< underline "Giorno 12" >}}**: **Marbella** è una tipica località di mare, cittadina molto viva e con numerosi servizi se sono questi gli aspetti che ricerchi. Se vuoi visitare un luogo immerso nella natura e affacciato sulla costa ti consigliamo le vicine **Dune di Artola**. 
+56.5634, 8.2958 (lat, lng)
+N 56° 33' 48" E 8° 17' 45" (lat lng)
+24 Strandvejen 7620 Lemvig Denmark
 
-Da Marbella potresti decidere di dirigerti verso Malaga e Granada, facendo un paio di tappe ad Alora e al Caminito del Rey, oppure di addentrarti nell'entroterra per ammirare i piccoli borghi di Ronda e Setenil de Las Botegas. 
+**{{< underline "Giorno 7" >}}**: dopo una notte movimentata a causa del vento forte abbiamo fatto due passi per la cittadina lungo il porticciolo e siamo ripartiti direzione Rubjerg knude Fyr, il faro a picco sul mare incastonato fra le dune, che nel 2015 è stato spostato poiché data l’erosione della costa rischiava di crollare in mare. Si raggiunge dal parcheggio camminando nella sabbia per una ventina di minuti: non avere
+timore di lasciare le tue scarpe lungo il ciglio della strada perché le ritroverai sicuramente. Dopo aver ammirato il faro ci siamo spostati al Rubjerg Mile, vero e proprio deserto di sabbia, dove si può correre da una duna all’altra. Era una giornata di sole spettacolare. Penultima tappa “den tilsandende kirke” , la chiesa che era stata letteralmente mangiata dalla sabbia e di cui ora si può ammirare solo più il campanile. Raggiunta la vicina Skagen ci siamo poi diretti a Grenen, il punto più a nord della Danimarca, dove si uniscono i due mari. Una bella passeggiata di mezz’ora per andare a vedere qualche impavido nuotatore che si buttava nella corrente e poi abbiamo di andare a cercare uno spot per la notte da cui ammirare anche un bellissimo tramonto.
 
-Ti lasciamo di seguito le due opzioni:
+57.7065, 10.5551 (lat, lng)
+N 57° 42' 24" E 10° 33' 18" (lat lng)
+64 Damstedvej 9990 Skagen Denmark
 
-###### Itinerario verso Malaga e Granada, con tappa al Caminito del Rey 
+**{{< underline "Giorno 8" >}}**: abbiamo salutato il mare affacciandoci dalla duna e siamo ripartiti in direzione Frederikshawn: il paese non ci ha emozionati ma abbiamo fatto volentieri una passeggiata nel giardino botanico a 4km dal centro, dove con nostra gioia siamo riusciti ad avere un incontro ravvicinato con alcuni cervi che vivono tranquillamente nel parco. Abbiamo poi raggiunto la vicina Saeby e passeggiato nella piccola stradina centrale, tra casette basse e colorate e giardini ben curati. Tappa successiva il "cimitero vichingo di Aalborg", con circa 700 tombe disposte su di una collinetta. Molto suggestivo. Purtroppo ha iniziato a piovere fino a grandinare per cui siamo stati costretti a vedere la città di corsa, con il suo lungo fiume riqualificato con edifici moderni e le viuzze interne in ciottoli e mattoni colorati. Abbiamo caricato e scaricato in autostrada e ci siamo fermati a Hobro, sul molo del fiordo di Mariager, giusto in tempo per una foto al tramonto prima che riprendesse a piovere.
 
-**{{< underline "Giorno 13" >}}**: continuando lungo la costa noi abbiamo fatto una deviazione verso **Mijias Pueblo**, un piccolo paesino arroccato sulla collina e famoso per i suoi asini (fai attenzione perché la strada è stretta e tutta in salita), a **Fuengirola** e a **Benalmaldena**, dove ti consigliamo una visita al particolare **"Castillo Colomares"**, monumento dedicato a Cristoforo Colombo.
+56.6375, 9.8115 (lat, lng)
+N 56° 38' 15" E 9° 48' 41" (lat lng)
+17 Blåkildevej 9500 Hobro
+Denmark
 
-**{{< underline "Giorno 14" >}}**: **Alora** è un borgo a metà strada fra Malaga e il Caminito del Rey. Agglomerato di casette bianche in fila su stradine in salita e discesa, offre una vista meravigliosa a 360 gradi sulla pianura sottostante dalle rovine del vecchio castello, percorribili lungo il perimetro delle mura. 
+**{{< underline "Giorno 9" >}}**: abbiamo visitato la vicina Mariager sotto l'ombrello e acquistato una girella alla cannella e del pane di segale. Ci siamo spostati a Ebeltoft per pranzare al porto. Nelle vicinanze si trova una nave visitabile oppure si può passeggiare nell’Aldegade, la via principale con negozi e botteghe. Dato che aveva ripreso a piovere ci siamo diretti ad Aarhus. Incastonata tra i palazzi si trova la via più antica, con caratteristiche casette colorate. La zona del porto invece è un’esplosione di modernità, con i suoi grattacieli ed il complesso “iceberg”, davvero un notevole contrasto. Il meteo ci ha regalato una tregua al tramonto, per cui abbiamo deciso di visitare “den gamble by” in orario di chiusura: si tratta di una riproduzione fedele della città dal 1800 ai giorni nostri, con palazzi perfettamente ricostruiti. In orario di apertura si possono vedere i locali aperti ed alcuni figuranti in abiti d’epoca. Noi l'abbiamo visitata con poche altre persone e ne abbiamo ammirato comunque il fascino. Per dormire ci siamo spostati di pochi km, direttamente affacciati sulla spiaggia e sul mare.
 
-**{{< underline "Giorno 15" >}}**: se non soffri di vertigini e hai voglia di fare una bella escursione in natura allora il **Caminito del Rey** fa al caso tuo. Camminare sul ponte sospeso a 100 metri di altezza regala emozioni uniche. Noi abbiamo preferito effettuare il tour con la guida (18€ a testa per un paio di ore di visita in inglese e spagnolo) e ti consigliamo in ogni caso di prenotare anche la visita gratuita per evitare un giro a vuoto!
-Se arrivi in camper/van trovi un ottimo posteggio sotto gli alberi a un paio di chilometri dalla biglietteria.
+56.1168, 10.2279 (lat, lng)
+N 56° 7' 0" E 10° 13' 40" (lat lng)
+15 Ørneredevej 8270 Højbjerg Denmark
 
-**{{< underline "Giorno 16" >}}**: **Malaga** a noi non è piaciuta granché. Il centro cittadino è un susseguirsi di negozi di moda, che le fanno perdere fascino in termini di autenticità. Per pranzo abbiamo mangiato tapas e bevuto cerveza nel mercato coperto che merita una visita anche solo per ammirarne la facciata. Le rovine dell'Alhambra offrono una vista della città dall'alto.
+**{{< underline "Giorno 10" >}}**: abbiamo visitato di prima mattina l’Infinite bridge, un ponte circolare sul mare che dà idea appunto di poter camminare all’infinito sul mare e ci siamo diretti al museo d’arte contemporanea Aros: i suoi 10 piani sono ispirati alla divina commedia, per cui partendo dal 10° piano, formato da uno specchio colorato ad arcobaleno che si affaccia a 360 gradi sulla città, che rappresenta il paradiso, siamo scesi visitando tutte le mostre presenti fino al piano 0. Lasciata la città sotto la pioggia ci siamo diretto verso Ry e Silkeborg, a nostro avviso due posti da tralasciare a meno che non ti interessi una visita all’acquario “Aqua”. Bellina la piccola foresta attraversata per arrivarci, un gioco di luci fra alberi e muschio. Siamo arrivati verso le 17 a Legoland per chiedere informazioni sull’ingresso gratuito a mezz’ora dalla chiusura, ma abbiamo scoperto che l’hanno eliminato da qualche anno.Abbiamo cercato parcheggio vicino ad un’enorme area cani dove far divertire Olimpia e passare la notte.
+◦
+55.7178, 9.0509 (lat, lng)
+N 55° 43' 4" E 9° 3' 3" (lat lng)
+Billundvej 7250 Hejnsvig Denmark
 
-**{{< underline "Giorno 17-18" >}}** abbiamo raggiunto **Granada** effettuando una tappa al balcone d'Europa a Nerja per ammirare la vista sulla costa. La città è un agglomerato di arte, storia e cultura. La visita dell'Alhambra vale davvero la pena (clicca qui se vuoi informazioni sui ticket che occorre prenotare online), così come passeggiare senza meta per le strette calle e osservare la città circondata dai monti della Sierra Nevada. Se ti viene fame non preoccuparti, troverai numerosi locali aperti a ogni ora. Unico consiglio, non avere fretta! 
-<!-- to do mettere link alhambra -->
+**{{< underline "Giorno 11" >}}**: ci siamo svegliati con le candeline per festeggiare il primo compleanno di Sakè, il nostro gatto, poi ci siamo diretti a Legoland: tieni presente che alle 10 del mattino si trovano già tantissime persone davanti all'ingresso, per questo ti consigliamo l’acquisto online, anche del biglietto del parcheggio che viene stornato all’uscita. La zona di Miniland è davvero fantastica, paesi riprodotti nel dettaglio, con treni, aerei, palazzi, scene di vita umana. Tutto il contorno è un susseguirsi di giostre in stile Gardaland. Gli animali sono ammessi nel parco ma ovviamente non negli spazi chiusi, per cui abbiamo consumato il nostro pranzo al sacco in uno dei tanti tavolini adibiti a picnic (volendo ci sono più possibilità per mangiare all’interno) e siamo rientrati in camper, giusto in tempo prima che iniziasse un diluvio che non ci ha abbandonati fino a notte fonda. Per strada abbiamo fatto tappa a Jelling, meta di pellegrinaggio danese dove si trovano antiche rune, e Fredericia, per approfittare di una lavanderia a gettoni. L’idea era di fermarsi sulla spiaggia per la notte ma dato il meteo abbiamo deciso di guadagnare tempo dirigendoci verso Odense e dopo aver caricato e scaricato in autostrada ci siamo fermati in un posticino tranquillo, con una piccola chiesa affacciata sul lago.
 
-###### Itinerario verso Ronda, Setenil e Cordova
+55.4326, 10.1869 (lat, lng)
+N 55° 25' 57" E 10° 11' 13" (lat lng)
+Dyrehavelund 3 5462 Morud Denmark
 
- **{{< underline "Giorno 13" >}}**: siamo giunti a Ronda attraversando panorami mozzafiato. Le strade centrali sono molto strette, ti consigliamo di parcheggiare fuori città per evitare problemi. Quando l'abbiamo visitata noi la passeggiata per scendere a vedere il ponte dal basso era chiusa, ma abbiamo comunque potuto ammirare il ponte viejo, la casa del Rey Moro, la via centrale "Calle la Bola", piazza di 
- Spagna e i vari Mirador.
-Se hai voglia di tapas, nel locale "El Lechuguita" pare ci siano numerose tapas a 1€ (quando eravamo in città era chiuso per ferie, purtroppo!).
-Su uan delle applicazioni che usiamo per camperisti avevamo trovato un parcheggio che si affacciava sul ponte. Non te lo consigliamo dato che abbiamo rischiato di non riuscire a risalire sula strada tanto slittavano le ruote. 
+**{{< underline "Giorno 12" >}}**: Odense è la cittadina madrepatria dello scrittore Andersen e la maggior parte dei musei sono a lui dedicati. Il centro è un cantiere a cielo aperto, per cui abbiamo dedicato una visita alla parte vecchia, sbirciando nel carinissimo negozio di antiquariato di Kramboden, tra le casette colorate del quartiere della casa natale del celebre scrittore, e facendo due passi nel parco. Da Odense ci siamo diretti a Faaborg, pranzando vista porto, passeggiando nella piccola via pedonale e acquistando friskadelles (crocchette) di tonno e salmone da Rogeri prima di partire: buonissime! Il nostro aperitivo in attesa del traghetto che da Svedenborg ci ha portati sull’isola di Aerøskøbing. Avremmo potuto prenderlo direttamente da Faaborg, ma purtroppo i biglietti erano esauriti. Approdati sull’isola ci siamo diretti al parcheggio giusto in tempo per ammirare il tramonto affacciati sulle casette colorate.
 
-**{{< underline "Giorno 14" >}}**: Setenil è un altro borgo in cui conviene parcheggiare poco fuori città e passeggiare lentamente per le viuzze, un po' per non perderti lo spettacolo delle casette incastonate nella roccia, un po' per via di tutte le salite! A 10 km dalla città si trova un centro romano, Acinipo, che non offre chissà quali reperti, ma la vista tutto attorno è davvero magica. Noi abbiamo dormito soli nel piazzale e l'abbiamo visitato gratuitamente il mattino per poi rimetterci in pista. 
-<!-- mettere distanza acinipo -->
+54.8964, 10.4011 (lat, lng)
+N 54° 53' 47" E 10° 24' 4" (lat lng)
+2 Vestre Strandvej 5970 Ærøskøbing Denmark
 
-**{{< underline "Giorno 15-16" >}}**: la visita di Cordova è stata decisamente interessante. Il primo sito che abbiamo raggiunto è stato il centro medievale, che merita la visita a parer nostro solo perchè è gratuito. Puoi parcheggiare nel piazzale a 2 km e raggiungerlo a piedi oppure tramite la navetta (3 euro a/r). Non troppo distante trovi anche un castello, che noi non abbiamo fatto in tempo a visitare. Notte in libera vicino allo zoo di Cordova. 
-Dal parcheggio il centro città è facilmente raggiungibile a piedi, in una ventina di minuti. Ti consigliamo di ammirare il ponte romano, la Chiesa - Moschea (gratuita dalle 8.30 alle 9.30 lun-sab) e i suoi giardini, le numerose calle addobbate con fiori e i cortili, il quartiere ebraico e la piccola sinagoga. In città si trova anche l'Alcazar, noi non l'abbiamo visitato perchè eravamo già stati in quello di Siviglia e Granada. 
-Piccolo consiglio culinario: non perderti una tapa di tortilla al bar Santos! Ti servono una fetta del famoso piatto da una forma gigantesca, e puoi sederti a gustarla sulle scalinate della chiesa. 
+**{{< underline "Giorno 13" >}}**: abbiamo dedicato la mattinata alla visita della piccola cittadina, un vero gioiellino con le sue porte e casette colorate, acquistato pesce affumicato, approfittato del sole per riscaldarci dopo la pioggia degli ultimi giorni e messo a mollo i piedi, osservando ed ammirando i temerari che invece si tuffavano senza remore.
 
-<!-- mettere sito e nome chiesa  -->
+54.8964, 10.4011 (lat, lng)
+N 54° 53' 47" E 10° 24' 4" (lat lng)
+2 Vestre Strandvej 5970 Ærøskøbing Denmark
+
+**{{< underline "Giorno 14" >}}**: abbiamo deciso di dedicare un po’ di tempo alla scoperta dell’isoletta, quindi abbiamo visitato al mattino Mastral, dove si trovano ancora alcune casette colorate affacciate sul mare, poi ci siamo spostati per pranzare vista oceano in un posto dove non abbiamo incontrato anima viva. Tirava parecchio vento, per cui verso le 16 ci siamo spostati al faro di Soby per poi tornare al nostro posto sul mare ad Aeroskobing. Tre tramonti in quel luogo ci hanno riempito occhi e cuore di meraviglie. 
+◦
+54.8964, 10.4011 (lat, lng)
+N 54° 53' 47" E 10° 24' 4" (lat lng)
+2 Vestre Strandvej 5970 Ærøskøbing Denmark
+
+**{{< underline "Giorno 15" >}}**: al mattino tutto apriva un po’ tardi per cui abbiamo bevuto un caffè sul camper dopo aver ripercorso le stradine colorate, in attesa del traghetto che ci avrebbe riportati a Svenborg. Qui, complice il freddo, abbiamo deciso di partire alla volta del castello di Egeskov slot. Per strada è iniziato un temporale abbastanza violento, quindi abbiamo temporeggiato nel parcheggio e acquistato i biglietti online (costano poco meno). Il castello è curato e ricco di dettagli e anche gli esterni sono davvero degni di nota: vari labirinti, un giardino di dalie, alberi secolari, il roseto, giochi per bambini, ponte tibetano e vari musei di automobili e mezzi di trasporto d’epoca, con una selezione anche per il camping. Merita almeno spenderci un paio d’ore. Verso le 16.30 siamo partiti in direzione Copenhagen. Abbiamo incontrato alcuni lavori per strada, attraversato il famoso ponte sospeso lungo circa 18 km, davvero affascinante, e raggiunto la capitale. Era sabato sera per cui il parcheggio era gratuito fino a lunedì mattina. Abbiamo parcheggiato vicino al giardino di Tivoli e dopo una sgambettata con gli animali abbiamo visitato il famoso parco giochi. Luci e ristoranti la fanno da padroni. Il vero spettacolo, oltre ai giochi di luce, è il finale pirotecnico di 5 minuti circa (se riesci accaparrati una sedia a sdraio e accomodati!).
+
+Vester søgade
+Vicino al Tivoli garden
+
+**{{< underline "Giorno 16" >}}**: ferragosto in città è significato poca gente,  negozi e gallerie mezzi chiusi e traffico auto notevole. Abbiamo comunque camminato per 22 km circa tra Stroget, la via centrale dello shopping per poi vedere il palazzo di Rosenborg e quello di Christiansborg, il canale Nyhavn, la statua della Sirenetta e il Kastellet, Frederiks Kirke, fino poi ad arrivare allo skate park di Vesterbro.  Purtroppo dobbiamo ammettere che Copenhagen ci è piaciuta molto meno rispetto a tutto il resto del paese. 
+
+55.6691, 12.6114 (lat, lng)
+N 55° 40' 9" E 12° 36' 41" (lat lng)
+4 Laplandsgade 2300 København Denmark
+
+**{{< underline "Giorno 17" >}}**: abbiamo dedicato la mattinata a Christiania e alla zona delle biblioteche, per poi spostarci per pranzo a Reffen, lo street food sul canale. Pioveva a dirotto, abbiamo raggiunto Dragor, piccolo paesino di pescatori con casette gialle e tetti in paglia ma siamo riusciti giusto a vedere la via principale. Il meteo non era dalla nostra parte e abbiamo proseguito a nord verso Helsingor per fermarci sulla costa.
+55.9803, 12.5498 (lat, lng)
+N 55° 58' 49" E 12° 32' 59" (lat lng)
+217 Gl Strandvej 3060 Espergærde Denmark
+
+**{{< underline "Giorno 18" >}}**: ha diluviato tutta la notte e ci siamo svegliati con 13 gradi sotto la pioggia. Abbiamo visitato il castello di Amleto, luogo pieno di fascino. Interessante la mostra sui costumi dell’epoca. Il paesino è carino ma la pioggia ci stava demoralizzando così siamo ripartiti in direzione isola di Mon. Il maltempo ci ha accompagnati lungo tutta la strada, fino a regalarci un bellissimo arcobaleno nel parcheggio a Stege. Tirava un vento fortissimo per cui abbiamo deciso di non fermarci al porto ma di rintanarci in un altro parcheggio dove passare la notte tranquilli.
+54.9833, 12.2869 (lat, lng)
+N 54° 58' 60" E 12° 17' 13" (lat lng)
+5 Søndersti 4780 Stege Denmark
+
+**{{< underline "Giorno 19" >}}**: Stege ha una viuzza carina piena di negozietti interessanti e un'ottima panetteria-pasticceria dove rifocillarci. Quel giorno stavano chiudendo tutte le strade del centro per un evento per cui abbiamo dovuto spostarci sul porto e siamo rimasti rintanati in camper per il troppo vento e raffiche di pioggia. Verso le 17 abbiamo deciso di spostarci sull’isolotto più a nord e di andare a dormire sulla costa a nord est.
+
+55.0235, 12.3002 (lat, lng)
+N 55° 1' 25" E 12° 18' 1" (lat lng)
+20 Hovedskovvej 4780 Stege Denmark
+
+**{{< underline "Giorno 20" >}}**: abbiamo passeggiato fra le casette indisturbate e siamo rimasti sulla spiaggia fino al pomeriggio. Ci siamo diretti alla galleria Borre 326 per acquistare un quadro visto a Stege che ci aveva molto colpiti. Complice il vento molto forte abbiamo deciso di fermarci in un parcheggio non distante.
+
+55.0204, 12.4509 (lat, lng)
+N 55° 1' 14" E 12° 27' 3" (lat lng)
+30 Ålebæk Strandvej 4791 Borre
+Denmark
+
+**{{< underline "Giorno 21-23" >}}**: nella mattinata abbiamo visitato le scogliere di Møn. Armati di pazienza in quanto i 500 scalini per scendere alla spiaggia verranno ripagati da una bella vista. Da lì ci siamo spostati verso uno spot non molto distante in riva al mare dove ci siamo fermati a riposare per qualche giorno. Solo il rumore delle onde del mare, una vista meravigliosa, il vento, le passeggiate in campagna.
+
+54.9387, 12.2832 (lat, lng)
+N 54° 56' 19" E 12° 16' 59" (lat lng)
+20 Holtegårdsvej 4780 Stege Denmark
+
+
+**{{< underline "Giorno 24" >}}**: ci siamo spostati verso Rodby, comprando del pane fresco e una fetta di pizza in una bakery italiana. Qui ci siamo goduti l’ultimo tramonto danese sulla spiaggia e siamo fuggiti l’indomani mattina da un’invasione di zanzare e moscerini.
+54.6113, 11.4575 (lat, lng)
+N 54° 36' 41" E 11° 27' 27" (lat lng)
+Unnamed Road 4970 Rødby Denmark
+
+**{{< underline "Giorno 25" >}}**: abbiamo raggiunto il centro città e acquistato il biglietto per il traghetto direttamente al casello, ci siamo imbarcati alle 11.15 e siamo sbarcati a Puttgarden alle 12. Abbiamo sostato sulla costa tedesca per pausa pranzo poi siamo arrivati a Lubecca: bella, accogliente, pulita con i suoi bellissimi palazzi colorati lungo il fiume e i numerosi cortili interni. Ci siamo spostati a Luneburgo per la notte.
+
+53.3007, 10.3872 (lat, lng)
+N 53° 18' 3" E 10° 23' 14" (lat lng)
+23 Wallstraße 21357 Bardowick Germany
+
+**{{< underline "Giorno 26" >}}**: abbiamo visitato Luneburgo al mattino: piccole stradine curate, tipici palazzi con le facciate ben tenute, una cittadina che ci è sembrata molto a misura d’uomo. Siamo ripartiti attraversando alcuni tratti molto suggestivi circondati solo da distese di alberi e siamo arrivati alle 19. 30 nel centro di Francoforte sul Meno, giusto in tempo per goderci il tramonto sullo skyline e ammirare uno sfondo un po’ diverso. Molto bella la passeggiata lungo fiume, la piazza con il palazzi d’Epoca, la zona della casa di Goethe e tutto il parco che si staglia all’ombra dei grattacieli. Non ci siamo però fermati in città per avvantaggiarci e avere tempo di visitare un pezzo di foresta nera.
+
+49.6881, 8.6058 (lat, lng)
+N 49° 41' 17" E 8° 36' 21" (lat lng)
+110 Berliner Ring 64625 Bensheim Germany
+
+**{{< underline "Giorno 27" >}}**: abbiamo raggiunto Baden-baden visitandola in mattinata: molto curata e pulita la zona del casinò e tutta la passeggiata lungo fiume per arrivare al roseto. Un bel posticino, peccato non avere molto tempo per approfittare delle terme. Abbiamo imboccato la B500 che attraversa la foresta nera fino a fermarci a Alpirsbach, dove abbiamo acquistato qualche cioccolatino alla birra, fino a raggiungere Haslach im Kinzigtal, dove abbiamo cenato bevendo della buonissima birra.
+
+48.2757, 8.0847 (lat, lng)
+N 48° 16' 33" E 8° 5' 5" (lat lng)
+14 Ringstraße
+77716 Haslach im Kinzigtal Germany
+
+**{{< underline "Giorno 28" >}}**: abbiamo raggiunto Triberg, il paese con gli orologi a cucù visitando la casa dei 1000 cucù, davvero dei lavori sorprendenti se si pensa che ogni dettaglio viene realizzato a mano. Abbiamo decido di saltare la visita alle cascate dato il maltempo e ci siamo consolati comprando una fetta della famosa torta della foresta nera, dal nome impronunciabile.
+
+47.9503, 8.2344 (lat, lng)
+N 47° 57' 1" E 8° 14' 4" (lat lng)
+17-19 Schwarzenbach 79822 Titisee-Neustadt Germany
+
+**{{< underline "Giorno 29" >}}**: ci siamo svegliati con 10 gradi e avvolti dalla nebbia. Tutt’intorno al parcheggio iniziavano delle belle camminate in montagna per cui ci siamo avventurati senza allontanarci troppo. Dopo pranzo è spuntato il sole e abbiamo deciso di visitare il lago Titisee, percorrendone il perimetro in un paio d’ore. Davvero una bella chiusura di vacanza. Abbiamo sostato poco prima del confine per sfruttare ancora il roaming dati e l’indomani rientrare in Italia, sostando prima a Berna per un saluto ad amici e poi attraversando il tunnel del Gran San Bernardo fino a raggiungere Torino e correre a cercare una pizzeria aperta. 
+
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682862713/Articoli/francia/IMG_7177_gurulo.jpg" >}}
 
@@ -95,98 +204,19 @@ Piccolo consiglio culinario: non perderti una tapa di tortilla al bar Santos! Ti
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682862725/Articoli/francia/IMG_8318_i0b77u.jpg" >}}
 
-###### In Breve
-Ti lasciamo qui due ipotetici itinerari in breve.
 
-###### Itinerario 1
-
-**{{< underline "Giorno 1" >}}**: Cordoba
-
-**{{< underline "Giorno 2-3" >}}**: Siviglia
-
-**{{< underline "Giorno 4" >}}**: Cadice
-
-**{{< underline "Giorno 5" >}}**: Conil de la Frontera e Vejer de la Frontera
-
-**{{< underline "Giorno 6" >}}**: Playa Bolonia e sito Boelo Claudia
- 
-**{{< underline "Giorno 7" >}}**: Gibilterra
-
-**{{< underline "Giorno 8" >}}**: Marbella e dune di Artola
-
-**{{< underline "Giorno 9" >}}**: Caminito del Rey
-
-**{{< underline "Giorno 10" >}}**: Malaga
-
-**{{< underline "Giorno 11-12" >}}**: Granada
-
-###### Itinerario 2
-
-**{{< underline "Giorno 1" >}}**: Cordoba
-
-**{{< underline "Giorno 2-3" >}}**: Siviglia
-
-**{{< underline "Giorno 4" >}}**: Cadice
-
-**{{< underline "Giorno 5" >}}**: Conil de la Frontera e Vejer de la Frontera
-
-**{{< underline "Giorno 6" >}}**: Playa Bolonia e sito Boelo Claudia
- 
-**{{< underline "Giorno 7" >}}**: Gibilterra
-
-**{{< underline "Giorno 8" >}}**: Marbella e dune di Artola
-
-**{{< underline "Giorno 9" >}}**: Ronda
-
-**{{< underline "Giorno 10" >}}**: Setenil de Las Botegas 
-
-**{{< underline "Giorno 10" >}}**: Caminito?? 
-<!-- controllare distanza setenil - granada  -->
-
-**{{< underline "Giorno 11-12" >}}**: Granada
 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682862720/Articoli/francia/IMG_8478_icsos7.jpg" >}}
 
 ##### Strade 
-In tutta l'Andalusia abbiamo trovato le strade in condizioni perfette. L'autostrada è a pagamento, mentre l'autopista è gratuita.
+In tutta la Danimarca abbiamo trovato le strade in condizioni perfette e l’autostrada non si paga. Sono a pagamento invece i traghetti e i ponti, questi ultimi a seconda della lunghezza e dimensione del mezzo. 
 
 ##### Servizi e soste
-Noi non abbiamo avuto problemi per la sosta in libera, ma tieni presente che ci siamo recati in un periodo di bassa stagione. 
-Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio, soprattutto nelle zone affacciate sulla costa dato l'ammontare di turisti che scelgono questa zona come meta per le proprie vacanze. 
+Noi non abbiamo avuto alcun problema per la sosta in libera, rispettando sempre le regole di ogni luogo. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1683223905/IMG_8866_dea0c1.jpg" >}}
 
 ##### Viaggiare con il proprio animale
 {{< animali "EU">}}
 
-##### Considerazioni e tappe imperdibili
-Non conoscevamo l'Andalusia e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
-
-In camper o auto, le mete imperdibili secondo noi sono:
--   **{{< bold "Siviglia" >}}**: è una città splendida, che cattura l'attenzione in ogni angolo. 
--   **{{< bold "Vejer de la Frontera" >}}**: tutti i paesini bianchi in questa zona della costa sono deliziosi, Vejer forse per la sua posizione a noi è piaciuto di più.
--   **{{< bold "Caminito del Rey " >}}**: se sogni brivido e avventura è la meta giusta.
--   **{{< bold "Granada" >}}**: se ami la storia e l'architettua Granada non deluderà le tue aspettative.
--   **{{< bold "Granada" >}}**: è davvero un borgo piacevole, in cui respirare aria di autenticità.
--   **{{< bold "Granada" >}}**: noi ci siamo letteramente persi nelle viuzze, ammirandone ogni angolo nascosto. 
-
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1683223926/IMG_9550_uxwttl.jpg" >}}
-
-##### Il nostro Vlog 
-
-Se vuoi rivivere le nostre avventure ti lasciamo qui i link ai videi 
-
-<!-- Nel video qui sotto puoi sentire le nostre considerazioni su queste zone oppure trovi la serie completa sul paese {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.
-
-{{< youtube 3BQKTpHqFP4>}} -->
-
-
-<!-- <div id="Mappe"></div> -->
-
-<!-- ##### Le nostre mappe -->
-<!-- Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
-
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
-
-{{< blogFooter "SP_a" "1" "0" >}}
