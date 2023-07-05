@@ -12,6 +12,8 @@
 {{ .Scratch.Set "image-position" "img-float-left" }}
 {{ else if eq (.Get `p`) `float-right` }}
 {{ .Scratch.Set "image-position" "img-float-right" }}
+{{ else }}
+{{ .Scratch.Set "image-position" "img-center" }}
 {{ end }}
 
 <!-- check cdn image -->
@@ -27,7 +29,9 @@
 </figure>
 {{ else }}
 <!-- image tag -->
+<div class="{{.Scratch.Get `image-position`}}">
 <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Get `alt` }}" class="{{.Get `c`}} {{.Scratch.Get `image-position`}}" width="{{.Get `w`}}" height="{{.Get `h`}}">
+</div>
 {{ end }}
 
 {{ else }}
