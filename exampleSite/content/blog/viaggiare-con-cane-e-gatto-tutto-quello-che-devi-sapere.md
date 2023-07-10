@@ -4,7 +4,7 @@ description: Tutto quello che devi sapere se vuoi viaggiare con il tuo cane o ga
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/w_700/f_auto,q_auto:eco/v1685396172/2_oacacj.png
 date: 2023-05-28T10:00:00+01:00
 categories: [ "Animali", "Consigli"]
-type: featured
+type: regular
 draft: false
 ---
 

@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_
 date: 2023-07-02T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Danimarca
-type: regular
+type: featured
 draft: false 
 ---
 

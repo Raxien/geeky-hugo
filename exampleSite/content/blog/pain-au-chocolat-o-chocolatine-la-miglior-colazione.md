@@ -5,7 +5,7 @@ image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1688826166/Ar
 date: 2023-07-07T10:00:00Z
 categories: ["Curiosita"]
 country: Francia
-type: regular
+type: featured
 draft: false
 ---
 
