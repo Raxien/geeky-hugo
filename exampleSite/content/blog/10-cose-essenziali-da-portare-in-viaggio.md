@@ -2,7 +2,7 @@
 title: 'Le 10 cose essenziali da portare in viaggio'
 description: Scopri le 10 cose essenziali da portare con te per un viaggio on the road indimenticabile. Leggi il nostro articolo per pianificare al meglio la tua avventura.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1683732572/Articoli/Viaggio/bagagli-viaggio-zaino_bjgtuu.jpg
-date: 2022-05-09T10:00:00+01:00
+date: 2023-05-09T10:00:00+01:00
 categories: ["Consigli"]
 type: regular
 draft: false
