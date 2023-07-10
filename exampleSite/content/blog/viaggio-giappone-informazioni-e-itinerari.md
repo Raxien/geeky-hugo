@@ -169,8 +169,6 @@ Nel caso invece il vostro viaggio preveda una ripartenza da Osaka potete dedicar
 <!-- Oppure la playlist completa {{< extLink "qui" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV" >}} -->
 
 ##### Le nostre mappe
-Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
-
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1kN6Jsl-kEKC6ZozMZVQVfJlZ-F49hWo&ehbc=2E312F" >}}
 
 {{< blogFooter "JAP" "1" "0" >}}

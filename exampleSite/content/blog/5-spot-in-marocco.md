@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_
 date: 2023-05-18T10:00:00+01:00
 categories: [ "Curiosità", "Consigli","Itinerari"]
 country: Marocco
-type: featured
+type: regular
 draft: false 
 ---
 

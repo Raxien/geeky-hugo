@@ -5,8 +5,8 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_
 date: 2023-07-02T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Danimarca
-type: regular
-draft: true 
+type: featured
+draft: false 
 ---
 
 Il viaggio in Danimarca in camper è stato il nostro **primo viaggio lungo** dopo pochi weekend trascorsi in giro per il Piemonte. Alcuni hanno pensato che fossimo folli, mentre noi ci siamo divertiti un sacco. Abbiamo dormito **29 notti in libera**, caricato e scaricato le acque senza problemi in soste apposite trovate quasi sempre in autostrada oppure vicino alle cittadine.
@@ -204,8 +204,6 @@ Una cosa che renderà felici i tuoi fidi animali è la presenza di enormi aree c
 <!-- TODO rivedere -->
 
 ##### Le nostre mappe
-Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
-
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1Tri498j53ZDXSbjahbC5bOtpKCwuq1I&ehbc=2E312F" >}}
 
 {{< blogFooter "DK" "1" "0" >}}
