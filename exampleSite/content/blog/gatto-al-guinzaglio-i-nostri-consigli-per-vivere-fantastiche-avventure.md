@@ -1,7 +1,7 @@
 ---
 title: 'Un gatto al guinzaglio: i nostri consigli per vivere fantastiche avventure' 
 description: "Scopri come abbiamo fatto ad abituare il nostro gatto al guinzaglio! Alcuni consigli e il perché di questa scelta!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1658859417/Articoli/gatto_gunzaglio_3_enccst.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1688983876/Articoli/Sicilia/valle-dei-templi-tempio-gatto_bdlwdd.jpg
 date: 2022-07-26T17:00:00.000
 categories: ["Animali", "Curiosità"]
 type: regular
@@ -28,22 +28,19 @@ Sinceramente queste parole non ci sono venute in mente quando ci abbiamo provato
 Stesso consiglio vale per l'altitudine: anche i gatti possono soffrire il mal di montagna.
 
 5. **{{< underline "consigli in auto" >}}**: noi siamo stati molto fortunati perché Sakè ha patito l'auto solo un paio di volte. Forse ha aiutato il fatto che non lo tenessimo chiuso nel trasportino ma "libero" seppur legato a una cintura di sicurezza in modo che non potesse arrivare improvvisamente nell'abitacolo. Abbiamo usato anche una lettiera portatile in modo da ricreare un ambiente il più possibile consono ai suoi bisogni.
-6. 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00SBA5COK&linkId=9c8ae4a5d9982e5f442fb6d1c8c89a8b"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000RW86HA&linkId=51a2d70d9fbe287af4d40a9115349012"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B075WZGQF2&linkId=4911a580db259e5d71c3fe48d6fbb9bb"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08P3HR4CR&linkId=5b645b02595bc33504898c03a44307c2"></iframe>
 
-1. **{{< underline "consigli in van" >}}**: anche nella nostra casa mobile Sakè rimane libero di girare nella zona letto. Di solito si corica guardando fuori dai finestrini del gavone o dormendo.
+6. **{{< underline "consigli in van" >}}**: anche nella nostra casa mobile Sakè rimane libero di girare nella zona letto. Di solito si corica guardando fuori dai finestrini del gavone o dormendo.
 
-2. **{{< underline "avere sempre una scorta d'acqua" >}}**: i gatti bevono poco ma il rischio disidratazione è molto alto. Noi abbiamo sempre {{< extLink "una borraccia" "https://amzn.to/3NQxosJ" >}} nello zaino e {{< extLink "una ciotola pieghevole" "https://amzn.to/42HQ1Da" >}}
+7. **{{< underline "avere sempre una scorta d'acqua" >}}**: i gatti bevono poco ma il rischio disidratazione è molto alto. Noi abbiamo sempre {{< extLink "una borraccia" "https://amzn.to/3NQxosJ" >}} nello zaino e {{< extLink "una ciotola pieghevole" "https://amzn.to/42HQ1Da" >}}
 
-3. **{{< underline "controllare tempi e bisogni del gatto" >}}**: se sei di fretta forse non è il caso di obbligare il tuo animale a una passeggiata che sarebbe solo fonte di nervosismo per entrambi. 
+8. **{{< underline "controllare tempi e bisogni del gatto" >}}**: se sei di fretta forse non è il caso di obbligare il tuo animale a una passeggiata che sarebbe solo fonte di nervosismo per entrambi. 
 In caso contrario lui ti insegnerà il valore del tempo: annusare un fiore, controllare una lucertola, nascondersi in una feritoia, fermarsi per vedere chi e cosa si ha intorno. Tutte cose preziose ma da noi a volte date per scontate :)
 
-1. **{{< underline "quale pettorina scegliere?" >}}**: noi abbiamo {{< extLink "optato per una pettorina ad H" "https://amzn.to/3MjjTPC" >}}, regolabile in larghezza. Ci è sembrata più sicura perché difficilmente sfilabile rispetto a un semplice collarino.
+9. **{{< underline "quale pettorina scegliere?" >}}**: noi abbiamo {{< extLink "optato per una pettorina ad H" "https://amzn.to/3MjjTPC" >}}, regolabile in larghezza. Ci è sembrata più sicura perché difficilmente sfilabile rispetto a un semplice collarino.
 
-2.  **{{< underline "zainetto apposito?" >}}**: spesso noi camminiamo con Sakè in braccio o sulle spalle. Lui non ha apprezzato lo zainetto che avevamo provato a usare, ma esistono tanti modelli sul mercato, in stoffa con retine per far passare l'aria o simili a degli oblò. Magari tu avrete più fortuna così!
+10.   **{{< underline "zainetto apposito?" >}}**: spesso noi camminiamo con Sakè in braccio o sulle spalle. Lui non ha apprezzato lo zainetto che avevamo provato a usare, ma esistono tanti modelli sul mercato, in stoffa con retine per far passare l'aria o simili a degli oblò. Magari tu avrete più fortuna così!
+
+
 <!-- link -->
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0B1WHMV1Z&linkId=365487f0fbb28f123d7df73efd10498a"></iframe>
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07Q1BQMRN&linkId=c6ccd05866a210053e18e29a304d60b5"></iframe>
