@@ -188,8 +188,6 @@ Se vuoi rivivere le nostre avventure trovi la **{{< extLink "playlist completa q
 {{< youtube ltS_nUc60XI >}}
 
 ##### Le nostre mappe
-Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
-
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1kz951GpR8BYLTn6uPkMPKXJMDZXCWXU&ehbc=2E312F" >}}
 
 {{< blogFooter "SP_a" "1" "0" >}}

@@ -1,12 +1,12 @@
 ---
 title: 'Sicilia in camper: il nostro itinerario con tutte le aree sosta'
 description: "Sicilia in camper cosa vedere e dove andare, alla scoperta di spiagge, siti archeologici, promontori, città e località turistiche on the road!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1688671509/Articoli/Danimarca/danimarca-faro_glgvqv.jpg
-date: 2023-07-02T17:00:00.000
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1688983864/Articoli/Sicilia/taormina-caletta_aumpfs.jpg
+date: 2023-07-09T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Italia
 type: regular
-draft: true 
+draft: false 
 ---
 
 Oggi ti portiamo con noi in Sicilia in uno dei primi viaggi ([il primo lungo viaggio invece lo trovi qui](/blog/)) che abbiamo fatto con il nostro camper. Questo è stato un viaggio stupendo che abbiamo amato sia per i luoghi fantastici sia per le delizie culinarie: 14 giorni nel sud della Sicilia fra cannoli e spiagge paradisiache! Mettiti comodo e buona lettura!
@@ -22,9 +22,13 @@ Oggi ti portiamo con noi in Sicilia in uno dei primi viaggi ([il primo lungo via
 
 **{{< underline "Giorno 2" >}}**: In mattinata facciamo due passi nella piccola città di Sant'Alessio siculo per poi spostarci a **Taormina**. {{< extLink "Posteggiamo davanti alla stazione" "https://goo.gl/maps/S6nSL73uBycnbmHi7" >}} per prendere il pullman per salire. Dopo mezz'ora di attesa decidiamo di andare a piedi! In alternativa esiste anche {{< extLink "una funicolare" "http://www.gotaormina.com/en/taormina/cable_car.html" >}} al costo di 3 euro a tratta.
 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_900/f_auto,q_auto:good/v1688983880/Articoli/Sicilia/taormina-anfitetro_cqvowj.jpg" >}}
+
 Taormina è una gradevola città con scorci stupendi ma l'attrattiva principale è il {{< extLink "Teatro Antico" "http://www.parconaxostaormina.com/" >}} che accetta pure gli animali! Dopo svariate ore a visitare ogni anfratto decidiamo di scendere verso la spiaggia dell'**isola Bella**.
 
 Ritorniamo al camper, questa volta in pullman per dirigerci prima a **Giardini Naxos**, che non ci dice niente di che, per poi dirigerci verso la spiaggia del Mulino di Acireale in quanto presente uno spiazzo per dormire tranquillamente in libera cullati dalle onde del mare.
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_900/f_auto,q_auto:good/v1688983860/Articoli/Sicilia/taormina-isola-bella_prmarr.jpg" >}}
 
 **{{< underline "Giorno 3" >}}**: Il giorno successivo ci dirigiamo ad **Acireale** e parcheggiamo davanti al {{< extLink "bar Kennedy" "https://goo.gl/maps/oupP99bMWv5g5YzBA" >}} per testare la famosa granita siciliana: posto consigliato e granita approvata! Per smaltire decidiamo di visitare la città a piedi partendo da {{< extLink "Villa Belvedere" "http://www.comune.acireale.ct.it/" >}} per poi proseguire verso il centro visitando la **basilica Cattedrale Maria SS.ma Annunziata** e la **basilica Collegiata di San Sebastiano**. Nel pomeriggio visitiamo **Aci Trezza** e le **sue Isole dei Ciclopi** e **Aci Castello** e il suo castello. In serata ci spostiamo a Catania per dormire {{< extLink "presso una struttura un po' fuori dalla città" "https://park4night.com//lieu/245826/" >}}. 
 
@@ -36,11 +40,15 @@ Prima di andare via abbiamo provato un'ottima frittura presso {{< extLink "il ri
 
 Dopo la visita e dopo pranzo ci dirigiamo verso **{{< extLink "l'Agricampeggio Capo Scalambri" "https://park4night.com/en/place/36301" >}}** e ci parcheggiamo fronte mare e sosteremo per un po' di giorni.
 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_900/f_auto,q_auto:good/v1688983876/Articoli/Sicilia/valle-dei-templi-tempio-gatto_bdlwdd.jpg" >}}
+
 **{{< underline "Giorno 6" >}}**: Dedichiamo la giornata a rilassarci in questo posto e visitiamo a piedi la vicina **Punta Secca** famosa per la **casa di Montalbano**.
 
 **{{< underline "Giorno 7" >}}**: tempo di visitare la famosa **Scicli**. Ci perdiamo nelle viuzze, visitiamo il **Commissariato di Vigata** e saliamo fino al **Castello dei Tre Cantoni**, chiuso ma offre un'ottima vista!
 
 Prima di andare alla prossima tappa proviamo il **{{< extLink "cannolo caldo numero 1 della Sicilia" "http://www.cannolia.it/" >}}**: delizioso!
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_900/f_auto,q_auto:good/v1688983876/Articoli/Sicilia/cannolo-siciliano_svlfuv.jpg" >}}
 
 Ci dirigiamo prima a **Ragusa**. {{< extLink "Parcheggiando" "https://goo.gl/maps/JUeB2aa9SDVXfm9P6" >}} e saliamo verso la parte alta della città, **Ragusa Ibla**, fino passando davanti al **Palazzo Arezzo di Trifiletti**, il **{{< extLink "Palazzo Arezzo di Trifiletti" "http://www.palazzoarezzo.it/" >}}** arrivando al **Giardino Ibleo**. Passando leggiamo cannoli ripieni e ci viene di nuovo fame.
 
@@ -65,6 +73,80 @@ Ne prendiamo due, esageriamo e rischiamo di rimanerci secchi per i troppi zucche
 In serata ci spostiamo verso **Anone bagni** famosa per il suo spot vista mare e basta.
 
 **{{< underline "Giorno 14" >}}**: Ultimo giorno dedicato a fare passi nell'"affollatissima" città di **Anone bagni** per poi procedere in serata a prendere il traghetto che da Messina ci riporterà fuori da questa regione e poi direzione casa. 
+
+<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript">
+</script>  
+
+<div id="my-gallery" style="max-width:100%;margin:auto">
+</div>
+
+<script>
+     const myWidget = cloudinary.galleryWidget({
+    "cloudName": "ilgattodicitturin",
+    "mediaAssets": [{
+        "publicId": "Articoli/Sicilia/catania_rozbo6",
+        "mediaType": "image"
+    }, {
+        "publicId": "Articoli/Sicilia/ragusa-ibla_wt30zc",
+        "mediaType": "image"
+    }, {
+        "publicId": "Articoli/Sicilia/sicilia-barca_qb32bd",
+        "mediaType": "image"
+    }, {
+        "publicId": "Articoli/Sicilia/sicilia-caletta_kugzko",
+        "mediaType": "image"
+    }, {
+        "publicId": "Articoli/Sicilia/sicilia-spiaggia_x4pj4a",
+        "mediaType": "image"
+    }, {
+        "publicId": "Articoli/Sicilia/valle-dei-templi_z6rvux",
+        "mediaType": "image"
+    }, {
+        "publicId": "Articoli/Sicilia/valle-dei-templi-tempio-blackandwhite_xrx6va",
+        "mediaType": "image"
+    }],
+    "aspectRatio": "16:9",
+    "navigationButtonProps": {
+        "shape": "rectangle",
+        "color": "#FFFFFF",
+        "iconColor": "#000000"
+    },
+    "container": "#my-gallery"
+});
+//     const myWidget = cloudinary.galleryWidget({
+//     "cloudName": "ilgattodicitturin",
+//     "mediaAssets": [{
+//         "publicId": "Articoli/Sicilia/catania_rozbo6",
+//         "mediaType": "image"
+//     }, {
+//         "publicId": "Articoli/Sicilia/ragusa-ibla_wt30zc",
+//         "mediaType": "image"
+//     }, {
+//         "publicId": "Articoli/Sicilia/sicilia-barca_qb32bd",
+//         "mediaType": "image"
+//     }, {
+//         "publicId": "Articoli/Sicilia/sicilia-caletta_kugzko",
+//         "mediaType": "image"
+//     }, {
+//         "publicId": "Articoli/Sicilia/sicilia-spiaggia_x4pj4a",
+//         "mediaType": "image"
+//     }, {
+//         "publicId": "Articoli/Sicilia/valle-dei-templi_z6rvux",
+//         "mediaType": "image"
+//     }, {
+//         "publicId": "Articoli/Sicilia/valle-dei-templi-tempio-blackandwhite_xrx6va",
+//         "mediaType": "image"
+//     }],
+//     "aspectRatio": "16:9",
+//     "navigationButtonProps": {
+//         "shape": "rectangle",
+//         "color": "#FFFFFF",
+//         "iconColor": "#000000"
+//     },
+//     "container": "#my-gallery"
+// });
+myWidget.render();
+</script>
 
 ###### In Breve
 
@@ -97,8 +179,6 @@ In serata ci spostiamo verso **Anone bagni** famosa per il suo spot vista mare e
 {{< youtube pwsXaymLF0k >}}
 
 ##### Le nostre mappe
-Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
-
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ipZq4GlS3cmXzPHI37WSbMO2POBhJUY&ehbc=2E312F" >}}
 
 {{< blogFooter "SICILIA" "1" "0" >}}
