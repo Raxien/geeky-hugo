@@ -65,8 +65,6 @@ Il clima subisce le correnti atlantiche, a inizio settembre abbiamo trovato sia 
 <!-- <div id="Mappe"></div> -->
 
 <!-- ##### Le nostre mappe -->
-<!-- Di seguito puoi consultare comodamente le mappe relative al nostro vi lasciamo il link alle mappe che 
-
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
 
 {{< blogFooter "B" "1" "0" >}}
