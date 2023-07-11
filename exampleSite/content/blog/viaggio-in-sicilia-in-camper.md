@@ -110,38 +110,7 @@ In serata ci siamo spostati verso **Agnone bagni**, in uno spot vista mare.
     },
     "container": "#my-gallery"
 });
-//     const myWidget = cloudinary.galleryWidget({
-//     "cloudName": "ilgattodicitturin",
-//     "mediaAssets": [{
-//         "publicId": "Articoli/Sicilia/catania_rozbo6",
-//         "mediaType": "image"
-//     }, {
-//         "publicId": "Articoli/Sicilia/ragusa-ibla_wt30zc",
-//         "mediaType": "image"
-//     }, {
-//         "publicId": "Articoli/Sicilia/sicilia-barca_qb32bd",
-//         "mediaType": "image"
-//     }, {
-//         "publicId": "Articoli/Sicilia/sicilia-caletta_kugzko",
-//         "mediaType": "image"
-//     }, {
-//         "publicId": "Articoli/Sicilia/sicilia-spiaggia_x4pj4a",
-//         "mediaType": "image"
-//     }, {
-//         "publicId": "Articoli/Sicilia/valle-dei-templi_z6rvux",
-//         "mediaType": "image"
-//     }, {
-//         "publicId": "Articoli/Sicilia/valle-dei-templi-tempio-blackandwhite_xrx6va",
-//         "mediaType": "image"
-//     }],
-//     "aspectRatio": "16:9",
-//     "navigationButtonProps": {
-//         "shape": "rectangle",
-//         "color": "#FFFFFF",
-//         "iconColor": "#000000"
-//     },
-//     "container": "#my-gallery"
-// });
+
 myWidget.render();
 </script>
 
