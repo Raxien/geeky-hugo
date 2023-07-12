@@ -92,4 +92,4 @@ Ora diteci di voi!
 Siete del team pizza all'estero sì o preferite mangiare solo cibi locali? 
 Noi, dopo 4 mesi in Africa, ammettiamo di non essere riusciti a farne a meno! 
 
-Vi aspettiamo nei commenti, peccato non poterci sedere al tavolo insieme! 😊
+Se doveste recarvi in questi luoghi fatevio un selfie e taggateci, peccato non poterci sedere al tavolo insieme! 😊
