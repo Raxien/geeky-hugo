@@ -95,6 +95,12 @@
                       {{ end }}
                       {{ $year }}
                       </span>
+                    </li>
+                    {{ if .Params.sponsored}}
+                    <li class="list-inline-item d-flex align-items-center">
+                      <i>Sponsorizzato</i>
+                    </li>
+                    {{end}}
                   </ul>
                 </div>
               </div>
