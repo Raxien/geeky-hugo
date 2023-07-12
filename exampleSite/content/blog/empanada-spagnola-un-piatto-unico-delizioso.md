@@ -1,16 +1,18 @@
 ---
-title: "Empanada"
-description: "Che differenza c'è fra Pain au Chocolat e Chocolatine? Scoprilo con noi!"
-image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1688826166/Articoli/Cibo/pain-au-chocolat_kuar6y.jpg"
-date: 2023-07-07T10:00:00Z
+title: "Empanada spagnola: un piatto unico delizioso!"
+description: "Quando abbiamo attraversato la Spagna in camper abbiamo fatto scorta di empanadas, scopri le nostre preferite"
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689094771/Articoli/empanada/IMG_9897_doklnq.jpg"
+date: 2023-07-16T10:00:00Z
 categories: ["Curiosita", "Cucina"]
 country: Spagna
 type: featured
-draft: true
+draft: false
 ---
 
 Tra i piatti spagnoli a bordo del nostro van, oltre alla [tortilla che ti abbiamo presentato qui](/blog/tortilla-de-patatas-spagnola-scoprila-insieme-a-noi), non poteva di certo mancare **l’empanada!**
 Diciamo che all’italiana si potrebbe paragonare all’amata torta salata salva cena e in effetti così è anche in questo paese, l’empanada salva tutto e placa **la tristezza delle papille gustative.**
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689094775/Articoli/empanada/IMG_3098_j6rtcg.jpg" >}}
 
 ##### Empanada: cosa, come e dove?
 
@@ -24,6 +26,8 @@ Ora potresti dirmi: **perchè nelle città ho visto negozi di empanadas argentin
 Tranquilla/o, siamo tutti confusi e affamati.
 Ma come direbbero in casa mia, butta giù che poi in pancia tutto si sistema! 
 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689094764/Articoli/empanada/IMG_4229_h60vsi.jpg" >}}
+
 ###### La storia, ma sarò breve promesso! 
 
 Umorismo a parte, come ti dicevo prima le empanadas sono comparse nei libri di cucina catalani nel 1500, apprese probabilmente dalle ricette dei nomadi arabi e tramandate poi in America dopo la scoperta del continente. Anno dopo anno, secondo dopo secolo, ricetta dopo ricetta sono diventate uno dei piatti tipici della cucina peruviana, cilena, argentina e latinoamericana in generale.
@@ -35,6 +39,8 @@ Ma non preoccuparti, perchè in ogni paesino troverai una piccola panetteria in 
 È così che noi abbiamo riempito la nostra dispensa a base di empanadas rettangolari e in formato familiare (che meraviglia portare a bordo quei vassoi!) ripiene di tonno o baccalà e verdure.
 
 In base ai tuoi gusti comunque puoi trovarle anche ripiene di carne o di sole verdure o di formaggio, te l’avevo detto che accontentano chiunque! 
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689094748/Articoli/empanada/IMG_3100_gawwoe.jpg" >}}
 
 ###### Quali sono gli ingredienti principali dell’empanada? 
 
