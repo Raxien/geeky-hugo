@@ -103,6 +103,11 @@
                         {{ $year }}
                       </span>
       </li>
+      {{ if .Params.sponsored}}
+      <li class="list-inline-item d-flex align-items-center">
+        <i>Sponsorizzato</i>
+      </li>
+      {{end}}
     </ul>
     <p class="card-text mb-4">{{ .Summary }}</p>
     <a href="{{.RelPermalink}}" class="btn btn-outline-primary btn-sm">Leggi</a>

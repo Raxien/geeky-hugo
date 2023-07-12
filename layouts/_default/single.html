@@ -120,6 +120,11 @@
             <span>{{ $minutes }} {{ cond (eq $minutes 1) "minuto" "minuti" }} e
                   {{ $seconds }} {{ cond (eq $seconds 1) "secondo" "secondi" }}</span>
           </li>
+          {{ if .Params.sponsored}}
+          <li class="list-inline-item d-flex align-items-center">
+            <i>Sponsorizzato</i>
+          </li>
+          {{end}}
         </ul>
         <div class="content drop-cap">{{.Content}}</div>
         <!-- disqus comments -->
