@@ -9,7 +9,7 @@ type: regular
 draft: false
 ---
 
-Nel nostro itinerario on the road in Andalusia non potevano mancare due puebli davvero unici: **Setenil de Las Bodegas e Ronda**.
+Nel nostro [itinerario on the road in Andalusia](/blog/viaggio-andalusia-in-camper-itinerari) non potevano mancare due puebli davvero unici: **Setenil de Las Bodegas e Ronda**.
 Se come noi pensi di raggiungere questi borghi in camper valuta di parcheggiare un po’ fuori dai centri abitati: le strade di entrambi i paesi sono assai strette e decisamente più adatte a una passeggiata. 
 **Non temere**, al fondo di questo articolo ti suggeriremo alcune coordinate dei luoghi in cui parcheggiare sia a Setenil de Las Botegas che a Ronda :) 
 
