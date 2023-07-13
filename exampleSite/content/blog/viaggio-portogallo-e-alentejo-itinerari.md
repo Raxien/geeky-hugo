@@ -1,12 +1,12 @@
 ---
 title: 'Road Trip in Portogallo: l''Alentejo'
-description: "Alla scoperta del Portogallo affacciato sull'oceano"
+description: "Alla scoperta del Portogallo affacciato sull'oceano da vivere on the road!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1683730729/IMG_0723_n3ptpi.jpg
 date: 2023-04-10T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Portogallo 
 type: regular
-draft: true
+draft: false
 ---
 
 L'Alentejo solitamente non è una delle mete di prima scelta quando si pensa al Portogallo. Eppure questa zona è costellata di piccoli paesini e ricca di natura, ideale per chi cerca un po' più di pace rispetto alla più turistica regione dell'Algarve. In questo articolo ti elenchiamo le mete che abbiamo raggiunto seguendo solamente la costa atlantica a bordo del nostro van.
