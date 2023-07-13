@@ -59,6 +59,6 @@ Scoprilo con la comoda mappa qui sotto:
 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1v4vW9yXAaUNI3t7QN2tVV22hPQTdSiQ&ehbc=2E312F" >}}
 
-{{< blogFooter "SP_a" "1" "0" >}}
-
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689094671/Articoli/setenil%20e%20cordoba/IMG_2883_zrsfg4.jpg" >}}
+
+{{< blogFooter "SP_a" "1" "0" >}}
