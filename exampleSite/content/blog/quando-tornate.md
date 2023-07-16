@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689180920/Art
 date: 2023-07-08T17:00:00.000
 categories: ["Curiosita", "Blog"]
 type: regular
-draft: false
+draft: true
 ---
 
 ##### Quando tornate?
