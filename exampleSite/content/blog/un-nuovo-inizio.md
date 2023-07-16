@@ -4,7 +4,7 @@ description: Un blog che vuole essere una grande scatola dei ricordi, un nuovo i
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684678075/Copia_di_Aggiungi_un_intestazione_1_xokzp6.jpg
 date: 2023-05-21T10:00:00+01:00
 categories: [ "Curiosità", "Consigli"]
-type: featured
+type: regular
 draft: false
 ---
 
