@@ -1,7 +1,7 @@
 ---
 title: 'Senegal on the road: dogane e strade!' 
 description: "Tutto quello che devi sapere se vuoi entrare in Senegal in moto, auto o camper!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1681839060/Articoli/Copertine/Senegal_in_Van_nbfqyv.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:good/v1681839060/Articoli/Copertine/Senegal_in_Van_nbfqyv.jpg
 date: 2023-03-26T17:00:00.000
 categories: ["Africa", "Dogana"]
 country: Senegal
