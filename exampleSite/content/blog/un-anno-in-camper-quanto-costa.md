@@ -34,7 +34,7 @@ Meno di 15 € al giorno a testa.
 
 Nel totale rientra davvero tutto: gasolio, cibo, parcheggi, visite culturali, dogane e visti, traghetto, assicurazione sanitaria, internet e siamo pure riusciti a **far rientrare le voci escluse** (bollo e assicurazione)!
 
-Tutto ciò che ci ha portati a visitare **2 continenti, 13 paesi, percorrere 30000 km**, vivere 4 mesi in Africa da soli lontanto da tutti, inventandoci parole mai sentite prima per comunicare e cavandocela sempre con un sorriso (ok, tranne alla [dogana Senegalese](/blog/dogana-senegal-cosa-fare-guida-completa) quando un poliziotto corrotto è stato irremovibile e ha rovinato i nostri piani).
+Tutto ciò che ci ha portati a visitare **2 continenti, 13 paesi, percorrere 30000 km**, vivere 4 mesi in Africa da soli lontano da tutti, inventandoci parole mai sentite prima per comunicare e cavandocela sempre con un sorriso (ok, tranne alla [dogana Senegalese](/blog/dogana-senegal-cosa-fare-guida-completa) quando un poliziotto corrotto è stato irremovibile e ha rovinato i nostri piani).
 
 {{< youtube avKZAgEAd0Q >}}
 
