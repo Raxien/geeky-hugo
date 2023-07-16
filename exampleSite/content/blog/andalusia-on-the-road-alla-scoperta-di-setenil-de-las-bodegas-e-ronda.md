@@ -2,14 +2,14 @@
 title: 'Setenil de las Bodengas e Ronda in camper: due mete imperdibili in Andalusia'
 description: "In questo articolo ti porteremo a bordo del nostro camper alla scoperta di due puebli imperdibili in Andalusia tra case scolpite nella roccia e ponti sospesi!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689094718/Articoli/setenil%20e%20cordoba/IMG_2810_ggof7s.jpg
-date: 2023-07-12T17:00:00.000
+date: 2023-07-12T00:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Spagna
 type: regular
 draft: false
 ---
 
-Nel nostro itinerario on the road in Andalusia non potevano mancare due puebli davvero unici: **Setenil de Las Bodegas e Ronda**.
+Nel nostro [itinerario on the road in Andalusia](/blog/viaggio-andalusia-in-camper-itinerari) non potevano mancare due puebli davvero unici: **Setenil de Las Bodegas e Ronda**.
 Se come noi pensi di raggiungere questi borghi in camper valuta di parcheggiare un po’ fuori dai centri abitati: le strade di entrambi i paesi sono assai strette e decisamente più adatte a una passeggiata. 
 **Non temere**, al fondo di questo articolo ti suggeriremo alcune coordinate dei luoghi in cui parcheggiare sia a Setenil de Las Botegas che a Ronda :) 
 
@@ -59,6 +59,6 @@ Scoprilo con la comoda mappa qui sotto:
 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1v4vW9yXAaUNI3t7QN2tVV22hPQTdSiQ&ehbc=2E312F" >}}
 
-{{< blogFooter "SP_a" "1" "0" >}}
-
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689094671/Articoli/setenil%20e%20cordoba/IMG_2883_zrsfg4.jpg" >}}
+
+{{< blogFooter "SP_a" "1" "0" >}}
