@@ -1,15 +1,15 @@
 ---
-title: 'Un gatto al guinzaglio: i nostri consigli per vivere fantastiche avventure' 
-description: "Scopri come abbiamo fatto ad abituare il nostro gatto al guinzaglio! Alcuni consigli e il perché di questa scelta!"
+title: 'Gatto al guinzaglio: come abbiamo fatto?' 
+description: "Scopri come abbiamo fatto ad abituare il nostro gatto al guinzaglio! Eccoti alcuni consigli e il perché di questa scelta!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1688983876/Articoli/Sicilia/valle-dei-templi-tempio-gatto_bdlwdd.jpg
 date: 2022-07-26T17:00:00.000
 categories: ["Animali", "Curiosità"]
 type: regular
 ---
-Il giorno in cui abbiamo iniziato le nostre avventure con il nostro gatto al guinzaglio, **Sakè aveva 40 giorni** ed era piccolo ma decisamente curioso. Da quella sera ogni occasione fu buona per appallottolarsi sulle nostre spalle quando eravamo fuori casa e zampettare quando le passeggiate non erano troppo impegnative. Al suo fianco abbiamo sempre avuto la nostra Rottweiler, Olimpia. 
+Il giorno in cui abbiamo iniziato le nostre avventure con il nostro gatto al guinzaglio, **Sakè aveva 40 giorni**: era piccolo ma decisamente curioso. Da quella sera ogni occasione fu buona per appallottolarsi sulle nostre spalle quando eravamo fuori casa e zampettare quando le passeggiate non erano troppo impegnative. Al suo fianco abbiamo sempre avuto la nostra Rottweiler, Olimpia. 
 
 ##### È possibile portare un gatto al guinzaglio?
-Sinceramente queste parole non ci sono venute in mente quando ci abbiamo provato e nemmeno nei giorni e nei mesi a seguire. Ci siamo documentati un po' su come fare, quello sì, e abbiamo **scoperto che non eravamo i primi!** Su Instagram ({{< extLink "a proposito qui trovi il nostro" "https://www.instagram.com/vandipety/" >}}) si trovano tantissimi profili di gatti che camminano fieri al guinzaglio, e poi c'era la storia vera di Bob, e quella di Nala e il suo padrone che gira il mondo in bici. Ci sentivamo capiti anche se nessuno vicino a noi viveva la stessa esperienza.
+Sinceramente queste parole non ci sono venute in mente quando ci abbiamo provato e nemmeno nei giorni e nei mesi a seguire. Ci siamo documentati un po' su come fare, quello sì, e abbiamo **scoperto che non eravamo i primi!** Su Instagram ({{< extLink "a proposito qui trovi il nostro profilo" "https://www.instagram.com/vandipety/" >}}) si trovano tantissimi profili di gatti che camminano fieri al guinzaglio, e poi c'era la storia vera di Bob, e quella di Nala e il suo padrone che gira il mondo in bici. Ci sentivamo capiti anche se nessuno vicino a noi viveva la stessa esperienza.
 
 ![A passeggio per la Danimarca](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1658859422/Articoli/gatto_guinzaglio_2_v7bb9k.jpg)
 
