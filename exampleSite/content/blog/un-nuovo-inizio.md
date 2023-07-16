@@ -12,8 +12,8 @@ Nelle ultime settimane abbiamo deciso di **stravolgere un po' il nostro sito web
 Avevamo scritto di getto una decina di articoli mesi fa, poi tutto si era un po' arenato, dando spazio ad altri progetti che avevamo intrapreso nello stesso periodo.
 Da quando siamo partiti ci siamo messi in gioco cercando di reinventarci in tanti modi ed essendo tutto nuovo occorrono non solo energia e voglia, ma anche tempo.
 Ed è proprio prendendo tempo, sedendoci attorno al tavolino del nostro van e sorseggiando un caffè, che abbiamo deciso di **avviare un nuovo progetto**: 
-<h6 style="text-align: center !important">scrivere gli articoli delle nostre avventure!</h6>
-<br>
+
+{{< citazione "scrivere gli articoli delle nostre avventure!" >}}
 
 Avevamo già iniziato a farlo ma non ci avevamo creduto abbastanza. In tante occasioni abbiamo avuto modo di dare consigli a voce e quindi ci siamo detti: perché non condividere la nostra esperienza con tutti?
 
