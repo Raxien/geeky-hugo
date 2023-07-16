@@ -145,7 +145,7 @@ Già, il tempo. E come sfuggirli. Ciao destino, bentornato a trovarmi. Quanto mi
 
 Siamo stati davvero troppo poco in Belgio per poter dare un parere costruttivo. Quel poco che abbiamo visto però ci ha fatto una buona impressione: le cittadine sono pulite, le campagne curate, le persone estremamente gentili.
 
-Il costo della vita sicuramente **è più alto che altrove**, abbiamo potuto notarlo sia mangiando fuori sia facendo una piccola spesa "di sopravvivenza", e anche questo fattore ha inciso sui giorni di permamenza in paese.
+Il costo della vita sicuramente **è più alto che altrove**, abbiamo potuto notarlo sia mangiando fuori sia facendo una piccola spesa "di sopravvivenza", e anche questo fattore ha inciso sui giorni di permanenza in paese.
 
 Il clima subisce le correnti atlantiche, a inizio settembre abbiamo trovato sia bel tempo sia acquazzoni e umidità elevata nell'arco di 5 giorni. 
 
