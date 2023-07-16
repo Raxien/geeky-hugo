@@ -2,16 +2,16 @@
 title: 'Carcassonne: alla scoperta della città medievale e dell’omonimo gioco di società'
 description: "Dopo un anno di partite a Carcassonne, il famoso gioco di società, a bordo del nostro camper, siamo arrivati per davvero in città, dove abbiamo comprato un’espansione per mettere un po’ di pepe alle nostre avventure a bordo!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689176381/Articoli/carcassonne/IMG_4607_tqwtm1.jpg
-date: 2023-07-11T17:00:00.000
+date: 2023-07-19T17:00:00.000
 categories: ["Europa","Guida","Camper","Curiosita"]
 country: Francia
 type: regular
-draft: true
+draft: false
 ---
 
 Dopo un anno di partite a **Carcassonne**, {{< extLink "il famoso gioco di società" "https://amzn.to/3JWWC5E" >}}, a bordo del nostro camper, siamo arrivati per davvero in città, dove abbiamo comprato {{< extLink "un’espansione" "https://amzn.to/3Dh1hvu" >}} per mettere un po’ di pepe alle nostre avventure a bordo!
 
-**Carcassonne** si trova collocata nel sud della Francia, il che rende la città un’ottima [tappa sul percorso per raggiungere la Spagna](/blog/guida-spagna-del-nord-in-camper-itinerari) o [rientrando.](/blog/viaggio-andalusia-in-camper-itinerari)
+**Carcassonne** si trova collocata nel sud della Francia, il che rende la città un’ottima tappa sul percorso per raggiungere ad esempio [ la Spagna del Nord](/blog/guida-spagna-del-nord-in-camper-itinerari) o rientrando in Italia.
 
 Carcassonne è una delle cinque città più turistiche della Francia, motivo per cui noi l’abbiamo visitata alle 7 del mattino, ammirandola in totale solitudine **(dalle 10 in estate le stradine vengono invase dai turisti)**. Dobbiamo ammettere che le numerose insegne turistiche **non ci hanno spinti** a scattare troppe fotografie, ma vediamo insieme come trascorrere mezza giornata in città!
 
@@ -21,11 +21,11 @@ Se come noi arrivi in camper non temere, [al fondo ti lasciamo un paio di siti s
 
 **Carcassonne** è una tipica città medievale con una doppia cinta muraria, 4 porte e 52 torri che si intravedono da lontano e fanno volare la mente indietro nel tempo. Lungo tutto il percorso che conduce in città lo sguardo si perde fra terreni vinicoli, lasciando intendere la sua posizione strategica. 
 
-Una volta entrati in città sembra di fare un tuffo nel passato in quell'era fatta di gesta eroiche dei cavalieri e di dame e principesse da salvare. Oppure se come me siete amanti dei film, a uno degli ultimi di Ridley Scott **{{< extLink "The Last Duel" "https://www.youtube.com/watch?v=41WdQ8iY7D4" >}}**.
+Una volta entrati in città sembra di fare un tuffo nel passato in quell'era animata da gesta eroiche di cavalieri e dame e principesse da salvare. Oppure, se come me siete amanti dei film, vi riporterà ai ricordi di uno degli ultimi capolavori di Ridley Scott: **{{< extLink "The Last Duel" "https://www.youtube.com/watch?v=41WdQ8iY7D4" >}}**.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689177691/Articoli/carcassonne/R0001115_gkxr0v.jpg" >}}
 
-##### Carcassonne: una città da scoprire
+##### Carcassonne: una città tutta da scoprire
 
 La città si snoda fra **la parte medievale** arroccata in cima e protetta dalle mura e **quella più moderna** che si trova nella piana del fiume Aude.
 
@@ -34,8 +34,8 @@ La città si snoda fra **la parte medievale** arroccata in cima e protetta dalle
 La città medievale di Carcassonne è un esempio unico in Europa, sia per le dimensioni che per lo stato di conservazione. Si può raggiungere tramite due porte, **Porte Narbonnaise** e **Porte d’Aude**, dalle quali si può passeggiare in un dedalo di stradine che pullulano di bar, ristoranti e botteghe. 
 Purtroppo sia nelle viuzze che nelle piazzette si trovano tantissime insegne, sedie e tavolini che lasciano lo spazio solo all’immaginazione per rivivere l’atmosfera medievale autentica. 
 
-Nella città medievale puoi visitare:
-- **Château Comtal**, il castello, che ospita il museo lapidario e numerose installazioni oltre a camminare lungo i bastioni e ammirare i panorami sottostanti (orario visite 10-17, prezzo 9,50 euro {{< extLink "prenotabile qui" "https://www.remparts-carcassonne.fr/" >}})
+Nella città medievale si possono visitare:
+- lo **Château Comtal**, il castello, che ospita il museo lapidario e numerose installazioni oltre a permettere di camminare lungo i bastioni e ammirare i panorami sottostanti (orario visite 10-17, prezzo 9,50 euro {{< extLink "prenotabile qui" "https://www.remparts-carcassonne.fr/" >}})
 - la **Basilica di Saint Nazaire**, una chiesa di origine romanica ma arricchita da dettagli gotici nei rosoni e nelle cappelle (ingresso gratuito)
 - il **{{< extLink "Museo della Scuola" "https://www.carcassonne.org/article-page/musee-de-lecole" >}}**
 - il **{{< extLink "Museo dell’Inquisizione" "https://musee-inquisition-carcassonne.com/" >}}**
@@ -56,15 +56,15 @@ Sei amante delle crociere? A Carcassonne puoi concedertene una alla scoperta del
 
 ##### Una città festaiola
 
-**Carcassonne** non è solo una bellissima città piena di storia ma anche piena di eventi!
+**Carcassonne** non è solo una bellissima città ricca di storia ma tutto l'anno vanta la presenza di moltissimi eventi!
 
-Nei mesi estivi si tiene il **Festival de Carcassonne**, relativo a teatro, musica classica, danza, concerti e opera. 
+Nei mesi estivi si anima grazie al **Festival de Carcassonne**, relativo a teatro, musica classica, danza, concerti e opera. 
 
-Il 14 luglio si tiene il famoso spettacolo dedicato alla presa della **Bastiglia con i fuochi d’artificio**.
+Il 14 luglio è teatro del famoso spettacolo dedicato alla presa della **Bastiglia con i fuochi d’artificio**.
 
 A fine agosto-inizio settembre si tiene la **Feria di Carcassonne**, dedicata a musiche e balli popolari.
 
-Intorno al 10 di settembre si tiene la festa dedicata all’**omonimo gioco di società**, uno dei nostri preferiti.
+Intorno al 10 di settembre viene invasa lungo tutte le stradine da giocatori dell’**omonimo gioco di società**, uno dei nostri preferiti.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689177656/Articoli/carcassonne/R0001122_jjsiqq.jpg" >}}
 
