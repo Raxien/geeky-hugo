@@ -4,7 +4,7 @@ description: Un blog che vuole essere una grande scatola dei ricordi, un nuovo i
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684678075/Copia_di_Aggiungi_un_intestazione_1_xokzp6.jpg
 date: 2023-05-21T10:00:00+01:00
 categories: [ "Curiosità", "Consigli"]
-type: featured
+type: regular
 draft: false
 ---
 
@@ -12,8 +12,8 @@ Nelle ultime settimane abbiamo deciso di **stravolgere un po' il nostro sito web
 Avevamo scritto di getto una decina di articoli mesi fa, poi tutto si era un po' arenato, dando spazio ad altri progetti che avevamo intrapreso nello stesso periodo.
 Da quando siamo partiti ci siamo messi in gioco cercando di reinventarci in tanti modi ed essendo tutto nuovo occorrono non solo energia e voglia, ma anche tempo.
 Ed è proprio prendendo tempo, sedendoci attorno al tavolino del nostro van e sorseggiando un caffè, che abbiamo deciso di **avviare un nuovo progetto**: 
-<h6 style="text-align: center !important">scrivere gli articoli delle nostre avventure!</h6>
-<br>
+
+{{< citazione "scrivere gli articoli delle nostre avventure!" >}}
 
 Avevamo già iniziato a farlo ma non ci avevamo creduto abbastanza. In tante occasioni abbiamo avuto modo di dare consigli a voce e quindi ci siamo detti: perché non condividere la nostra esperienza con tutti?
 
