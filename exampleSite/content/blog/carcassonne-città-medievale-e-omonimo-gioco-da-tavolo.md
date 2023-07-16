@@ -3,7 +3,7 @@ title: 'Carcassonne: alla scoperta della città medievale e dell’omonimo gioco
 description: "Dopo un anno di partite a Carcassonne, il famoso gioco di società, a bordo del nostro camper, siamo arrivati per davvero in città, dove abbiamo comprato un’espansione per mettere un po’ di pepe alle nostre avventure a bordo!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689176381/Articoli/carcassonne/IMG_4607_tqwtm1.jpg
 date: 2023-07-11T17:00:00.000
-categories: ["Europa","Guida","Camper","Curiosita"]
+categories: ["Europa","Guida","Camper","Curiosità"]
 country: Francia
 type: regular
 draft: true
