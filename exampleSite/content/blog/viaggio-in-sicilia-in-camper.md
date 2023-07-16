@@ -6,7 +6,7 @@ date: 2023-07-09T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Italia
 type: regular
-draft: false 
+draft: true 
 ---
 
 Oggi ti portiamo con noi in Sicilia, in quello che è stato il secondo viaggio a bordo del nostro camper ([il primo lungo viaggio invece lo trovi qui](/blog/)).
@@ -15,6 +15,7 @@ Abbiamo letteralmente amato questa regione italiana sia per i luoghi fantastici 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)
 >   - [In breve](#in-breve)
+> - [Itinerario](#itinerario)
 > - [Le nostre mappe](#le-nostre-mappe)
 
 ##### Itinerario
@@ -143,6 +144,50 @@ myWidget.render();
 **{{< underline "Giorno 14" >}}**: Agnone bagni, Messina
 
 {{< youtube pwsXaymLF0k >}}
+
+##### Viva i dolci siciliani!
+Quando si parla di Sicilia non si può non parlare **della sua cucina!** Durante la nostra visita ci siamo focalizzati più sui dolci ed eccoli qua, 5 posti che dovete assolutamente visitare se andate in Sicilia!
+
+###### 1 Granita siciliana 
+Al {{< extLink "bar Kennedy" "https://goo.gl/maps/oupP99bMWv5g5YzBA" >}} ad **Acireale** abbiamo assaggi una delle granite siciliane più buone!
+
+###### 2 Brioche pistacchio
+Se passate da **Siracusa** dovete assolutamente provare la brioche al pistacchio della {{< extLink "Pasticceria Artale" "http://www.pasticceriaartale.it/" >}} per una colazione bella carica! 
+
+###### 3 Lo street food di Catania
+Questo non è un dolce ma un posto veramente meritevole dove ci siamo fermati a pranzare durante la nostra visita a Catanaia. Al mercato è possibile gustare dell'ottimo street food come quello dello {{< extLink "il ristorante Scirocco" "http://sciroccolab.com/" >}}! Noi abbiamo ordinato un fritto di pesce: veramente delizioso! iamo tornati indietro per fare il bis. 
+
+###### 4 Il cannolo caldo di Cannolia!
+Se passate da **Sicli** dove assolutamente provare il **{{< extLink "cannolo caldo numero 1 della Sicilia" "http://www.cannolia.it/" >}}**: delizioso! 
+
+###### 5 Il miglior cannolo della Sicilia
+Nel 2023 ha vinto il premio per il miglior cannolo siciliano e se lo merita tutto! Il cannolo del {{< extLink "Caffè Sicilia" "http://www.caffesicilia.it/" >}} a Noto e veramente il migliore!
+
+<!-- {{< gallery "{\"publicId\": \"Articoli/Sicilia/campisi_a24xkk\"}, {\"publicId\": \"Articoli/Sicilia/cannolo-con-pistacchio_ebpi8f\" }, {\"publicId\": \"Articoli/Sicilia/cannolo-di-cannolia_sqlfnb\"}, {\"publicId\": \"Articoli/Sicilia/cannolo-siciliano_svlfuv\"}, {\"publicId\": \"Articoli/Sicilia/tuppo-siracusa_yhquuq\"}" >}} -->
+
+<div id="my-gallery2" style="max-width:100%;margin:auto">
+</div>
+
+<script>
+     const myWidget2 = cloudinary.galleryWidget({
+    "cloudName": "ilgattodicitturin",
+    "mediaAssets": [//{"publicId": "Articoli/Sicilia/campisi_a24xkk"},
+                    {"publicId": "Articoli/Sicilia/cannolo-con-pistacchio_ebpi8f" }, 
+                    {"publicId": "Articoli/Sicilia/cannolo-di-cannolia_sqlfnb"},
+                    {"publicId": "Articoli/Sicilia/cannolo-siciliano_svlfuv"},
+                    {"publicId": "Articoli/Sicilia/tuppo-siracusa_yhquuq"}],
+    "aspectRatio": "16:9",
+    "navigationButtonProps": {
+        "shape": "rectangle",
+        "color": "#FFFFFF",
+        "iconColor": "#000000"
+    },
+    "container": "#my-gallery2"
+});
+
+myWidget2.render();
+</script>
+
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ipZq4GlS3cmXzPHI37WSbMO2POBhJUY&ehbc=2E312F" >}}
