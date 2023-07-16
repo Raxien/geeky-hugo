@@ -3,7 +3,7 @@ title: 'Senegal in camper: itinerario, consigli e informazioni utili'
 description: "Itinerario di viaggio in camper alla scoperta del Senegal - Informazioni, mappe e spot"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1681839060/Articoli/Copertine/Senegal_in_Van_nbfqyv.jpg
 date: 2023-03-26T17:00:00.000
-categories: ["Africa", "Dogana", "Itinerari", "Camper"]
+categories: ["Africa", "Itinerari", "Camper"]
 country: Senegal
 type: regular
 draft: false
@@ -38,7 +38,7 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1681854068/Articoli/Senegal/Senegal_Museo_SaintLouis_hpmo7k.jpg" >}}
 
-**{{< underline "Giorno 3" >}}**: abbiamo approfittato del tempo necessario per sbrigare un paio di problematiche legate al passavant del veicolo (in merito trovi tutto nel [capitolo dedicato](#Dogane)) per visitare una realtà di Saint Louis che si occupa di salvare dalla strada i bambini talibè (piccoli mandati dalle famiglie più povere a studiare il corano presso figure che dovrebbero occuparsi della loro istruzione, i Marabut, e che invece lucrano sul loro vagabondare, facendoli vivere in condizioni penose senza toilette e cibo sufficiente, malmenandoli senza dar loro assistenza medica in caso di infezioni). Nella struttura della {{< extLink "Maison de la Gare" "https://www.mdgsl.com" "Maison de la Gare">}} ci ha accolti Issa, il direttore, con gioia mista a commozione nel raccontarci quanto sia difficile ogni giorno operare in qualità di associazione che vive principalmente di donazioni. Nel pomeriggio ci siamo spostati allo Zebrabar, famoso camping affacciato sull'oceano.
+**{{< underline "Giorno 3" >}}**: abbiamo approfittato del tempo necessario per sbrigare un paio di problematiche legate al passavant del veicolo (in merito trovi tutto [capitolo dedicato](#Dogane)) per visitare una realtà di Saint Louis che si occupa di salvare dalla strada i bambini talibè (piccoli mandati dalle famiglie più povere a studiare il corano presso figure che dovrebbero occuparsi della loro istruzione, i Marabut, e che invece lucrano sul loro vagabondare, facendoli vivere in condizioni penose senza toilette e cibo sufficiente, malmenandoli senza dar loro assistenza medica in caso di infezioni). Nella struttura della {{< extLink "Maison de la Gare" "https://www.mdgsl.com" "Maison de la Gare">}} ci ha accolti Issa, il direttore, con gioia mista a commozione nel raccontarci quanto sia difficile ogni giorno operare in qualità di associazione che vive principalmente di donazioni. Nel pomeriggio ci siamo spostati allo Zebrabar, famoso camping affacciato sull'oceano.
 
 **{{< underline "Giorno 4" >}}**: dopo il forte impatto del paese, che ci ha fatti più volte domandare perché avessimo deciso di visitarlo, abbiamo approfittato della pace offerta dal luogo immerso fra alberi, un lembo di spiaggia pulito e scimmiette libere di gironzolare al mattino. Nel tardo pomeriggio ci siamo spostati e abbiamo dormito presso un benzinaio a metà strada.
 
