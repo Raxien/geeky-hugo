@@ -49,33 +49,13 @@ Entrambe hanno i loro **pro** e soprattutto **contro** e la scelta dipende essen
 3. che mezzo possiedi
 
 ###### Rosso
-> <h6 class="article__pros-cons article__pros-cons__pros">PRO</h6>
-> <ul class="ul_pro">
->   <li>Facilmente raggiungibile con qualsiasi mezzo</li>
->   <li>Raggiungibile in qualsiasi stagione</li>
-> </ul>
-
-> <h6 class="article__pros-cons article__pros-cons__cons">CONTRO</h6>
-> <ul class="ul_cons">
->   <li>Estremamente corrotta</li>
->   <li>Costi esorbitanti per entrare (e uscire)</li>
-> </ul>
+{{< procontro pro1="Facilmente raggiungibile con qualsiasi mezzo" pro2="Raggiungibile in qualsiasi stagione" contro1="Estremamente corrotta" contro2="Costi esorbitanti per entrare (e uscire)" >}}
 
 La strada è molto facile da percorrere, tutta asfaltata e facilmente raggiungibile a bordi di qualsiasi mezzo.
 Il vero problema è l'estrema corruzione che si riflette in costi esorbitanti se si vuole passare da questa dogana. Quando eravamo al famoso [Zebrabar](/blog/guida-senegal-in-camper-itinerari/), abbiamo sentito di persone che hanno sborsato addirittura 1000 euro per entrare (e immaginiamo lo stesso per uscire dal Senegal)!
 
 ###### Diama
-> <h6 class="article__pros-cons article__pros-cons__pros">PRO</h6>
-> <ul class="ul_pro">
->   <li>Economica</li>
->   <li>Poco frequentata</li>
-> </ul>
-
-> <h6 class="article__pros-cons article__pros-cons__cons">CONTRO</h6>
-> <ul class="ul_cons">
->   <li>Meno facile da raggiungere</li>
->   <li>Durante la stagione delle piogge raggiungibile solo con un 4x4</li>
-> </ul>
+{{< procontro pro1="Economica" pro2="Poco frequentata" contro1="Meno facile da raggiungere" contro2="Durante la stagione delle piogge raggiungibile solo con un 4x4" >}}
 
 L'unico problema di questa dogana è la strada in quanto dall'ultima "città" della Mauritania al confine ci sono 48 chilometri di strada sterrata **in pessime condizioni** il cui tempo di percorrenza è di circa 2 ore e mezza. Questa strada diventa **impraticabile per i mezzi non 4x4** durante la stagione delle piogge. Ha di positivo che si trova all'interno del **parco del Dwailing** e permette di avvistare numerosi animali selvatici, soprattutto facoceri e uccelli di tutti i colori che migrano verso il vicino [parco del Djoudj](/blog/informazioni_viaggio_senegal/).
 
@@ -85,7 +65,8 @@ I costi sono relativamente più bassi rispetto a Rosso, al netto di tutte le tas
 
 ###### Quindi quale scegliere? 
 Il vincitore è, rullo di tamburi 🥁: 
-<h6 style="text-align: center !important">Diama</h6>
+
+{{< citazione "Diama" >}}
 
 Questa è la scelta che abbiamo fatto noi e che **consigliamo caldamente a tutti coloro che vogliono andare in Senegal**. Ovviamente valuta bene quando programmare la visita di questo fantastico paese se non possiedi un mezzo 4x4.
 
