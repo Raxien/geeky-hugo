@@ -4,7 +4,7 @@ description: Scopri le 10 cose essenziali da avere per un viaggio indimenticabil
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1200/f_auto,q_auto:good/v1689522826/Articoli/Viaggio/gatto-guinzaglio_sl2l8z.jpg
 date: 2023-07-18T7:00:00+01:00
 categories: [ "Animali", "Consigli"]
-type: regular
+type: regular   
 draft: false
 ---
 
