@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_
 date: 2023-07-11T17:00:00.000
 categories: ["Europa", "Itinerari", "Camper"]
 country: Belgio
-type: featured
+type: regular
 draft: false
 ---
 
