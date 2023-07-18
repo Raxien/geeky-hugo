@@ -13,7 +13,7 @@ draft: true
 
 Il primo consiglio che ci viene da darti è quello di fare molta attenzione, perché se non hai il bollino verde per la “ZTL” locale non puoi accedere nemmeno al primo anello della tangenziale senza rischiare di prendere una multa. 
 Dal 2025 Madrid sarà inavvicinabile con le 4 ruote.
-In base alla nostra esperienza ti consigliamo di parcheggiare qui (Spot madrid), da dove puoi raggiungere il centro città in 40 min a piedi o con la metro. 
+<!-- In base alla nostra esperienza ti consigliamo di parcheggiare qui (Spot madrid) to do , da dove puoi raggiungere il centro città in 40 min a piedi o con la metro.  -->
 
 Purtroppo Madrid, fra tutte le capitali europee, è quella che finora ci ha emozionati di meno. 
 Ci aspettavamo uno stile più autentico, invece ad ogni angolo ci sembrava di averla già visitata, come se presentasse fotocopie di angoli di qualche altra città. Chissà se anche tu hai avuto quest’impressione visitandola!
@@ -74,6 +74,6 @@ Se vuoi vivere le nostre avventure e disavventure in città trovi tutto in quest
 
 Ti aspettiamo nei commenti per sapere se hai visitato Madrid e le tue impressioni!
 
-
+{{< blogFooter "SP_a" "1" "0" >}}
 
 
