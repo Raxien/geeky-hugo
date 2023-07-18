@@ -1,7 +1,7 @@
 ---
 title: 'Test: spese'
 description: "Alla scoperta della Polonia in camper. Un viaggio on the road fantastico!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1682607681/Articoli/Polonia/monti_tatra_van_pcgmet.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1682607681/Articoli/Polonia/monti_tatra_van_pcgmet.jpg
 date: 2023-06-02T17:00:00.000
 categories: ["test"]
 country: Test

@@ -1,7 +1,7 @@
 ---
 title: "Slovacchia in camper con cane e gatto: tour di 5 giorni"
 description: "Luoghi inaspettati in un paese che merita una sosta in più"
-image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1680475409/Articoli/chickmani_slovacchia_paajn5.jpg"
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1680475409/Articoli/chickmani_slovacchia_paajn5.jpg"
 date: 2023-02-01T10:00:00Z
 categories: ["Europa", "Itinerari", "Animali", "Camper"]
 country: Slovacchia
@@ -42,7 +42,7 @@ Abbiamo trascorso la notte in un’altra zona di montagna, vicino a un lago, in 
 Da qui ci siamo diretti per la notte a Zakopane, prima cittadina polacca non troppo distante.
 Vuoi scoprire le nostre avventure in Polonia? [Qui](/blog/viaggio-polonia-in-camper-itinerari/) trovi l'articolo in merito!
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684676270/IMG_5553_pujghy.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1684676270/IMG_5553_pujghy.jpg" >}}
 
 ###### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera, in parcheggi in cui non erano presenti divieti o in aree camper gratuite. 
@@ -55,7 +55,7 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera, in parcheggi in cui 
 
 **{{< underline "Giorno 5" >}}**: Liptovska Mara
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684676272/IMG_5441_apebh6.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1684676272/IMG_5441_apebh6.jpg" >}}
 
 ##### Strade 
 In tutto il paese abbiamo percorso strade statali ma anche strade in zone di campagna e montagna senza avere alcun problema. 
