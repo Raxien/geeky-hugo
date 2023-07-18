@@ -1,0 +1,33 @@
+{{ $pro1:= (.Get "pro1") }}
+{{ $pro2:= (.Get "pro2") }}
+{{ $pro3:= (.Get "pro3") }}
+
+{{ $contro1:= (.Get "contro1") }}
+{{ $contro2:= (.Get "contro2") }}
+{{ $contro3:= (.Get "contro3") }}
+
+<blockquote>
+<h6 class="article__pros-cons article__pros-cons__pros">PRO</h6>
+<ul class="ul_pro">
+  <li>{{ $pro1 }}</li>
+{{ if .Get `pro2` }}
+  <li>{{ $pro2 }}</li>
+{{end}}
+{{ if .Get `pro3` }}
+  <li>{{ $pro3 }}</li>
+{{end}}
+</ul>
+</blockquote>
+
+<blockquote>
+<h6 class="article__pros-cons article__pros-cons__cons">CONTRO</h6>
+<ul class="ul_cons">
+  <li>{{ $contro1 }}</li>
+{{ if .Get `contro2` }}
+  <li>{{ $contro2 }}</li>
+{{end}}
+{{ if .Get `contro3` }}
+  <li>{{ $contro3 }}</li>
+{{end}}
+</ul>
+</blockquote>
