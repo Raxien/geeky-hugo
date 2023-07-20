@@ -1,6 +1,6 @@
 ---
-title: 'Viaggio con cane e gatto: le 10 cose essenziali da portare con te!'
-description: Scopri le 10 cose essenziali da avere per un viaggio indimenticabile con il tuo animale! Leggi il nostro articolo per pianificare al meglio la tua avventura.
+title: '10 utensili indispensabili nella cucina del camper'
+description: "Scopri i 10 utensili che non possono mancare nel mio camper, con i quali cucino ogni giorno da più di un anno!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1657024162/Articoli/10_cose_per_un_viaggio_ontheroad_udittt.jpg
 date: 2022-07-05T10:00:00+01:00
 categories: [ "Animali", "Consigli"]
@@ -8,62 +8,73 @@ type: regular
 draft: true
 ---
 
-Viaggiamo da un anno on the road con il nostro cane e il nostro gatto ed eccoti una comoda lista di cosa dovresti assolutamente portare con te per rendere il tuo viaggio indimenticabile insieme al tuo fido compagno a quattro zampe 🐶🐱!
+Da quando il van è diventato la nostra casa abbiamo dovuto imparare a vivere in spazi ridimensionati e a capire cosa fosse davvero fondamentale avere a bordo.
 
-##### 1. Acqua
-Che il tuo animale sia o meno abituato a bere dalle fontane, non è sempre detto che si possano trovare, che siano funzionanti e che l'acqua sia potabile.
-Ecco perché ti consigliamo di portare con te {{< extLink "una borraccia" "https://amzn.to/3NQxosJ" >}} come questa che mantiene anche l'acqua fresca!
+Così, abbandonate le mie paure esistenziali dei primi giorni in cui temevo che non saremmo sopravvissuti senza forno, ho deciso di raccontarti cosa uso per preparare ogni giorno colazione, pranzo e cena. 
 
-##### 2. Ciotola
-Se pensi, come facciamo noi, di usare anche tu la stessa borraccia, ti consigliamo di avere {{< extLink "una ciotola pieghevole" "https://amzn.to/42HQ1Da" >}} per poter dare da bere al tuo fido compagno a quattro zampe in ogni dove! Con il pratico moschettone la puoi appendere al tuo zainetto e non ti darà alcun fastidio. 
+**{{< underline "Preparare ogni giorno colazione, pranzo e cena?" >}}** 
 
-##### 3. Cibo
-In qualsiasi modo scegli di viaggiare una scorta di cibo per il tuo animale è fondamentale.
-Noi consigliamo {{< extLink "questo umido per il gatto" "https://amzn.to/3ptyyjr">}} e {{< extLink "questo secco per il cane" "https://amzn.to/42DJE3Y" >}}. Ricordati di calcolare bene le quantità necessarie in modo da non trovarti senza a metà del viaggio e impazzire nella ricerca!
+Hai capito bene! Questa casa non è un albergo, direbbe qualcuno.
+Questa casa è un van con cucina, mangiare fuori ha un costo che al momento ruberebbe le finanze dedicate al viaggio e quindi, anche senza grembiuli, mettiamoci ai fornelli!
 
-##### 4. Cinture di Sicurezza 
-<!-- Se come noi viaggi on the road, in auto o camper o van, ti consigliamo di assicurare con pratiche cinture di sicurezza il tuo animale, in modo da evitare spiacevoli incidenti. link -->
-In alternativa puoi pensare di usare i pratici kennel e trasportini.
+##### Less is more: la regola vincente
+
+Se sei mai salito su di un camper/van o se hai mai provato la cucina da campeggio o se hai visto come ci si muove in un semplice monolocale e soprattutto se ti accontenti di un piatto semplice ma cucinato con amore per nutrirti al meglio allora saprai che non servono chissà quali ingredienti o quali utensili da chef stellato. 
 
 
-##### 5. Cuccia
-Se il tuo animale è abituato a riposare e dormire nella sua cuccia e se hai lo spazio disponibile per portarla con voi potrebbe essere un modo per rendere il suo viaggio decisamente più confortevole. 
-<!-- Noi usiamo dei cuscini come questi link -->
+Ma dato che non si può impilare tutto a mo’ di matrioska, come possiamo organizzare al meglio tutto il necessario in un cassetto e due ante? 
 
+**{{< underline "Ecco qui i 10 utensili che non possono mancare nella mia cucina portatile" >}}** 
 
-##### 6. Guinzaglio
-Noi usiamo sempre il guinzaglio per passeggiare con i nostri animali, per evitare spiacevoli disavventure con altri animali o con altre persone (ci è successo più volte che animali randagi o liberi attaccassero il nostro cane!).
-<!-- Per il nostro cane usiamo questo tutti i giorni e questo per le avventure in acqua, mentre per Sakè un modello come questo. -->
+##### 1. Set di pentole e padelle:
+4 in tutto. 
+La classica pentola per far bollire l’acqua della pasta e che a volte accoglie più di un ingrediente in cottura per far prima e il pentolino per il latte, il tè o la tisana.
+La padella per la frittata o per cuocere le verdure e il padellino per scaldare gli avanzi.
 
+##### 2. Leccapentole: 
+un must have per evitare di sprecare cucchiaiate di sugo in padella. 
 
-##### 7. Museruola
-In alcuni paesi la museruola è d'obbligo attaccata al guinzaglio, in altri invece da indossare, soprattutto per alcune razze particolari. 
+##### 3.  Contenitori impilabili:
+ne abbiamo una serie in bioplastica con annessi coperchi. Tengono poco spazio e le misure si addicono a ogni necessità.
 
+##### 4. Tazzine in ceramica: 
+il caffè a bordo è una cosa sacra. Va bevuto nella tazzina giusta. 
+Che una delle due sia caduta a terra e le si sia rotto il manico poco importa. 
 
-##### 8. Lettiera
-<!-- Se come noi viaggi con un gatto ti consigliamo di avere una lettiera a bordo per le emergenze! Sakè ha imparato a fare i suoi bisogni anche nella natura, ma la sua lettiera è incastrata sotto al tavolo della dinette del van, sempre a disposizione per lui e senza dare alcun fastidio a noi.  -->
+##### 5. Moka: 
+come dicevamo il caffè è sacro e va preparato nella moka, come ci hanno insegnato le nostre nonne.
 
+##### 6. Pentola a pressione: 
+quella del servizio di matrimonio dei miei, signor sì. 
+Non condividiamo con precisione la data di compleanno, però troppi anni di gioie mancate quelli sì. Così ho deciso di averla a bordo e sfruttarla in una miriade di preparazioni: dal riso alla purea ai legumi ai sughi alle verdure.. insomma ci cuocio di tutto, lei riduce i tempi di cottura e di consumo di gas e noi siamo più felici perché le pance si riempiono prima.
 
-##### 9. Pettorina 
-Perché preferiamo la pettorina al collare?
-Per il cane per comodità e sicurezza, per il gatto perché è più difficile da sfilare autonomamente e c'è meno rischio che rimanga impigliato in rami o quant'altro.
-<!-- Per i nostri animali usiamo queste -->
+##### 7. Set di posate in acciaio: 
+saranno anche comode le posate di plastica ma ben venga un set di 4 forchette, coltelli, cucchiai e cucchiaini recuperati da casa. Si lavano in un baleno e non si rompono mai (spero..!)
 
+##### 8. Piatti e bicchieri in bioplastica: 
+non volevamo piatti in ceramica a bordo, ma nemmeno i classici piatti di plastica o carta usa e getta. Questo materiale è resistente, si riesce a lavare bene e non trattiene odori né colori. Insomma, il giusto compromesso per mangiar composti a tavola. Ammetto che abbiamo anche due ciotole dello stesso materiale, perfette per le minestre. Lo stesso vale per i bicchieri e le tazze per la colazione. 
 
-##### 10. Documenti
-Ebbene sì, per viaggiare con il proprio animale servono alcuni documenti importanti, anche in Italia. 
-Vuoi scoprire quali? 
-Ne abbiamo parlato in questo articolo!
+##### 9. Coperchi in silicone: 
+ne abbiamo due, di diametro piccolo e medio. Sigillano bene padelle e pentole, permettono di isolare in cottura, tengono poco spazio.
 
+##### 10. Contenitori per olio e sale: 
+ebbene sì, da quando usiamo lo spruzzino per l’olio riusciamo a condire meglio e a evitare che si rovesci mezza bottiglia nel ripiano del van, tant’è che il suo posto è in alto insieme al piccolo contenitore bucherellato del sale. Less is more e colesterolo e ipertensione ringraziano. 
 
-##### Consigli
-La cosa più importante di tutte è forse la voglia di divertirsi e vivere bellissime avventure insieme!
-Ricordati sempre di rispettare i tempi del tuo animale e di prestare attenzione al clima.
-Talvolta abbiamo visitato posti che sembravano pattumiere a cielo aperto, se ti è possibile usa i sacchettini per le deiezioni e buttali nelle pattumiere comunali. 
+##### Extra: la bilancia. 
+Finché non si è rotta avrei messo la bilancia al primo posto. Mi aiutava a porzionare ogni cosa. Eravamo nel sud del Marocco quando ha smesso di funzionare. Non c’era pila che facesse al caso nostro, né negozio in cui siamo riusciti a trovarne una nuova. Morale della favola? Siamo tornati a pesare “a stim”, con il piatto, il bicchiere, il pugno.
 
-Ti lasciamo il {{< extLink "link al reel" "https://www.instagram.com/reel/CfoKWj7Da3m/?utm_source=ig_web_button_share_sheet" >}} sugli oggetti che non possono mancare per viaggiare con animali. 
+Presto forse ci sarà una new entry in cucina, ma finché non la vedo non ci credo! 
+
+Che te ne pare? 
+Manca qualcosa di fondamentale?
+
+Se vuoi qualche consiglio che usiamo sul come fare la spesa a bordo e su come evitare sprechi in cucina trovi tutto in questo video! 
 
 Hai qualche altro consiglio da darci?   
 Ti aspettiamo nei commenti!
 
 {{< blogFooter "" "1" "0" >}}
+
+
+{{< extLink "una borraccia" "https://amzn.to/3NQxosJ" >}} come questa che mantiene anche l'acqua fresca!
+<!-- to do mettere link video, mettere link a pentola a pressione e altro che vogliamo  -->
