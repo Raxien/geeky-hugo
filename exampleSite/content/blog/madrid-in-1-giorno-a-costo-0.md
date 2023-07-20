@@ -1,12 +1,12 @@
 ---
-title: 'Madrid gratis: 10 tappe per 2 giorni in camper'
+title: 'Madrid in 1 giorno a costo 0'
 description: Vuoi visitare Madrid in poco tempo e senza spendere un capitale? Scopri con noi il tour perfetto in 10 tappe. 
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689672144/Articoli/empanada/madrid/IMG_3501_p1al70.jpg
 date: 2023-07-17T10:00:00+01:00
 categories: [ "Europa", "Guida", "Camper"]
 country: Spagna
 type: featured
-draft: false
+draft: true
 ---
 
 **Stai pensando di visitare Madrid in camper?** Il primo consiglio che ci viene da darti è quello di fare molta attenzione, perché se non hai {{< extLink "il bollino verde per la ZTL" "https://it.urbanaccessregulations.eu/countries-mainmenu-147/spain/madrid-lez" >}} locale non puoi accedere nemmeno al primo anello della tangenziale senza rischiare di prendere una multa. **Dal 2025 Madrid sarà inavvicinabile con le 4 ruote.**
@@ -87,5 +87,3 @@ Se vuoi vivere le nostre avventure e disavventure in città trovi tutto in quest
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1W_Gy-VmTWbaJ09BShH8lgPO1EFmp6YE&ehbc=2E312F" >}}
 
 {{< blogFooter "SP_a" "1" "0" >}}
-
-
