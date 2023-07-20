@@ -1,7 +1,7 @@
 ---
-title: '10 utensili indispensabili nella cucina del camper'
-description: "Scopri i 10 utensili che non possono mancare nel mio camper, con i quali cucino ogni giorno da più di un anno!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1657024162/Articoli/10_cose_per_un_viaggio_ontheroad_udittt.jpg
+title: 'Viaggio con cane e gatto: le 10 cose essenziali da portare con te!'
+description: Scopri le 10 cose essenziali da avere per un viaggio indimenticabile con il tuo animale! Leggi il nostro articolo per pianificare al meglio la tua avventura.
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1657024162/Articoli/10_cose_per_un_viaggio_ontheroad_udittt.jpg
 date: 2022-07-05T10:00:00+01:00
 categories: [ "Animali", "Consigli"]
 type: regular
