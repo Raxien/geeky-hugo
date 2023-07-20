@@ -10,8 +10,6 @@ draft: true
 
 ---
 
-
-
 Quando si viaggia in Marocco si pensa subito a Tajine e Cous cous, ma se come noi si è amanti della pizza e soprattutto si rimane in un paese estero per 4 mesi.. 
 ad un certo punto la ricerca si fa accurata per addentare _una fetta degna di ustione sul palato_.
 
