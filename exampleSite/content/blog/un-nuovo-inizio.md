@@ -62,5 +62,4 @@ Se hai piacere di iscriverti puoi farlo comodamente qui sotto 👇
 ##### Varie
 Si tratta di cose da nerd, per lo più. Migliorie di design del sito che però speriamo aiutino a rendere questo contenitore virtuale lo spazio migliore per i nostri appunti di viaggio. 
 
-
 > _Stiamo creando le fondamenta di una grande scatola dei ricordi, un nuovo inizio per un'avventura che speriamo non abbia fine._
