@@ -6,7 +6,7 @@ date: 2023-07-17T10:00:00+01:00
 categories: [ "Europa", "Guida", "Camper"]
 country: Spagna
 type: featured
-draft: true 
+draft: false
 ---
 
 **Stai pensando di visitare Madrid in camper?** Il primo consiglio che ci viene da darti è quello di fare molta attenzione, perché se non hai {{< extLink "il bollino verde per la ZTL" "https://it.urbanaccessregulations.eu/countries-mainmenu-147/spain/madrid-lez" >}} locale non puoi accedere nemmeno al primo anello della tangenziale senza rischiare di prendere una multa. **Dal 2025 Madrid sarà inavvicinabile con le 4 ruote.**
