@@ -6,7 +6,7 @@ date: 2023-07-17T10:00:00+01:00
 categories: [ "Europa", "Guida", "Camper"]
 country: Spagna
 type: featured
-draft: true 
+draft: false
 ---
 
 **Stai pensando di visitare Madrid in camper?**
