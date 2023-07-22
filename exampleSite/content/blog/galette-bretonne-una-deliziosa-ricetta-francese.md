@@ -12,7 +12,7 @@ draft: true
 Quando la prima volta abbiamo assaggiato la tipica Galette bretonne eravamo proprio in Bretagna e ce ne siamo innamorati. 
 
 Simile a una crêpe, questo delizioso impasto prevede però l’utilizzo di sola farina di grano saraceno e ingredienti salati come farcia. 
-Tranquilli golosoni, in giro trovare anche qualche versione dolce, ma se proprio dobbiamo parlare di cioccolato preferiamo farlo citando [i pain au chocolat](/blog/pain-au-chocolat-o-chocolatine-la-miglior-colazione.md).
+Tranquilli golosoni, in giro trovare anche qualche versione dolce, ma se proprio dobbiamo parlare di cioccolato preferiamo farlo citando [i pain au chocolat](/blog/pain-au-chocolat-o-chocolatine-la-miglior-colazione).
 
 Essendo un piatto decisamente semplice, la Galette Bretone è stata presa in prestito nelle cucine di tutto il paese e non solo e viene servita in un’infinita varietà di modi grazie agli abbinamenti più fantasiosi. 
 

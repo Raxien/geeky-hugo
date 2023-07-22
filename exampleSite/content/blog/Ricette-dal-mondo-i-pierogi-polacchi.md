@@ -10,7 +10,7 @@ draft: true
 
 ---
 
-Girovagando un mese in [Polonia](/blog/viaggio-polonia-in-camper-itinerari.md) a bordo del nostro camper non abbiamo resistito dall’assaggiare alcuni piatti tipici della nazione, grazie anche al fatto che mangiare fuori in questo paese è molto più economico che in altri luoghi. 
+Girovagando un mese in [Polonia](/blog/viaggio-polonia-in-camper-itinerari) a bordo del nostro camper non abbiamo resistito dall’assaggiare alcuni piatti tipici della nazione, grazie anche al fatto che mangiare fuori in questo paese è molto più economico che in altri luoghi. 
 
 Un piatto in particolare ha attirato la nostra attenzione, i *pierogi*, che abbiamo assaggiato anche a casa di un’amica conosciuta on the road.
 

@@ -8,7 +8,7 @@ type: featured
 draft: true 
 ---
 
-Nel nostro viaggio in camper in [Portogallo](/blog/viaggio-portogallo-in-camper-itinerari.md) avevamo deciso di non tralasciare le "città grandi", ecco che quindi ci siamo avventurati non solo a Lisbona, ma anche a Porto. 
+Nel nostro viaggio in camper in [Portogallo](/blog/viaggio-portogallo-in-camper-itinerari) avevamo deciso di non tralasciare le "città grandi", ecco che quindi ci siamo avventurati non solo a Lisbona, ma anche a Porto. 
 Purtroppo il clima non è stato un fedele compagno di viaggio e passeggiare per la città sotto al diluvio rischiando di inciampare sui ciottoli scivolosi ci ha resi un po’ tristi, ma ci ha permesso di comprendere appieno la malinconia e il fascino del *fado portoghese*. 
 Bando alle ciance, parcheggiamo e ripercorriamo insieme le tappe per visitare Porto in un giorno.
 
