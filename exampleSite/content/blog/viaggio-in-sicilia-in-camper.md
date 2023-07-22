@@ -1,7 +1,7 @@
 ---
 title: 'Sicilia in camper: il nostro itinerario e qualche consiglio culinario'
 description: "In questo articolo ti porteremo alla scoperta di spiagge, siti archeologici, promontori, città e località turistiche della Sicilia on the road!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1688991540/Articoli/Sicilia/sicilia-vista-mare_r1glpo.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1688991540/Articoli/Sicilia/sicilia-vista-mare_r1glpo.jpg
 date: 2023-07-09T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Italia

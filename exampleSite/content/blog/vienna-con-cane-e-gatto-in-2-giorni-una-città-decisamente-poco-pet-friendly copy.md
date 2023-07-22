@@ -1,7 +1,7 @@
 ---
 title: 'Visitare Vienna con cane e gatto in 2 giorni: un centro città decisamente poco pet friendly' 
 description: "La capitale austriaca era nei nostri piani da anni e una visita era d'obbligo nel magico tour Vandipety."
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1688993522/vienna-cane-gatto_oztcdn.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1688993522/vienna-cane-gatto_oztcdn.jpg
 date: 2022-07-26T17:01:00.000
 categories: ["Europa", "Guida", "Animali"]
 country: Austria
