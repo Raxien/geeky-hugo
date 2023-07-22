@@ -14,7 +14,7 @@
           </div>
           <!-- small featured post -->
           <div class="col-lg-6 pe-4 blog-card-list scroll-list">
-            {{ range after 1  (where site.RegularPages "Type" "featured") }}
+            {{ range first 4 (after 1 (where site.RegularPages "Type" "featured")) }}
             <div class="card rounded-0">
               <div class="d-sm-flex">
                 <!-- image path -->
