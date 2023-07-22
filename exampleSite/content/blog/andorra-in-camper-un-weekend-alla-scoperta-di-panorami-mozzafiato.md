@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690038414/Art
 date: 2023-07-21T10:00:00+01:00
 categories: [ "Camper", "Andorra", "Guida","Itinerari"]
 type: featured
-draft: false
+draft: true
 ---
 
 Avevamo deciso di attraversare il Principato di Andorra in camper per due motivi: trovare un po’ di refrigerio in montagna e aggiungere una bandierina (**la n.17!**) ai paesi visitati insieme a Sakè, il nostro gattino giramondo, e ovviamente a Olimpia, la nostra rottweiler dal musetto dolce e dal carattere deciso. 
