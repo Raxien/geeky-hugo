@@ -8,7 +8,7 @@ type: featured
 draft: true 
 ---
 
-In confronto alle altre città del [Marocco](/blog/viaggio-marocco-in-camper-itinerari-e-informazioni.md)Rabat spicca per la modernità e l’eleganza, che si fanno ancor più sfrontate se come noi si arriva in città in camper, attraversando paesi devastati dalla povertà e spiagge ridotte a discariche a cielo aperto. 
+In confronto alle altre città del [Marocco](/blog/viaggio-marocco-in-camper-itinerari-e-informazioni)Rabat spicca per la modernità e l’eleganza, che si fanno ancor più sfrontate se come noi si arriva in città in camper, attraversando paesi devastati dalla povertà e spiagge ridotte a discariche a cielo aperto. 
 
 A Rabat si trovano il Palazzo Reale, le sedi amministrative, trasporti pubblici e tanta ricchezza culturale e architettonica oltre a parecchi dettagli del passato, ma essendo una città non troppo estesa puoi concentrare la tua visita in una mezza giornata o in una giornata intera e godere della sua atmosfera decisamente tranquilla.
 

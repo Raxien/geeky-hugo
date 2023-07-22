@@ -9,7 +9,7 @@ draft: false
 ---
 
 Avevamo deciso di attraversare il Principato di Andorra in camper per due motivi: trovare un po’ di refrigerio in montagna e aggiungere una bandierina (**la n.17!**) ai paesi visitati insieme a Sakè, il nostro gattino giramondo, e ovviamente a Olimpia, la nostra rottweiler dal musetto dolce e dal carattere deciso. 
-Quindi, dopo aver vissuto un brutto quarto d’ora per una puntura di vespa, abbiamo salutato [Madrid](/blog/madrid-in-1-giorno-a-costo-0.md) e la Spagna con un salto in ospedale per poi dirigerci dritti al confine.
+Quindi, dopo aver vissuto un brutto quarto d’ora per una puntura di vespa, abbiamo salutato [Madrid](/blog/madrid-in-1-giorno-a-costo-0) e la Spagna con un salto in ospedale per poi dirigerci dritti al confine.
 
 A proposito, a posteriori quell’episodio fa davvero ridere, se vuoi vederlo abbiamo immortalato tutto {{< extLink "in questo video" "https://youtu.be/VJD3v8a7K7M" >}}. 
 

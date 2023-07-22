@@ -9,7 +9,7 @@ draft: true
 ---
 
 La **Castiglia-La Mancia** è una splendida regione centrale della Spagna, terra di avventure narrate da Cervantes, in cui il Don Chisciotte si destreggia fra mulini a vento.
-Noi abbiamo visitato queste zone arrivando dall'[Andalusia](/blog/viaggio-andalusia-in-camper-itinerari.md) per poi raggiungere Madrid.
+Noi abbiamo visitato queste zone arrivando dall'[Andalusia](/blog/viaggio-andalusia-in-camper-itinerari) per poi raggiungere Madrid.
 
 Il termine "La Mancia" sembra derivare dall’arabo "al Mansha" che significa "il deserto", che qui indicava non tanto una distesa di sabbia ma lo spopolamento di un’area compromessa anche da un clima decisamente più arido rispetto ad altre regioni spagnole.
 

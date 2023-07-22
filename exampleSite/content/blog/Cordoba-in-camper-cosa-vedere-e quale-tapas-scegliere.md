@@ -11,7 +11,7 @@ draft: true
 
 **Cordoba** merita veramente una visita: è una città pacata, con una bella atmosfera, pulita e addobbata con fiori in ogni dove. Ne siamo davvero rimasti affascinati! 
 
-La città è stata capitale dell’Impero Musulmano in Spagna e oltre a Siviglia e Granada è una delle tre città più visitate dell’[Andalusia](/blog/viaggio-andalusia-in-camper-itinerari.md).
+La città è stata capitale dell’Impero Musulmano in Spagna e oltre a Siviglia e Granada è una delle tre città più visitate dell’[Andalusia](/blog/viaggio-andalusia-in-camper-itinerari).
 
 <!-- Noi l’abbiamo raggiunta facilmente a bordo del nostro van e abbiamo parcheggiato vicino allo zoo (trovi qui le coordinate), to do da dove abbiamo raggiunto il centro città in 20 minuti a piedi.  -->
 
