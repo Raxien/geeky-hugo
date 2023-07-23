@@ -58,7 +58,7 @@ Next stop: **Ragusa**. {{< extLink "Abbiamo parcheggiato" "https://goo.gl/maps/J
 
 **{{< underline "Giorno 11" >}}**: ci siamo diretti a **Noto**, famosa per **la sua infiorata**. Purtroppo non era il periodo giusto ma la città merita anche non in festa. {{< extLink "Parcheggiando quasi in centro" "https://goo.gl/maps/31nCuHK5QMuh8dfk7" >}} e prima di vedere la città ci siamo diretti con decisione in un famoso bar cittadino, {{< extLink "vuoi non provare un altro cannolo?" "http://www.caffesicilia.it/" >}}.
 
-Soddisfatti e felici abbiamo visitato la città partendo dal {{< extLink "Palazzo Nicolaci dei Principi di Villadorata" "http://www.palazzonicolaci.it/" >}}, passando poi per la Chiesa di **San Domenico** e la **Cattedrale di San Nicolò**. Noi non abbiamo visitato il **Palazzo Ducezio** perchè dovevamo tornare a bordo dai nostri animali, ma se hai un po' di tempo a disposizione potresti prendere in considerazione di visitarlo.
+Soddisfatti e felici abbiamo visitato la città partendo dal {{< extLink "Palazzo Nicolaci dei Principi di Villadorata" "http://www.palazzonicolaci.it/" >}}, passando poi per la Chiesa di **San Domenico** e la **Cattedrale di San Nicolò**. Noi non abbiamo visitato il **Palazzo Ducezio** perché dovevamo tornare a bordo dai nostri animali, ma se hai un po' di tempo a disposizione potresti prendere in considerazione di visitarlo.
 
 Lasciata la città ci siamo diretti a **Fontane bianche**, presso uno spot in libera vista mare.
 
