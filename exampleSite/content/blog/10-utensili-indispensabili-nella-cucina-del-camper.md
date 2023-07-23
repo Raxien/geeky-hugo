@@ -24,12 +24,11 @@ Ma dato che non si può impilare tutto a mo’ di matrioska, come possiamo organ
 ##### Ecco qui 10 utensili che non possono mancare nella mia cucina portatile
 
 ###### 1. Set di pentole e padelle
-Un set composto da 1 padella e 3 pentole in tutto:
+Un set composto da 1 padella e 2 pentole:
 
-1. la classica pentola per far bollire l’acqua della pasta e che a volte accoglie più di un ingrediente in cottura per far prima
+1. la classica pentola per far bollire l’acqua della pasta e che a volte accoglie più di un ingrediente in cottura per far prima 
 2. il pentolino per il latte, il tè o la tisana.
 3. la padella per la frittata o per cuocere le verdure 
-4. il padellino per scaldare gli avanzi
 
 ###### 2. Leccapentole
 Un must have per evitare di sprecare cucchiaiate di sugo in padella!
@@ -63,7 +62,7 @@ Ne abbiamo due, di diametro piccolo e medio. Sigillano bene padelle e pentole, p
 Ebbene sì, da quando usiamo lo spruzzino per l’olio riusciamo a condire meglio e a evitare che si rovesci mezza bottiglia nel ripiano del van, tant’è che il suo posto è in alto insieme al piccolo contenitore bucherellato del sale. **Less is more** e colesterolo e ipertensione ringraziano. 
 
 ###### Extra: la bilancia
-Finché non si è rotta avrei messo la bilancia al primo posto. Mi aiutava a porzionare ogni cosa. Eravamo nel sud del Marocco quando ha smesso di funzionare. Non c’era pila che facesse al caso nostro, né negozio in cui siamo riusciti a trovarne una nuova. Morale della favola? Siamo tornati a pesare “a stim”, a stima, con il piatto, il bicchiere, il pugno.
+Finché non si è rotta avrei messo la bilancia al primo posto dato che mi aiutava a porzionare ogni cosa. Eravamo nel sud del Marocco quando ha smesso di funzionare. Non c’era pila che facesse al caso nostro, né negozio in cui siamo riusciti a trovarne una nuova. Morale della favola? Siamo tornati a pesare “a stim”, a stima, con il piatto, il bicchiere, il pugno.
 
 Presto forse ci sarà una new entry in cucina, ma finché **non la vedo non ci credo!**
 
