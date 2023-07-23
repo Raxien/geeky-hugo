@@ -10,11 +10,11 @@ draft: true
 
 L’Ariège è un dipartimento della Regione Occitania, situato nel cuore dei Pirenei a sud della Francia.
 
-Abbiamo scoperto questa regione curva dopo curva, arrivando da [Andorra](/blog/andorra-in-camper-un-weekend-alla-scoperta-di-panorami-mozzafiato)e dirigendoci verso Carcassonne, innamorandoci immediatamente dei suoi paesaggi costellati di montagne, fiumi, cascate, laghi, foreste, colline e pianure.
+Abbiamo scoperto questa regione curva dopo curva, arrivando da [Andorra](/blog/andorra-in-camper-un-weekend-alla-scoperta-di-panorami-mozzafiato) e dirigendoci verso Carcassonne, innamorandoci immediatamente dei suoi paesaggi costellati di montagne, fiumi, cascate, laghi, foreste, colline e pianure.
 
 L’**Ariege** è un luogo che accontenta tutti: chi ama la natura e gli sport all’aria aperto, chi ama i luoghi preistorici e i siti naturali (nell’Ariege si trovano parecchie grotte visitabili in cui ammirare pitture rupestri), chi è appassionato di storia (numerosi catari si rifugiarono nei castelli di questa zona per sfuggire all’inquisizione cattolica), chi predilige piccoli villaggi al caos delle grandi città.
 
-È una regione anche ricca di tradizione dal punto di vista gastronomico, popolata da persone che sorridono nelle vie di ogni paesino sventolando baguette e perfetta per chi viaggia on the road. 
+È una regione anche ricca di tradizione dal punto di vista gastronomico, popolata da persone che sorridono nelle vie di ogni paesino sventolando baguette, e perfetta per chi viaggia on the road. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117448/Articoli/ariege/IMG_4507_ocxtrt.jpg" >}}
 
@@ -31,7 +31,7 @@ L’**Ariege** è un luogo che accontenta tutti: chi ama la natura e gli sport a
 Di seguito ti proponiamo le tappe che più ci hanno entusiasmati in Ariege, per un itinerario di 9 giorni.
 Allaccia le cinture che qui è tutto un sali e scendi non da poco e prepara la macchina fotografica per immortalare scorci davvero entusiasmanti!
 
-- ***Ax les thermes***: piacevole paese di montagna, è una meta nota le acque termali e le piste da sci. A 2 km si trova i piccolo borgo di *Savignac les Ormeaux*, dove si può percorrere una bellissima passeggiata in natura seguendo il perimetro di un lago e la riva del fiume. 
+- ***Ax les thermes***: piacevole paese di montagna, è una meta nota per le acque termali e le piste da sci. A 2 km si trova il piccolo borgo di *Savignac les Ormeaux*, dove si può percorrere una bellissima passeggiata in natura seguendo il perimetro di un lago e la riva del fiume. 
 
 - ***Tarascon sur Ariège***: borgo medievale veramente caratteristico, merita una passeggiata per le vie del paese che conducono a un piccolo belvedere. 
 
@@ -39,7 +39,7 @@ Allaccia le cinture che qui è tutto un sali e scendi non da poco e prepara la m
 
 - ***Foix***: la cittadina, molto caratteristica, è famosa per il  {{< extLink "castello" "https://www.sites-touristiques-ariege.fr/chateau-de-foix/" >}} che ha origini risalenti al X secolo e la cui posizione arroccata ha fatto sì che la città resistesse alla crociata contro i Catari.
 
-- ***La Bastide de Serou***: piccolo villaggio pittoresco con area camper gratuita, offre belle passeggiate nei dintorni. Da non perdere una tappa nella vicina *Durban sur Arize*, dove abbiamo comprato del pane cotto in forno a legna da un giovane panettiere amante del mestiere (se non trovi il negozio lasciati guidare dal profumo della farina!). 
+- ***La Bastide de Serou***: piccolo villaggio pittoresco, offre belle passeggiate nei dintorni. Da non perdere una tappa nella vicina *Durban sur Arize*, dove abbiamo comprato del pane cotto in forno a legna da un giovane panettiere amante del mestiere (se non trovi il negozio lasciati guidare dal profumo!). 
 
 - ***Saint Lizier***: questa bellissima cittadina vanta il prestigio di ospitare la sede di un importante vescovado. A noi ha colpito per il delizioso centro storico, curato in ogni dettaglio e ricco di botteghe artigiane. Se hai tempo visita la vicina *Mont Joie en Couserans*, per una passeggiata in un borgo di altri tempi.
 
@@ -47,7 +47,7 @@ Allaccia le cinture che qui è tutto un sali e scendi non da poco e prepara la m
 
 - ***Le Mas d’Azil***: questo luogo è noto per la {{< extLink "Grotta du Mas d’Azil" "https://www.sites-touristiques-ariege.fr/roadtrip-de-site-en-site/grotte-du-mas-dazil/" >}}. Si tratta di un luogo mistico: oltre al fatto che si può attraversare la grotta non solo a piedi ma anche su 2 o 4 ruote, permette di scoprire la vita preistorica dei Cro-magnon. Non perderti una passeggiata fra le case a graticcio colorate dell’omonimo paesino poco più avanti, dal quale partono numerose passeggiate in natura anche alla scoperta di antichi dolmen.
 
-- ***Carla Bayle***: un delizioso borgo fortificato che ospita numerose botteghe di artisti e che si affaccia sull’omonimo lago, lungo le cui sponde si può fare una bella passeggiata in natura. Se la trovate aperta non perdetevi i dipinti della Chiesa, davvero particolari. 
+- ***Carla Bayle***: un delizioso borgo fortificato che ospita numerose botteghe di artisti e che si affaccia sull’omonimo lago, lungo le cui sponde si può fare una bella passeggiata in natura. Se la trovi aperta non perderti i dipinti della Chiesa, davvero particolari. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117444/Articoli/ariege/IMG_4324_jqqoul.jpg" >}}
 
@@ -86,8 +86,8 @@ Allaccia le cinture che qui è tutto un sali e scendi non da poco e prepara la m
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117444/Articoli/ariege/IMG_4294_gwe362.jpg" >}}
 
-Nel nostro itinerario improvvisato in loco ma che ci ha regalato tante emozioni abbiamo tralasciato Tolosa perchè le recensioni sui parcheggi per i camper non erano delle più rassicuranti. Ci sarebbero state tantissime altre tappe da prendere in considerazione, tra piccoli borghi e luoghi in natura. Purtroppo date le temperature estive e una serie di appuntamenti in Italia non abbiamo potuto rimanere di più in questa regione francese, che però in pochi giorni ci ha permesso di ammirarne tutto lo splendore. 
-Se attraversi l'Ariege per raggiungere Andorra o la Spagna o nel ritornare indietro, ti consigliamo una sosta a L’Hospitalet, un piccolo borgo molto ospitale.
+Nel nostro itinerario improvvisato in loco ma che ci ha regalato tante emozioni abbiamo tralasciato Tolosa perchè le recensioni sui parcheggi per i camper non erano delle più rassicuranti. Ci sarebbero state tantissime altre tappe da prendere in considerazione, tra piccoli borghi e luoghi in natura. Purtroppo, date le temperature estive e una serie di appuntamenti in Italia, non abbiamo potuto rimanere di più in questa regione francese, che però in pochi giorni ci ha permesso di ammirarne tutto lo splendore. 
+Se attraversi l'Ariege per raggiungere Andorra o la Spagna o nel ritornare indietro, ti consigliamo una sosta a L’Hospitalet, un piccolo borgo incastonato fra boschi e montagne.
 
 Abbiamo approfittato della calma e della serenità che trasmette l'Ariege in ogni suo luogo per prendere una pausa dal creare video per il nostro canale Youtube, ma se ti fa piacere trovi la serie completa sulle nostre altre avventure in Francia {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.
 
@@ -105,7 +105,7 @@ In questa regione francese è stato molto semplice trovare aree di servizio attr
 
 ##### Le nostre mappe
 
-{{< blogFooter "FR_N" "1" "0" >}}
+{{< blogFooter "FR_A" "1" "0" >}}
 
 
 
