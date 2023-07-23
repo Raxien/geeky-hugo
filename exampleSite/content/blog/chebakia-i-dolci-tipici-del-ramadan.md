@@ -1,7 +1,7 @@
 ---
 title: "Chebakia, i dolci tipici del Ramadan"
 description: "Abbiamo avuto la fortuna di visitar il Marocco in camper durante il periodo del Ramadan: scopri con noi una delle ricette tipiche."
-image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689094771/Articoli/empanada/IMG_9897_doklnq.jpg"
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689094771/Articoli/empanada/IMG_9897_doklnq.jpg"
 date: 2023-07-16T10:00:00Z
 categories: ["Curiosità", "Cucina"]
 country: Marocco
@@ -48,5 +48,5 @@ Poi magari mangiavamo uno chebakia in più, ma facciamo che chiudere un occhio d
 
 Li hai mai assaggiati? Ti sono piaciuti? Ti aspettiamo nei commenti! 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689094775/Articoli/empanada/IMG_3098_j6rtcg.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689094775/Articoli/empanada/IMG_3098_j6rtcg.jpg" >}}
 

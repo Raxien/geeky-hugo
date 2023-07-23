@@ -1,7 +1,7 @@
 ---
 title: 'Rabat in camper: cosa vedere nella capitale del Marocco'
 description: "Rabat è una delle città imperiali ed è la capitale del Marocco. È una città molto diversa dalle realtà che la circondano. Noi l’abbiamo raggiunta in camper, vieni a scoprire cosa abbiamo visto." 
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689674761/Articoli/empanada/madrid/cordoba/IMG_2986_mpur3w.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689674761/Articoli/empanada/madrid/cordoba/IMG_2986_mpur3w.jpg
 date: 2023-06-01T10:00:00+01:00
 categories: [ "Camper", "Portogallo", "Guida","Itinerari"]
 type: featured
@@ -46,21 +46,21 @@ Salè è la città gemella di Rabat, separata dalla capitale dal corso del fiume
 Se vuoi visitare queste zone con i nostri occhi, ti lasciamo qui la playlist relativa al nostro viaggio in Marocco! 
 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689674772/Articoli/empanada/madrid/cordoba/IMG_3019_ueuyqx.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689674772/Articoli/empanada/madrid/cordoba/IMG_3019_ueuyqx.jpg" >}}
 
 
 
 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689674772/Articoli/empanada/madrid/cordoba/IMG_3019_ueuyqx.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689674772/Articoli/empanada/madrid/cordoba/IMG_3019_ueuyqx.jpg" >}}
 
 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689674772/Articoli/empanada/madrid/cordoba/IMG_3019_ueuyqx.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689674772/Articoli/empanada/madrid/cordoba/IMG_3019_ueuyqx.jpg" >}}
 
 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689674772/Articoli/empanada/madrid/cordoba/IMG_3019_ueuyqx.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689674772/Articoli/empanada/madrid/cordoba/IMG_3019_ueuyqx.jpg" >}}
 
 
 {{< youtube 7F-d2nCwfwU >}} 

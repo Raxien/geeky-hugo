@@ -1,7 +1,7 @@
 ---
 title: 'Carcassonne: alla scoperta della città medievale e dell’omonimo gioco di società'
 description: "Dopo un anno di partite a Carcassonne, il famoso gioco di società, a bordo del nostro camper, siamo arrivati per davvero in città, dove abbiamo comprato un’espansione per mettere un po’ di pepe alle nostre avventure a bordo!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689176381/Articoli/carcassonne/IMG_4607_tqwtm1.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689176381/Articoli/carcassonne/IMG_4607_tqwtm1.jpg
 date: 2023-07-19T17:00:00.000
 categories: ["Europa","Guida","Camper","Curiosita"]
 country: Francia
@@ -23,7 +23,7 @@ Se come noi arrivi in camper non temere, [al fondo ti lasciamo un paio di siti s
 
 Una volta entrati in città sembra di fare un tuffo nel passato in quell'era animata da gesta eroiche di cavalieri e dame e principesse da salvare. Oppure, se come me siete amanti dei film, vi riporterà ai ricordi di uno degli ultimi capolavori di Ridley Scott: **{{< extLink "The Last Duel" "https://www.youtube.com/watch?v=41WdQ8iY7D4" >}}**.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689177691/Articoli/carcassonne/R0001115_gkxr0v.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689177691/Articoli/carcassonne/R0001115_gkxr0v.jpg" >}}
 
 ##### Carcassonne: una città tutta da scoprire
 
@@ -40,7 +40,7 @@ Nella città medievale si possono visitare:
 - il **{{< extLink "Museo della Scuola" "https://www.carcassonne.org/article-page/musee-de-lecole" >}}**
 - il **{{< extLink "Museo dell’Inquisizione" "https://musee-inquisition-carcassonne.com/" >}}**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689176386/Articoli/carcassonne/IMG_4621_i0mm6o.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689176386/Articoli/carcassonne/IMG_4621_i0mm6o.jpg" >}}
 
 ###### La città bassa: Bastide Saint-Louis
 
@@ -52,7 +52,7 @@ Certo quaggiù vien sempre voglia di alzare gli occhi e cercare di ammirare mura
 
 Sei amante delle crociere? A Carcassonne puoi concedertene una alla scoperta del **Canal du Midi**, realizzato all’epoca del Re Sole per collegare il Mediterraneo all’Atlantico.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689176393/Articoli/carcassonne/IMG_4609_t2htt3.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689176393/Articoli/carcassonne/IMG_4609_t2htt3.jpg">}}
 
 ##### Una città festaiola
 
@@ -66,14 +66,14 @@ A fine agosto-inizio settembre si tiene la **Feria di Carcassonne**, dedicata a 
 
 Intorno al 10 di settembre viene invasa lungo tutte le stradine da giocatori dell’**omonimo gioco di società**, uno dei nostri preferiti.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689177656/Articoli/carcassonne/R0001122_jjsiqq.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689177656/Articoli/carcassonne/R0001122_jjsiqq.jpg" >}}
 
 {{< extLink "Il gioco da tavola Carcassonne" "https://amzn.to/3JWWC5E" >}} consiste nell’assemblare varie tessere per ricreare città e strade medievali, attorno a chiese e al corso del fiume. Nel tempo sono state realizzate più espansioni, con cattedrali, fiumi, locande, commercianti e costruttori, torri, abbazie, borgomastri, catapulte, bazar, ponti, pecore e colline, draghi e principesse, conti, re ed eretici.
 
 Durante la nostra visita di Carcassonne in uno dei centri del turismo cittadino abbiamo comprato {{< extLink "l’estensione n.2" "https://amzn.to/3Dh1hvu" >}} (anche se non abbiamo la numero 1 😂), poi siamo corsi in camper per intavolare subito una partita (si gioca da 2 a 5 persone).
 Più volte ci è capitato di invitare qualche viaggiatore a giocare a bordo con noi! Tu ci hai mai giocato? 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1689176389/Articoli/carcassonne/IMG_3593_g16t2b.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689176389/Articoli/carcassonne/IMG_3593_g16t2b.jpg" >}}
 
 ##### Dove parcheggiare con il camper? 
 In città puoi trovare un campeggio e un'area sosta attrezzata a pagamento. 
