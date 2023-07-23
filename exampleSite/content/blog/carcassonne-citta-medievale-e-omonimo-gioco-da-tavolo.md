@@ -11,7 +11,7 @@ draft: false
 
 Dopo un anno di partite a **Carcassonne**, {{< extLink "il famoso gioco di società" "https://amzn.to/3JWWC5E" >}}, a bordo del nostro camper, siamo arrivati per davvero in città, dove abbiamo comprato {{< extLink "un’espansione" "https://amzn.to/3Dh1hvu" >}} per mettere un po’ di pepe alle nostre avventure a bordo!
 
-**Carcassonne** si trova collocata nel sud della Francia, il che rende la città un’ottima tappa sul percorso per raggiungere ad esempio [ la Spagna del Nord](/blog/guida-spagna-del-nord-in-camper-itinerari) o rientrando in Italia.
+**Carcassonne** si trova collocata nel sud della Francia, il che rende la città un’ottima tappa sul percorso per raggiungere ad esempio [la Spagna del Nord](/blog/guida-spagna-del-nord-in-camper-itinerari) o rientrando in Italia.
 
 Carcassonne è una delle cinque città più turistiche della Francia, motivo per cui noi l’abbiamo visitata alle 7 del mattino, ammirandola in totale solitudine **(dalle 10 in estate le stradine vengono invase dai turisti)**. Dobbiamo ammettere che le numerose insegne turistiche **non ci hanno spinti** a scattare troppe fotografie, ma vediamo insieme come trascorrere mezza giornata in città!
 
