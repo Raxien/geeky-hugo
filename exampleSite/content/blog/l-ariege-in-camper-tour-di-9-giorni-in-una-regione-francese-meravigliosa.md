@@ -9,7 +9,7 @@ type: featured
 draft: true
 ---
 
-L’Ariège è un dipartimento della Regione Occitania, situato nel cuore dei Pirenei a sud della Francia. Scoperto per caso arrivando da [Andorra](/blog/andorra-in-camper-un-weekend-alla-scoperta-di-panorami-mozzafiato) e andando in direzione [Carcassonne](/blog/carcassonne-citta-medievale-e-omonimo-gioco-da-tavolo), e ci siamo **subito innamorati** dei suoi paesaggi fatti di natura incontaminata, borghetti usciti dal medioevo e tutto incorniciato da maestose montagne.
+L’Ariège è un dipartimento della Regione Occitania, situato nel cuore dei Pirenei a sud della Francia. Scoperto per caso arrivando da [Andorra](/blog/andorra-in-camper-un-weekend-alla-scoperta-di-panorami-mozzafiato) e andando in direzione [Carcassonne](/blog/carcassonne-citta-medievale-e-omonimo-gioco-da-tavolo), ci siamo **subito innamorati** dei suoi paesaggi fatti di natura incontaminata, borghetti usciti dal medioevo e tutto incorniciato da maestose montagne.
 
 **L’Ariege** è un luogo che accontenta tutti: chi ama la natura e gli sport all’aria aperto, chi ama i luoghi preistorici e i siti naturali (nell’Ariege si trovano parecchie grotte visitabili in cui ammirare pitture rupestri), chi è appassionato di storia (numerosi catari si rifugiarono nei castelli di questa zona per sfuggire all’inquisizione cattolica), chi predilige piccoli villaggi al caos delle grandi città.
 
