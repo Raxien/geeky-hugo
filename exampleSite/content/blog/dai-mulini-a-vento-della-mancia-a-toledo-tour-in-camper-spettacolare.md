@@ -1,11 +1,12 @@
 ---
-title: 'Tour in camper spettacolare! Dai mulini a vento della Mancia a Toledo'
+title: 'Dai mulini a vento della Mancia a Toledo: tour in camper spettacolare!'
 description: Scopri con noi la Castiglia-La Mancia tra castelli e mulini a bordo del camper, inseguendo le orme del Don Quijote fino a raggiungere Toledo, l’antica capitale spagnola.
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689674761/Articoli/empanada/madrid/cordoba/IMG_2986_mpur3w.jpg
-date: 2023-07-20T10:00:00+01:00
-categories: [ "Camper", "Spagna", "Guida","Itinerari"]
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690125045/Articoli/Spagna/la_mancia_qni2r4.jpg
+date: 2023-07-24T10:00:00+01:00
+categories: [ "Camper", "Itinerari"]
+country: Spagna
 type: featured
-draft: true 
+draft: false
 ---
 
 La **Castiglia-La Mancia** è una splendida regione centrale della Spagna, terra di avventure narrate da Cervantes, in cui il **Don Chisciotte** si destreggia fra mulini a vento.
@@ -33,10 +34,12 @@ Il termine **"La Mancia"** sembra derivare dall’arabo "al Mansha" che signific
 
 La regione della Castiglia-La Mancia, **nonostante abbia davvero molto da offrire**, è una delle meno visitate della Spagna: per noi è stato meglio così! Abbiamo guidato indisturbati e parcheggiato in luoghi spettacolari, fra distese di terra color ocra e rosso intervallate da ulivi e viti, castelli in rovina e mulini solitari o tutti in fila. Per gli amanti della natura questa regione offre anche un numero sorprendente di aree naturali protette.
 
-##### La nostra Ruta de Don Quijote da Cordoba verso Toledo
-Per incrementare il turismo è stata istituita la **{{< underline "Ruta de Don Quijote" >}}**: un percorso decisamente lungo che permette di seguire le avventuere (e sopratutto disavventure) di Don Chisciotte e del suo fido Sancio Panza. E' composto da 13 tappe località e sono necessari almeno 7 giorni per vederle tutte motivo per cui consigliamo di scegliere in partenza le tappe che si vogliono effettuare.
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690125052/Articoli/Spagna/mulini_ovvehe.jpg" >}}
 
-Noi abbiamo visto solo una parte della rotta, ovvero quella che va da **Cordoba** (il nostro itinerario è a [una portata di click](/blog/cordoba-in-camper-cosa-vedere-e-quale-tapas-scegliere)) a **Toledo**, ma è bastato per respirando un Spagna sorprendente, diversa e fantastica!
+##### La nostra Ruta de Don Quijote da Cordoba verso Toledo
+Per incrementare il turismo è stata istituita la **{{< underline "Ruta de Don Quijote" >}}**: un percorso decisamente lungo che permette di seguire le avventure (e sopratutto disavventure) di Don Chisciotte e del suo fido Sancio Panza. E' composto da 13 tappe località e sono necessari almeno 7 giorni per vederle tutte, motivo per cui consigliamo di scegliere in partenza le tappe che si vogliono effettuare.
+
+Noi abbiamo visto solo una parte della rotta, ovvero quella che va da **Cordoba** (il nostro itinerario è a [una portata di click](/blog/cordoba-in-camper-cosa-vedere-e%20quale-tapas-scegliere)) a **Toledo**, ma è bastato per ammirare un Spagna sorprendente, diversa e fantastica!
 
 ###### Sacro Convento y Castillo de Calatrava La Nueva 
 Se potessimo definire con una sola parola questa {{< extLink "fortezza" "https://castillodecalatrava.org/" >}} dei cavalieri calatraviani diremmo: **meravigliosa!** In parte distrutta permette però di ammirare il grande portone con rosone del convento e il camminamento sulle mura dal quale si gode di una vista superba a 360°. 
@@ -52,7 +55,7 @@ Città famosa per la tradizione teatrale, offre una piazza dall’aspetto molto 
 
 > "E' il miglior formaggio che abbia mai mangiato in vita mia e ho **90 anni**."
 
-Dopo aver letto questa recensione su google al negozio {{< extLink "Oro Siglo XVII , Queso de Oveja"  "https://goo.gl/maps/2CmvvttoCrFKvQWXA" >}} chi siamo noi per dire di no? Ovviamente ci siamo fiondati **subito!**
+Dopo aver letto questa recensione su google relativa al negozio {{< extLink "Oro Siglo XVII , Queso de Oveja"  "https://goo.gl/maps/2CmvvttoCrFKvQWXA" >}} potevamo non concederci un assaggio? Ovviamente ci siamo fiondati **subito!** e ne siamo rimasti entusiasti.
 
 ###### Campo de Criptana
 Qui si trovano ancora una decina di mulini (34 in origine) in ordine sparso, tra i quali è possibile passeggiare ammirando soprattutto il gioco di luci **al tramonto**. Il piccolo paesino di case bianche merita una visita. 
@@ -63,7 +66,7 @@ Notte in libera a fianco ai mulini, davvero un luogo romantico.
 In questo tratto di strada è possibile visitare alcuni mulini percorrendo un
 a strada davvero panoramica.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690041189/Articoli/Spagna/alcazar-de-san-juan_l89f5j.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690125051/Articoli/Spagna/mulini_notturna_bua6ix.jpg" >}}
 
 ###### Consuegra
 5 dei 12 mulini conservano il meccanismo completo, in particolare il **"Sancho"** (in omaggio a uno dei personaggi principali del romanzo Don Chisciotte della Mancia). Tutti disposti in fila, sembrano proteggere il vicino {{< extLink "castello dei Templari" "https://www.consuegra.es/en/" >}}.
@@ -83,11 +86,15 @@ In questa zona non puoi non comprare i dolci di marzapane preparati artigianalme
 
 Dopo aver assaggiato un paio di dolci tipici con farina di mandorle, abbiamo raggiunto il **Museo di Santa Cruz** dietro a **Plaza de Zocodover**, salutato la statua del Cervantes e ci siamo diretti all’**Alcazar**, il “castello”, che fu dominato da diverse figure nell’arco della storia. 
 
-È proprio in un’ala dell’Alcazar che si trova la **Biblioteca de Castilla La Mancia**: ti consigliamo di entrarci perché dalla sua caffetteria potrai ammirare gratuitamente la città dall’alto. 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690125054/Articoli/Spagna/toledo_dall_alto_nz610o.jpg" >}}
+
+È proprio in un’ala dell’Alcazar che si trova la **Biblioteca de Castilla La Mancia**: ti consigliamo di entrarci perchè dalla sua caffetteria potrai ammirare gratuitamente la città dall’alto. 
 
 Lasciato il punto più alto alle spalle ci siamo diretti verso la meravigliosa **Porta dei Leoni** e la **{{< extLink "Cattedrale di Toledo" "https://www.catedralprimada.es/it/info/museos/venta-de-entradas/" >}}** visitabile al costo di 10 € o gratuitamente dal lunedì al venerdì dalle 8 alle 9.30.
 
 Da qui abbiamo raggiunto **Plaza del Ayuntamento** (il Municipio) per dirigerci verso la **Chiesa di San Tomè** e il quartiere ebraico che ospita la **Sinagoga** e il **Monastero de San Juan de Los Reyes**, fino al **Puente de San Martin** dal quale siamo tornati indietro verso **Puerta de Bisagra**. 
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690125058/Articoli/Spagna/toledo_panorama_oczqph.jpg" >}}
 
 Se ami i punti panoramici noi puoi non dirigerti a {{< extLink "questo Mirador" "https://goo.gl/maps/YygqGYhGHNAfYoUc8" >}}, da dove al tramonto potrai ammirare un gioco di luci meraviglioso sulla città e il fiume che la circonda. 
 
@@ -100,11 +107,13 @@ La Mancia non è solo mulini, castelli, imprese e panorami mozzafiato ma anche u
 2. la versione **“a la magra”** della classica “tortilla”, la frittata spagnola
 3. **il manchego**, formaggio tipico della Mancia
 4. il **“mazapan” o marzapane**, dolci di origine del periodo di dominazione araba
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690125061/Articoli/Spagna/marzapane_yigczb.jpg" >}}
   
 ##### In camper è fattibile?
 Questa regione è davvero **piacevole da visitare in camper**, grazie alle strade facilmente percorribili, al pochissimo traffico e ai panorami mozzafiato. Se non l’hai ancora inserita nei tuoi piani di viaggio ti consigliamo di prenderla in considerazione e se vuoi immaginarla un po’ con i nostri occhi trovi qui il video dedicato.
 
-{{< youtube 7F-d2nCwfwU >}} 
+{{< youtube oU5VtY2C2pg >}}
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ziDcEGP0xvaSkv6yd2hjXiMwDuyrE_M&ehbc=2E312F" >}}
