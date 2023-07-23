@@ -58,7 +58,7 @@ Quali documenti servono?
 
 - se viaggi in Italia ti basteranno **microchip** e **libretto sanitario**
 - se viaggi in Europa ti servirà **il passaporto** che si ottiene con il vaccino antirabbia
-- se pensi di viaggiare in paesi extraeuropei parti per tempo perchè ti servirà **la titolazione del vaccino contro la rabbia**. 
+- se pensi di viaggiare in paesi extraeuropei parti per tempo perché ti servirà **la titolazione del vaccino contro la rabbia**. 
   
 Se vuoi più informazioni in merito trovi tutto [in questo articolo dedicato](/blog/viaggiare-con-cane-e-gatto-tutto-quello-che-devi-sapere). 
 

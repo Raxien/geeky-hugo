@@ -22,7 +22,7 @@ D’altronde **"empanar"** significa "avvolgere qualcosa con pane o pasta per cu
 Dire panino era troppo difficile? 
 Sì, diamo agli spagnoli ciò che è loro e mangiamoci sta empanada. Che poi nei libri di cucina è comparsa nel 1520, mica stiamo parlando di una rivisitazione di cucina molecolare! 
 
-Ora potresti dirmi: **perchè nelle città ho visto negozi di empanadas argentine?**
+Ora potresti dirmi: **perché nelle città ho visto negozi di empanadas argentine?**
 Tranquilla/o, siamo tutti confusi e affamati.
 Ma come direbbero in casa mia, butta giù che poi in pancia tutto si sistema! 
 
@@ -35,7 +35,7 @@ Umorismo a parte, come ti dicevo prima le empanadas sono comparse nei libri di c
 ###### È un piatto semplice, conteso e talmente buono che non è difficile chiedersi il perché!
 
 Quindi in questi **negozi di franchising** troverai un numero variegato di empanadas monoporzione, da mangiare passeggiando. 
-Ma non preoccuparti, perchè in ogni paesino troverai una piccola panetteria in cui comprare empanadas e se guardi bene anche nei supermercati! 
+Ma non preoccuparti, perché in ogni paesino troverai una piccola panetteria in cui comprare empanadas e se guardi bene anche nei supermercati! 
 È così che noi abbiamo riempito la nostra dispensa a base di empanadas rettangolari e in formato familiare (che meraviglia portare a bordo quei vassoi!) ripiene di tonno o baccalà e verdure.
 
 In base ai tuoi gusti comunque puoi trovarle anche ripiene di carne o di sole verdure o di formaggio, te l’avevo detto che accontentano chiunque! 

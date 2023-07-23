@@ -15,7 +15,7 @@ ad un certo punto la ricerca si fa accurata per addentare _una fetta degna di us
 
 Eccovi quindi un articolo dedicato a sua maestà **la pizza**, assaggiata personalmente in Marocco.
 
-Se una pizza delude non è mai un’esperienza piacevole. Ecco perchè la nostra ricerca è stata abbastanza
+Se una pizza delude non è mai un’esperienza piacevole. Ecco perché la nostra ricerca è stata abbastanza
 accurata e siamo felici di elencarvi, a parimerito, un numero ristretto di locali nei quali torneremmo immediatamente. 
 
 Abbiamo volutamente ordinato la classica margherita e vi lasceremo recensione, fotografia, indirizzo. Insomma, tutto quello che può servirvi se anche voi vi trovate in questo paese, in zone meno turistiche (e più autentiche) e venite assaliti da una voglia irrefrenabile di quel piatto il cui nome si comprende in tutte le lingue del mondo, **la Pizza**! 

@@ -72,7 +72,7 @@ La cattedrale di Porto, anche chiamata Sè, permette dalla piazza antistante una
 Se poi pensiamo che la colonna che si trova al centro della piazza, un tempo era usata come gogna per l’esposizione e la tortura dei condannati, malinconia portaci via. 
 
 
-Il nostro tour di Porto animato da sentimenti contrastanti, anche perchè in alcuni scorci la città sembra essere abitata da fantasmi, si è concluso proprio sul piazzale della Cattedrale, da dove abbiamo imboccato la lunghissima scala che ci ha condotti fino alla Ribeira e al Ponte, dal quale siamo tornati al camper.
+Il nostro tour di Porto animato da sentimenti contrastanti, anche perché in alcuni scorci la città sembra essere abitata da fantasmi, si è concluso proprio sul piazzale della Cattedrale, da dove abbiamo imboccato la lunghissima scala che ci ha condotti fino alla Ribeira e al Ponte, dal quale siamo tornati al camper.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689674772/Articoli/empanada/madrid/cordoba/IMG_3019_ueuyqx.jpg" >}}
 Vuoi rivivere con noi queste avventure in città? Clicca qui. 

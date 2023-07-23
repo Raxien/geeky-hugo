@@ -36,7 +36,7 @@ La regione della Castiglia-La Mancia, **nonostante abbia davvero molto da offrir
 ##### La nostra Ruta de Don Quijote da Cordoba verso Toledo
 Per incrementare il turismo è stata istituita la **{{< underline "Ruta de Don Quijote" >}}**: un percorso decisamente lungo che permette di seguire le avventuere (e sopratutto disavventure) di Don Chisciotte e del suo fido Sancio Panza. E' composto da 13 tappe località e sono necessari almeno 7 giorni per vederle tutte motivo per cui consigliamo di scegliere in partenza le tappe che si vogliono effettuare.
 
-Noi abbiamo visto solo una parte della rotta, ovvero quella che va da **Cordoba** (il nostro itinerario è a [una portata di click](/blog/cordoba-in-camper-cosa-vedere-e%20quale-tapas-scegliere)) a **Toledo**, ma è bastato per respirando un Spagna sorprendente, diversa e fantastica!
+Noi abbiamo visto solo una parte della rotta, ovvero quella che va da **Cordoba** (il nostro itinerario è a [una portata di click](/blog/cordoba-in-camper-cosa-vedere-e-quale-tapas-scegliere)) a **Toledo**, ma è bastato per respirando un Spagna sorprendente, diversa e fantastica!
 
 ###### Sacro Convento y Castillo de Calatrava La Nueva 
 Se potessimo definire con una sola parola questa {{< extLink "fortezza" "https://castillodecalatrava.org/" >}} dei cavalieri calatraviani diremmo: **meravigliosa!** In parte distrutta permette però di ammirare il grande portone con rosone del convento e il camminamento sulle mura dal quale si gode di una vista superba a 360°. 
@@ -83,7 +83,7 @@ In questa zona non puoi non comprare i dolci di marzapane preparati artigianalme
 
 Dopo aver assaggiato un paio di dolci tipici con farina di mandorle, abbiamo raggiunto il **Museo di Santa Cruz** dietro a **Plaza de Zocodover**, salutato la statua del Cervantes e ci siamo diretti all’**Alcazar**, il “castello”, che fu dominato da diverse figure nell’arco della storia. 
 
-È proprio in un’ala dell’Alcazar che si trova la **Biblioteca de Castilla La Mancia**: ti consigliamo di entrarci perchè dalla sua caffetteria potrai ammirare gratuitamente la città dall’alto. 
+È proprio in un’ala dell’Alcazar che si trova la **Biblioteca de Castilla La Mancia**: ti consigliamo di entrarci perché dalla sua caffetteria potrai ammirare gratuitamente la città dall’alto. 
 
 Lasciato il punto più alto alle spalle ci siamo diretti verso la meravigliosa **Porta dei Leoni** e la **{{< extLink "Cattedrale di Toledo" "https://www.catedralprimada.es/it/info/museos/venta-de-entradas/" >}}** visitabile al costo di 10 € o gratuitamente dal lunedì al venerdì dalle 8 alle 9.30.
 
