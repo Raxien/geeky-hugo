@@ -1,7 +1,7 @@
 ---
 title: 'L’Ariège in camper: tour di 9 giorni in una regione francese meravigliosa'
 description: Hai mai preso in considerazione di visitare l'Ariege? Scopri con noi perchè non dovresti perderti questa regione francese!
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117438/Articoli/ariege/IMG_4214_klsruv.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117438/Articoli/ariege/ariege_klsruv.jpg
 date: 2023-07-21T10:00:00+01:00
 categories: [ "Camper", "Francia", "Guida","Itinerari"]
 type: featured
@@ -16,7 +16,7 @@ L’**Ariege** è un luogo che accontenta tutti: chi ama la natura e gli sport a
 
 È una regione anche ricca di tradizione dal punto di vista gastronomico, popolata da persone che sorridono nelle vie di ogni paesino sventolando baguette, e perfetta per chi viaggia on the road. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117448/Articoli/ariege/IMG_4507_ocxtrt.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117448/Articoli/ariege/ariege_foix_ocxtrt.jpg" >}}
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itinerario)
@@ -35,7 +35,7 @@ Allaccia le cinture che qui è tutto un sali e scendi non da poco e prepara la m
 
 - ***Tarascon sur Ariège***: borgo medievale veramente caratteristico, merita una passeggiata per le vie del paese che conducono a un piccolo belvedere. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117442/Articoli/ariege/IMG_4120_mnxl7b.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117442/Articoli/ariege/ariege_foix_mnxl7b.jpg" >}}
 
 - ***Foix***: la cittadina, molto caratteristica, è famosa per il  {{< extLink "castello" "https://www.sites-touristiques-ariege.fr/chateau-de-foix/" >}} che ha origini risalenti al X secolo e la cui posizione arroccata ha fatto sì che la città resistesse alla crociata contro i Catari.
 
@@ -43,25 +43,25 @@ Allaccia le cinture che qui è tutto un sali e scendi non da poco e prepara la m
 
 - ***Saint Lizier***: questa bellissima cittadina vanta il prestigio di ospitare la sede di un importante vescovado. A noi ha colpito per il delizioso centro storico, curato in ogni dettaglio e ricco di botteghe artigiane. Se hai tempo visita la vicina *Mont Joie en Couserans*, per una passeggiata in un borgo di altri tempi.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117450/Articoli/ariege/R0001044_nj2jqt.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117450/Articoli/ariege/mont_joie_en_couserans_nj2jqt.jpg" >}}
 
 - ***Le Mas d’Azil***: questo luogo è noto per la {{< extLink "Grotta du Mas d’Azil" "https://www.sites-touristiques-ariege.fr/roadtrip-de-site-en-site/grotte-du-mas-dazil/" >}}. Si tratta di un luogo mistico: oltre al fatto che si può attraversare la grotta non solo a piedi ma anche su 2 o 4 ruote, permette di scoprire la vita preistorica dei Cro-magnon. Non perderti una passeggiata fra le case a graticcio colorate dell’omonimo paesino poco più avanti, dal quale partono numerose passeggiate in natura anche alla scoperta di antichi dolmen.
 
 - ***Carla Bayle***: un delizioso borgo fortificato che ospita numerose botteghe di artisti e che si affaccia sull’omonimo lago, lungo le cui sponde si può fare una bella passeggiata in natura. Se la trovi aperta non perderti i dipinti della Chiesa, davvero particolari. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117444/Articoli/ariege/IMG_4324_jqqoul.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117444/Articoli/ariege/ariege_carla_bayle_jqqoul.jpg" >}}
 
 - ***Montsegur***: bellissimo villaggio di montagna che si raggiunge dopo aver percorso una salita incastonata fra le montagne, al fondo della quale appare imponente l’omonimo  {{< extLink "castello cataro" "http://www.montsegur.fr/" >}} (se vuoi visitare le rovine del castello di Monségur tieni conto che è raggiungibile con una bella camminata di almeno mezzo’ora in salita). Superate le ultime due curve appaiono le prime casette il legno e pietra, un unico negozietto di alimentari, un ristorantino, una piccola chiesa e un panorama meraviglioso. 
 
 - ***Lac de Montbel***: lago che si estende con un perimetro di 16 km e che permette passeggiate meravigliose sulle sue rive oltre alla possibilità di fare un bagno rigenerante.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117448/Articoli/ariege/IMG_4423_iajj4k.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117448/Articoli/ariege/lac_montbel_iajj4k.jpg" >}}
 
 - ***Mirepoix***: considerata uno dei borghi più belli della Francia, Mirepoix è un piccolo borgo medievale con case a graticcio e gallerie di legno che nascondono ristoranti e botteghe. Meravigliosa la Cattedrale, caratterizzata da rosoni affacciati su un’ampia navata. Il borgo il lunedì mattina ospita il mercato più famoso della regione. Il nostro parere? Deliziosa ma rovinata dal troppo turismo. Ecco perché ti consigliamo una sosta seppur breve nella vicina *Camon*, villaggio fortificato famoso per essere il paese delle rose e visibile in lontananza grazie all’imponenza del castello e dell’abbazia.
 
 - ***Carcassonne***:  tipica città medievale, annoverata fra le 5 città più visitate in Francia, presenta una doppia cinta muraria, 4 porte e 52 torri che si intravedono da lontano e fanno immaginare gesta di dame e cavalieri. Della nostra visita e del perchè l’abbiamo raggiunta ne abbiamo parlato meglio [in questo articolo](/blog/carcassonne-città-medievale-e-omonimo-gioco-da-tavolo). Se ti avanza del tempo raggiungi la vicina Fanjeaux, un piccolo borgo medievale nel quale abbiamo visitato una bellissima mostra relativa a pittura e scultura.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117447/Articoli/ariege/IMG_4509_rgc1wx.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117447/Articoli/ariege/ariege_mirepoix_rgc1wx.jpg" >}}
 
   
 ##### In breve 
@@ -84,7 +84,7 @@ Allaccia le cinture che qui è tutto un sali e scendi non da poco e prepara la m
 
 **{{< underline "Giorno 9" >}}**: Carcassonne
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117444/Articoli/ariege/IMG_4294_gwe362.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117444/Articoli/ariege/lago_carla_bayle_gwe362.jpg" >}}
 
 Nel nostro itinerario improvvisato in loco ma che ci ha regalato tante emozioni abbiamo tralasciato Tolosa perchè le recensioni sui parcheggi per i camper non erano delle più rassicuranti. Ci sarebbero state tantissime altre tappe da prendere in considerazione, tra piccoli borghi e luoghi in natura. Purtroppo, date le temperature estive e una serie di appuntamenti in Italia, non abbiamo potuto rimanere di più in questa regione francese, che però in pochi giorni ci ha permesso di ammirarne tutto lo splendore. 
 Se attraversi l'Ariege per raggiungere Andorra o la Spagna o nel ritornare indietro, ti consigliamo una sosta a L’Hospitalet, un piccolo borgo incastonato fra boschi e montagne.
@@ -93,7 +93,7 @@ Abbiamo approfittato della calma e della serenità che trasmette l'Ariege in ogn
 
 Insomma la Francia ci ha fatti innamorare ancora una volta e non solo per la dolcezza dei suoi [pain au chocolat!](/blog/pain-au-chocolat-o-chocolatine-la-miglior-colazione)
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117443/Articoli/ariege/IMG_4329_uizrqh.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117443/Articoli/ariege/ariege_villaggio_uizrqh.jpg" >}}
 
 ##### Strade, servizi e soste
 Tutte le strade percorse in Ariege si sono rivelate in buono stato e ci hanno regalato scorci davvero mozzafiato. 
