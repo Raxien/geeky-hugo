@@ -1,9 +1,9 @@
 ---
 title: Perché il nome "gattodicitturin"?
 description: Tutto ha avuto inizio nel nostro quartiere, "Cit Turin", con il nostro gatto speciale, Sakè.
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1660666170/Articoli/IMG_6263_ymsnaz.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1660666170/Articoli/IMG_6263_ymsnaz.jpg
 date: 2022-08-15T10:00:00.000+02:00
-categories: ["Curiosità"]
+categories: ["Blog"]
 type: regular
 ---
 

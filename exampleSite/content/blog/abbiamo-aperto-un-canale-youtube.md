@@ -1,9 +1,9 @@
 ---
 title: 'Perché abbiamo aperto un canale YouTube'
 description: A volte è necessario mettersi in gioco più del dovuto e questa ci sembrava l'occasione giusta per farlo.
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1657123237/Articoli/Come_e_perche_abbiamo_aperto_un_canale_YouTube.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1657123237/Articoli/Come_e_perche_abbiamo_aperto_un_canale_YouTube.png
 date: 2022-07-06T16:00:00.000
-categories: ["Curiosità", "YouTube"]
+categories: ["Blog", "YouTube"]
 type: regular
 ---
 

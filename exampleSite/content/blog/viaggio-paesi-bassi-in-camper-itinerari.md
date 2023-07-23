@@ -1,7 +1,7 @@
 ---
 title: 'Paesi Bassi in camper con cane e gatto: itinerari, consigli e informazioni utili' 
 description: "Alla scoperta dei Paesi Bassi on the road, verso mete turistiche e non "
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1683208302/IMG_0407_xg5wru.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1683208302/IMG_0407_xg5wru.jpg
 date: 2022-07-26T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari"]
 country: Paesi Bassi
@@ -38,7 +38,7 @@ Poi ci siamo diretti alla città di Groninga (sosta in libera in periferia, lung
 
 **{{< underline "Giorno 3-4-5" >}}**: dopo aver passeggiato in aperta campagna e pranzato in riva a un piccolo canale poco distante, abbiamo raggiunto il vicino paesino di Giethoorn, famoso come la piccola Venezia olandese. Abbiamo trovato un sito delizioso ma a parer nostro un po’ snaturato e reso troppo commerciale, con moltissimi turisti, quasi tutti a bordo di gondole e barchette. Il paesino è un dedalo di canali, villette ben tenute, giardini curati, parecchi airbnb, negozietti. Noi abbiamo preferito passeggiare senza meta, salendo e scendendo da un lato all’altro. Per la notte ci siamo spostati in un parcheggio a 10 minuti presso il piccolo paesino di Belt Schutsloot: un dedalo di canali illuminati da piccoli lampioni e lumini, ortensie colorate, case senza recinzioni e un’atmosfera di pura magia. In quella cornice siamo rimasti 3 giorni, stringendo amicizia con la gente del posto e aiutando a realizzare le gondole in fiore che avrebbero sfilato sul canale per il famoso festival (se vuoi saperne di più su questa tradizione che ha luogo da 70 anni trovi tutto in questo video, mentre trovi le future informazioni tecniche {{< extLink "a questo link" "https://www.gondelvaartbs.nl/" >}}). 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1683208315/IMG_9911_q2ufmc.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1683208315/IMG_9911_q2ufmc.jpg" >}}
 
 **{{< underline "Giorno 6" >}}**: ultima sveglia affacciati sul canale, per poi spostarci a mezz'ora di distanza per sfruttare una stazione di servizio in un porto, poi al paesino di Urk e infine in un parcheggio affacciato sulla riva, trovato per caso, a Oostvaardersplassen.
 
@@ -48,7 +48,7 @@ Poi ci siamo diretti alla città di Groninga (sosta in libera in periferia, lung
 
 **{{< underline "Giorno 9" >}}**: Hoorn in passato era un importante porto mercantile e in qualche modo trattiene ancora un po’ il fascino di quell’atmosfera. Il centro storico è caratterizzato da palazzi caratteristici, che riportano anche il simbolo della città, l’unicorno. Nei giorni precedenti al nostro arrivo aveva avuto luogo un festival, cosa che non ha reso la nostra visita del tutto piacevole, con spazzatura ovunque e netturbini all’azione. Abbiamo quindi deciso di rientrare a bordo del camper e raggiungere la riva di una canale, proprio vicino a un mulino: parcheggio ideale per fare due passi, circondati da campi e pecore al pascolo. Da lì ci siamo spostati ad Alkmaar. La città è famosa per la produzione di formaggio e il mercato tipico, che si tiene ogni venerdì mattina e ogni martedì sera dalle 19 alle 21 nella piazza principale (trovi maggiori informazioni {{< extLink "qui " "https://www.kaasmarkt.nl/it/">}}). Dato che era martedì abbiamo deciso di approfittarne per immergerci ancora di più nell’atmosfera delle usanze locali. Dopo aver parcheggiato vicino a un centro sportivo, abbiamo raggiunto a piedi il centro fino alla piazza centrale, piena di torrette di forme arancioni e tondeggianti di formaggio, che vengono caricate su dei carretti e trasportate da coppie di uomini nei punti dai quali poi vengono vendute al pubblico. Curioso vero? Se ti va puoi scoprire tutto nel nostro {{< extLink "video" "https://youtu.be/XG1jF3oNLCc">}}. Insieme a noi numerose persone, tutte attente a osservare quel gioco di schemi e ad annusare il profumo nell’aria. Ci siamo fatti prendere per la gola da un carretto che vendeva panini con fettine di formaggio fuso, per poi tornare dopo poco ad acquistarne un terzo. Dopo aver comprato anche un paio di pezzi di formaggio siamo rientrati con il bottino, più che soddisfatti.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1683208299/IMG_0284_ao3ena.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1683208299/IMG_0284_ao3ena.jpg" >}}
 
 **{{< underline "Giorno 10" >}}**: sotto una pioggia torrenziale abbiamo raggiunto la stazione dei treni per far salire a bordo con noi Davide, un caro amico, con il quale avremmo visitato l'isola di Texel. Insieme a lui siamo arrivati in un campeggio nei pressi di Den Helder, dove ci ha accolti una simpatica signora anziana. Dopo aver pranzato e aver montato la tenda vicino al van, abbiamo raggiunto a piedi le vicine dune affacciate sul Mare del Nord. Sembrava per un attimo di camminare nei paesaggi irlandesi dell’entroterra. Un’unica strada, a curve morbide, costeggiata solo dalla natura.
 
@@ -58,7 +58,7 @@ Poi ci siamo diretti alla città di Groninga (sosta in libera in periferia, lung
 
 **{{< bold "Vuoi scoprire cosa abbiamo visitato a Amsterdam in 2 giorni?" >}}**:Vuoi scoprire cosa abbiamo visitato a Amsterdam in 2 giorni? Clicca [qui](/blog/viaggio-amsterdam-tre-tappe-imperdibili/).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1683208294/IMG_1448_axxzm5.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1683208294/IMG_1448_axxzm5.jpg" >}}
 
 **{{< underline "Giorno 15" >}}**: lasciata Amsterdam, la prima tappa è stata Zandeem, che ha attirato la nostra attenzione con un albergo dalle forme uniche: cubi di vari colori appoggiano uno sull’altro dalla base al tetto, quasi a formare una grande costruzione di lego. Nel pomeriggio abbiamo raggiunto Zaanse Schans, paesino famoso per i mulini. La strada pedonale, costeggiata dalla ciclabile, scorre lungo una decina di mulini, adibiti ognuno a produzioni diverse. Poi si raggiunge una fattoria che produce formaggi, passando davanti a un paio di piccole botteghe e piccole casette una più bella e curata dell’altra: ci sono fiori ovunque, qualche gallina libera, alcune pecore, anatre. Notte in libera in campagna.
 
@@ -79,7 +79,7 @@ Ci sono alcuni parchi molto belli in città, merita passeggiare con calma e sede
 Lasciata Utrecht siamo tornati verso Gouda, direzione Belgio. 
 <!-- to do: inserire link belgio  -->
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1683208292/IMG_1442_y8i7v3.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1683208292/IMG_1442_y8i7v3.jpg" >}}
 
 ###### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera, tranne dove specificato. 
@@ -122,7 +122,7 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera, tranne dove specific
 
 **{{< underline "Giorno 22-" >}}**: Utrecht 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1683208299/IMG_0974_yniamb.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1683208299/IMG_0974_yniamb.jpg" >}}
 
 <div id="Clima"></div>
 
@@ -142,7 +142,7 @@ Ci sono numerosi luoghi in natura dove noi abbiamo dormito in sicurezza.
 Si trovano numerosi campeggi, a prezzi non economici, che non sempre permettono il solo utilizzo dei servizi camper. Trovare tali servizi non è sempre facilissimo, si possono trovare a volte in aree cittadine adibite o in prossimità dei centri commerciali o stazioni di servizio.  
 In prossimità dell'isola di Texel non siamo riusciti a sostare in libera di notte e abbiamo preferito dormire in un campeggio meno costoso sulla terraferma, usufruendo del comodo traghetto. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1683208316/IMG_9378_susgux.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1683208316/IMG_9378_susgux.jpg" >}}
 
 <div id="Speso"></div>
 

@@ -1,9 +1,9 @@
 ---
 title: "Cous cous marocchino in camper: tutte le nostre varianti"
 description: "Prendendo spunto dalla tradizione marocchina abbiamo preparato il cous cous a bordo del camper e con un po’ di fantasia abbiamo abbinato tantissimi ingredienti per variare in ogni stagione"
-image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689094771/Articoli/empanada/IMG_9897_doklnq.jpg"
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094771/Articoli/empanada/IMG_9897_doklnq.jpg"
 date: 2023-07-16T10:00:00Z
-categories: ["Curiosità", "Cucina"]
+categories: ["Cucina"]
 country: Marocco
 type: featured
 draft: true 
@@ -27,7 +27,7 @@ La ricetta originale prevede di cuocere i chicchi di semola per una ventina di m
 Errore irrecuperabile? In realtà no, tutte le confezioni sul loro retro danno ragione ai tempi di cottura da me scelti. 
 Perdiamo un po’ nel gusto, perchè ammetto di non cuocerlo con il brodo. Ma se spadelli due verdure con un trito di cipolle, le sali per benino e ci aggiungi un po’ di amore ti assicuro che verrà fuori un buon piatto. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689094775/Articoli/empanada/IMG_3098_j6rtcg.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094775/Articoli/empanada/IMG_3098_j6rtcg.jpg" >}}
 
 ##### Ricette alternative 
 

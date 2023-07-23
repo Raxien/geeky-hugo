@@ -1,7 +1,7 @@
 ---
 title: 'Belgio in camper: 3 tappe imperdibili'
 description: "On the road in territori fiamminghi alla scoperta di tre tappe imperdibili"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689502214/Articoli/Belgio/gand-canale_xb3df3.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689502214/Articoli/Belgio/gand-canale_xb3df3.jpg
 date: 2023-07-11T17:00:00.000
 categories: ["Europa", "Itinerari", "Camper"]
 country: Belgio

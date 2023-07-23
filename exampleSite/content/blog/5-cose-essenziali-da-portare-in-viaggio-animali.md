@@ -1,14 +1,14 @@
 ---
 title: 'Viaggio on the road con animali: 5 cose essenziali da avere!'
 description: Scopri le 5 cose essenziali da portare con te per un viaggio on the road indimenticabile con il tuo animale! Leggi il nostro articolo per pianificare al meglio la tua avventura su quattro ruote.
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1657024162/Articoli/10_cose_per_un_viaggio_ontheroad_udittt.jpg
-date: 2022-07-05T10:00:00+01:00
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1657024162/Articoli/10_cose_per_un_viaggio_ontheroad_udittt.jpg
+date: 2023-07-21T10:00:00+01:00
 categories: [ "Animali", "Consigli"]
 type: regular
 draft: true
 ---
 
-Stai pianificando un viaggio on the road e sei in panico perché non sai cosa portare in valigia? Non ti preoccupare eccon una comoda lista di 5 cose che dovresti assolutamente portare con te per rendere il tuo viaggio indimenticabile anche se viaggi in compagnia del tuo fido compagno a quattro zampe 🐶🐱!
+Stai pianificando un viaggio on the road e sei in panico perché non sai cosa portare in valigia? Non ti preoccupare eccon una comoda lista di 5 cose che **dovresti assolutamente portare con te** per rendere il tuo viaggio indimenticabile anche se viaggi in compagnia del tuo fido compagno a quattro zampe 🐶🐱!
 
 ##### 1 - Acqua
 {{< extLink "Una borraccia" "https://amzn.to/3NQxosJ" >}} nel nostro zainetto non manca mai soprattutto durante l'estate dove le temperature si alzano!

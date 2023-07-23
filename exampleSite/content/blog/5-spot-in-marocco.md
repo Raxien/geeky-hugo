@@ -1,9 +1,9 @@
 ---
 title: 'Marocco in camper: 5 spot da sogno'
 description: 5 parcheggi, tutti gratuiti tranne uno, immersi nella natura in cui vivere e sognare a bordo del tuo camper. Vieni a scoprirli con noi!
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1684676753/IMG_9525_hvzska.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1684676753/IMG_9525_hvzska.jpg
 date: 2023-05-18T10:00:00+01:00
-categories: [ "Curiosità", "Consigli","Itinerari"]
+categories: [ "Consigli","Itinerari"]
 country: Marocco
 type: regular
 draft: false 
@@ -30,7 +30,7 @@ Vuoi fare anche un bagno o camminare a riva? Ti basta fare qualche chilometro di
 
 L'unico problema di questo luogo è che essendo in cima alle scogliere può essere pericoloso in caso di forte vento. E' proprio per questo motivo che abbiamo deciso di spostarci ed evitare di metterci in pericolo.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1684676730/IMG_7082_o1umiy.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1684676730/IMG_7082_o1umiy.jpg" >}}
 
 #### 2 - Tafraout
 Hai mai immaginato di dormire in mezzo a un palmeto? Per noi è stata una prima volta davvero emozionante.
@@ -60,7 +60,7 @@ Non immaginarti una sosta religiosa, perché di una Cattedrale in questo luogo t
 
 Nei weekend e nei giorni di festa la zona si anima di persone per lo più del posto che grigliano e campeggiano. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1684676821/IMG_1460_ifsrm1.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1684676821/IMG_1460_ifsrm1.jpg" >}}
 
 #### 4 - Lago El Ouidane
 Non appena superata la diga e un paio di resort turistici ci si ritrova davanti una spianata di terra secca, dove un tempo questo lago era decisamente più rigoglioso. Puoi decidere di parcheggiare all'inizio all'ombra di qualche albero o in riva in pieno sole e in compagnia di qualche pescatore.
@@ -73,7 +73,7 @@ Non appena superata la diga e un paio di resort turistici ci si ritrova davanti 
 
 Se ti venisse voglia di pizza non temere: da {{< extLink "Snack Pizzeria Slimane" " https://goo.gl/maps/u6ybUJ5bxPwFKo2b8?coh=178573&entry=tt" >}} trovi **la margherita a 22 DH e uscirai davvero soddisfatta/o**!  
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1684676852/IMG_1300_uvyhzx.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1684676852/IMG_1300_uvyhzx.jpg" >}}
 
 #### 5 - Lago El Sidi Chahede
 Questo è il nostro spot del cuore ed è **il luogo che più abbiamo forse amato di tutto il Marocco**. Siamo rimasti 5 giorni immersi nel nulla, senza che ci mancasse alcunché. Attorno a noi le montagne rosse, verdi, bianche. Qualche campo di grano. Il letto di quello che un tempo era un lago, oggi totalmente prosciugato. 
@@ -88,7 +88,7 @@ Non esistono zone d'ombra ma dalle 11 del mattino si alza una brezza davvero pia
 
 Purtroppo siamo andati via per cercare una fontana dove caricare acqua (a mezz'ora) e un luogo dove fare la spesa (raggiungendo la vicina Fez in un'ora).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1684677033/DSC02744_wp34o6.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1684677033/DSC02744_wp34o6.jpg" >}}
 
 Anche tu sei un'amante della libera o preferisci sostare nei campeggi?
 

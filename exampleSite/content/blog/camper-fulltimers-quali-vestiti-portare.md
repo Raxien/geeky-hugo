@@ -1,9 +1,9 @@
 ---
 title: 'Fare la valigia per vivere un anno in camper: quali vestiti scegliere?' 
 description: "Preparare una valigia per un weekend a volte può essere stressante, figuriamoci per un anno intero. Parola d'ordine: minimalismo."
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1657265838/Articoli/Fare_la_valigia_per_un_anno_in_camper_quali_vestiti_scegliere.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1657265838/Articoli/Fare_la_valigia_per_un_anno_in_camper_quali_vestiti_scegliere.jpg
 date: 2022-07-08T10:00:00.000
-categories: ["Curiosità"]
+categories: ["Blog"]
 type: regular
 ---
 

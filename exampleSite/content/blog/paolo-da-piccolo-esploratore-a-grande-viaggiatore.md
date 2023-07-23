@@ -3,7 +3,7 @@ title: 'Paolo: da piccolo esploratore a GRANDE VIAGGIATORE'
 description: Un ragazzo, il mondo intero da scoprire, la voglia di uscire dagli schemi e sentirsi parte di tutto ciò che ci circonda
 image: images/post/Vi racconto di Paolo_1.jpg
 date: 2022-06-19T09:00:25.000+01:00
-categories: ["Curiosità"]
+categories: ["Blog"]
 type: regular
 ---
 

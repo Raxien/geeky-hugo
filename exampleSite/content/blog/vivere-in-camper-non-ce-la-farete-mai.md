@@ -1,9 +1,9 @@
 ---
 title: 'Vivere in van: non ce la farete mai!'
 description: "La storia di quando invece noi abbiamo capito che questa strada era la migliore che avremmo potuto percorrere."
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689874010/Articoli/Viaggio/mappamondo-nave_enr0m1.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689874010/Articoli/Viaggio/mappamondo-nave_enr0m1.jpg
 date: 2023-07-22T08:00:00.000
-categories: ["Curiosita", "Blog"]
+categories: ["Blog"]
 type: featured
 draft: false
 ---

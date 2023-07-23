@@ -1,7 +1,7 @@
 ---
 title: 'Cordoba in camper: cosa vedere e quale tapas scegliere'
 description: Stai pensando di raggiungere Cordoba in camper? Non te ne pentirai, è una meta meravigliosa! Scoprila con noi!  
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689674761/Articoli/empanada/madrid/cordoba/IMG_2986_mpur3w.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689674761/Articoli/empanada/madrid/cordoba/IMG_2986_mpur3w.jpg
 date: 2023-06-01T10:00:00+01:00
 categories: [ "Camper", "Spagna", "Guida","Itinerari"]
 type: featured
@@ -17,7 +17,7 @@ La città è stata capitale dell’Impero Musulmano in Spagna e oltre a Sivigli
 
 Abbiamo dedicato alla città una serata e una mattinata, oltre a fare una piccola gita fuori porta di cui ti parleremo in questo articolo. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689674772/Articoli/empanada/madrid/cordoba/IMG_3019_ueuyqx.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689674772/Articoli/empanada/madrid/cordoba/IMG_3019_ueuyqx.jpg" >}}
 
 ##### Cordoba: I più importanti luoghi di interesse
 
@@ -30,7 +30,7 @@ La più famosa e fotografata è la ****calleja de las Flores**, dalla quale si p
 Se vuoi ammirarla gratuitamente puoi farlo dal lunedì al sabato dalle 8.30 alle 9.30 di mattina. 
 Noi ne siamo rimasti affascinati, tanto da ripassarci più volte e passeggiare lentamente nei giardini.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689674779/Articoli/empanada/madrid/cordoba/IMG_2972_hbqxvz.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689674779/Articoli/empanada/madrid/cordoba/IMG_2972_hbqxvz.jpg" >}}
 
 3. **{{< underline "Alcázar de los Reyes Cristianos" >}}**: l’Alcázar de los Reyes Cristianos è un altro monumento famosissimo di Cordoba. Un tempo era la residenza dei re Cattolici, poi divenne prigione. Oggi è un museo e i suoi interni e i giardini sono visitabili a pagamento (noi abbiamo rimandato la visita dato che avevamo già visitato quello di Siviglia e di Granada). 
 
@@ -41,7 +41,7 @@ Possono essere visitate ed è anche possibile assistere ai tipici spettacoli ip
 
 6. **{{< underline "il Ponte Romano" >}}**: il Ponte Romano fu per secoli l’unico ponte di accesso alla città. In orario di tramonto da qui si possono ammirare panorami mozzafiato. Noi l’abbiamo percorso in lungo e in largo insieme a Olimpia e Sakè, che forse hanno incuriosito qualche turista e rubato per un attimo la scena alla storia. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689674834/Articoli/empanada/madrid/cordoba/IMG_2939_wyalfm.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689674834/Articoli/empanada/madrid/cordoba/IMG_2939_wyalfm.jpg" >}}
 
 7. **{{< underline "Plaza de la Corredera" >}}**: la piazza più famosa di Cordoba è Plaza de la Corredera. Negli anni è stata teatro di feste, mercati, corride e esecuzioni. Oggi è sede di mercato e ci si può sedere per una pausa a uno dei tavolini dei piccoli locali presenti. 
 
@@ -54,7 +54,7 @@ All’inizio di questo articolo ti abbiamo accennato a una gita fuori porta. Pri
 Puoi raggiungere il sito, visitabile nell’estate 2023 solo in parte, o a bordo della navetta che parte dal parcheggio adiacente al museo (3 euro a/r a persona) oppure percorrendo circa 2 km a piedi come abbiamo fatto noi.
 L’ingresso al sito è gratuito, così come il parcheggio. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1689674806/Articoli/empanada/madrid/cordoba/IMG_2933_xbyuiz.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689674806/Articoli/empanada/madrid/cordoba/IMG_2933_xbyuiz.jpg" >}}
 
 ##### Ti è venuta voglia di tapas? 
 

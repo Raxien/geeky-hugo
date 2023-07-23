@@ -1,7 +1,7 @@
 ---
 title: 'Normandia in camper con cane e gatto: itinerario, consigli e informazioni utili'
 description: "Alla scoperta della Normandia in camper, un faro dopo l'altro!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1682804742/Articoli/francia/IMG_4788_qzts1g.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682804742/Articoli/francia/IMG_4788_qzts1g.jpg
 date: 2023-03-07T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Francia
@@ -32,13 +32,13 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), se inve
 
 **{{< underline "Giorno 2" >}}**: abbiamo fatto due passi per le vie del centro di Dieppe e vicino al porto, osservando gli aquiloni pronti per il festival di metà settembre. Poi ci siamo spostati di qualche chilometro a Hautot-sur-Mer, in un parcheggio in riva al mare che già conoscevamo per fare due passi in riva fino alla piccola chiesetta con la vetrata blu sul fondo. Dopo questa breve sosta ci siamo spostati nel borgo di Veules Les Roses: un piccolo paesino caratteristico, con rose rampicanti sulle pareti delle case e canali che attraversano il centro storico. Infine abbiamo raggiunto la collina affacciata sulle scogliere, circondati da bunker della seconda guerra mondiale: sotto ai nostri occhi la falesia che contorna Fecamp. Notte in libera. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1682804772/Articoli/francia/IMG_3897_ytghyv.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682804772/Articoli/francia/IMG_3897_ytghyv.jpg" >}}
 
 **{{< underline "Giorno 3" >}}**: sabato mattina a Fecamp indica una cosa, il mercato rionale. Quindi, dopo aver passeggiato sulle scogliere, abbiamo parcheggiato nell'area sosta presente poco prima del paese e raggiunto a piedi la spiaggia e il Palazzo Benedettino, ci siamo diretti in centro. Con le borse cariche di pane, formaggio, frutta, verdura e sidro siamo tornati al van e ci siamo spostati per pranzare in una piccola area pic-nic attrezzata poco prima del paese di Etretat, un luogo che anni prima ci era rimasto nel cuore. La parte storica è ridotta a una piazza che purtroppo è diventata molto turistica, perdendo parte del fascino che doveva avere un tempo. Le scogliere invece sono spettacolari. Si stagliano a destra e a sinistra della passeggiata lungo la spiaggia. Essendoci troppi turisti abbiamo deciso di spostarci in un parcheggio a 15 chilometri affacciato sulla spiaggia di Saint-Jouin-Bruneval e protetto alle spalle da una fila di scogliere. Notte in libera con tramonto mozzafiato. 
 
 **{{< underline "Giorno 4" >}}**: alle 8 in punto di mattina eravamo solo noi e un paio di altri camminatori solitari sulle scogliere di Etretat. Abbiamo iniziato la nostra escursione sul lato destro fino alla chiesetta per poi scendere e tornare verso sinistra, da dove si può ammirare la caratteristica roccia a forma di proboscide. Questi luoghi restano impressi nel cuore e nella memoria. Tornati indietro ci siamo fermati in una piccola panetteria comprando un pain au chocolat, una baguette e una fetta di torta di mele tipica di queste zone (da provare!). Poi siamo tornati al parcheggio in riva alla spiaggia e la sera abbiamo cenato nel piccolo ristorantino con le caratteristiche moules frites a la normandie, cioè cozze con cipolle e crema di formaggio insieme a patatine fritte (ottima qualità prezzo). 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1682804732/Articoli/francia/IMG_3788_cuysni.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682804732/Articoli/francia/IMG_3788_cuysni.jpg" >}}
 
 **{{< underline "Giorno 5" >}}**: dopo essere rimasti tutto il mattino in questo luogo di pace e aver corso sulla spiaggia con i nostri animali, abbiamo deciso di metterci in moto per arrivare a Honfleur, piccolo paesino affacciato sul porto di Le Havre. La città grande non ci aveva emozionati anni prima, quindi abbiamo deciso di andare oltre attraversando il ponte di Normandia, che invece regala uno scorcio fantastico sulla Senna, oltre ad essere una costruzione davvero in armonia con il paesaggio. Parcheggiato a 15 minuti dal centro di Honfleur siamo arrivati a piedi al piccolo porticciolo tondo, popolato di barchette, con palazzi colorati affacciati sulle acque. Le vie del centro sono abbellite da locali e gallerie d’arte, che rendono la visita davvero piacevole. Siamo entrati nella chiesa nella piazza centrale, particolare per la doppia navata speculare e doppio altare. Per la notte ci siamo spostati a Villerville, in uno spiazzo per camper. 
 
@@ -52,7 +52,7 @@ Per la notte ci siamo spostati in un parcheggio che si affaccia direttamente sul
 Le spiagge dello sbarco in Normandia sono 5 e puoi raggiungerle in ordine da sud: Sword Beach, Juno Beach, Gold Beach, Omaha Beach e Utah Beach. La più famosa tra tutte è Omaha Beach, a Colleville-sur-Mer, dove si trova il grande cimitero americano.
 Puoi tranquillamente dedicare una sola giornata alla loro visita, scegliendo magari un paio di musei.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1682806434/Articoli/francia/20190814_101548_HDR_Original_2_tgovpq.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682806434/Articoli/francia/20190814_101548_HDR_Original_2_tgovpq.jpg" >}}
 
 **{{< underline "Giorno 7" >}}**: dopo aver fatto due passi lungo la riva, ci siamo spostati a Saint Vaste la Hague, parcheggiando con vista su di un piccolo faro. Da qui ci siamo incamminati verso il centro città passando vicino alle fabbriche che lavorano le ostriche, fino a raggiungere il porto e il caratteristico faro. Notte in libera.
 
@@ -62,7 +62,7 @@ Puoi tranquillamente dedicare una sola giornata alla loro visita, scegliendo mag
 
 **{{< underline "Giorno 10" >}}**: Granville ci ha accolti con lo stesso fascino che ci aveva dimostrato anni prima. Parcheggiato al porto, abbiamo iniziato a camminare con Olimpia e Sakè dirigendoci verso la parte della città alta, accerchiata da bastioni, un dedalo di stradine in cui perdersi e da cui ammirare la costa. Tornati al van per far riposare gli animali e gustare un pain au chocolate ai tre cioccolati, ci siamo incamminati verso i giardini della casa natale di Christian Dior. La vista sulla baia da qui regala una cartolina deliziosa. Gli alberi fanno da cornice, le acque dapprima cristalline e chiarissime si allontanano in mare aperto per diventare blu scuro. La sabbia bianca crea un contrasto di luce notevole e la schiuma delle onde dona pennellate qua e là. Tornando indietro abbiamo potuto vivere appieno l'atmosfera di festa fra le stradine, con ragazzi del conservatorio intenti a suonare ad ogni angolo. Lasciata Granville, ci siamo spostati per raggiungere un posto in mezzo a un piccolo borgo con poche case, attorniato dai campi. Davanti a noi svettava Mont Saint Michel, in tutto il suo splendore. Abbiamo pranzato sulla panchina, per poi rimanere in questo luogo, ammirare il tramonto sull'Abbazia e dormire indisturbati. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1682804758/Articoli/francia/IMG_4686_pwmksk.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682804758/Articoli/francia/IMG_4686_pwmksk.jpg" >}}
 
 **{{< underline "Giorno 11" >}}**: siamo arrivati di prima mattina al parcheggio di un chioschetto non distante da Mont Saint Michel, dove consumando colazione si può parcheggiare per un paio di ore. Acquistati caffè e Madeleine al cioccolato ci siamo gustati sia i dolci che la vista. Poi, assicurati gli animali in van per evitare loro la bolgia di gente che avremmo incontrato, ci siamo incamminati per un'oretta di passeggiata. Se non te la senti di camminare puoi fare la coda per salire sul trenino a pagamento. Avendo già visitato l'Abbazia anni prima, abbiamo solo camminato per le viuzze, a parer nostro rovinate un po' dalle troppe insegne turistiche, per poi dirigerci in un parcheggio a Cherrueix, in riva al mare. 
 
@@ -92,7 +92,7 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
 
 **{{< underline "Giorno 11" >}}**: Mont Saint Michel
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1682805540/Articoli/francia/IMG_3844_ikkvde.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682805540/Articoli/francia/IMG_3844_ikkvde.jpg" >}}
 
 
 
@@ -113,7 +113,7 @@ Di seguito un'idea di quanto abbiamo speso nei 10 giorni in Normandia, tenendo p
 
 {{< card >}}
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1682804701/Articoli/francia/IMG_3908_molbfa.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682804701/Articoli/francia/IMG_3908_molbfa.jpg" >}}
 
 ##### Viaggiare con il proprio animale
 {{< animali "EU">}}

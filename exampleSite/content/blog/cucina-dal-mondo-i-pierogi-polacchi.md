@@ -1,9 +1,9 @@
 ---
 title: 'Cucina del mondo: i Pierogi polacchi'
 description: Quando siamo arrivati in Polonia abbiamo avuto il piacere di assaggiare i pierogi, tipici ravioli, nella versione salata.. e dolce! Siediti, abbiamo aggiunto un posto a tavola!
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1685384737/IMG_2577_lxtqoc.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1685384737/IMG_2577_lxtqoc.jpg
 date: 2023-06-03T10:00:00+01:00
-categories: [ "Curiosità", "Consigli"]
+categories: [ "Cucina"]
 country: Polonia
 type: featured
 draft: true
@@ -38,7 +38,7 @@ Che dire, siamo ritornati due sere dopo tanto ci è piaciuta!
 
 📍 Local 1, Résidence ÉLÉGANCE, Av. 9 Avril, Tétouan 93000
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1685394819/IMG_2528_ybbk2y.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1685394819/IMG_2528_ybbk2y.jpg" >}}
 
 
 #### Pierogi salati: 
@@ -55,7 +55,7 @@ Che dire, siamo ritornati due sere dopo tanto ci è piaciuta!
 
 📍 Champs de course, 47, Fes 30000
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1685384689/IMG_2082_hiurs5.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1685384689/IMG_2082_hiurs5.jpg" >}}
 
 
 #### Pierogi dolci: 
@@ -72,7 +72,7 @@ Che dire, siamo ritornati due sere dopo tanto ci è piaciuta!
 
 📍 واويزغت Ouaouizeght
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1685384776/IMG_1470_mogkpx.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1685384776/IMG_1470_mogkpx.jpg" >}}
 
 
 #### Trucco speciale
@@ -89,7 +89,7 @@ Che dire, siamo ritornati due sere dopo tanto ci è piaciuta!
 
 📍 100 Boulevard Mohamed V, Dakhla 73000
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_800/f_auto,q_auto:good/v1685384824/IMG_9116_ckfmj2.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1685384824/IMG_9116_ckfmj2.jpg" >}}
 
 
 
