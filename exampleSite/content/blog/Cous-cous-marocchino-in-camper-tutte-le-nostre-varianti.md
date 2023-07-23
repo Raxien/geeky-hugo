@@ -25,7 +25,7 @@ In base ai gusti e alla zona in cui viene preparato di solito contiene vari tipi
 E quali spezie scegliere? Il mix perfetto consiste in una miscela di cumino, coriandolo, paprika e zafferano, ma in base ai gusti di ognuno si può preferire uno o l’altro ingrediente (noi ad esempio usiamo il prezzemolo fresco al posto del coriandolo).
 La ricetta originale prevede di cuocere i chicchi di semola per una ventina di minuti al vapore. Io sono una pessima cuoca e non seguo le regole in modo preciso, per cui in meno di cinque minuti il cous cous a bordo del nostro camper è quasi sempre pronto. 
 Errore irrecuperabile? In realtà no, tutte le confezioni sul loro retro danno ragione ai tempi di cottura da me scelti. 
-Perdiamo un po’ nel gusto, perchè ammetto di non cuocerlo con il brodo. Ma se spadelli due verdure con un trito di cipolle, le sali per benino e ci aggiungi un po’ di amore ti assicuro che verrà fuori un buon piatto. 
+Perdiamo un po’ nel gusto, perché ammetto di non cuocerlo con il brodo. Ma se spadelli due verdure con un trito di cipolle, le sali per benino e ci aggiungi un po’ di amore ti assicuro che verrà fuori un buon piatto. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094775/Articoli/empanada/IMG_3098_j6rtcg.jpg" >}}
 
