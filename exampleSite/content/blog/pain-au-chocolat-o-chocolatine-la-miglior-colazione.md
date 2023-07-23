@@ -42,7 +42,7 @@ Cuocerli, giusto. In forno. **Quale forno?** Il van intero, che domande! Quello 
 **Bugia**. Avrei potuto copiare brutalmente la ricetta da qualcuno che li ha cucinati per davvero. O che almeno ci ha provato.
 O che potrebbe averla copiata a sua volta! **Che problema c’è, suvvia!** Non credo che un pain au chocolat a questo punto possa rimanergli sullo stomaco!
 
-Insomma. Non ho la ricetta semplice perchè semplici da preparare non sono.
+Insomma. Non ho la ricetta semplice perché semplici da preparare non sono.
 Noi al mattino abbiamo fame, quindi per la seconda colazione ben vengano le boulangerie-patisserie!
 
 "Bonjour, vorrei un chocolatine o un pan au chocolate.. insomma.. 
