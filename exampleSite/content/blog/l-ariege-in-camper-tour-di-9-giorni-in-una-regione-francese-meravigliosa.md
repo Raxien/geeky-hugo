@@ -2,11 +2,11 @@
 title: 'L’Ariège in camper: tour di 9 giorni in una regione francese meravigliosa'
 description: Hai mai preso in considerazione di visitare l'Ariege? Scopri con noi perché non dovresti perderti questa regione francese!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1690117438/Articoli/ariege/IMG_4214_klsruv.jpg
-date: 2023-07-23T10:00:00+01:00
+date: 2023-07-26T10:00:00+01:00
 categories: [ "Camper", "Itinerari"]
 country: Francia
 type: featured
-draft: true
+draft: false
 ---
 
 L’Ariège è un dipartimento della Regione Occitania, situato nel cuore dei Pirenei a sud della Francia. Scoperto per caso arrivando da [Andorra](/blog/andorra-in-camper-un-weekend-alla-scoperta-di-panorami-mozzafiato) e andando in direzione [Carcassonne](/blog/carcassonne-citta-medievale-e-omonimo-gioco-da-tavolo), ci siamo **subito innamorati** dei suoi paesaggi fatti di natura incontaminata, borghetti usciti dal medioevo e tutto incorniciato da maestose montagne.
