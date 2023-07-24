@@ -2,7 +2,7 @@
 title: 'Dai mulini a vento della Mancia a Toledo: tour in camper spettacolare!'
 description: Scopri con noi la Castiglia-La Mancia tra castelli e mulini a bordo del camper, inseguendo le orme del Don Quijote fino a raggiungere Toledo, l’antica capitale spagnola.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690125045/Articoli/Spagna/la_mancia_qni2r4.jpg
-date: 2023-07-24T10:00:00+01:00
+date: 2023-07-24T00:00:00+01:00
 categories: [ "Camper", "Itinerari"]
 country: Spagna
 type: featured
