@@ -13,13 +13,13 @@ Il 18 maggio 2022 "**abbiamo chiuso la porta di casa e spalancato quella del van
 **Duecentosessantatre** video dopo, tra contenuti lunghi e corti, tiriamo le somme e prendiamo una decisione: è ora di prendere una pausa.
 
 #### Duecentosessantatre (263)
-Ricordo bene quando abbiamo registrato il nostro primo video tra Rosenheim in Germania e Salisburgo in Austria. E da li iniziò una **corsa** continua per registrare e montare video da poter pubblicare constantemente sul nostro canale. Avere zero esperienza nel videomaking non ha reso il tutto facile ma:
+Ricordo bene quando abbiamo registrato il nostro primo video tra Rosenheim in Germania e Salisburgo in Austria. E da li iniziò una **corsa** continua per registrare e montare video da poter pubblicare costantemente sul nostro canale. Avere zero esperienza nel video making non ha reso il tutto facile ma:
 
 - il 4 ottobre 2022 esce il nostro **centesimo video.**
 - il 14 ottobre 2022 il nostro canale **raggiunge 1000 iscritti!**
 - il 13 gennaio 2023 esce {{< extLink "il nostro primo podcast" "https://youtu.be/Z3IUhW6bUO8" >}}
 
-Oggi il nostro canale conta 3257 iscritti, 263 video e in 86 di questi **raccontiamo 410 giorni** della nostra vita tra avventure e disavventure in grio per l'Europa e Africa.
+Oggi il nostro canale conta 3257 iscritti, 263 video e in 86 di questi **raccontiamo 410 giorni** della nostra vita tra avventure e disavventure in giro per l'Europa e Africa.
 
 Lo ripeto, **quattrocentodieci giorni** della nostra vita sono nero su bianco (in realtà solo i bloopers il resto è a colori 😂) su {{< extLink "YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw" >}}. Visibili 24 ore su 24 ore da chiunque.
 
@@ -49,7 +49,7 @@ Poi per carità, Sara non sa stare ferma e ha voluto raccontare **questi fantast
 #### E ora?
 Premiamo il tasto pausa **ma non stop.**
 
-Abbiamo staccato la spina andando letteramente in ferie, anche se non sembra dato che siamo da 400+ giorni on the road, interrompendo quel loop. Abbiamo dato tempo alla nostra mente di riposarsi e ricarsi. Un periodo di decompressione per ri-organizzare le idee e realizzare tutto quello che abbiamo visto e fatto. 
+Abbiamo staccato la spina andando letteralmente in ferie, anche se non sembra dato che siamo da 400+ giorni on the road, interrompendo quel loop. Abbiamo dato tempo alla nostra mente di riposarsi e ricaricarsi. Un periodo di decompressione per riorganizzare le idee e realizzare tutto quello che abbiamo visto e fatto. 
 
 Una pausa che ci ha permesso di schiarire quella nebbia che alleggiava sul nostro futuro, ancora incerto ma a cui siamo riusciti a dare una direzione. Abbiamo fissato un obbiettivo, che scoprirete presto, per esser meno in balia degli eventi. 
 
