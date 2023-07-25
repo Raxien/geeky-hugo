@@ -64,7 +64,7 @@ Abbiamo riesumato un sogno, che non sveliamo perchè già una volta è dovuto ri
 
 
 <!-- E' ancora incerto ma quest'anno in giro per il mondo ci ha permesso di capire molto e  -->
-Tutto bello ma quindi il canele YouTube?
+Tutto bello ma quindi il canale YouTube?
 Non sappiamo ancora quando torneremo "online" ma sappiamo che da oggi ci attendono mesi di fuoco, oltre che per il caldo estivo. 
 Abbiamo una lista infinita di cose da fare e all'ultimo si è aggiunto un impegno che avevamo ormai depennato. 
 Una cosa è certa, non vediamo l'ora di riprendere a registrare, montare e raccontare. 
