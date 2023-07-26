@@ -1,46 +1,90 @@
 ---
-title: "Gateau basque: dolci dal mondo"
-description: "Hai mai assaggiato il Gateau Basco, lo scrigno di burro, zucchero, vaniglia e farina che racchiude varie marmellate o crema pasticciera? Scoprilo con noi!"
-image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690376117/Articoli/rabat/gateau/gateau_fiktyd.jpg"
+title: "Pesche ripiene in camper: un dolce piemontese in giro per il mondo"
+description: "Le pesche ripiene sono da sempre tra i piatti preferiti delle nostre famiglie piemontesi. Scopri la nostra versione da preparare in camper!"
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690377897/Articoli/rabat/gateau/persi_pien_uzkza9.jpg"
 date: 2023-07-24T10:00:00Z
 categories: ["Cucina"]
-country: Paesi Baschi
+country: Italia
 type: featured
 draft: true
 ---
 
-Il **Gâteau Basque** è un dolce originario dei Paesi Baschi, ma ormai decisamente diffuso anche nella vicina Francia. 
-Ed è stato proprio in un paese francese, a Bayonne, che abbiamo assaggiato per la prima volta questo piccolo scrigno dal cuore dolce e ce ne siamo innamorati. 
+Le pesche ripiene sono da sempre tra i piatti preferiti delle nostre famiglie piemontesi. 
+Preparate con amore dalle nostre nonne per le merende estive, potevamo non provare anche noi a cucinare le pesche ripiene a bordo del camper in giro per il mondo? 
 
-##### Le origini del Gâteau Basque
+##### Le origini dei persi pien 
 
-La *ricetta tradizionale* prevede una ripieno a base di marmellata di ciliegie nere ma ormai sui banchi delle pasticcerie si trovano tantissime varianti, dalla classica crema pasticciera a marmellate tutti i gusti più uno. 
+Quando ero bambina pensavo che la ricetta delle pesche ripiene fosse stata inventata da mia nonna. 
+Poi un giorno, quando le chiesi di cucinarle per tutto il paese, lei mi disse che ogni nonna del quartiere sapeva prepararle e che tutti probabilmente avevano già assaggiato i deliziosi scrigni ripieni di amaretti e cioccolato. 
+Rimasi amareggiata per una frazione di secondo, il tempo per ricevere il bis fra le risate di tutta la famiglia. 
 
-Si narra che il Gâteau Basque sia originario della città di Cambo-les-Bains, dove veniva preparato da una donna che tramandò la ricetta a figlia e nipoti.
-Pare poi che la ricetta sia stata venduta proprio da una delle discendenti a un rivale pasticcere.
-Una storia dolce-amara per un dolce che inizialmente non prevedeva una farcia a quanto pare, ma solo un po’ più di uova e zucchero nell’impasto.
+A quanto pare quindi già durante Medioevo e Rinascimento i persi pien erano un piatto che non poteva mancare nelle *merende sinoire* delle famiglie di campagna piemontesi.
 
-##### Ingrediente fondamentale: il burro!
+Immaginate un banchetto a base di pane, salame, formaggio e un goccio di vino rosso, con a termine le pesche nettarine addolcite da amaretti, zucchero e cacao: ingredienti del territorio, trasformati in un tradizione che regna ancora sulle nostre tavole. 
 
-Ovviamente un ingrediente principe della pasta frolla del Gâteau Basque è il burro, in quantità notevoli, da amalgamare con farina, farina di mandorle, zucchero, uova.
+##### Chi rese pubblica la ricetta?
 
-È nella cottura in forno che i due dischi di pasta frolla si uniscono e diventano un vero e proprio scrigno di dolcezza.
-Davvero difficile scegliere fra uno dei tanti gusti disponibili, motivo per cui come primo assaggio abbiamo scelto il Gateau Basco classico tradizionale.
+Ada Boni fu la prima donna a citare i Persi Pien nel suo libro “Il talismano della felicità” del 1929, consigliando di grattugiare del cioccolato fondente sul finale e di servire le pesche ripiene fredde. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690376115/Articoli/rabat/gateau/gateau_basco_txp2fs.jpg" >}}
+In quella che invece è considerata la Bibbia della cucina piemontese, il libro “Nonna Genia”, Beppe Lodi e Luciano De Giacomi suggeriscono di mescolare il cacao amaro in polvere con gli altri ingredienti e di servire le pesche ripiene calde o tiepide.
 
-##### Una storia divertente: la nostra prova assaggio
+**Nonna Teie** mi insegnò a mettere un po’ di cacao in polvere ma non troppo, in modo da aggiungere qualche scaglia di cioccolato senza sentirsi in colpa e soprattutto a prepararne una buona quantità, per mangiare i persi pien sia tiepidi che freddi nei giorni a venire. 
 
-Ovviamente secondo te potevamo non vivere l'assaggio di questo dolce senza creare una situazione divertente o imbarazzante?
-Allora immaginaci che entriamo in questo negozio tutto luminoso.. prendiamo un gateau in due, la signora carina ci mette nella busta due pepite che immaginiamo essere cioccolatini. 
-Tutti felici camminiamo per le viuzze del paese fra cioccoli e case a graticcio, decidendo di non poter resistere all'assaggio del gentile omaggio. 
-Peccato che non fossero cioccolatini, bensì probabilmente "fudge", dei dolcetti gommosi che ci si sono appiccicati ai denti! Siamo scoppiati a ridere dal disgusto, peggiorando la situazione: noi, in mezzo alla strada, con un fudge incollato ai denti, la gopro in mano che ha ripreso tutto.. e le papille gustative in ribellione! 
+A casa nostra si usava far le cose in grande: *grandi porzioni per grandi sorrisi!*
 
-Insomma se vuoi farti una risata in compagnai trovi tutto in questo video! 
+Clicca nel video qui sotto se vuoi vederci impazzire felicemente nella cucina del camper per preparare i persi pien!
+{{< youtube f8yDEwQbMFs >}} 
 
 
-{{< youtube 3BQKTpHqFP4 >}} 3BQKTpHqFP4
+##### Ingredienti per la classica ricetta 
 
-E tu quale ripieno avresti scelto? Ti aspettiamo nei commenti. 
+- 6 pesche con pasta gialla (belle sode)
+- 2 tuorli
+- 60 g zucchero
+- 80 g amaretti
+- 4 cucchiai cacao amaro in polvere
+- 2 cucchiai rhum
+- q.b. burro
+- q.b. scaglie di cioccolato fondente 
+
+
+###### Preparazione
+
+Se non hai mai preparato le pesche ripiene non preoccuparti perché la ricetta è facilissima e io ho imparato a cucinarle da bambina. 
+
+- lava le pesche, asciugale e dividile a metà, lasciando loro la buccia
+- elimina il nòcciolo e con un cucchiaino asporta un pochino di polpa lasciando uno strato di almeno un centimetro dentro la buccia
+- con il fondo di un bicchiere trita grossolanamente gli amaretti
+- mettili in un mixer insieme alla polpa delle pesche aggiungendo, poi, la polpa delle pesche, il cacao, i tuorli, lo zucchero e il rhum
+- frulla tutto fino ad ottenere un composto omogeneo
+- imburra una teglia o coprila con carta da forno e sistema le pesche a pancia in su
+- riempi le pesche con il composto e inforna a 180° per 40-45 minuti. 
+
+A fine cottura puoi guarnire con qualche scaglia di cioccolato fondente. 
+
+###### Ingredienti per la ricetta senza forno e/o in camper 
+Vivendo in camper e non avendo il forno ho dovuto trovare un modo alternativo per creare il mio dolce preferito. Ne è uscita una versione della quale non so se nonna Teie sarebbe orgogliosa, ma che noi abbiamo parecchio apprezzato. 
+
+**Ingredienti**
+
+- 3 pesche 
+- 1 vasetto yogurt bianco 
+- 1 cucchiaino cacao amaro
+- 15 amarettiq.b. 
+- Cioccolato fondente
+
+Lava le pesche e tagliale a fettine. Frullane la metà con lo yogurt, il cacao e gli amaretti, tenendone da parte un paio. 
+In una coppetta disponi le fettine di pesca a raggiera, come se fossero gli spicchi del sole. Poni al centro la crema ottenuta, guarnisci con amaretti sbriciolati e scaglie di cioccolato fondente.
+
+Ps: Se ti avanza della crema, tienila in frigorifero e mangiala a cucchiaiate :) 
+
+Hai mai assaggiato i persi pien? 
+Ti aspettiamo nei commenti! 
+
+
+
+
+
+
 
 
