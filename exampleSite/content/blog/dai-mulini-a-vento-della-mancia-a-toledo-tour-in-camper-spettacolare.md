@@ -88,7 +88,7 @@ Dopo aver assaggiato un paio di dolci tipici con farina di mandorle, abbiamo rag
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690125054/Articoli/Spagna/toledo_dall_alto_nz610o.jpg" >}}
 
-È proprio in un’ala dell’Alcazar che si trova la **Biblioteca de Castilla La Mancia**: ti consigliamo di entrarci perchè dalla sua caffetteria potrai ammirare gratuitamente la città dall’alto. 
+È proprio in un’ala dell’Alcazar che si trova la **Biblioteca de Castilla La Mancia**: ti consigliamo di entrarci perché dalla sua caffetteria potrai ammirare gratuitamente la città dall’alto. 
 
 Lasciato il punto più alto alle spalle ci siamo diretti verso la meravigliosa **Porta dei Leoni** e la **{{< extLink "Cattedrale di Toledo" "https://www.catedralprimada.es/it/info/museos/venta-de-entradas/" >}}** visitabile al costo di 10 € o gratuitamente dal lunedì al venerdì dalle 8 alle 9.30.
 

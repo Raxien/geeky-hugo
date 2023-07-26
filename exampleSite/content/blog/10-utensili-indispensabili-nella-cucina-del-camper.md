@@ -1,11 +1,11 @@
 ---
-title: '10 utensili indispendabili nella cucina in camper!'
-description: Scopri le 10 cose essenziali da avere nella cucina del camper.
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1657024162/Articoli/10_cose_per_un_viaggio_ontheroad_udittt.jpg
+title: '10 utensili indispensabili nella cucina in camper!'
+description: Scopri le 10 cose essenziali da avere nella cucina del camper che ci fanno risparmiare tempo e gas!
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1690377961/Articoli/Viaggio/cucina-attrezzi_gxutzz.jpg
 date: 2023-07-22T10:00:00+01:00
-categories: [ "Cucina", "Consigli"]
+categories: [ "Cucina", "Camper"]
 type: regular
-draft: true
+draft: false
 ---
 
 <!-- foto e link amazon -->
@@ -31,29 +31,35 @@ Un set composto da 1 padella e 2 pentole:
 3. la padella per la frittata o per cuocere le verdure 
 
 ###### 2. Leccapentole
-Un must have per evitare di sprecare cucchiaiate di sugo in padella!
+Un **must have** per evitare di sprecare cucchiaiate {{< extLink "di sugo in padella!" "https://amzn.to/3O7uU7D" >}}
 
 ###### 3. Contenitori impilabili
-Ne abbiamo una serie in bioplastica con annessi coperchi. Tengono poco spazio e le misure si addicono a ogni necessità.
+Ne abbiamo una serie in bio plastica con annessi coperchi. **Tengono poco spazio** e le misure si addicono a ogni necessità.
 
 ###### 4. Tazzine in ceramica
 Il caffè a bordo è una cosa sacra. Va bevuto **nella tazzina giusta.** 
 Che una delle due sia caduta a terra e le si sia rotto il manico poco importa. 
 
-###### 5. Moka
-Come dicevamo il caffè è sacro e va preparato nella moka, come ci hanno insegnato le nostre nonne.
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690377958/Articoli/Viaggio/tazzine-caffe_z2v792.jpg" >}}
+_Prese con i punti Dí per Dí, ve lo ricordate?_
 
-###### 6. Pentola a pressione
+###### 5. Moka
+Come dicevamo il caffè è sacro e va preparato {{< extLink "nella moka" "https://amzn.to/3Qa8IMZ" >}}, come ci hanno insegnato le nostre nonne.
+
+###### 6. Set di posate in acciaio
+Saranno anche comode le posate di plastica ma ben venga un set di 4 forchette, coltelli, cucchiai e cucchiaini recuperati da casa. Si lavano in un baleno e non si rompono mai **(spero..!)**
+
+###### 7. Piatti e bicchieri in bioplastica
+Non volevamo piatti in ceramica a bordo, ma nemmeno i classici piatti di plastica o carta usa e getta. Questo materiale **è resistente**, si riesce a lavare bene e non trattiene odori né colori. Insomma, il giusto compromesso per mangiar composti a tavola. Ammetto che abbiamo anche due ciotole dello stesso materiale, perfette per le minestre. Lo stesso vale per i bicchieri e le tazze per la colazione. 
+
+###### 8. Pentola a pressione
 Quella del servizio di matrimonio dei miei, signor sì. 
 Non condividiamo con precisione la data di compleanno, però troppi anni di gioie mancate quelli sì. Così ho deciso di averla a bordo e sfruttarla in una miriade di preparazioni: dal riso alla purea ai legumi ai sughi alle verdure ... insomma **ci cuocio di tutto**! 
 
-Lei riduce i tempi di cottura, il consumo di gas e noi siamo più felici perché le pance **si riempiono prima.**
+{{< extLink "Lei" "https://amzn.to/3Ov3v0V" >}} riduce i tempi di cottura, il consumo di gas e noi siamo più felici perché le pance **si riempiono prima.**
 
-###### 7. Set di posate in acciaio
-Saranno anche comode le posate di plastica ma ben venga un set di 4 forchette, coltelli, cucchiai e cucchiaini recuperati da casa. Si lavano in un baleno e non si rompono mai **(spero..!)**
-
-###### 8. Piatti e bicchieri in bioplastica
-Non volevamo piatti in ceramica a bordo, ma nemmeno i classici piatti di plastica o carta usa e getta. Questo materiale **è resistente**, si riesce a lavare bene e non trattiene odori né colori. Insomma, il giusto compromesso per mangiar composti a tavola. Ammetto che abbiamo anche due ciotole dello stesso materiale, perfette per le minestre. Lo stesso vale per i bicchieri e le tazze per la colazione. 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690377964/Articoli/Viaggio/pentola-a-pressione_plwolo.jpg" >}}
+_La salvezza!_
 
 ###### 9. Coperchi in silicone
 Ne abbiamo due, di diametro piccolo e medio. Sigillano bene padelle e pentole, permettono di isolare in cottura, tengono poco spazio.
@@ -66,7 +72,7 @@ Finché non si è rotta avrei messo la bilancia al primo posto dato che mi aiuta
 
 Presto forse ci sarà una new entry in cucina, ma finché **non la vedo non ci credo!**
 
-Che te ne pare? Manca qualcosa di fondamentale?
+Che te ne pare? **Manca qualcosa di fondamentale?**
 
 Se invece vuoi qualche consiglio sul come fare la spesa a bordo e su come evitare sprechi in cucina trovi tutto in questo video! 
 

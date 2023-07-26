@@ -60,7 +60,7 @@ Un periodo di decompressione, per riorganizzare le idee e realizzare tutto quell
 
 Una pausa che ci ha permesso di schiarire quella nebbia che alleggiava sul nostro futuro, ancora incerto tuttora ma al quale siamo riusciti a dare almeno una direzione. 
 Abbiamo fissato un obbiettivo, che scoprirete presto.
-Abbiamo riesumato un sogno, che non sveliamo perchè già una volta è dovuto rimanere tale. 
+Abbiamo riesumato un sogno, che non sveliamo perché già una volta è dovuto rimanere tale. 
 
 
 <!-- E' ancora incerto ma quest'anno in giro per il mondo ci ha permesso di capire molto e  -->
