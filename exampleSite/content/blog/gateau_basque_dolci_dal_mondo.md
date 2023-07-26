@@ -2,7 +2,7 @@
 title: "Gateau basque: dolci dal mondo"
 description: "Hai mai assaggiato il Gateau Basco, lo scrigno di burro, zucchero, vaniglia e farina che racchiude varie marmellate o crema pasticciera? Scoprilo con noi!"
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690376117/Articoli/rabat/gateau/gateau_fiktyd.jpg"
-date: 2023-08-04T10:00:00Z
+date: 2023-07-24T10:00:00Z
 categories: ["Cucina"]
 country: Paesi Baschi
 type: featured
