@@ -6,7 +6,7 @@ date: 2023-07-27T10:00:00+01:00
 categories: [ "Camper", "Itinerari"]
 country: Francia
 type: featured
-draft: false
+draft: true
 ---
 
 L’Ariège è un dipartimento della Regione Occitania, situato nel cuore dei Pirenei a sud della Francia. Scoperto per caso arrivando da [Andorra](/blog/andorra-in-camper-un-weekend-alla-scoperta-di-panorami-mozzafiato) e andando in direzione [Carcassonne](/blog/carcassonne-citta-medievale-e-omonimo-gioco-da-tavolo), ci siamo **subito innamorati** dei suoi paesaggi fatti di natura incontaminata, borghetti usciti dal medioevo e tutto incorniciato da maestose montagne.
