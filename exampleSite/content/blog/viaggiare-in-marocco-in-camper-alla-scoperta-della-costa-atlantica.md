@@ -1,52 +1,41 @@
 ---
-title: 'Marocco in camper: itinerari, consigli e informazioni utili' 
+title: 'Marocco in camper: alla scoperta della costa atlantica' 
 description: ""
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1680644212/Senegal-in-camper_dycaxx.png
-date: 2022-07-26T17:00:00.000
-categories: ["Africa", "Guida", "Itinerari", "Camper"]
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1680644212/Senegal-in-camper_dycaxx.png
+date: 2023-07-16T17:00:00.000
+categories: ["Africa", "Itinerari", "Camper"]
 type: regular
 country: Marocco
 draft: true
-victor: true
 ---
 
-Scoprire il Marocco a bordo del nostro camper è stata una decisione presa in itinere. Da sempre affascinati dal paese, non avevamo mai avuto modo di visitarlo. Quando dormendo sulla costa andalusa abbiamo iniziato ad osservarne il confine in lontananza, ci siamo decisi a comprare i biglietti del traghetto e a raggiungere così l'Africa via terra. 
-Sicuramente sulla nostra decisione hanno molto influito i racconti più che positivi di Rose e Fabio (che puoi 
+Scoprire il Marocco a bordo del nostro camper è stata **una decisione presa in itinere**. Da sempre affascinati dal paese, non avevamo mai avuto modo di visitarlo. Quando dormendo sulla [costa andalusa](/blog/andalusia-on-the-road-alla-scoperta-di-setenil-de-las-bodegas-e-ronda) abbiamo iniziato ad osservarne il confine in lontananza, ci siamo decisi a comprare i biglietti del traghetto e a raggiungere così **l'Africa via "terra".**
+
+Sicuramente sulla nostra decisione hanno molto influito i racconti più che positivi dei nostri amici Rose e Fabio dei **"Giramondo ma non troppo"** (che puoi 
 {{< extLink "ascoltare qui" "https://youtu.be/bEgypQBv2wI" "Ascolta il podcast dei Giramondo ma non troppo - un anno e mezzo in Marocco e non solo">}}), che non hanno mai smesso di supportarci e sopportarci, oltre a darci preziosi consigli circa luoghi dove sostare e da visitare. 
+
 A fine gennaio 2023 abbiamo quindi comprato i biglietti per il traghetto da Algeciras a Tanger Med e ci siamo imbarcati insieme a Olimpia e Sakè. 
-Abbiamo deciso di scrivere due articoli, dal momento che il nostro viaggio nel paese si è interrotto per proseguire a su verso la Mauritania e il Senegal: nel primo troverete tutte le tappe che abbiamo effettuato lungo la costa atlantica, nel secondo l'itinerario relativo all'entroterra e alla risalita. 
+
+Abbiamo deciso di scrivere due articoli, dal momento che il nostro viaggio nel paese si è interrotto per proseguire a sud attraverso la Mauritania e il Senegal: nel primo troverete tutte le tappe che abbiamo effettuato lungo la costa atlantica, nel secondo l'itinerario relativo all'entroterra e alla risalita. 
 
 > ##### Tabella dei contenuti
-> - [Il Paese](#il-paese)
 > - [Itinerario](#itineario)
-> - [Consigli Utili](#consigli-utili)
->     - [Documenti](#documenti) 
->     - [Clima](#clima-e-quando-andare)
->     - [Come pagare](#come-pagare)
->     - [Vaccini e assicurazione sanitaria](#vaccini-e-assicurazione-sanitaria)
->     - [Dogane](#dogana)
->     - [Strade](#strade)
->     - [Sicurezza](#sicurezza-nel-paese)
-> - [Parchi e altre escursioni](#i-parchi-e-altre-escursioni) 
-> - [Mezzi di trasporto pubblici](#mezzi-di-trasporto-pubblici)
-> - [Dove e cosa mangiare](#dove-e-cosa-mangiare)
-> - [Dove dormire](#dove-dormire)
-> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
+>   - [In breve](#in-breve)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe)
-
-##### Il paese
 
 ##### Itinerario
 
 In questa sezione vi elencheremo tutte le tappe della nostra avventura, portandovi con noi da nord a sud del paese, rimanendo sempre lungo la costa atlantica. 
 Al fondo di questo articolo troverete la mappa con tutti i puntalini relativi a soste e luoghi di interesse [clicca qui se vuoi saltare i dettagli](#considerazioni-e-tappe-imperdibili) 
 
-**{{< underline "Giorno 1" >}}**: siamo arrivati a Tanger Med intorno alle 13 e dopo aver svolto le pratiche doganali, passando attraverso lo scanner, ci siamo diretti immediatamente verso Assilah, 80 km a sud. Era sabato e per nostra fortuna abbiamo avuto modo di vivere subito l'atmosfera del souk. La passeggiata lungo le mura della cittadina è davvero piacevole. Abbiamo sostato in libera in un piazzale molto tranquillo a due passi dal centro città.
+**{{< underline "Giorno 1" >}}**: siamo arrivati a **Tanger Med intorno alle 13** e dopo aver svolto le pratiche doganali, passando attraverso lo scanner e ci siamo diretti immediatamente verso **Assilah** a 80 km a sud. Era sabato e per nostra fortuna abbiamo avuto modo di vivere subito l'atmosfera del souk, il tipico mercato marocchino. La passeggiata lungo le mura della cittadina è davvero piacevole, colorata, viva, in festa. Sosta in libera in un piazzale molto tranquillo a due passi dal centro città.
 
-**{{< underline "Giorno 2" >}}**: abbiamo lasciato Assilah e ci siamo diretti a Larache, trovata per caso sulla cartina. La medina appare da lontano come un cumulo di dadi bianchi e blu. Lungo la strada abbiamo osservato a malincuore numerosi cumuli di pattume a cielo aperto. Siamo arrivati poi nel piccolo paesino di Moulay Bousselham, animato da pescatori che effettuano escursioni nella piccola laguna. Qui si trova anche un piccolo souk coperto. Dati i numerosi rifiuti e cani randagi ci siamo rimessi in marcia, raggiungendo un parcheggio libero nei pressi di un hotel, con possibilità di passeggiata lungo l'oceano.
+**{{< underline "Giorno 2" >}}**: ci siamo diretti verso **Larache**, trovata per caso sulla cartina. La medina appare da lontano come un cumulo di dadi bianchi e blu. Lungo la strada abbiamo osservato a malincuore numerosi cumuli di pattume a cielo aperto. 
+
+Siamo arrivati poi nel piccolo paesino di Moulay Bousselham, animato da pescatori che effettuano escursioni nella piccola laguna. Qui si trova anche un piccolo souk coperto. Dati i numerosi rifiuti e cani randagi ci siamo rimessi in marcia, raggiungendo un parcheggio libero nei pressi di un hotel, con possibilità di passeggiata lungo l'oceano.
 
 **{{< underline "Giorno 3" >}}**: abbiamo visitato Salè,parcheggiando vicino alla Moschea e immergendoci nelle vie a contatto con la gente del posto, prima di attraverare l'omonimo fiume e dirigerci a Rabat, la capitale del paese. Il divario qui è decisamente notevole. Abbiamo scoperto una città in forte crescita, con palazzi all'avanguardia, mezzi pubblici moderni, una Kashba ben curata con giardini ordinati e un souk decisamente pulito e ricco di dettagli.
 Lasciata la capitale ci siamo diretti a El Jadida, antica colonia portoghese, sostando in libera nel parcheggio di un supermercato.
@@ -91,25 +80,7 @@ Lasciata la capitale ci siamo diretti a El Jadida, antica colonia portoghese, so
 Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese. 
 
 
-##### Documenti
-
-crta verde 
-
-
-##### Clima e quando andare
-
-
-##### Come pagare
-
-##### Internet
-
-
-##### Vaccini e assicurazione sanitaria
-Non è richiesta alcuna vaccinazione obbligatoria per i viaggi in Marocco.
-
-Prima della partenza vi consigliamo però di stipulare un’assicurazione sanitaria, se ne trovano moltissime su internet e il prezzo varia in base ai giorni di permanenza, all'età e allo stato di salute. 
-
-##### Dogana
+###### In breve
 
 
 
@@ -133,10 +104,6 @@ In tutto il paese l'ospitalità pare essere sacra, ma non dimenticatevi che i la
 In particolare abbiamo sentito numerose storie di persone verso il cui mezzo sono stati tirati dei massi. 
 Sovente i bambini vi fermeranno per chiedere una moneta. 
 
-##### I parchi e altre escursioni
-
-##### Mezzi di trasporto pubblici 
-
 ##### Dove e cosa mangiare 
 In tutto il paese si trovano tantissime botteghine che vendono un po' di tutto 
 Nel nord è molto facile trovare anche grandi supermercati come Carrefour o Marjane.
@@ -157,6 +124,7 @@ In Marocco non sono obbligatorie ulteriori profilassi particolari, in ogni caso 
 Soprattutto lungo la costa abbiamo notato anche molti branchi di cani randagi. 
 
 ##### Quanto abbiamo speso
+
 
 
 ##### Considerazioni
