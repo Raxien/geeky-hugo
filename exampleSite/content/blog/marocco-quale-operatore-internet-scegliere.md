@@ -1,98 +1,81 @@
 ---
-title: '5 parcheggi per camper in Marocco da sogno'
-description: 5 parcheggi, tutti gratuiti tranne uno, in cui vivere e sognare a bordo del tuo camper
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684506267/IMG_9525_umvoqs.jpg
-date: 2022-07-05T10:00:00+01:00
-categories: [ "Curiosità", "Consigli"]
+title: 'Come avere Internet e chiamate in Marocco: quale operatore scegliere'
+description: Se stai pianificando di visitare il Marocco ecco quale operatore scegliere per spendere meno!
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689177365/Articoli/Marocco/marocco-internet_ekw4wn.png
+date: 2023-07-12T10:00:00+01:00
+categories: [ "Africa", "Consigli"]
 type: regular
 draft: true
 ---
 
-Quando si viaggia a bordo di un van o camper o tenda e si sceglie di dormire in libera non è sempre scontato trovare un posto per la notte in cui valga la pena fermarsi un po' di più. 
-Spesso poi, se quel luogo è davvero perfetto, ci si deve spostare per poter trovare i servizi o per fare rifornimento di viveri. 
-In 3 mesi in Marocco abbiamo avuto la fortuna di trovare 5 luoghi che ci hanno davvero regalato una sosta paradisiaca. 
+Nel mondo interconnesso di oggi, l'accesso a Internet è diventato essenziale quando si viaggia, consentendo di rimanere in contatto con amici e familiari, **condividere esperienze sui social**, ottenere informazioni su luoghi da visitare e molto altro. Se stai pianificando **un viaggio in Marocco** e desideri rimanere connesso durante la tua avventura, abbiamo preparato una guida pratica su come ottenere Internet nel paese.
 
-Si tratta di posti in cui ci siamo sentiti in sicurezza e in cui non abbiamo dovuto pagare per sostare, tranne uno presidiato da un guardiano notturno. 
-Ti lasceremo la mappa con le coordinate, ma ricordati che si tratta di suolo pubblico e che quindi nel tempo qualcosa potrebbe cambiare!
+##### Punti di accesso Wi-Fi
+I punti di accesso Wi-Fi sono ampiamente disponibili **in molte città e località turistiche del Marocco**. Hotel, ristoranti, caffè e centri commerciali spesso offrono connessioni Wi-Fi gratuite ai loro clienti. Tuttavia, tieni presente che la qualità e la velocità della connessione potrebbero variare. 
 
-Torniamo però insieme in quei luoghi insieme e leggi fino al fondo per scoprire il nostro preferito! 
+I punti di accesso Wi-Fi possono essere una soluzione comoda per caricare qualche foto sui social o la ricerca di informazioni, ma potrebbero non essere affidabili per attività che richiedono una connessione stabile, come lo streaming di video o il download di grandi file.
 
-#### Mirleft-Sidi Ifni
-Siamo arrivati in questo luogo affacciato sulal costa atlantica un pomeriggio intorno alle 18, giusto in tempo per conoscere i vicini di van (altri due mezzi stranieri) e ammirare ognuno appoggiato alla propria casa mobile un tramonto a dir poco meraviglioso in cima alle scogliere.
+##### Scheda SIM locale
+Un'opzione **altamente consigliata** per ottenere Internet durante il tuo viaggio in Marocco è l'acquisto di una scheda SIM locale. Sul territorio sono presenti tre operatori:
+- Maroc Telecom
+- Inwi
+- Orange
 
-_ACCESSO_ 
-La strada per arrivarci è sterrata, fattibile con un mezzo come il nostro (van 5.40), forse più difficile con un mezzo più lungo e soprattutto sconsigliata se nei giorni precedenti dovesse aver piovuto.
-_SERVIZI_
-Se hai bisogno di cibo nella vicina Sidi Ifni trovi un piccolo souk provvisto di ogni bene.
-Vuoi fare anche un bagno o camminare a riva? Ti basta fare qualche chilometro di strada e trovi le spiagge di Sidi Ifni o Mirleft. 
+###### Maroc Telecom 
+**{{< extLink "Maroc Telecom" "https://www.iam.ma/" >}}** è la scelta migliore se si vuole avere internet sempre **anche in mezzo al deserto del Sahara!** Potrete acquistare la SIM facilmente nei negozi autorizzati, nelle stazioni e negli aeroporti. Inoltre è **l'unica opzione se si prevede un soggiorno breve** (meno di un mese).
 
-L'unico problema di questo luogo è che essendo in cima alle scogliere può essere pericoloso in caso di forte vento. E' proprio per questo motivo che abbiamo deciso di spostarci ed evitare di metterci in pericolo.
+Avere internet ovunque si paga infatti è l'operatore **più caro**: nel momento in cui siamo stati noi in Marocco (2023) il prezzo per avere un giga di internet era di un euro (o 10 dh).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684505852/IMG_7082_pg35bw.jpg" >}}
+Per ricaricare basta anadre in qualsiasi attività commerciale con l'insegna "Maroc Telecom" e acquistare una ricarica in base alle proprie esigenze. Successivamente basta inviare un SMS al 555 col codice a 14 cifre seguito da *3 (Es. 12345678901234*3). Non dimenticarti il *3 sennò anziché ricaricare interent **riceverai minuti per chiamare!**
 
-#### Tafraout
-Hai mai immaginato di dormire in mezzo a un palmeto? Per noi è stata una prima volta davvero emozionante.
-In questo luogo tra l'altro pui concederti numerose escursioni, sia a piedi sulle montagnole circostanti che a bordo del tuo mezzo per raggiungere ad esempio le vicine rocce colorate. 
-<!-- link video  -->
-_ACCESSO_ 
-La strada per arrivarci è asfaltata, per poi tramutarsi in sterrato e prato nella zona adibita a parcheggio. E' fattibile per qualsiasi mezzo. 
-_SERVIZI_
-Il paese di Tafraout offre numerosi negozi e ristoranti ed è comodamente raggiungibile a piedi. Ogni giorno passa un panettiere in bicicletta nel parcheggio e una volta a settimana un camioncino per il rifornimento dell'acqua.
+Maroc Telecom offre delle promozioni per avere interent illimitato, non sono economiche (sui 70 euro al mese) e noi non siamo riusciti ad accedervi.
 
-Per sostare la notte si paga una tassa di 15 DH a un guardiano notturno (che controlla però veramente il parcheggio).
+{{< procontro pro1="Si trova facilmente" pro2="Prende anche nel Sahara" contro1="Caro" >}}
 
-Vuoi vedere le nostre avventure in questo luogo fra trekking e rocce colorate? 
-{{< youtube VUcb9JEbnME>}}
+###### Inwi
+Per tutti i tre mesi in cui siamo stati in Marocco noi ci siamo affidati a **{{< extLink "Inwi" "https://www.inwi.ma/" >}}** e ci siamo trovati bene anche al netto di alcuni problemi di connessione.
 
-#### Cattedrale di Amsfrane 
-Non immaginarti una sosta religiosa, perché di una Cattedrale in questo luogo troverai solo la forma di una montagan imponente. Tutto attorno la natura regna sovrana, con alberi e il letto del fiume. 
+Il vantaggio di quest'operatore sta, non tanto nelle offerte ricaricabili (che costano come Maroc Telecom) ma nei **servizi in abbonamento** che spaziano fra varie offerte. Nei tre mesi passati in Marocco abbiamo usato le seguenti offerte:
+- {{< extLink "Piano Social" "https://inwi.ma/particuliers/offres-mobiles/forfait-mobile" >}}: per 49dh al mese (circa 5 euro) da accesso illimitato ai social: WhatsApp, Twitter, Facebook e Instagram (a proposito, {{< extLink "sai che puoi seguirci cliccando qui?" "https://www.instagram.com/vandipety/">}}))
+- {{< extLink "i-Dar" "https://inwi.ma/particuliers/offres-internet/wifi-a-la-maison/idar-duo" >}}: a partire da 199dh al mese (circa 20 euro) si può avere internet illimitato! La versione base viaggia a massima velocità per i primi 3/4 Giga **dopodiché rallenta** permettendo comunque di navigare senza problemi. **Non funziona con i router portatili** ma permette di fare hotspot da uno smartphone.
 
-_ACCESSO_ 
-La strada per arrivarci è tutta in salita e piena di curve, un po' stretta in alcuni punti e quasi totalmente asfaltata, tranne l'ultimo tratto in cui occorre attraversare il letto del fiume. 
-Con un mezzo di grandi dimensioni potresti avere difficoltà.
-_SERVIZI_
-Troverai solo un paio di container che rivendono pane e snack preconfezionati. Se pensi di rimanere in zona porta con te una scorta di acqua, frutta e verdura. 
+Questi piani sono molto vantaggiosi ma vengono fatti solo se si decide di stare **per più di un mese sul territorio**. Per accedere a questi piani bisogna recarsi in un punto Inwi ufficiale **con il passaporto** e stipulare un abbonamento.
 
-Nei weekend e nei giorni di festa la zona si anima di persone per lo più del posto che grigliano e campeggiano. 
+Da questo momento l'abbonamento si rinnova ogni 18 del mese per il mese successivo. Questo può esser fatto in tre modi:
+- nei negozi ufficiali Inwi (presenti solo nelle città più grandi)
+- nei negozi Cash Plus
+- tramite l'app ufficiale ({{< extLink "iOS" "https://apps.apple.com/us/app/my-inwi/id988012514" >}} - {{< extLink "Android" "https://play.google.com/store/apps/details?id=ma.inwi.selfcaremobile&hl=en_US">}}). Potrebbe non accettare la carta di credito.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684506297/IMG_1460_sgnjte.jpg" >}}
+Per **disdire l'abbonamento** bisogna:
+- chiamara il servizio clienti Inwi 
+- fare domanda di **"resiliation"**, ovvero recessione del contratto
+- andare in un centro Inwi ufficiale a firmare la chiusura del contratto
 
-#### Lago El Ouidane
-Non appena superata la diga e un paio di resort turistici ci si ritrova davanti una spianata di terra secca, dove un tempo questo lago era decisamente più rigoglioso. Puoi decidere di parcheggiare all'inizio all'ombra di qualche albero o in riva in pieno sole e in compagnia di qualche pescatore.
-_ACCESSO_ 
-La strada per arrivarci è semplice e asfaltata, solo l'ultimo tratto è un facile sterrato. 
-_SERVIZI_
-A poche centinaia di metri dall'accesso si trova una piccola bottega in cui trovare solo qualche snack, mentre invece il paese più vicino è a 6 km e il martedì e mercoledì mattina ospita un grande souk.
+**Importante**: il servizio clienti **parla solo francese** e la disdetta va data un mese in anticipo! Cosa significa? Facciamo un esempio per rendere tutto più chiaro, ipotizzando che si voglia stare in marocco 3 mesi:
 
-Se ti venisse voglia di pizza non temere: da {{< extLink "da Snack Pizzeria Slimane" " https://goo.gl/maps/u6ybUJ5bxPwFKo2b8?coh=178573&entry=tt" >}} trovi la margherita a 22 DH e uscirai davvero soddisfatta/o!  
+- ingresso in Marocco il 4 Gennaio 
+  - stipulazione abbonamento da 199dh
+  - entro il 18 Gennaio pagamento di altri 199dh per il mese successivo
+- tra il 19 Gennaio e il 3 Febbraio
+  - chiamare il servizio clienti Inwi e fare domanda di **"resiliation"**
+  - andare in un centro Inwi e chiudere il contratto
+  - entro il 18 Febbraio pagare 199dh per il mese successivo
+- potete uscire dal paese in tranquillità e internet funzionerà fino a fine mese (Marzo)
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684505893/IMG_1300_ekbfqz.jpg" >}}
+###### Cosa rischio?
 
+All'uscita del paese, al controllo doganale potrete esser fermati e bisognerà andare ad un centro Inwi a saldare il debito!
 
-#### Lago El Sidi Chahede
-Questo è il nostro posteggio del cuore ed è il luogo che più abbiamo forse amato di tutto il Marocco. Siamo rimasti 5 giorni immersi nel nulla, senza che ci mancasse alcunchè. Attorno a noi le montagne rosse, verdi, bianche. Qualche campo di grano. Il letto di quello che un tempo era un lago, oggi totalmente prosciugato. 
-Potrebbe intimorire alcuni, noi abbiamo apprezzato tutto: il silenzio, il cielo stellato, la possibilità di camminare in qualsiasi direzione.
-Non esistono zone d'ombra ma dalle 11 del mattino si alza una brezza davvero piacevole. 
+Qui trovi la nostra esperienza poco prima di uscire dal paese. Noi abbiamo ritardato a chiudere il contratto pagando anche il mese successivo:
+{{< youtube wm_NmytTD0c >}}
 
-_ACCESSO_ 
-La strada per arrivarci nell'ultimo tratto è sterrata e molto molto stretta. Noi in ogni caso non abbiamo avuto difficoltà.
-_SERVIZI_
-A pochi chilometri, sulla riva di un lago limitrofo ancora esistente, puoi trovare il banchetto di qualche pescatore che prepara pesce grigliato e su ordinazione la tajina. Null'altro. 
+{{< procontro pro1="Internet illimitato" pro2="Costa poco" contro1="Disponibile solo in abbonamento ..." contro2="... che non è facile da rinnovare e ..." contro3="... non è facile da disdire!">}}
+ 
+###### Orange
+Non l'abbiamo provata personalmente ma abbiamo parlato con molti altri viaggiatori e riportiamo la loro esperienza.
 
-Purtroppo siamo andati via per cercare una fontana dove caricare acqua (a mezz'ora) e un luogo dove fare la spesa (raggiungendo la vicina Fez in un'ora).
+{{< extLink "Orange" "orange.ma" >}} non offre piani con internet illimitato ma offre un ottima ricarcabile a prezzi ragionevoli (circa 0.50 euro al giga). Inoltre **pochi usano Orange nel paese** e quindi prende dicretamente bene ovunque.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_700/f_auto,q_auto:eco/v1684506311/DSC02744_ymmifg.jpg" >}}
+Non è facilissimo ricaricare ma si riescono a trovare alcuni punti vendita nel paese.
 
-
-
-Che te ne pare? Anche tu avresti dormito in questi luoghi?
-Anche tu sei un'amante della libera o preferisci sostare nei campeggi?
-Ti aspettiamo nei commenti!
-
-
-
-
-
-
-
-
+{{< procontro pro1="Costa poco" pro2="Prende abbastanza bene" pro3="Non serve dare disdetta" contro1="Niente abbonamento!" contro2="Pochi negozi ufficiali dove ricaricare" >}}
