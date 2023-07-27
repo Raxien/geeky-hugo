@@ -50,6 +50,11 @@ Noi ci siamo affidati all'{{< extLink "Istituto Zooprofilattico Sperimentale del
 
 {{< youtube VBb-Zza0oUs >}}
 
+<!-- 
+{{< animali "EX">}}
+
+In Marocco non sono obbligatorie ulteriori profilassi particolari, in ogni caso noi abbiamo provveduto a somministrare a Olimpia e Sakè, i nostri cane e gatto, i consueti antiparassitari. Consigliamo di tenere il proprio animale sempre al guinzaglio, dal momento che numerosi animali selvatici camminano in ogni angolo del paese. 
+Soprattutto lungo la costa abbiamo notato anche molti branchi di cani randagi.  -->
 ###### Ingresso in Marocco
 Prima di poter entrare in Marocco è necessario effettuare una visita da un veterinario per l'ottenimento del **certificato di buona salute**, valido 10 giorni. 
 
