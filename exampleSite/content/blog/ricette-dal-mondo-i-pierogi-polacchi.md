@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q
 date: 2023-07-27T10:00:00+01:00
 categories: [ "Cucina"]
 country: Polonia
-type: featured
+type: regular
 draft: false
 ---
 
