@@ -6,12 +6,12 @@ date: 2023-07-16T17:00:00.000
 categories: ["Africa", "Itinerari", "Camper"]
 type: regular
 country: Marocco
-draft: true
+draft: false
 ---
 
 Scoprire il Marocco a bordo del nostro camper è stata **una decisione presa in itinere**. Da sempre affascinati dal paese, non avevamo mai avuto modo di visitarlo. Poi un giorno, dormendo [costa andalusa](/blog/andalusia-on-the-road-alla-scoperta-di-setenil-de-las-bodegas-e-ronda) e osservando il confine di un altro continente in lontananza, ci siamo decisi a comprare i biglietti del traghetto e a raggiungere così **l'Africa via "terra".**
 
-Sicuramente sulla nostra decisione hanno molto influito i racconti più che positivi dei nostri amici Rose e Fabio dei **"Giramondo ma non troppo"** (che puoi {{< extLink "ascoltare qui" "https://youtu.be/bEgypQBv2wI" "Ascolta il podcast dei Giramondo ma non troppo - un anno e mezzo in Marocco e non solo">}}), che non hanno mai smesso di supportarci e sopportarci, oltre a darci preziosi consigli circa luoghi dove sostare e da visitare. 
+Sicuramente sulla nostra decisione hanno molto influito i racconti più che positivi dei nostri amici Rose e Fabio dei **"Giramondo ma non troppo"** (che puoi {{< extLink "ascoltare qui" "https://youtu.be/bEgypQBv2wI" "Ascolta il podcast dei Giramondo ma non troppo - un anno e mezzo in Marocco e non solo">}}), che non hanno mai smesso di supportarci e sopportarci, oltre a darci preziosi consigli circa luoghi dove [sostare e da visitare](#le-nostre-mappe). 
 
 A fine gennaio 2023 abbiamo quindi comprato i biglietti per il traghetto da Algeciras a Tanger Med e ci siamo imbarcati insieme a Olimpia e Sakè. 
 
@@ -37,7 +37,7 @@ Trovate il nostro itinerario in breve [qui](#in-breve) e al fondo di [questo art
 **{{< underline "Giorno 2" >}}**: abbiamo lasciato Assilah e ci siamo diretti a Larache, tappa trovata per caso sulla cartina stradale. La medina appare da lontano come un cumulo di dadi bianchi e blu. Lungo la strada abbiamo osservato a malincuore numerosi cumuli di pattume a cielo aperto, con bambini e animali intenti a rovistare fra i detriti (scusate la sincerità ma questa scena ci ha lasciato un peso sul cuore). 
 Siamo arrivati poi nel piccolo paesino di **Moulay Bousselham**, animato da pescatori che effettuano escursioni nella piccola laguna. Qui si trova anche un piccolo souk coperto. Dati i numerosi rifiuti e cani randagi ci siamo rimessi in marcia, raggiungendo un parcheggio libero nei pressi di un hotel, con possibilità di passeggiata lungo l'oceano.
 
-**{{< underline "Giorno 3" >}}**: abbiamo visitato **Salè**, parcheggiando vicino alla Moschea e immergendoci nelle vie a contatto con la gente del posto, prima di attraverare l'omonimo fiume e dirigerci a **Rabat, la capitale del paese.** Il divario qui è decisamente notevole. 
+**{{< underline "Giorno 3" >}}**: abbiamo visitato **Salè**, parcheggiando vicino alla Moschea e immergendoci nelle vie a contatto con la gente del posto, prima di attraverare l'omonimo fiume e dirigerci a [**Rabat, la capitale del paese.**](/blog/rabat-in-camper-cosa-vedere-nella-capitale-del-marocco) Il divario qui è decisamente notevole. 
 
 Abbiamo scoperto una città in forte crescita, con palazzi all'avanguardia, mezzi pubblici moderni, una Kashba ben curata con giardini ordinati e un souk decisamente pulito e ricco di dettagli.
 Lasciata la capitale ci siamo diretti a **El Jadida**, antica colonia portoghese.
@@ -80,6 +80,8 @@ Da qui in poi sono iniziati numerosi posti di blocco in cui ci hanno richiesto l
 
 **{{< underline "Giorno 16" >}}**: siamo ripartiti direzione **Akhfennir**, dove abbiamo sfruttato il piazzale della Moschea per fare pranzo al riparo dalle raffiche di vento per poi raggiungere nel tardo pomeriggio **Tarfaya**. Qui volevamo visitare il museo dedicato al **{{< extLink "Piccolo Principe" "https://goo.gl/maps/vKZFYGejPeyZiqG97" >}}** dato che pare che qui sia stata scritta la famosa novella, ma purtroppo l'abbiamo trovato chiuso.
 
+A metà strada si trova il **parco nazionale di Khenifiss** con un ottimo spot per fermarsi a **Naïla**. Qui si possono fare lunghe passeggiate e se il tempo è clemente fare un giro in barca per vedere i fenicotteri.
+ 
 **{{< underline "Giorno 17" >}}**: lasciata Tarfaya abbiamo fatto una piccola deviazione sulla N1 per osservare il {{< extLink "relitto della nave" "https://goo.gl/maps/N6KrJTcyuGAzNrkK9" >}} che collegava il Marocco con le Canarie poi, sempre accompagnati da vento forte, abbiamo raggiunto **Laayoune**, città militarizzata.
 
 **{{< underline "Giorno 18" >}}**: raggiunta **Boudjour** per pausa pranzo ma trovando tutto chiuso a causa della bufera di vento ci siamo messi alla guida attraversando il territorio conteso del **Sahara Occidentale** e raggiungendo la piccola frazione di **Oued Karaa**, con accesso diretto all'oceano.
@@ -94,7 +96,8 @@ Da qui in poi sono iniziati numerosi posti di blocco in cui ci hanno richiesto l
 Questa però è un'altra storia che puoi [seguire qui](/blog/guida-senegal-in-camper-itinerari).
 
 Se invece vuoi leggere come continua la nostra avventura in Marocco puoi farlo cliccando qui!
-<!-- to do mettere link marocco 2  -->
+
+{{< youtube >}}
 
 ###### In breve
 
@@ -132,35 +135,45 @@ Se invece vuoi leggere come continua la nostra avventura in Marocco puoi farlo c
 
 **{{< underline "Giorno 22" >}}**: Barbate
 
-**{{< underline "Giorno 23" >}}**: border Mauritania
+**{{< underline "Giorno 23" >}}**: Border Mauritania
 
 ##### Quanto abbiamo speso
 
+In generale il costo della vita in Marocco è più basso rispetto a quello italiano, soprattutto a livello alimentare abbiamo potuto giovare di prezzi vantaggiosi sia per fare la spesa sia per assaggiare i piatti tipici. Anche la benzina costa relativamente poco stando a circa 1.10/1.20 euro a litro.
+
+{{< card >}}
+
+Di seguito un idea di quanto abbiamo speso **di sola andata** da Tangeri al border della Mauritania. Per il ritorno vi   basterà raddoppiare la voce carburante e trasporti (traghetto):
+
+{{< tripExpanses "Spese" "2023-01-27T00:00:00Z" "2023-02-19T00:00:00Z" >}}
+
 ##### Considerazioni
-Il nostro approccio iniziale al Marocco, entrando da Tanger Med, è stato un po' condizionato dalla troppa pattumiera presente ovunque: intere discariche a cielo aperto, popolate da animali intenti a mangiare la plastica e bambini a correre fra le macerie.
-Passeggiando per le stradine di Assilah ci siamo risollevati il morale, per poi apprezzare la piacevole Rabat, Essaouira, la costa di Legzira e le sue scogliere.
 
-La strada per raggiungere Daklha può risultare eterna e noiosa, ma alcuni scorci di questi paesaggi ci hanno lasciati davvero senza fiato.
+Il nostro approccio iniziale al Marocco, entrando da Tanger Med, non è stato dei migliori. Siamo subito stati condizionati dalla troppa pattumiera presente ovunque: **intere discariche a cielo aperto**, popolate da animali intenti a mangiare la plastica e bambini a correre e giocare fra le macerie. Ci siamo risollevati il morale passeggiando per le stradine di Assilah, per poi apprezzare la piacevole Rabat, Essaouira, la costa di Legzira e le sue scogliere fino ad arrivare a Dakhla. La strada per raggiungere Daklha e da Daklha al border della Mauritania può risultare **eterna e noiosa**, ma alcuni scorci di questi paesaggi ci hanno lasciati davvero senza fiato!
 
-Tappe imperdibili: 
-- 
+###### Tappe imperdibili
 
-Tappe da evitare:
-- Lago Rosa, per via del fatto che attualmente non è più rosa 
-- Petit Cote, troppo turistica e con hotel diroccati 
+In un viaggio 
+- **{{< underline "Assilah" >}}**: una città colorata, allegra e bella da vedere che da un caldo benvenuto appena entrati in Marocco
+- **{{< underline "Rabat e Salé" >}}**: di Rabat abbiamo già speso molte parole [nell'articolo dedicato](/blog/rabat-in-camper-cosa-vedere-nella-capitale-del-Marocco) ma possiamo riassumere questà capitale in tre parole: moderna, elegante e sfrontata. Da vedere insieme alla sua gemella Salé.
+- **{{< underline "Essaouira" >}}**: una perla affacciata sull'oceano atlantico. Da non perdere.
+- **{{< underline "Had Draa" >}}**: andare al mercato di Had Draa è come fare un tuffo nel passato. Fai attenzione perché alcune sezioni sono da stomaci forti!
+- **{{< underline "Oued Karaam e Barbate" >}}**: due luoghi di pace dove fermarsi e godere di pace e tranquillità.
+
+###### Tappe che si possono evitare
+
+Noi abbiamo deciso di vedere tutto il Marocco ma se tornassimo indietro, queste tappe le eviteremmo volentieri. 
+
+- **{{< underline "Moulay Bousselham" >}}**: tanto bella in foto quanto brutta dal vivo. Inoltre non è facilissima da raggiungere.
+- **{{< underline "Boudjour" >}}**: ottima come tappa per fare una pausa ma nulla di più.
+- **{{< underline "Agadir" >}}**: tutto quello che non vorresti vedere in Marocco: l'opulenza Europea.
 
 ##### Il nostro Vlog
-Se volete vedere i nostri vlog o vuoi sentire le nostre considerazioni ti lasciamo di seguito i video: 
+Se vuoi rivivere le nostre aventure puoi farlo qui sotto oppure trovi la serie completa {{< extLink "cliccando qui" "https://www.youtube.com/watch?v=GJfq6pROYlE&list=PLHaclq_J5PZ-DcbT3dit1HikQ3ha-vXEk" >}}:
 
-- vlog
-
-{{< youtube AHVvaftCd70 >}}
-
-- le nostre considerazioni
-
-{{< youtube avKZAgEAd0Q >}}
+{{< youtube VBb-Zza0oUs >}}
 
 ##### Le nostre mappe
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ipZq4GlS3cmXzPHI37WSbMO2POBhJUY&ehbc=2E312F" >}}
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ECqhZ8xnaxMc-PBZKLGmML-epe56eek&ehbc=2E312F" >}}
 
 {{< blogFooter "MAR" "1" "0" >}}
