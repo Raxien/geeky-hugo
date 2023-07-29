@@ -1,12 +1,12 @@
 ---
 title: 'Marocco in camper: alla scoperta della costa atlantica' 
-description: ""
+description: "Scopri con noi le tappe che più ci hanno emozionati lungo la costa atlantica del Marocco e fin dove ci siamo spinti a bordo del nostro camper in Africa"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690623790/Articoli/marocco%201/tropico_cancro_marocco_uizmq6.jpg
 date: 2023-07-16T17:00:00.000
 categories: ["Africa", "Itinerari", "Camper"]
 type: regular
 country: Marocco
-draft: true
+draft: false
 ---
 
 Scoprire il Marocco a bordo del nostro camper è stata **una decisione presa in itinere**. Da sempre affascinati dal paese, non avevamo mai avuto modo di visitarlo. Poi un giorno, dormendo lungo la [costa andalusa](/blog/andalusia-on-the-road-alla-scoperta-di-setenil-de-las-bodegas-e-ronda) e osservando il confine di un altro continente in lontananza, ci siamo decisi a comprare i biglietti del traghetto e a raggiungere **l'Africa via "terra".**

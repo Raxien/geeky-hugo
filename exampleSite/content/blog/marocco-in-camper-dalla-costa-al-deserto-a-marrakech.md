@@ -6,7 +6,7 @@ date: 2023-07-16T17:00:00.000
 categories: ["Africa", "Itinerari", "Camper"]
 type: regular
 country: Marocco
-draft: true
+draft: false
 ---
 
 In questo articolo andremo a scoprire insieme montagne, deserti e luoghi inaspettati in Marocco. Siamo arrivati qui dopo aver visitato la [costa atlantica](marocco-in-camper-alla-scoperta-della-costa-atlantica.md) e dopo essere ritornati dalle nostre avventure in [Mauritania](viaggio-mauritania-on-the-road-le-dogane.md) e in [Senegal](guida-senegal-in-camper-itinerari.md).
@@ -21,7 +21,6 @@ Insomma, è stata una grande avventura!
 > ##### Tabella dei contenuti
 > - [Itinerario](#itineario)
 >   - [In breve](#in-breve)
-> - [Finte Guardie](#finte-guardie)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni](#considerazioni)
 > - [Il nostro vlog](#il-nostro-vlog)
