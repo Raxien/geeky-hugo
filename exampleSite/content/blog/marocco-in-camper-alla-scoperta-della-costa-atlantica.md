@@ -6,14 +6,14 @@ date: 2023-07-16T17:00:00.000
 categories: ["Africa", "Itinerari", "Camper"]
 type: regular
 country: Marocco
-draft: false
+draft: true
 ---
 
 Scoprire il Marocco a bordo del nostro camper è stata **una decisione presa in itinere**. Da sempre affascinati dal paese, non avevamo mai avuto modo di visitarlo. Poi un giorno, dormendo lungo la [costa andalusa](/blog/andalusia-on-the-road-alla-scoperta-di-setenil-de-las-bodegas-e-ronda) e osservando il confine di un altro continente in lontananza, ci siamo decisi a comprare i biglietti del traghetto e a raggiungere **l'Africa via "terra".**
 
 Sicuramente sulla nostra decisione hanno molto influito i racconti più che positivi dei nostri amici Rose e Fabio dei **"Giramondo ma non troppo"** (che puoi {{< extLink "ascoltare qui" "https://youtu.be/bEgypQBv2wI" "Ascolta il podcast dei Giramondo ma non troppo - un anno e mezzo in Marocco e non solo">}}), che non hanno mai smesso di supportarci e sopportarci, oltre a darci preziosi consigli circa luoghi dove sostare e da visitare. 
 
-A fine gennaio 2023 abbiamo quindi comprato i biglietti per il traghetto da Algeciras a Tanger Med e ci siamo imbarcati insieme a Olimpia e Sakè, i nostri cane e gatto (se vuoi sapere i documenti necessari per viaggiare in Marocco con gli animali ne abbiamo parlato [qui](informazioni-camper-marocco-con-animali.md))
+A fine gennaio 2023 abbiamo quindi comprato i biglietti per il traghetto da Algeciras a Tanger Med e ci siamo imbarcati insieme a Olimpia e Sakè, i nostri cane e gatto (se vuoi sapere i documenti necessari per viaggiare in Marocco con gli animali ne abbiamo parlato [qui](informazioni-camper-marocco-con-animali.md)).
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690623788/Articoli/marocco%201/van_marocco_yasxjf.jpg" >}}
 

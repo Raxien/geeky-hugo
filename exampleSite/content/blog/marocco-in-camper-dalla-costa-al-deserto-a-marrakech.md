@@ -1,15 +1,15 @@
 ---
-title: 'Marocco in camper: dalla costa al deserto a Marrakech.md' 
+title: 'Marocco in camper: dalla costa al deserto a Marrakech' 
 description: "Scopri con noi il Marocco attraverso montagne, deserto e natura incontaminata"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632616/Articoli/Marocco/marocco%202/palmeto_marocco_hf2sjh.jpg
 date: 2023-07-16T17:00:00.000
 categories: ["Africa", "Itinerari", "Camper"]
 type: regular
 country: Marocco
-draft: false
+draft: true
 ---
 
-In questo articolo andremo a scoprire insieme montagne, deserti e luoghi inaspettati in Marocco. Siamo arrivati qui dopo aver visitato la [costa atlantica](marocco-in-camper-alla-scoperta-della-costa-atlantica.md) e dopo essere ritornati dalle nostre avventure in [Mauritania](viaggio-mauritania-on-the-road-le-dogane.md) e in [Senegal](guida-senegal-in-camper-itinerari.md).
+In questo articolo andremo a scoprire insieme montagne, deserti e luoghi inaspettati in Marocco. Siamo arrivati qui dopo aver visitato la [costa atlantica](/blog/marocco-in-camper-alla-scoperta-della-costa-atlantica) e dopo essere ritornati dalle nostre avventure in [Mauritania](/blog/viaggio-mauritania-on-the-road-le-dogane) e in [Senegal](/blog/guida-senegal-in-camper-itinerari).
 
 Sulle nostre scelte relative a questo itinerario hanno sempre influito i consigli della fantastica guida scritta dai nostri amici Rose e Fabio {{< extLink "**I giramondo ma non troppo**" "https://www.facebook.com/groups/754702391623459/" >}}.
 
@@ -34,36 +34,36 @@ Tornati indietro da quella che viene chiamata "l'Africa nera", ci siamo ritrovat
 
 In questa sezione vi elencheremo quindi tutte le tappe della nostra avventura, lasciandoci alle spalle Dakhla, Tan Tan e Tiznit e raggiungendo Marrakech e la "Svizzera marocchina".
 
-Trovate il nostro itinerario in breve [qui](#in-breve) e al fondo di [questo articolo](#considerazioni-e-tappe-imperdibili) la mappa con tutti i puntalini relativi a soste (quasi tutte in libera) e luoghi di interesse secondo noi **{{< bold "imperdibili" >}}**.
+Al fondo di questio articolo troverete il nostro [itinerario in breve](#in-breve), [la mappa](#le-nostre-mappe) con tutti i puntalini relativi a soste (quasi tutte in libera) e [le nostre considerazioni](#considerazioni) .
 
 
 **{{< underline "Giorno 1" >}}**: siamo arrivati a **Tafraout** nel pomeriggio, dopo aver attraversato colline, strade panoramiche e paesaggi incantevoli. Ci siamo subito recati nel **palmeto** per trovare un posto all'ombra in cui riposare e dal quale abbiamo raggiunto il centro cittadino a piedi, sotto la sola luce delle stelle, in un'atmosfera surrale. Tafraout è famosa per la produzione di babbucce colorate, davvero particolari da vedere e perchè no indossare. 
 
-**{{< underline "Giorno 2" >}}**: abbiamo decido di regalarci un'avventura davvero emozionante (che puoi rivedere {{< extLink "in questo video" "https://youtube.com/shorts/h25c69z0Dls?feature=share" >}}) e di raggiungere, roccia dopo roccia, il famoso **"trampolino di Tafraout"**, uno spuntone dal quale ammirare un paesaggio dall'alto a 360°. Consigliamo vivamente quest'esperienza, per noi è stata una delle più emozionanti in Marocco (bastano un paio di scarponcini e un po' di voglia di avventura, oltre a un aiuto da casa per le coordinate che non guasta mai).
+**{{< underline "Giorno 2" >}}**: abbiamo deciso di regalarci un'avventura davvero emozionante (che puoi rivedere {{< extLink "in questo video" "https://youtube.com/shorts/h25c69z0Dls?feature=share" >}}) e di raggiungere, roccia dopo roccia, il famoso **"trampolino di Tafraout"**, uno spuntone dal quale ammirare un paesaggio dall'alto a 360°. Consigliamo vivamente quest'esperienza che per noi è stata una delle più emozionanti in Marocco (bastano un paio di scarponcini e un po' di voglia di avventura, oltre a un aiuto da casa per le coordinate che non guasta mai).
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632616/Articoli/Marocco/marocco%202/roccia_trampolino_ymtsmf.jpg" >}}
 
-**{{< underline "Giorno 3" >}}**: abbiamo lasciato il palmeto a malincuore per raggiungere insieme ai nostri animali il famoso sito delle **rocce colorate** (painted rocks): pare che un artista belga le abbia dipinte nel tempo, dando un po' di colore alla zona. C'è chi le ha apprezzate e chi la ha criticate, secondo noi sono abbastanza particolari da meritare uno sguardo. Salutata anche Tafraout ci siamo diretti lungo una strada in cresta davvero panoramica e spettacolare, tant'è che non ci sembrava nemmeno più di essere in Marocco. Dopo una {{< extLink "merenda on the road" "https://youtu.be/VUcb9JEbnME" >}} a base di pane marocchino e amlou (la tipica crema di frutta secca a base di mandorle che si trova in queste zone e che ti consigliamo di assaggiare), siamo arrivati a Tata, in una zona che sembrava essere il pianeta Marte.
+**{{< underline "Giorno 3" >}}**: abbiamo lasciato il palmeto a malincuore per raggiungere insieme ai nostri animali il famoso sito delle **rocce colorate** (painted rocks): pare che un artista belga le abbia dipinte nel tempo, donando un po' di colore alla zona. C'è chi le ha apprezzate e chi la ha criticate, secondo noi sono abbastanza particolari da meritare uno sguardo. Salutata anche Tafraout ci siamo diretti lungo una strada in cresta davvero panoramica e spettacolare, tant'è che non ci sembrava nemmeno più di essere in Marocco. Dopo una {{< extLink "merenda on the road" "https://youtu.be/VUcb9JEbnME" >}} a base di pane marocchino e amlou (la tipica crema di frutta secca a base di mandorle che si trova in queste zone e che vi consigliamo di assaggiare), siamo arrivati a Tata, in una zona che sembrava essere il pianeta Marte.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632616/Articoli/Marocco/marocco%202/rocce_colorate_d35smw.jpg" >}}
 
 **{{< underline "Giorno 4" >}}**: **Tata** offre parecchie possibilità di escursione, soprattutto fra i palmeti. Purtroppo Sara ha scoperto di essere allergica al polline della fioritura delle palme, motivo per cui dopo una visita medica a domicilio presso il campeggio di Tata (a proposito, noi usiamo questa {{< extLink "assicurazione sanitaria" "https://genki.world/?with=vandipety" >}} all'estero e ci troviamo davvero bene), abbiamo comprato un pane cotto sulla pietra (l'abbiamo trovato solo qui, se vedi qualcuno cucinarlo ti consigliamo di assaggiarlo!) e ci siamo allontanati dalla zona dei palmeti, ammirando a distanza quello nel letto del fiume di Tissint. 
 
-**{{< underline "Giorno 5" >}}**: se lungo la costa atlantica ti avevamo consigliato tappezzieri e tecnici per camper a Tiznit, a **Zagora** puoi trovare invece carrozzieri super specializzati. Proprio noi abbiamo fatto siliconare alcuni pezzi del van che avevano patito le strade della Mauritania e del Senegal. 
+**{{< underline "Giorno 5" >}}**: se lungo la costa atlantica vi avevamo consigliato tappezzieri e tecnici per camper a Tiznit, a **Zagora** si possono trovare invece carrozzieri super specializzati. Proprio in questa cittadina abbiamo fatto siliconare alcuni pezzi del van che avevano patito le strade della Mauritania e del Senegal. 
 
 **{{< underline "Giorno 6" >}}**: sulla strada che ci ha condotti verso il deserto abbiamo compiuto alcune deviazioni, tra cui quella a **Serdrar**. In questa zona si può camminare sulle dune e andare alla scoperta dei reperti fossili. Tante persone amano portarsi a casa questi cimeli, noi abbiamo preferito lasciarli nel loro luogo di appartenenza. 
 
-**{{< underline "Giorno 7-9" >}}**: la seconda deviazione prima di raggiundere Merzouga, la meta più famosa del Sahara, è stata a **Tarfaout Sidi Ali**. Dovevamo recarci in un campeggio consigliatoci da amici ma quando siamo giunti in questo luogo e abbiamo conosciuto Mustapha e la sua famiglia, che dirigono la struttura della {{< extLink "KASBA MAGGAMAN" "https://moroccobeautyspots.com/" >}}, abbiamo deciso di rimanere con loro più giorni. Se decidete di avventurarvi in questo luogo magico, in cui è possibile parcheggiare il camper o stostare presso le camere della struttura, non perdetevi una passeggiata fra i palmeti piantati dal nonno di Mustapha, che sarà ben felice di accompagnarvi a scoprire la sua terra. Ultimo consiglio: assaggiate il cibo preparato dalle donne di casa e lasciatevi conquistare dalla loro generosità. Per noi sono state giornate splendide in quella che consideriamo {{< extLink "un pezzo di famiglia" "https://youtu.be/dS1dd3N2QF8" >}}.
+**{{< underline "Giorno 7-9" >}}**: la seconda deviazione prima di raggiundere Merzouga, la meta più famosa del Sahara, è stata a **Tarfaout Sidi Ali**. Dovevamo recarci in un campeggio consigliatoci da amici ma quando siamo giunti in questo luogo e abbiamo conosciuto Mustapha e la sua famiglia, che dirigono la struttura della {{< extLink "KASBA MAGGAMAN" "https://moroccobeautyspots.com/" >}}, abbiamo deciso di rimanere con loro più giorni. Se decidete di avventurarvi in questo luogo magico, in cui è possibile parcheggiare il camper o sostare presso le camere della struttura, non perdetevi una passeggiata fra i palmeti piantati dal nonno di Mustapha, che sarà ben felice di accompagnarvi a scoprire la sua terra. Ultimo consiglio: assaggiate il cibo preparato dalle donne di casa e lasciatevi conquistare dalla loro generosità. Per noi sono state giornate splendide in compagnia di quella che consideriamo {{< extLink "un pezzo di famiglia" "https://youtu.be/dS1dd3N2QF8" >}}.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632604/Articoli/Marocco/marocco%202/kasba_maggaman_a9mbww.jpg" >}}
 
-**{{< underline "Giorno 10-11" >}}**: dopo giorni pieni di emozioni ci siamo recati a **Rissani** per fare un giro nel famoso mercato del martedì, dove si può trovare di tutto, per poi dirigerci a **Merzouga** e concederci un tramonto spettacolare sulle dune. Puoi decidere di avventurarti a piedi oppure affidarti a una delle agenzie che affittano quad o organizzano tour con i cammelli: questo luogo ormai è super turistico, con tantissimi camping che mettono a disposizione la piscina per trovare refrigerio dalle alte temperature. 
+**{{< underline "Giorno 10-11" >}}**: dopo giorni pieni di emozioni ci siamo recati a **Rissani** per fare un giro nel famoso mercato del martedì, dove si può trovare di tutto, per poi dirigerci a **Merzouga** e concederci un tramonto spettacolare sulle dune. Qui si può decidere di avventurarsi a piedi oppure affidarsi a una delle agenzie che affittano quad o organizzano tour con i cammelli: questo luogo ormai è super turistico, con tantissimi camping che mettono a disposizione la piscina per trovare refrigerio dalle alte temperature. 
 
 **{{< underline "Giorno 12-13" >}}**: lasciato il deserto per le temperature un po' fastidiose e per il problema di non poter trovare refrigerio sotto l'ombra delle palme data l'allergia di Sara, ci siamo diretti verso le **"gole del Todra"**. Il punto panoramico e più famoso è il tratto di qualche chilometro che si percorre proprio in una gola ricavata fra le rocce, lungo il quale si trovano numerosi venditori ambulanti. Proseguendo, la strada rimane molto affascinante ma non abbiamo voluto avventurarci troppo a nord per non rischiare di trovare tratti impercorribili senza un mezzo 4x4. 
 
-**{{< underline "Giorno 14-15" >}}**: attraversata la valle delle rose seppur senza vederne alcuna fiorita siamo arrivati alla **"valle del Dades**. Anche qui il tratto panoramico è solo uno, limitato alle ultime curve in quota, che creano in ogni caso uno spettacolare percorso tornante dopo tornante. In vetta si trova un ristorante/caffè, noi abbiamo però preferito assaggiare la cucina berbera cucinata per mano di un'intera famiglia, assaporando i gusti della tradizione.
+**{{< underline "Giorno 14-15" >}}**: attraversata la valle delle rose seppur senza vederne alcuna fiorita siamo arrivati alla **"valle del Dades"**. Anche qui il tratto panoramico è solo uno, limitato alle ultime curve in quota, che creano in ogni caso uno spettacolare percorso tornante dopo tornante. In vetta si trova un ristorante/caffè, noi abbiamo però preferito assaggiare la cucina berbera cucinata per mano di un'intera famiglia, assaporando i gusti della tradizione.
 
-Se vuoi scoprire queste strade spettacolari e cosa abbiamo mangiato trovi tutto in questo video.
+Se volete scoprire queste strade spettacolari e cosa abbiamo mangiato trovate tutto in questo video.
 {{< youtube Xp3Y62pB96U >}}
 
 **{{< underline "Giorno 16" >}}**: la meta successiva è stata **Ouarzazate**, dove abbiamo deciso di visitare la famosa Kasbha (4 euro a persona senza guida).
@@ -96,7 +96,7 @@ E' andato tutto bene in questi luoghi? Scoprilo nel video ⤵️
 **{{< underline "Giorno 32" >}}**: lungo la strada che conduce a **Ifrane**, considerata la *"Svizzera marocchina"* per le sue case a graticcio (a propostito d'inverno qui nevica, lo sapevi?) avremmo voluto visitare la foresta di cedri di Azrou, popolata da numerose bertucce. Purtroppo però, date le alte temperature nel momento (metà maggio), la zona era infestata di processionaria, insetto pericoloso per i nostri animali che avremmo dovuto tenere chiusi in camper. 
 
 Da questo punto in poi le nostre avventure in Marocco sono proseguite verso Fes, il sito archeologico di Volubilis, la costa mediterranea e la città Blu fino a tornare a Tanger Med. 
-Se vuoi scoprire cosa abbiamo visitato in queste zone trovi tutto in [questo articolo](marocco-in-camper-la-costa-mediterranea.md).
+Se vuoi scoprire cosa abbiamo visitato in queste zone trovi tutto in [questo articolo](/blog/marocco-in-camper-la-costa-mediterranea).
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632615/Articoli/Marocco/marocco%202/cattedrale_amsfrane_c9kumt.jpg" >}}
 
@@ -156,7 +156,7 @@ E' davvero difficile stilare una classifica di preferenza fra tutte queste mete,
 
 E' stato bello vivere a fianco di chi abita queste terre da decine e decine di anni, scoprirne il passato e i rischi sul futuro legati alla siccità.
 
-Forse, dovendo tirare le somme, questi luoghi e le emozioni che abbiamo sono quelli che più ricorderemo di tutta la permanenza in Marocco.
+Forse, dovendo tirare le somme, questi luoghi e le emozioni che qui abbiamo vissuto sono quelli che più ricorderemo di tutta la permanenza in Marocco.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632614/Articoli/Marocco/marocco%202/imlil_z01isf.jpg" >}}
 
