@@ -1,7 +1,7 @@
 ---
-title: 'Marocco in camper: alla scoperta della costa atlantica' 
-description: ""
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1680644212/Senegal-in-camper_dycaxx.png
+title: 'Marocco in camper: dalla costa al deserto a Marrakech.md' 
+description: "Scopri con noi il Marocco attraverso montagne, deserto e natura incontaminata"
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632616/Articoli/Marocco/marocco%202/palmeto_marocco_hf2sjh.jpg
 date: 2023-07-16T17:00:00.000
 categories: ["Africa", "Itinerari", "Camper"]
 type: regular
@@ -9,156 +9,160 @@ country: Marocco
 draft: true
 ---
 
-Scoprire il Marocco a bordo del nostro camper è stata **una decisione presa in itinere**. Da sempre affascinati dal paese, non avevamo mai avuto modo di visitarlo. Poi un giorno, dormendo [costa andalusa](/blog/andalusia-on-the-road-alla-scoperta-di-setenil-de-las-bodegas-e-ronda) e osservando il confine di un altro continente in lontananza, ci siamo decisi a comprare i biglietti del traghetto e a raggiungere così **l'Africa via "terra".**
+In questo articolo andremo a scoprire insieme montagne, deserti e luoghi inaspettati in Marocco. Siamo arrivati qui dopo aver visitato la [costa atlantica](marocco-in-camper-alla-scoperta-della-costa-atlantica.md) e dopo essere ritornati dalle nostre avventure in [Mauritania](viaggio-mauritania-on-the-road-le-dogane.md) e in [Senegal](guida-senegal-in-camper-itinerari.md).
 
-Sicuramente sulla nostra decisione hanno molto influito i racconti più che positivi dei nostri amici Rose e Fabio dei **"Giramondo ma non troppo"** (che puoi {{< extLink "ascoltare qui" "https://youtu.be/bEgypQBv2wI" "Ascolta il podcast dei Giramondo ma non troppo - un anno e mezzo in Marocco e non solo">}}), che non hanno mai smesso di supportarci e sopportarci, oltre a darci preziosi consigli circa luoghi dove sostare e da visitare. 
+Sulle nostre scelte relative a questo itinerario hanno sempre influito i consigli della fantastica guida scritta dai nostri amici Rose e Fabio {{< extLink "**I giramondo ma non troppo**" "https://www.facebook.com/groups/754702391623459/" >}}.
 
-A fine gennaio 2023 abbiamo quindi comprato i biglietti per il traghetto da Algeciras a Tanger Med e ci siamo imbarcati insieme a Olimpia e Sakè. 
+Ci siamo lasciati incantare e stupire, abbiamo scoperto allergie inaspettate e assaggiato cibi particolari, siamo stati accolti come in famiglia e ci siamo ritrovati con le scarpe piene di sabbia del deserto fino a raggiungere montagne in alta quota. 
+Insomma, è stata una grande avventura!
 
-Abbiamo deciso di scrivere due articoli, dal momento che il nostro viaggio nel paese si è interrotto per proseguire a sud attraverso la Mauritania e il Senegal: nel primo troverete tutte le tappe che abbiamo effettuato lungo la costa atlantica, nel secondo l'itinerario relativo all'entroterra e alla risalita. 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632612/Articoli/Marocco/marocco%202/lago_marocco_rfurhv.jpg" >}}
 
 > ##### Tabella dei contenuti
 > - [Itinerario](#itineario)
 >   - [In breve](#in-breve)
 > - [Finte Guardie](#finte-guardie)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
+> - [Considerazioni](#considerazioni)
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe)
 
 ##### Itinerario
 
-In questa sezione vi elencheremo tutte le tappe della nostra avventura, portandovi con noi da nord a sud del paese, rimanendo sempre lungo la costa atlantica: da Tangeri arriveremo insieme a Dakhla e poi giù, fino al confine con la Mauritania.
+Tornati indietro da quella che viene chiamata "l'Africa nera", ci siamo ritrovati in pieno periodo di "Ramadan", che significa strutture e servizi chiusi di giorno e aperti di sera quasi ovunque. Oltre a ciò significa per chi professa la religione Musulmana adattarsi a un ritmo alimentare differente, ed è così che ci siamo ritrovati a cenare in orario di colazione a casa di amici (scopri {{< extLink "qui" "https://youtu.be/vgNL4cK-aJY" >}} che banchetto!), ad assaggiare i [dolci tipici](chebakia-i-dolci-tipici-del-ramadan.md), per poi attraversare il paese verso il deserto al confine con l'Algeria, riuscendo anche ad ammirare le scogliere di Legzira, graziati questa volta dalla {{< extLink "bufera di sabbia." "https://youtu.be/cYasYm2JoHU" >}}
 
-Trovate il nostro itinerario in breve [qui](#in-breve) e al fondo di [questo articolo](#considerazioni-e-tappe-imperdibili) la mappa con tutti i puntalini relativi a soste (quasi tutte in libera) e luoghi di interesse **{{< bold "imperdibili" >}}**.
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632616/Articoli/Marocco/marocco%202/scogliere_legzira_rgjfk4.jpg" >}}
 
-**{{< underline "Giorno 1" >}}**: siamo arrivati a **Tanger Med intorno alle 13** e dopo aver svolto le pratiche doganali, passando attraverso lo scanner, ci siamo diretti immediatamente verso **Assilah** a 80 km a sud. Abbiamo avuto modo di vivere subito l'atmosfera del souk, il tipico mercato marocchino, e di passeggiare lungo le mura di questa cittadina colorata e viva.
+In questa sezione vi elencheremo quindi tutte le tappe della nostra avventura, lasciandoci alle spalle Dakhla, Tan Tan e Tiznit e raggiungendo Marrakech e la "Svizzera marocchina".
 
-**{{< underline "Giorno 2" >}}**: abbiamo lasciato Assilah e ci siamo diretti a Larache, tappa trovata per caso sulla cartina stradale. La medina appare da lontano come un cumulo di dadi bianchi e blu. Lungo la strada abbiamo osservato a malincuore numerosi cumuli di pattume a cielo aperto, con bambini e animali intenti a rovistare fra i detriti (scusate la sincerità ma questa scena ci ha lasciato un peso sul cuore). 
-Siamo arrivati poi nel piccolo paesino di **Moulay Bousselham**, animato da pescatori che effettuano escursioni nella piccola laguna. Qui si trova anche un piccolo souk coperto. Dati i numerosi rifiuti e cani randagi ci siamo rimessi in marcia, raggiungendo un parcheggio libero nei pressi di un hotel, con possibilità di passeggiata lungo l'oceano.
+Trovate il nostro itinerario in breve [qui](#in-breve) e al fondo di [questo articolo](#considerazioni-e-tappe-imperdibili) la mappa con tutti i puntalini relativi a soste (quasi tutte in libera) e luoghi di interesse secondo noi **{{< bold "imperdibili" >}}**.
 
-**{{< underline "Giorno 3" >}}**: abbiamo visitato **Salè**, parcheggiando vicino alla Moschea e immergendoci nelle vie a contatto con la gente del posto, prima di attraverare l'omonimo fiume e dirigerci a **Rabat, la capitale del paese.** Il divario qui è decisamente notevole. 
 
-Abbiamo scoperto una città in forte crescita, con palazzi all'avanguardia, mezzi pubblici moderni, una Kashba ben curata con giardini ordinati e un souk decisamente pulito e ricco di dettagli.
-Lasciata la capitale ci siamo diretti a **El Jadida**, antica colonia portoghese.
+**{{< underline "Giorno 1" >}}**: siamo arrivati a **Tafraout** nel pomeriggio, dopo aver attraversato colline, strade panoramiche e paesaggi incantevoli. Ci siamo subito recati nel **palmeto** per trovare un posto all'ombra in cui riposare e dal quale abbiamo raggiunto il centro cittadino a piedi, sotto la sola luce delle stelle, in un'atmosfera surrale. Tafraout è famosa per la produzione di babbucce colorate, davvero particolari da vedere e perchè no indossare. 
 
-**{{< underline "Giorno 4" >}}**: dopo due passi **lungo le mura di El Jadida** ammirando le piccole botteghe di artigiani locali abbiamo costeggiato l'Atlantico sostando sulla falesia per un pranzo con vistae ci siamo diretti a **Ouladida**, famosa per le coltivazioni di ostriche. 
+**{{< underline "Giorno 2" >}}**: abbiamo decido di regalarci un'avventura davvero emozionante (che puoi rivedere {{< extLink "in questo video" "https://youtube.com/shorts/h25c69z0Dls?feature=share" >}}) e di raggiungere, roccia dopo roccia, il famoso **"trampolino di Tafraout"**, uno spuntone dal quale ammirare un paesaggio dall'alto a 360°. Consigliamo vivamente quest'esperienza, per noi è stata una delle più emozionanti in Marocco (bastano un paio di scarponcini e un po' di voglia di avventura, oltre a un aiuto da casa per le coordinate che non guasta mai).
 
-**{{< underline "Giorno 5" >}}**: lasciata Ouladida siamo giunti a **Safi**, città nota per la produzione di ceramiche. Grazie a un signore del posto abbiamo scoperto che qui, a differenza delle altre cittadine, musulmani, ebrei e cristiani convivevano e convivono senza problemi in abitazioni con porte adiacenti, motivo per cui **non si trova il Mellah** (quartiere ebraico), presente invece nelle altre città del Marocco. Camminando fra le stradine si raggiunge la zona con i forni per la cottura delle ceramiche e le cooperative per la vendita dei prodotti finiti.
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632616/Articoli/Marocco/marocco%202/roccia_trampolino_ymtsmf.jpg" >}}
 
-**{{< underline "Giorno 6" >}}**: abbiamo raggiunto **Essaouira** in mattinata, per una passeggiata fra le viuzze e il souk. Parte della città, quella relativa al Mellah ebraico, era in ristrutturazione. Siamo arrivati fino al porto e poi abbiamo pranzato con un panino ripieno di pesce. Segnaliamo qui un buon coworking {{< extLink "(Noqta space)" "https://noqtaspace.com/" >}}, nel quale abbiamo sfruttando una buona connessione e spazi tranquilli e silenziosi per lavorare. 
+**{{< underline "Giorno 3" >}}**: abbiamo lasciato il palmeto a malincuore per raggiungere insieme ai nostri animali il famoso sito delle **rocce colorate** (painted rocks): pare che un artista belga le abbia dipinte nel tempo, dando un po' di colore alla zona. C'è chi le ha apprezzate e chi la ha criticate, secondo noi sono abbastanza particolari da meritare uno sguardo. Salutata anche Tafraout ci siamo diretti lungo una strada in cresta davvero panoramica e spettacolare, tant'è che non ci sembrava nemmeno più di essere in Marocco. Dopo una {{< extLink "merenda on the road" "https://youtu.be/VUcb9JEbnME" >}} a base di pane marocchino e amlou (la tipica crema di frutta secca a base di mandorle che si trova in queste zone e che ti consigliamo di assaggiare), siamo arrivati a Tata, in una zona che sembrava essere il pianeta Marte.
 
-**{{< underline "Giorno 7" >}}**: abbiamo approfittato di aver conosciuto una coppia di italiani per fare di nuovo una passeggiata a Essaouira insieme a loro, prima di dirigerci in un campeggio affacciato sulla costa, a **Sidi Kaouki** e osservare il tramonto sulla spiaggia.
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632616/Articoli/Marocco/marocco%202/rocce_colorate_d35smw.jpg" >}}
 
-**{{< underline "Giorno 8" >}}**: siamo rimasti in campeggio approfittando della calma del luogo per fare una bella passeggiata e pranzare in compagnia.
+**{{< underline "Giorno 4" >}}**: **Tata** offre parecchie possibilità di escursione, soprattutto fra i palmeti. Purtroppo Sara ha scoperto di essere allergica al polline della fioritura delle palme, motivo per cui dopo una visita medica a domicilio presso il campeggio di Tata (a proposito, noi usiamo questa {{< extLink "assicurazione sanitaria" "https://genki.world/?with=vandipety" >}} all'estero e ci troviamo davvero bene), abbiamo comprato un pane cotto sulla pietra (l'abbiamo trovato solo qui, se vedi qualcuno cucinarlo ti consigliamo di assaggiarlo!) e ci siamo allontanati dalla zona dei palmeti, ammirando a distanza quello nel letto del fiume di Tissint. 
 
-**{{< underline "Giorno 9-10" >}}**: ci siamo recati ad **Had Draa** per visitare un famoso mercato rurale della domenica dedicato sia a frutta e verdura che al bestiame. Atmosfera unica, sembrava di aver fatto un salto indietro di molti anni. Prezzi davvero vantaggiosi, ma attenzione ai borseggiatori. Da qui ci siamo diretti verso sud di **Imsouane**, sostando in libera per due giorni a ridosso delle dune, facendo delle belle passeggiate e godendo di un tramonto magico.
+**{{< underline "Giorno 5" >}}**: se lungo la costa atlantica ti avevamo consigliato tappezzieri e tecnici per camper a Tiznit, a **Zagora** puoi trovare invece carrozzieri super specializzati. Proprio noi abbiamo fatto siliconare alcuni pezzi del van che avevano patito le strade della Mauritania e del Senegal. 
 
-**{{< underline "Giorno 11" >}}**: lasciata la costa abbiamo raggiunto **Agadir**, che però ci ha accolti con un traffico e un caos che non ci hanno fatto venir voglia di sostare. 
+**{{< underline "Giorno 6" >}}**: sulla strada che ci ha condotti verso il deserto abbiamo compiuto alcune deviazioni, tra cui quella a **Serdrar**. In questa zona si può camminare sulle dune e andare alla scoperta dei reperti fossili. Tante persone amano portarsi a casa questi cimeli, noi abbiamo preferito lasciarli nel loro luogo di appartenenza. 
 
-Abbiamo approfittato di un Carrefour per fare un po' di spesa e poi siamo ripartiti direzione **Tifnit**, piccolo paese di pescatori, dove godere di belle passeggiate lungo la costa.
+**{{< underline "Giorno 7-9" >}}**: la seconda deviazione prima di raggiundere Merzouga, la meta più famosa del Sahara, è stata a **Tarfaout Sidi Ali**. Dovevamo recarci in un campeggio consigliatoci da amici ma quando siamo giunti in questo luogo e abbiamo conosciuto Mustapha e la sua famiglia, che dirigono la struttura della {{< extLink "KASBA MAGGAMAN" "https://moroccobeautyspots.com/" >}}, abbiamo deciso di rimanere con loro più giorni. Se decidete di avventurarvi in questo luogo magico, in cui è possibile parcheggiare il camper o stostare presso le camere della struttura, non perdetevi una passeggiata fra i palmeti piantati dal nonno di Mustapha, che sarà ben felice di accompagnarvi a scoprire la sua terra. Ultimo consiglio: assaggiate il cibo preparato dalle donne di casa e lasciatevi conquistare dalla loro generosità. Per noi sono state giornate splendide in quella che consideriamo {{< extLink "un pezzo di famiglia" "https://youtu.be/dS1dd3N2QF8" >}}.
 
-**{{< underline "Giorno 12" >}}**: abbiamo pranzato in compagnia in riva all'oceano, approfittando di un piccolo ristorante che grigliava pesce fresco e ci siamo diretti in serata verso **Tiznit**, la "mecca" degli artigiani specializzati in lavori di tappezzeria e carrozzeria di camper (con prezzi davvero vantaggiosi).
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632604/Articoli/Marocco/marocco%202/kasba_maggaman_a9mbww.jpg" >}}
 
-Qui abbiamo avuto modo di conoscere le famose ["finte guardie".](#finte-guardie), personaggi che si spacciano per guardiani dei parcheggi. Noi abbiamo cortesemente e giustamente rifiutandoci di pagare come in molte altre occasioni, libera scelta. 
+**{{< underline "Giorno 10-11" >}}**: dopo giorni pieni di emozioni ci siamo recati a **Rissani** per fare un giro nel famoso mercato del martedì, dove si può trovare di tutto, per poi dirigerci a **Merzouga** e concederci un tramonto spettacolare sulle dune. Puoi decidere di avventurarti a piedi oppure affidarti a una delle agenzie che affittano quad o organizzano tour con i cammelli: questo luogo ormai è super turistico, con tantissimi camping che mettono a disposizione la piscina per trovare refrigerio dalle alte temperature. 
 
-**{{< underline "Giorno 13" >}}**: abbiamo approfittato degli artigiani per sistemare un problema al pannello solare portatile per poi visitare il centro di Tiznit passeggiando per il souk e pranzando in un piccolo locale che friggeva sardine sul momento (10dh/1 euro per un kilo di sardine).
+**{{< underline "Giorno 12-13" >}}**: lasciato il deserto per le temperature un po' fastidiose e per il problema di non poter trovare refrigerio sotto l'ombra delle palme data l'allergia di Sara, ci siamo diretti verso le **"gole del Todra"**. Il punto panoramico e più famoso è il tratto di qualche chilometro che si percorre proprio in una gola ricavata fra le rocce, lungo il quale si trovano numerosi venditori ambulanti. Proseguendo, la strada rimane molto affascinante ma non abbiamo voluto avventurarci troppo a nord per non rischiare di trovare tratti impercorribili senza un mezzo 4x4. 
 
-Abbiamo poi visitato il quartiere con **la fontana blu** e siamo ripartiti in direzione **Mirleft** per una passeggiata nella baia incastonata fra le scogliere. 
+**{{< underline "Giorno 14-15" >}}**: attraversata la valle delle rose seppur senza vederne alcuna fiorita siamo arrivati alla **"valle del Dades**. Anche qui il tratto panoramico è solo uno, limitato alle ultime curve in quota, che creano in ogni caso uno spettacolare percorso tornante dopo tornante. In vetta si trova un ristorante/caffè, noi abbiamo però preferito assaggiare la cucina berbera cucinata per mano di un'intera famiglia, assaporando i gusti della tradizione.
 
-**{{< underline "Giorno 14" >}}**: una tempesta di sabbia fastidiosa ci ha costretti a spostarci dalla costa, raggiungendo per pranzo il parcheggio vicino al souk di **Sidi Ifni**. Da qui abbiamo deciso di proseguire senza vedere le **famose scogliere di Legzira** , praticamente impossibili da visitare in mezzo alla bufera (ma ce l'abbiamo fatta al nostro rientro <!-- inserire link articolo successivo -->), e abbiamo raggiunto **Guelmin**.
+Se vuoi scoprire queste strade spettacolari e cosa abbiamo mangiato trovi tutto in questo video.
+{{< youtube Xp3Y62pB96U >}}
 
-In questo paese si trova l'ultimo supermercato attrezzato con prodotti europei, {{< extLink "il Marjane" "https://goo.gl/maps/5Q5RnWxogZ28cjMfA" >}} oltre a un mercato del bestiame che si svolge il sabato mattina.
+**{{< underline "Giorno 16" >}}**: la meta successiva è stata **Ouarzazate**, dove abbiamo deciso di visitare la famosa Kasbha (4 euro a persona senza guida).
 
-**{{< underline "Giorno 15" >}}**: abbiamo visitato il souk e osservato **il famoso commercio di caprette e dromedari**, per poi spostarci verso **l'oasi di Tighmert** per pranzo. Purtroppo il vento e la bufera di sabbia non ci hanno dato tregua, così ci siamo rimessi su strada raggiungendo **Tan Tan** senza incontrare anima viva. 
+**{{< underline "Giorno 17" >}}**: altra meta molto particolare lungo questa strada chiamata *"la strada delle mille Kasbe"* è **Ait-Ben-Haddou**. Nei dintorni si possono visitare anche gli studios nei quali sono stati girati molti film famosi. Noi abbiamo preferito una visita mattutina alla parte antica del paese per poi rimetterci su strada arrivando a **Telouet**, tra paesaggi montani mozzafiato. Proseguendo a nord lungo la P1506 si raggiunge, attraverso paesaggi spettacolari, il **Passo Tizi N'Tichka** a 2205 mt di altezza. Da qui noi abbiamo proseguito verso Marrakech.
 
-Da qui in poi sono iniziati numerosi posti di blocco in cui ci hanno richiesto le **"fiche de police"**, documenti che riportano i dati dei passeggeri e del mezzo. Noi li abbiamo scritti a mano inserendo:
-    - nome e congnome
-    - numero di passaporto
-    - targa mezzo
-    - numero de police (segnato sul passaporto all'ingresso)
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632613/Articoli/Marocco/marocco%202/montagne_marocco_qablbw.jpg" >}}
 
-**{{< underline "Giorno 16" >}}**: siamo ripartiti direzione **Akhfennir**, dove abbiamo sfruttato il piazzale della Moschea per fare pranzo al riparo dalle raffiche di vento per poi raggiungere nel tardo pomeriggio **Tarfaya**. Qui volevamo visitare il museo dedicato al **{{< extLink "Piccolo Principe" "https://goo.gl/maps/vKZFYGejPeyZiqG97" >}}** dato che pare che qui sia stata scritta la famosa novella, ma purtroppo l'abbiamo trovato chiuso.
+**{{< underline "Giorno 18" >}}**: tra tutto quello che abbiamo potuto ammirare in Marocco, **Marrakech** è stata una delle mete che abbiamo apprezzato di meno. Ci è parsa come un grande mercato confusionario, dove passeggiando fra le bancarelle si respira lo smog dovuto ai motorini che sfrecciano a destra e sinistra. Anche la famosa piazza centrale ci ha intristiti, popolata da serpenti imbambolati e scimmie tenute alla corda. Tra le varie attrazioni turistiche abbiamo deciso di visitare la {{< extLink "Medersa Ben Youssef" "https://medersabenyoussef.com/" >}}, antica scuola coranica, davvero ben mantenuta. 
 
-**{{< underline "Giorno 17" >}}**: lasciata Tarfaya abbiamo fatto una piccola deviazione sulla N1 per osservare il {{< extLink "relitto della nave" "https://goo.gl/maps/N6KrJTcyuGAzNrkK9" >}} che collegava il Marocco con le Canarie poi, sempre accompagnati da vento forte, abbiamo raggiunto **Laayoune**, città militarizzata.
+**{{< underline "Giorno 19-20" >}}**: abbandonata la grande città e il suo caos, abbiamo optato per scoprire le montagne nei {{< extLink "dintorni di Marrakech" "https://youtu.be/0xRbcDv93xE" >}} e immergerci nella natura. La prima tappa è stata **Sti Fadma**, dove si possono fare delle belle escursioni andando a scoprire le cascate. Ci si può avventurare da soli come abbiamo fatto noi oppure affidandosi a una guida. 
 
-**{{< underline "Giorno 18" >}}**: raggiunta **Boudjour** per pausa pranzo ma trovando tutto chiuso a causa della bufera di vento ci siamo messi alla guida attraversando il territorio conteso del **Sahara Occidentale** e raggiungendo la piccola frazione di **Oued Karaa**, con accesso diretto all'oceano.
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632607/Articoli/Marocco/marocco%202/dintorni_marrakech_lmgq6k.jpg" >}}
 
-**{{< underline "Giorno 19" >}}**: abbiamo passeggiato lungo la riva scoprendo il piccolo paese di pescatori e passeggiando fra le minuscole baracche, notando il gran numero di detriti misti a sabbia, portati dal mare e gettati da chi ha una **cultura della differenziata diversa dalla nostra**, se non praticamente assente. Nel pomeriggio ci siamo diretti verso **Dakhla**.
+**{{< underline "Giorno 21-22" >}}**: altra meta naturalistica che ci è piaciuta molto è stata **Imlil**. Anche qui ci si può avventurare a piedi alla ricerca di una bella cascata che si trova dopo aver attraversato il piccolo borgo che pullula di venditori di qualsiasi cosa. 
 
-**{{< underline "Giorno 20-21" >}}**: abbiamo raggiunto il centro cittadino e approfittato del wifi di un cafè per lavorare un paio di giorni con una connessione stabile, visitato il souk e le vie del paese e ammirando anche la grande statua raffigurante una teiera. A Dakhla si trova il **PK25**., famoso parcheggio e punto di ritrovo di camperisti (alcuni stazionano qui 6 mesi..!).
+**{{< underline "Giorno 23-24" >}}**: dopo aver ammirato il "natural bridge", un ponte scavato naturalmente nella roccia, ci siamo diretti alle **Cascate di Ouzoud"**. Abbiamo deciso di visitarle di sera e di mattina, avventurandoci da soli lungo il percorso che le costeggia. Questo luogo, magico, è ormai una nota meta turistica, ecco perchè consigliamo una visita al mattino presto, per non incontrare troppa folla e godere di un attimo di pace di fronte al rumore della cascata. 
 
-**{{< underline "Giorno 22" >}}**: abbiamo approfittato dello "scarico" (se così si può definire)presente al PK25 , caricato acqua lungo la via e guidato per 3 ore attraversando il famoso cartello del **tropico del cancro** per raggiungere **Barbate**, un piccolo paesino di pescatori.
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632612/Articoli/Marocco/marocco%202/cascate_ouzoud_q0pdge.jpg" >}}
 
-**{{< underline "Giorno 23" >}}**: abbiamo passeggiato lungo la costa in quasta zona molto tranquilla per poi dirigerci dopo pranzo alla frontiera sud per entrare, il giorno dopo, in Mauritania. 
-Questa però è un'altra storia che puoi [seguire qui](/blog/guida-senegal-in-camper-itinerari).
+**{{< underline "Giorno 25-26" >}}**: quando siamo arrivati al lago **"Bin El Ouidane"** abbiamo deciso che ci saremmo fermati due giorni in questo luogo surreale, minato dalla siccità. Oltre noi c'erano solo un paio di pescatori, in una cornice naturale a 360°. 
 
-Se invece vuoi leggere come continua la nostra avventura in Marocco puoi farlo cliccando qui!
-<!-- to do mettere link marocco 2  -->
+**{{< underline "Giorno 27-29" >}}**: su consiglio di amici abbiamo deciso di avventurarci nuovamente verso le montagne e raggiungere, dopo aver fatto scorta di frutta e verdura e altri beni alimentari, la particolare montagna chiamata **"Cattedrale di Amsfrane"**. Anche qui siamo rimasti un paio di giorni, ad ammirare la natura incontaminata. Sulla via del ritorno, prima di raggiungere il lado di Bin El Ouidane, abbiamo assaggiato una [pizza deliziosa](le-migliori-pizze-in-Marocco.md).
+
+E' andato tutto bene in questi luoghi? Scoprilo nel video ⤵️
+{{< youtube bRRphPHpGZ0 >}}
+
+**{{< underline "Giorno 30-31" >}}**: sempre per rimanere in tema natura, che è ciò che più abbiamo amato in Marocco, abbiamo raggiunto il **Lago di Ouiouane**, lungo il cui perimetro si può passeggiare ammirando anche le scimmie libere nel loro habitat. 
+
+**{{< underline "Giorno 32" >}}**: lungo la strada che conduce a **Ifrane**, considerata la *"Svizzera marocchina"* per le sue case a graticcio (a propostito d'inverno qui nevica, lo sapevi?) avremmo voluto visitare la foresta di cedri di Azrou, popolata da numerose bertucce. Purtroppo però, date le alte temperature nel momento (metà maggio), la zona era infestata di processionaria, insetto pericoloso per i nostri animali che avremmo dovuto tenere chiusi in camper. 
+
+Da questo punto in poi le nostre avventure in Marocco sono proseguite verso Fes, il sito archeologico di Volubilis, la costa mediterranea e la città Blu fino a tornare a Tanger Med. 
+Se vuoi scoprire cosa abbiamo visitato in queste zone trovi tutto in [questo articolo](marocco-in-camper-la-costa-mediterranea.md).
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632615/Articoli/Marocco/marocco%202/cattedrale_amsfrane_c9kumt.jpg" >}}
+
+
 
 ###### In breve
 
-**{{< underline "Giorno 1" >}}**: Assilah
+**{{< underline "Giorno 1" >}}**: Tafraout
 
-**{{< underline "Giorno 2" >}}**: Larache, Moulay Bousselham
+**{{< underline "Giorno 2" >}}**: Tafraout (roccia trampolino)
 
-**{{< underline "Giorno 3" >}}**: Salè, Rabat
+**{{< underline "Giorno 3" >}}**: Tafraout (painted rocks)
 
-**{{< underline "Giorno 4" >}}**: El Jadida, Ouladidaxfin
+**{{< underline "Giorno 4" >}}**: Tata
 
-**{{< underline "Giorno 5" >}}**: Safi, Souira Qdima
+**{{< underline "Giorno 5" >}}**: Zagora
 
-**{{< underline "Giorno 6-7" >}}**: Essaouira
+**{{< underline "Giorno 6" >}}**: Serdrar
 
-**{{< underline "Giorno 8" >}}**: Sidi Kaouki
+**{{< underline "Giorno 7-9" >}}**: Tafraout Sidi Ali
 
-**{{< underline "Giorno 9-10" >}}**: Had Draa, Imsouane
+**{{< underline "Giorno 10-11" >}}**: Merzouga
 
-**{{< underline "Giorno 11" >}}**: Agadir, Tifnit
+**{{< underline "Giorno 12-13" >}}**: Gole del todra
 
-**{{< underline "Giorno 12-13" >}}**: Tiznit
+**{{< underline "Giorno 14-15" >}}**: Valle del Dades
 
-**{{< underline "Giorno 14" >}}**: Mirleft, Sidi Ifni, Legzira
+**{{< underline "Giorno 16" >}}**: Ouarzazate
 
-**{{< underline "Giorno 15" >}}**: Guelmin e il mercato di dromedari, l'oasi di Tighmert, Tan Tan
+**{{< underline "Giorno 17" >}}**: Ait-Ben-Haddou, Telouet, Passo Tizi N'Tichka
 
-**{{< underline "Giorno 16" >}}**: Akhfennir, Tarfaya
+**{{< underline "Giorno 18" >}}**: Marrakech
 
-**{{< underline "Giorno 17" >}}**: Laayoune
+**{{< underline "Giorno 19-20" >}}**: Sti Fadma
 
-**{{< underline "Giorno 18-19" >}}**: Boudjour, Oued Karaa
+**{{< underline "Giorno 21-22" >}}**: Imlil
 
-**{{< underline "Giorno 20-21" >}}**: Dakhla
+**{{< underline "Giorno 23-24" >}}**: Cascate di Ouzoud
 
-**{{< underline "Giorno 22" >}}**: Barbate
+**{{< underline "Giorno 25-26" >}}**: Lago di Bin El Ouidane
 
-**{{< underline "Giorno 23" >}}**: border Mauritania
+**{{< underline "Giorno 27-29" >}}**: Cattedrale di Amsfrane
+
+**{{< underline "Giorno 30-31" >}}**: Lago di Ouiouane
+
+**{{< underline "Giorno 32" >}}**: Ifrane
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632611/Articoli/Marocco/marocco%202/merzouga_axjqnd.jpg" >}}
 
 ##### Quanto abbiamo speso
 
-##### Considerazioni
-Il nostro approccio iniziale al Marocco, entrando da Tanger Med, è stato un po' condizionato dalla troppa pattumiera presente ovunque: intere discariche a cielo aperto, popolate da animali intenti a mangiare la plastica e bambini a correre fra le macerie.
-Passeggiando per le stradine di Assilah ci siamo risollevati il morale, per poi apprezzare la piacevole Rabat, Essaouira, la costa di Legzira e le sue scogliere.
+##### Considerazioni 
+In tutta questa zona del Marocco sono due gli aspetti che abbiamo apprezzato maggiormente: le persone e la loro ospitalità (tranne nei casi di chi era interessato solo a ottenere denaro, come ad esempio i finti guardiani dei parcheggi) e i luoghi naturali. 
+E' stato emozionante scoprire montagne dall'aspetto diverso rispetto alle alpi piemontesi alle quali i nostri occhi erano abituati da trent'anni, assaggiare i piatti cucinati in famiglia per il periodo del Ramadan, vivere un Marocco della tradizione e non solo quello turistico. 
 
-La strada per raggiungere Daklha può risultare eterna e noiosa, ma alcuni scorci di questi paesaggi ci hanno lasciati davvero senza fiato.
+E' davvero difficile stilare una classifica di preferenza fra tutte queste mete, motivo per cui ci sentiamo solo di sottolineare il fatto che ciò che ci è piaciuto di meno è stato visitare la grande e caotica città di Marrakech. 
 
-Tappe imperdibili: 
-- 
+E' stato bello vivere a fianco di chi abita queste terre da decine e decine di anni, scoprirne il passato e i rischi sul futuro legati alla siccità.
 
-Tappe da evitare:
-- Lago Rosa, per via del fatto che attualmente non è più rosa 
-- Petit Cote, troppo turistica e con hotel diroccati 
+Forse, dovendo tirare le somme, questi luoghi e le emozioni che abbiamo sono quelli che più ricorderemo di tutta la permanenza in Marocco.
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632614/Articoli/Marocco/marocco%202/imlil_z01isf.jpg" >}}
 
 ##### Il nostro Vlog
-Se volete vedere i nostri vlog o vuoi sentire le nostre considerazioni ti lasciamo di seguito i video: 
 
-- vlog
-
-{{< youtube AHVvaftCd70 >}}
-
-- le nostre considerazioni
-
-{{< youtube avKZAgEAd0Q >}}
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ipZq4GlS3cmXzPHI37WSbMO2POBhJUY&ehbc=2E312F" >}}
