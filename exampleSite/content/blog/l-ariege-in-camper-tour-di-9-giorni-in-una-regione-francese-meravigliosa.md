@@ -6,10 +6,10 @@ date: 2023-07-27T10:00:00+01:00
 categories: [ "Camper", "Itinerari"]
 country: Francia
 type: featured
-draft: true
+draft: false
 ---
 
-L’Ariège è un dipartimento della Regione Occitania, situato nel cuore dei Pirenei a sud della Francia. Scoperto per caso arrivando da [Andorra](/blog/andorra-in-camper-un-weekend-alla-scoperta-di-panorami-mozzafiato) e andando in direzione [Carcassonne](/blog/carcassonne-citta-medievale-e-omonimo-gioco-da-tavolo), ci siamo **subito innamorati** dei suoi paesaggi fatti di natura incontaminata, borghetti usciti dal medioevo e tutto incorniciato da maestose montagne.
+L’Ariège è un dipartimento della Regione Occitania, situato nel cuore dei Pirenei a sud della Francia. Scoperto per caso arrivando da [Andorra](/blog/andorra-in-camper-un-weekend-alla-scoperta-di-panorami-mozzafiato) e andando in direzione [Carcassonne](/blog/carcassonne-citta-medievale-e-omonimo-gioco-da-tavolo), ci siamo **subito innamorati** dei suoi paesaggi fatti di natura incontaminata, borghetti usciti dal medioevo, il tutto incorniciato da maestose montagne.
 
 **L’Ariege** è un luogo che accontenta tutti: chi ama la natura e gli sport all’aria aperto, chi ama i luoghi preistorici e i siti naturali (nell’Ariege si trovano parecchie grotte visitabili in cui ammirare pitture rupestri), chi è appassionato di storia (numerosi catari si rifugiarono nei castelli di questa zona per sfuggire all’inquisizione cattolica), chi predilige piccoli villaggi al caos delle grandi città.
 
@@ -24,10 +24,10 @@ L’Ariège è un dipartimento della Regione Occitania, situato nel cuore dei Pi
 
 ##### Itinerario
 
-Di seguito ti proponiamo le tappe che più ci hanno entusiasmati di più nell'Ariege, per un itinerario di 9 giorni ti rimandiamo alla sezione apposita che trovi subito dopo (o cliccando [qui](#in-breve)). Allaccia le cinture che qui è tutto **un sali e scendi** non da poco e prepara la macchina fotografica per immortalare scorci davvero entusiasmanti!
+Di seguito ti proponiamo le tappe che più ci hanno entusiasmati nell'Ariege e per seguire il nostro itinerario di 9 giorni ti rimandiamo alla sezione apposita (che trovi cliccando [qui](#in-breve)). Allaccia le cinture perchè in Ariege è tutto **un sali e scendi** non da poco e prepara la macchina fotografica per immortalare scorci davvero entusiasmanti!
 
 ###### Ax les thermes
-Piacevole paese di montagna, è una meta nota per le acque termali e le piste da sci. A 2 km si trova il piccolo borgo di ***Savignac les Ormeaux***, dove si può percorrere una bellissima passeggiata in natura seguendo il perimetro di un lago e la riva del fiume. 
+Piacevole paese di montagna, è una meta nota per le acque termali e le piste da sci. A 2 km si trova il piccolo borgo di ***Savignac les Ormeaux***, dove si può percorrere una bellissima passeggiata in natura seguendo il perimetro del lago e la riva del fiume. 
 
 ###### Tarascon sur Ariège
 Borgo medievale veramente caratteristico, merita una passeggiata per le vie del paese che conducono a un piccolo belvedere e alla vecchia Torre dell Orologio.
@@ -56,17 +56,17 @@ Un delizioso borgo fortificato che ospita numerose **botteghe di artisti** e che
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117444/Articoli/ariege/IMG_4324_jqqoul.jpg" >}}
 
 ###### Montsegur
-Bellissimo villaggio di montagna che si raggiunge dopo aver percorso una salita incastonata fra le montagne, al fondo della quale appare imponente l’omonimo {{< extLink "castello cataro" "http://www.montsegur.fr/" >}}.
+Bellissimo villaggio di montagna che si raggiunge percorrendo una salita asfaltata incastonata fra le montagne, al fondo della quale appaiono le prime casette il legno e pietra, un unico negozietto di alimentari, un ristorantino, una piccola chiesa e un panorama meraviglioso. 
 
-Se vuoi visitare le rovine del castello di Monségur tieni conto che è raggiungibile con una bella camminata di almeno mezz’ora in salita. Superate le ultime due curve appaiono le prime casette il legno e pietra, un unico negozietto di alimentari, un ristorantino, una piccola chiesa e un panorama meraviglioso. 
+Qui si trova alche l'imponente {{< extLink "castello cataro" "http://www.montsegur.fr/" >}}. Se vuoi visitare le rovine del castello di Monségur tieni conto che è raggiungibile con una camminata di almeno mezz’ora in salita. 
 
 ###### Lac de Montbel
-Lago che si estende con un perimetro di 16 km e che permette passeggiate meravigliose sulle sue rive oltre alla possibilità di fare un bagno rigenerante.
+Lago che si estende con un perimetro di 16 km e che permette passeggiate meravigliose lungo le rive oltre alla possibilità di fare un bagno rigenerante.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117448/Articoli/ariege/IMG_4423_iajj4k.jpg" >}}
 
 ###### Mirepoix 
-Considerata uno dei borghi più belli della Francia, **Mirepoix** è un piccolo borgo medievale con case a graticcio e gallerie di legno che nascondono ristoranti e botteghe. Meravigliosa la Cattedrale, caratterizzata da rosoni affacciati su un’ampia navata. Il borgo il lunedì mattina ospita il mercato più famoso della regione. Il nostro parere? Deliziosa ma rovinata dal troppo turismo. Ecco perché ti consigliamo una sosta seppur breve nella vicina ***Camon***, villaggio fortificato famoso per essere il paese delle rose e visibile in lontananza grazie all’imponenza del castello e dell’abbazia.
+Considerata uno dei borghi più belli della Francia, **Mirepoix** è un piccolo borgo medievale con case a graticcio e gallerie di legno che nascondono ristoranti e botteghe. Meravigliosa la Cattedrale, caratterizzata da rosoni affacciati su un’ampia navata. Il borgo il lunedì mattina ospita il mercato più famoso della regione. Il nostro parere? Deliziosa, ma rovinata dal troppo turismo. Ecco perché ti consigliamo una sosta seppur breve nella vicina ***Camon***, villaggio fortificato famoso per essere il paese delle rose e visibile in lontananza grazie all’imponenza del castello e dell’abbazia, decisamente più autentico.
 
 ###### Carcassonne
 Tipica città medievale, annoverata fra le 5 città più visitate in Francia, presenta una doppia cinta muraria, 4 porte e 52 torri che si intravedono da lontano e fanno immaginare gesta di dame e cavalieri. Della nostra visita e del perché l’abbiamo raggiunta ne abbiamo parlato meglio [in questo articolo](/blog/carcassonne-citta-medievale-e-omonimo-gioco-da-tavolo). Se ti avanza del tempo raggiungi la vicina **Fanjeaux**, un piccolo borgo medievale nel quale abbiamo visitato una bellissima mostra relativa a pittura e scultura.
@@ -95,19 +95,15 @@ Tipica città medievale, annoverata fra le 5 città più visitate in Francia, pr
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117444/Articoli/ariege/IMG_4294_gwe362.jpg" >}}
 
-Nel nostro itinerario improvvisato in loco (ma che ci ha regalato tante emozioni) abbiamo tralasciato **Tolosa** perché le recensioni sui parcheggi per i camper non erano delle più rassicuranti. Ci sarebbero state tantissime altre tappe da prendere in considerazione, tra piccoli borghi e luoghi in natura. Purtroppo, date le temperature estive e una serie di appuntamenti in Italia, non abbiamo potuto rimanere di più in questa regione francese, che però in pochi giorni ci ha permesso di ammirarne tutto lo splendore. 
+Nel nostro itinerario improvvisato in loco (ma che ci ha regalato tante emozioni) abbiamo tralasciato **Tolosa** perché le recensioni sui parcheggi per i camper non erano delle più rassicuranti. Ci sarebbero state tantissime altre tappe da prendere in considerazione, tra piccoli borghi e luoghi in natura. Purtroppo non abbiamo potuto rimanere di più in questa regione francese, che però in pochi giorni ci ha permesso di ammirarne tutto lo splendore. 
 Se attraversi l'Ariege per raggiungere Andorra o la Spagna o nel ritornare indietro, ti consigliamo una sosta a **L’Hospitalet**, un piccolo borgo incastonato fra boschi e montagne.
 
-Abbiamo approfittato della calma e della serenità che trasmette l'Ariege in ogni suo luogo per innamorarci ancora una volta e non solo per la dolcezza dei suoi [pain au chocolat!](/blog/pain-au-chocolat-o-chocolatine-la-miglior-colazione). Se ti fa piacere puoi scoprire la serie completa sulle nostre altre avventure in Francia {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.
-
-<!-- Abbiamo approfittato della calma e della serenità che trasmette l'Ariege in ogni suo luogo per prendere una pausa dal creare video per il nostro canale Youtube, ma se ti fa piacere trovi la serie completa sulle nostre altre avventure in Francia {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.
-
-Insomma la Francia ci ha fatti innamorare ancora una volta e non solo per la dolcezza dei suoi [pain au chocolat!](/blog/pain-au-chocolat-o-chocolatine-la-miglior-colazione) -->
+Abbiamo approfittato della calma e della serenità che trasmette l'Ariege in ogni suo luogo per innamorarci ancora una volta dei territori francesi, e di nuovo non solo grazie alla dolcezza dei [pain au chocolat!](/blog/pain-au-chocolat-o-chocolatine-la-miglior-colazione). Se ti fa piacere puoi scoprire la serie completa sulle nostre altre avventure in Francia trovi tutto {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117443/Articoli/ariege/IMG_4329_uizrqh.jpg" >}}
 
 ##### Strade, servizi e soste
-Tutte le strade percorse in Ariege si sono rivelate in buono stato e ci hanno regalato scorci davvero mozzafiato. In questa regione francese è stato molto semplice trovare aree di servizio attrezzate e gratuite per carico e scarico.
+Tutte le strade percorse in Ariege si sono rivelate in ottimo stato e ci hanno regalato scorci davvero mozzafiato. In questa regione francese è stato molto semplice trovare aree di servizio attrezzate e gratuite per carico e scarico.
 
 ##### Viaggiare con il proprio animale
 {{< animali "EU">}}
