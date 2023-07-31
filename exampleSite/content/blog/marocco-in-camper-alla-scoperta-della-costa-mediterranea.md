@@ -39,7 +39,7 @@ Abbiamo raccontato {{< extLink "qui" "https://youtu.be/6elKW_OV-98" >}} le nostr
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690636794/Articoli/Marocco/marocco%203/IMG_1835_rabwg4.jpg" >}}
 
 **{{< underline "Giorno 7" >}}**: tra le città imperiali che ci mancavano all'appello abbiamo deciso di visitare solo **Fes** dal momento che quando eravamo in paese Meknes era quasi totalmente in ristrutturazione. La nostra visita della città è durata una mattinata intera: abbiamo deciso di passeggiare per le vie del quartiere ebraico alle 7 di mattina, scelta perfetta per non trovare troppo turismo e raggiungere le zone delle concerie di pelle, per le quali è famosa la città. 
-Affacciarsi su questi siti è gratuito, anche se numerose persone si proporranno di farvi da guida. L'odore di pelle trattata è veramente forte, ecco perchè all'ingresso vi daranno un rametto di menta: non buttatelo! Vi aiuterà a non dover trattenere il respiro tutto il tempo!
+Affacciarsi su questi siti è gratuito, anche se numerose persone si proporranno di farvi da guida. L'odore di pelle trattata è veramente forte, ecco perché all'ingresso vi daranno un rametto di menta: non buttatelo! Vi aiuterà a non dover trattenere il respiro tutto il tempo!
 
 **{{< underline "Giorno 8" >}}**: lasciata Fes abbiamo deciso, come anticipato, di non dirigerci direttamente a nord bensì di visitare tutta la costa mediterranea del Marocco, raggiungendo il confine purtroppo invalicabile con l'Algeria a **Saidia**. E' stato toccante salutare con la mano le persone al di là di un semplice fossato riempito di filo spinato. A posteriori, questa è stata una delle cose più interessanti e particolari da ammirare lungo la costa, se non l'unica. 
 

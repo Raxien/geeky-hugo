@@ -37,7 +37,7 @@ In questa sezione vi elencheremo quindi tutte le tappe della nostra avventura, l
 Al fondo di questio articolo troverete il nostro [itinerario in breve](#in-breve), [la mappa](#le-nostre-mappe) con tutti i puntalini relativi a soste (quasi tutte in libera) e [le nostre considerazioni](#considerazioni) .
 
 
-**{{< underline "Giorno 1" >}}**: siamo arrivati a **Tafraout** nel pomeriggio, dopo aver attraversato colline, strade panoramiche e paesaggi incantevoli. Ci siamo subito recati nel **palmeto** per trovare un posto all'ombra in cui riposare e dal quale abbiamo raggiunto il centro cittadino a piedi, sotto la sola luce delle stelle, in un'atmosfera surrale. Tafraout è famosa per la produzione di babbucce colorate, davvero particolari da vedere e perchè no indossare. 
+**{{< underline "Giorno 1" >}}**: siamo arrivati a **Tafraout** nel pomeriggio, dopo aver attraversato colline, strade panoramiche e paesaggi incantevoli. Ci siamo subito recati nel **palmeto** per trovare un posto all'ombra in cui riposare e dal quale abbiamo raggiunto il centro cittadino a piedi, sotto la sola luce delle stelle, in un'atmosfera surrale. Tafraout è famosa per la produzione di babbucce colorate, davvero particolari da vedere e perché no indossare. 
 
 **{{< underline "Giorno 2" >}}**: abbiamo deciso di regalarci un'avventura davvero emozionante (che puoi rivedere {{< extLink "in questo video" "https://youtube.com/shorts/h25c69z0Dls?feature=share" >}}) e di raggiungere, roccia dopo roccia, il famoso **"trampolino di Tafraout"**, uno spuntone dal quale ammirare un paesaggio dall'alto a 360°. Consigliamo vivamente quest'esperienza che per noi è stata una delle più emozionanti in Marocco (bastano un paio di scarponcini e un po' di voglia di avventura, oltre a un aiuto da casa per le coordinate che non guasta mai).
 
@@ -80,7 +80,7 @@ Se volete scoprire queste strade spettacolari e cosa abbiamo mangiato trovate tu
 
 **{{< underline "Giorno 21-22" >}}**: altra meta naturalistica che ci è piaciuta molto è stata **Imlil**. Anche qui ci si può avventurare a piedi alla ricerca di una bella cascata che si trova dopo aver attraversato il piccolo borgo che pullula di venditori di qualsiasi cosa. 
 
-**{{< underline "Giorno 23-24" >}}**: dopo aver ammirato il "natural bridge", un ponte scavato naturalmente nella roccia, ci siamo diretti alle **Cascate di Ouzoud"**. Abbiamo deciso di visitarle di sera e di mattina, avventurandoci da soli lungo il percorso che le costeggia. Questo luogo, magico, è ormai una nota meta turistica, ecco perchè consigliamo una visita al mattino presto, per non incontrare troppa folla e godere di un attimo di pace di fronte al rumore della cascata. 
+**{{< underline "Giorno 23-24" >}}**: dopo aver ammirato il "natural bridge", un ponte scavato naturalmente nella roccia, ci siamo diretti alle **Cascate di Ouzoud"**. Abbiamo deciso di visitarle di sera e di mattina, avventurandoci da soli lungo il percorso che le costeggia. Questo luogo, magico, è ormai una nota meta turistica, ecco perché consigliamo una visita al mattino presto, per non incontrare troppa folla e godere di un attimo di pace di fronte al rumore della cascata. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632612/Articoli/Marocco/marocco%202/cascate_ouzoud_q0pdge.jpg" >}}
 

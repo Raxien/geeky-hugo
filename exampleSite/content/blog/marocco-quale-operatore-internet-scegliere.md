@@ -77,7 +77,7 @@ Cosa significa? Facciamo un esempio per rendere tutto più chiaro, ipotizzando c
 ###### Cosa rischio se non chiudo correttamente l'abbonamento?
 
 All'uscita del paese, al controllo doganale, potrebbero fermarti mandandoti in un centro Inwi a saldare il debito del mese corrente. 
-Ci teniamo a darti tutte le informazioni che abbiamo ottenuto perchè nel nostro caso due operatori ci avevano dato due informazioni diverse quindi noi abbiamo ritardato a chiudere il contratto pagando il mese successivo senza usufruirne e probabilmente se dovessimo tornare in Marocco dovremmo pagare ancora una mensilità..
+Ci teniamo a darti tutte le informazioni che abbiamo ottenuto perché nel nostro caso due operatori ci avevano dato due informazioni diverse quindi noi abbiamo ritardato a chiudere il contratto pagando il mese successivo senza usufruirne e probabilmente se dovessimo tornare in Marocco dovremmo pagare ancora una mensilità..
 
 In questo video raccontiamo live cosa è successo.
 {{< youtube wm_NmytTD0c >}}

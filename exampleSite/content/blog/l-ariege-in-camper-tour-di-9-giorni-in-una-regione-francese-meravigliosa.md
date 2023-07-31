@@ -2,7 +2,7 @@
 title: 'L’Ariège in camper: tour di 9 giorni in una regione francese meravigliosa'
 description: Hai mai preso in considerazione di visitare l'Ariege? Scopri con noi perché non dovresti perderti questa regione francese!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117438/Articoli/ariege/ariege_klsruv.jpg
-date: 2023-07-31T9:00:00+01:00
+date: 2023-07-30T9:00:00+01:00
 categories: [ "Camper", "Itinerari"]
 country: Francia
 type: featured
@@ -11,22 +11,25 @@ draft: false
 
 L’Ariège è un dipartimento della Regione Occitania, situato nel cuore dei Pirenei a sud della Francia. Scoperto per caso arrivando da [Andorra](/blog/andorra-in-camper-un-weekend-alla-scoperta-di-panorami-mozzafiato) e andando in direzione [Carcassonne](/blog/carcassonne-citta-medievale-e-omonimo-gioco-da-tavolo), ci siamo **subito innamorati** dei suoi paesaggi fatti di natura incontaminata, borghetti usciti dal medioevo, il tutto incorniciato da maestose montagne.
 
-**L’Ariege** è un luogo che accontenta tutti: chi ama la natura e gli sport all’aria aperto, chi ama i luoghi preistorici e i siti naturali (nell’Ariege si trovano parecchie grotte visitabili in cui ammirare pitture rupestri), chi è appassionato di storia (numerosi catari si rifugiarono nei castelli di questa zona per sfuggire all’inquisizione cattolica), chi predilige piccoli villaggi al caos delle grandi città.
-
-È una regione anche ricca di tradizione dal punto di vista gastronomico, popolata da persone che sorridono nelle vie di ogni paesino sventolando baguette, e perfetta per chi viaggia on the road. 
-
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117448/Articoli/ariege/ariege_foix_ocxtrt.jpg" >}}
-
 > ##### Tabella dei contenuti
-> - [Itinerario](#itinerario)
->   - [In breve](#in-breve)
+> - [Fra natura e tradizione](#fra-natura-e-tradizione)
+> - [Tappe imperdibili](#tappe-imperdibili)
+> - [Intinerario](#itinerario)
 > - [Strade, servizi e soste](#servizi-e-soste)
 > - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
-#### Itinerario
+#### Fra natura e tradizione
 
-Di seguito ti proponiamo le tappe che più ci hanno entusiasmati nell'Ariege e per seguire il nostro itinerario di 9 giorni ti rimandiamo alla sezione apposita (che trovi cliccando [qui](#in-breve)). Allaccia le cinture perchè in Ariege è tutto **un sali e scendi** non da poco e prepara la macchina fotografica per immortalare scorci davvero entusiasmanti!
+L’Ariege è un luogo che accontenta tutti: chi ama la natura e gli sport all’aria aperto, chi ama i luoghi preistorici e i siti naturali (nell’Ariege si trovano parecchie grotte visitabili in cui ammirare pitture rupestri), chi è appassionato di storia (numerosi catari si rifugiarono nei castelli di questa zona per sfuggire all’inquisizione cattolica), chi predilige piccoli villaggi al caos delle grandi città.
+
+È una regione anche **ricca di tradizione dal punto di vista gastronomico**, popolata da persone che sorridono nelle vie di ogni paesino sventolando baguette, e perfetta per chi viaggia on the road. 
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117448/Articoli/ariege/ariege_foix_ocxtrt.jpg" >}}
+
+#### Tappe imperdibili
+
+Di seguito ti proponiamo le tappe che più ci hanno entusiasmati nell'Ariege e per seguire il nostro itinerario di 9 giorni ti rimandiamo alla sezione apposita (che trovi cliccando [qui](#in-breve)). Allaccia le cinture perché in Ariege è tutto **un sali e scendi** non da poco e prepara la macchina fotografica per immortalare scorci davvero entusiasmanti!
 
 ###### Ax les thermes
 Piacevole paese di montagna, è una meta nota per le acque termali e le piste da sci. A 2 km si trova il piccolo borgo di ***Savignac les Ormeaux***, dove si può percorrere una bellissima passeggiata in natura seguendo il perimetro del lago e la riva del fiume. 
@@ -71,7 +74,9 @@ Tipica città medievale, annoverata fra le 5 città più visitate in Francia, pr
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117443/Articoli/ariege/ariege_villaggio_uizrqh.jpg" >}}
 
-##### In breve 
+##### Itinerario
+
+Di seguito ti proponiamo un itinerario di 9 giorni   che più ci hanno entusiasmati nell'Ariege e per seguire il nostro itinerario di 9 giorni
 
 **{{< underline "Giorno 1" >}}**: Ax les thermes e Tarascon sur Ariège
 
@@ -91,15 +96,16 @@ Tipica città medievale, annoverata fra le 5 città più visitate in Francia, pr
 
 **{{< underline "Giorno 9" >}}**: Carcassonne
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117447/Articoli/ariege/ariege_mirepoix_rgc1wx.jpg" >}}
-
 Nel nostro itinerario improvvisato in loco (ma che ci ha regalato tante emozioni) abbiamo tralasciato **Tolosa** perché le recensioni sui parcheggi per i camper non erano delle più rassicuranti. Ci sarebbero state tantissime altre tappe da prendere in considerazione, tra piccoli borghi e luoghi in natura. Purtroppo non abbiamo potuto rimanere di più in questa regione francese, che però in pochi giorni ci ha permesso di ammirarne tutto lo splendore. 
 Se attraversi l'Ariege per raggiungere Andorra o la Spagna o nel ritornare indietro, ti consigliamo una sosta a **L’Hospitalet**, un piccolo borgo incastonato fra boschi e montagne.
 
 Abbiamo approfittato della calma e della serenità che trasmette l'Ariege in ogni suo luogo per innamorarci ancora una volta dei territori francesi, e di nuovo non solo grazie alla dolcezza dei [pain au chocolat!](/blog/pain-au-chocolat-o-chocolatine-la-miglior-colazione). Se ti fa piacere puoi scoprire la serie completa sulle nostre altre avventure in Francia trovi tutto {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.
 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117447/Articoli/ariege/ariege_mirepoix_rgc1wx.jpg" >}}
+
 ##### Strade, servizi e soste
-Tutte le strade percorse in Ariege si sono rivelate in ottimo stato e ci hanno regalato scorci davvero mozzafiato. In questa regione francese è stato molto semplice trovare aree di servizio attrezzate e gratuite per carico e scarico.
+
+Tutte le strade percorse in Ariege si sono rivelate in ottimo stato e ci hanno regalato scorci davvero mozzafiato. In questa regione francese è stato molto semplice trovare aree di servizio attrezzate e gratuite per carico e scarico. Trovi le nostre aree [qui](#le-nostre-mappe).
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117444/Articoli/ariege/lago_carla_bayle_gwe362.jpg" >}}
 
