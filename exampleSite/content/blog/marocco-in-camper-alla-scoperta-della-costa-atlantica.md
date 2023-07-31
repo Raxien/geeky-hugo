@@ -1,6 +1,6 @@
 ---
 title: 'Marocco in camper: alla scoperta della costa atlantica' 
-description: ""
+description: "Scopri con noi le tappe che più ci hanno emozionati lungo la costa atlantica del Marocco e fin dove ci siamo spinti a bordo del nostro camper in Africa"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690623790/Articoli/marocco%201/tropico_cancro_marocco_uizmq6.jpg
 date: 2023-07-26T17:00:00.000
 categories: ["Africa", "Itinerari", "Camper"]
@@ -14,6 +14,8 @@ Scoprire il Marocco a bordo del nostro camper è stata **una decisione presa in 
 Sicuramente sulla nostra decisione hanno molto influito i racconti più che positivi dei nostri amici Rose e Fabio dei **"Giramondo ma non troppo"** (che puoi {{< extLink "ascoltare qui" "https://youtu.be/bEgypQBv2wI" "Ascolta il podcast dei Giramondo ma non troppo - un anno e mezzo in Marocco e non solo">}}), che non hanno mai smesso di supportarci e sopportarci, oltre a darci preziosi consigli circa luoghi dove [sostare e da visitare](#le-nostre-mappe). 
 
 A fine gennaio 2023 abbiamo quindi comprato i biglietti per il traghetto da Algeciras a Tanger Med e ci siamo imbarcati insieme a Olimpia e Sakè, i nostri cane e gatto ([qui per i documenti necessari](/blog/informazioni-camper-marocco-con-animali)) e siamo partiti all'avventura!
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690623788/Articoli/marocco%201/van_marocco_yasxjf.jpg" >}}
 
 > ##### Tabella dei contenuti
 > - [Premessa](#premessa)
