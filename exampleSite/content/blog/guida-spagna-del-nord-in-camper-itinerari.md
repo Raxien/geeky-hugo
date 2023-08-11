@@ -17,7 +17,7 @@ Ti va di leggere cosa abbiamo da consigliare? Promettiamo mete meravigliose!
 > - [In breve](#in-breve)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
-> - [Quanto abbiamo speso](#quanto-abbiamo-speso)****
+> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
