@@ -50,7 +50,7 @@ Essendo un entry level non aveva molti accessori a bordo ma a noi andava bene co
 
 Non volevamo acquistare un van troppo accessoriato data anche la prima esperienza.
 Abbiamo deciso di aggiungere:
-- seconda batteria a GEL da 12V / 100 Ah
+- seconda batteria a GEL da 12V / 95 Ah
 - pannello Solare NDS 150W con regolatore MPPT Suncontrol 2
 - {{< extLink "inverter NDS 1500W" "https://amzn.to/3E32YhD" >}}
 - serrature interne	
