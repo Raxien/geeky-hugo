@@ -31,7 +31,6 @@ Questa sezione è dedicata alla cronistoria di come abbiamo deciso di intraprend
 
 Abbiamo deciso di optare per un van perché risulta più indiscreto e non volevamo qualcosa di troppo lungo in quanto amiamo stare sia in natura che visitare le città. Sul bagno a bordo siamo stati fermi: vuoi per capriccio o per comodità, in ogni caso l'idea di poter fare una doccia immersi nel traffico di una capitale europea o sedersi sul trono subito dopo il caffè mattutino allettava entrambi..!
 
-
 **{{< underline "Febbraio 2021" >}}**: abbiamo valutato di far camperizzare un van ma abbiamo desistito in quanto le ditte contattate non erano sicure sulla data di consegna. Abbiamo così optato per i mezzi in pronta, o quasi, consegna. In Piemonte c'erano solamente 3 mezzi disponibili.
 
 Abbiamo puntato a un entry level, e con il tempo abbiamo scoperto quanto "entry", con consegna per i primi di Maggio. Disponibile sia con la motorizzazione da 120cv che da 140cv, abbiamo scelto quest'ultima per avere un po' più di spunto in salita!
@@ -55,7 +54,6 @@ Abbiamo deciso di aggiungere:
 - {{< extLink "inverter NDS 1500W" "https://amzn.to/3E32YhD" >}}
 - serrature interne	
 
-
 Per una autoradio touchscreen senza AppleCar\AndoridAuto il concessionario ci aveva offerto un prodotto troppo caro, motivo per cui abbiamo deciso di procedere da noi andando da {{< extLink "Norauto" "https://norauto.it" >}} e acquistando alla stessa cifra una autoradio Sony 2 din.
 
 Costo totale per tutti gli accessori 2350 € ([qui](#costi) trovi i prezzi per i singoli pezzi).
@@ -67,14 +65,14 @@ Abbiamo acquistato anche un uscurante termico.
 L'oscurante termico è risultato ingombrante e fastidioso da mettere e togliere (in caso di emergenza non va bene). Così abbiamo deciso di aggiungere i plissettati frontali.
 Sempre in fatto di sicurezza abbiamo aggiunto anche un computerino di bordo per avere più precisione circa la carica del pannello solare e il MonoControl della Truma, indispensabile per evitare di dover scendere e chiudere la bombola ogni volta prima di azionare il motore.
 
-Costo totale 880 €.
+**Costo totale: 880 €**
 
 **{{< underline "Febbraio 2022" >}}**: ad un anno dall'acquisto abbiamo deciso di rendere il van, in questo periodo della vita, la nostra casa a tutti gli effetti! Era ora di metter mano al portafoglio per installare quegli accessori che ritenevamo indispensabili dopo 11 mesi a bordo!
 - filtri Acquatravel: dopo aver avuto problemi batterici con le acque abbiamo voluto maggior sicurezza a bordo! Grazie a questi kit finalmente possiamo anche bere l'acqua che carichiamo.
 - riscaldamento a gasolio Eberspaecher 4000	- non eravamo convintissimi ma abbiamo deciso di avere un secondo riscaldamento.
 - 4 ganci Remis, sfruttati per appendere oggettistica varia e cappellini 
 
-Costo totale 2150 €
+**Costo totale: 2150 €**
 
 **{{< underline "Luglio 2022" >}}**: non è stata una delle partenze migliori. Dopo neanche esser usciti dall'Italia ci si è rotto il micro del rubinetto della cucina e sono iniziati i problemi alle batterie. 
 
@@ -84,7 +82,7 @@ Pochi giorni dopo abbiamo toccato e smontato la sottoscocca paramotore sinistra,
 
 **{{< underline "Settembre 2022" >}}**: dopo svariati mesi a bordo abbiamo capito che il nostro impianto elettrico era sottodimensionato per gli utilizzi. Abbiamo così acquistato una batteria e un pannello portatile della EcoFlow. Essendo in viaggio ci siamo affidati alle uniche disponibili sul mercato Olandese.
 
-Costo totale 988 €
+**Costo totale: 988 €**
 
 **{{< underline "Ottobre 2022" >}}**: dopo 22400 km era tempo di cambiare filtro e olio motore (209.40 €).
 Abbiamo anche avuto problemi dovuti ad un'installazione mal eseguita del plisettato lato guidatore e perdevamo acqua dalla frusta calda.
@@ -101,7 +99,7 @@ Abbiamo trovato dei punti di ruggine sul tetto del van e nel frigo e abbiamo sis
 Per l'accendi sigari siamo riusciti a risolvere recuperando un altro spinotto e tagliando e risaldano i cavi.
 Per il pannello ci siamo affidati a un negozio marocchino a Tiznit che ha risaldato il filo (ma attualmente andiamo avanti cercando di far contatto manualmente)
 
-Costo 0 €
+**Costo: 0 €**
 
 **{{< underline "Aprile 2023" >}}**: il Senegal ha messo a dura prova il nostro van:
 - scalino rotto
@@ -112,8 +110,17 @@ Si rompe anche la molla della zanzariera per via dello sporco accumulato ma rius
 
 Visti i 40.000 km è ora di cambiare filtro e olio motore, costo di 760 dh per l'olio (70 euro) e 200 dh (18 euro) per il lavoro e dei dischi dei freni anteriori per la bellezza di 400 dh (36 euro).
 
-Costo totale 126,70 euro
+**Costo totale: 126,70 euro**
 
+**{{< underline "Agosto 2023" >}}**: abbiamo sfruttato il mese di Agosto per sistemare il van e apportare varie modifiche, in ordine abbiamo:
+- sistemato la zanzariera
+- rimosso lo scalino rotto
+- cambiato le batterie a GEL con una {{< extLink "batteria al litio da 200ah della Creabest" "https://creabest.it/collections/batteria-lifepo4/products/batteria-lifepo4-12v-200ah-per-camper-nautica-pannello-solare-famiglia-campeggio-con-bluetooth" >}}
+- coibentato portelloni posteriori e laterali e vari punti raggiungibili senza dover smontare tutto il van
+
+Inoltre abbiamo anche fatto dei lavori di manutenzione al motore (cambio olio e filtri vari) e cambiato le due gomme anteriori montando Bridgestone.
+
+**Costo totale: 760 euro**
 
 <div id="costi"></div>
 
@@ -121,12 +128,7 @@ Costo totale 126,70 euro
   <summary>I costi nel dettaglio</summary>
   
   <div id="tblAccessory"></div>
-<!--   
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ``` -->
+
 </details>
 
 ###### Considerazioni sul mezzo
@@ -154,38 +156,20 @@ Per quanto riguarda l'acquisto del riscaldamento a diesel esterno, forse era meg
 Di seguito la lista check-list di cose da sistemare e aggiornamenti che vorremmo fare al nostro "passaggio" dall'Italia. Alcuni sono check di routine altri invece vanno sistemati in quanto potrebbero, alla lunga, creare problemi durante il viaggio.
 
 Da sistemare 🔧
-- Maniglia frigo - rotta a metà per colpa di Olimpia
-- Scalino - si è rotto per un dosso in Senegal. Visti i problemi opteremo per toglierlo
-- Finestre - va messo il frena filetti o qualcosa di simile 
+- ~~Maniglia frigo - rotta a metà per colpa di Olimpia~~ Rimarrà così
+- ~~Scalino - si è rotto per un dosso in Senegal. Visti i problemi opteremo per toglierlo~~ Rimosso
+- ~~Finestre - va messo il frena filetti o qualcosa di simile~~ Vinavil e via! 
 - ~~Oblò: le viti non tengono~~ Messo téflon, sembra tenere
 - ~~Sistemare portellone scollato~~ Sistemato con il silicone in Marocco (presto il video qui)
-- Aggiustare sotto cintura in dinette - è presente una vite che risulta non fissata correttamente
+- ~~Aggiustare sotto cintura in dinette - è presente una vite che risulta non fissata correttamente~~ Sistemato
 - Sistemare pavimento - scricchiola per via del caldo assurdo
 - Sistemare tavolino - balla 💃
-- Verificare Eberspacher - provengono vibrazioni strane
 - Fare ciclo di sanigen per pulire le acque
-- Touchscreen frigo - a volte troviamo il frigo spento, va capito se è colpa del touchscreen troppo "touch"
+- ~~Touchscreen frigo - a volte troviamo il frigo spento, va capito se è colpa del touchscreen troppo "touch"~~ Non sistemabile
 - ~~Zanzariera - i peli del nostro cane e la sabbia hanno fatto si che si è rotta la molla che tira i fili e rende la zanzariera scorrevole~~ Risolto dopo aver smontato (presto il video qui) 
 
 Lavori in valutazione 🔨
-- installare un secondo pannello da 150/300 W 
-    - pro: aumentare l'efficenza energetica soprattutto in inverno perché copriamo a mala pena l'esigenza del frigo.
-    - contro: andrà rimosso l'oblò in bagno. Va capito cosa mettere al suo posto.
-- possibilità di collegare il pannello esterno
-    - pro: lasciare il van all'ombra e caricare le batterie con il pannello portatile
-    - contro: da valutare se l'impianto permette di fare ciò
-- possibilità di sfruttare i pannelli superiori per caricare Ecoflow (nel caso si aggiunga un secondo pannello solare), senza sfruttare l'inverter
-    - pro: possibilità di caricare la nostra batteria portatile tramite uno dei due pannelli quando siamo carichi
-    - contro: aumentiamo la complessità creando eventuali e futuri problemi
-- isolare portellone laterale, posteriore e montanti
-    - pro: migliorerebbe notevolmente la vivibilità all'interno
-    - contro: nessuno tranne il costo
-- chiudere i buchi dei fari
-    - pro: evitare che entrino umidità e freddo
-    - contro: nessuno
-- rendere isolante la tenda oscurante in dotazione
-    - pro: potrebbe esser utile per isolare la parte frontale dal resto dell'abitacolo (i plissettati sono inutili in merito)
-    - contro: capire quanto risulterebbe ingombrante a bordo
+- attualmente non ci sono lavori in valutazione
 
 ##### Oggetti di uso quotidiano
 Ci sono alcuni oggetti di uso quotidiano che non possono mancare a bordo, almeno per noi. 
