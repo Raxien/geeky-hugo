@@ -51,7 +51,6 @@ Era giusto però fermarci, dare ossigeno al cervello e **"disintossicarci"** da 
 
 Poi, che Sara non sappia proprio stare ferma e abbia voluto raccontare **questi fantastici posti** in cui siamo ora sul blog è un'altra storia, e la [puoi leggere qui](/blog/l-ariege-in-camper-tour-di-9-giorni-in-una-regione-francese-meravigliosa).
 
-
 #### E ora?
 Abbiamo detto tasto pausa, **non stop.**
 
@@ -61,7 +60,6 @@ Un periodo di decompressione, per riorganizzare le idee e realizzare tutto quell
 Una pausa che ci ha permesso di schiarire quella nebbia che alleggiava sul nostro futuro, ancora incerto tuttora ma al quale siamo riusciti a dare almeno una direzione. 
 Abbiamo fissato un obbiettivo, che scoprirete presto.
 Abbiamo riesumato un sogno, che non sveliamo perché già una volta è dovuto rimanere tale. 
-
 
 <!-- E' ancora incerto ma quest'anno in giro per il mondo ci ha permesso di capire molto e  -->
 Tutto bello ma quindi il canale YouTube?

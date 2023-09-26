@@ -6,7 +6,7 @@ date: 2023-07-26T17:00:00.000
 categories: ["Africa", "Itinerari", "Camper"]
 type: regular
 country: Marocco
-draft: true
+draft: false
 ---
 
 Scoprire il Marocco a bordo del nostro camper è stata **una decisione presa in itinere**. Da sempre affascinati dal paese, non avevamo mai avuto modo di visitarlo. Poi un giorno, dormendo lungo la [costa andalusa](/blog/andalusia-on-the-road-alla-scoperta-di-setenil-de-las-bodegas-e-ronda) e osservando il confine di un altro continente in lontananza, ci siamo decisi a comprare i biglietti del traghetto e a raggiungere **l'Africa via "terra".**
@@ -172,9 +172,18 @@ Abbiamo letto per la prima volta queste parole mentre cercavamo uno spot sulle v
 
 > Attenzione alle finte guardie
 
-Non abbiamo capito subito pensando fossero **dei finti poliziotti** ma poi col tempo abbiamo capito che con la dicitura "finte guardie" ci si riferisce a semplici **"parcheggiatori abusivi"** che, normalmente, stanno seduti su una sedia nei pressi dei parcheggi più turistici. Appena si prova a parcheggiare arrivano con il loro giubbottino giallo a chiedere soldi in quanto guardiani del parcheggio o addirittura guardiani notturni!
+Non abbiamo capito subito pensando ci si riferisse a **dei finti poliziotti**. Ingenui. Con il tempo abbiamo capito che con la dicitura "finte guardie" ci si riferisce ai **"parcheggiatori abusivi"** che presidiano qualsiasi parcheggio in Marocco. Sedutx su una sedia con un giubbino giallo aspettano l'arrivo di una macchina o di un turista per poi presentarsi al finestrino a chiedere dei soldi, generalmente si parla di 10/20dh (1/2 euro).
 
-Nella realtà molti di questi prendono i soldi (normalmente si va dai 10dh ai 50dh - 1/5 euro) e non li vedrete più, **soprattutto di notte.**
+Il problema non è economico ma il fatto che a volte, fin troppe, ci siamo sentiti presi in giro in quanto si sono presentati come guardiani del parcheggio o notturni per poi, presi i soldi, sparire se non per tornare il giorno dopo per richiedere i soldi. In alcune situazioni (come alle Cascate di Ouzoud o a Mirleft) ci hanno chiesto i soldi nonostante ci fosse il cartello "parcheggio gratuito".
+
+Inoltre i parcheggi sono pieni di spazzatura, se ti pago almeno potresti tenerlo pulito no?
+
+{{< youtube bRRphPHpGZ0 >}}
+_Si è presentato come guardiano dell'intera area: un lago._
+
+###### Tutti i parcheggi sono abusivi?
+
+Buona parte dei parcheggiatori sono abusivi sopratutto nei pressi siti turiscitici ma non tutti. In alcune grandi città come Marrakech o sulla costa mediterranea sono presenti parcheggi a pagamento e custoditi per davvero. Vicino a Tetuan vista mare il guardiano è rimasto tutta la notte a controllare noi e altri camperisti.
 
 ###### Come comportarsi?
 
@@ -190,11 +199,12 @@ che tradotto in italiano
 Non vi serve una pronuncia perfetta in quanto già con la parola **"gendarmerie"** desisteranno.
 Consigliamo comunque di andare via se diventano aggressivi.
 
-In questo video un esempio di "finto guardiano notturno":
 {{< youtube 0xRbcDv93xE >}}
+_Si è presentato come guardiano del parcheggio ma siamo stati presi a pallonate e qualche pietra dai bambini. Il giorno successivo mi sono opposto e non ho pagato._
 
-Mentre qui si è presentato come "guardiano di tutta la zona" (un lago) e quando gli abbiamo detto di non prenderci in giro ha iniziato ad arrancare scuse:
-{{< youtube bRRphPHpGZ0 >}}
+###### Esistono veri guardiani?
+
+Non tutti i parcheggi sono così. 
 
 ##### Quanto abbiamo speso
 
