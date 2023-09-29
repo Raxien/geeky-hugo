@@ -49,6 +49,9 @@ Per esser precisi e concisi:
 Una cosa che non abbiamo voluto cambiare è il cosidetto booster o convertitore DC-DC. Abbiamo voluto mantenere a bordo quello originale già installato della **Schaudt** da 25A che in moto e con il sole ci permette di caricare fino a 28/30Ah (con il frigo acceso e pannello in carica). Non è molto ma per il momento ci basta. Forse in futuro lo cambieremo, chissà.
 
 Per concludere quindi, è vero che il nostro utilizzo è al momento agli inizi ma siamo davvero felici di aver deciso di cambiare batteria e ringraziamo la Creabest per quest’opportunità e per la fiducia riposta in noi. 
+
+Potete acquistare anche voi **la batteria al litio della Creabest** andando {{< extLink "qui" "https://creabest.it/" >}} e potete ottenere un 4% di sconto inserendo il codice promozionale **"vandipety"**!
+
 Ora non ci resta che continuare a vivere insieme a voi nuove avventure! 
 
 {{< youtube Xw4n0CYZqeQ >}}

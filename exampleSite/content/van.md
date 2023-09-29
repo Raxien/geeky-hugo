@@ -115,7 +115,7 @@ Visti i 40.000 km è ora di cambiare filtro e olio motore, costo di 760 dh per l
 **{{< underline "Agosto 2023" >}}**: abbiamo sfruttato il mese di Agosto per sistemare il van e apportare varie modifiche, in ordine abbiamo:
 - sistemato la zanzariera
 - rimosso lo scalino rotto
-- cambiato le due batterie a GEL con una [batteria al litio da 200ah della Creabest](/blog/creabest-le-nostre-nuove-batterie-al-litio)
+- cambiato le due batterie a GEL con una [batteria al litio da 200ah della Creabest](/blog/creabest-le-nostre-nuove-batterie-al-litio) (codice sconto del 4%: **vandipety**)
 - coibentato portelloni posteriori e laterali e vari punti raggiungibili senza dover smontare tutto il van
 
 Inoltre abbiamo anche fatto dei lavori di manutenzione al motore (cambio olio e filtri vari) e cambiato le due gomme anteriori montando Bridgestone.
