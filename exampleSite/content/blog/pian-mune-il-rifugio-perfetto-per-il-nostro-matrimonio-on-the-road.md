@@ -2,7 +2,7 @@
 title: 'Pian Munè: il rifugio perfetto per il nostro matrimonio on the road'
 description: "Sposarsi in montagna ai piedi del Monviso è stata un'esperienza incredibile."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689874010/Articoli/Blog/sposi_sotto_monviso_kwe480.jpg
-date: 2023-10-04T08:00:00.000
+date: 2023-10-02T08:00:00.000
 categories: ["Blog"]
 type: featured
 draft: false

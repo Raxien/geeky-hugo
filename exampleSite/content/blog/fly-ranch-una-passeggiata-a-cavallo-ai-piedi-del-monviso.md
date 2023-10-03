@@ -2,7 +2,7 @@
 title: 'Fly ranch: una passeggiata a cavallo ai piedi del Monviso '
 description: "Un'esperienza unica per un'immersione in natura."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689874010/Articoli/FlyRanch/cavallo_persona_abbraccio_hcsefw.jpg
-date: 2023-10-05T13:00:00.000
+date: 2023-10-01T13:00:00.000
 categories: ["Blog"]
 type: featured
 draft: false
