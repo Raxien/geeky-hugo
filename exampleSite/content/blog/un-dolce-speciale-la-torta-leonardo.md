@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q
 date: 2023-09-23T08:00:00.000
 categories: ["Blog"]
 type: featured
-draft: true
+draft: false    
 ---
 
 In un matrimonio **“omnia vincit amor”** ma il giorno delle nozze si sa che anche il dolce **“vince su tutto”**.
@@ -59,10 +59,10 @@ La torta Leonardo è stata la ciliegina sulla torta (o dovremmo dire il lampone 
 Non abbiamo scelto torte a piani, strati di zucchero colorato, cucchiaiate di panna stucchevole. 
 Abbiamo scelto una torta nata in realtà per un battesimo, realizzata per caso e vincente per forza.
 
-Un caso nel caos. Come piace a noi.
+**Un caso nel caos. Come piace a noi.**
 
 Nella Pasticceria Luciano siamo tornati il mattino dopo il nostro matrimonio, per ringraziare di persona chi ha contribuito a rendere felici noi e i nostri invitati. 
-E siamo tornati per far felici anche le nostre papille gustative. Purtroppo ora saremo sempre un pochino più distanti, ma se doveste recarvi a Barge non esitate a mandarci una fotografia con la bocca piena e lo sguardo che dice “WOW”.
+E siamo tornati per far felici anche le nostre papille gustative. Purtroppo ora saremo sempre un pochino più distanti, ma se doveste recarvi a Barge non esitate a mandarci una fotografia con la bocca piena e **lo sguardo che dice “WOW”.**
 
 Grazie Marco, Grazie al tuo team, grazie alla torta Leonardo. 
 
