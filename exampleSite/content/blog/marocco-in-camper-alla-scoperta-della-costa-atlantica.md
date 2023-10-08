@@ -212,7 +212,7 @@ In generale il costo della vita in Marocco è più basso rispetto a quello itali
 
 {{< card >}}
 
-Di seguito un idea di quanto abbiamo speso **di sola andata** da Tangeri al border della Mauritania. Per il ritorno vi   basterà raddoppiare la voce carburante e trasporti (traghetto):
+Di seguito un'idea di quanto abbiamo speso **di sola andata** da Tangeri al border della Mauritania. Per il ritorno vi basterà raddoppiare la voce carburante e trasporti (traghetto):
 
 {{< tripExpanses "Spese" "2023-01-27T00:00:00Z" "2023-02-19T00:00:00Z" >}}
 

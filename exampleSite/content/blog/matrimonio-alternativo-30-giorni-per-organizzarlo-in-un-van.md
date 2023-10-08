@@ -3,7 +3,7 @@ title: 'Matrimonio alternativo: 30 giorni per organizzarlo in un van'
 description: "E' possibile organizzare un matrimonio in 30 giorni on the road? Vieni a scoprire se e come ci siamo divertiti!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689874010/Articoli/Blog/creabest-batteria-litio_d5gxaf.jpg
 date: 2023-09-26T08:00:00.000
-categories: ["Matrimonio"] ["Curiosità"] 
+categories: ["Matrimonio"] ["Curiosità"] ["Blog"] 
 type: featured
 sponsored: true
 draft: true
