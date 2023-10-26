@@ -2,7 +2,7 @@
 title: 'Marocco in camper: alla scoperta della costa atlantica' 
 description: "Scopri con noi le tappe che più ci hanno emozionati lungo la costa atlantica del Marocco e fin dove ci siamo spinti a bordo del nostro camper in Africa"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690623790/Articoli/marocco%201/tropico_cancro_marocco_uizmq6.jpg
-date: 2023-07-26T17:00:00.000
+date: 2023-10-20T17:00:00.000
 categories: ["Africa", "Itinerari", "Camper"]
 type: regular
 country: Marocco
@@ -14,9 +14,7 @@ Scoprire il Marocco a bordo del nostro camper è stata **una decisione presa in 
 Sicuramente sulla nostra decisione hanno molto influito i racconti più che positivi dei nostri amici Rose e Fabio dei **"Giramondo ma non troppo"** (che puoi {{< extLink "ascoltare qui" "https://youtu.be/bEgypQBv2wI" "Ascolta il podcast dei Giramondo ma non troppo - un anno e mezzo in Marocco e non solo">}}), che non hanno mai smesso di supportarci e sopportarci, oltre a darci preziosi consigli circa luoghi dove [sostare e da visitare](#le-nostre-mappe). 
 
 A fine gennaio 2023 abbiamo quindi comprato i biglietti per il traghetto da Algeciras a Tanger Med e ci siamo imbarcati insieme a Olimpia e Sakè, i nostri cane e gatto ([qui per i documenti necessari](/blog/informazioni-camper-marocco-con-animali)) e siamo partiti all'avventura!
-
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690623788/Articoli/marocco%201/van_marocco_yasxjf.jpg" >}}
-
+ 
 > ##### Tabella dei contenuti
 > - [Premessa](#premessa)
 > - [Itinerario](#itinerario)
@@ -31,11 +29,11 @@ A fine gennaio 2023 abbiamo quindi comprato i biglietti per il traghetto da Alge
 
 ##### Premessa
 
-Siamo rimasti 4 mesi in Africa, di cui 3 in Marocco, motivo per cui abbiamo deciso di scrivere tre articoli, dal momento che il nostro viaggio nel paese si è interrotto per proseguire a sud attraverso la [Mauritania](/blog/viaggio-mauritania-on-the-road-le-dogane) e il [Senegal](/blog/guida-senegal-in-camper-itinerari): in questo primo articolo troverete tutte le tappe che abbiamo effettuato lungo la costa atlantica, nel secondo l'itinerario relativo all'[entroterra](/blog/marocco-in-camper-dalla-costa-al-deserto-alle-citta) e nell'ultimo quello lungo la [costa mediterranea](/blog/marocco-in-camper-alla-scoperta-della-costa-atlantica) per poi tornare in Europa. 
+Siamo rimasti 4 mesi in Africa, di cui 3 in Marocco, usando tutti i giorni disponibili dal visto per fare un Gran Tour del paese e lo abbiamo visistato in lungo e in largo questo paese godendo anche di qualche [sosta lunga in posti magnifici](/blog/5-spot-in-marocco). Visto l'enorme tempo speso nel paese abbiamo deciso di mettere nero su bianco i nostro itinerario creando tre articoli: in questo primo articolo troverete tutte le tappe che abbiamo effettuato lungo la costa atlantica (interrotto poi per proseguire in [Mauritania](/blog/viaggio-mauritania-on-the-road-le-dogane) e [Senegal](/blog/guida-senegal-in-camper-itinerari)), nel secondo l'itinerario relativo all'[entroterra](/blog/marocco-in-camper-dalla-costa-al-deserto-a-marrakech) e nell'ultimo quello lungo la [costa mediterranea](/blog/marocco-in-camper-alla-scoperta-della-costa-atlantica) per poi tornare in Europa. 
 
 ##### Itinerario
 
-In questa sezione vi elencheremo tutte le tappe della nostra avventura, portandovi con noi da nord a sud del Marocco, rimanendo sempre lungo la costa atlantica: da Tangeri arriveremo insieme a Dakhla e poi giù, fino al confine con la Mauritania attraverso **il territorio conteso del Sahara occidentale** (che detto così fa paura ma nella realtà è sicurissimo!).
+In questa sezione vi elencheremo tutte le tappe della nostra avventura, portandovi con noi da nord a sud del Marocco, rimanendo sempre lungo la costa atlantica: da **Tangeri** arriveremo insieme ad **Agadir**. Da qui puoi girare verso [l'entroterra e leggere l'articolo dedicato](/blog/marocco-in-camper-dalla-costa-al-deserto-a-marrakech) o continuare fino giù, attraverso **il territorio conteso del Sahara occidentale** (che detto così fa paura ma nella realtà è sicurissimo!) fino a **Dakhla** e al confine con la **Mauritania**! 
 
 Se volete leggere solo il nostro itinerario con le sole tappe lo trovi [qui](#in-breve) mentre al fondo di [questo articolo](#considerazioni) trovi la mappa con tutti i puntalini relativi a soste (quasi tutte in libera) e luoghi di interesse **{{< bold "imperdibili" >}}**.
 
@@ -88,7 +86,9 @@ Qui abbiamo avuto modo di conoscere le famose ["finte guardie".](#finte-guardie)
 
 Abbiamo poi visitato il quartiere con **la fontana blu** e siamo ripartiti in direzione **Mirleft** per una passeggiata nella baia incastonata fra le scogliere. 
 
-**{{< underline "Giorno 14" >}}**: una tempesta di sabbia fastidiosa ci ha costretti a spostarci dalla costa, raggiungendo per pranzo il parcheggio vicino al souk di **Sidi Ifni**. Da qui abbiamo deciso di proseguire senza vedere le **famose scogliere di Legzira** , praticamente impossibili da visitare in mezzo alla bufera (ma ce l'abbiamo fatta al nostro rientro <!-- inserire link articolo successivo -->), e abbiamo raggiunto **Guelmin**, dove si trova l'ultimo supermercato attrezzato con prodotti europei, {{< extLink "il Marjane" "https://goo.gl/maps/5Q5RnWxogZ28cjMfA" >}} oltre a un mercato del bestiame che si svolge il sabato mattina.
+> Da qui puoi proseguire verso [l'entroterra cliccando qui](/blog/marocco-in-camper-dalla-costa-al-deserto-a-marrakech) o continuare l'avventura verso la città di **Dakhla** e ritrovarsi con centinaia di camperisti al **PK25** o proseguire ancora più a sud e arrivare al confine con la Mauritania.
+> 
+**{{< underline "Giorno 14" >}}**: una tempesta di sabbia fastidiosa ci ha costretti a spostarci dalla costa, raggiungendo per pranzo il parcheggio vicino al souk di **Sidi Ifni**. Da qui abbiamo deciso di proseguire senza vedere le **famose scogliere di Legzira** , praticamente impossibili da visitare in mezzo alla bufera (ma ce l'abbiamo fatta al nostro rientro), e abbiamo raggiunto **Guelmin**, dove si trova l'ultimo supermercato attrezzato con prodotti europei, {{< extLink "il Marjane" "https://goo.gl/maps/5Q5RnWxogZ28cjMfA" >}} oltre a un mercato del bestiame che si svolge il sabato mattina.
 
 A proposito, avete mai guidato in mezzo a una bufera di sabbia? 
 {{< youtube cYasYm2JoHU >}}
@@ -122,7 +122,7 @@ A metà strada si trova il **parco nazionale di Khenifiss** con un ottimo spot p
 **{{< underline "Giorno 23" >}}**: abbiamo passeggiato lungo la costa in questa zona molto tranquilla per poi dirigerci dopo pranzo alla frontiera sud per entrare, il giorno dopo, in Mauritania. 
 Questa però è un'altra storia che puoi [seguire qui](/blog/guida-senegal-in-camper-itinerari).
 
-Se invece vuoi leggere come continua la nostra avventura in Marocco puoi farlo cliccando [qui](/blog/marocco-in-camper-dalla-costa-al-deserto-alle-citta)!
+Se invece vuoi leggere come continua la nostra avventura in Marocco puoi farlo cliccando [qui](/blog/marocco-in-camper-dalla-costa-al-deserto-a-marrakech)!
 
 {{< youtube >}}
 
@@ -147,6 +147,8 @@ Se invece vuoi leggere come continua la nostra avventura in Marocco puoi farlo c
 **{{< underline "Giorno 11" >}}**: Agadir, Tifnit
 
 **{{< underline "Giorno 12-13" >}}**: Tiznit
+
+⚠️ Da qui puoi continuare il viaggio verso [l'entroterra](/blog/marocco-in-camper-dalla-costa-al-deserto-a-marrakech)
 
 **{{< underline "Giorno 14" >}}**: Mirleft, Sidi Ifni, Legzira
 
@@ -204,15 +206,13 @@ _Si è presentato come guardiano del parcheggio ma siamo stati presi a pallonate
 
 ###### Esistono veri guardiani?
 
-Non tutti i parcheggi sono così. 
+Non tutti i parcheggi sono così. Qualche volta ci è capitato di vedere dei veri parcheggi custoditi con esposti i prezzi. Ad esempio a Cabo Negro non sapevamo dove dormire è abbiamo sostato in uno spot trovato su Park4Night con vista mare, segnato come custodito ed infatti così è stato! La guardia è stata seduta tutta la notte sulla sua sedia a controllare noi è altri tre camper! 
 
 ##### Quanto abbiamo speso
 
-In generale il costo della vita in Marocco è più basso rispetto a quello italiano, soprattutto a livello alimentare abbiamo potuto giovare di prezzi vantaggiosi sia per fare la spesa sia per assaggiare i piatti tipici. Anche la benzina costa relativamente poco stando a circa 1.10/1.20 euro a litro.
+Di seguito elenchiamo tutte le spese sostenute dal momento in cui siamo entrati in Marrocco a Tangeri fino al border con la Mauritania, **quindi di sola andata**. Il viaggio di ritorno è stato fatto passando attraverso [l'interno del Marocco](/blog/marocco-in-camper-dalla-costa-al-deserto-a-marrakech) e poi lungo [la costa del Mediterraneo](/blog/marocco-in-camper-alla-scoperta-della-costa-mediterranea). 
 
-{{< card >}}
-
-Di seguito un'idea di quanto abbiamo speso **di sola andata** da Tangeri al border della Mauritania. Per il ritorno vi basterà raddoppiare la voce carburante e trasporti (traghetto):
+Il costo del traghetto (voce "Trasporti - Altro") è da intendersi di sola andata dalla Spagna al Marocco mentre quello di rientro lo puoi trovare [nell'articolo finale della nostra avventura](/blog/marocco-in-camper-alla-scoperta-della-costa-mediterranea). 
 
 {{< tripExpanses "Spese" "2023-01-27T00:00:00Z" "2023-02-19T00:00:00Z" >}}
 
