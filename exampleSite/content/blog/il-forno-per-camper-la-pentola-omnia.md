@@ -6,7 +6,7 @@ date: 2023-10-07T08:00:00.000
 categories: ["Blog"]
 type: featured
 sponsored: true
-draft: false
+draft: false 
 ---
 Hai presente quando non hai troppo tempo per preparare la cena così riempi la teglia più grande che hai di tutte le verdure che trovi in frigo e cacci tutto nel forno pregandolo di cuocere il più in fretta possibile mentre tu spazzi il pavimento e ti rintani in doccia? 
 
@@ -35,7 +35,7 @@ Ammetto di aver tentato di preparare una galette farcita con marmellata in padel
 
 Avevamo visto questa pentola fornetto tedesca, simile al fornetto versilia nella versione italiana, nel van di una coppia di due ragazzi tedeschi incontrati on the road. Ne siamo rimasti piacevolmente incuriositi e siamo felicissimi di averla portata a bordo con noi da quando siamo ripartiti per vivere da fulltimers sul van. 
 
-Tutti i pezzi del {{< extLink "**kit Omnia**" "http://lucianobarge.it" >}} occupano uno spazio irrisorio se pensiamo alle potenzialità di ognuno dei componenti.
+Tutti i pezzi del {{< extLink "**kit Omnia**" "https://tinyurl.com/OmniaSweden" >}} occupano uno spazio irrisorio se pensiamo alle potenzialità di ognuno dei componenti.
 
 All'interno del set si trovano: 
 - la pentola in acciaio con l'apposito coperchio
