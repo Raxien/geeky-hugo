@@ -3,10 +3,10 @@ title: 'Rabat in camper: cosa vedere nella capitale del Marocco'
 description: "Rabat è una delle città imperiali ed è la capitale del Marocco. È una città molto diversa dalle realtà che la circondano. Noi l’abbiamo raggiunta in camper, vieni a scoprire cosa abbiamo visto." 
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690129840/Articoli/rabat/rabat_kcoux1.jpg
 date: 2023-07-22T10:00:00+01:00
-categories: [ "Camper","Guida","Itinerari"]
+categories: [ "Africa", "Guida"]
 country: Marocco
 type: featured
-draft: true
+draft: false
 ---
 
 In confronto alle altre città del [Marocco](/blog/viaggio-marocco-in-camper-itinerari-e-informazioni), Rabat spicca per la modernità e l’eleganza, che si fanno ancor più sfrontate se come noi si arriva in città in camper, attraversando paesi devastati dalla povertà e spiagge ridotte a discariche a cielo aperto. 

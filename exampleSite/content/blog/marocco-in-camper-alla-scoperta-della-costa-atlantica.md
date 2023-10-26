@@ -2,7 +2,7 @@
 title: 'Marocco in camper: alla scoperta della costa atlantica' 
 description: "Scopri con noi le tappe che più ci hanno emozionati lungo la costa atlantica del Marocco e fin dove ci siamo spinti a bordo del nostro camper in Africa"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690623790/Articoli/marocco%201/tropico_cancro_marocco_uizmq6.jpg
-date: 2023-10-20T17:00:00.000
+date: 2023-10-10T17:00:00.000
 categories: ["Africa", "Itinerari", "Camper"]
 type: regular
 country: Marocco
@@ -29,7 +29,7 @@ A fine gennaio 2023 abbiamo quindi comprato i biglietti per il traghetto da Alge
 
 ##### Premessa
 
-Siamo rimasti 4 mesi in Africa, di cui 3 in Marocco, usando tutti i giorni disponibili dal visto per fare un Gran Tour del paese e lo abbiamo visistato in lungo e in largo questo paese godendo anche di qualche [sosta lunga in posti magnifici](/blog/5-spot-in-marocco). Visto l'enorme tempo speso nel paese abbiamo deciso di mettere nero su bianco i nostro itinerario creando tre articoli: in questo primo articolo troverete tutte le tappe che abbiamo effettuato lungo la costa atlantica (interrotto poi per proseguire in [Mauritania](/blog/viaggio-mauritania-on-the-road-le-dogane) e [Senegal](/blog/guida-senegal-in-camper-itinerari)), nel secondo l'itinerario relativo all'[entroterra](/blog/marocco-in-camper-dalla-costa-al-deserto-a-marrakech) e nell'ultimo quello lungo la [costa mediterranea](/blog/marocco-in-camper-alla-scoperta-della-costa-atlantica) per poi tornare in Europa. 
+Siamo rimasti 4 mesi in Africa, di cui 3 in Marocco, usando tutti i giorni disponibili dal visto per fare un Gran Tour del paese e lo abbiamo visistato in lungo e in largo questo paese godendo anche di qualche [sosta lunga in posti magnifici](/blog/5-spot-in-marocco). Visto l'enorme tempo speso nel paese abbiamo deciso di mettere nero su bianco i nostro itinerario creando tre articoli: in questo primo articolo troverete tutte le tappe che abbiamo effettuato lungo la costa atlantica (interrotto poi per proseguire in [Mauritania](/blog/viaggio-mauritania-on-the-road-le-dogane) e [Senegal](/blog/guida-senegal-in-camper-itinerari)), nel secondo l'itinerario relativo all'[entroterra](/blog/marocco-in-camper-dalla-costa-al-deserto-a-marrakech) e nell'ultimo quello lungo la [costa mediterranea](/blog/marocco-in-camper-alla-scoperta-della-costa-mediterranea) per poi tornare in Europa. 
 
 ##### Itinerario
 
@@ -208,6 +208,8 @@ _Si è presentato come guardiano del parcheggio ma siamo stati presi a pallonate
 
 Non tutti i parcheggi sono così. Qualche volta ci è capitato di vedere dei veri parcheggi custoditi con esposti i prezzi. Ad esempio a Cabo Negro non sapevamo dove dormire è abbiamo sostato in uno spot trovato su Park4Night con vista mare, segnato come custodito ed infatti così è stato! La guardia è stata seduta tutta la notte sulla sua sedia a controllare noi è altri tre camper! 
 
+Abbiamo pagato anche nel palmeto a Tafrout, posto incantevole, con guardiani che per 15dh passavano la notte con le torce a controllare l'area.
+
 ##### Quanto abbiamo speso
 
 Di seguito elenchiamo tutte le spese sostenute dal momento in cui siamo entrati in Marrocco a Tangeri fino al border con la Mauritania, **quindi di sola andata**. Il viaggio di ritorno è stato fatto passando attraverso [l'interno del Marocco](/blog/marocco-in-camper-dalla-costa-al-deserto-a-marrakech) e poi lungo [la costa del Mediterraneo](/blog/marocco-in-camper-alla-scoperta-della-costa-mediterranea). 
@@ -243,7 +245,7 @@ Se vuoi rivivere le nostre avventure puoi farlo qui sotto oppure trovi la serie 
 {{< youtube VBb-Zza0oUs >}}
 
 ##### Le nostre mappe
-Questa mappe è completa di tutti i posti visitati, le soste ([qui trovi i 5 migliori](/blog/5-spot-in-marocco)), campeggi, negozi, pizzerie ([scopri le migliori](/blog/le-migliori-pizze-in-Marocco)) fatte **in tutto il Marocco**. Non aver paura di cliccare sul tasto nell'angolo in alto a sinistra per abilitare\disabilitare quelli che vi interessano!
+Questa mappe è completa di tutti i posti visitati, le soste ([qui trovi i 5 migliori](/blog/5-spot-in-marocco)), campeggi, negozi, pizzerie ([scopri le migliori](/blog/le-migliori-pizze-in-marocco)) fatte **in tutto il Marocco**. Non aver paura di cliccare sul tasto nell'angolo in alto a sinistra per abilitare\disabilitare quelli che vi interessano!
 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ECqhZ8xnaxMc-PBZKLGmML-epe56eek&ehbc=2E312F" >}}
 
