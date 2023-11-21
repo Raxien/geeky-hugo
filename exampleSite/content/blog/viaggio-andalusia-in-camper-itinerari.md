@@ -176,8 +176,8 @@ In camper o auto, le mete imperdibili secondo noi sono:
 -   **{{< bold "Vejer de la Frontera" >}}**: tutti i paesini bianchi in questa zona della costa sono deliziosi, Vejer forse per la sua posizione a noi è piaciuto di più.
 -   **{{< bold "Caminito del Rey " >}}**: se sogni brivido e avventura è la meta giusta.
 -   **{{< bold "Granada" >}}**: se ami la storia e l'architettura Granada non deluderà le tue aspettative.
--   **{{< bold "Granada" >}}**: è davvero un borgo piacevole, in cui respirare aria di autenticità.
--   **{{< bold "Granada" >}}**: noi ci siamo letteralmente persi nelle viuzze, ammirandone ogni angolo nascosto. 
+-   **{{< bold "Ronda" >}}**: è davvero un borgo piacevole, in cui respirare aria di autenticità.
+-   **{{< bold "Setenil de Las Botegas" >}}**: noi ci siamo letteralmente persi nelle viuzze, ammirandone ogni angolo nascosto. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1683223926/setenil-de-la-botegas_r5k4zo.jpg" >}}
 

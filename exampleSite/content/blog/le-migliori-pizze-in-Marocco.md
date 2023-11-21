@@ -39,7 +39,6 @@ Che dire, siamo ritornati due sere dopo tanto ci è piaciuta! E ci torneremmo an
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1685394819/IMG_2528_ybbk2y.jpg" >}}
 
-
 #### 🍕 Positano, Fez: 
 
 **Servizio**: il cameriere all'accoglienza è molto gentile e parla bene inglese.  
