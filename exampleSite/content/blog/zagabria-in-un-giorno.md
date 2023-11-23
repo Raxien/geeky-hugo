@@ -3,7 +3,7 @@ title: 'Zagabria in un giorno: tour a piedi e in camper della capitale dela Croa
 description: "Scopri con noi i luoghi imperdibili di Zagabria da raggiungere a piedi e in camper"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689874010/Articoli/Croazia/zagabria-treno-citta-alta-cfhpjk.jpg
 date: 2023-11-20T08:00:00.000
-categories: ["Blog"]
+categories: ["Europa", "Itinerario"]
 country: Croazia
 type: featured
 draft: false
