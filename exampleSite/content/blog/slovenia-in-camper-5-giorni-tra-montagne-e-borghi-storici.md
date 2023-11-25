@@ -93,8 +93,7 @@ La città offre vari posti per dormire sia in libera che in aree camper. Noi abb
     }, {
         "publicId": "Articoli/Slovenia/celje-slovenia-statua_wf8plw.jpg",
         "mediaType": "image"
-    },
-        {
+    },{
         "publicId": "Articoli/Slovenia/celje-slovenia-vista-parco_jwpntc.jpg",
         "mediaType": "image"
     }, {

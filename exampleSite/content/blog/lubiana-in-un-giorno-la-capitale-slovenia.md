@@ -3,11 +3,14 @@ title: 'Lubiana in un giorno: 8 cose da fare per scoprire al meglio la capitale 
 description: Hai mai visitato la capitale slovena? Scoprila insieme a noi!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689874010/Articoli/Slovenia/lubiana-canale-chiesa-rossa_mr4v7r.jpg
 date: 2023-10-23T08:00:00.000
-categories: ["Europa", "Itinerari", "Camper"]
+categories: ["Europa", "Itinerario", "Camper"]
 country: Slovenia
 type: featured
 draft: false
 ---
+
+<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript">
+</script>  
 
 Lubiana è una delle capitali europee meno conosciute e più piccole, eppure **racchiude un fascino particolare misto a un'atmosfera conviviale e giovanile**. Visto che non è enorme si visita tranquillamente a piedi in un giorno o in un weekend e permette di raggiungere facilmente altre mete del paese ([che trovi comodamente qui](/blog/slovenia-in-camper-5-giorni-tra-montagne-e-borghi-storici)). 
 
@@ -46,16 +49,10 @@ In questo quartiere si trova anche il **Mercato di Lubiana**.
 </div>
 
 <script>
-     const myWidget = cloudinary.galleryWidget({
+     const myWidget3 = cloudinary.galleryWidget({
     "cloudName": "ilgattodicitturin",
     "mediaAssets": [{
-        "publicId": "Articoli/Slovenia/lubiana-centrale_gcbuqz.jpg",
-        "mediaType": "image"
-    }, {
         "publicId": "Articoli/Slovenia/lubiana-palazzo_qjj6rm.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/lubiana-pittoresco_ymtllw.jpg",
         "mediaType": "image"
     }, {
         "publicId": "Articoli/Slovenia/lubiana-di-notte_prqjsm.jpg",
@@ -73,7 +70,7 @@ In questo quartiere si trova anche il **Mercato di Lubiana**.
     "container": "#my-gallery3"
 });
 
-myWidget.render();
+myWidget3.render();
 </script>
 
 ##### 6. Il castello 
@@ -131,7 +128,7 @@ In ogni angolo vien voglia di sedersi e godere dei soli suoni della natura. Anch
 </div>
 
 <script>
-     const myWidget = cloudinary.galleryWidget({
+     const myWidget2 = cloudinary.galleryWidget({
     "cloudName": "ilgattodicitturin",
     "mediaAssets": [{
         "publicId": "Articoli/Slovenia/lubiana-piccola-statua_lglec4.jpg",
@@ -158,7 +155,7 @@ In ogni angolo vien voglia di sedersi e godere dei soli suoni della natura. Anch
     "container": "#my-gallery2"
 });
 
-myWidget.render();
+myWidget2.render();
 </script>
 
 ##### Vi è venuta fame?
