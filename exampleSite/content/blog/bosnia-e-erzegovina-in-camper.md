@@ -151,3 +151,8 @@ Speriamo che questo itinerario vi sia stato di aiuto e di ispirazione e se avete
 Per tutti gli altri itinerari relativi ai Balcani vi rimandiamo alla sezione apposita, mentre se volete rivivere le nostre avventure un po' dal vivo sul canale Youtube trovate i video dedicati alla Bosnia ed Erzegovina. 
 
 {{< youtube QisI4L-ADPw >}}
+
+###### Cosa vedere e dove parcheggiare il camper?
+Scoprilo con la comoda mappa qui sotto:
+
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=10CA5Czgmx_rFUUBoCGKDDGGAIofu_u0&ehbc=2E312F" >}}
