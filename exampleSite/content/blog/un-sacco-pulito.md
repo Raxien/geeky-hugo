@@ -1,89 +1,72 @@
 ---
 title: 'Un sacco pulito'
 description: "Dopo un mese \"di stop\" per sistemare il van, salutare famiglia e amici e sposarci abbiamo tracciato la direzione. Prossima meta.." 
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1694595842/Articoli/Blog/ripartiamo.jpg
-date: 2023-09-11T8:00:00+01:00
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1694595842/Articoli/Blog/ripartiamo.jpg
+date: 2023-10-03T8:00:00+01:00
 categories: [ "Blog"]
 type: featured
-draft: true
+draft: false
 ---
 
-“Un Sacco Pulito” è una società benefit con una missione improntata alla tutela dell'ambiente. 
+Oggi vi vogliamo parlare di un progetto a cui teniamo molto e di cui siamo entrati a far parte. Un progetto che ci permetterà di tenere il mondo **"Un Sacco Pulito".**
+<!-- In questo articolo, vi parlerò brevemente dell’iniziativa "Un Sacco Pulito", degli obiettivi del progetto, di come supportare l’iniziativa se siete un’azienda o di come unirvi alla crescente community di viaggiatori responsabili se siete dei semplici cittadini che hanno a cuore la nostra casa comune chiamata Pianeta Terra 🙂 -->
 
-obiettivo è quello di ripulire le aree naturali, riducendo l'impatto dell'inquinamento e sensibilizzando la società sull'importanza della conservazione della natura. Questa missione andrebbe oltre la semplice pulizia, includendo programmi di educazione ambientale, sensibilizzazione e attività di riciclaggio.campagna di sensibilizzazione sul tema rifiuti promossa da un variegato gruppo di content creators (o “youtubers” come li chiamarebbe la stampa) ed aziende che credono nel potere “sociale” dei social, non solo come mezzo per condividere foto di cani, gatti e colazioni, ma anche come piattaforme d’aggregazione per promuovere comportamenti civili virtuosi.
+##### Un mondo migliore
 
-In questo articolo, vi parlerò brevemente dell’iniziativa “Un Sacco Pulito”, degli obiettivi del progetto, di come supportare l’iniziativa se siete un’azienda o di come unirvi alla crescente community di viaggiatori responsabili se siete dei semplici cittadini che hanno a cuore la nostra casa comune chiamata Pianeta Terra 🙂
+**"Un Sacco Pulito"** è una società benefit con una missione improntata alla tutela dell'ambiente. L'obiettivo è quello di ripulire le aree naturali, **riducendo l'impatto dell'inquinamento e sensibilizzando la società sull'importanza della conservazione della natura**. Questa missione andrebbe oltre la semplice pulizia, includendo programmi di educazione ambientale, sensibilizzazione e attività di riciclaggio.campagna di sensibilizzazione sul tema rifiuti promossa da un **variegato gruppo di content creators** (o "youtubers" come li chiamarebbe la stampa) ed aziende che credono nel potere "sociale" dei social, non solo come mezzo per condividere foto di cani, gatti e colazioni, ma anche come piattaforme d’aggregazione per promuovere comportamenti civili virtuosi.
 
-Noi vivendo in camper e spostandoci di posto in posto quasi ogni giorno, lo vediamo in prima persona ogni volta che parcheggiamo. A volte più, a volte meno, ma il problema dei rifiuti ancora è presente in quasi tutte le regioni d’Italia…e all’estero non si può dire che il mondo in generale sia messo meglio!
-PROBLEMA: CI SI SENTE SOLI ED IMPOTENTI
-Vedendo tanta desolazione, spesso è facile perdere la speranza e sentirsi impotenti, troppo piccoli per fare qualcosa e troppo soli per cambiare “il mondo”! 
+##### Ci si sente soli e impotenti
 
-In fondo, che cosa possiamo fare noi singoli contro l’inciviltà degli altri? Come possiamo eliminare la plastica dagli oceani? Come possiamo vivere in un mondo più pulito e sostenibile se nessuno “dall’alto” non fa niente per far rispettare le regole?
+Noi vivendo in camper e spostandoci di posto in posto quasi ogni giorno, lo vediamo in prima persona ogni volta che parcheggiamo. A volte più, a volte meno, **ma il problema dei rifiuti ancora è presente** in quasi tutte le regioni d’Italia e all’estero non si può dire che il mondo in generale sia messo meglio!
 
-“Il mondo purtroppo va così” ci viene spesso da pensare…
+Vedendo tanta desolazione, spesso è facile perdere la speranza e sentirsi impotenti, **troppo piccoli per fare qualcosa** e troppo soli per cambiare "il mondo"! 
 
-“Noi persone normali non abbiamo potere di cambiare le cose“, ci diciamo.
+In fondo, che cosa possiamo fare noi singoli contro l’inciviltà degli altri? Come possiamo eliminare la plastica dagli oceani? Come possiamo vivere in un mondo più pulito e sostenibile se nessuno "dall’alto" non fa niente per far rispettare le regole?
 
-A volte fare “il nostro piccolo” sembra davvero “troppo piccolo”!
+**"Il mondo purtroppo va così" ci viene spesso da pensare.**
 
-Gocce sole nell’oceano… 
+**"Noi persone normali non abbiamo potere di cambiare le cose", ci diciamo.**
 
-L’iniziativa di “Un Sacco Pulito”, mira proprio a sconfiggere questo determinismo e questa sensazione di impotenza sfruttando il potere dei social in maniera sana, per mettere insieme le tante gocce che si sentono sole e creare una marea di cambiamento attivo.
+A volte fare "il nostro piccolo" sembra davvero "troppo piccolo"!
 
-Ora vi spiego in che cosa consiste, e perchè anche noi abbiamo deciso di prenderne parte!
+Gocce sole nell’oceano.
 
- 
+##### Non siamo soli
 
+L’iniziativa di "Un Sacco Pulito", mira proprio a sconfiggere questo determinismo e questa sensazione di impotenza sfruttando il potere dei social in maniera sana, per mettere insieme le tante gocce che si sentono sole e creare una marea di cambiamento attivo.
 
-1. Storia del Progetto:
-Nato dagli Appassionati di Viaggi
-un sacco pulito - logo iniziativa
-Il progetto di Un Sacco Pulito è nato nella primavera del 2023 da un’idea lanciata da Armando del Canale Youtube di Vivere in Camper: Macchitelofaffa?.
+Ora vi spiego in che cosa consiste, e perché anche noi abbiamo deciso di prenderne parte!
 
+###### Nato dagli Appassionati di Viaggi
 
-L’idea assurda e geniale, era quella di raggruppare quanti più canali youtube sul tema dei viaggi in camper/outdoor/vanlife  possibile, e sfruttare il potere dei loro canali social per unire una rete di cittadini attivi ed aziende con un’obiettivo comune: pulire l’ambiente!
+Il progetto di **"Un Sacco Pulito"** è nato nella primavera del 2023 da un’idea lanciata da {{< extLink "Armando del Canale Youtube di Vivere in Camper: Macchitelofaffa?" "https://www.youtube.com/@VivereInCamperMacchitelofaffa" >}}.
 
-Alcuni tra i canali Youtube che hanno preso parte al progetto fino ad oggi, per fare alcuni esempi troviamo BreatheFreedom, StoryHuntersTV, TheNirvan, ComeDueVagabondi, SenzaCap, Tickets for Life, Farovers, L’importanteèPartire, VadoAQuelPaese e… Ovviamente la lista è molto lunga!
+L’idea assurda e geniale, era quella di raggruppare **quanti più canali youtube sul tema dei viaggi** in camper, outdoor e vanlife possibili e sfruttare il "potere" dei loro canali social per unire una rete di cittadini attivi ed aziende con un’obiettivo comune: **pulire l’ambiente!**
 
+<!-- fix -->
+Partirà inizialmente da alcuni "ambasadors" che hanno preso parte al progetto fino ad oggi, per fare alcuni esempi troviamo "BreatheFreedom", "SenzaCap", "StoryHuntersTV", "TheNirvan", "ComeDueVagabondi", "Tickets for Life", "Farovers" e, ovviamente noi! Viaggiatori che si sono presi l'impegno regolare di ripulire i luoghi che visitano!
 
-Ci siamo uniti pure noi con il nostro piccolo canale di LostOnTheRoute , ed ora vi spiego perchè consideriamo questa iniziativa molto valida ed abbiamo deciso di supportarla!
+###### Un obiettivo semplice
 
- 
-
- 
- 
-
- 
-
-2. Come Funziona il Progetto?
-Obiettivo: Pulizia!
-pulire i luoghi sporchi - un sacco pulito 
-L’obiettivo di un sacco pulito è quello di ispirare quante più persone possibile ad attivarsi, prendere in mano un sacchetto e pulire il posto in cui si trovano. 
-
-Ovviamente non si parla di pulire interi quartieri o città, ma semplicemente la piazzola dove si parcheggia, la stradina di fronte a casa, o l’area pic-nic dove si sosta. Un semplice sacchetto a testa ogni tanto, moltiplicato per quanti siamo, può davvero fare la differenza! 
+Ispirare quante più persone possibile ad attivarsi a prendere in mano un sacchetto e pulire il posto in cui si trovano. "Normalizzare" la pulizia e far capire a quante più persone possibili che non dobbiamo tenere pulita solo casa nostra ma ovunque, che un piccolo gesto si che può fare la differenza! Ovviamente non si parla di pulire interi quartieri o città, ma semplicemente la piazzola dove si parcheggia, la stradina di fronte a casa o l’area pic-nic dove si sosta. **Un semplice sacchetto a testa ogni tanto, moltiplicato per quanti siamo, può davvero fare la differenza!**
 
 Per impattare quante più persone possibili con un messaggio forte e duraturo, l’idea del progetto è rendere le azioni di pulizia dei luoghi pubbliche e ben visibili, in modo da creare esempi virtuosi che possano essere imitati.
 
-Questo partirà inizialmente dagli “ambassadors” che altro non sono che semplici persone appassionate di viaggi che regolarmente si prendono l’impegno di ripulire i luoghi che visitano e creare contenuti a sostegno del progetto (ps. ci siamo proposti anche noi! 🙂 ).
 
 
-cosa fanno gli ambassadors?
-ambassadors di un sacco pulito
 
 
-L’idea di fondo del progetto, è riuscire a “normalizzare” la pulizia: far capire a quante più persone possibili che “casa” nostra è ovunque, che un piccolo gesto si che può fare la differenza, e che un esempio vale più di mille parole!
+Spesso ancor tante persone, vedendo qualcuno ripulire una spiaggia, pensano: "Ma perché lo fa?".
 
-Spesso ancor tante persone, vedendo qualcuno ripulire una spiaggia, pensano: “Ma perchè lo fa?”.
-
-Ecco, se riuscissimo a cambiare quel “Ma perchè lo fa?” con un “Aspetta che lo aiuto!“, avremmo vinto tutti! 😉
+Ecco, se riuscissimo a cambiare quel "Ma perché lo fa?" con un "Aspetta che lo aiuto!", avremmo vinto tutti! 😉
 
 
  
-3. Aziende, Ambassadors e Cittadini:
+1. Aziende, Ambassadors e Cittadini:
 Come si Sostiene Economicamente il Progetto?
  
 
-Il progetto “Un Sacco Pulito” è, come già detto, supportato da una grande community di youtubers appassionati di camper/van/outdoor che ha deciso di mettersi insieme per un obiettivo comune: la pulizia del territorio!
+Il progetto "Un Sacco Pulito" è, come già detto, supportato da una grande community di youtubers appassionati di camper/van/outdoor che ha deciso di mettersi insieme per un obiettivo comune: la pulizia del territorio!
 
 Ovviamente, tenere in piedi il progetto nel tempo ha dei costi (sito web, pubblicità, video-editing, pulizie etc.) e per sostenere le spese, Un Sacco Pulito ha deciso di appoggiarsi sul finanziamento spontaneo di aziende in cerca di visibilità.
 
@@ -93,7 +76,7 @@ In pratica, il progetto offre un servizio di pubblicità virtuosa per le aziende
 
 2. Filmano tutta la raccolta dei Rifiuti, i Sacchi raccolti, e Condividono Foto e Video Online
 
-3. Aziende e Imprese possono finanziare i costi di pulizia, essere ringraziate pubblicamente sui canali social degli “ambassadors” e sul canale ufficiale di Un Sacco Pulito, ed utilizzare i contenuti per promuoversi. (Se sei un’azienda, trovi tutte le informazioni sul sito ufficiale).
+3. Aziende e Imprese possono finanziare i costi di pulizia, essere ringraziate pubblicamente sui canali social degli "ambassadors" e sul canale ufficiale di Un Sacco Pulito, ed utilizzare i contenuti per promuoversi. (Se sei un’azienda, trovi tutte le informazioni sul sito ufficiale).
 
 4. Il Posto Ripulito ed il Finanziatore vengono inseriti in una Grande Mappa Online dei posti Ripuliti, che testimonierà l’impatto del progetto
 
@@ -109,7 +92,7 @@ Detto questo l’idea di appoggiarsi alla voglia di aziende ed imprese di promuo
  
 
 un sacco pulito, ci vinciamo tutti
-COSA CI GUADAGNA L'”AMBASSADOR”?
+COSA CI GUADAGNA L'"AMBASSADOR"?
 Un piccolo riconoscimento economico per aver ripulito un luogo e per il lavoro di filmarlo, editarlo e metterlo online.
 
 
@@ -119,16 +102,16 @@ Un piccolo riconoscimento economico per aver ripulito un luogo e per il lavoro d
 COSA CI GUADAGNANO LE AZIENDE?
 Pubblicità virtuosa su canali youtube con migliaia di iscritti e la possibilità di associare il proprio brand alla pulizia di luoghi naturali.
 
-Visto che comunque in pubblicità al giorno d’oggi bisogna investire, perchè non farlo su un canale che va a beneficio di tutta la comunità? :).
+Visto che comunque in pubblicità al giorno d’oggi bisogna investire, perché non farlo su un canale che va a beneficio di tutta la comunità? :).
 
 
 
  
 
 COSA CI GUADAGNAMO TUTTI?
-Nei nostri feed social, le azioni di pulizia non saranno più lo “straordinario”, ma qualcosa di normale, e così ci sentiremo meno soli!
+Nei nostri feed social, le azioni di pulizia non saranno più lo "straordinario", ma qualcosa di normale, e così ci sentiremo meno soli!
 
-Le grandi cose si cambiano dando l’esempio! Utilizzare tanti canali social (non solo account “pubblici”, ma quelli di ognuno di noi!) con un messaggio comune, può aiutare a sensibilizzare altri a fare lo stesso!
+Le grandi cose si cambiano dando l’esempio! Utilizzare tanti canali social (non solo account "pubblici", ma quelli di ognuno di noi!) con un messaggio comune, può aiutare a sensibilizzare altri a fare lo stesso!
 
 Giusto questa mattina, dopo aver pulito la nostra piazzola di parcheggio ed aver portato le mondizie a differenziare, tornando al nostro van abbiamo visto i nostri vicini di camper fare lo stesso intorno alla loro piazzola! (avevamo lasciato tutto pulito intorno al nostro van e probabilmente hanno visto la differenza! 🙂 ).
 
@@ -141,7 +124,7 @@ Da soli ci si sente impotenti, ma in tanti ci si sente parte di una comunità vi
 COSA CI GUADAGNA LA COMUNITA’?
 Luoghi ripuliti, meno plastica in mare e meno vergogne da mostrare ai turisti.
 
-Vivere in un ambiente più sano, pulito e sostenibile è nell’interesse di tutti, e salvaguardare quest’interesse è il motivo per cui è nata l’iniziativa “Un Sacco Pulito” 😀
+Vivere in un ambiente più sano, pulito e sostenibile è nell’interesse di tutti, e salvaguardare quest’interesse è il motivo per cui è nata l’iniziativa "Un Sacco Pulito" 😀
 
  
 
@@ -159,7 +142,7 @@ Quando puoi, quando hai 10 minuti di tempo, prendi un sacchetto e ripulisci anch
 Ti sembrerà poco, ma davvero starai cambiando il mondo. 🙂
 Mentre lo fai, fotografalo, e mostra ad altri ciò che hai fatto. Ponendoci d’esempio uno per l’altro, non ci sentiremo più solamente delle singole gocce nell’oceano, ma una vera marea positiva 🙂
 
-Sul sito ufficiale di Un Sacco Pulito, ogni cittadino può registrare il proprio account, uploaddare foto e video delle raccolte e mettere i propri “Pin” su una grande mappa dei posti ripuliti! 
+Sul sito ufficiale di Un Sacco Pulito, ogni cittadino può registrare il proprio account, uploaddare foto e video delle raccolte e mettere i propri "Pin" su una grande mappa dei posti ripuliti! 
 
 Tutti insieme, possiamo fare la differenza 😀
 
@@ -175,13 +158,13 @@ Tutti insieme, possiamo fare la differenza 😀
 un sacco pulito - dani - lostontheroute -
 Ed eccoci alla fine di questo breve articolo sul progetto Un Sacco Pulito 🙂
 
-Ci tenevo a parlarvi di questa splendida iniziativa che sta partendo in questi giorni (Agosto 2023), soprattutto per darvi qualche info in più sul perchè abbiamo deciso di unirci e supportare questa causa!
+Ci tenevo a parlarvi di questa splendida iniziativa che sta partendo in questi giorni (Agosto 2023), soprattutto per darvi qualche info in più sul perché abbiamo deciso di unirci e supportare questa causa!
 
-Viaggiando e vivendo in camper full-time, per noi ogni posto in cui parcheggiamo è un po’ “casa nostra”, e davvero a volte è troppo un peccato vedere quanto basterebbe poco per tenere più pulita la casa di tutti.
+Viaggiando e vivendo in camper full-time, per noi ogni posto in cui parcheggiamo è un po’ "casa nostra", e davvero a volte è troppo un peccato vedere quanto basterebbe poco per tenere più pulita la casa di tutti.
 
 Non sporcare sicuramente è d’obbligo. Però, visto che animali con il senso civico sotto le scarpe ce ne sono ancora troppi in giro, quello che possiamo fare è metterci d’impegno per fare ancora un passo in più: essere d’esempio.
 
-Personalmente, voglio pensare che quando qualcuno arriva in un posto pulito, sia molto meno incline a sporcarlo (al contrario, se lo trova sporco, penserà “tanto così fanno tutti”). 
+Personalmente, voglio pensare che quando qualcuno arriva in un posto pulito, sia molto meno incline a sporcarlo (al contrario, se lo trova sporco, penserà "tanto così fanno tutti"). 
 
 Magari questo articolo, come questo progetto, sono loro stessi piccole gocce nell’oceano, ma alla fine l’unico vero cambiamento che possiamo fare parte da noi stessi! 🙂
 

@@ -93,8 +93,6 @@ Non è facilissimo ricaricare la SIM orange ma si riescono a trovare alcuni punt
 
 {{< procontro pro1="Costa poco" pro2="Prende abbastanza bene" pro3="Non serve dare disdetta" contro1="Niente abbonamento!" contro2="Pochi negozi ufficiali dove ricaricare" >}}
 
-
-
 La situazione Internet può sembrare un po' complessa raccontata così. Effettivamente per noi che avevamo bisogno di Internet dal punto di vista lavorativo lo è stata, soprattutto per problemi di incomprensione.
 Se prevedi un soggiorno più lungo ma presso strutture ricettive (noi in camper abbiamo sempre sostato [in libera](/blog/5-spot-in-marocco)), una semplice SIM ricaricabile farà al caso tuo.
 
