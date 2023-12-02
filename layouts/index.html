@@ -157,13 +157,13 @@
             <!-- Previous page. -->
             {{ if $paginator.HasPrev }}
             <li class="page-item prev d-flex align-items-center">
-              <a class="page-link disabled" href="{{ $paginator.Prev.URL }}" aria-label="Pagination Arrow"><i
+              <a class="page-link disabled" href="{{ $paginator.Prev.URL }}" aria-label="Precedente"><i
                   class="fas fa-arrow-left me-3"></i><span class="d-none d-sm-inline">Precedente</span>
               </a>
             </li>
             {{ else }}
             <li class="page-item prev d-flex align-items-center disabled">
-              <span class="page-link disabled" aria-label="Pagination Arrow"><i
+              <span class="page-link disabled" aria-label="Precedente"><i
                   class="fas fa-arrow-left me-3"></i><span class="d-none d-sm-inline">Precedente</span>
               </span>
             </li>
@@ -209,13 +209,13 @@
             <!-- Next page. -->
             {{ if $paginator.HasNext }}
             <li class="page-item next d-flex align-items-center">
-              <a class="page-link arrow" href="{{ $paginator.Next.URL }}" aria-label="Pagination"><span class="d-none d-sm-inline">Sucessivo</span><i
+              <a class="page-link arrow" href="{{ $paginator.Next.URL }}" aria-label="successivo"><span class="d-none d-sm-inline">Sucessivo</span><i
                   class="fas fa-arrow-right ms-3"></i>
               </a>
             </li>
             {{ else }}
             <li class="page-item next d-flex align-items-center disabled">
-              <span class="page-link arrow" aria-label="Pagination"><span class="d-none d-sm-inline">Sucessivo</span><i class="fas fa-arrow-right ms-3"></i>
+              <span class="page-link arrow" aria-label="successivo"><span class="d-none d-sm-inline">Sucessivo</span><i class="fas fa-arrow-right ms-3"></i>
               </span>
             </li>
             {{ end }}
