@@ -67,7 +67,7 @@
             <ul class="list-unstyled social-icons">
               {{ range site.Params.social }}
               <li class="list-inline-item">
-                <a href="{{ .link | safeURL }}" target = "_blank" rel = "nofollow noopener noreferrer"><i class="{{.icon}}"></i></a>
+                <a href="{{ .link | safeURL }}" target = "_blank" aria-label="{{.title}}" rel = "nofollow noopener noreferrer"><i class="{{.icon}}"></i></a>
               </li>
               {{ end }}
             </ul>
@@ -125,7 +125,7 @@
             <ul class="list-unstyled social-icons">
               {{ range site.Params.social }}
               <li class="list-inline-item">
-                <a href="{{ .link | safeURL }}"><i class="{{.icon}}"></i></a>
+                <a href="{{ .link | safeURL }}" aria-label="{{.title}}" ><i class="{{.icon}}"></i></a>
               </li>
               {{ end }}
             </ul>
