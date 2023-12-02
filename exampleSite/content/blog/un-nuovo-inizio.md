@@ -57,7 +57,7 @@ Trovare il tempo di leggere qualcosa in più sappiamo bene che può essere impeg
 9 metri quadrati arriva via mail ogni mercoledì in pausa pranzo e dura il tempo di bere un caffè!
 Se hai piacere di iscriverti puoi farlo comodamente qui sotto 👇
 
-<div style="text-align: center;"><iframe src="https://vandipety.substack.com/embed" height="150" style=" background:white;" frameborder="0" scrolling="no" class="ow g-3 mb-3"></iframe></div>
+<div style="text-align: center;"><iframe title="newsletter" src="https://vandipety.substack.com/embed" height="150" style=" background:white;" frameborder="0" scrolling="no" class="ow g-3 mb-3"></iframe></div>
 
 ##### Varie
 Si tratta di cose da nerd, per lo più. Migliorie di design del sito che però speriamo aiutino a rendere questo contenitore virtuale lo spazio migliore per i nostri appunti di viaggio. 
