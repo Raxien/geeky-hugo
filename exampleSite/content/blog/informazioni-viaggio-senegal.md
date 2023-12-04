@@ -79,15 +79,15 @@ Se vuoi vedere offerte più aggiornate vai {{< extLink "qui" "https://orange.sn/
 
 **{{< underline "Expresso" >}}** la connessione è più limitata (ma siamo comunque riusciti a scaricare dei file abbastanza pesanti senza problemi) e funziona maggiormente nella parte nord del Senegal, mentre nel sud solo a Ziguinchor e Cap Skirring. Offre però delle promozioni molto vantaggiose.
 - Pass settimanale: 
-    1 GB per 500 F
-    2 GB per 700 F
+    - 1 GB per 500 F
+    - 2 GB per 700 F
 - Pass mensile:
-    5 GB per 2000 F
-    10 GB per 3000 F
-    20 GB per 5000 F
-    50 GB per 7000 F
-    70 GB per 10000 F
-    Illimitato per 15000F
+    - 5 GB per 2000 F
+    -  10 GB per 3000 F
+    - 20 GB per 5000 F
+    - 50 GB per 7000 F
+    - 70 GB per 10000 F
+    - Illimitato per 15000F
 
 Attenzione perché questo operatore non permette l'hotspot! Puoi ovviare al problema comprando un router portatile ({{< extLink "qui" "http://amzn.to/3Zopkl5" "qui trovi quello che usiamo noi da 1 anno!" >}}) e usandolo come modem per tutti.
 
