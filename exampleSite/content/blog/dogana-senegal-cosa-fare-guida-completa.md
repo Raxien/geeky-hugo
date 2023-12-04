@@ -162,7 +162,7 @@ Una volta arrivati a Saint Louis abbiamo scoperto la storia di alcuni camperisti
 - {{< underline "caso 4">}}: mezzo con più di 8 anni, pagamento anticipato di 250 euro a un famosissimo passeur. Foglio rilasciato con scritta "turismo". 10 giorni di concessione a cui aggiungere i due rinnovi da 15 giorni (totale 40 giorni di possibilità di rimanere con il mezzo in paese).
 
 - {{< underline "caso 5">}}: due coppie con due Toyota camperizzati con più di 8 anni, pagamento anticipato di 250 euro a un famosissimo passeur. Foglio rilasciato con scritta "turismo". 10 giorni di concessione a cui aggiungere i due rinnovi da 15 giorni (totale 40 giorni di possibilità di rimanere con il mezzo in paese).
-- 
+  
 ###### La nostra esperienza
 Ci siamo recati al terzo giorno a Saint Louis, dove il doganiere è stato irremovibile e non ci ha rinnovato il documento dicendoci che non era rinnovabile e ci ha dato il numero di un "collega", della famosa agenzia privata. Possiamo essere criticati in merito (e ci hanno criticati) per non aver alzato abbastanza la voce e non aver chiamato l'Ambasciata, ma essendo alle prime esperienze ci concediamo la possibilità di aver sbagliato e ne traiamo insegnamento. Abbiamo quindi pagato 240 euro, ottenendo un nuovo passavant di 10 giorni, rinnovabile un paio di volte di 15 giorni. 
 Dogane in cui abbiamo rinnovato successivamente senza problemi:

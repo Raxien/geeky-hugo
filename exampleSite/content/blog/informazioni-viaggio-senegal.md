@@ -66,12 +66,12 @@ Gli operatori sul suolo sono principalmente tre:
 **{{< underline "Orange" >}}** è l'operatore più caro ma anche quello che prende meglio. Offre un'ottima copertura 4g praticamente in tutto il territorio. 
 Nel momento in cui scriviamo le promozioni più interessanti sono: 
 - Pass settimanale:
-    1.5 GB per 1500 F 
-- Pass mensile: 
-    2.5 GB per 2000 F
-    7 GB per 5000 F
-    15 GB per 10000 F
-    25 GB per 15000 F
+    1.5 GB per 1500 F (circa 2.30 euro)
+- Pass mensile (si va dai 3 euro ai 23 circa): 
+    2.5 GB per 2000 F 
+    7 GB per 5000 F 
+    15 GB per 10000 F 
+    25 GB per 15000 F 
 
 Se si acquista il pass mensile ogni giorno si ha 1 extra GB da mezzanotte alle 8 di mattina.
 Facile da ricaricare praticamente ovunque, offre possibilità di usare l'hotspot! 
