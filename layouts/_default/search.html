@@ -3,16 +3,31 @@
 <section class="section">
   <div class="container">
     <div class="section-title">
-      <h2 class="h4">Risultati per <span class="title-border">
-          <script>
-            var keyword = (window.location.search).substr(3);
-            var result = keyword.replace("+", " ");
-            // fix per ricerca con spazi da pin
-            result = result.replace("%20", " ");
-            document.write(result);
-          </script>
-        </span></h2>
+      <h2 class="h4">Risultati per <span class="title-border"><script>
+        var keyword = (window.location.search).substr(3);
+        var result = keyword.replace("+", " ");
+        // fix per ricerca con spazi da pin
+        result = result.replace("%20", " ");
+        document.write(result);
+
+        function doit() { alert(1);};
+
+      </script>
+      </span></h2>
     </div>
+<!-- 
+    <ul class="list-inline card-badge">
+      <li class="list-inline-item">
+        <span class="badge badge-primary py-1">${categories0}</span>
+      </li>
+      <li class="list-inline-item">
+        <span class="badge badge-primary py-1">${categories1}</span>
+      </li>
+      <li class="list-inline-item">
+        <span class="badge badge-primary py-1">${categories2}</span>
+      </li>
+    </ul>
+ -->
     <div class="row">
       <div class="col-lg-8 mb-5 mb-lg-0">
         <div class="border mb-5 pt-4 rounded">
@@ -22,7 +37,7 @@
                 <div class="card">
                   <div class="mb-4 position-relative">
                     <img loading="lazy" decoding="async" class="img-fluid w-100 rounded-4" src="${image}" alt="${title}">
-                    ${ isset categories }<span class="badge badge-primary card-badge">${categories }</span>${ end }
+                    ${ isset categories }<ul class="list-inline card-badge"><li class="list-inline-item"><span class="badge badge-primary py-1">${categories0}</span></li><li class="list-inline-item ${visible1}"><span class="badge badge-primary py-1">${categories1}</span></li><li class="list-inline-item ${visible2}"><span class="badge badge-primary py-1">${categories2}</span></li><li class="list-inline-item ${visible3}"><span class="badge badge-primary py-1">${categories3}</span></li></ul>${ end }
                   </div>
                   <div class="card-body">
                     <h3 class="h6">
@@ -86,7 +101,7 @@
 
 {{ "<!-- Search index -->" | safeHTML }}
 <script>
-  var indexURL = {{ "index.json" | relLangURL}}
+  var indexURL = {{"index.json" | relLangURL}}
 </script>
 
 {{ end }}

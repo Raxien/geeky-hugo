@@ -3,22 +3,22 @@ var fuseOptions = {
   isCaseSensitive: false,
   includeScore: false,
   shouldSort: true,
-  includeMatches: true,
-  findAllMatches: false,
+  includeMatches: false,
+  findAllMatches: true,
   minMatchCharLength: 3,
-  location: 0,
-  threshold: 0.5,
-  distance: 50,
+  location: 1,
+  threshold: 0.4,
+  distance: 100,
   useExtendedSearch: false,
   ignoreLocation: false,
   ignoreFieldNorm: false,
   keys: [{
       name: "title",
-      weight: 0.8
+      weight: 0.9
     },
     {
-      name: "tags",
-      weight: 0.5
+      name: "country",
+      weight: 0.8
     },
     {
       name: "categories",
@@ -45,7 +45,7 @@ function executeSearch(searchQuery) {
     if (result.length > 0) {
       populateResults(result);
     } else {
-      $('#search-results').append("<div class=\"text-center\"><img class=\"img-fluid mb-5\" src=\"https://user-images.githubusercontent.com/37659754/129837093-dcf35b93-982a-48d5-a9fd-4035dcefc4e0.png\" width=\"200\"><h3>Nessun risultato trovato</h3></div>");
+      $('#search-results').append("<div class=\"text-center\"><img class=\"img-fluid mb-5\" src=\"https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1701789881/asset/not-found_nw9oea.png\" width=\"200\"><h3>Nessun risultato trovato</h3></div>");
     }
   });
 }
@@ -76,6 +76,7 @@ function populateResults(result) {
     //pull template from hugo templarte definition
     var templateDefinition = $('#search-result-template').html();
     //replace values
+
     var output = render(templateDefinition, {
       key: key,
       title: value.item.title,
@@ -84,8 +85,22 @@ function populateResults(result) {
       link: value.item.permalink,
       tags: value.item.tags,
       categories: value.item.categories,
+
+      categories0: [value.item.categories[0]],
+
+      categories1: [value.item.categories[1]],
+      visible1: value.item.categories[1] == undefined? "hide-li" : "",
+
+      categories2: [value.item.categories[2]],
+      visible2: value.item.categories[2] == undefined? "hide-li" : "",
+
+      categories3: [value.item.categories[3]],
+      visible3: value.item.categories[3] == undefined? "hide-li" : "",
       snippet: snippet
     });
+
+    console.log(output)
+
     $('#search-results').append(output);
 
     $.each(snippetHighlights, function (snipkey, snipvalue) {

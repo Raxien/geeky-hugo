@@ -9,7 +9,7 @@ type: featured
 draft: false
 ---
 
-**Sarajevo è una città viva e dinamica**, ma camminando per le sue vie non si possono non notare i segni di una guerra non troppo passata. 
+Sarajevo, la capitale della Bosnia, **è una città viva e dinamica**, ma camminando per le sue vie non si possono non notare i segni di una guerra non troppo passata. 
 Gli anni '90 qui si vivono ancora attraverso i buchi dei proiettili nei muri delle case, nei cimiteri sparsi qua e là, nei musei. 
 Come nel resto del paese a Sarajevo **si mescolano 4 religioni** diverse oltre a culture diverse, per cui ci si ritrova a passeggiare fra chiese, cattedrali ortodosse, moschee e sinagoghe, tra rintocchi di campane e il canto del muezzin. 
 Noi abbiamo visitato la città in due mezze giornate, ma l'itinerario che vi lasciamo si può perfettamente compiere in un giorno solo. 
