@@ -1,7 +1,7 @@
 ---
 title: 'Tortilla de patatas spagnola: scoprila insieme a noi'
 description: "Hai mai assaggiato la tortilla di patate? Nel nostro viaggio in Spagna non potevamo non mangiarne.. più di una!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094778/Articoli/tortilla/IMG_4634_itmojb.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094778/Articoli/tortilla/IMG_4634_itmojb.jpg
 date: 2023-07-14T17:00:00.000
 categories: ["Cucina"]
 country: Spagna
@@ -32,7 +32,7 @@ Sono solo **cinque ingredienti**, ma quelli giusti! Vuoi modificarli? Non avrai 
 
 A proposito, sai quale sarebbe la sostanziale differenza fra tortilla e frittata? La cottura! Se volessimo essere precisi, non me ne voglia buonanima di nonna che non sapeva di preparare una tortilla fenomenale a questo punto, la frittata si dovrebbe ultimare in forno come cottura, mentre la tortilla si cuoce solo in padella.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/tortilla/IMG_4633_xzjp8j.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/tortilla/IMG_4633_xzjp8j.jpg" >}}
 
 ###### Ed ecco qui la ricetta!
 
@@ -48,7 +48,7 @@ Eccoti la ricetta in 10 semplici passaggi:
 8. Versa il composto della tortilla in una padella e **fai cuocere a fuoco medio-basso per circa 6-8 minuti** (aiutati con una paletta a non far attaccare i bordi), rigirando a metà cottura aiutandoti con un piatto più grande della padella. Se cola un po’ di impasto non leccarlo a crudo via! Attendi altri 6-8 minuti che si cuocia l’altro lato almeno!
 9. Capovolgi di nuovo la tortilla e **lasciala raffreddare per almeno 10 minuti** prima di assaggiare (non solo non ti brucerai la lingua, il gusto sarà davvero più buono. Soprattutto il giorno dopo!).
 10. Le tortillas spagnole **possono durare fino a 3 giorni** se conservate correttamente in frigorifero (noi più di un giorno non so perché ma non riusciamo a farle durare..!)   
-    {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094777/Articoli/tortilla/IMG_4632_j4set5.jpg" >}}
+    {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094777/Articoli/tortilla/IMG_4632_j4set5.jpg" >}}
 
 
 Vuoi abbinarle a qualcosa? Sbizzarrisciti come noi con tutte le verdure che hai a disposizione, cotte e crude che siano! Se poi vuoi metterne una fetta in mezzo a un panino nessuno può dirti nulla! 

@@ -1,7 +1,7 @@
 ---
 title: 'Quando tornate?'
 description: "Quando tornate è stata la domanda più gettonata da quando siamo partiti per vivere la nostra vita a bordo di un van. Domanda facile o difficile? Scoprilo in questo articolo."
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689180920/Articoli/quando%20tornate/IMG_2899_ha372q.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689180920/Articoli/quando%20tornate/IMG_2899_ha372q.jpg
 date: 2023-07-17T08:00:00.000
 categories: ["Blog"]
 type: regular
@@ -35,7 +35,7 @@ Per questo forse il primo mattino in cui ci siamo svegliati, lontani fisicamente
 È stato come spalancare una finestra di prima mattina su una distesa di stimoli. 
 I nostri cervelli hanno iniziato a mettere in moto idee a più non posso. Era un continuo ping pong di questo, quello, quell’altro.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_auto,q_auto:good/v1689180926/Articoli/quando%20tornate/IMG_8600_utjbt5.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_auto,q_auto:eco/v1689180926/Articoli/quando%20tornate/IMG_8600_utjbt5.jpg" >}}
 
 
 ##### Tutto bello, ma quando tornate? 
@@ -79,4 +79,4 @@ Se ti va di rivivere le nostre avventure mangiando pop corn sul divano, {{< extL
 
 Grazie se in minima parte potrai comprenderci, grazie se avrai voglia di confrontarti con noi nei commenti.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_auto,q_auto:good/v1689180913/Articoli/quando%20tornate/3BD59BD7-F47D-4742-8169-C88772019A02_baqvuk.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_auto,q_auto:eco/v1689180913/Articoli/quando%20tornate/3BD59BD7-F47D-4742-8169-C88772019A02_baqvuk.jpg" >}}

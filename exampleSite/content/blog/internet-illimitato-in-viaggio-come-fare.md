@@ -1,7 +1,7 @@
 ---
 title: "Come navigare in Internet all'estero: trucchi e consigli"
 description: Scopri come avere internet all'estero e trucchi e consigli per risparmiare
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689177365/Articoli/Marocco/marocco-internet_ekw4wn.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689177365/Articoli/Marocco/marocco-internet_ekw4wn.png
 date: 2023-11-25T10:00:00+01:00
 categories: [ "Blog"]
 type: regular

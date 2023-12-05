@@ -1,7 +1,7 @@
 ---
 title: "Venezia in 1 giorno con cane e gatto"
 description: "Erano anni che volevamo visitare VENEZIA e poterlo fare con Olimpia e Sakè è stato veramente emozionante. Un tour decisamente diverso dai soliti, in una città davvero PETFRIENDLY"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1655741328/Articoli/venezia_1_2_qhbppl.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1655741328/Articoli/venezia_1_2_qhbppl.jpg
 date: 2022-06-20T10:09:00+01:00
 categories: ["Italia", "Guida", "Animali"]
 country: Italia
@@ -18,7 +18,7 @@ Per visitare in tranquillità Venezia con il proprio cane e gatto è obbligatori
 Ormai è molto semplice fare una ricerca sui siti di pernottamento utilizzando il filtro "animali ammessi" per capire se essi sono ben accetti presso la struttura in cui vorresti soggiornare. Questo può valere sia per alberghi che per appartamenti in centro città, sia nei sobborghi se il tuo budget richiede una spesa meno costosa. 
 Per quanto riguarda noi, abbiamo soggiornato con il camper in una zona vicino a Mestre, precisamente Campalto, da cui abbiamo raggiunto Venezia comodamente in pullman (circa 15 minuti, passaggio ogni 20 minuti in giornata, meno tratte la sera)
 
-![Noi a murano](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1655741328/Articoli/venezia_1_3_kgg5vs.jpg "murano")
+![Noi a murano](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1655741328/Articoli/venezia_1_3_kgg5vs.jpg "murano")
 
 ##### Mezzi di trasporto petfriendly a Venezia
 Dal punto di vista dei trasporti, Venezia è sicuramente una città petfriendly. I cani di tutte le taglie sono ammessi gratuitamente, nel numero massimo di un animale per ogni viaggiatore, sia sui mezzi pubblici ACTV (vaporetto, traghetto), sia sui bus e tram che collegano Venezia a Mestre (eccezion fatta per i treni). Ovviamente dovrai avere con te guinzaglio e museruola, che noi abbiamo fatto indossare ad Olimpia in quanto cane di grossa taglia.
@@ -29,7 +29,7 @@ Sicuramente è necessario scegliere la stagione giusta per far sì che la visita
 In circa 3 orette abbiamo passeggiato per i vicoli, attraversato ponti e visto da fuori i principali siti turistici: tieni a mente che cani e gatti non possono entrare in chiese e musei, quindi dovrai capire come gestire la tua visita di Venezia e delle sue attrazioni al chiuso.
 Poi con le luci della notte che si mescolavano con gli ultimi raggi del sole ci siamo "volutamente persi", passeggiando senza una meta precisa. Ci siamo fermati a chiacchierare con chi sorrideva incuriosito vedendoci con un gatto al guinzaglio, a parlare inglese con turisti da ogni dove, a osservare le gondole condotte da un marinaio che a volte fischietta, a volte canticchia, a volte si lascia anche lui cullare da quella magica città.
 
-![Un ritratto bellissimo](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1655741327/Articoli/venezia_1_1_bkvemq.jpg "Un ritratto di sakè")
+![Un ritratto bellissimo](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1655741327/Articoli/venezia_1_1_bkvemq.jpg "Un ritratto di sakè")
 
 ##### Gita alle isole? Tutto è possibile
 Per raggiungere le isole noi abbiamo acquistato alla biglietteria Santa Lucia il ticket giornaliero da 21€. In alternativa si trovano ticket da 75 min o da 48 ore. Anche in questo caso Olimpia e Sakè hanno viaggiato con noi gratuitamente, al guinzaglio e con museruola appresso.

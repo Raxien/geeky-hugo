@@ -1,7 +1,7 @@
 ---
 title: 'Danimarca in camper: il nostro itinerario'
 description: "Alla scoperta della Danimarca in camper, un viaggio on the road tra fari, casette colorate e mattoncini Lego"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1688671509/Articoli/Danimarca/danimarca-faro_glgvqv.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1688671509/Articoli/Danimarca/danimarca-faro_glgvqv.jpg
 date: 2023-07-02T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Danimarca
@@ -51,7 +51,7 @@ La vista dall’alto della città è veramente sorprendente, soprattutto pensand
 
 **{{< underline "Giorno 4" >}}**: dopo una bella passeggiata mattutina siamo ripartiti direzione **Brema** e abbiamo parcheggiato gratuitamente nei pressi dello stabilimento della Becks da dove, attraversando un ponte, abbiamo raggiunto direttamente il centro del paese. Ci siamo diretti in Bottcherstraße richiamati dal profumo di caffè tostato (qui infatti venne creato il caffè decaffeinato dell'azienda Hag), poi nella piazza centrale per vedere la statua dei musicanti di Brema, abbiamo comprato del cioccolato nel famoso negozio “Hachez” e ci siamo spostati prima verso il quartiere Schnoor, dove un tempo vivevano i marinai della città, e poi a Das Viertel, il quartiere degli artisti disseminato di murales e casette colorate. Abbiamo lasciato la città per andare a dormire al lago di Bistensee, poco prima dell’ultima tappa tedesca.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1688671503/Articoli/Danimarca/danimarca-casette_cv5ng5.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1688671503/Articoli/Danimarca/danimarca-casette_cv5ng5.jpg" >}}
 
 ###### Itinerario della Danimarca
 
@@ -60,11 +60,11 @@ La vista dall’alto della città è veramente sorprendente, soprattutto pensand
 **{{< underline "Giorno 6" >}}**: abbiamo approfittato dell’apertura mattutina per visitare la chiesa di Mogeltonder che possiede l’organo più antico della Danimarca e interni curati con affreschi su tutta la volta. Siamo ripartiti in direzione isola di Rømo, che si può raggiungere tramite una lingua di terra che ospita anche una pista ciclabile: nota lodevole al servizio di pista ciclabile esteso per tutto il Paese. Dopo una
 piccola sosta da **{{< extLink "Otto & Ani’s Fisk" "https://goo.gl/maps/X9MnUE6ftePTfxAN8" >}}** per gustare un panino farcito con gamberetti direttamente sul porto, abbiamo proseguito verso la vicina spiaggia di Sønderstrand per poi andare a pranzare a **Lakolk**. Qui si può parcheggiare direttamente sulla spiaggia: fai solo attenzione a seguire le orme di altri camper e a non rimanere bloccato nella sabbia!
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1688671503/Articoli/Danimarca/danimarca-come-rimanare-piantati_reygzg.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1688671503/Articoli/Danimarca/danimarca-come-rimanare-piantati_reygzg.jpg" >}}
 
 Ci siamo riposati un paio d’ore godendoci la giornata di sole e ci siamo diretti verso **Ribe**, la più antica città della Danimarca. Il centro è un dedalo di stradine con casette storte e colorate, un'atmosfera davvero rilassante: ormai abbiamo capito che qui è tutto curato nei minimi dettagli e verrebbe voglia di entrare in casa con loro a leggere un bel libro su quelle invitanti poltroncine. Molto grazioso il piccolo porticciolo dove è **{{< extLink "attraccata la Johanne Dan" "https://goo.gl/maps/EGcg7223a5MAhX7h9" >}}**, un antica barca a vela progettata con lo scafo piatto per poter navigare fra le acque basse di Ribe. Questa città venne devastata in passato dalle inondazioni ed ancora oggi i suoi abitanti sono obbligati ad evacuare in certe situazioni. Ci sarebbe stato da visitare il museo vichingo o partecipare alla ronda serale ma abbiamo decido di guadagnare chilometri e abbiamo sostato sulla costa, con vista su uno spettacolare tramonto.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1688671503/Articoli/Danimarca/danimarca-camper-deserto_g6sofn.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1688671503/Articoli/Danimarca/danimarca-camper-deserto_g6sofn.jpg" >}}
 
 **{{< underline "Giorno 7" >}}**: ci siamo svegliati con una fresca pioggerella e siamo ripartiti verso **{{< extLink "le statue “men by the sea”" "https://goo.gl/maps/A5YE5SgQWck5wA147" >}}**, quattro omoni bianchi affacciati sul mare, che si trovano a **Esbjerg**. La strada da qui in poi è diventata un susseguirsi di casette basse, collinette e prati fino a **Hvide Sande e al faro di Lyngvig**. Dune, sabbia, mare, vento, cielo azzurro. 
 
@@ -75,7 +75,7 @@ timore di lasciare le tue scarpe lungo il ciglio della strada perché le ritrove
 
 Raggiunta la vicina **Skagen** ci siamo poi diretti a **Grenen**, il punto più a nord della Danimarca, dove si uniscono i due mari. Una bella passeggiata di mezz’ora per andare a vedere qualche impavido nuotatore che si buttava nella corrente e poi abbiamo di andare a cercare uno spot per la notte da cui ammirare anche un bellissimo tramonto.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1688671503/Articoli/Danimarca/danimarca-chiesa-deserto_vggpe2.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1688671503/Articoli/Danimarca/danimarca-chiesa-deserto_vggpe2.jpg" >}}
 
 **{{< underline "Giorno 9" >}}**: abbiamo salutato il mare affacciandoci dalla duna e siamo ripartiti in direzione **Frederikshawn**: il paese non ci ha emozionati ma abbiamo fatto volentieri una passeggiata nel giardino botanico a 4km dal centro, dove con nostra gioia siamo riusciti ad avere un incontro ravvicinato con alcuni cervi che vivono tranquillamente nel parco. Abbiamo poi raggiunto la vicina **Saeby** e passeggiato nella piccola stradina centrale, tra casette basse e colorate e giardini ben curati. Tappa successiva il **"cimitero vichingo di Aalborg"**, con circa 700 tombe disposte su di una collinetta. Molto suggestivo. Purtroppo ha iniziato a piovere fino a grandinare per cui siamo stati costretti a vedere la città di corsa, con il suo lungo fiume riqualificato con edifici moderni e le viuzze interne in ciottoli e mattoni colorati. Abbiamo caricato e scaricato in autostrada e ci siamo fermati a **Hobro**, sul molo del fiordo di Mariager, giusto in tempo per una foto al tramonto prima che riprendesse a piovere.
 
@@ -124,7 +124,7 @@ myWidget.render();
 
 **{{< underline "Giorno 11" >}}**: abbiamo visitato di prima mattina **l’Infinite bridge**, un ponte circolare sul mare che dà idea appunto di poter camminare all’infinito sul mare e ci siamo diretti al museo d’arte contemporanea Aros: i suoi 10 piani sono ispirati alla divina commedia, per cui partendo dal 10° piano, formato da uno specchio colorato ad arcobaleno che si affaccia a 360 gradi sulla città, che rappresenta il paradiso, siamo scesi visitando tutte le mostre presenti fino al piano 0. Lasciata la città sotto la pioggia ci siamo diretto verso **Ry e Silkeborg**, a nostro avviso due posti da tralasciare a meno che non ti interessi una visita all’acquario “Aqua”. Bellina la piccola foresta attraversata per arrivarci, un gioco di luci fra alberi e muschio. Siamo arrivati verso le 17 a **{{< extLink "Legoland" "https://www.legoland.dk/en/" >}}** per chiedere **informazioni sull’ingresso gratuito a mezz’ora dalla chiusura, ma abbiamo scoperto che l’hanno eliminato** da qualche anno. Abbiamo cercato parcheggio vicino ad un’enorme area cani dove far divertire Olimpia e passare la notte.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1688671503/Articoli/Danimarca/danimarca-loop_l4rnni.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1688671503/Articoli/Danimarca/danimarca-loop_l4rnni.jpg" >}}
 
 **{{< underline "Giorno 12" >}}**: ci siamo svegliati con le candeline per festeggiare il primo compleanno di Sakè, il nostro gatto, poi ci siamo diretti a **Legoland**: tieni presente che alle 10 del mattino si trovano già tantissime persone davanti all'ingresso, per questo ti consigliamo l’acquisto online, anche del biglietto del parcheggio che viene stornato all’uscita. 
 
@@ -132,13 +132,13 @@ myWidget.render();
 
 **{{< underline "Giorno 13" >}}**: **Odense** è la cittadina madrepatria dello scrittore Andersen e la maggior parte dei musei sono a lui dedicati. Il centro è un cantiere a cielo aperto, per cui abbiamo dedicato una visita alla parte vecchia, sbirciando nel carinissimo **negozio di antiquariato di Kramboden**, tra le casette colorate del quartiere della casa natale del celebre scrittore, e facendo due passi nel parco. Da Odense ci siamo diretti a **Faaborg**, pranzando vista porto, passeggiando nella piccola via pedonale e acquistando **friskadelles (crocchette) di tonno e salmone da Rogeri** prima di partire: buonissime! Il nostro aperitivo in attesa del {{< extLink "traghetto che da Svedenborg" "https://www.aeroe-ferry.dk/en/" >}} ci ha portati sull’isola di **Aerøskøbing**. Avremmo potuto prenderlo direttamente da Faaborg, ma purtroppo i biglietti erano esauriti. Approdati sull’isola ci siamo diretti al parcheggio giusto in tempo per ammirare il tramonto affacciati sulle casette colorate.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1688671503/Articoli/Danimarca/danimarca-murales_knpiv1.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1688671503/Articoli/Danimarca/danimarca-murales_knpiv1.jpg" >}}
 
 **{{< underline "Giorno 14" >}}**: abbiamo dedicato la mattinata alla visita della piccola cittadina, un vero gioiellino con le sue porte e casette colorate, acquistato pesce affumicato, approfittato del sole per riscaldarci dopo la pioggia degli ultimi giorni e messo a mollo i piedi, osservando ed ammirando i temerari che invece si tuffavano senza remore.
 
 **{{< underline "Giorno 15" >}}**: abbiamo deciso di dedicare un po’ di tempo alla scoperta dell’isoletta, quindi abbiamo visitato al mattino **Mastral**, dove si trovano ancora alcune casette colorate affacciate sul mare, poi ci siamo spostati per pranzare vista oceano in un posto dove non abbiamo incontrato anima viva. Tirava parecchio vento, per cui verso le 16 ci siamo spostati al faro di Soby per poi tornare al nostro posto sul mare ad Aeroskobing. Tre tramonti in quel luogo ci hanno riempito occhi e cuore di meraviglie. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1688671503/Articoli/Danimarca/danimarca-castello_mgq60e.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1688671503/Articoli/Danimarca/danimarca-castello_mgq60e.jpg" >}}
 
 **{{< underline "Giorno 16" >}}**: al mattino tutto apriva un po’ tardi per cui abbiamo bevuto un caffè sul camper dopo aver ripercorso le stradine colorate, in attesa del traghetto che ci avrebbe riportati a Svenborg. Qui, complice il freddo, abbiamo deciso di partire alla volta del **{{< extLink "castello di Egeskov slot" "https://egeskov.dk/en/" >}}**. Per strada è iniziato un temporale abbastanza violento, quindi abbiamo temporeggiato nel parcheggio e acquistato i biglietti online (costano poco meno). Il castello è curato e ricco di dettagli e anche gli esterni sono davvero degni di nota: vari labirinti, un giardino di dalie, alberi secolari, il roseto, giochi per bambini, ponte tibetano e vari musei di automobili e mezzi di trasporto d’epoca, con una selezione anche per il camping. Merita almeno spenderci un paio d’ore. Nel primo pomeriggio siamo partiti in direzione **Copenhagen**. 
 
@@ -146,19 +146,19 @@ Abbiamo incontrato alcuni lavori per strada, attraversato il famoso ponte sospes
 
 **{{< underline "Giorno 17" >}}**: ferragosto in città è significato poca gente, negozi e gallerie mezzi chiusi e traffico auto notevole. Abbiamo comunque camminato per 22 km circa tra Stroget, la via centrale dello shopping per poi vedere il {{< extLink "palazzo di Rosenborg" "https://www.kongernessamling.dk/en/rosenborg/" >}} e quello di {{< extLink "Christiansborg" "https://kongeligeslotte.dk/en/palaces-and-gardens/christiansborg-palace.html" >}}, il canale Nyhavn, la statua della Sirenetta e il Kastellet, Frederiks Kirke, fino poi ad arrivare allo skate park di Vesterbro. Purtroppo dobbiamo ammettere che **Copenhagen** ci è piaciuta molto meno rispetto a tutto il resto del paese. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1688671503/Articoli/Danimarca/danimarca-copenhangen_ccxjs4.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1688671503/Articoli/Danimarca/danimarca-copenhangen_ccxjs4.jpg" >}}
 
 **{{< underline "Giorno 18" >}}**: abbiamo dedicato la mattinata a Christiania e alla zona delle biblioteche, per poi spostarci per pranzo a Reffen, lo street food sul canale. Pioveva a dirotto, abbiamo raggiunto Dragor, piccolo paesino di pescatori con casette gialle e tetti in paglia ma siamo riusciti giusto a vedere la via principale. Il meteo non era dalla nostra parte e abbiamo proseguito a nord verso **Helsingor** per fermarci sulla costa.
 
 **{{< underline "Giorno 19" >}}**: ha diluviato tutta la notte e ci siamo svegliati con 13 gradi sotto la pioggia. Abbiamo visitato il **{{< extLink "castello di Amleto" "https://www.kronborg.dk/" >}}**, luogo pieno di fascino. Interessante la mostra sui costumi dell’epoca. Il paesino è carino ma la pioggia ci stava demoralizzando così siamo ripartiti in direzione **isola di Mon**. Il maltempo ci ha accompagnati lungo tutta la strada, fino a regalarci un bellissimo arcobaleno nel parcheggio a **Stege**. Tirava un vento fortissimo per cui abbiamo deciso di non fermarci al porto ma di rintanarci in un altro parcheggio dove passare la notte tranquilli.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1688671503/Articoli/Danimarca/danimarca-case_qybelr.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1688671503/Articoli/Danimarca/danimarca-case_qybelr.jpg" >}}
 
 **{{< underline "Giorno 20" >}}**: **Stege** ha una viuzza carina piena di negozietti interessanti e un'ottima panetteria-pasticceria dove rifocillarci. Quel giorno stavano chiudendo tutte le strade del centro per un evento per cui abbiamo dovuto spostarci sul porto e siamo rimasti rintanati in camper per il troppo vento e raffiche di pioggia. Verso le 17 abbiamo deciso di spostarci sull’isolotto più a nord e di andare a dormire sulla costa a nord est.
 
 **{{< underline "Giorno 21" >}}**: abbiamo passeggiato fra le casette indisturbate e siamo rimasti sulla spiaggia fino al pomeriggio. Ci siamo diretti alla galleria Borre 326 (ora chiusa definitivamente ma le suo opere possono esser acqusitate presso {{< extLink "la galleria Liza di Stege" "https://www.lizasgallery.com" >}}) per acquistare un quadro visto a Stege che ci aveva molto colpiti. Complice il vento molto forte abbiamo deciso di fermarci in un parcheggio non distante.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1688671503/Articoli/Danimarca/danimarca-spot_fvl1vr.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1688671503/Articoli/Danimarca/danimarca-spot_fvl1vr.jpg" >}}
 
 **{{< underline "Giorno 22-23" >}}**: nella mattinata abbiamo visitato le **scogliere di Møn**. Armati di pazienza in quanto i 500 scalini per scendere alla spiaggia verranno ripagati da una bella vista. Da lì ci siamo spostati verso uno spot non molto distante in riva al mare dove ci siamo fermati a riposare per qualche giorno. Solo il rumore delle onde del mare, una vista meravigliosa, il vento, le passeggiate in campagna.
 
@@ -275,7 +275,7 @@ In tutta la Danimarca abbiamo trovato le strade in condizioni perfette e l’aut
 ##### Servizi e soste
 Noi non abbiamo avuto alcun problema per la sosta in libera, rispettando sempre le regole di ogni luogo. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1688671503/Articoli/Danimarca/danimarca-deserto_emz2j6.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1688671503/Articoli/Danimarca/danimarca-deserto_emz2j6.jpg" >}}
 
 ##### Viaggiare con il proprio animale
 {{< animali "EU">}}

@@ -7,11 +7,9 @@
           <script>
             var keyword = (window.location.search).substr(3);
             var result = keyword.replace("+", " ");
-
             // fix per ricerca con spazi da pin
             result = result.replace("%20", " ");
             document.write(result);
-
           </script>
         </span></h2>
     </div>
@@ -24,7 +22,7 @@
                 <div class="card">
                   <div class="mb-4 position-relative">
                     <img loading="lazy" decoding="async" class="img-fluid w-100 rounded-4" src="${image}" alt="${title}">
-                    ${ isset categories }<span class="badge badge-primary card-badge">${categories}</span>${ end }
+                    ${ isset categories }<span class="badge badge-primary card-badge">${categories }</span>${ end }
                   </div>
                   <div class="card-body">
                     <h3 class="h6">

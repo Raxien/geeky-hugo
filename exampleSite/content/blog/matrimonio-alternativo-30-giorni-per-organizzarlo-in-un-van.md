@@ -1,7 +1,7 @@
 ---
 title: 'Matrimonio alternativo: 30 giorni per organizzarlo in un van'
 description: "E' possibile organizzare un matrimonio in 30 giorni on the road? Vieni a scoprire se e come ci siamo divertiti!"
-image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689874010/Articoli/Blog/sposi_abbraccio_a_ssatir.jpg"
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689874010/Articoli/Blog/sposi_abbraccio_a_ssatir.jpg"
 date: 2023-10-03T8:00:00+01:00
 categories: ["Blog"] 
 type: featured
@@ -23,7 +23,7 @@ Mancavamo in famiglia da troppo tempo per permetterci di essere poco autentici, 
 
 Ma facciamo un salto indietro di qualche mese per riuscire a capire come una serie di mirabolanti incastri abbia reso quelle 24 ore uniche e irripetibili.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/Blog/gioco_sposi_qhzalj.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/gioco_sposi_qhzalj.jpg" >}}
 
 ##### Cosa ci è venuto in mente? 
 
@@ -37,7 +37,7 @@ Paolo ed io siamo così, lanciamo idee e progetti per aria e poi lasciamo che le
 Era il **18 maggio 2023** quando, affacciati sulla costa mediterranea del Marocco, osservando le nostre radici da lontano sotto a un diluvio magnanimo, abbiamo deciso di contattare il Comune di Torino per sposarci un paio di mesi dopo, periodo in cui saremmo passati sicuramente da casa.
 La risposta da parte degli uffici è stata celere quanto negativa: il tempo a disposizione non sarebbe stato sufficiente. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/Blog/mi-vuoi-sposare_smcsfk.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/mi-vuoi-sposare_smcsfk.jpg" >}}
 _Se vuoi vedere il video completo lo trovi in fondo all'articolo_
 
 ##### Non s'ha da fare
@@ -50,7 +50,7 @@ Dopo un quarto d’ora di disappunto e silenzio e di millemila cose imparate sul
 
 A quel punto l’unica mail che è arrivata in risposta citava le seguenti parole: “inutile chiamare o scrivere per solleciti, quando la vostra richiesta sarà presa in carico verrete contattati”.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/Blog/pubblicazioni-di-matrimonio_wivmah.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/pubblicazioni-di-matrimonio_wivmah.jpg" >}}
 
 ##### Succedeva di nuovo
 
@@ -62,7 +62,7 @@ Abbiamo preso un traghetto, siamo tornati nel nostro continente, abbiamo attrave
 
 Sposarsi non avrebbe cambiato nulla fra di noi, ma ci avrebbe aiutati a sentirci **più tutelati** in caso di necessità *vivendo sempre **“soli”** in mezzo al mondo.*
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/Blog/matrimonio-vandipety-bosco_owuhph.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/matrimonio-vandipety-bosco_owuhph.jpg" >}}
 
 ##### Sogno o.. mi sposo!
 
@@ -73,7 +73,7 @@ Bene, eravamo oltralpe, avevamo davanti al naso un [pain au chocolat](/blog/pain
 
 Il giorno dopo mentre passeggiavo con Sakè ho raccolto qualche fiore di campo e ho creato un piccolo bouquet, poi con la coda di Olimpia che ci scodinzolava a fianco Paolo ed io ci siamo abbracciati di fronte al van circondato dalle Alpi. Eravamo a casa, lo siamo ovunque. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/Blog/prova-matrimonio-sposa_d3zkyk" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/prova-matrimonio-sposa_d3zkyk" >}}
 
 Siamo tornati in Italia a inizio agosto, vivendoci ogni minuto che quel tempo beffardo ci metteva a disposizione. 
 
@@ -86,7 +86,7 @@ In quei giorni abbiamo avuto modo di riabbracciare familiari ed amici, conoscere
 
 Dei tavoli in legno addobbati con fiori di campo e dei piatti cucinati con amore dallo splendido [staff di Pian Munè](/blog/pian-mune-il-rifugio-perfetto-per-il-nostro-matrimonio-on-the-road), della [Torta Leonardo](/blog/un-dolce-speciale-la-torta-leonardo) con cioccolato e lamponi e delle bomboniere ve ne parlerò in articoli dedicati qui sul nostro sito, perché ogni dettaglio che ha reso il nostro giorno unico per davvero merita un racconto speciale. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/Blog/ballo_sposa_wp60in.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/ballo_sposa_wp60in.jpg" >}}
 
 ##### Vivete una vita in cui potete riconoscervi
 
@@ -110,7 +110,7 @@ Ci fa sorridere il pensiero di poterci riconoscere in gesti scontati: passarsi u
 
 ***Ci piace immaginare di poterci riconoscere in una risata che esce dal cuore, nell’accenno di un sorriso, in uno sguardo di complicità.”***
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/Blog/matrimonio-vandipety-van_hcztmw.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/matrimonio-vandipety-van_hcztmw.jpg" >}}
 
 Paolo ed io ci siamo davvero riconosciuti in quel giorno, **così semplice ma così speciale.**
 

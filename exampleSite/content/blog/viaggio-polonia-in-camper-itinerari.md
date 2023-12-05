@@ -1,7 +1,7 @@
 ---
 title: 'Polonia in camper: itinerario, consigli e informazioni utili'
 description: "Alla scoperta della Polonia in camper. Un viaggio on the road fantastico!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682607681/Articoli/Polonia/monti_tatra_van_pcgmet.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682607681/Articoli/Polonia/monti_tatra_van_pcgmet.jpg
 date: 2023-03-07T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Polonia
@@ -31,7 +31,7 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 **{{< underline "Giorno 4" >}}**: siamo dovuti andare via visto il {{< extLink "forte maltempo" "https://youtu.be/uhFYfbis9a4">}} improvviso. Lungo la strada è possibile comprare formaggio locale (Oscypek) ma data la forte pioggia ci è stato impossibile fermarci sia trovare delle botteghe aperte. Abbiamo sostato in un parcheggio di fortuna di fronte a una chiesa.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682607762/Articoli/Polonia/zakopane_chiesa_gk4mmn.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682607762/Articoli/Polonia/zakopane_chiesa_gk4mmn.jpg" >}}
 
 **{{< underline "Giorno 5" >}}**: abbiamo visitato chiesa e paesino per poi dirigerci verso Kasina Wielka per un pranzo con vista. Ripreso il diluvio ci siamo messi in moto direzione Cracovia, dove avremmo incontrato l'indomani i genitori di Paolo arrivati in aereo. Lungo la strada ne abbiamo approfittato per caricare l'acqua in un campeggio poco distante dalla città e per fare provviste in un grande e conveniente Carrefour. 
 Per la notte abbiamo sostato in libera sotto le mura del castello di Cracovia. 
@@ -39,7 +39,7 @@ Per la notte abbiamo sostato in libera sotto le mura del castello di Cracovia.
 **{{< underline "Giorno 6" >}}**: svegliarsi ai piedi del castello di Cracovia non ha prezzo, se non quello del biglietto giornaliero del parcheggio se proprio vogliamo essere venali. Abbracciata parte della famiglia, abbiamo iniziato la visita della città, passeggiando fra strade ordinate e pulite fino a raggiungere la bellissima piazza centrale sulla quale si affaccia la Cattedrale con i suoi interni spettacolari. Non perdetevela, la visita è gratuita.
 Ammirato la zona attorno al castello, la cupola d’oro e la statua del drago sputa fuoco ci siamo diretti verso il quartiere ebraico. Qui l’atmosfera è diversa dal resto della città. Quasi più autentica, realistica. Un po’ decadente, molto ricca di particolari, con stili che si mescolano in un equilibrio perfetto. Abbiamo provato lo streetfood in un piccolo mercato rionale, con una specie di bruschetta farcita con ingredienti misti ({{< extLink "qui" "https://youtu.be/d5blVGXVJ08">}} puoi vedere le nostre impressioni in merito) e poi abbiamo cenato in un piccolo ristorante a base di **{{< underline "pierogi" >}}**, ravioli ripieni con carne, con patate e funghi o con spinaci. Il tutto accompagnato da cipolle caramellate. Un sapore unico!
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682607814/Articoli/Polonia/zalipie_casa_rose_jgcpvq.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682607814/Articoli/Polonia/zalipie_casa_rose_jgcpvq.jpg" >}}
 
 **{{< underline "Giorno 7" >}}**: ci siamo diretti verso il piccolo paesino di Zalipie, noto per le case dipinte con motivi floreali, attraversando le campagne polacche, che sono a dir poco armoniose: campi coltivati in modo impeccabile, casette abbellite da giardini ricchi di fiori, strade curate e ben percorribili. Una piacevole scoperta. Arrivati alla prima costruzione dipinta abbiamo percorso un anello a piedi di circa un'ora poi ci siamo rimessi in strada, diretti verso le Miniere di Sale, dove gli animali ovviamente non sono potuti entrare. 
 La visita guidata che abbiamo prenotato in loco è stata a parer nostro interessante, con una guida decisamente folkloristica. La temperatura all'interno è costantemente umida e ci sono numerosi scalini da scendere, ma la Cattedrale scolpita nel sale{{< extLink "" "https://youtu.be/" >}} è veramente degna di nota: se si pensa alle ore di lavoro per creare una tale opera d’arte, alla cura dei dettagli, alla pazienza di un lavoro minuzioso sottoterra senza vedere la luce del sole per ore, non si può che meravigliarsi. 
@@ -53,11 +53,11 @@ Tornati a Cracovia, ci ha accolti un tramonto meraviglioso sul ponte che collega
 Avremmo potuto partecipare a un tour organizzato, ma abbiamo preferito il silenzio e il prenderci il nostro tempo per digerire le informazioni ben note ma a volte infilate in fondo ai cassetti delle cose che fanno stare un po’ più male.
 Siamo rimasti un paio di ore in quel luogo dove tante persone arrivavano e dal quale non hanno più fatto ritorno. In pausa pranzo ci siamo spostati nel paese di Oswiecim, a pochi km di distanza. Fa strano pensare che vicino a un inferno simile ci fosse una realtà colma di persone che conducevano un’esistenza normale, quando al di là del filo spinato e delle mura di quei fabbricati l’umanità non esisteva più. Nel tardo pomeriggio abbiamo varcato la seconda soglia, sotto la scritta "Arbeit Mach Frei”. Sulla strada di ritorno siamo rimasti in silenzio. Abbiamo accompagnato i genitori di Paolo al loro albergo e abbiamo cercato un luogo per la notte sulla riva di un piccolo laghetto, in direzione Opole.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682608031/Articoli/Polonia/auschwitz_v2yfse.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682608031/Articoli/Polonia/auschwitz_v2yfse.jpg" >}}
 
 **{{< underline "Giorno 9" >}}**: abbiamo visitato Opole, capitale polacca della musica, in mattinata. Nel pomeriggio ci siamo spostati a Wrocklaw o Breslavia. Abbiamo effettuato i servizi per il camper allo stadio, poi ci siamo spostati in città dove abbiamo scoperto che ci sono più di 200 statue raffiguranti gnomi nelle più disparate attività e posizioni (curioso? {{< extLink "clicca qui" "https://youtu.be/KBj07NGvIXQ" >}}). Ovviamente hanno tutto un loro significato storico, legato all’opposizione al regime autoritario comunista, e oggi sono una vera e propria attrattiva, con tanto di mappe del tesoro per andare alla ricerca e trovarle tutte. Noi abbiamo preferito trovarle per caso, davanti a un portone, vicino a un tombino, su di un davanzale. I palazzi del centro storico sono ben tenuti, con le facciate colorate in modo armonico, e ogni quartiere sembra voler lasciare ricordo di sè. Abbiamo cenato per l'ultima volta in compagnia dei genitori di Paolo in un piccolo locale molto caratteristico.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682606233/Articoli/Polonia/bratislava_gnomo_che_fuma_fs43fr.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682606233/Articoli/Polonia/bratislava_gnomo_che_fuma_fs43fr.jpg" >}}
 
 **{{< underline "Giorno 10" >}}**: lasciata Wrocklaw ci siamo diretti verso le campagne polacche, seguendo strade davvero pittoresche. Abbiamo dovuto fermarci per la notte nel parcheggio di un'antica dimora per problemi al camper (scopri {{< extLink "qui" "https://youtu.be/KYf81TiFfLE" >}} il perché).
 
@@ -68,7 +68,7 @@ Qui abbiamo incontrato una ragazza che ci ha fatto un po' da guida, invitandoci 
 
 Al momento della nostra visita il centro storico di Poznan era in ristrutturazione, dalle immagini ci aspettiamo che venga rivalorizzato al meglio e che nel 2024 possa essere un gioiellino da visitare. Poco distante dal centro si trova anche una zona verde costellata di murales realizzati da vari artisti. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682607533/Articoli/Polonia/poznan_street_art_hytndk.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682607533/Articoli/Polonia/poznan_street_art_hytndk.jpg" >}}
 
 **{{< underline "Giorno 17" >}}**: doppo aver dato il buongiorno a un paio di pescatori giunti sul molo e aver raggiunto Torun, città natale di Niccolò Copernico, abbiamo passeggiato lungo le vie ben curate della città raggiungendo la sponda del fiume. Sosta in libera di giorno (gratuita essendo domenica) vicino alla stazione. Notte in un bosco (attenzione ai cinghiali!).
 
@@ -80,7 +80,7 @@ Al momento della nostra visita il centro storico di Poznan era in ristrutturazio
 
 **{{< underline "Giorno 21-22" >}}**: escursione di un paio di giorni al parco nazionale Slowinksi, dormendo in libera a metà strada. Gli animali non sono ammessi, quindi armati di pazienza per cercare un parcheggio all'ombra se pensi di lasciarli in un mezzo per tutta la giornata. Il biglietto di accesso a tutto il parco è giornaliero, puoi percorrere molti tratti in bicicletta, affittare i mezzi in loco, usare i pulmini o camminare. Ci sono numerosi parcheggi. A noi sono piaciute in modo particolare la duna Lebka alta 40 metri  affacciata sul Baltico ({{< extLink "uno spettacolo!" "https://youtu.be/kYUqetI7HHQ" >}}) e la passeggiata verso i carboni fossili. Notte in libera a Poddabie.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682607530/Articoli/Polonia/Deserto_di_B%C5%82%C4%99d%C3%B3w_oceano_iwmxds.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682607530/Articoli/Polonia/Deserto_di_B%C5%82%C4%99d%C3%B3w_oceano_iwmxds.jpg" >}}
 
 **{{< underline "Giorno 23" >}}**: lasciata Poddabie, piccola località di villeggiatura affacciata sulla costa nord, che offre una bella passeggiata fra i pini che conducono alla spiaggia, abbiamo raggiunto un altro paesino, Utska, ricco di murales, per poi dirigerci in un luogo perso nelle campagne, Postomino. Solo campi, un piccolo laghetto e un molo. 
 
@@ -129,12 +129,12 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
 
 **{{< underline "Giorno 28-29" >}}**: Stettino
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682607500/Articoli/Polonia/danzica_case_bbp71v.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682607500/Articoli/Polonia/danzica_case_bbp71v.jpg" >}}
 
 ##### Strade 
 La Polonia ha una vasta rete stradale, che comprende autostrade, strade nazionali e locali in stato a dir poco **"perfetto"**. Noi abbiamo percorso sempre le strade nazionali e locali senza problemi, anche nelle zone più di campagna.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682607673/Articoli/Polonia/polona_strade_kruucp.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682607673/Articoli/Polonia/polona_strade_kruucp.jpg" >}}
 
 ##### Servizi e soste
 A differenza di altri paesi europei non è facilissimo trovare aree sosta attrezzate, in particolar modo è difficile trovare il carico dell'acqua. Si trovano invece molte fontanelle pubbliche per caricare borracce e bottiglie. 
@@ -164,7 +164,7 @@ Le mete secondo noi imperdibili, per quanto riguarda la parte ovest del paese, s
 -   **{{< underline "Danzica" >}}**: città con una straordinaria architettura, con numerosi edifici storici ben conservati è nota anche per il movimento sindacale Solidarność
 -   **{{< underline "Parco Slowinski" >}}**: sapevi che esiste un deserto in Polonia? Allora devi assolutamente visitare questo parco! Una volta scalata la duna di 40 metri ti troverai difronte a un paesaggio mozzafiato.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682607673/Articoli/Polonia/monti_tatra_vista_rjhahp.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682607673/Articoli/Polonia/monti_tatra_vista_rjhahp.jpg" >}}
 
 ##### Il nostro Vlog
 Nel video qui sotto puoi rivedere il nostro ingresso in Polonia oppure trovi la serie completa {{< extLink "a questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV" >}}.

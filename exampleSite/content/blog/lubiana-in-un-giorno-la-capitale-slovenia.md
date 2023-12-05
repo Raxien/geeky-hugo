@@ -1,7 +1,7 @@
 ---
 title: 'Lubiana in un giorno: 8 cose da fare per scoprire al meglio la capitale della Slovenia'
 description: Hai mai visitato la capitale slovena? Scoprila insieme a noi!
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689874010/Articoli/Slovenia/lubiana-canale-chiesa-rossa_mr4v7r.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689874010/Articoli/Slovenia/lubiana-canale-chiesa-rossa_mr4v7r.jpg
 date: 2023-10-23T08:00:00.000
 categories: ["Europa", "Itinerario", "Camper"]
 country: Slovenia
@@ -21,7 +21,7 @@ Ecco allora le 8 cose da vedere a Lubiana in un tour a piedi per non perdersi ni
 La nostra visita della capitale non può che iniziare da **Krakovo**, uno dei quartieri più antichi di Lubiana, diviso dal vicino **Trnovo** dal canale Gradaščica e da uno scenografico ponte. 
 Qui oltre a passeggiare piacevolmente fra le persone del posto, potete ammirare alcuni resti romani e afFacciarvi su scorci davvero pittoreschi. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1685394819/Articoli/Slovenia/lubiana-canale-chiesa_zncbse.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1685394819/Articoli/Slovenia/lubiana-canale-chiesa_zncbse.jpg" >}}
 
 ##### 2. Piazza del Congresso
 
@@ -35,7 +35,7 @@ La Piazza della Rivoluzione Francese si trova a pochi passi dalla biblioteca naz
 
 La piazza Trg Republike ospita il Parlamento e due veri e propri grattacieli, che un tempo erano la sede del partito comunista. In questa piazza, nel 1991, fu dichiarata l’indipendenza del paese dalla Jugoslavia.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1685394819/Articoli/Slovenia/lubiana-vista-dall-alto_lgdsb6.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1685394819/Articoli/Slovenia/lubiana-vista-dall-alto_lgdsb6.jpg" >}}
 
 ##### 5. Vecchia Lubiana
   
@@ -79,7 +79,7 @@ myWidget3.render();
 
 Costruito nel 1200 e utilizzato per vari scopri, fra cui quello di prigione, oggi ospita un museo e un bar con una bellissima vista sulla città.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1685394819/Articoli/Slovenia/lubiana-fortezza_pdxaak.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1685394819/Articoli/Slovenia/lubiana-fortezza_pdxaak.jpg" >}}
 
 ##### 7. Metelkova Mesto
 

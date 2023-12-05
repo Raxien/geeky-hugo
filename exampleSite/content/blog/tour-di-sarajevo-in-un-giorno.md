@@ -1,7 +1,7 @@
 ---
 title: 'Tour di Sarajevo in un giorno'
 description: "Itinerario alla scoperta di Sarajevo, la capitale della Bosnia ed Erzegovina, tra i segni della storia"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689874010/Articoli/Bosnia/sarajevo-piazza-centrale_clzpim.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689874010/Articoli/Bosnia/sarajevo-piazza-centrale_clzpim.jpg
 date: 2023-11-30T00:00:00.000
 categories: ["Europa", "Itinerario"]
 country: Bosnia
@@ -24,7 +24,7 @@ Questo museo si trova nei pressi dell'aeroporto di Sarajevo e permette di visita
 Questo tunnel, denominato anche **"tunnel della speranza"**, è stato il motivo grazie al quale la città è riuscita a mantenersi viva: 700 metri di galleria sotterranea (oggi ne sono visitabili 25) per consentire di far arrivare in città cibo, acqua, medicinali, gasolio e tutto ciò che serviva per far sopravvivere la popolazione.
 Consigliamo veramente di visitarlo per capire di più la tensione di quegli anni. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/Bosnia/tunnel-sarajevo_ocfnn1.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Bosnia/tunnel-sarajevo_ocfnn1.jpg" >}}
 
 ###### Pista da bob
 La vecchia pista da bob utilizzata durante le Olimpiadi invernali del 1984 e poi diventata tristemente famosa come postazione dei cecchini serbi durante la guerra si trova a una ventina di minuti da Sarajevo centro, in prossimità delle montagne che circondano la città. 
@@ -33,12 +33,12 @@ Raggiungendo la sommità si arriva ad un punto panoramico decisamente superbo su
 Questa zona si può raggiungere in auto, in taxi o con la funicolare che parte dal centro città. 
 E' presente un comodo parcheggio dal quale in 10 minuti a piedi si raggiunge la pista da bob e con altri 10 il punto panoramico. Al tramonto è un luogo davvero suggestivo (prestate attenzione perché non c'è alcuna illuminazione lungo il tragitto).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/Bosnia/sarajevo-pista-bob_wxqnhk.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Bosnia/sarajevo-pista-bob_wxqnhk.jpg" >}}
 
 ###### Baščaršija
 E' il quartiere turco, un susseguirsi di viuzze acciottolate, costellate di pasticcerie, ristoranti e negozietti di artigianato. Un grande bazar insomma, in cui domina la scena la moschea ottomana di Gazi Husrev-bey. 
   
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/Bosnia/sarajevo-bazar_zjk3tm.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Bosnia/sarajevo-bazar_zjk3tm.jpg" >}}
   
 ###### Piazza Sebilj
 Situata proprio a fianco del quartiere antico, ospita una fontana settecentesca, vicino alla quale si possono ammirare ogni giorno centinaia di piccioni sfamati da turisti e locali. 
@@ -46,7 +46,7 @@ Situata proprio a fianco del quartiere antico, ospita una fontana settecentesca,
 ###### Biblioteca Nazionale
 Incendiata quasi totalmente dai bombardamenti serbi, si narra che durante l'incendio numerosi studenti abbiano tentato invano e mettendo a rischio la propria vita, di salvare qualche prezioso volume.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/Bosnia/sarajevo-funicolare_dkwsui.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Bosnia/sarajevo-funicolare_dkwsui.jpg" >}}
 
 ###### Ponte Latino
 E' il famoso ponte in cui ebbe origine l'omicidio di Francesco Ferdinando che scatenò la Prima Guerra Mondiale.
@@ -55,7 +55,7 @@ E' il famoso ponte in cui ebbe origine l'omicidio di Francesco Ferdinando che sc
 Si trova vicino alla Bascarsija ed è un punto preciso indicato da una scritta a terra in cui finisce improvvisamente l’architettura islamica ed inizia improvvisamente la parte austriaca. 
 Qui si mescolano di nuovo non solo architettura, ma anche religioni e culture.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/Bosnia/sarajevo-colpi-edificio_z9xsdn.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Bosnia/sarajevo-colpi-edificio_z9xsdn.jpg" >}}
 
 ##### Sarajevo street food
 Se come a noi vi viene fame passeggiando per le vie della città vi consigliamo di mangiare un burek, la tipica sfoglia ripiena (solitamente con carne, spinaci e formaggio, patate) dei Balcani. Se volete assaporarlo come dei veri local accompagnatelo con un vasetto di yogurt bianco liquido. Buon appetito!

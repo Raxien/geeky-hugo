@@ -1,7 +1,7 @@
 ---
 title: 'Nuova Aquitania in camper con cane e gatto: itinerario, consigli e informazioni utili'
 description: "Alla scoperta della Nuova Aquitania in camper, lungo tutta la nosta atlantica del sud della Francia!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
 date: 2023-04-10T17:00:00.000
 categories: ["Europa", "Animali", "Itinerari", "Camper"]
 country: Francia
@@ -32,19 +32,19 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 **{{< underline "Giorno 5-6" >}}**: sbrigate le incombenze meccaniche ci siamo diretti nel parcheggio messo a disposizione da una famiglia che abita vicino alla vigna di proprietà a Vignobles Pestoury. Abbiamo approfittato del giro offerto e della degustazione, acquistando poi un paio di bottiglie di vino, davvero delizioso. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682862713/Articoli/francia/IMG_7177_gurulo.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862713/Articoli/francia/IMG_7177_gurulo.jpg" >}}
 
 **{{< underline "Giorno 7" >}}**: ultima visita della città di Bordeaux con le sue strade in stile europeo: molto bella Rue Catherine, la Cattedrale, il Municipio. Qui abbiamo assaggiato un buonissimo macaron ripieno di gelato al pistacchio! Abbiamo anche avuto il piacere di conoscere il team di Caramaps, applicazione che usiamo per trovare informazioni su soste e servizi. Sosta libera a Lanton, sulla baia di Cap Ferret.
 
 **{{< underline "Giorno 8" >}}**: ci siamo spostati a Cap Ferret, dove è possibile fare bellissime passeggiate sulla spiaggia e vedere tamonti mozzafiato. Sosta in libera.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682862713/Articoli/francia/IMG_7621_yt3nni.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862713/Articoli/francia/IMG_7621_yt3nni.jpg" >}}
 
 **{{< underline "Giorno 9-10" >}}**: abbiamo visitato la vicina l'Herbe, una piccola realtà di pescatori in cui perdersi fra reti e capanne. Poi ci siamo spostati a Biganos, un piccolo porticciolo con una fila di casette deliziose tutte colorate e infine ad Arcachon, dove abbiamo fatto due passi nel quartiere chiamato "Ville d'Hitre", con ville spettacolari dell'epoca di Napoleone III. Il centro del paese è decisamente chic, si può passeggiare fino a riva assaggiando i pasticcini di pasta choux. Sosta in libera.
 
 **{{< underline "Giorno 11" >}}**: ci siamo spostati alle Dune di Pilat, mentre un vento forte soffiava senza tregua. Un grande peccato osservare parte dei boschi limitrofi bruciati nell'estate 2022. Ci siamo poi spostati verso la spiaggia di Biscarosse, dove abbiamo visto un tramonto spettacolare. Sosta in libera sul lago (in zona ci sono numerosi limiti di altezza).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682862705/Articoli/francia/IMG_7856_kdf2ob.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862705/Articoli/francia/IMG_7856_kdf2ob.jpg" >}}
 
 **{{< underline "Giorno 12-13" >}}**: abbiamo trovato un piccolo angolo di pace presso il lago Mimizan, che permette una bella passeggiata anche sul molo. Notte in libera. 
 
@@ -52,7 +52,7 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 **{{< underline "Giorno 16" >}}**: abbiamo raggiunto Biarritz e abbiamo passeggiato per le sue vie fino a raggiungere la statua della Madonna affacciata sulla costa e il porticciolo, per poi spostarci in un parcheggio affacciato sulla baia con possibilità di fare una bella passeggiata. Da qui noi ci siamo spostati a Saint Jean de Luz per una piccola sosta prima di raggiungere la nostra ultima tappa francese, Hendaye, dalla quale siamo entrati in Spagna del Nord. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682862725/Articoli/francia/IMG_8318_i0b77u.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862725/Articoli/francia/IMG_8318_i0b77u.jpg" >}}
 
 ###### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera, in parcheggi in cui non erano presenti divieti o in aree camper gratuite. 
@@ -77,7 +77,7 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera, in parcheggi in cui 
 
 **{{< underline "Giorno 16" >}}**: Biarritz 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682862720/Articoli/francia/IMG_8478_icsos7.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862720/Articoli/francia/IMG_8478_icsos7.jpg" >}}
 
 ##### Strade 
 Come nel resto del paese non abbiamo trovato strade in condizioni pericolose. 
@@ -94,7 +94,7 @@ Di seguito un'idea di quanto abbiamo speso nei 16 giorni in Nuova Aquitania, ten
 
 {{< card >}}
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682862708/Articoli/francia/IMG_7194_rumhcv.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862708/Articoli/francia/IMG_7194_rumhcv.jpg" >}}
 
 ##### Viaggiare con il proprio animale
 {{< animali "EU">}}
@@ -109,7 +109,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "Dune di Pilat" >}}**: un must da vedere questo deserto che si affaccia sulla costa atlantica! 
 -   **{{< bold "Bayonne" >}}**: a noi questa cittadina è piaciuta davvero tanto, molto più autentica della vicina, più turistica e chic, Biarritz.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1682863464/Articoli/francia/A11AE756-B3B1-4867-AB22-DC1B3797A139_2_qys5ua.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682863464/Articoli/francia/A11AE756-B3B1-4867-AB22-DC1B3797A139_2_qys5ua.jpg" >}}
 
 ##### Il nostro Vlog 
 Nel video qui sotto puoi sentire le nostre considerazioni su queste zone oppure trovi la serie completa sul paese {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8" >}}.

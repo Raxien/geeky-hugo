@@ -1,7 +1,7 @@
 ---
 title: 'Un sacco pulito'
 description: "Dopo un mese \"di stop\" per sistemare il van, salutare famiglia e amici e sposarci abbiamo tracciato la direzione. Prossima meta.." 
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1694595842/Articoli/Blog/ripartiamo.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1694595842/Articoli/Blog/ripartiamo.jpg
 date: 2023-10-03T8:00:00+01:00
 categories: [ "Blog"]
 type: featured

@@ -1,7 +1,7 @@
 ---
 title: 'Noale: un piccolo borgo a pochi chilometri da Venezia'
 description: Uno di quei paesi in cui ti viene voglia di fermarti, di fare due parole con la gente del posto, di saperne un po' di più.
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1657705481/Articoli/Noale_.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1657705481/Articoli/Noale_.jpg
 date: 2022-07-13T10:00:00Z
 categories: ["Italia", "Itinerari"]
 country: Italia
@@ -13,7 +13,7 @@ Noale, un piccolo borgo a pochi chilometri da Venezia, era in realtà una tappa 
 ##### In gita a Noale
 Lungo la strada principale che attraversa il borgo si trovano i portici gotici e antichi palazzi, delimitati da un lato dalla Torre dell’Orologio e dall’altro dalla Torre delle Campane. Ci sono poi il Palazzo della Loggia dove hanno sede il Municipio, il Museo Civico e la Pinacoteca 'Egisto Lancerotto' e la parrocchia dei Ss. Felice e Fortunato.
 
-![A passeggio per le vie di Noale](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1657705492/Articoli/a_passeggio_per_le_vie_di_Noale.jpg)
+![A passeggio per le vie di Noale](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1657705492/Articoli/a_passeggio_per_le_vie_di_Noale.jpg)
 
 Noale conserva tracce del suo glorioso passato militare nella Rocca dei Tempesta, edificata nel XII secolo a ridosso del fiume Marzenego. La rocca ospita adesso importanti avvenimenti culturali e, dopo due secoli di abbandono in cui è stata utilizzata anche come camposanto, è tornata a essere il simbolo del centro d’arte.
 
@@ -28,12 +28,12 @@ Per il pranzo ci siamo fermati da {{< extLink "**"CORTIVO 2.0"**" "https://www.c
 
 Per quanto riguarda la cena abbiamo optato per la {{< extLink "**"Trattoria Dal Fritoin"**" "https://www.dalfritoin.it" >}}, incuriositi oltre che dalle recensioni sulla frittura di pesce, dalla proposta dolce di un tiramisù con i fiori di zucca e gli amaretti. Purtroppo abbiamo trovato il tiramisù classico quella sera, ma ugualmente delizioso. Ci uniamo agli apprezzamenti sulla frittura di pesce, molto ben bilanciati anche i sapori del primo con seppie e zucchine. Un buon vino bianco e la cena è servita. 
 
-![La rocca di Noale](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1657705148/Articoli/La_Rocca_di_Noale.jpg)
+![La rocca di Noale](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1657705148/Articoli/La_Rocca_di_Noale.jpg)
 
 ##### Cosa visitare con cane e gatto
 Con Sakè e Olimpia abbiamo camminato per tutte le vie del paese e lungo l'argine del fiume. Qui ti raccomandiamo un po' di accortezza dato che ci sono numerosi animali, tra cui anatre e galli, liberi di girovagare. Per quanto riguarda l'area naturalistica del WWF, il sito internet cita "cani non ammessi", per cui ci siamo limitati a una passeggiata nella zona subito accanto, in aperta campagna.
 
-![Turisti a Noale](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1657705037/Articoli/turisti_a_Noale.jpg)
+![Turisti a Noale](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1657705037/Articoli/turisti_a_Noale.jpg)
 
 ##### Un piccolo borgo a pochi chilometri da Venezia 
 Ebbene sì, la Serenissima si trova davvero a pochi chilometri da Noale, tant'è che è raggiungibile comodamente con il treno. Noi abbiamo preferito avvicinarci con il camper per avere una base più comoda e vicina in caso di necessità con gli animali, ma se decidessi di fare sosta qui, il tragitto in treno ti richiederà una quarantina di minuti (costo del biglietto 1,90 € in seconda classe). 

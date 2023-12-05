@@ -1,7 +1,7 @@
 ---
 title: 'Le migliori pizze in Marocco'
 description: Sei in Marocco è hai  voglia di pizza? Ecco 4 posti in Marocco dove rimarrai davvero soddisfatto!
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1685384737/IMG_2577_lxtqoc.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1685384737/IMG_2577_lxtqoc.jpg
 date: 2023-05-27T10:00:00+01:00
 categories: [ "Cucina", "Consigli"]
 country: Marocco
@@ -37,7 +37,7 @@ Che dire, siamo ritornati due sere dopo tanto ci è piaciuta! E ci torneremmo an
 
 **{{< extLink "📍 Local 1, Résidence ÉLÉGANCE, Av. 9 Avril, Tétouan 93000" "https://goo.gl/maps/ejk1FXbiDc15oodq6" >}}**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1685394819/IMG_2528_ybbk2y.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1685394819/IMG_2528_ybbk2y.jpg" >}}
 
 #### 🍕 Positano, Fez: 
 
@@ -53,7 +53,7 @@ Che dire, siamo ritornati due sere dopo tanto ci è piaciuta! E ci torneremmo an
 
 **{{< extLink "📍 Champs de course, 47, Fes 30000" "https://goo.gl/maps/te1SZ14g3KYZVUb26" >}}**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1685384689/IMG_2082_hiurs5.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1685384689/IMG_2082_hiurs5.jpg" >}}
 
 #### 🍕 Snack pizzeria slimane, Ouaouizeght: 
 
@@ -69,7 +69,7 @@ Che dire, siamo ritornati due sere dopo tanto ci è piaciuta! E ci torneremmo an
 
 **{{< extLink "📍 واويزغت Ouaouizeght" "https://goo.gl/maps/Pjkebsekgu5mt3No8" >}}**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1685384776/IMG_1470_mogkpx.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1685384776/IMG_1470_mogkpx.jpg" >}}
 
 #### 🍕 Portorico, Dakhla:
 
@@ -85,7 +85,7 @@ Che dire, siamo ritornati due sere dopo tanto ci è piaciuta! E ci torneremmo an
 
 **{{< extLink "📍 100 Boulevard Mohamed V, Dakhla 73000" "https://goo.gl/maps/2jK4ZR6iVFHsL5m47" >}}**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1685384824/IMG_9116_ckfmj2.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1685384824/IMG_9116_ckfmj2.jpg" >}}
 
 Ora diteci di voi! 
 Siete del team pizza all'estero sì o preferite mangiare solo cibi locali? 

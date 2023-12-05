@@ -1,7 +1,7 @@
 ---
 title: Tutti i libri consigliati da noi
 description: Lista dei libri letti in viaggio
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1657832150/book_vmll4s.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1657832150/book_vmll4s.jpg
 layout: books
 ---
 

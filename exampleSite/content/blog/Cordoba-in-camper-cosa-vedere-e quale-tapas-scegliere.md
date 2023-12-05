@@ -1,7 +1,7 @@
 ---
 title: 'Cordoba in camper: cosa vedere e quale tapas scegliere'
 description: Stai pensando di raggiungere Cordoba in camper? Non te ne pentirai, è una meta meravigliosa! Scoprila con noi!  
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689674761/Articoli/empanada/madrid/cordoba/IMG_2986_mpur3w.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689674761/Articoli/empanada/madrid/cordoba/IMG_2986_mpur3w.jpg
 date: 2023-07-24T10:00:00+01:00
 categories: [ "Spagna", "Guida"]
 type: regular
@@ -27,7 +27,7 @@ La moschea-cattedrale di Cordoba chiamata anche Mezquita, è il monumento **p
 Se vuoi ammirarla **gratuitamente** puoi farlo dal lunedì al sabato dalle 8.30 alle 9.30 di mattina. 
 Noi ne siamo rimasti affascinati, tanto da ripassarci più volte e passeggiare lentamente nei giardini.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689674779/Articoli/empanada/madrid/cordoba/IMG_2972_hbqxvz.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689674779/Articoli/empanada/madrid/cordoba/IMG_2972_hbqxvz.jpg" >}}
 
 ###### Alcázar de los Reyes Cristianos
 L’Alcázar de los Reyes Cristianos è un altro monumento famosissimo di Cordoba. Un tempo era la residenza dei re Cattolici, poi divenne prigione. Oggi è un museo e i suoi interni e i giardini sono visitabili a pagamento. Noi abbiamo rimandato la visita dato che avevamo già visitato quello di [Siviglia e di Granada](/blog/viaggio-andalusia-in-camper-itinerari).
@@ -38,7 +38,7 @@ Situata nel quartiere Ebraico, è **l’unica sinagoga esistente in Andalusia**
 ###### Le Scuderie
 Le scuderie reali di Cordoba risalgono alla metà del 1500 e si trovano nel centro di Cordoba. Sono note per aver ospitato i **migliori cavalli di razza** dell'intera Andalusia. Possono essere visitate ed è anche possibile assistere ai tipici spettacoli ippici.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689674772/Articoli/empanada/madrid/cordoba/IMG_3019_ueuyqx.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689674772/Articoli/empanada/madrid/cordoba/IMG_3019_ueuyqx.jpg" >}}
 
 ###### Plaza de la Corredera
 La piazza più famosa di Cordoba è Plaza de la Corredera. Negli anni è stata teatro di feste, mercati, corride e esecuzioni. Oggi è sede di mercato e ci si può sedere per una pausa a uno dei tavolini dei piccoli locali presenti. 
@@ -49,13 +49,13 @@ Il Palazzo de Viana è famoso per i 12 patii in fiore, i cortili e i giardini,
 ###### Il Ponte Romano
 Il Ponte Romano fu per secoli l’unico ponte di accesso alla città. In orario di tramonto da qui si possono ammirare panorami mozzafiato. Noi l’abbiamo percorso in lungo e in largo insieme a Olimpia e Sakè, che forse hanno incuriosito qualche turista **e rubato per un attimo la scena alla storia.**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689674834/Articoli/empanada/madrid/cordoba/IMG_2939_wyalfm.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689674834/Articoli/empanada/madrid/cordoba/IMG_2939_wyalfm.jpg" >}}
 
 ##### I dintorni di Cordoba: Madinat al-Zahra
 
 All’inizio di questo articolo ti abbiamo accennato a una gita fuori porta. Prima di raggiungere il centro di Cordoba abbiamo infatti voluto visitare i resti della misteriosa città di **{{< underline "Madinat al-Zahra" >}}** (a 8 chilometri da Cordoba).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689674806/Articoli/empanada/madrid/cordoba/IMG_2933_xbyuiz.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689674806/Articoli/empanada/madrid/cordoba/IMG_2933_xbyuiz.jpg" >}}
 
 Puoi raggiungere il sito, visitabile nell’estate 2023 solo in parte, o a bordo della navetta che parte dal parcheggio adiacente al museo (3 euro a/r a persona) oppure percorrendo circa 2 km a piedi come abbiamo fatto noi.
 L’ingresso al sito è gratuito, così come il parcheggio. 

@@ -1,7 +1,7 @@
 ---
 title: 'Il forno per camper: la pentola Omnia'
 description: "Finalmente anche a bordo del nostro van possiamo cucinare pizze e torte come a casa"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689874010/Articoli/Blog/forno-camper-ominia_lcniye.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689874010/Articoli/Blog/forno-camper-ominia_lcniye.jpg
 date: 2023-10-07T08:00:00.000
 categories: ["Blog"]
 type: featured
@@ -29,7 +29,7 @@ Ammetto di aver tentato di preparare una galette farcita con marmellata in padel
 
 **Abbiamo deciso quindi di non giocare con il fuoco in tutti i sensi e di affidarci all'uso della pentola fornetto Omnia.**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/Blog/forno-omnia-camper_g459yh" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/forno-omnia-camper_g459yh" >}}
 
 ##### La pentola fornetto Omnia
 
@@ -48,7 +48,7 @@ La struttura del forno è composta da tre parti che assieme forniscono calore so
 
 L'utilizzo è veramente semplice, basta mettere insieme gli ingredienti e controllare solo che la fiamma non sia troppo bassa nè troppo alta, poi attendere la meraviglia che ne esce per olfatto e gusto. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/Blog/forno-omnia-torta_wedtjw" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/forno-omnia-torta_wedtjw" >}}
 
 ##### La prima ricetta a bordo
 
