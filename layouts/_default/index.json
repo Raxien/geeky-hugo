@@ -49,8 +49,14 @@
 {{ $resDate := add (string $resDate) " " }}
 {{ $resDate := add (string $resDate) $year }}
 
+{{ $image := replace .Params.image "w_1000" "w_500" }}
+{{ $image := replace $image "good" "eco" }}
 
-{{ $.Scratch.Add "index" (dict "title" .Title "date" $resDate "image" .Params.image "categories" .Params.categories "contents" .Plain "permalink" .RelPermalink) }}
+{{ $.Scratch.Set "image" $image }}
+
+{{ $image:= $.Scratch.Get "image" }}
+
+{{ $.Scratch.Add "index" (dict "title" .Title "date" $resDate "image" $image "categories" .Params.categories "contents" .Plain "permalink" .RelPermalink) }}
 
 {{ end }}
 {{ $.Scratch.Get "index" | jsonify }}
