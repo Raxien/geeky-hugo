@@ -4,7 +4,7 @@ author = "Sara"
 contact_form_action = "javascript: sendMail();"
 copyright = ""
 custom_script = ""
-description = ""
+description = "Alla scoperta del mondo on the road. Unisciti al viaggio e lasciati ispirare a intraprendere la tua prossima avventura!"
 email = "info@vandipety.it"
 emailSponsor = "sponsor@vandipety.it"
 favicon = "images/favicon.png"
@@ -51,12 +51,12 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 sidebar = ["newsletter", "tappe", "categories"]
 [[social]]
 icon = "fab fa-youtube"
-link = "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw"
-title = "youtube"
+link = "https://www.youtube.com/vandipety"
+title = "YouTube"
 [[social]]
 icon = "fab fa-instagram"
 link = "https://www.instagram.com/vandipety/"
-title = "instagram"
+title = "Instagram"
 # [[social]]
 # icon = "fab fa-tiktok"
 # link = "https://vm.tiktok.com/ZMLJmLRTV/"
@@ -64,7 +64,7 @@ title = "instagram"
 [[social]]
 icon = "fab fa-facebook"
 link = "https://www.facebook.com/ilgattodicitturin"
-title = "facebook"
+title = "Facebook"
 [[social]]
 icon = "fas fa-store"
 link = "https://www.amazon.it/shop/vandipety"
