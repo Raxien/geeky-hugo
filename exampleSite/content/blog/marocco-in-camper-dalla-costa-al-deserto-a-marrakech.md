@@ -148,11 +148,11 @@ Da questo punto in poi le nostre avventure in Marocco sono proseguite verso Fes,
 
 ##### Quanto abbiamo speso
 
-Di seguito elenchiamo tutte le spese sostenute dal momento in cui siamo rientrat in Marrocco dopo la nostra esperienza in Mauritania e Senegal ([che trovi qui](/blog/informazioni_viaggio_senegal/)) fino alle porte di Fes (che invece [trovi qui](/blog/marocco-in-camper-alla-scoperta-della-costa-mediterranea)).
+Di seguito elenchiamo tutte le spese sostenute dal momento in cui siamo rientrati in Marrocco dopo la nostra esperienza in Mauritania e Senegal ([che trovi qui](/blog/informazioni_viaggio_senegal/)) fino alle porte di Fes (che invece [trovi qui](/blog/marocco-in-camper-alla-scoperta-della-costa-mediterranea)).
 
 Nelle spese sono inclusi i costi di benzina per andare dal border con la Mauritania a Tafraout:
 
-{{< tripExpanses "Spese" "2023-3-20T00:00:00Z" "2023-05-10T00:00:00Z" >}}
+{{< tripExpanses "Spese" "2023-03-20T00:00:00Z" "2023-05-10T00:00:00Z" >}}
 
 ##### Considerazioni 
 In tutta questa zona del Marocco sono due gli aspetti che abbiamo apprezzato maggiormente: le persone e la loro ospitalità (tranne nei casi di chi era interessato solo a ottenere denaro, come ad esempio i finti guardiani dei parcheggi) e i luoghi naturali. 

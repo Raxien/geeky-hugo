@@ -87,7 +87,7 @@ _Vista in foto sembra pulita, sembra._
 
 Di seguito le spese finali del nostro viaggio in Marrocco comprensiva di tutti i costi sostenuti per andare fino al confine con l'Algeria e del traghetto di rientro per l'Europa! Se vuoi vedere le altre spese del viaggio le trovi [nella parte 1](/blog/marocco-in-camper-alla-scoperta-della-costa-atlantica/)) e [nella parte 2](/blog/marocco-in-camper-dalla-costa-al-deserto-a-marrakech) del nostro viaggio in questo paese.
 
-{{< tripExpanses "Spese" "2023-5-10T00:00:00Z" "2023-05-31T00:00:00Z" >}}
+{{< tripExpanses "Spese" "2023-05-10T00:00:00Z" "2023-05-31T00:00:00Z" >}}
 
 ##### Considerazioni
 Come anticipato **le tappe lungo la costa mediterranea non ci sono piaciute granchè**, soprattutto per il grande accumulo di immondizia ovunque e alcuni episodi personali spiacevoli. In un paio di occasioni abbiamo richiesto l'intervento della gendarmerie per essere lasciati in pace dai locali.
