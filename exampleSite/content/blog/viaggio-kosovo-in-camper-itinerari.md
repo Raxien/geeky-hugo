@@ -1,5 +1,5 @@
 ---
-title: "Kosovo in camper: un paradiso!"
+title: "Kosovo in camper: un viaggio meraviglioso!"
 description: "Alla scoperta del Kosovo in camper, un viaggio on the road nel paese più nuovo e bello dei balacani!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1688553433/Articoli/andalusia/caminito-del-rey_kpfckj.jpg
 date: 2023-10-31T00:00:00.000
@@ -9,11 +9,11 @@ type: regular
 draft: true 
 ---
 
-Quando si nomina il Kosovo la prima cosa che viene è la guerra che interesso il paese fra il 1998 a giugno 1999, dal 2008 il Paese ha dichiarato l’indipendenza dalla Serbia ed è stato riconosciuto dall’Italia, giustamente.
-- [ ] Il Kosovo appartiene alla Penisola Balcanica o Balcani, è di certo la destinazione meno conosciuta e visitata e questo è un grande peccato perchè è un paese autentico, selvaggio e ricco di tradizioni storiche, artistiche, naturalistiche e popolari davvero imperdibili.
-
-
-Pristina è la Capitale politica e culturale del Kosovo, il piccolo Paese balcanico che poco più di 20 anni fa fu terribilmente attaccato dai nazionalisti serbi, sfociando nella guerra che ancora oggi riempie le pagine più recenti della storia europea. Il 17 febbraio 2008 il Kosovo ha proclamato unilateralmente la sua indipendenza dalla Serbia.
+Il Kosovo è un paese pericoloso? 
+No. Il Kosovo è un paese meraviglioso, da visitare con occhi e cuore spalancati.
+Quando si nomina il Kosovo la prima cosa che viene è la guerra che interessò il paese alla fine degli anni '90, ma dal 2008 il Paese ha dichiarato l’indipendenza dalla Serbia ed è stato riconosciuto dall’Italia insieme a molti altri paesi. 
+E' purtroppo la destinazione meno conosciuta e visitata dei Balcani e questo è un grande peccato perchè noi abbiamo scoperto un paese autentico, selvaggio e ricco di tradizioni storiche, artistiche, naturalistiche e popolari davvero imperdibili.
+Il Kosovo oggi è un paese nuovo, o meglio rinato, con una capitale giovane e piena di vita e molti altri punti di interesse da visitare: in questo articolo ti raccontiamo le tappe che abbiamo raggiunto a bordo del nostro van ma ti lasciamo anche qualche spunto utilissimo se dovessi arrivare in paese per via aerea e magari affittare un'automobile.
 
 > ##### Tabella dei contenuti
 > - [Cosa vedere](#cosa-vedere)
@@ -27,8 +27,8 @@ Pristina è la Capitale politica e culturale del Kosovo, il piccolo Paese balcan
 >   - [Prishtina: Newborn!](#prishtina-newborn)
 >   - [Grotte di Gadime: che spettacolo della natura](#grotte-di-gadime-che-spettacolo-della-natura)
 >   - [Itinerario](#in-breve)
-> - [Strade](#strade)
-> - [Servizi e soste](#servizi-e-soste)
+> - [Tour culinario](#Tour culinario)
+> - [Strade](#Strade)
 > - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
 > - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
@@ -37,170 +37,189 @@ Pristina è la Capitale politica e culturale del Kosovo, il piccolo Paese balcan
 
 ##### Cosa vedere
 
-Il Kosovo appartiene ai Balcani è di certo la destinazione meno conosciuta e visitata, tanté che è difficile trovare in rete informazioni in merito a cosa vedere sul paese, ed è un grande peccato. Questo è un paese autentico, selvaggio e ricco di tradizioni storiche, artistiche, naturalistiche e popolari davvero imperdibili e noi l'abbiamo visitato per potervelo raccontare e farvi venire voglia di visitarlo.
+Il Kosovo si trova nei Balcani ed è la destinazione meno conosciuta e visitata di questa zona, tant'è che è difficile trovare in rete informazioni in merito a cosa visitare.
 
-I posti sono elencati in ordine di come li abbiamo visitati in quanto siamo entrati dal confine con il [Montenegro](/blog/viaggio-montenegro-in-camper-itinerario) per poi uscire in [Macedonia del Nord](/blog/viaggio-macedonia-del-nord-in-camper-itinerario).
+In questo articolo speriamo di riuscire a condividervi non solo informazioni utili ma anche le emozioni vissute in questo paese meraviglioso, invogliandovi magari a partire per scoprire luoghi che meritano davvero un grande riscatto. 
+
+Vi elencheremo le nostre tappe in ordine di visita, partendo da nord dato che abbiamo attraversato la frontiera tra Kosovo e [Montenegro](/blog/viaggio-montenegro-in-camper-itinerario) per poi terminare le nostre avventure e proseguire in [Macedonia del Nord](/blog/viaggio-macedonia-del-nord-in-camper-itinerario).
 
 ###### Pejë: un monastero, una birra e del buon formaggio
 
 Pejë/Peć è stata la prima città che abbiamo visitato e merita una visita sia per ragioni culturali che culinarie.
 
-Partendo dalle cose da vedere sono degni di nota:
-1. **il monumento ai caduti**: nella piazza centrale di Pejë si erge la statua dedicata al padre fondatore dell'Albania, strano vero? Questo perché i kossovori si definiscono "albanesi kossovari" (infatti la lingua ufficiale è l'albanese)!
-2. **l'Hotel Korza**: il simbolo della città ed era il più antico hotel della città, ora sede di una banca. Affianco uno degli edifici più brutti della città.
-3. **il bazar**: affascinante bazar nel centro della città.
-4. **il monastero Patriarcale di Pec**: forse **il vero motivo** per cui dovreste venire a Pejë. Patrimonio UNESCO, uno dei monasteri serbo-ortodossi più belli che abbiamo visto in questo tour dei balcani. Tanto bello fuori che finemente affrescato dentro. Una gioa per gli occhi. Portatevi un documento di identità in quanto all'ingresso vi verrà richiesto.
-5. **il parco Nazionale di Rugova**: se amate i trekking, le ferrate o camminare nella natura, dedicate una o più giornate alla visita di questo parco nazionale.
+I maggiori punti di interesse della città secondo noi sono:
+1. **il monumento ai caduti**: nella piazza centrale di Pejë si erge la statua dedicata al padre fondatore dell'Albania, strano vero? Questo perché i kosovari si definiscono "albanesi kosovari" (infatti la lingua ufficiale è l'albanese)!
+2. **l'Hotel Korza**: uno dei simboli della città, era il più antico hotel, eretto ad inizio 1900, ora diventato sede di una banca. Alla sua sinistra troverete ahimè uno degli edifici più brutti della città.
+3. **il bazar**: affascinante bazar nel centro della città, mantiene alcuni scorci di un passato lontano.
+4. **il monastero Patriarcale di Pec**: forse **il vero motivo** per cui dovreste venire a Pejë e uno dei luoghi che più ci ha emozionati. Patrimonio UNESCO, è uno dei monasteri serbo-ortodossi più belli che abbiamo visto in questo tour dei balcani, sia all'esterno grazie al bellissimo viale che conduce al portone di ingresso e alla foresta di Rugova che compare all'orizzonte, sia all'interno dove trovere un'infinità di affreschi perfettamente conservati. Una gioia per gli occhi. Portatevi un documento di identità, vi verrà richiesto dai militari che presidiano l'ingresso: nessuna paura, è un luogo che trasmette pace in ogni dettaglio. 
+5. **il parco Nazionale di Rugova**: se amate i trekking, le ferrate o camminare nella natura, dedicate una o più giornate alla visita di questo parco nazionale, che si trova poco oltre la cittadina di Pejë.
 
-Arriviamo dunque alle ragioni culinarie! Pejë è famosa perché da i natali **alla omonima, e buonissima, birra nazionale** mentre il prodotto tipico della vallata di Rugova è il famoso **formaggio di Rugova**. Sembra una ricotta molto salata ma vermaente buona. Entrambi questi prodotti potete gustarli al bar o al ristorante ma si possono anche trovare tranquillamente al super mercato.
+Se prima citavamo alcune ragioni culinarie per visitare questi luoghi è perchè Pejë è famosa perché da i natali **alla omonima, e buonissima, birra nazionale** mentre il prodotto tipico della vallata di Rugova è il famoso **formaggio di Rugova**, simile alla feta come consistenza, dal gusto molto salato. 
+Entrambi questi prodotti potete gustarli nei numerosi bar o ristoranti oppure acquistarli al supermercato.
 
 ###### Monastero di Visoki Dečani: da fotografare con gli occhi
 
-A soli 12 km dalla città di Pejë è presente il Monastero di Visoki Dečani che racchiude la più grande chiesa medievale dei Balcani con la più vasta collezione di affreschi. Perché diciamo da fotografare con gli occhi? Oggigiorno il monastero è sotto la protezione delle Nazioni Unite e della KFOR ed è severamente vietato fare riprese o foto.
+A soli 12 km dalla città di Pejë si trova il Monastero di Visoki Dečani, che racchiude la più grande chiesa medievale dei Balcani con la più vasta collezione di affreschi. 
+Perché "da fotografare con gli occhi"? 
+Oggigiorno il monastero è sotto la protezione delle Nazioni Unite e della KFOR ed è severamente vietato fare riprese o foto.
 
-Sulla strada sono presenti dei check point presidiati dalle forze armate del KFOR e all'ingresso del monastero bisogna consegnare **tutto** quello che avete in tasca, zaino e i documenti che vi verranno riconsegnati all'uscita.
+Sulla strada sono presenti dei check point presidiati dalle forze armate del KFOR e all'ingresso del monastero bisogna consegnare **tutto** quello ciò che si ha in tasca, compresi zaini e documenti che vi verranno riconsegnati all'uscita.
 
-###### Djakovica: Un gioiellino inaspettato
+Anche in questo caso non avete nulla da temere: varcato il portone d'ingresso vi ritroverete in una bolla di silenzio e pace.
 
-Online si trovano poche informazioni a proposito di questa città, giusto che è stata la sede di un aeroporto militare gestito dall'Aeronautica Militare Italiana. Vista la scarsità di notizie avevamo previsto di stare poco e invece ci siamo dovuti ricredere. Una città con un centro che è un enorme bazar fatto di case in legno che a tratti ci ha ricordato [il Giappone](/blog/viaggio-giappone-informazioni-e-itinerari) piena di caffé, ristorantini e botteghine. Camminando si possono ammirare gli artigiani del legno all'opera nel creare le tipiche culle in legno.
-Meritano una visita sia la casa albanese, prima guest house nel paese, che il lungo fiume con una serie di murales veramente belli, ancora più suggestivo la sera.
+###### Gjakova: Un gioiellino inaspettato
+
+Online si trovano poche informazioni circa la città di Gjakova (in italiano Giacovizza) e proprio per questo motivo avevamo previsto di sfruttarla solo come sosta per la notte. Sede un tempo di un aeroporto militare gestito dall'Aeronautica Militare Italiana, questo luogo ci ha fatti ben presto ricredere. 
+Gjakova è una città con un centro caratterizzato da un enorme bazar con case in legno che a tratti ci hanno ricordato alcuni luoghi visitati [in Giappone](/blog/viaggio-giappone-informazioni-e-itinerari). Camminando tra le viuzze che pullulano di caffé, ristorantini e piccole botteghe si possono ammirare numerosi artigiani intenti a intagliare le tipiche culle realizzate in legno.
+Meritano una visita anche una casa in stile albanese, la prima guest house nel paese, e il lungo fiume che presenta una serie di murales veramente belli, ancora più suggestivi da ammirare di sera.
 
 <!-- {{< youtube >}} -->
 
 ###### Cascate di Mirusha: un'escursione inaspettata
 
-Non era in programma ma abbiamo deciso all'ultimo di fare questa deviazione. A soli 20 minuti di macchina da Djakovica si può raggiungere il parco di Mirusha, un serie di cascate che nel tempo hanno creato un canyon composto da 13 laghi con cascate fra di esse. 
+Anche questo luogo non era in programma, dato che non ne avevamo trovato traccia in nessun blog spulciato sul web, ma abbiamo deciso all'ultimo di fare questa deviazione verso il parco di Mirusha.
+Situato a soli 20 minuti di strada da Gjakova, questo parco vi permetterà di ammirare un canyon caratterizzato da 13 laghi e relative cascate.
 
-La prima cascata si può facilmente raggiungere a piedi mentre per vedere le più belle, in particolare quella fra il sesto e settimo lago, bisogna procedere tramite una ferrata non facilissima: alcuni passaggi con la corda sono a strapiombo! Ovviamente l'abbiamo scoperto solo dopo!
+La prima cascata e il primo lago, dove potrete trovare anche qualche pescatore del posto, si può facilmente raggiungere a piedi, mentre per ammirare le più belle, in particolare quella fra il sesto e settimo lago, bisogna procedere tramite una ferrata non facilissima: alcuni passaggi sono davvero a strapiombo e avrete solo una corda lungo la parete alla quale aggrapparvi! 
+Ovviamente l'abbiamo scoperto solo cammin facendo, ma abbiamo deciso di tirar fuori un po' di coraggio, davver oripagato dalla meraviglia del luogo!
 
-Noi abbiamo parcheggiato (e dormito) presso **il ristorante Villa Park**, notte tranquilla con possibilità di accedere gratuitamente al Wi-Fi. Per ringraziare abbiamo preso due caffé (costo 0.80 cent a caffé) e ammirato l'interno che è veramente particolare. Salutate il custode dato che parla italiano in quanto ha vissuto 12 anni a Firenze.
+Noi abbiamo parcheggiato presso **il ristorante Villa Park**, approfittando anche di poter dormire una notte tranquillamente e con possibilità di accedere gratuitamente al Wi-Fi. Per ringraziare dell'ospitalità abbiamo ordinato due caffé (0.70 € a caffé) e ammirato l'interno del locale che è veramente particolare. 
+Se doveste recarvici salutate da parte nostra il custode del giardino, che parla italiano in quanto ha vissuto 12 anni a Firenze.
 
-###### Pristren: "Lot to see"
+###### Prizren: "There's a lot to see"
 
-Questo è quello che ci hanno detto due turisti inglesi incontrati appena arrivati **nella capitale culturale di Pristren**: "Lot to see! Lot to see!" ovvero "c'è tanto da vedere"! Ed effettivmanente nel centro storico della città, **il quartiere Shattērvan** , ci sono un sacco di punti di interesse! 
+Questo è quello che ci hanno detto due turisti inglesi non appena siamo arrivati **nella capitale culturale di Prizren**: "There's a lot to see! Lot to see!" cioè "c'è tanto da vedere"! Ed effettivmanente nel centro storico della città, **il quartiere Shattērvan** , si trovano tantissime cose interessanti! 
 
-Il punto di partenza sono il ponte antico e l'imponente moschea **Sinan Pasha**. Una volta attraversanto il ponte non resta che perdendosi nelle viuzze che si scoprono chiese nascoste, moschee, piccoli caffé e botteghine.
+Il punto di partenza è il ponte antico, dal quale ammirare l'imponente moschea **Sinan Pasha**. Una volta attraversato il ponte non resta che perdersi nelle viuzze e scoprire chiese nascoste, moschee, piccoli caffé e botteghe artigiane.
 
-Da dietro la grande moschea partono le strade che portano all'imponente fortezza. Salendo non perdere la piccola chiesa di Nedelja e la chiesa scoperchiata del cristo salvatore. Una volta raggiunta la sommità ci si può sedere sotto l'imponente scritta UCK e guardare il tramonto sulla bellissima città di Prizren.
+Alle spalle della grande moschea si diramano alcune stradine in salita che conducono all'imponente fortezza. 
+Lungo il tragitto vi consigliamo una sosta alla piccola chiesa di Nedelja e alla chiesa scoperchiata del Cristo Salvatore. 
+Una volta raggiunta la sommità potrete sedervi sotto l'imponente scritta UCK e ammirare il tramonto sulla bellissima città di Prizren.
 
 ###### Il santuario degli orsi
 
-Il santuario degli orsi di Prishtina merita sicuramente una visita ma per capire il perché bisogna fare un salto indietro nel tempo. In Kosovo non era insolito imbattersi in orsi esposti in gabbie, piccole, a volte senza una tettoia per riparli dal sole, al di fuori dei ristoranti con il solo fine di attirare turisti e clienti. Solo nel 2010 il governo decise di metter fine a questa barbaria è di li a poco, nel 2013, è nato il santuario degli orsi il cui scopo è stato quello di salvare e dare un luogo dove vivere in semilibertà a questi orsi nati in cattivita.
+Il santuario degli orsi di Pristina merita sicuramente una visita ma per capire il perché bisogna fare un salto indietro nel tempo. 
+In Kosovo non era insolito imbattersi in orsi esposti in gabbie molto piccole, talvolta senza una tettoia come riparo dal sole, al di fuori dei ristoranti con il solo fine di attirare turisti e clienti. Solo nel 2010 il governo decise di metter fine a questa barbaria è di li a poco, nel 2013, è nato il santuario degli orsi il cui scopo è stato quello di salvare e creare un luogo che permettesse a questi orsi nati in cattività di poter condurre una vita in semilibertà.
 
-Fino ad oggi sono stati **salvati 20 orsi e 1 leone** i quali vivono protetti un terreno di 16 ettari che possono esser visti con un trail che attraversa l'intera area.
+Da allora sono stati **salvati 20 orsi e 1 leone**, che oggi vivono protetti in un terreno di 16 ettari, all'interno si trova un trail che permette di visitare l'intera area..
 
-Dista circa 20 km dalla capitale e per la modica cifra di 2.50 euro potete visitiare l'area. Il biglietto vale tutto il giorno e quindi potete fare il trail quante volte volete nell'arco della giornata. Noi siamo andati subito presto al mattino e poi di nuovo intorno alle 13:30, orario in cui passano a dare da mangiare e quindi potrete vedere tutti gli orsi. 
+Il santuario degli orsi dista circa 20 km dalla capitale e d è visitabile con un contributo simbolico di 2,50 €. Il biglietto vale tutto il giorno e permette di accedere più volte all'interno: noi ci siamo recati al mattino presto osservando alcuni esemplari intenti a farsi una nuotata nelle pozze ricreate a loro disposizione e poi di nuovo intorno alle 13:30, orario in cui viene portato il cibo all'interno delle recinzioni e si possono ammirare gli orsi più da vicino.
 
-Una nota di merito al fatto che è disponibile un parcheggio per i camper gratuito con fontana d'acqua potabile e Wi-Fi e toilette al centro, quando è aperto.
+Nota di merito: è disponibile un parcheggio gratuito per i camper, con fontana d'acqua potabile. Wi-Fi e toilette sono disponili all'interno del centro negli orari di apertura.
 
 ###### Il monastero di Gračanica
 
-Sempre nei dintorni della capitale è presente il monastero serbo-ortodosso di Gračanica situato nella omonima città. Costruito nel XIV secolo, fa parte del patrimonio culturale serbo-ortodosso del Kosovo ed è famoso sia per i suoi affreschi medievali ben conservati che raccontano la storia della Bibbia sia per essere un capolavoro dell'architettura serba medievale. Il monastero è stato dichiarato patrimonio dell'umanità dall'UNESCO nel 2004.
+Sempre nei dintorni della capitale si trova il monastero serbo-ortodosso di Gračanica, situato nella omonima città. Costruito nel XIV secolo, fa parte del patrimonio culturale serbo-ortodosso del Kosovo ed è famoso sia per i suoi affreschi medievali ben conservati che raccontano la storia della Bibbia, sia per essere un capolavoro dell'architettura serba medievale. Il monastero è stato dichiarato patrimonio dell'umanità dall'UNESCO nel 2004.
 
-A differenza degli altri monasteri non ci hanno chiesto i documenti ma ci hanno comunque avvisato che non era possibile fare foto all'interno.
+A differenza degli altri monasteri non vengono richiesti i documenti ma permane il divieto di scattare fotografie all'interno.
 
 ###### Pristina: Newborn!
 
-Pristina è la capitale del Kosovo, non sapevamo cosa aspettarci ma siamo rimasti stupiti. Una città viva, vivace, moderna e spensierata, forse per dimenticare gli orrori successi 20 anni addietro. che qui, non pochCosa vedere? Tante cose ma tutte abbastanza vicine.
-1. 
+Non sapevamo minimamente cosa aspettarci da Pristina, la capitale dello stato più giovane d’Europa, ma ne siamo rimasti piacevolmente stupiti. 
+Patria di due delle cantanti più famose degli ultimi tempi, Dua Lipa e Rita Ora, è una città viva, vivace, moderna e spensierata, forse per dimenticare gli orrori successi in Kosovo 20 anni fa. 
 
-È la patria di due delle cantanti più famose degli ultimi tempi, Dua Lipa e Rita Ora, la capitale dello stato più giovane d’Europa e nasconde uno dei quartieri più cool dei Balcani, secondo il New York Times. Ecco a voi Pristina, la capitale del Kosovo, una città giovane da visitare adesso, prima che tutti quanti se ne accorgano.
-
-
-
-Dopo i crimini perpetrati sul suo territorio oggi il Kosovo è un Paese nuovo, o per meglio dire rinato, soprattutto nella sua capitale, giovane, piena di vita e con lo sguardo rivolto al futuro. L’età media dei kosovari è infatti la più bassa, insieme alla Serbia, di tutta Europa. Epicentro storico e culturale dei Balcani, Pristina aspetta solo di essere scoperta.
-
-La moschea Memeth Faith
-
-storia più antica, invece, ha lasciato tracce bellissime nei monumenti, nelle chiese e nel melting pot culturale che oggi si respira per le vie della città vecchia (Vëllusha), affascinante e coinvolgente. In questo dedalo di stradine tortuose a ogni angolo si incontrano vecchi hammam (tradizionali bagni turchi), mercati colorati con il loro caleidoscopio di merci, palazzi dell’epoca socialista jugoslava, la bella torre dell’Orologio (Sahat Kulla), antiche moschee ed edifici risalenti all’epoca degli Ottomani, che dominarono la città per quasi cinque secoli. Ne sono dei chiari esempi la meravigliosa moschea Memeth Faith, della seconda metà del Quattrocento, con le sue raffinate decorazioni interne ed esterne e la moschea Xhamia e Madhe, la più antica di Pristina, con i suoi motivi floreali e multicolori.
-I musei di Pristina
-Tra bar affollati da studenti e il brulicare di vita di una vera qasbah mediorientale qui si trovano due musei davvero interessanti per approfondire la cultura e la storia del Kosovo. Il museo Etnografico “Emin Gjjiku”, sito nelle stanze di una vecchia casa ottomana dell’Ottocento, permette di scoprire com’era la vita a Pristina durante i lunghi secoli di dominazione turca attraverso una ricca collezione di oggetti di uso quotidiano, gioielli, armi e splendidi abiti tradizionali. Il museo Nazionale del Kosovo invece, ospitato in un inconfondibile edificio color ocra di fine Ottocento, espone numerosi reperti archeologici rinvenuti nei dintorni di Pristina, tra i quali merita attenzione la Dea, una statuetta in terracotta che sembra risalire a 6 mila anni fa.
-Il bulevardi Nënë Tereza e il Newborn
-Appena riemersi dall’incanto della città vecchia, non resta che scoprire l’anima più recente di Pristina, rappresentata dallo scenografico boulevard di Madre Teresa, un ampio viale pedonale pieno di ristoranti, pub e caffè alla moda. Il caffè è un vero e proprio stile di vita qui a Pristina. Prendetevi tempo per sedervi in un tavolino tranquillo per gustarvelo con calma, alla maniera kosovara, e osservare placidamente la vita che vi scorre intorno. Il viale è introdotto da un’immensa piazza dove si affacciano alcuni edifici del governo e dell’Unione Europea, sulla quale si erge il monumento equestre a Giorgio Castriota detto Skanderbeg (1405-1468), condottiero ed eroe nazionale albanese, e si sviluppa verso sud ovest. A pochi passi da qui, in una zona di locali alla moda, il giorno dell’indipendenza è stata installata una moderna scultura composta dalle lettere della parola “Newborn”, ben presto divenuto simbolo della città e dell’intero Kosovo. Ogni anno la veste della scultura viene rinnovata, rappresentando di volta in volta temi differenti. Se dopo esservi scattati qualche selfie davanti al Newborn vi viene appetito non perdete la Menza Ramiz Saliu, una vecchia mensa operaia del periodo socialista jugoslavo che oggi è diventato un ristorante, location di eventi e punto di ritrovo per i giovani kosovari.
-La biblioteca Nazionale e la Cattedrale di Madre Teresa
-
-Proseguendo lungo il grande viale, sulla sinistra si apre il grande parco che ospita la chiesa serbo-ortodossa di Cristo il Salvatore, voluta da Milošević, destinata a diventare la chiesa più grande del Paese ma mai portata a termine in seguito alla guerra del Kosovo. Il suo destino suscita molte polemiche, dividendo i kosovari tra chi la vorrebbe distruggere, chi ultimare e chi trasformare in qualcosa di diverso. Quello che però colpisce lo sguardo in questo ampio spazio verde è il bizzarro edificio, risalente agli anni Ottanta del Novecento, della biblioteca Nazionale del Kosovo “Pjetër Bogdani”. Un perfetto esempio di architettura socialista, anche detta brutalista, che è davvero difficile non notare: squadrati poligoni sovrapposti con facciate ricoperte di rete metallica e 99 cupole in vetro, alcune grandi altre più piccole, che ricoprono il piatto profilo dell’edificio.
-Al suo interno trovano dimora preziosi libri sulla storia del Kosovo, sale lettura, mostre temporanee e concerti musicali. Se ritenete che l’epoca socialista jugoslava è degna del vostro interesse, a Pristina numerosi edifici di quel periodo storico sono stati rimessi a nuovo e adibiti a interessanti luoghi di culturali. Ne è un esempio il Kino Armata, un vecchio centro cinematografico multisala dell’epoca di Tito oggi riaperto al pubblico dopo trent’anni. Al termine del viale, la passeggiata si conclude con l’imponente cattedrale di Pristina, consacrata quasi tre anni fa e progettata dall’architetto italiano Livio Sterlicchio, intitolata proprio a Madre Teresa (1910-1997), la suora premio Nobel per la Pace nel 1979 nata nella città macedone di Skopje da una famiglia di origine kosovara. Da non perdere l’eccezionale vista panoramica sul profilo in evoluzione di Pristina dal campanile della chiesa.
-
-I luoghi di interesse di Pristina sono davvero tanti ma quelli che bisogna visitare obbligatoriamente sono la Cattedrale di Santa Madre Teresa che è la più grande della Penisola Balcanica, il Newborn ovvero il Monumento ai Neonati che rappresenta il simbolo indiscusso dell’indipendenza del Paese, il Monastero di Gracanica che custodisce pregevoli affreschi risalenti al XIV secolo e fa parte della lista dei Patrimoni dell’Umanità dell’UNESCO e la celebre Biblioteca Nazionale che è composta da ben 99 cupole in vetro bianco, l’una diversa dall’altra per dimensioni.
-Dopo aver ammirato del straordinarie bellezze del Monastero di Gracanica spostatevi di soli 2 km e dirigetevi verso la Città Romana di Ulpiana che è stata fondata durante il II secolo d.C.
+I punti di interesse sono tanti, ma fortunatamente tutti vicini fra loro.
+A noi hanno colpito maggiormente:
+- le vie della città vecchia (Vëllusha), stradine tortuose che nascondono vecchi hammam, piccoli mercati, palazzi dell’epoca socialista jugoslava, la torre dell’Orologio (Sahat Kulla), antiche moschee ed edifici risalenti all’epoca degli Ottomani
+- la moschea Memeth Faith, della seconda metà del Quattrocento
+- la moschea Xhamia e Madhe, la più antica di Pristina
+- il buolevard di Nënë Tereza, intitolato a Madre Teresa, un ampio viale pedonale pieno di ristoranti, pub e caffè alla moda
+- il Newborn, una moderna scultura composta dalle lettere “Newborn”, simbolo della città e dell’intero Kosovo. Ogni anno questa scultura viene rinnovata per rappresentare varie tematiche. 
+- la biblioteca Nazionale “Pjetër Bogdani”, un esempio di architettura socialista, detta brutalista, caratterizzata da alcuni poligoni ricoperti da una rete metallica e 99 cupole in vetro di varie dimensioni che ricoprono il tetto dell’edificio.
+Merita uno sguardo anche al suo interno, dove si trovano alcune sale davvero particolari.
+- la Cattedrale di Madre Teresa, la più grande della Penisola Balcanica, progettata dall’architetto italiano Livio Sterlicchio, con interni immacolati che creano giochi di luce meravigliosi. 
 
 ###### Grotte di Gadime: che spettacolo della natura
+
+Non potevamo non concludere la visita del paese con un altro luogo scoperto per caso, cercando un punto dove sostare a metà strada.
+Le Grotte di Gadime, scoperte per caso nel 1969 da un contadino del luogo, permettono alla modica cifra di 2€, di ammirare stalattiti e stalagmiti davvero particolari in un cunicolo di grotte lungo un paio di chilometri. 
+La visita dura circa mezz'ora e nel nostro caso un ragazzo gentilissimo anche se non parlava inglese ha provato a spiegarsi al meglio per farci ammirare alcune figure create dalle rocce. 
 
 {{< youtube 7F-d2nCwfwU >}}
 
 ###### Itinerario
 
+Come vi scrivevamo nella sezione precedente, le mete che vi abbiamo elencato sono in ordine di visita entrando dal Montenegro e uscendo verso la Macedonia. Se doveste visitare il paese arrivando direttamente a Pristina potreste valutare anche questo itinerario: 
+
 **{{< underline "Giorno 1-2" >}}**: Arrivo a Pristina e visita della città
 
-**{{< underline "Giorno 3" >}}**: Marble Cave a Gadime, il monastero di Gracanica
+**{{< underline "Giorno 3" >}}**: Marble Cave a Gadime, il monastero di Gracanica, Bear Sanctuary
 
-**{{< underline "Giorno 4" >}}**: Bear Sanctuary
+**{{< underline "Giorno 4" >}}**: Prizren
 
-**{{< underline "Giorno 5" >}}**: Pristren
+**{{< underline "Giorno 5" >}}**: Gjakova e le cascate di Mirusha 
 
-**{{< underline "Giorno 6" >}}**: Djakovica e cascate di Mirusha 
-
-**{{< underline "Giorno 7" >}}**: Monastero di Decan, Peje e il santuario
+**{{< underline "Giorno 6" >}}**: Monastero di Decan, Peje e il santuario patriarcale
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862720/Articoli/francia/playa-tramonto_ytl2rb.jpg" >}}
 
 ##### Tour culinario
+In questo viaggio alla scoperta del Kosovo non potevamo non assaggiare alcuni piatti e prodotti tipici del paese. Purtroppo molte ricette prevedono l'utilizzo della carne che noi non mangiamo, per cui abbiamo ristretto un po' il cerchio rimanendo però piacevolmente stupiti. 
 
 ###### Formaggio Rugova
+E' un formaggio che ricorda sia nella forma che nella consistenza e nel gusto la molto più rinomata feta.
+Viene prodotto a nord del paese, nella Rugova valley, e si trova sia nei ristoranti che nella grande distribuzione. 
 
 ###### La birra Peje
+Questa birra, nata nel 1968, è un simbolo del paese e dal 1971 viene prodotta direttamente a Peja città.
 
 ###### Treleche
+Uno dei dolci tipici del Kosovo e di tutti i Balcani, noto anche come tre latti, è un dolce dalla consistenza morbida ricoperto di caramello. Lo trovate nelle pasticcerie ma anche in alcune bancarelle di streetfood. 
 
-###### Leken
+###### Lecenik
+Il leçenik è una specie di pane morbido all'interno preparato con farina di mais che garantisce una crosta croccante. Spesso viene impastato con il kos (una sorta di yogurt) oppure con spinaci, ortiche o cipolle.
 
 ###### Flija Cope
+E' un prodotto da forno caratterizzato dalla sovrapposizione di vari strati simili a crepe o pancake.
 
 ###### Pane di Mais
+Tipico pane dalla consistenza più solida preparato con farina di mais. Consigliamo di abbinarlo ai formaggi!
 
 ###### La pizza
- 
-La pizza si, hai letto bene! Nel nostro tour culinario in questo paese abbiamo voluto magiare una buona pizza! 
+La pizza sì, hai letto bene! Nel nostro tour culinario in questo paese abbiamo voluto magiare una buona pizza! Non è raro trovare pizzerie in Kosovo, nel nostro caso abbiamo scelto con cura assaggiando i buonissimi prodotti della pizzeria "La Napoletana".
 
 ##### Strade 
 
-Le strade sul territorio sono in buono stato e non abbiamo trovato grosse difficoltà nel muoverci attraverso il paese, anche prendendo strade secondarie. Sono presenti alcuni tratti di autostrada. Noi abbiamo percorso quella che va da Prizren a Pristina e quella che va da Pristina al confine con la Macedonia ed erano in ottimo stato. 
+Le strade sul territorio del Kosovo sono in buono stato e non abbiamo trovato grosse difficoltà nel muoverci attraverso il paese, anche percorrendo strade secondarie. 
+Sono presenti anche alcuni tratti di autostrada: noi abbiamo percorso quella che va da Prizren a Pristina e quella che va da Pristina al confine con la Macedonia ed erano in ottimo stato. 
 
 Nel momento in cui scriviamo sono totalmente gratuite ma non sappiamo ancora per quanto tempo. 
 
-Segnaliamo che il tratto di strada tra il border del Montenegro e il Kosovo, detto [no man's land](/blog/dogana-mauritania), è stupendo! Una strada fantastica 
+Segnaliamo che il tratto di strada tra il border del Montenegro e il Kosovo, detto [no man's land](/blog/dogana-mauritania), è stupendo! Una strada in ottimo stato immersa nella natura. 
 
 ##### Servizi e soste
 
-Noi non abbiamo avuto problemi per la sosta in libera
+Noi non abbiamo avuto alcun problema nè parcheggiandoci di giorno nè dormendo in libera tutte le notti.
+Segnaliamo che non si trovano aree soste gratuite attrezzate per carico e scarico e sono presenti pochissime fontane con acqua potabile, quindi valutate bene le vostre necessità. Si trovano comunque alcuni campeggi. 
 
 ##### Dogana
 
-Il Kosovo ha stretto degli accordi con l'Italia che permettono l'ingresso nel paese **esibendo semplicemente la propria carta d'identità**. Se si vuole entrare nel paese con il proprio mezzo bisogna stipulare un'assicurazione del mezzo alla frontiera in quanto in Kosovo non vale la carta verde.
+Il Kosovo ha stretto alcuni accordi con l'Italia che permettono l'ingresso nel paese **esibendo semplicemente la propria carta d'identità**. Se si vuole entrare nel paese con il proprio mezzo bisogna stipulare un'assicurazione del mezzo alla frontiera in quanto in Kosovo non vale la carta verde.
 
-I costi variano in base al mezzo e crediamo anche alla fortuna:
+I costi variano in base al mezzo e secondo noi anche un po' all'assicuratore che trovate in loco:
 - moto e auto: 15 euro
 - camion fino a 1t: 77 euro
 - camion oltre 1t: 138 euro
 
-Quando siamo arrivati alla frontiera l'assicuratore voleva farci pagare 138 euro credendo che il nostro fosse un camion. Dopo aver mostrato che è un autocaravan\camper abbiamo pagato solo 15 euro. Sappiamo invece di altri camperisti che entrando da altre frontiere hanno pagato 77 euro 
+Quando siamo arrivati alla frontiera l'assicuratore voleva farci pagare 138 euro credendo che il nostro mezzo fosse un camion. Dopo aver mostrato che è un autocaravan/camper grazie alla dicitura sul libretto abbiamo pagato 15 euro. 
+Sappiamo però che altri camperisti entrando da altre frontiere hanno pagato 77 euro. 
 
-Noi siamo entrati dall'unica frontiera aperta fra Montenegro e Kosovo e usciti dalla frontiera Macedone e in nessuna delle due frontiere abbiamo avuto problemi, anzi. Per la prima volta abbiamo trovato dei doganieri simpatici e felici di verderci!
+Noi siamo entrati dall'unica frontiera aperta fra Montenegro e Kosovo e usciti verso la frontiera Macedone e in nessuna delle due abbiamo avuto problemi, anzi. Per la prima volta abbiamo trovato dei doganieri simpatici e felici di incontrarci!
 
 ##### Viaggiare con il proprio animale
 {{< animali "EU">}}
 
 ##### Considerazioni e tappe imperdibili
-Non conoscevamo l'Andalusia e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
+Mai avremmo immaginato di raggiungere e visitare il Kosovo a bordo del nostro van, ma fortunatamente la voglia di scoprire il mondo con i nostri occhi chi ha aiutati a percorrere i chilometri mettendo da parte luoghi comuni, pregiudizi e paure inutili.
+Il paese è sicuro, prestenta strade in ottimo stato, la popolazione parla quasi tutta inglese ed è volenterosa di approcciare con i turisti.
 
-In camper o auto, le mete imperdibili secondo noi sono:
--   **{{< bold "Siviglia" >}}**: è una città splendida, che cattura l'attenzione in ogni angolo. 
--   **{{< bold "Vejer de la Frontera" >}}**: tutti i paesini bianchi in questa zona della costa sono deliziosi, Vejer forse per la sua posizione a noi è piaciuto di più.
--   **{{< bold "Caminito del Rey " >}}**: se sogni brivido e avventura è la meta giusta.
--   **{{< bold "Granada" >}}**: se ami la storia e l'architettura Granada non deluderà le tue aspettative.
--   **{{< bold "Granada" >}}**: è davvero un borgo piacevole, in cui respirare aria di autenticità.
--   **{{< bold "Granada" >}}**: noi ci siamo letteralmente persi nelle viuzze, ammirandone ogni angolo nascosto. 
+Stai pensando anche solo ad un weekend nella capitale? 2-3 giorni saranno sufficienti per visitarla, ma non perderti assolutamente:
+-   **{{< bold "il monastero di Gracanica" >}}**
+-   **{{< bold "il santuario degli orsi" >}}**
+
+Tra l'altro lo sai che in Kosovo vige l'euro come moneta locale? Non dovrai impazzire a cambiare i soldi da nessuna parte e anche fare la spesa potrebbe essere molto divertente, oltre che decisamente economico. 
+
+{{< assicurazione >}}
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1683223926/setenil-de-la-botegas_r5k4zo.jpg" >}}
 
