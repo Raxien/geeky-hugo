@@ -2,48 +2,57 @@
 title: 'Montenegro in camper: itinerario di 7 giorni'
 description: "Itinerario di viaggio alla scoperta del Montenegro, tra divieti di campeggio sulla costa e luoghi naturali meravigliosi"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
-date: 2023-09-23T08:00:00.000
-categories: ["Blog"]
+date: 2023-12-09T08:00:00.000
+categories: ["Europa", "Itinerari", "Balcani", "Camper"]
+country: Montenegro
 type: featured
 draft: true
 ---
-
+<!-- mettere qualcosa di più invogliante -->
 Dopo aver visitato a bordo del nostro van la [Bosnia ed Erzegovina](/blog/), il tour dei Balcani prevedeva l'ingresso in Montenegro, paese su cui avevamo grandi aspettative vuoi per racconti e immagini altrui vuoi per il fascino di attraversare luoghi mai raggiunti prima.
 
-Partiamo subito con le *informazioni utili* per entrare nel paese via terra.
+<!-- spostare magari sotto dopo l'itinerario -->
+##### Cosa serve 
+Partiamo subito con le informazioni utili **per entrare nel paese via terra e per visitare il Montenegro**.
 
-**Dogana**: noi abbiamo attraversato una dogana davvero semplice, quella posta a metà strada sulla sommità di un passo di montagna, tra Trebigne e Castelnuovo. Tempo impiegato: 4 minuti, giusti giusti per esibire semplicemente la carta d'identità e il libretto del van. 
+###### Dogana
+Arrivando dalla [Bosnia ed Erzegovina](/blog/bosnia-e-erzegovina-in-camper) abbiamo attraversato la dogana di Sitnica, davvero semplice, quella posta a metà strada sulla sommità di un passo di montagna, tra Trebigne e Castelnuovo. Tempo impiegato (in bassa stagione): 4 minuti, giusti giusti per esibire semplicemente la carta d'identità e il libretto del van.
 
-**Assicurazione del mezzo**: nel nostro caso era compresa nella carta verde.
+###### Assicurazione del mezzo
+I veicoli immatricolati in Italia possono entrare e circolare senza carta verde poiché la polizza di assicurazione comprende l’estensione della garanzia in Montenegro.
 
-**Assicurazione sanitaria**: ci siamo affidati come sempre a {{< extLink "**Genki**" "http://linkesterno.it" >}}. 
+###### Assicurazione sanitaria
+Come sempre noi ci siamo affidati a **{{< extLink "Genki" "https://genki.world/?with=vandipety" >}}** per la nostra asssicurazione che ha coperto tutto il nostro viaggio nei [Balcani](/categories/balcani/).
 
-**Moneta locale**: euro (e i prezzi non sono molto economici).
+###### Moneta locale
+Nessun problema dato che la moneta locale è l'Euro e ovunque viene accettata la carta di credito.
 
-**Lingua parlata**: serbo-croato. Pochi parlano in inglese, ma solitamente provano ad aiutare i turisti.
+###### Lingua parlata
+In Montenegro si parla il Serbo-croato. Pochi parlano in inglese ma solitamente provano ad aiutare i turisti. Usare Google Translate ([e queste altre app](/blog/camper-le-applicazioni-da-avere-per-viaggiare)) aiuta molto.
 
-**Internet**: ci sono varie offerte locali, noi abbiamo acquistato una sim di m-one che ci ha garantito 400 giga e chiamate in paese per 7 giorni a 10 euro
+###### Internet
+Ci sono varie offerte locali che permettono di avere molti giga per 7, 15 o 30 giorni. Noi abbiamo acquistato una sim dell'operatore M-Tel che ci ha garantito 400 giga, 500 minuti e 500 sms per 7 giorni a 10 euro. Attenzione a disattivare il roaming perché non funziona.
 
-**Strade**: noi abbiamo sempre guidato lungo le strade statali. Ce ne sono 4 cosiddette panoramiche e ognuna di esse ha ulteriori diramazioni. Alcuni tratti, come la Kotor Serpentine (ne parliamo più avanti), sono davvero molto suggestivi, ma essendo strade spesso strette e con curve a gomito o pendenze abbastanza rigide occorre sempre guidare con molta prudenza. L'unico tratto che abbiamo pagato è stato il tunnel per raggiungere il lago di Scutari (5 euro). 
+###### Strade
+In Montenegro ci sono 4 strade **cosiddette panoramiche** che attraversano il paese in lungo e in largo e ognuna di esse ha ulteriori diramazioni. Alcuni tratti, come la Kotor Serpentine (ne parliamo più avanti), sono davvero molto suggestivi, ma essendo strade spesso strette e con curve a gomito o pendenze abbastanza rigide occorre sempre guidare con molta prudenza. L'unico tratto che abbiamo pagato è stato il tunnel per raggiungere il lago di Scutari (5 euro) dalla costa.
 
-**Tappe**: come sempre al fondo dei nostri articoli di trova la mappa con tutti i puntalini relativi ai luoghi di interesse e ai posti in libera dove siamo riusciti a dormire, tenendo conto che abbiamo pernottato con un mezzo 5.40 fuori stagione e non assicurando la validità dei luoghi per sempre. 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg" >}}
-
+{{< youtube nmMNKAGXFo4 >}}
+_Riflettiamo sul perché bisogna andare in Montenegro._
 
 ##### Itinerario di 7 giorni
-Il nostro itinerario si è svolto ad anello, partendo dalla costa al confine con la Bosnia ed Erzegovina, fino a condurci alla dogana dalla quale siamo entrati in Kosovo (a proposito, abbiamo amato questo paese, puoi scoprire tutto qui!).
+Il nostro itinerario si è svolto ad anello, partendo dalla costa al confine con la Bosnia ed Erzegovina, fino a condurci alla dogana **dalla quale siamo entrati in Kosovo** ([che abbiamo amato](/blog/viaggio-kosovo-in-camper-itinerari)).
 
-- **Giorno 1**: Ingresso nel paese e circumnavigazione di parte del fiordo fino a Kotor
+{{< underline "Giorno 1" >}}: Ingresso nel paese e circumnavigazione di parte del fiordo fino a Kotor.
 
-La nostra curiosità verso il paese si è trasformata ben presto in delusione. *Castelnuovo*, la prima tappa raggiunta, ci è apparsa come un cittadone grigio, un cumulo di cemento che ha rubato ogni centimetro disponibile al fazzoletto di costa presente.
-Complice l'aria irrespirabile e l'impossibilità di parcheggiare il van anche solo a bordo strada, abbiamo subito imboccato il percorso costiero. 
+<!-- troppo pesa -->
+La nostra curiosità verso il paese si è trasformata ben presto in delusione. ***Castelnuovo***, la prima tappa raggiunta, ci è apparsa come un cittadone grigio, un cumulo di cemento che ha rubato ogni centimetro disponibile al fazzoletto di costa presente.
+Complice l'aria irrespirabile e l'impossibilità di parcheggiare il van anche solo a bordo strada, abbiamo subito imboccato il percorso costiero percorrendo tutto il fiordo.
 Anche qui purtroppo l'emozione ha fatto a pugni con la delusione: se ogni tanto alcuni scorci naturali sono davvero pittoreschi, quando si raggiungono le cittadine verrebbe voglia di chiudere gli occhi e accelerare per lasciarsele subito alle spalle. 
-Oltre ciò, numerosissimi sono i cartelli di divieto di sosta e campeggio, e complice l'impossibilità di fermarsi anche solo per scattare una fotografia, abbiamo deciso di guardare tutto dal finestrino e raggiungere direttamente Cattaro. 
+
+Oltre ciò sono **numerosissimi sono i cartelli di divieto di sosta e campeggio** e complice l'impossibilità di fermarsi anche solo per scattare una fotografia, abbiamo deciso di guardare tutto dal finestrino e raggiungere direttamente Cattaro. 
 Lungo il percorso merita uno sguardo **Perasto**, un piccolo borgo dal quale si può ammirare ed eventualmente raggiungere via battello l’Isola di San Giorgio e la più piccola isoletta dove si trova il Santuario della Madonna dello Scalpello, conosciuta anche come Nostra Signora delle Rocce.
 
-Una tappa che abbiamo deciso di non effettuare è stata quella a Tivat, dato che la città è rinomata per lo shopping di grandi marche. 
-
-- **Giorno 2**: Cattaro, "Kotor Serpentine", Cettigne e San Lorenzo 
+{{< underline "Giorno 2" >}}: Cattaro, "Kotor Serpentine", Cettigne e San Lorenzo 
 
 **Cattaro** è un borgo medievale inserito nei luoghi Patrimonio dell’Umanità UNESCO. Circondato da torri e mura fortificate, che conducono in cima al punto panoramico dove si trova il Castello di San Giovanni, si affaccia direttamente su quello che viene considerato il fiordo più a sud d'Europa. 
 
@@ -55,20 +64,18 @@ Gli scorci però, in prossimità di alcuni spiazzi più larghi, sono a dir poco 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg" >}}
 
-
 Dato il forte maltempo abbiamo deciso di non pagare il biglietto d'ingresso per il parco di Lovcen, dove volendo si può visitare il famoso Mausoleo Njegos, dato che non avremmo potuto godere delle meraviglie naturali del luogo immerso purtroppo nella nebbia. 
 
 Abbiamo così virato verso **Cettinje**, l’antica capitale del Montenegro, un piccolo borgo in cui si possono ammirare numerose vecchie abitazioni delle antiche ambasciate estere e un monastero ortodosso risalente al 1484.
 
-Da qui, dato che continuava a diluviare, abbiamo deciso di rispostarci lungo la costa parcheggiando nei pressi di Santo Stefano, percorrendo una strada in slaita che ci ha condotti però in luogo davvero panoramico. Peccato non aver potuto ammirare il tramonto da qui. 
+Da qui, dato che continuava a diluviare, abbiamo deciso di spostarci nuovamente lungo la costa parcheggiando nei pressi di Santo Stefano, percorrendo una strada in salita che ci ha condotti però in luogo davvero panoramico. Peccato non aver potuto ammirare il tramonto da qui. 
 
-- **Giorno 3**: Santo Stefano, Budva, lago di Scutari, Podgorica
+{{< underline "Giorno 3" >}}: Santo Stefano, Budva, lago di Scutari, Podgorica
 
-**Sveti Stefan** rappresenta un luogo da cartolina ed è caratterizzata da una piccola lingua di terra che collega la terraferma con un isolotto, oggi purtroppo proprietà privata dell'Aman Resort, una struttura impressionante con persiane bianche sempre tutte chiuse e un po' impressionanti. 
+**Sveti Stefan** rappresenta un luogo da cartolina ed è caratterizzata da una piccola lingua di terra che collega la terraferma con un isolotto, oggi purtroppo proprietà privata dell’Aman Resort, una struttura impressionante con persiane bianche sempre tutte chiuse e un po' impressionanti. 
 Si può comunque camminare lungo la costa da dove si possono ammirare molti scorci interessanti e volendo mettere mano al portafogli per usufruire dei servizi delle spiagge private. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg" >}}
-
 
 Da qui ci siamo spostati alla vicina **Budva**, il cui centro storico racchiuso fra le mura è un dedalo di viuzze con negozi di artigiani, di souvenir, ristoranti e pub. 
 Interessante è la statua della ballerina rivolta verso il suo amato pescatore che non tornerà dal mare. Si trova lungo la baia, fate solo molta attenzione alle onde che potrebbero impedirvi come è successo a noi di arrivarci vicino. 
@@ -76,27 +83,27 @@ Interessante è la statua della ballerina rivolta verso il suo amato pescatore c
 Da Budva abbiamo tagliato verso l'entroterra del paese in direzione del lago di Scutari, uno dei bacini pi grandi dei Balcani, conteso per meno della metà con l'Albania. 
 La strada per arrivarci può essere noiosa all'inizio mentre in prossimità del lago, dopo aver attraversato il tunnel a pagamento, ci si ritrova a guidare paralleli alla vecchia rotaia che conduceva i treni da Belgrado a Bar. 
 
-Dopo un breve pit stop lungo le sponde del lago, dato che iniziava a piovere ci siamo diretti per la notte nella capitale Podgorica, approfittando di un grande supermercato per fare la spesa e cercare una lavasciuga (Impresa ardua, dopo 5 negozi di solo lavaggio a secco siamo riusciti a trovarla!).
+Dopo un breve pit stop lungo le sponde del lago, dato che iniziava a piovere ci siamo diretti per la notte nella capitale Podgorica, approfittando di un grande supermercato per fare la spesa e cercare una lava e asciuga (Impresa ardua, dopo 5 negozi di solo lavaggio a secco siamo riusciti a trovarla!).
 
-**Giorno 4**: Podgorica, Monastero di Ostrog
+{{< underline "Giorno 4" >}}: Podgorica, Monastero di Ostrog
 
 **Podgorica** non è una capitale che offre molto da vedere. 
 Gli unici punti di interesse sono la Chiesa Ortodossa, i cui interni sono davvero degni di nota, la vecchia torre dell'orologio risalente al 1600, il ponte vecchio e il ponte Millennium Bridge.
 
 Dato il maltempo continuo abbiamo deciso di spostarci nel pomeriggio al cospetto del monastero di Ostrog, uno dei luoghi più famosi del Montenegro. 
 
-**Giorno 5**: Monastero di Ostrog, Zabljak
+{{< underline "Giorno 5" >}}: Monastero di Ostrog, Zabljak
 
 Incastonato in una parete rocciosa, il **Monastero di Ostrog** è il luogo di culto più visitato di tutto il Paese: ogni anno migliaia di pellegrini arrivano in automobile o pullman a rendere omaggio a San Basilio, le cui reliquie sono qui conservate e pare abbiano contribuito a numerosi miracoli. 
 
 La strada per arrivarci è decisamente stretta e in salita, oltre a essere percorsa da numerosi pullman e il parcheggio e l’ingresso al monastero sono gratuiti.
-Noi l'abbiamo visitato al mattino presto, dopo una notte quasi insonne perchè molte persone ubriache pensavano che fossimo un taxi e continuavano a bussare sulla portiera. L'atmosfera secondo noi è un po' rovinata dalle numerose macchinette che dispensano bevande e cibo monoporzione, con il risultato che il piazzale si trasforma più in un luogo da pic-nic che di culto. 
+Noi l'abbiamo visitato al mattino presto, dopo una notte quasi insonne perché molte persone ubriache pensavano che fossimo un taxi e continuavano a bussare sulla portiera. L'atmosfera secondo noi è un po' rovinata dalle numerose macchinette che dispensano bevande e cibo mono porzione, con il risultato che il piazzale si trasforma più in un luogo da picnic che di culto. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg" >}}
 
 Avendolo visitato in poco tempo abbiamo deciso di spostarci verso Zabljak, borgo di montagna che da accesso al Parco Nazionale del Durmitor, percorrendo un tratto di strada davvero meraviglioso. 
 
-**Giorno 6**: Parco nazionale del Durmitor e Ponte Tara
+{{< underline "Giorno 6" >}}: Parco nazionale del Durmitor e Ponte Tara
 
 Il Parco Nazionale del Durmitor è un luogo davvero mozzafiato, che vi consigliamo davvero di visitare nel vostro viaggio in Montenegro. 
 Il ticket per accedervi è di 2 euro per il parcheggio e di 5 euro a testa per il giornaliero, mentre se prevedete di rimanere più giorni (noi non abbiamo potuto dato il maltempo che si prestava ad arrivare e che avrebbe reso difficili le nostre escursioni con il van e gli animali) conviene acquistare il ticket cumulativo che si trova anche online. 
@@ -110,17 +117,19 @@ Il ponte è stato abbattuto dagli stessi costruttori durante la Seconda Guerra M
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg" >}}
 
-
-**Giorno 7**: Mojkovac e uscita dal paese 
+{{< underline "Giorno 7" >}}: Mojkovac e uscita dal paese 
 
 Il paese di **Mojkovac** ci è oggi noto solo grazie al fatto che l'abbiamo sfruttato come tappa a metà strada per raggiungere la frontiera dalla quale siamo entrati in Kosovo. 
-Degni di nota sono solo il monumento ai caduti, la chiesa ortodossa e un vecchio hotel dal'architettura niente male. 
-Di questa zona del paese ricorderemo però le strade, alcune fra le più belle e panoramiche che abbiamo mai parcorso. 
+Degni di nota sono solo il monumento ai caduti, la chiesa ortodossa e un vecchio hotel dall’architettura niente male. 
+Di questa zona del paese ricorderemo però le strade, alcune fra le più belle e panoramiche che abbiamo mai percorso. 
 
  {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg" >}}
 
 
 Speriamo che questo itinerario vi sia stato di aiuto e di ispirazione e se avete curiosità o domande vi aspettiamo nei commenti!
 Per tutti gli altri itinerari relativi ai Balcani vi rimandiamo alla sezione apposita, mentre se volete rivivere le nostre avventure un po' dal vivo sul canale Youtube trovate i video dedicati al Montenegro. 
+
+**Tappe**: come sempre al fondo dei nostri articoli di trova la mappa con tutti i puntalini relativi ai luoghi di interesse e ai posti in libera dove siamo riusciti a dormire, tenendo conto che abbiamo pernottato con un mezzo 5.40 fuori stagione e non assicurando la validità dei luoghi per sempre. 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg" >}}
 
 {{< youtube RsTGZQ0ZxDI >}}
