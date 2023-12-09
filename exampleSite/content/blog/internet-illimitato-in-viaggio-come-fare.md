@@ -6,7 +6,7 @@ date: 2023-11-25T10:00:00+01:00
 categories: [ "Blog"]
 type: regular
 sponsored: true
-draft: false
+draft: true
 ---
 
 Al giorno d'oggi siamo abituati ad avere facilmente l'accesso a Internet, che ci sembra ancor più essenziale quando si viaggia per rimanere in contatto con amici e familiari, **condividere esperienze sui social**, ottenere informazioni su luoghi da visitare e molto altro. Se stai pianificando **un viaggio all'estero** e desideri rimanere connesso durante la tua avventura abbiamo preparato una guida pratica su come scegliere la miglior soluzione per avere Internet in viaggio e risparmiare!

@@ -3,7 +3,7 @@ title: 'Croazia in camper: un itinerario decisamente alternativo'
 description: "Scopri con noi l'entroterra croato fra borghi antichi, boschi, castelli e riserve etnografiche"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689874010/Articoli/Croazia/zagabria-cimitero-monumentale-okqqcg.jpg
 date: 2023-11-21T08:00:00.000
-categories: ["Europa", "Itinerario", "Camper"]
+categories: ["Europa", "Itinerari", "Balcani", "Camper"]
 country: Croazia
 type: featured
 draft: false

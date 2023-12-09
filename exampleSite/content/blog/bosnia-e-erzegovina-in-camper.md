@@ -3,7 +3,7 @@ title: 'Bosnia ed Erzegovina in camper: tour di 7 giorni'
 description: "Itinerario di viaggio alla scoperta della Bosnia ed Erzegovina, tra cascate, natura, villaggi persi nel tempo e città storiche."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689874010/Articoli/Bosnia/bosnia-in-camper_tnretz
 date: 2023-11-30T00:00:00.000
-categories: ["Europa", "Itinerario", "Camper"]
+categories: ["Europa", "Itinerari", "Balcani", "Camper"]
 country: Bosnia
 type: featured
 draft: false
