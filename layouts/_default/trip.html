@@ -83,20 +83,56 @@
     <h2 class="h4 mb-5 title-border">Paesi visitati in <label
         style="transform:scale(-1, 1); width:fit-content;">🚐</label></h2>
 
-  <div class="content">
-    {{ index $rawContentSections 1 | .RenderString }}
-  </div>
+    <div class="content">
+      {{ index $rawContentSections 1 | .RenderString }}
+    </div>
+
+    <div id="map" style="width: 100%; height: 1000px;">
+
+      <div id="legend" class="legend" style="display: none;">
+        <h4>Il viaggio</h4>       
+        <div><span id="legend-pin" style="background-color:red "></span>Dove siamo stati</div>
+
+      </div>
+    </div>
 
   </div>
 
-  <div id="map" style="width: 100%; height: 1000px;"></div>
   <style>
     .mapboxgl-popup {
       max-width: 400px;
       font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
     }
-  </style>
 
+    .legend {
+      background-color: #fff;
+      border-radius: 3px;
+      bottom: 30px;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+      font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+      padding: 10px;
+      position: absolute;
+      right: 10px;
+      z-index: 1;
+    }
+
+    .legend h4 {
+      margin: 0 0 10px;
+    }
+
+    .legend div span {
+      display: inline-block;
+      height: 5px;
+      margin-right: 5px;
+      width: 15px;
+    }
+
+    #legend-pin{
+      height: 10px;
+      width: 10px;
+      margin-right: 10px;
+    }
+  </style>
 
   <!-- <iframe src="https://snazzymaps.com/embed/414109" width="100%" height="600px" style="border:none;"></iframe> -->
 </section>
@@ -244,9 +280,8 @@
     })
 
 
-    var addRouteLayer = function (id, mapJson, color) {
+    var addRouteLayer = function (id, mapJson, color, title) {
 
-      console.log("load route " + id)
       var mapBoxCoordinates = mapJson.map(function (item) {
 
         var latlong = item[0].replace(' ', '').split(',').map(function (value) {
@@ -282,6 +317,8 @@
         }
       });
 
+      let legend = $("#legend")
+      legend.append('<div><span style="background-color: ' + color + ' "></span>' + title + '</div>')
     }
 
     map.on("load", function () {
@@ -290,14 +327,9 @@
         if (error) throw error;
 
         // route 1 - Road to Dakar
-        addRouteLayer('route1', mapJson.route[0], '#51a1a1');
-
+        addRouteLayer('route1', mapJson.route[0], '#51a1a1', 'Road to Dakar');
         // route 2 - Balkan tour
-        console.log(mapJson.route[1])
-        addRouteLayer('route2', mapJson.route[1], '#fcd45d');
-
-
-
+        addRouteLayer('route2', mapJson.route[1], '#fcd45d', 'Tour dei Balcani');
 
         map.addImage("custom-marker", image);
 
@@ -320,9 +352,12 @@
           }
         });
 
+
+        
+        const legend = document.getElementById('legend');
+        legend.style.display = 'block';
       });
     });
-
 
     // When a click event occurs on a feature in the places layer, open a popup at the
     // location of the feature, with description HTML from its properties.
