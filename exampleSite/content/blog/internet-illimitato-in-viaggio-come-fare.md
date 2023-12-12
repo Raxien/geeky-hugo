@@ -2,9 +2,9 @@
 title: "Internet all'estero: trucchi e consigli per rimanere sempre connessi"
 description: Scopri come avere internet sempre attivo all'estero e qualche trucco su come risparmiare GIGA
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689177365/Articoli/Blog/internet-ovunque-illimitato_fkf4ms.png
-date: 2023-12-13T00:00:00+01:00
+date: 2023-12-12T13:00:00+01:00
 categories: [ "Blog"]
-type: regular
+type: featured
 sponsored: true
 draft: false
 ---
