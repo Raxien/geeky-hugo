@@ -2,7 +2,7 @@
 
 # main menu
 [[main]]
-name = "Blog"
+name = "Home"
 url = ""
 weight = 1
 
@@ -12,29 +12,43 @@ weight = 1
 # weight = 2
 
 [[main]]
-name = "Diamo i numeri"
-url = "#"
+name = "Il viaggio"
+url = "trip/"
+weight = 2
+
+[[main]]
+name = "Le spese"
+url = "expanses/"
+weight = 2
+
+[[main]]
+name = "Il van"
+url = "van/"
 weight = 3
-hasChildren = true
 
-  [[main]]
-  parent = "Diamo i numeri"
-  name = "Il viaggio"
-  url = "trip/"
-  weight = 1
+# [[main]]
+# name = "Diamo i numeri"
+# url = "#"
+# weight = 3
+# hasChildren = true
 
-  [[main]]
-  parent = "Diamo i numeri"
-  name = "Le spese"
-  url = "expanses/"
-  weight = 2
+#   [[main]]
+#   parent = "Diamo i numeri"
+#   name = "Il viaggio"
+#   url = "trip/"
+#   weight = 1
 
-  [[main]]
-  parent = "Diamo i numeri"
-  name = "Il van"
-  url = "van/"
-  weight = 3
+#   [[main]]
+#   parent = "Diamo i numeri"
+#   name = "Le spese"
+#   url = "expanses/"
+#   weight = 2
 
+#   [[main]]
+#   parent = "Diamo i numeri"
+#   name = "Il van"
+#   url = "van/"
+#   weight = 3
 
 [[main]]
 name = "Libri"
@@ -42,38 +56,44 @@ url = "books/"
 weight = 4
 
 [[main]]
-name = "Chi Siamo"
-url = "about/"
-weight = 6
+name = "Il Record"
+url = "record/"
+weight = 5
 
 [[main]]
-name = "Parlano di noi"
-url = "press/"
-weight = 7
+name = "Chi siamo"
+url = "#"
+weight = 6
+hasChildren = true
 
-# [[main]]
-# name = "Pagine"
-# url = "#"
-# weight = 6
-# hasChildren = true
+  [[main]]
+  parent = "Chi siamo"
+  name = "Vandipety"
+  url = "about/"
+  weight = 1
 
-#   [[main]]
-#   parent = "Pagine"
-#   name = "Tags"
-#   url = "tags/"
-#   weight = 1
+  [[main]]
+  parent = "Chi siamo"
+  name = "Parlano di noi"
+  url = "press/"
+  weight = 2
 
-#   [[main]]
-#   parent = "Pagine"
-#   name = "Categorie"
-#   url = "categories/"
-#   weight = 2
-
+  [[main]]
+  parent = "Chi siamo"
+  name = "Contatti"
+  url = "contact/"
+  weight = 3
+  
 # footer menu
 [[footer]]
 name = "Home"
 url = "/"
 weight = 1
+
+[[footer]]
+name = "Chi siamo"
+url = "about/"
+weight = 2
 
 [[footer]]
 name = "Contatti"
