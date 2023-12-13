@@ -55,10 +55,10 @@ name = "Libri"
 url = "books/"
 weight = 4
 
-[[main]]
-name = "Il Record"
-url = "record/"
-weight = 5
+# [[main]]
+# name = "Il Record"
+# url = "record/"
+# weight = 5
 
 [[main]]
 name = "Chi siamo"
