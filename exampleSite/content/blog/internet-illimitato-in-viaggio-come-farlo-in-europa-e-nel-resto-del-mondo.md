@@ -78,7 +78,14 @@ Tariffa mensile: <input id="tariffa" type="number" /> € = GB in Roaming: <span
 {{< underline "Attenzione" >}}: il tuo soggiorno non dovrebbe, di norma superare, **i 3 mesi di permanenza**, altrimenti potresti **rischiare che tuo operatore recida il contratto.**
 
 ###### Voglio andare fuori dall'Europa!
-Spesso gli operatori italiani offrono dei pacchetti ad hoc per i paesi che si vogliono visitare. Questa può essere una soluzione veloce per avere qualche giga da utilizzate all'estero ma spesso non è la scelta più economica. In tal caso ti consigliamo di valutare la prima soluzione che consigliamo per i viaggi lunghi qui di seguito. 
+Spesso gli operatori italiani offrono dei pacchetti ad hoc per i paesi che si vogliono visitare. Questa può essere una soluzione veloce per avere qualche giga da utilizzate all'estero ma spesso non è la scelta più economica.
+
+Per esempio, guardando sui vari siti degli operatori nostrani è possibile trovare le seguenti offerte:
+- TIM che offre **2 Giga a 30 € o 4 Giga per 25 €** per gli USA, entrambe le offerte per 10 giorni.
+- Vodafone è un po' più economico per gli USA in quanto da **10 Giga per 24,99 €** mentre per gli altri paesi offre un pass giornaliero di **6 € che da tra i 100 e 500MB al giorno in base al paese**
+- Wind forse è il migliore per gli USA dato che da **10 Giga per una settimana per 10 €** mentre per l'estero da **1 o 2 GB per una settimana a 14,99 € o 5 GB per un mese a 29,99 €**
+
+Come dicevamo non sono soluzioni economiche e infatti **consigliamo di valutare la prima soluzione che consigliamo** per i viaggi lunghi qui di seguito. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1684677033/DSC02744_wp34o6.jpg" >}}
 _Pure qui, [in Marocco, nel nulla](/blog/5-spot-in-marocco.md), siamo riusciti ad avere connessione!_
