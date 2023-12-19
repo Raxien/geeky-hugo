@@ -173,6 +173,6 @@ Cliccando qui puoi vedere tutte le nostre avventure in Marocco:
 {{< youtube vgNL4cK-aJY >}}
 
 ##### Le nostre mappe
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ipZq4GlS3cmXzPHI37WSbMO2POBhJUY&ehbc=2E312F" >}}
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ECqhZ8xnaxMc-PBZKLGmML-epe56eek&ehbc=2E312F" >}}
 
 {{< blogFooter "MAR" "1" "0" >}}
