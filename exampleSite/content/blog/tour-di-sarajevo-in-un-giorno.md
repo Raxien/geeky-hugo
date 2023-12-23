@@ -3,7 +3,7 @@ title: 'Tour di Sarajevo in un giorno'
 description: "Itinerario alla scoperta di Sarajevo, la capitale della Bosnia ed Erzegovina, tra i segni della storia"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689874010/Articoli/Bosnia/sarajevo-piazza-centrale_clzpim.jpg
 date: 2023-11-30T00:00:00.000
-categories: ["Europa", "Itinerario"]
+categories: ["Europa", "Itinerari"]
 country: Bosnia
 type: featured
 draft: false
