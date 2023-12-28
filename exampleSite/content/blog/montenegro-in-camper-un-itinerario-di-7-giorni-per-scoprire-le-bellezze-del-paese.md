@@ -1,70 +1,41 @@
 ---
-title: 'Montenegro in camper: itinerario di 7 giorni'
+title: 'Montenegro in camper: un itinerario di 7 giorni per scoprire le bellezze del paese'
 description: "Itinerario di viaggio alla scoperta del Montenegro, tra spiagge affacciate sul fiordo e percorsi escursionistici in bellissimi parchi nazionali"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
-date: 2023-12-09T08:00:00.000
+date: 2023-12-17T08:00:00.000
 categories: ["Europa", "Itinerari", "Balcani", "Camper"]
 country: Montenegro
 type: featured
 draft: true
 ---
-Il Montenegro, piccolo paese incastonato nella regione dei Balcani, offre mete per ogni esigenze: dalle spiagge affacciate sul fiordo di Cattaro ai percorsi escursionistici che si diramano nei parchi nazionali, diventa un paese accattivante da visitare in ogni stagione.
-Noi abbiamo deciso di visitare il Montenegro in autunno a bordo del nostro van, sia per godere di un clima ancora mite (sarà stato davvero così clemente?) ma senza folla di turisti riversata nei paesini lungo la costa, sia per poter passeggiare nei boschi e sulle montagne immersi nei colori del foliage. 
-Così, dopo aver visitato la [Bosnia ed Erzegovina](/blog/)abbiamo attraversato la dogana via terra per entrare nel Montenegro, paese su cui avevamo grandi aspettative. 
 
+Il Montenegro, piccolo paese dei Balcani, è una destinazione perfetta per un viaggio in camper. Con le sue spiagge da sogno, i parchi nazionali ricchi di natura e le città storiche, il Montenegro offre qualcosa per tutti i gusti.
 
-##### Informazioni utili
-Partiamo subito con le informazioni utili **per entrare nel paese via terra e per visitare il Montenegro**.
+In questo articolo, vi proponiamo un itinerario di 7 giorni per scoprire le bellezze del paese, partendo da Kotor, la perla delle Bocche di Cattaro, arrivando al Durmitor, il paradiso per gli amanti della natura.
 
-###### Dogana
-Arrivando dalla [Bosnia ed Erzegovina](/blog/bosnia-e-erzegovina-in-camper) abbiamo attraversato la dogana di Sitnica: posto di blocco semplice e veloce, posto a metà strada sulla sommità di un passo di montagna, tra Trebigne e Castelnuovo. Tempo impiegato (in bassa stagione): 4 minuti, giusti giusti per esibire semplicemente la carta d'identità e il libretto del van.
-
-###### Assicurazione del mezzo
-I veicoli immatricolati in Italia possono entrare e circolare senza carta verde poiché la polizza di assicurazione comprende l’estensione della garanzia in Montenegro.
-
-###### Assicurazione sanitaria
-Come sempre noi ci siamo affidati a **{{< extLink "Genki" "https://genki.world/?with=vandipety" >}}** per la nostra assicurazione che ha coperto tutto il nostro viaggio nei [Balcani](/categories/balcani/).
-
-###### Moneta locale
-La moneta locale è l'Euro e ovunque viene accettata la carta di credito, quindi non abbiate timore di dover andare a cambiare soldi o prelevare e pagare commissioni. 
-
-###### Lingua parlata
-In Montenegro si parla il Serbo-croato. Pochi parlano in inglese ma solitamente tutti provano in qualche modo ad aiutare i turisti. 
-Se proprio hai timore di non riuscire in nessun modo a comunicare puoi scaricare Google Translate ([e queste altre app](/blog/camper-le-applicazioni-da-avere-per-viaggiare)) per evitare attimi di panico. 
-
-###### Internet
-Ci sono varie offerte di SIM locali che permettono di avere molti giga per 7, 15 o 30 giorni. Noi abbiamo acquistato una sim dell'operatore M-Tel che ci ha garantito 400 giga, 500 minuti e 500 sms per 7 giorni a 10 euro. 
-Ricordati di disattivare il roaming perché in questo paese il tuo piano italiano non funzionerebbe.
-
-###### Strade
-In Montenegro ci sono 4 strade **cosiddette panoramiche** che attraversano il paese in lungo e in largo e ognuna di esse ha ulteriori diramazioni. Alcuni tratti, come la Kotor Serpentine (ne parliamo più avanti) sono davvero molto suggestivi, ma essendo strade spesso strette e con curve a gomito o pendenze abbastanza rigide occorre sempre guidare con molta prudenza. 
-L'unico tratto che abbiamo percorso a pagamento è stato il tunnel per raggiungere il lago di Scutari (5 euro) dalla costa.
-
-{{< youtube nmMNKAGXFo4 >}}
-_Riflettiamo sul perché bisogna andare in Montenegro._
+Seguici in questo viaggio in camper alla scoperta del Montenegro!
 
 ##### Itinerario di 7 giorni
-Il nostro itinerario ci ha visti partire dalla costa al confine con la Bosnia ed Erzegovina, fino ad arrivare alla dogana **dalla quale siamo entrati in Kosovo** ([paese che abbiamo amato](/blog/viaggio-kosovo-in-camper-itinerari)).
 
-{{< underline "Giorno 1" >}}: Ingresso nel paese e circumnavigazione di una parte del fiordo fino a Kotor.
+Il nostro itinerario ci ha visti partire dalla costa al confine con la Bosnia ed Erzegovina, fino ad arrivare alla dogana **con il Kosovo** ([paese che abbiamo amato](/blog/viaggio-kosovo-in-camper-itinerari)).
 
-La prima tappa che abbiamo raggiunto è stata la cittadina di ***Castelnuovo***, che purtroppo non ci ha entusiasmati, complici i numerosi palazzoni grigi e il maltempo.
-Abbiamo quindi deciso di raggiungere direttamente Cattaro. 
-Lungo il percorso merita uno sguardo **Perasto**, un piccolo borgo dal quale si possono ammirare ed eventualmente raggiungere via battello l’Isola di San Giorgio e la vicina isoletta dove si trova il Santuario della Madonna dello Scalpello, conosciuta anche come Nostra Signora delle Rocce.
+{{< underline "Giorno 1" >}}: le Bocche di Cattaro
 
-{{< underline "Giorno 2" >}}: Cattaro, "Kotor Serpentine", Cettigne e San Lorenzo 
+Partendo dalla cittadina di ***Castelnuovo*** abbiamo deciso di circumnavigare le Bocche di Cattaro, un complesso di insenature in Montenegro, considerate il più grande fiordo del Mediterraneo, fino a raggiungere la città di **Cattaro (o Kotor)**
+Lungo il percorso merita uno sguardo **Perasto**, un piccolo borgo dal quale si possono ammirare ed eventualmente **raggiungere via battello l’Isola di San Giorgio e la vicina isoletta dove si trova il Santuario della Madonna dello Scalpello**, conosciuta anche come Nostra Signora delle Rocce.
 
-**Cattaro** è un borgo medievale inserito nei luoghi Patrimonio dell’Umanità UNESCO. Circondato da torri e mura fortificate, che conducono in cima al punto panoramico dove si trova il Castello di San Giovanni, si affaccia direttamente su quello che viene considerato il fiordo più a sud d'Europa. 
+{{< underline "Giorno 2" >}}: Cattaro, la "Kotor Serpentine", Cettigne e San Lorenzo 
 
-Nel centro storico di Cattaro, una volta varcata la porta d'ingresso si possono ammirare la cattedrale, la chiesa ortodossa di San Luca, la torre dell’orologio e la passeggiata lungo le mura, dalle quali si può notare anche un via vai di navi da crociera.
+Cattaro è una città medievale, inserita nella lista dei Patrimoni dell'Umanità dell'UNESCO. La città è circondata da torri e mura fortificate che si estendono per circa 5 chilometri, fino al punto panoramico dove si trova il Castello di San Giovanni. Da qui si può ammirare **una vista mozzafiato sul fiordo di Cattaro**. Una una volta varcata la porta d'ingresso si possono ammirare la cattedrale, la chiesa ortodossa di San Luca, la torre dell’orologio e la passeggiata lungo le mura, dalle quali si può notare anche un via vai di navi da crociera, **oltre a un sacco di gattini**.
 
-Visitato il borgo di prima mattina, abbiamo deciso di avventurarci lungo la "**Kotor Serpentine**", una serie di 50 tornanti e 100 curve che porta direttamente in cima verso il **Parco Nazionale di Lovcen**. 
+Successivamente abbiao deciso di avventurarci lungo la **"Kotor Serpentine"**, un percorso panoramico che si snoda lungo le pendici delle montagne che circondano Cattaro. Una serie di 50 tornanti e 100 curve che porta direttamente in cima verso il **Parco Nazionale di Lovcen** che offrono viste spettacolari sul fiordo e sulla città.
+
 La strada è molto stretta e ripida, con curve cieche che possono essere pericolose, motivo per cui vi consigliamo di guidare con prudenza. 
 Gli scorci però, in prossimità di alcuni spiazzi più larghi, sono a dir poco meravigliosi e permettono di ammirare la baia a 360 gradi. 
+<!-- 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg" >}} -->
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg" >}}
-
-Per via del forte maltempo abbiamo deciso di non pagare il biglietto d'ingresso per il parco di Lovcen, dove volendo si può visitare il famoso Mausoleo Njegos, dato che non avremmo potuto godere delle meraviglie naturali del luogo immerso purtroppo nella nebbia. 
+Per via del forte maltempo abbiamo deciso di non visitare il parco di Lovcen, dove volendo si può visitare il famoso Mausoleo Njegos, dato che non avremmo potuto godere delle meraviglie naturali del luogo immerso purtroppo nella nebbia ma abbiamo **proseguito verso Cettigne, l'antica capitale del Montenegro.**
 
 Abbiamo così virato verso **Cettinje**, l’antica capitale del Montenegro, un piccolo borgo in cui si possono ammirare numerose vecchie abitazioni delle antiche ambasciate estere e un monastero ortodosso risalente al 1484.
 
@@ -77,7 +48,7 @@ Si può comunque camminare lungo la costa da dove si possono ammirare molti scor
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg" >}}
 
-Da qui ci siamo spostati alla vicina **Budva**, il cui centro storico racchiuso fra le mura è un dedalo di viuzze con negozi di artigiani, di souvenir, ristoranti e pub. 
+Da qui ci siamo spostati alla vicina **Budva**, la perla della costa montenegrina, il cui centro storico racchiuso fra le mura è un dedalo di viuzze con negozi di artigiani, di souvenir, ristoranti e pub. 
 Interessante è la statua della ballerina rivolta verso il suo amato pescatore che non tornerà dal mare. Si trova lungo la baia, fate solo molta attenzione alle onde che potrebbero impedirvi come è successo a noi di arrivarci vicino. 
 
 Da Budva abbiamo tagliato verso l'entroterra del paese in direzione del lago di Scutari, uno dei bacini pi grandi dei Balcani, conteso per meno della metà con l'Albania. 
@@ -128,6 +99,42 @@ Di questa zona del paese ricorderemo però le strade, alcune fra le più belle e
 
 Speriamo che questo itinerario vi sia stato di aiuto e di ispirazione e se avete curiosità o domande vi aspettiamo nei commenti!
 Per tutti gli altri itinerari relativi ai Balcani vi rimandiamo alla sezione apposita, mentre se volete rivivere le nostre avventure un po' dal vivo sul canale Youtube trovate i video dedicati al Montenegro. 
+
+##### Informazioni utili
+
+Il Montenegro, piccolo paese incastonato nella regione dei Balcani, offre mete per ogni esigenze: dalle spiagge affacciate sul fiordo di Cattaro ai percorsi escursionistici che si diramano nei parchi nazionali, diventa un paese accattivante da visitare in ogni stagione.
+Noi abbiamo deciso di visitare il Montenegro in autunno a bordo del nostro van, sia per godere di un clima ancora mite (sarà stato davvero così clemente?) ma senza folla di turisti riversata nei paesini lungo la costa, sia per poter passeggiare nei boschi e sulle montagne immersi nei colori del foliage. 
+Così, dopo aver visitato la [Bosnia ed Erzegovina](/blog/)abbiamo attraversato la dogana via terra per entrare nel Montenegro, paese su cui avevamo grandi aspettative. 
+
+Partiamo subito con le informazioni utili **per entrare nel paese via terra e per visitare il Montenegro**.
+
+###### Dogana
+Arrivando dalla [Bosnia ed Erzegovina](/blog/bosnia-e-erzegovina-in-camper) abbiamo attraversato la dogana di Sitnica: posto di blocco semplice e veloce, posto a metà strada sulla sommità di un passo di montagna, tra Trebigne e Castelnuovo. Tempo impiegato (in bassa stagione): 4 minuti, giusti giusti per esibire semplicemente la carta d'identità e il libretto del van.
+
+###### Assicurazione del mezzo
+I veicoli immatricolati in Italia possono entrare e circolare senza carta verde poiché la polizza di assicurazione comprende l’estensione della garanzia in Montenegro.
+
+###### Assicurazione sanitaria
+Come sempre noi ci siamo affidati a **{{< extLink "Genki" "https://genki.world/?with=vandipety" >}}** per la nostra assicurazione che ha coperto tutto il nostro viaggio nei [Balcani](/categories/balcani/).
+
+###### Moneta locale
+La moneta locale è l'Euro e ovunque viene accettata la carta di credito, quindi non abbiate timore di dover andare a cambiare soldi o prelevare e pagare commissioni. 
+
+###### Lingua parlata
+In Montenegro si parla il Serbo-croato. Pochi parlano in inglese ma solitamente tutti provano in qualche modo ad aiutare i turisti. 
+Se proprio hai timore di non riuscire in nessun modo a comunicare puoi scaricare Google Translate ([e queste altre app](/blog/camper-le-applicazioni-da-avere-per-viaggiare)) per evitare attimi di panico. 
+
+###### Internet
+Ci sono varie offerte di SIM locali che permettono di avere molti giga per 7, 15 o 30 giorni. Noi abbiamo acquistato una sim dell'operatore M-Tel che ci ha garantito 400 giga, 500 minuti e 500 sms per 7 giorni a 10 euro. 
+Ricordati di disattivare il roaming perché in questo paese il tuo piano italiano non funzionerebbe.
+
+###### Strade
+In Montenegro ci sono 4 strade **cosiddette panoramiche** che attraversano il paese in lungo e in largo e ognuna di esse ha ulteriori diramazioni. Alcuni tratti, come la Kotor Serpentine (ne parliamo più avanti) sono davvero molto suggestivi, ma essendo strade spesso strette e con curve a gomito o pendenze abbastanza rigide occorre sempre guidare con molta prudenza. 
+L'unico tratto che abbiamo percorso a pagamento è stato il tunnel per raggiungere il lago di Scutari (5 euro) dalla costa.
+
+{{< youtube nmMNKAGXFo4 >}}
+_Riflettiamo sul perché bisogna andare in Montenegro._
+
 
 **Tappe**: come sempre al fondo dei nostri articoli di trova la mappa con tutti i puntalini relativi ai luoghi di interesse e ai posti in libera dove siamo riusciti a dormire, tenendo conto che abbiamo pernottato con un mezzo 5.40 fuori stagione e non assicurando la validità dei luoghi per sempre. 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg" >}}
