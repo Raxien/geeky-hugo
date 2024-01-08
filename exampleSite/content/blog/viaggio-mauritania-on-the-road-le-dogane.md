@@ -1,6 +1,6 @@
 ---
 title: 'Mauritania in camper: informazioni utili e dogana'
-description: "Vuoi attraversare la Mauritania in camper? Scopri tutte le info qui"
+description: "Ecco tutte le informazioni utili per entrare in Mauritania in camper, compresi i documenti necessari e il passavant"
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681930891/Articoli/Copertine/Mauritania_Camper_ofxmtr.jpg"
 date: 2023-03-06T17:00:00.000
 categories: ["Africa", "Guida", "Dogana", "Camper"]
@@ -9,8 +9,9 @@ type: regular
 draft: false
 ---
 
-Entrare in Mauritania a bordo di un camper è possibile?
+Entrare in Mauritania a bordo di un camper è possibile? In quest'articolo, forniremo informazioni utili su come entrare in Mauritania in camper, compresi i documenti necessari e il passavant
 Sicuramente se leggete le disposizioni della {{< extLink "Farnesina" "https://www.viaggiaresicuri.it/find-country/country/MA" "Stay safe!!" >}} non è uno dei luoghi più consigliati da visitare.
+
 Proprio per questo motivo e dato che noi abbiamo solo attraversato il paese per andare in Senegal (che puoi trovare [qui](/blog/guida-senegal-in-camper-itinerari-informazioni/)), non possiamo scrivere una guida dettagliata del posto.
 Vi riportiamo comunque tutte le informazioni relative alle pratiche doganali, ai costi e alla situazione delle strade. Vi lasciamo anche alcune escursioni che potete fare nel caso vogliate visitare più a fondo il paese.
 

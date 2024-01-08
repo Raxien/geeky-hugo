@@ -66,6 +66,10 @@ icon = "fab fa-facebook"
 link = "https://www.facebook.com/ilgattodicitturin"
 title = "Facebook"
 [[social]]
+icon = "fab fa-threads"
+link = "https://www.threads.net/@vandipety"
+title = "Threads"
+[[social]]
 icon = "fas fa-store"
 link = "https://www.amazon.it/shop/vandipety"
 title = "Negozio"
