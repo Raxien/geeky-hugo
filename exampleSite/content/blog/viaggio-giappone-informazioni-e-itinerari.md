@@ -11,9 +11,6 @@ draft: false
 
 Se stai cercando una destinazione che ti offra un'esperienza di viaggio unica, il Giappone è il posto giusto per te. Con una cultura millenaria, una cucina deliziosa e una perfetta armonia tra il passato e futuro, questo paese asiatico ha molto da offrire ai viaggiatori di ogni tipo. In questo articolo esploreremo le ragioni per cui dovresti visitare il Giappone e ti proporremo alcuni itinerari imperdibili per il tuo viaggio, nati dopo svariate visite nel paese.
 
-<div class="toc"><details><summary accesskey="c" title="(Alt + C)"><span class="details">Table of Contents</span></summary><div class="inner"><ul><li><a href="#local-environment" aria-label="Local environment">Local environment</a></li><li><a href="#cloudflare-pages" aria-label="Cloudflare Pages">Cloudflare Pages</a></li><li><a href="#references" aria-label="References">References</a></li></ul></div></details></div>
-<details><summary>
-
 > ##### Tabella dei contenuti
 > - [Il Paese](#il-paese) 
 > - [Clima e quando andare](#clima-e-quando-andare)
@@ -25,8 +22,6 @@ Se stai cercando una destinazione che ti offra un'esperienza di viaggio unica, i
 >     - [8 Giorni](#8-giorni) 
 >     - [14 Giorni](#14-giorni) 
 > - [Le nostre mappe](#le-nostre-mappe)
-
-</details></summary>
 
 ##### Il paese
 Il Giappone è una delle nazioni più affascinanti e influenti del mondo. La sua storia è ricca di tradizioni, con riti e cerimonie che risalgono a secoli fa. Il paese offre anche molte attrazioni moderne, come i grattacieli di Tokyo, le tecnologie avanzate, i parchi tematici e molto altro ancora. 
