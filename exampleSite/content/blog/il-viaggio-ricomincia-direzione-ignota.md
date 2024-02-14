@@ -19,7 +19,7 @@ In realtà **in un giorno**, fermi in un parcheggio in Francia, abbiamo riunito 
 
 Il resto è stato lacrime di gioia e commozione, in una cornice di sorrisi.
 
-Abbiamo condiviso qualche foto sul nostro profilo {{< extLink "Instagram" "https://www.instagram.com/vandipety/" >}}, ma presto uscirà un video pieno di emozioni sul {{< extLink "canale YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw" >}} per condividere e raccontarvi questo momento che porteremo nel cuore e che **ci ha resi davvero felici!**
+Abbiamo condiviso qualche foto sul nostro profilo {{< extLink "Instagram" "https://www.instagram.com/vandipety/" >}}, ma presto uscirà un video pieno di emozioni sul {{< extLink "canale YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}} per condividere e raccontarvi questo momento che porteremo nel cuore e che **ci ha resi davvero felici!**
 
 <script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript">
 </script>  

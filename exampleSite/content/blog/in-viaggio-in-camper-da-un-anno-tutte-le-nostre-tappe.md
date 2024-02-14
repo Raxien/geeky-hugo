@@ -33,4 +33,4 @@ Andiamo avanti con loro, grazie a loro.
 
 Ti lasciamo il {{< extLink "link" "https://findpenguins.com/0knsmwp4npafs/trip/6370d91fc6caf3-83958962" >}} della mappa. Cercheremo di aggiornarla il più possibile in tempo reale : )
 
-Se invece vuoi rivedere le nostre avventure in Europa e in Africa trovi tutto sul nostro **{{< extLink "canale YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw" >}}. 
+Se invece vuoi rivedere le nostre avventure in Europa e in Africa trovi tutto sul nostro **{{< extLink "canale YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}}. 

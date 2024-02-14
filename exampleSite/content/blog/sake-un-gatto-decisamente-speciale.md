@@ -24,4 +24,4 @@ Da lì a poco scoprimmo che anche con Olimpia le cose sarebbero andate bene, per
 ![Sakè un gatto modello](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1656068705/Articoli/sak%C3%A8_un_gatto_decisamente_speciale_1_3_qwtdkr.jpg)
 
 Sai che adesso viviamo a bordo di un van con lui e Olimpia? 
-Puoi seguire le nostre avventure sul nostro canale **{{< extLink "YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw" >}}**!
+Puoi seguire le nostre avventure sul nostro canale **{{< extLink "YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}}**!

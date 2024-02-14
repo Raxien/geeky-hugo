@@ -24,7 +24,7 @@ Da quel momento è iniziata una **corsa** continua per registrare e montare vide
 
 Oggi il nostro canale conta 3257 iscritti, 263 video e in 86 di questi **raccontiamo 410 giorni** della nostra vita tra avventure e disavventure in giro per l'Europa e l'Africa.
 
-**Quattrocentodieci giorni** della nostra vita sono nero su bianco (in realtà solo i bloopers il resto è a colori 😂) su {{< extLink "YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw" >}}. Visibili 24 ore su 24 ore da chiunque.
+**Quattrocentodieci giorni** della nostra vita sono nero su bianco (in realtà solo i bloopers il resto è a colori 😂) su {{< extLink "YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}}. Visibili 24 ore su 24 ore da chiunque.
 
 E' stato bello, è stato tosto. 
 

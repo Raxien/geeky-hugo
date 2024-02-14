@@ -14,7 +14,7 @@ e anche...
 
 > Pensavo che non avreste retto la vita in van, invece dopo un anno avete tutta la mia stima!
 
-Sono state due frasi che **ci sono state dette per davvero**, una da un (ex) collega, l’altra da una persona che non conosciamo direttamente ma che ci segue sul nostro {{< extLink "canale YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw" >}}. 
+Sono state due frasi che **ci sono state dette per davvero**, una da un (ex) collega, l’altra da una persona che non conosciamo direttamente ma che ci segue sul nostro {{< extLink "canale YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}}. 
 
 Le abbiamo apprezzate però, perché ci sono state rivolte senza sconti e hanno ottenuto risposta dai fatti prima ancora che potessimo darla noi con un sorriso. 
 

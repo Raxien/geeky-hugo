@@ -7,7 +7,7 @@ categories: ["Blog", "YouTube"]
 type: regular
 ---
 
-Quando siamo partiti abbiamo deciso di condividere le nostre avventure sui social ({{< extLink "Instagram" "https://www.instagram.com/vandipety/" >}}) e su questo sito, poi però avventura dopo avventura abbiamo deciso di aprire anche un canale **{{< extLink "YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw" >}}**.
+Quando siamo partiti abbiamo deciso di condividere le nostre avventure sui social ({{< extLink "Instagram" "https://www.instagram.com/vandipety/" >}}) e su questo sito, poi però avventura dopo avventura abbiamo deciso di aprire anche un canale **{{< extLink "YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}}**.
 Non avevamo mai scritto articoli, creato contenuti seriamente, usato applicazioni per creare video come {{< extLink "CapCut" "https://www.capcut.com/" >}} e {{< extLink "Final Cut Pro" "https://www.apple.com/it/final-cut-pro/" >}}, ma abbiamo sentito il bisogno di metterci in gioco seriamente e abbiamo iniziato a trascorrere un po' più di tempo sugli schermi dei nostri computer  (se vuoi sapere cosa usiamo **{{< extLink "clicca qui" "https://www.amazon.it/shop/vandipety/list/31033QFBO48S9?ref_=aip_sf_list_spv_ofs_mixed_d" >}}**).  
 
 La nostra vita si sta trasformando nel migliore dei libri che potessimo scrivere, nella migliore delle canzoni che potessimo comporre, nel miglior film che potessimo girare.
@@ -22,7 +22,7 @@ Abbiamo iniziato a registrare qualche scena giusto per divertimento e se rivedia
 Per registrare i nostri video usiamo una {{< extLink "GoPro" "https://amzn.to/3nQUIvA" >}} (**{{< extLink "e non solo" "https://www.amazon.it/shop/vandipety/list/31GS1X049YW8V?ref_=cm_sw_r_cp_ud_aipsflist_aipsfvandipety_3YAESWCM441JCCYPCVNS" >}}**), mentre per montarli il programma "Final Cut Pro". Facile?
 Dipende dai punti di vista. A noi sono serviti un po' di tutorial e tanta tanta voglia di studiare, oltre al fatto che ogni giorno impariamo qualcosa di nuovo ed è bello notare migliorie anche nei propri video. La strada è ancora lunga, lo sappiamo, e per questo per noi si fa stimolante. 
 
-Quindi se ogni tanto la sera non sai quale film guardare e ti va di stare in nostra compagnia, puoi aprire YouTube e andare sul **{{< extLink "canale Vandipety" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw" >}}**! Se vorrai lasciarci anche un mi piace e un commento il tuo parere è per noi davvero prezioso e ci aiuta a migliorare ogni giorno di più! ☺️
+Quindi se ogni tanto la sera non sai quale film guardare e ti va di stare in nostra compagnia, puoi aprire YouTube e andare sul **{{< extLink "canale Vandipety" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}}**! Se vorrai lasciarci anche un mi piace e un commento il tuo parere è per noi davvero prezioso e ci aiuta a migliorare ogni giorno di più! ☺️
 
 ##### Stagioni
 _**{{< extLink "Stagione 1" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ9QT9yAaaqtoXtGUh2iMEI5" >}}**_: Un cambio di vita radicale ci porta alla scoperta di paesaggi mozzafiato, città affascinanti e persone straordinarie nel nostro continente. Sali a bordo, la prima stagione inizia qui!
