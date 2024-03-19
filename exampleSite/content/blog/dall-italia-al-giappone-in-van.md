@@ -2,7 +2,7 @@
 title: 'Dall''Italia al Giappone in Van'
 description: 
 image: images/direzione-giappone.png
-date: 2024-03-19T7:00:00+01:00
+date: 2024-03-19T00:00:00+01:00
 categories: [ "Direzione Giappone", "Giappone", "Blog"]
 type: featured   
 draft: false
