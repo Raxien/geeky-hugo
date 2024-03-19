@@ -1,6 +1,6 @@
 ---
 title: "Internet illimitato in viaggio in Europa e nel mondo"
-description: Navigare in Internet all'estero senza limiti: scopri con noi come avere internet illimitato in Europa e nel resto del mondo.
+description: 'Navigare in Internet all''estero senza limiti: scopri con noi come avere internet illimitato in Europa e nel resto del mondo.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689177365/Articoli/Blog/internet-ovunque-illimitato_fkf4ms.png
 date: 2023-12-12T00:00:00+01:00
 categories: [ "Blog"]
