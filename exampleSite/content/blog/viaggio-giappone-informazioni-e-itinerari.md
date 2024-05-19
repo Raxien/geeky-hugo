@@ -3,7 +3,7 @@ title: 'Viaggio in Giappone: tutto ciò che devi sapere e i nostri itinerari'
 description: "Stai pensando di andare in Giappone? Fatti consigliare da noi!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1687279327/Articoli/Giappone/tori-in-acqua_gzscgp.jpg
 date: 2023-06-19T17:00:00.000
-categories: ["Asia", "Guida", "Itinerari"]
+categories: ["Asia", "Giappone", "Guida", "Itinerari"]
 country: Giappone
 type: featured
 draft: false
