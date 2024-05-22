@@ -21,6 +21,7 @@ Per usare le sim locali ci affidiamo ad un router portatile come **{{< extLink "
 Se volete scoprire come facciamo a spendere cosi poco per tutto questo viaggio vi rimandiamo [alla guida che abbiamo scritto in merito](/blog/abbiamo-pubblicato-un-libro).
 
 <!-- section break -->
+
 ##### Video
 
 _**{{< extLink "Quanto abbiamo speso dopo 6 mesi" "https://youtu.be/CYJHHkg3_3s" >}}**_: dopo 6 mesi in viaggio in Europa raccontiamo nel dettaglio le nostre spese.
