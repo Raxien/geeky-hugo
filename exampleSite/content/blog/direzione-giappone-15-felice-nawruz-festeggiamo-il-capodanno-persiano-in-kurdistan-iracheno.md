@@ -1,6 +1,6 @@
 ---
 title: 'Felice Nawruz! Festeggiamo il capodanno persiano in Kurdistan Iracheno'
-description: 'Vi portiamo alla scoperta della nazione che non esiste: il kurdistan Iracheno'
+description: 'Andiamo alla scoperta del Nawruz, il capodanno persiano in Kurdistan Iracheno! Poi visiteremo Arbil con la sua cittadella'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1713011125/Articoli/Direzione%20giappone/Direzione15/iraq-nawruz-fiaccolata-sotto-la-pioggia_lqdoig.jpg
 date: 2024-05-20T7:00:00+01:00
 categories: [ "Direzione Giappone", "Iraq"]

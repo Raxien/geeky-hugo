@@ -1,6 +1,6 @@
 ---
 title: 'Il Kurdistan Iracheno è pericoloso?'
-description: 'Vi portiamo alla scoperta della nazione che non esiste: il kurdistan Iracheno'
+description: 'Il popolo Iracheno è fra i più ospitali al mondo, scopriamolo insieme fra pranzi, matrimoni e feste!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1713011125/Articoli/Direzione%20giappone/Direzione16/iraq-yazidi-lalish-papa_eejcuo.jpg
 date: 2024-05-21T7:00:00+01:00
 categories: [ "Direzione Giappone", "Iraq"]
