@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q
 date: 2024-06-01T7:00:00+01:00
 categories: [ "Direzione Giappone", "Georgia"]
 type: featured  
-country: Turchia 
+country: Georgia 
 draft: false
 ---
 
