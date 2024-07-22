@@ -126,6 +126,16 @@ Inoltre abbiamo anche fatto dei lavori di manutenzione al motore (cambio olio e 
 
 {{< youtube Xw4n0CYZqeQ >}}
 
+**{{< underline "Settembre 2023" >}}**: AdBlue sei un lontano ricordo. Leggendo sui vari siti e confrontandoci con altri Overlander abbiamo deciso di disattivare il sistema in quanto potrebbe rompersi da un momento all'altro con tutti i problemi del caso. Visto il viaggio che ci aspetta abbiamo deciso di dormire sonni tranquilli.
+
+**Costo totale: 300 euro**
+
+**{{< underline "Maggio 2024" >}}**: il caldo ha vinto. Avevamo deciso di aspettare fino all'ultimo ma la Georgia ci ha messo a dura prova! Abbiamo installato il MaxxFan e mai scelta fu azzeccata
+
+**Costo totale: 440 euro**
+
+{{< youtube Xw4n0CYZqeQ >}}
+
 ###### I costi nel dettaglio
 
 Di seguito tutti i costi nel dettaglio degli accessori installati:

@@ -1,48 +1,71 @@
 ---
-title: 'Coibentazione e batterie al litio: ecco alcuni dei lavori sul nostro van'
+title: 'Coibentazione: come abbiamo reso il nostro van pronto per le quattro stagioni'
 description: "Prima di ripartire verso est a bordo del van abbiamo deciso di effettuare qualche piccolo upgrade, scopri con noi dove abbiamo messo mano"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
-date: 2023-09-23T08:00:00.000
-categories: ["Blog"]
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
+date: 2023-10-07T08:00:00.000
+categories: ["Blog", "Camper"]
 type: featured
-draft: true
+draft: false
 ---
 
-- 
+Fa strano pensare che sono passati già 2 anni da quando abbiamo acquistato [il nostro piccolo van](/van/). All'epoca non avevamo esperienza è abbiamo acquistato quello che ci sembrava ok per le nostre tasche ma solo con il tempo e, sopratutto, vivendolo abbiamo scoperto tutte le limitazioni del nostro mezzo.
 
-Prima di partire per un viaggio per il momento di sola andata a bordo del nostro van, volevamo fare alcuni lavori di upgrade relativi a un paio di problematiche riscontate in un anno e tre mesi di vita da fulltimers.
+Prima di partire per un viaggio **per il momento di sola andata** a bordo del nostro van abbiamo deciso di mettere una pezza a queste problematiche riscontate dopo 500 giorni on the road e oggi siamo qui a raccontarvi come abbiamo deciso di combattere il freddo a bordo!
 
-Non volevamo in tutta onestà spendere troppo nè rimanere troppo fermi, motivo per cui ci siamo organizzati per far tutto o quasi nel cortile di casa, ovviamente aiutati da chi è più esperto di noi.
+##### Inverno non ti temo
+
+Un uomo saggio una volta disse "il primo camper si acquista solo per capire di cosa si ha realmente bisogno dal secondo". Credo fosse Gandhi ma non ne sono proprio certo, fatto sta che aveva ragione. Parlo al passato perché visti gli aumento vertiginosi dei prezzi dei campervan questo ragionamento non funziona più tanto bene.
+
+Non potento vendere il nostro per acquistare uno nuovo più performante e sentendolo ormai casa abbiamo deciso di rimboccarci le maniche, prendere un cacciavite a stella e smontare pezzo per pezzo il nostro van.
+
+Il motivo? Scoprire cos'era stato fatto dal costrutto per andare a migliorare la coibentazione per vivere al meglio in tutte le stagioni!
+
+Volete la verità? Pensavamo peggio! Nel nostro immaginario pensavamo che i ragazzi della Roadcar (la sottomarca della Possl) non avessero minimamente coibentato e invece qualcosa era stato fatto. 
+
+Quasi tutto il van risulta coibentato con un isolante termico **non troppo denso** ma accettabile mentre, come pensavamo, manca completamente nei portelloni e nei montati posteriori (quelli dove ci sono i fari per intenderci). Proprio questi sono stati oggetto dei nostri lavori.
 
 ##### I materiali
 
-Un paio di mesi prima di iniziare i lavori sul van abbiamo contattato Matteo, facendoci aiutare a scegliere i materiali da ordinare: 
+Cercando su internet è possibile imbattersi in una moltitudine di materiali che si possono usare per coibentare un van: schiuma di poliuretano, armaflex, lana di roccia, lana di pecora, lana dei nostri pelosi. Noi abbiamo deciso di acqustare l'isolante X-trem per le sue caratteristiche:
+- non assorbe l'umidità
+- non cigola, ha un effetto calmante
+- realizzato in polietilene espanso a poro chiuso
+- alto isolamento termico
 
-- isolante termico
-- isolante acustico 
+In particolar modo abbiamo acquistato:
+- Reimo X-trem Isolator Soft autoadesivo 10mm - 100x200cm 
+- Reimo X-trem Isolator Soft 20mm - 100x200cm
 
-Oltre a ciò abbiamo lasciato i nostri contatti al team di Creabest, che ringraziamo davvero per la fiducia riposta nella nostra collaborazione: è grazie a loro se a bordo abbiamo una nuova batteria al litio.
+Nel momento in cui scriviamo il costo si aggira sui 43€ a rotolo circa mentre per le quantità dipendono ovviamente da quanto volete coibentare. Per i nostri lavori abbiamo acquistato 1 foglio da 10nm e 3 da 20nm ma ne abbiamo avanzato. 
 
-Abbiamo poi ordinato una nuova maniglia per la finestra (ci era stata scassinata in Senegal, ricordi?), comprato il filo per la zanzariera che si era rotto e la rendeva inagibile (un filo in kevlar preso in un negozio per zanzariere), del velcro per fissare meglio il sedile della dinette, un tendalino portatile e la canalina da fissare al portellone laterale.
+Abbiamo anche deciso di fare i lavori per bene e in aggiunta abbiamo acquistato anche un rotolo di isolante acustico sempre della X-Trem da 2mm - 500x40cm. Prezzo 51€.
 
-Vinavyl alla mano abbiamo fissato tutte le viti che iniziavano a dare segni di cedimento e tra un piatto di pasta e un caffè in compagnia siamo riusciti a fare tutto ciò che volevamo in tempo record.
-Abbiamo smontato il frigo e pulito la ventola, smontato i sedili e raggiunto la polvere infame che si era nascosta ovunque, pulito il filtro del lavandino della cucina, rimosso finalmente l'odiato scalino che continuava a sbattere su ogni dosso, fissato la nuova batteria al litio. 
+Per tutto il resto ci è bastato un cacciavite a stella per smontare tutto e un po' di Vinavyl da mettere su ogni vite nel momento in cui abbiamo riavvitato tutto.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg" >}}
+##### Prima e dopo
+
+Non andremo a spiegarvi come smontare il vostro van in quanto cambia da costruttore a costruttore e dal tipo di allestimento che si ha a bordo. Abbiamo girato un video  un'idea di come abbiamo svolto noi i lavori a bordo del nostro Roadcar e che potete visionare qui sotto:
+
+{{< youtube Xw4n0CYZqeQ >}}
+
+
 
 ##### La coibentazione
 
 In 3 giorni pieni, grazie al lavoro di Matteo, abbiamo smontato e rimontato tutto ciò che facilmente si poteva aprire, riempire di armaflex e richiudere: portelloni posteriori, portellone laterale, dietro agli armadietti, dietro ad alcune plastiche. 
 
-Perchè abbiamo deciso di migliorare la coibentazione? Lo scorso autunno/inverno abbiamo vissuto più momenti di disagio a bordo a causa di interminabili giornate di pioggia in Portogallo. Sovente ci svegliavamo con le lenzuola inumidite e cosa ancor più sconfortevole entravano spifferi da ogni angolo.
+Perché abbiamo deciso di migliorare la coibentazione? Lo scorso autunno/inverno abbiamo vissuto più momenti di disagio a bordo a causa di interminabili giornate di pioggia in Portogallo. Sovente ci svegliavamo con le lenzuola inumidite e cosa ancor più sconfortevole entravano spifferi da ogni angolo.
 
 Così facendo non ci illudiamo di aver fatto i lavori migliori del mondo ma, con poco investimento in termini di materiale e manodopera onesta, abbiamo effettuato un piccolo upgrade che mancava sul nostr van di livello base. 
 
-<!-- {{< youtube RsTGZQ0ZxDI >}}    mettere video lavori -->
+
+##### Prima e dopo
+
+<!-- {{< youtube Xw4n0CYZqeQ >}}    mettere video lavori -->
 
 ##### Batteria al litio
 
-Sulla batteria e sul perchè l'abbiamo tanto desiderata ve ne parliamo in un articolo dedicato. 
+Sulla batteria e sul perché l'abbiamo tanto desiderata ve ne parliamo in un articolo dedicato. 
 
 In ogni caso dopo un mese di utilizzo non potremmo che esserne più soddisfatti: addio spie arancioni nonostante la nebbia e il mezzo fermo. 
 
@@ -68,4 +91,4 @@ Sempre con Cris abbiamo fissato la canalina del tendalino in modo che rimanesse 
 Insomma, con un po' di migliorie tecniche e tanta voglia di scoprire il mondo non ci restava che partire... destinazione? 
 Lo scopriremo insieme giorno per giorno!
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg" >}}
