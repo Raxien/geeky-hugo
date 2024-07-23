@@ -188,8 +188,8 @@ Lavori in valutazione 🔨
 - attualmente non ci sono lavori in valutazione
 
 ##### Oggetti di uso quotidiano
-Ci sono alcuni oggetti di uso quotidiano che non possono mancare a bordo, almeno per noi. Se vuoi vedere tutto quello che abbiamo a bordo basta andare **{{< extLink "qui" "https://www.amazon.it/shop/vandipety">}}**. Lasciamo invece qui di seguito i video dedicati alla sicurezza e agli accessori indispensabili a bordo1
+Ci sono alcuni oggetti di uso quotidiano che non possono mancare a bordo, almeno per noi. Se vuoi vedere tutto quello che abbiamo a bordo basta andare **{{< extLink "qui" "https://www.amazon.it/shop/vandipety">}}**. Lasciamo invece qui di seguito i video dedicati alla sicurezza e agli accessori indispensabili a bordo!
 
 {{< youtube dxlavy4Zll0 >}}
-
+<br>
 {{< youtube UXMbvLMNn10 >}}
