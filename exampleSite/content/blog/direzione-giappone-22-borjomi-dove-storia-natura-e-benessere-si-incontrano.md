@@ -43,4 +43,4 @@ Un consiglio: non perdete l'occasione di assaggiare uno di questi prodotti, maga
 
 Arigatou, alla prossima.
 
-🇮🇹 → 🇯🇵 7868 km (in linea d'aria)
+🇮🇹 → 🇯🇵 7913 km (in linea d'aria)
