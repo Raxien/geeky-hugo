@@ -35,6 +35,17 @@ Mettiti comodo e buona lettura.
 > - [I nostri Vlog](#il-nostro-vlog)
 > - [Articoli consigliati](#articoli-consigliati)
 
+##### `Aggiornamento 2024` 
+A seguito delle elezioni presidenziali tenutesi in Senegal a marzo 2024 la situazione nella dogana di Rosso sembra essere cambiata.
+
+Inoltre gli amici di {{< extLink "@R4 Team Piemonte" "https://www.instagram.com/r4teampiemonte/" >}} sono andati da Saluzzo fino a Dakar ad agosto 2024 passando proprio presso questa dogana e grazie all'aiuto di un passeur hanno pagato circa 200 euro impiegando 4 ore a uscire dalla Mauritania e entrare in Senegal senza alcun problema. 
+Lasciamo di seguito i contatti:
+
+**Ifra Ril Passeur**  
+**+222 48 58 71 16**
+
+Consigliamo comunque di **proseguire la lettura dell'articolo** e di verificare su iOverlander ({{< extLink "qui" "https://www.ioverlander.com/places/98598-rosso" >}} e {{< extLink "qui" "https://www.ioverlander.com/places/100969-border-rosso-mauretanie-to-senegal" >}}) la situazione aggiornata.
+
 ##### Premessa
 Prima di iniziare una piccola premessa: per arrivare al confine senegalese dal nord bisogna attraversare prima **il Marocco** (guarda {{< extLink "qui la nostra avventura" "https://www.youtube.com/watch?v=9fsV_nTm9bg" >}}) e poi **la Mauritania** ([clicca qui se vuoi avere informazioni in merito](/blog/viaggio-mauritania-on-the-road-le-dogane/)). Se vuoi intraprendere quest'avventura ti consigliamo vivamente di leggere i precedenti articoli per conoscere la condizione delle strade e i costi da sostenere per arrivare a destinazione!
 
@@ -53,6 +64,8 @@ Entrambe hanno i loro **pro** e soprattutto **contro** e la scelta dipende essen
 
 La strada è molto facile da percorrere, tutta asfaltata e facilmente raggiungibile a bordi di qualsiasi mezzo.
 Il vero problema è l'estrema corruzione che si riflette in costi esorbitanti se si vuole passare da questa dogana. Quando eravamo al famoso [Zebrabar](/blog/guida-senegal-in-camper-itinerari/), abbiamo sentito di persone che hanno sborsato addirittura 1000 euro per entrare (e immaginiamo lo stesso per uscire dal Senegal)!
+
+
 
 ###### Diama
 {{< procontro pro1="Economica" pro2="Poco frequentata" contro1="Meno facile da raggiungere" contro2="Durante la stagione delle piogge raggiungibile solo con un 4x4" >}}
