@@ -17,8 +17,8 @@ Saliamo allora su per le scale mobili, mescoliamoci fra le persone del posto, le
 ##### Attraversiamo il Bosforo
 
 Attraversare il Bosforo significa ritrovarsi in piazza Topkaki, il cuore della città, oltre la quale si staglia lei, l’Asia.
-Ben presto scopriamo con i nostri occhi che i minareti fanno a gara con i grattacieli. E ci perdiamo, di proposito. Fra palazzi alti e colorati, fra persone che parlano lingue diverse dalla nostra. Finiamo in un quartiere il cui nome ha a che fare con la curcuma. Attorno a noi piccole botteghe di antiquariato, persone serene, gatti. Poi un viale enorme, sul quale si affacciano hotel per ogni tasca. Da qui l’orizzonte di perde lungo i tetti cittadini. 
-E ritorniamo indietro, inglobati nella rete di una Istanbul che sembra quasi richiamare all’ordine in ogni angolo. Scoviamo passaggi segreti eppure vissuti al centimetro. Dove tutti vendono tutto a tutti. E ancora un altro quartiere, nei pressi della genovese torre di Galata. Le persone mangiano fette di cheesecake, e per un attimo ci sembra di essere tornati a Brooklyn. Anche qui palazzi colorati, ma sono le bandierine turche che ci aiutano a capire dove siamo. 
+Ben presto scopriamo con i nostri occhi che i minareti fanno a gara con i grattacieli. E ci perdiamo, di proposito. Fra palazzi alti e colorati, fra persone che parlano lingue diverse dalla nostra. Finiamo in un quartiere il cui nome ha a che fare con la curcuma: attorno a noi piccole botteghe di antiquariato, persone serene, gatti. Poi un viale enorme, sul quale si affacciano hotel per ogni tasca, e da dove l’orizzonte di perde lungo i tetti cittadini. 
+Ritorniamo indietro, inglobati nella rete di una Istanbul che sembra quasi richiamare all’ordine in ogni angolo. Scoviamo passaggi segreti eppure vissuti al centimetro. Dove tutti vendono tutto a tutti. E ancora un altro quartiere, nei pressi della genovese torre di Galata, dove le persone mangiano fette di cheesecake e per un attimo ci sembra di essere tornati a Brooklyn, non fosse per le bandierine turche che ci aiutano a ricordare dove siamo. 
 
 ##### Street food di Istanbul: i panini ripieni di sgombro 
 
@@ -33,38 +33,26 @@ Spezie, dolci, abiti, gioielli. Un pezzo di baklava fra i denti, una tazzina di 
 
 ##### Mille e una moschee
 
-Saturi dei rumori cittadini è nelle moschee, a piedi scalzi, in silenzio, che ritroviamo un istante di pace. 
-Come non nominare la Moschea Blu, meravigliosa già dall'esterno, con le cinque cupole perfettamente allineate. L'interno non è da meno, un gioco di luci dirette in ogni angolo. 
-Non è da meno Santa Sofia, ex chiesa ortodossa. I suoi dipinti all’interno sono stati purtroppo ricoperti da veli, in ottemperanza al suo nuovo compito di moschea. 
-Forse è anche questa una delle motivazioni che ci fa desistere dall’entrare all’interno, oltre al prezzo del biglietto a parer nostro troppo caro. 
+Saturi dei rumori cittadini è nelle moschee, a piedi scalzi e in silenzio, che ritroviamo un istante di pace. 
+Come non nominare la Moschea Blu, meravigliosa già dall'esterno, con le sue cinque cupole perfettamente allineate. L'interno non è da meno, con un gioco di luci dirette in ogni angolo. 
+Stupenda anche Santa Sofia, ex chiesa ortodossa. Peccato solo che i suoi dipinti siano stati purtroppo ricoperti da veli, in ottemperanza al suo nuovo compito di moschea. 
+Forse è anche questa una delle motivazioni che ci fa desistere dall’entrare all’interno, oltre al prezzo del biglietto a parer nostro troppo costoso. 
 Infine, ma solo per non stare ad elencarvele tutte, la Moschea di Solimano, con l'impressionante apparato di madrase e strutture che la circondano. 
 Istanbul è così, caos e pace. Luce e ombra. Ovunque.
 
 ##### Istanbul turistica 
 
-Decidere di visitare ogni singola attrazione di Istanbul è una scelta, che preclude il dover mettere mano al portafogli in modo considerevole. Per soffermarsi in Palazzo Topkaki, nella Basilica della Cisterna e così via bisognerà tenere in conto di spendere tempo e denaro, molto denaro. 
+Decidere di visitare ogni singola attrazione di Istanbul è una scelta, che preclude il dover mettere mano al portafogli in modo considerevole. Per soffermarsi nel Palazzo Topkaki, nella Basilica della Cisterna e così via bisogna oggi giorno tenere in conto di spendere tempo e denaro, molto denaro. 
 
 ##### Benvenuti in Asia 
 
-Una volta scelto di visitare la città in modo alternarivo ed essere saliti su un traghetto che trasportava gente del posto è Uskudar il quartiere che cattura di più la nostra attenzione, con i suoi toni allegri e casette colorate in fila indiana. Uno di quei posti che troviamo per caso e che invece sembrano lì pronti solo per noi. Un arcobaleno tutto da fotografare.
-Il tutto arricchito da più e più negozi, dove trovare dal cibo agli oggetti di artigianato, mentre lungo le sponde del Bosforo persone di ogni età si soffermano a pescare. 
+Noi scegliamo di visitare la città in modo alternativo e saliano su di un traghetto di linea diretto a Uskudar, il quartiere che cattura di più la nostra attenzione con i suoi toni allegri e casette colorate in fila indiana. Uno di quei posti che troviamo per caso e che invece sembrano lì pronti solo per noi, un arcobaleno architettonico tutto da fotografare.
+Tutt'attorno più e più negozi dove trovare dal cibo agli oggetti di artigianato, mentre lungo le sponde del Bosforo persone di ogni età che si soffermano a pescare. 
 
 ##### Istanbul by night
 
-Mentre il sole scende rivela Istanbul sotto una nuova luce: quella dei profili delle moschee illuminati, del fuoco per scaldare le castagne e le pannocchie. Tutto il resto è un andirivieni di persone, tram che si fermano e ripartono, porte che si aprono e si chiudono. 
-
-
-##### Come muoversi a Istanbul
-
-Il modo più veloce per muoveri a Istanbul è tramite la fitta rete di trasporti pubblici con cui si può raggiungere qualsiasi punto della città in un attimo!
-
-Non abbiate timore perchè troverete ovunque dove acquistare la pratica card (a proposito,ve ne basta una per famiglia e potete ricaricarla ovunque, talvolta anche con la carta di credito) e qualsiasi persona del posto sarà pronta ad aiutarvi a comprende fermate e direzioni.
-
-Con la card cittadina si ha accesso su qualsiasi mezzo di trasporto: pullman, metropolitana, tram, treno, treno subacqueo e traghetto. I prezzi delle corse potrebbero variare in base al mezzo sul quale si sale (per il treno subacqueo abbiamo pagato il doppio).
-
-Traghetto? Non esiste solo quello per la turistica crociera sul Bosforo? 
-Ebbene no! Esiste anche un pratico traghetto che ogni mezz'ora circa attraversa il Bosforo collegando il lato europeo con quello asiatico della città, permettendo di ammirare lo skyline dei palazzi sull'acqua mescolandosi alla gente del posto. 
-
+Mentre il sole scende Istanbul si rivela sotto una nuova luce: quella dei profili delle moschee illuminati e del fuoco che crepita in piccoli banchetti dove comprare castagne e pannocchie. 
+Tutto il resto è un andirivieni di persone, tram che si fermano e ripartono, porte che si aprono e si chiudono. 
 
 La nostra ultima buonanotte alla città è anche l'ultima rivolta al nostro continente. 
 
@@ -74,6 +62,18 @@ Entriamo per davvero in Asia attraverso un tunnel subacqueo. Tutti insieme, con 
 Nessuna musica di benvenuto, un panorama sempre uguale, ma sono le emozioni dentro di noi a scalpitare. 
 
 {{< youtube "" >}}
+
+##### Come muoversi a Istanbul
+
+Il modo più veloce per muoversi a Istanbul è tramite la fitta rete di trasporti pubblici con cui si può raggiungere qualsiasi punto della città in un attimo!
+
+Non abbiate timore perché troverete ovunque dove acquistare la pratica card (a proposito, ve ne basta una per famiglia e potete ricaricarla ovunque, talvolta anche con la carta di credito) e qualsiasi persona del posto sarà pronta ad aiutarvi a comprendere fermate e direzioni.
+
+Con la card cittadina si ha accesso su qualsiasi mezzo di trasporto: pullman, metropolitana, tram, treno, treno subacqueo e traghetto. I prezzi delle corse potrebbero variare in base al mezzo sul quale si sale (per il treno subacqueo abbiamo pagato il doppio).
+
+Traghetto? Non esiste solo quello per la turistica crociera sul Bosforo? 
+Ebbene no! Esiste anche un pratico traghetto che ogni mezz'ora circa attraversa il Bosforo collegando il lato europeo con quello asiatico della città e permettendo di ammirare lo skyline dei palazzi mescolandosi alla gente del posto. Costo? Quanto una corsa in tram. 
+
 
 Arigatou, alla prossima.
 

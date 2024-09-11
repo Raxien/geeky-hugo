@@ -22,19 +22,19 @@ Nel frattempo sono passati i mesi, il concessionario ci ha finalmente dato le ch
 Siamo tornati a casa, ci siamo guardati negli occhi e ci siamo detti: **"andiamo in Giappone in van!"**.
 E questa volta non era una domanda. 
 
-Seguendo l'istinto abbiamo tolto la cartina dal muro e tracciato con una matita la rotta: Italia, Austria, Repubblica Ceca, Polonia, Lituania, Lettonia ed Estonia per poi attraversare la famosa Transiberiana fino a Vladivostock, da dove imbarcarsi per la Corea e subito dopo **mettere piede finalmente in Giappone!**
+Seguendo l'istinto abbiamo tolto la cartina dal muro e tracciato con una matita la rotta: Italia, Austria, Repubblica Ceca, Polonia, Lituania, Lettonia ed Estonia per poi attraversare la famosa Transiberiana fino a Vladivostok, da dove imbarcarsi per la Corea e subito dopo **mettere piede finalmente in Giappone!**
 
-**Facile no? No!** Per quanto la nostra voglia di partire fosse inarrestabile, tutto sembrava remarci contro. Era tempo di Covid, la frontiera terreste russa era chiusa, quella Giapponese anche, sulla nave che ci avrebbe portato prima in Corea e poi in Giappone era stato vietato il trasporto di passegeri ed era scoppiata la guerra in Ucraina.
+**Facile no? No!** Per quanto la nostra voglia di partire fosse inarrestabile, tutto sembrava remarci contro. Era tempo di Covid, la frontiera terreste russa era chiusa, quella Giapponese anche, sulla nave che ci avrebbe portato prima in Corea e poi in Giappone era stato vietato il trasporto di passeggeri ed era scoppiata la guerra in Ucraina.
 
 Il nostro folle progetto doveva essere di nuovo rinchiuso fra i pensieri. 
 Decidemmo però di partire lo stesso, solo in direzione opposta. Dovevamo andare a est, in Asia, e ci siamo ritrovati a sud-ovest, in Africa.
-Un po' fuori rotta, penserete voi, ma questa avventura non prevista ci è servita tantissmo: abbiamo imparato davvero a vivere nei 9mq del van, a capire i suoi limiti, i nostri e a come risolvere i tanti problemi che ci si ritrova a fronteggiare ogni giorno da soli in mezzo al mondo.
+Un po' fuori rotta, penserete voi, ma questa avventura non prevista ci è servita tantissimo: abbiamo imparato davvero a vivere nei 9mq del van, a capire i suoi limiti, i nostri e a come risolvere i tanti problemi che ci si ritrova a fronteggiare ogni giorno da soli in mezzo al mondo.
 
 ##### Buone notizie
 
 Finita la nostra avventura in Africa, mentre stavamo tornando in Italia per sposarci, sistemare il van e riorganizzare le idee sulla strada da intraprendere, abbiamo ricevuto un messaggio dal nostro carissimo amico Franco di {{< extLink "@bicosisgud" "https://www.instagram.com/bicosisgud/" >}}: "ragazzi la nave per il Giappone riparte!".
 
-Potete provare a immaginare il nostro stato d'animo. Avevamo mille e più cose da organizzare, ma la priorità era diventata scrivere un email al nostro contatto in Russia. Poche ore di fuso orario dopo abbiamo ricevuto la risposta più importante di tutte:
+Potete provare a immaginare il nostro stato d'animo. Avevamo mille e più cose da organizzare, ma la priorità era diventata scrivere una email al nostro contatto in Russia. Poche ore di fuso orario dopo abbiamo ricevuto la risposta più importante di tutte:
 
 > Hello Paolo,
 > the ferry to Korea goes weekly.
@@ -56,21 +56,21 @@ Sarà il primo paese da attraversare, partendo da Edirne per raggiungete Istanbu
 
 ###### 2. Georgia e Armenia
 
-Ecco due paesi sui quali abbiamo grandi aspettative! Entreremo in Georgia da Batumi per poi procedere fino alla capitale, Tbilisi, visitando mille e più meraviglie lungo il percorso. Dopodichè scenderemo ed entreremo in Armenia, visitando luoghi come il lago Gegharkunik fino alla capitale Yerevan, tornando poi in Georgia.
+Ecco due paesi sui quali abbiamo grandi aspettative! Entreremo in Georgia da Batumi per poi procedere fino alla capitale, Tbilisi, visitando mille e più meraviglie lungo il percorso. Dopodiché scenderemo ed entreremo in Armenia, visitando luoghi come il lago Gegharkunik fino alla capitale Yerevan, tornando poi in Georgia.
 
 ###### 3. Russia
 
 Dal confine con la Georgia andremo dritti verso Mosca, per poi andare **alla scoperta dell'anello d'oro!**, un gruppo di città storiche situate a nordest della città. Inizieremo poi a percorrere una parte della Transiberiana fino al confine con il Kazakistan e interromperemo brevemente la nostra visita per entrare nel primo dei due paesi "stan"!
 
-###### 4. Kazakistan e Kirgikistan
+###### 4. Kazakistan e Kirghizistan
 
-Entreremo in Kazakistan da nord, per dirigerci alla capitale Astana e successivamente andremo fino a sud, ad Almaty, la "Cervinia" del Kazakistan. Vista la vicinanza con il Kirgikistan abbiamo deciso di non tralasciare la visita di questo paese selvaggio, partendo dalla capitale Bishkek per poi spingerci fino al lago Issyk Kul. 
+Entreremo in Kazakistan da nord, per dirigerci alla capitale Astana e successivamente andremo fino a sud, ad Almaty, la "Cervinia" del Kazakistan. Vista la vicinanza con il Kirghizistan abbiamo deciso di non tralasciare la visita di questo paese selvaggio, partendo dalla capitale Bishkek per poi spingerci fino al lago Issyk Kul. 
 
 Non sarà una visita troppo duratura in quanto il resto del paese è difficile da raggiungere senza un mezzo 4x4. 
 
 ###### 5. Russia, di nuovo
 
-Il rientro in Russia sarà breve e avverà nella zona dei Monti Altaj, zona naturalisticamente parlando molto bella e che ci condurrà subito al paese successivo.
+Il rientro in Russia sarà breve e avverrà nella zona dei Monti Altaj, zona naturalisticamente parlando molto bella e che ci condurrà subito al paese successivo.
 
 ###### 6. Mongolia
 
@@ -78,17 +78,17 @@ Questo paese selvaggio, magnetico e incontaminato è da sempre nei piani origina
 
 ###### 7. Russia, ultimo ingresso
 
-Ultimo ingresso in Russia, promesso. Entreremo dalla zona del lago Baikal, per poi ripercorrere la transiberiana in direzione Vladivostok, l' ultima tappa da dove prenderemo il traghetto che portera tutti in Corea: noi, i nostri animali e il van.
+Ultimo ingresso in Russia, promesso. Entreremo dalla zona del lago Baikal, per poi ripercorrere la transiberiana in direzione Vladivostok, l' ultima tappa da dove prenderemo il traghetto che porterà tutti in Corea: noi, i nostri animali e il van.
 
 ###### 8. Corea
 
-Finalmente arrivati in Corea inizierà una lunga visita di questo paese in quanto vogliamo visitarlo in lungo e largo, anche se non è enorme! E diciamocela tutta, per ammortizzare un po' i costi del traghetto.
+Finalmente arrivati in Corea inizierà una lunga visita di questo paese in quanto vogliamo visitarlo in lungo e largo, anche se non è enorme! E diciamocela tutta, anche per ammortizzare un po' i costi del traghetto.
 
 ###### 9. Giappone!
 
 Probabilmente piangeremo a dirotto dalla commozione il giorno in cui riusciremo finalmente a mettere piedi, zampe e ruote in Giappone. Sarà un sogno che si avvera, sarà un grande traguardo, sarà un momento indimenticabile. 
 
-E una volta nel paese del Sol Levante cosa succederà? Restate con noi per scoprirlo, perchè non sarà una fine ma solo un nuovo entusiasmante punto di partenza. 
+E una volta nel paese del Sol Levante cosa succederà? Restate con noi per scoprirlo, perché non sarà una fine ma solo un nuovo entusiasmante punto di partenza. 
 
 
 ##### E' tempo di svelare qualche segreto
@@ -111,6 +111,6 @@ In mezzo noi, i cambi di direzione, ogni singola emozione vissuta.
 Cosa ne dici, viaggerai con noi in questa folle avventura? 
 {{< youtube "" >}}
 
-Arigato, alla prossima.
+Arigatou, alla prossima.
 
 🇮🇹 → 🇯🇵 9862 km (in linea d'aria)
