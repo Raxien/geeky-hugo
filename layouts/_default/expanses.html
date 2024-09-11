@@ -91,6 +91,10 @@
               <h4 class="h5 mb-2">II° anno</h4>
               <h3 id="annoDue" class="mb-5 h5 "></h3>
             </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">III° anno</h4>
+              <h3 id="annoTre" class="mb-5 h5 "></h3>
+            </div>
             <!-- <div class="col-md-3 mb-3">
               <h4 class="h5 mb-2">Con Assicurazione e Bollo</h4>
               <h3 id="dailyVanCost" class="mb-5 h5 "></h3>
@@ -222,9 +226,10 @@
 
         let travelingSumCost = 0, i = 0;
         let year = 2; //calculateyear(tripData.startingDate);
-        let annoUno = 0, annoDue = 0;
+        let annoUno = 0, annoDue = 0, annoTre = 0;
         let dtUno =  moment(toDate(tripData.startingDate)), dtDue = toDate(tripData.startingDate);
         dtDue = moment(dtDue).add(1, 'year');
+        let dtTre = moment(dtDue).add(1, 'year');
         // dtDue.setFullYear(dtDue.getFullYear() + 1);
 
         console.log('welcome to favelas')
@@ -239,8 +244,11 @@
             if(toDate(data.res[i].date) <= dtDue){
                  annoUno += parseFloat(data.res[i].cost);     
             }
-            else {
+            else if(toDate(data.res[i].date) >= dtDue && toDate(data.res[i].date) <= dtTre){
               annoDue += parseFloat(data.res[i].cost);
+            }
+            else {
+              annoTre += parseFloat(data.res[i].cost);
             }
           }
         
@@ -249,6 +257,7 @@
         
         document.getElementById('annoUno').innerText = Math.round((annoUno + Number.EPSILON) * 100) / 100 + ' €';
         document.getElementById('annoDue').innerText = Math.round((annoDue + Number.EPSILON) * 100) / 100 + ' €';
+        document.getElementById('annoTre').innerText = Math.round((annoTre + Number.EPSILON) * 100) / 100 + ' €';
 
         travelingSumCost = Math.round((travelingSumCost + Number.EPSILON) * 100) / 100;
 

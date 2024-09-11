@@ -327,9 +327,13 @@
         if (error) throw error;
 
         // route 1 - Road to Dakar
-        addRouteLayer('route1', mapJson.route[0], '#51a1a1', 'Road to Dakar');
+        addRouteLayer('route1', mapJson.route[0], '#FFC000', 'Road to Dakar');
         // route 2 - Balkan tour
-        addRouteLayer('route2', mapJson.route[1], '#fcd45d', 'Tour dei Balcani');
+        addRouteLayer('route2', mapJson.route[1], '#d98396', 'Tour dei Balcani');
+        // route 3 - Direzione Giappone
+        addRouteLayer('route3', mapJson.route[2], '#91CCF1', 'Direzione Giappone');
+
+
 
         map.addImage("custom-marker", image);
 
