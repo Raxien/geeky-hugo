@@ -25,10 +25,20 @@ Dipende dai punti di vista. A noi sono serviti un po' di tutorial e tanta tanta 
 Quindi se ogni tanto la sera non sai quale film guardare e ti va di stare in nostra compagnia, puoi aprire YouTube e andare sul **{{< extLink "canale Vandipety" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}}**! Se vorrai lasciarci anche un mi piace e un commento il tuo parere è per noi davvero prezioso e ci aiuta a migliorare ogni giorno di più! ☺️
 
 ##### Stagioni
-_**{{< extLink "Stagione 1" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ9QT9yAaaqtoXtGUh2iMEI5" >}}**_: Un cambio di vita radicale ci porta alla scoperta di paesaggi mozzafiato, città affascinanti e persone straordinarie nel nostro continente. Sali a bordo, la prima stagione inizia qui!
+_**{{< extLink "Stagione 1" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ9QT9yAaaqtoXtGUh2iMEI5" >}}**_: un cambio di vita radicale ci porta alla scoperta di paesaggi mozzafiato, città affascinanti e persone straordinarie nel nostro continente. Sali a bordo, la prima stagione inizia qui!
 
-_**{{< extLink "Stagione 2" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ929klaWueEsMuZZvFWZKIB" >}}**_: Abbiamo abbandonato le comodità dell'Europa per intraprendere un'avventura in Africa. Obiettivo? Scoprire nuove culture e metterci alla prova in un ambiente completamente diverso da quello a cui eravamo abituati. Riusciremo in questo intento?
+_**{{< extLink "Stagione 2" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ929klaWueEsMuZZvFWZKIB" >}}**_: abbiamo abbandonato le comodità dell'Europa per intraprendere un'avventura in Africa. Obiettivo? Scoprire nuove culture e metterci alla prova in un ambiente completamente diverso da quello a cui eravamo abituati. Riusciremo in questo intento?
 
-_Stagione 3_: ... 🔜
+_**{{< extLink "Stagione 2.5" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_PAB6_xpqnRvCxtovD7lZE" >}}**_: una miniserie sui lavori al nostro van, su un evento importante e i pre preparativi pre partenza!
+
+_**{{< extLink "Stagione 3" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-7swbxxVk-IMXnyrJLuH04" >}}**_: Vandipety parte alla scoperta dei Balcani! Un viaggio fra passato e presente pieno di emozioni ci attende! Dalla Slovenia, Croazia, Kossovo e Grecia sono solo alcuni dei paesi che visiteremo prima della prossima esplosiva stagione!
+
+_**{{< extLink "Stagione 4" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_STEqeFCP1TZaWQZyY8NLe" >}}**_: Finalmente è giunto il momento di andare verso il Sol Levante! Vandipety abbandona l'Europa per entrare in Asia in direzione Giappone!
+
+In questa prima parte andremo a scoprire la Turchia, il Kurdistan Iracheno, la Georgia e l'Armenia fino alle porte con la Russia. Siete pronti?
+
+_**{{< extLink "Stagione 5" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_-exHDEfsf_IFdzDSoY6Cl" >}}**_: Vandipety direzione Giappone parte 2! La seconda attesa parte di questo lungo viaggio! 18.000km, 7 cambi di fusi orari, infiniti incontri, difficoltà e perdite. Un viaggio fra Russia, Kazakistan, Mongolia e Corea prima di raggiungere l'ambita meta!
+
+_Stagione 6_: ... 🔜
 
 {{< youtube Za72BX3mgNY >}}

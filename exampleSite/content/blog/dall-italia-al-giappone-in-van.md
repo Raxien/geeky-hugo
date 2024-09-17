@@ -59,6 +59,9 @@ A quel punto, cartina alla mano, abbiamo solo deciso di affrontare il percorso d
 
 Potevamo puntare dritto e accorciare le distanze? Certo che no! Eccovi quindi un ulteriore, bizzarro, itinerario in stile Vandipety.
 
+`Aggiornamento` 
+A differenza di quanto avevemo preventivato abbiamo deciso di modificare alcune parti del nostro viaggio. Abbiamo deciso di rimandare [la visita del Kirgikistan](#4-kazakistan-e-kirgikistan) ma di aggiungere [la visita di San Pietroburgo](#3-russia). Trovi le motivazioni nei paragrafi dedicati.
+
 ###### 1. Turchia
 
 Sarà il primo paese da attraversare, **partendo da Edirne per raggiungete Istanbul**, attraversare il Bosforo ed entrare ufficialmente in Asia, terzo continente visitato on the road! Prima punteremo verso sud per visitare la costa mediterranea, **poi andremo verso la Cappadocia** e l'interno della Turchia, fino a spingerci **nel profondo est del paese a un passo dall'Iraq e Iran.**
@@ -69,13 +72,19 @@ Ecco due paesi sui quali abbiamo grandi aspettative! **Entreremo in Georgia da B
 
 ###### 3. Russia
 
-Dal confine con la Georgia andremo dritti verso Mosca, per poi andare **alla scoperta dell'anello d'oro**, un gruppo di città storiche situate a nordest della città. Inizieremo poi a percorrere una parte della Transiberiana fino al confine con il Kazakistan e interromperemo brevemente la nostra visita per entrare nel primo dei due paesi "stan"!
+Dal confine con la Georgia andremo dritti verso Mosca, per poi andare **alla scoperta dell'anello d'oro**, un gruppo di città storiche situate a nordest della città. Inizieremo poi a percorrere una parte della Transiberiana fino al confine con il Kazakistan e interromperemo brevemente la nostra visita. ~~per entrare nel primo dei due paesi "stan"!~~
 
-###### 4. Kazakistan e Kirgikistan
+`Aggiornamento` 
+"Sapete che a San Pietroburgo ci sono le notti bianche?" è bastata una frase per convincerci a fare una deviazione di circa 700 km da Mosca per andare a visitare la città che non dorme mai d'estate, soprattutto in questo periodo! Avremmo fatto bene?
 
-Entreremo in Kazakistan da nord, per dirigerci alla capitale **Astana** e successivamente andremo fino a sud, ad Almaty, **la "Cortina" del Kazakistan**. Vista la vicinanza con il Kirgikistan abbiamo deciso di non tralasciare la visita di questo paese selvaggio, partendo dalla capitale **Bishkek** per poi spingerci fino al **lago Issyk Kul**. 
+###### 4. Kazakistan ~~e Kirgikistan~~
 
-Non sarà una visita troppo duratura in quanto il resto del paese è difficile da raggiungere senza un mezzo 4x4. 
+Entreremo in Kazakistan da nord, per dirigerci alla capitale **Astana** ~~e successivamente andremo fino a sud, ad Almaty, **la "Cortina" del Kazakistan**. Vista la vicinanza con il Kirgikistan abbiamo deciso di non tralasciare la visita di questo paese selvaggio, partendo dalla capitale **Bishkek** per poi spingerci fino al **lago Issyk Kul**.~~
+
+~~Non sarà una visita troppo duratura in quanto il resto del paese è difficile da raggiungere senza un mezzo 4x4.~~ 
+
+`Aggiornamento` 
+Dopo aver scoperto [che Olimpia aveva un tumore](/blog/addio-olimpia/) abbiamo deciso di evitare di fare una deviazione di più di 3000km verso sud ma dopo aver visitato Astana di rientrare direttamente in Russia. Rimanderemo la visita del Kirgikistan a un futuro viaggio.
 
 ###### 5. Russia, di nuovo
 
