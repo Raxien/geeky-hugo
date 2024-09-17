@@ -23,9 +23,9 @@ Il canto del muezzin ci sorprende piacevolmente, si uniforma come sottofondo, me
 
 ##### La città di frontiera che non ti aspetti: Edirne
 
-Camminiamo a passo veloce, per sentire meno il freddo nel quale tace la città di Edirne. In un attimo ci ritroviamo sotto al primo minareto, gigantesco e notiamo che le moschee sembrano essere l’unico elemento differente rispetto ai paesi europei. Abbiamo vissuto il passaggio attraverso le chiese ortodosse, ma tutto il resto qui sembra ricondurci ancora a quei luoghi che conosciamo bene. 
+Camminiamo a passo veloce, per sentire meno il freddo nel quale tace la città di Edirne. In un attimo ci ritroviamo sotto al primo minareto, gigantesco, e notiamo che le moschee sembrano essere l’unico elemento differente rispetto ai paesi europei. Abbiamo vissuto il passaggio attraverso le chiese ortodosse, ma tutto il resto qui sembra ricondurci ancora a quei luoghi che conosciamo bene. 
 
-Il centro di Edirne **ci catapulta nuovamente nel mondo arabo, che arabo non è:** le strade strette, le piccole botteghe che si susseguono una dopo l’altra, le caffetterie, le tazzine di tè appoggiate ovunque, gli stessi prodotti venduti per strada e dietro alle vetrine, che viene il dubbio che possano rimanere lì per sempre. 
+È il centro di Edirne **a catapultarci nel mondo arabo, che arabo non è:** le strade strette, le piccole botteghe che si susseguono una dopo l’altra, le caffetterie, le tazzine di tè appoggiate ovunque, gli stessi prodotti venduti per strada e dietro alle vetrine, che viene il dubbio che possano rimanere lì per sempre. 
 
 Mentre si aprono le prime finestre e si spalancano le prime porte raggiungiamo uno dei tanti ponti che circonda la città, per poi tornare indietro soffermandoci di fronte a un deposito di biciclette ricoperte dalla neve e ricercando un po’ di calore nel vecchio bazar. 
 Ci mescoliamo con la gente del posto, unici turisti di una domenica mattina ancora troppo assonnata. 
@@ -41,7 +41,7 @@ Restiamo fermi qualche istante, per scattare un fermo immagine anche con il cuor
 
 ##### Direzione Istanbul
 
-Accendiamo il motore e ci mettiamo in direzione Istanbul, sfidando il traffico cittadino fino a raggiungere un pratico campeggio in centro. Al nostro arrivo ci accoglie un uomo dall’aspetto austero, con la pistola sul tavolo. Deglutiamo, osservandolo sciogliersi di fronte a un cucciolo di gatto di 2 mesi che sbucava dal bracciolo di una poltrona.
+Accendiamo il motore e ci mettiamo in direzione Istanbul, sfidando il traffico cittadino fino a raggiungere un pratico campeggio in centro città. Al nostro arrivo ci accoglie un uomo dall’aspetto austero, con la pistola sul tavolo. Deglutiamo, osservandolo sciogliersi di fronte a un cucciolo di gatto di 2 mesi che sbucava dal bracciolo di una poltrona.
 
 > **Italy good. Welcome welcome!**
 

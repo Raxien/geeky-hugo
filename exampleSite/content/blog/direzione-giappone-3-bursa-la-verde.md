@@ -17,7 +17,7 @@ Potevamo puntare dritti alla costa? Ovviamente no, e quindi ecco qualche deviazi
 ##### Bursa la Verde 
 
 Bursa è stata **la prima capitale ottomana** e deve il suo soprannome **“la verde”** al fatto che è circondata dai monti. Ci sarebbe stato da fermarsi mesi a Istanbul e lo stesso vale per questa città.
-Si potrebbe prendere la funicolare, andare a sciare, sorseggiando cay (tè) a ogni ora e bere ayran (yogurt) ai pasti. Ma optiamo per un giro di rappresentanza, perché trovare parcheggio in città è un’ardua impresa. 
+Si potrebbe prendere la funicolare, andare a sciare, sorseggiare cay (tè) a ogni ora e bere ayran (yogurt) ai pasti. Ma optiamo per un giro di rappresentanza, perché trovare parcheggio in città è un’ardua impresa. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1709916475/Articoli/Direzione%20giappone/Direzione3/bursa_moschea_sarcofago_gyszcj.jpg" >}}
 
@@ -30,15 +30,15 @@ Usciamo dalla moschea e ci ritroviamo in mezzo al bazar. Un paio di passi divido
  
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1709916475/Articoli/Direzione%20giappone/Direzione3/bursa_ponte_vecchio_jrftza.jpg" >}}
 
-##### Il mercato della seta
+##### Il mercato della seta di Bursa
 
-Il mercato della seta si trova in un vecchio caravanserraglio dove venivano stivate le carrozze. Al piano di sotto bar e ristoranti che offrono le stesse bevande e pietanze, al piano di sopra una cinquantina di negozi che vendono tutti esattamente le stesse cose: maglie, sciarpe, fazzoletti, federe, ferma porte e cuscini a forma di gatto.. in seta. 
+Il mercato della seta si trova in un vecchio caravanserraglio dove venivano stivate le carrozze. Al piano di sotto bar e ristoranti offrono le stesse bevande e pietanze, al piano di sopra una cinquantina di negozi vendono tutti esattamente le stesse cose: maglie, sciarpe, fazzoletti, federe, ferma porte e cuscini a forma di gatto.. in seta. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1709916475/Articoli/Direzione%20giappone/Direzione3/bursa_mercato_seta_e6jr8z.jpg" >}}
 
 ##### Cumalikizik 
 
-Cumalikizik è un villaggietto che ha mantenuto il suo stile ottomano, **con case in pietra colorate**. È stato un po’ strano dormire ai piedi delle montagne, immersi tra la nebbia e il fumo che usciva dalle canne fumarie delle stufe delle abitazioni. 
+Cumalikizik è un villaggiio che ha mantenuto il suo stile ottomano, **con case in pietra colorate**. È stato un po’ strano dormire ai piedi delle montagne, immersi tra la nebbia e il fumo che usciva dalle canne fumarie delle stufe delle abitazioni. 
 È stato emozionante però svegliarsi al mattino e ritrovare la stessa quiete. Le persone lungo la via centrale iniziano ad allestire i banchetti su cui vendere i propri prodotti, chi cibo da asporto come le pannocchie abbrustolite, chi oggetti d’artigianato e souvenir. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1709916475/Articoli/Direzione%20giappone/Direzione3/cumalizik_citta_inrhl0.jpg" >}}
@@ -47,7 +47,7 @@ Se c’è una cosa che spopola qui sono i piccoli ristoranti **“specializzati 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1709916475/Articoli/Direzione%20giappone/Direzione3/cumalizik_ouf2nr.jpg" >}}
 
-Colazione l’avevamo fatta ancora in pigiama, il paese l’avevamo visto, era tempo di sfuggire alla folla e imbattersi in nuove avventure, verso un piccolo isolotto molto particolare. 
+Noi colazione l’avevamo fatta ancora in pigiama, il paese l’avevamo visto, era tempo di sfuggire alla folla e imbattersi in nuove avventure, verso un piccolo isolotto molto particolare. 
 
 ##### Golyazi Merkez 
 
@@ -67,11 +67,15 @@ Siamo arrivati in orario di preghiera e siamo scesi timidamente, traducendo la r
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1709916475/Articoli/Direzione%20giappone/Direzione3/isola_barche_tl4si5.jpg" >}}
 _Sembra di esser in [Senegal](/categories/senegal)_
 
+Potevamo quindi non tentare la fortuna anche al museo dedicato ad Ataturk, padre fondatore della Turchia? Se siete nei paraggi vale davvero una sosta, fosse anche solo per la gentilezza del personale. 
+
+
 Potevamo quindi non tentare la fortuna **anche al museo dedicato ad Ataturk**, padre fondatore della Turchia? Se siete nei paraggi vale davvero una sosta, fosse anche solo per la gentilezza del personale. 
 
-Alla prossima puntata, tutta affacciata sul mare!
+Vi aspettiamo nella prossima puntata, tutta affacciata sul mare!
 
 {{< youtube "CiJZS00mehY" >}}
+
 
 Arigatou, alla prossima.
 

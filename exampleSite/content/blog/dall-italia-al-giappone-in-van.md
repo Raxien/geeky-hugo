@@ -26,9 +26,9 @@ Siamo tornati a casa, ci siamo guardati negli occhi e ci siamo detti:
 
 E questa volta non era una domanda. 
 
-Seguendo l'istinto abbiamo tolto la cartina dal muro e tracciato con una matita la rotta: Italia, Austria, Repubblica Ceca, Polonia, Lituania, Lettonia ed Estonia per poi attraversare la famosa Transiberiana fino a Vladivostock, da dove imbarcarsi per la Corea e subito dopo **mettere piede finalmente in Giappone!**
+Seguendo l'istinto abbiamo tolto la cartina dal muro e tracciato con una matita la rotta: Italia, Austria, Repubblica Ceca, Polonia, Lituania, Lettonia ed Estonia per poi attraversare la famosa Transiberiana fino a Vladivostok, da dove imbarcarsi per la Corea e subito dopo **mettere piede finalmente in Giappone!**
 
-**Facile no? No!** Per quanto la nostra voglia di partire fosse inarrestabile, tutto sembrava remarci contro. Era tempo di Covid, la frontiera terreste russa era chiusa, quella Giapponese anche, sulla nave che ci avrebbe portato prima in Corea e poi in Giappone era stato vietato il trasporto di passengeri ed era scoppiata la guerra in Ucraina.
+**Facile no? No!** Per quanto la nostra voglia di partire fosse inarrestabile, tutto sembrava remarci contro. Era tempo di Covid, la frontiera terreste russa era chiusa, quella Giapponese anche, sulla nave che ci avrebbe portato prima in Corea e poi in Giappone era stato vietato il trasporto di passeggeri ed era scoppiata la guerra in Ucraina.
 
 Il nostro folle progetto doveva essere di nuovo rinchiuso fra i pensieri. 
 Decidemmo però di partire lo stesso, solo in direzione opposta. Dovevamo andare a est, in Asia, e ci siamo ritrovati a sud-ovest, in Africa.
@@ -41,7 +41,7 @@ _Sembrava più vicino con una cartina in mano! Solo 8 fusi orari._
 
 Finita la nostra avventura in Africa (che puoi rivivere [con la mappa interattiva qui](/trip/)), mentre stavamo tornando [in Italia per sposarci](/blog/matrimonio-alternativo-30-giorni-per-organizzarlo-in-un-van/), sistemare il van e riorganizzare le idee sulla strada da intraprendere, abbiamo ricevuto un messaggio dal nostro carissimo amico Franco di {{< extLink "@bicosisgud" "https://www.instagram.com/bicosisgud/" >}}: **"ragazzi la nave per il Giappone riparte!".**
 
-Potete provare a immaginare il nostro stato d'animo. Avevamo mille e più cose da organizzare, ma la priorità era diventata scrivere un email al nostro contatto in Russia. Poche ore di fuso orario dopo abbiamo ricevuto la risposta più importante di tutte:
+Potete provare a immaginare il nostro stato d'animo. Avevamo mille e più cose da organizzare, ma la priorità era diventata scrivere una email al nostro contatto in Russia. Poche ore di fuso orario dopo abbiamo ricevuto la risposta più importante di tutte:
 
 > Hello Paolo,  
 > the ferry to Korea goes weekly.
@@ -60,7 +60,7 @@ A quel punto, cartina alla mano, abbiamo solo deciso di affrontare il percorso d
 Potevamo puntare dritto e accorciare le distanze? Certo che no! Eccovi quindi un ulteriore, bizzarro, itinerario in stile Vandipety.
 
 `Aggiornamento` 
-A differenza di quanto avevemo preventivato abbiamo deciso di modificare alcune parti del nostro viaggio. Abbiamo deciso di rimandare [la visita del Kirgikistan](#4-kazakistan-e-kirgikistan) ma di aggiungere [la visita di San Pietroburgo](#3-russia). Trovi le motivazioni nei paragrafi dedicati.
+A differenza di quanto avevemo preventivato abbiamo deciso di modificare alcune parti del nostro viaggio. Abbiamo deciso di rimandare [la visita del Kirghizistan](#4-kazakistan-e-Kirghizistan) ma di aggiungere [la visita di San Pietroburgo](#3-russia). Trovi le motivazioni nei paragrafi dedicati.
 
 ###### 1. Turchia
 
@@ -77,14 +77,14 @@ Dal confine con la Georgia andremo dritti verso Mosca, per poi andare **alla sco
 `Aggiornamento` 
 "Sapete che a San Pietroburgo ci sono le notti bianche?" è bastata una frase per convincerci a fare una deviazione di circa 700 km da Mosca per andare a visitare la città che non dorme mai d'estate, soprattutto in questo periodo! Avremmo fatto bene?
 
-###### 4. Kazakistan ~~e Kirgikistan~~
+###### 4. Kazakistan e Kirghizistan
 
-Entreremo in Kazakistan da nord, per dirigerci alla capitale **Astana** ~~e successivamente andremo fino a sud, ad Almaty, **la "Cortina" del Kazakistan**. Vista la vicinanza con il Kirgikistan abbiamo deciso di non tralasciare la visita di questo paese selvaggio, partendo dalla capitale **Bishkek** per poi spingerci fino al **lago Issyk Kul**.~~
+Entreremo in Kazakistan da nord, per dirigerci alla capitale **Astana** ~~e successivamente andremo fino a sud, ad Almaty, **la "Cortina" del Kazakistan**. Vista la vicinanza con il Kirghizistan abbiamo deciso di non tralasciare la visita di questo paese selvaggio, partendo dalla capitale **Bishkek** per poi spingerci fino al **lago Issyk Kul**.~~
 
 ~~Non sarà una visita troppo duratura in quanto il resto del paese è difficile da raggiungere senza un mezzo 4x4.~~ 
 
 `Aggiornamento` 
-Dopo aver scoperto [che Olimpia aveva un tumore](/blog/addio-olimpia/) abbiamo deciso di evitare di fare una deviazione di più di 3000km verso sud ma dopo aver visitato Astana di rientrare direttamente in Russia. Rimanderemo la visita del Kirgikistan a un futuro viaggio.
+Dopo aver scoperto [che Olimpia aveva un tumore](/blog/addio-olimpia/) abbiamo deciso di evitare di fare una deviazione di più di 3000km verso sud ma dopo aver visitato Astana di rientrare direttamente in Russia. Rimanderemo la visita del Kirghizistan a un futuro viaggio.
 
 ###### 5. Russia, di nuovo
 
@@ -96,11 +96,11 @@ Questo paese selvaggio, magnetico e incontaminato è da sempre nei piani origina
 
 ###### 7. Russia, ultimo ingresso
 
-Ultimo ingresso in Russia, promesso. Entreremo dalla **zona del lago Baikal**, per poi ripercorrere la transiberiana in direzione fino alla fine arrivando a **Vladivostok**, ultima tappa, da dove prenderemo il traghetto che porterè tutti in Corea: noi, i nostri animali e il van!
+Ultimo ingresso in Russia, promesso. Entreremo dalla **zona del lago Baikal**, per poi ripercorrere la transiberiana in direzione fino alla fine arrivando a **Vladivostok**, ultima tappa, da dove prenderemo il traghetto che porterà tutti in Corea: noi, i nostri animali e il van!
 
 ###### 8. Corea
 
-Finalmente arrivati in Corea inizierà una lunga visita di questo paese in quanto vogliamo visitarlo in lungo e largo, anche se non è enorme! E diciamocela tutta, per ammortizzare un po' i costi del traghetto.
+Finalmente arrivati in Corea inizierà una lunga visita di questo paese in quanto vogliamo visitarlo in lungo e largo, anche se non è enorme! E diciamocela tutta, anche per ammortizzare un po' i costi del traghetto.
 
 ###### 9. Giappone!
 
