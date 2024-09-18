@@ -70,7 +70,7 @@
               <h3 id="travelingSumCost" class="mb-5 h5 "></h3>
             </div>
             <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Costo giornaliero</h4>
+              <h4 class="h5 mb-2">Costo giornaliero*</h4>
               <h3 id="dailyCost" class="mb-5 h5 "></h3>
             </div>
             <!-- <div class="col-md-3 mb-3">
@@ -104,6 +104,8 @@
               <h3 id="travelingSumCost" class="mb-5 h5 "></h3>
             </div> -->
           </div>
+          <h6 class="mb-6 h6 ">Nota:</h6> Nei conteggi è attualmente <b>escluso il costo della nave da Vladivostok a Donghae (Russia-Corea)</b> che ammonta a <b><a id="travelingSumCostFerry"></a> euro</b>. Essendo un investimento che verrà ammortizzato in un anno questo costo verrà aggiunto in seguito. 
+          Per correttezza se tenessimo conto anche di questo costo la nostra spesa giornaliera sarebbe di <b><a id="dailyCostFerry"></a></b>.
         </div>
       </div>
     </div>
@@ -224,7 +226,7 @@
       success: function (data) {
         console.log(data);
 
-        let travelingSumCost = 0, i = 0;
+        let travelingSumCost = 0, i = 0, travelingSumCostFerry = 0, ferrycost = 0;
         let year = 2; //calculateyear(tripData.startingDate);
         let annoUno = 0, annoDue = 0, annoTre = 0;
         let dtUno =  moment(toDate(tripData.startingDate)), dtDue = toDate(tripData.startingDate);
@@ -240,26 +242,34 @@
           // console.log(data.res[i])
           if(data.res[i].deleted_by == null) {
             travelingSumCost += parseFloat(data.res[i].cost);
-          
-            if(toDate(data.res[i].date) <= dtDue){
+            
+            // rimuovo momentaneamente i costi del traghetto
+            if(data.res[i].description.indexOf('[EX]') > -1)
+                ferrycost += parseFloat(data.res[i].cost);
+            else if(toDate(data.res[i].date) <= dtDue){
                  annoUno += parseFloat(data.res[i].cost);     
             }
             else if(toDate(data.res[i].date) >= dtDue && toDate(data.res[i].date) <= dtTre){
-              annoDue += parseFloat(data.res[i].cost);
+                annoDue += parseFloat(data.res[i].cost);
             }
             else {
-              annoTre += parseFloat(data.res[i].cost);
+                annoTre += parseFloat(data.res[i].cost);
             }
           }
         
           i++;
         }
+
+        console.log("ferrycost")
+        console.log(ferrycost)
         
         document.getElementById('annoUno').innerText = Math.round((annoUno + Number.EPSILON) * 100) / 100 + ' €';
         document.getElementById('annoDue').innerText = Math.round((annoDue + Number.EPSILON) * 100) / 100 + ' €';
         document.getElementById('annoTre').innerText = Math.round((annoTre + Number.EPSILON) * 100) / 100 + ' €';
 
-        travelingSumCost = Math.round((travelingSumCost + Number.EPSILON) * 100) / 100;
+        // escludo i costi del traghetto dalla somma totale
+        travelingSumFerryCost = Math.round((travelingSumCost + Number.EPSILON) * 100) / 100;
+        travelingSumCost = Math.round(((travelingSumCost - ferrycost) + Number.EPSILON) * 100) / 100;
 
         document.getElementById('travelingSumCost').innerText = travelingSumCost + ' €';
 
@@ -267,6 +277,13 @@
         costperDay = Math.round(((travelingSumCost / day) + Number.EPSILON) * 100) / 100
 
         document.getElementById('dailyCost').innerText = costperDay + ' €';
+
+        // ferry cost add
+        document.getElementById('travelingSumCostFerry').innerText = ferrycost + ' €';
+
+        costperDay = Math.round(((travelingSumFerryCost / day) + Number.EPSILON) * 100) / 100
+
+        document.getElementById('dailyCostFerry').innerText = costperDay + ' €';
 
         setChart(data);
         setGrid(data);
