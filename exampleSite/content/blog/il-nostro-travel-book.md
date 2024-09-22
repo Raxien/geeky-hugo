@@ -39,6 +39,9 @@ Acquista ora il link di accesso **e inizia a seguirci ogni giorno mentre esplori
 
 Abbiamo scelto di attribuire una piccola cifra a pagamento a questo Travel Book, per dare valore al nostro lavoro quotidiano. **Grazie per il riconoscimento che avrai piacere di dedicargli anche tu emozionandoti come se fossi ogni giorno al nostro fianco!**
 
+<h6 style="text-align: center !important">PREZZO: 9,99 €</h6>
+<br>
+
 ##### Assicurarti il tuo accesso esclusivo e preparati a viaggiare con noi!
 
 `Importante`  
