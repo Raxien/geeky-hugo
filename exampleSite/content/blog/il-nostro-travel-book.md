@@ -2,7 +2,7 @@
 title: 'E'' uscito il Travel Book per seguire il nostro viaggio!'
 description: "Scopri le nostre avventure in tempo reale con post, foto e racconti esclusivi di quest''epico viaggio verso il Giappone"
 image: images/travel-book-jp.png
-date: 2024-09-17T00:00:00.000
+date: 2024-09-22T00:00:00.000
 categories: ["Blog"]
 type: featured
 draft: false
