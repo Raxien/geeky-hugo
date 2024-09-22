@@ -1,5 +1,5 @@
 ---
-title: Grazie l'acquisto!
+title: Grazie per l'acquisto!
 description: La storia di com'è un gatto europeo è entrato nella leggenda
 image: images/travel-book-jp.png
 layout: travel-book
@@ -10,7 +10,7 @@ D'ora in poi avrai accesso a:
 
 - **la nostra posizione:** potrai vedere in tempo reale dove siamo nel mondo e cosa stiamo visitando
 
-- **più di 150 post:** abbiamo già inserito 150 post corredati di foto e racconti esclusivi che 
+- **più di 150 post:** abbiamo già inserito 150 post corredati di foto e racconti esclusivi 
 
 - **un nuovo post ogni giorno:** accesso in anteprima a dove siamo e cosa stiamo facendo!
 
@@ -31,10 +31,9 @@ Per accedere al nostro Travel Book puoi farlo scaricando la seguente applicazion
 
 Dopo aver installato l'applicazione ed esserti registrato puoi accedere al nostro Travel Book cliccando su questo link:
 
+`Importante`  
+Il link alle istruzioni saranno sempre disponibili nella fattura che riceverete via mail alla voce "Codice". In caso di problemi potete contattarci presso <a href="mailto:info@vandipety.it" target="_self" rel="noopener" >info@vandipety.it</a>.
+
 <div style="text-align: center">
 <a id="btnAction" href="" target="_blank">{{< image src="/images/btn-travel-book.png" >}}</a> 
 </div>
-
-
-
-
