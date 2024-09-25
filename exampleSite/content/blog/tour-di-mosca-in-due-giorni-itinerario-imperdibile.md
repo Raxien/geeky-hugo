@@ -68,7 +68,7 @@ Se sei un amante delle opere o dei balletti **puoi decidere di comprare il bigli
 
 Nella stessa piazza di trova il Central Kids Store, un centro commerciale per bambini disposto su sette piani, con le vetrine che raffigurano scene di fiabe popolari e all’interno **uno degli orologi meccanici ricoperto d’oro più grandi del mondo**, e un razzo alto 18,5 metri e composto da due milioni di pezzi di Lego. 
 
-> E' uscito il nostro **Travel Book**! Segui la nostra avventura fino in Giappone in tempo reale! [Scoprilo qui!](/blog/il-nostro-travel-book/)
+> E' uscito il nostro **Travel Book**! Segui la nostra avventura fino in Giappone in tempo reale [cliccando qui!](/blog/il-nostro-travel-book/)
 
 ##### Giorno 2: da sottoterna ai grattacieli 
  
