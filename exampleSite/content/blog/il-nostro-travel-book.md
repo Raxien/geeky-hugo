@@ -11,7 +11,7 @@ draft: false
 E' uscito **il nostro Travel Book di questo epico viaggio** che ci sta portando dall'Italia al Giappone! Unisciti a noi in quest'avventura unica, seguendo in tempo reale il nostro viaggio attraverso oltre 150 post ricchi di foto, racconti e curiosità. 
 
 `Attenzione`  
-Se sei abbonato al nostro {{< extLink "canale Instagram" "https://www.instagram.com/vandipety/" >}} riceverai gratuitamente questo link oltre **a molti altri contenuti esclusivi**!
+Se sei abbonato al nostro {{< extLink "canale Instagram" "https://www.instagram.com/vandipety/" >}} riceverai gratuitamente questo link oltre **a molti altri contenuti esclusivi** al terzo mese di abbonamento!
 
 ##### Seguici in tempo reale 
 Non perdere neanche un istante! **Avrai accesso alla nostra posizione in tempo reale** di dove siamo nel mondo e di cosa stiamo visitando in anteprima!
