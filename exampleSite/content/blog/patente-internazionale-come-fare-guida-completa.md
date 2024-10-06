@@ -1,5 +1,5 @@
 ---
-title: 'Come fare la Patente Internazionele? Guida completa'
+title: 'Come fare la Patente Internazionale? Guida completa'
 description: Guida completa su come ottenere la patente internazionale in Italia e dall'estero
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727940279/Articoli/Blog/patente-internazionla-come-fare_kzdx44.png
 date: 2024-10-01T10:00:00+01:00
@@ -82,9 +82,9 @@ Se ti trovi all'estero e hai bisogno di una patente internazionale non è possib
 
 Nel dettaglio i passi da seguire sono:
 
-1. **Fare almeno 3 fototessere**
-2. **Autenticare la fotografia** tramite Consolato. Questi chiederanno almeno 2 fototessere
-3. **Spedire in Italia** una o più fototessere (meglio abbondare che deficere), la fotografia autenticata, una delega e la propria patente ad un familiare/amico che si possa occupare della procedura. Consgiliamo di usare DHL visto che spedisce in 24 ore!
+1. **Fare almeno 3 foto tessere**
+2. **Autenticare la fotografia** tramite Consolato. Questi chiederanno almeno 2 foto tessere
+3. **Spedire in Italia** una o più foto tessere (meglio abbondare che non si sa mai), la fotografia autenticata, una delega e la propria patente ad un familiare/amico che si possa occupare della procedura. Consigliamo di usare DHL visto che spedisce in 24 ore!
 4. **Richiedere la Patente Internazionale** tramite [Motorizzazione civile](#patente-internazionale-con-motorizzazione-civile) o tramite [ACI](#patente-internazionale-tramite-aci)
 5. **Spedire tutti i documenti** nel Paese Estero in cui si è
 
