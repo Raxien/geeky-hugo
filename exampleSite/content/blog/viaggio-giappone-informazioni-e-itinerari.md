@@ -64,7 +64,7 @@ Per maggiori informazioni vi rimandiamo al sito di {{< extLink "viaggiare sicuri
 ##### Mezzi di trasporto pubblici 
 Il Giappone ha un'eccellente rete di trasporti pubblici. Ci si può spostare in tutto il paese usando autobus, treni e tram. Di contro questi mezzi sono molto cari quindi consigliamo di acquistare dei pass:
 -  {{< extLink "Pass per la metro di Tokyo" "https://www.tokyometro.jp/en/ticket/travel/" >}}: potete accedere gratuitamente per 24/46/72 ore a tutte le linee della metro di Tokyo Metro e le linee Toei.
--  {{< extLink "JR Pass" "https://japanrailpass.net" >}}: potete usare gratuitamente tutte le linee JR che comprendono i famosi treni proiettile **shinkansen**, alcuni traghetti e pullman. Prima di procedere con l'acquisto consultate {{< extLink "le linee valide qui" "https://japanrailpass.net/en/about_jrp.html#anchor04" >}}.
+-  {{< extLink "JR Pass" "https://www.jrpass.com/it/buy-the-japan-rail-pass-online" >}}: potete usare gratuitamente tutte le linee JR che comprendono i famosi treni proiettile **shinkansen**, alcuni traghetti e pullman. Prima di procedere con l'acquisto consultate {{< extLink "le linee valide qui" "https://japanrailpass.net/en/about_jrp.html#anchor04" >}}.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1687279269/Articoli/Giappone/capotreno-stazione-nara_jmli6n.jpg" >}}
 
