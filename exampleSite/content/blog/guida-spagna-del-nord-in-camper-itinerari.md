@@ -112,7 +112,7 @@ Di seguito un'idea di quanto abbiamo speso nei 15 giorni in Spagna del Nord, ten
 {{< animali >}}
 
 ##### Considerazioni e tappe imperdibili
-Non conoscevamo la Nuova Aquitania e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
+**Non conoscevamo il nord della Spagna** e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
 
 In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "San Sebastian" >}}**: la cittadina è forse la più bella di tutta la zona. Molto elegante, offre anche un panorama di divertimento per i giovani. 
