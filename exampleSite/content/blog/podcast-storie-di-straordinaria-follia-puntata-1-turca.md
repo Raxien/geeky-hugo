@@ -21,4 +21,4 @@ La prima puntata racconta **i nostri 2 mesi e mezzo in Turchia, il nostro approc
 
 Curiosi? **Ascolta qui la prima puntata!**
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/76dgNSWFDADgJPBjqbNStn?utm_source=generator&theme=0&t=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3hkVYaLUoAAMe3FC33IZLS?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
