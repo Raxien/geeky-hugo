@@ -5,6 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q
 date: 2023-01-22T17:00:00.000
 categories: ["Italia", "Camper"]
 type: regular
+draft: true
 ---
 
 Quando siamo partiti abbiamo postato ogni singolo giorno una storia mattutina su Instagram per tenere traccia di dove fossimo, poi cambiando continente (ebbene sì, abbiamo traghettato in [Africa](https://www.youtube.com/playlist?list=PLHaclq_J5PZ929klaWueEsMuZZvFWZKIB)) e avendo problemi di connessione Internet, abbiamo deciso di mantenere traccia delle nostre tappe negli articoli qui sul blog dedicati ad ogni paese e di sfruttare un'applicazione che ci permettesse di associare fotografie a posizione nel mondo. 
@@ -31,6 +32,6 @@ Insomma senza di loro non sarebbe stata la stessa cosa. Senza di loro non saremm
 
 Andiamo avanti con loro, grazie a loro.
 
-Ti lasciamo il {{< extLink "link" "https://findpenguins.com/0knsmwp4npafs/trip/6370d91fc6caf3-83958962" >}} della mappa. Cercheremo di aggiornarla il più possibile in tempo reale : )
+Ti lasciamo il {{< extLink "link" "https://findpenguins.com/0knsmwp4npafs/trip/6370d91fc6caf3-83958962" >}} della mappa. Cercheremo di aggiornarla il più possibile in tempo reale :)
 
 Se invece vuoi rivedere le nostre avventure in Europa e in Africa trovi tutto sul nostro **{{< extLink "canale YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}}. 

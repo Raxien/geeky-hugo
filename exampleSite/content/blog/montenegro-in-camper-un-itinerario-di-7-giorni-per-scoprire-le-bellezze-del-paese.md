@@ -115,7 +115,7 @@ Arrivando dalla [Bosnia ed Erzegovina](/blog/bosnia-e-erzegovina-in-camper) abbi
 I veicoli immatricolati in Italia possono entrare e circolare senza carta verde poiché la polizza di assicurazione comprende l’estensione della garanzia in Montenegro.
 
 ###### Assicurazione sanitaria
-Come sempre noi ci siamo affidati a **{{< extLink "Genki" "https://genki.world/?with=vandipety" >}}** per la nostra assicurazione che ha coperto tutto il nostro viaggio nei [Balcani](/categories/balcani/).
+Come sempre noi ci siamo affidati a **{{< extLink "Genki" "https://www.genki.world/with/vandipety" >}}** per la nostra assicurazione che ha coperto tutto il nostro viaggio nei [Balcani](/categories/balcani/).
 
 ###### Moneta locale
 La moneta locale è l'Euro e ovunque viene accettata la carta di credito, quindi non abbiate timore di dover andare a cambiare soldi o prelevare e pagare commissioni. 
