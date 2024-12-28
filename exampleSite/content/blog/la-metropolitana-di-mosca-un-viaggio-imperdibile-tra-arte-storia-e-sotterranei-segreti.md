@@ -3,7 +3,7 @@ title: 'La Metropolitana di Mosca: un viaggio imperdibile nel Palazzo del popolo
 description: "Scopri i segreti della metropolitana di Mosca, un capolavoro di architettura e ingegneria che collega la capitale russa con un labirinto di stazioni mozzafiato. Un viaggio nella storia, nell'arte e nella cultura sovietica."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1728354508/Articoli/Russia/Mosca/metro/russia-metro_ss7hzp.jpg
 date: 2024-10-03T08:00:00.000
-categories: ["Asia", "Russia"]
+categories: ["Guida", "Russia"]
 type: featured
 draft: false
 ---
