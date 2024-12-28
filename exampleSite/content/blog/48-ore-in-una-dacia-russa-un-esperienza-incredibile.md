@@ -3,7 +3,7 @@ title: '48 ore in una dacia russa: un’esperienza incredibile!'
 description: "Alla scoperta della Russia più autentica: un weekend indimenticabile nell’autentica dacia di una famiglia russa "
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1731636403/Articoli/Russia/dacia/dacia-russia_tqc1dz.jpg
 date: 2024-12-13T10:00:00+01:00
-categories: [ Blog", "Russia"]
+categories: [ "Blog", "Russia"]
 country: "Russia"
 type: featured
 ---
@@ -11,9 +11,9 @@ type: featured
 Chi l'avrebbe mai detto che {{< extLink "un incontro casuale in Turchia" "https://youtu.be/E5om0a1GiWU" >}} ci avrebbe portati a vivere un'esperienza così autentica in Russia?  
 Avevamo conosciuto Emil e la sua famiglia per caso, e **mai ci saremmo immaginati di vivere 48 ore nella loro dacia russa** nelle campagne di Kazan, sulle rive del Volga.
 
-Vi raccontiamo la nostra esperienza con una pagina di diario, tramite quei ricordi che resteranno per sempre nel nostro cuore. 
+Vi raccontiamo la nostra esperienza con una pagina di diario, tramite quei ricordi che resteranno per sempre nel nostro cuore.
 
-##### Arrivo alla dacia 
+##### Arrivo alla dacia 
 Dopo aver seguito Emil **ed esserci addentrati di notte in un fitto bosco**, ci siamo ritrovati con i fari puntati sulle pareti in legno di una dacia, la tipica casa di villeggiatura russa. 
 Non riuscivo a credere ai miei occhi. La piccola dependance a lato, con le pareti in vetro, rivelava un salotto da esterno, mentre una volta varcata la soglia di casa, al piano di sotto sono apparsi la cucina, il salotto, la camera da letto e il bagno. Ogni stanza aveva un colore diverso alle pareti, con un dettaglio particolare appoggiato o appeso qua e là. La scala, rigorosamente in legno come tutto il resto, conduceva alla stanza da letto di sopra e al secondo bagno. 
 
@@ -53,6 +53,9 @@ _Scopri il video della nostra estate russa_
 
 ##### Tour delle dacie
 Nel tardo pomeriggio la nostra presenza aveva fatto notizia, tant’è che ci siamo ritrovati a spalancare le porte del van per mostrare la nostra piccola casa su quattro ruote, per poi curiosare fra le mura altrui. Dopo aver ricevuto un invito da parte di due anziani per l’indomani nella loro isba - la classica casa in legno dipinto abitata tutto l’anno -  **abbiamo varcato la soglia della splendida dacia di un artista**, Vadim. Aveva pensato e costruito tutto lui: le ceramiche alle finestre, il salotto con i tendoni, la cucina in legno con cimeli del passato, il bagno in stile nipponico, la stanza open space al piano di sopra con macchine da scrivere e fotocamere analogiche, una macchina da cucire trasformata in tavolino e piccolo forno per gli spuntini con amici, lo studio d’arte all’ultimo piano con le tempere, gli oli e vari materiali messi a disposizione da madre natura. **Siamo usciti dalla casa-museo con un paio di regali:** una scarpa in legno intagliato e un’icona di San Nicola, protettore dei viaggi. 
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/dacia/dacia-proviamo-attrezzi_y5pn01.jpg" >}}
+_Pronta per andare nei campi_
 
 Da Rustik e Tania ci siamo presentati con due borse di panni da lavare, mentre loro ci mostravano i giochi allestiti per i gatti di casa, e ci servivano una generosa porzione di quella zuppa che ogni famiglia prepara con un ingrediente segreto, mescolato con amore. 
 Il sole accennava timidamente a tramontare, mentre noi ci preparavamo ad assaggiare la cena preparata da Emil, brindando ormai con abilità e dando il via a un karaoke in onore delle canzoni che hanno lasciato un segno nel tempo. 
