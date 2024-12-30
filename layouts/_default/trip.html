@@ -141,93 +141,63 @@
 <!--=================== expanses script start ===================-->
 <script>
 
-  // let rpcUrl = "http://localhost:3000";
-  let device;
-  let rpcUrl = "https://vandipety-api.herokuapp.com";
-  // let rpcUrl = "https://vandipetyapi.onrender.com";
+  const rpcUrl = "https://vandipety-api.herokuapp.com";
 
-  var getMapData = function () {
-    console.log('getting data');
+  const getMapData = async () => {
+    try {
+      const response = await fetch(`${rpcUrl}/data/map`);
+      const data = await response.json();
+      setMap(data.json);
+      return data;
+    } catch (error) {
+      console.error('Error fetching map data:', error);
+    }
+  };
 
-    $.ajax({
-      type: 'GET', // added,
-      url: rpcUrl + "/data/map",
-      contentType: "application/json",
-      success: function (data) {
-        console.log(data);
-        res = data.json;
+  const getTripData = async () => {
+    try {
+      const response = await fetch(`${rpcUrl}/data/trip`);
+      const data = await response.json();
+      const res = data.json;
+      
+      setStartDate(res.startingDate);
+      setBox('travelingKm', (res.startingKm, res.actualKm));
+      setBox('visitedCuntry', res.visitedCountry.length);
+      
+      return data;
+    } catch (error) {
+      console.error('Error fetching trip data:', error);
+    }
+  };
 
-        setMap(res);
-
-        return data;
-      },
-      error: function (xhr, status, error) {
-        console.log('Error: ' + error.message);
-      }
-    });
-  }
-
-  var getTripData = function () {
-    console.log('getting data');
-
-    $.ajax({
-      type: 'GET', // added,
-      url: rpcUrl + "/data/trip",
-      contentType: "application/json",
-      success: function (data) {
-        console.log(data);
-        res = data.json;
-
-        setStartDate(res.startingDate);
-
-        setBox('travelingKm', (res.startingKm, res.actualKm));
-        setBox('visitedCuntry', res.visitedCountry.length);
-
-        return data;
-      },
-      error: function (xhr, status, error) {
-        console.log('Error: ' + error.message);
-      }
-    });
-  }
-
-  let setBox = function (node, value) {
+  const setBox = (node, value) => {
     document.getElementById(node).innerText = value;
+  };
 
-  }
-
-  let setStartDate = function (startDate) {
-    // box giorni di viaggio
+  const setStartDate = (startDate) => {
     const today = new Date();
     const yyyy = today.getFullYear();
-    let mm = today.getMonth() + 1; // Months start at 0!
-    let dd = today.getDate();
-
-    if (dd < 10) dd = '0' + dd;
-    if (mm < 10) mm = '0' + mm;
+    const mm = String(today.getMonth() + 1).padStart(2, '0');
+    const dd = String(today.getDate()).padStart(2, '0');
 
     const date1 = new Date(startDate);
-    // const date1 = new Date('18/05/2022');
-    const date2 = new Date(mm + '/' + dd + '/' + yyyy);
-    const diffTime = Math.abs(date2 - date1);
-    const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+    const date2 = new Date(`${mm}/${dd}/${yyyy}`);
+    const diffDays = Math.ceil(Math.abs(date2 - date1) / (1000 * 60 * 60 * 24));
 
-    let fixedDate = startDate.split('/');
-    fixedDate = fixedDate[1] + '/' + fixedDate[0] + '/' + fixedDate[2];
+    const [day, month, year] = startDate.split('/');
+    const fixedDate = `${month}/${day}/${year}`;
 
     setBox('travelingDay', diffDays);
     setBox('travelingStartDay', fixedDate);
   };
 
-  let setMap = function (mapJson) {
-    // vandipety - su milano circa
-    var lat = 11.25273288631866;
-    var long = 45.26401290964107;
+  const setMap = (mapJson) => {
+    const lat = 11.25273288631866;
+    const long = 45.26401290964107;
 
     mapboxgl.accessToken = 'pk.eyJ1IjoicmF4aWVuIiwiYSI6ImNscHA1cDBkNjExMjQybW1zdDdwN2tydmYifQ.dWypGWy2wcMCPjDv5yKGsQ';
 
-    /* Map: This represents the map on the page. */
-    var map = new mapboxgl.Map({
+    const map = new mapboxgl.Map({
       container: "map",
       style: "mapbox://styles/mapbox/light-v10",
       zoom: 5,
@@ -394,12 +364,11 @@
 
   };
 
-  $(document).ready(function () {
-    device = (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent));
-    console.log(device);
-
-    getTripData();
-    getMapData();
+  document.addEventListener('DOMContentLoaded', () => {
+    const device = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    
+    Promise.all([getTripData(), getMapData()])
+      .catch(error => console.error('Error initializing data:', error));
   });
 </script>
 <!--=================== expanses script end ===================-->

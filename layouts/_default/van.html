@@ -118,71 +118,51 @@
 <!--=================== expanses script start ===================-->
 <script>
 
-// let rpcUrl = "http://localhost:3000";
-let rpcUrl = "https://vandipety-api.herokuapp.com";
-// let rpcUrl = "https://vandipetyapi.onrender.com";
+const rpcUrl = "https://vandipety-api.herokuapp.com";
 
-var getTripData = function () {
-
+const getTripData = () => {
   console.log('getting data');
   $.ajax({
-    type: 'GET', // added,
-    url: rpcUrl + "/data/trip",
+    type: 'GET',
+    url: `${rpcUrl}/data/trip`,
     contentType: "application/json",
-    success: function (data) {
-      console.log(data);
-      res = data.json;
-
+    success: ({ json: res }) => {
       console.log(res);
-
       setVanCost(res.costVan, res.costAccessory);
       setKmData(res.actualKm);
       setInsuranceData(res.assicurazione, res.bollo);
-
-      return data;
     },
-    error: function (xhr, status, error) {
-        console.log('Error: ' + error.message);
-    }
-    });
-  }
-  
-  let setInsuranceData = function(assicuazione, bollo) {
-      document.getElementById('assicuazione').innerText = assicuazione + ' €';   
-      document.getElementById('bollo').innerText = bollo + ' €';   
-  }
-
-  let setKmData = function(actualKm){
-        document.getElementById('travelingKm').innerText = actualKm;
-  }
-
-  let setVanCost = function(initialCost, accessoryCost, day) {
-    let arrCost = Object.keys(accessoryCost).map(function(_) { return accessoryCost[_]; })
-    const sum = arrCost.reduce((partialSum, a) => partialSum + a, 0);
-
-    document.getElementById('initialCost').innerText = initialCost + ' €';
-    document.getElementById('accessoryCost').innerText = sum + ' €';   
-    document.getElementById('totalVanCost').innerText = initialCost + sum + ' €';   
-    
-    var result = [];
-
-    for(var i in accessoryCost)
-      result.push([i, accessoryCost [i]]);
-                        
-    new gridjs.Grid({columns: ["Accessorio", "Costo"],
-                     data: result,
-                     sort: true,
-                     pagination: {
-                      limit: 20
-                    },
-                    // language : it_IT
-                    }).render(document.getElementById("tblAccessory"));
-
-  }
-  
-  $( document ).ready(function() {
-    getTripData();
+    error: (_, __, error) => console.log('Error:', error.message)
   });
+};
+
+const setInsuranceData = (assicuazione, bollo) => {
+  document.getElementById('assicuazione').innerText = `${assicuazione} €`;
+  document.getElementById('bollo').innerText = `${bollo} €`;
+};
+
+const setKmData = (actualKm) => {
+  document.getElementById('travelingKm').innerText = actualKm;
+};
+
+const setVanCost = (initialCost, accessoryCost) => {
+  const totalAccessoryCost = Object.values(accessoryCost).reduce((sum, cost) => sum + cost, 0);
+  
+  document.getElementById('initialCost').innerText = `${initialCost} €`;
+  document.getElementById('accessoryCost').innerText = `${totalAccessoryCost} €`;
+  document.getElementById('totalVanCost').innerText = `${initialCost + totalAccessoryCost} €`;
+
+  const accessoryData = Object.entries(accessoryCost);
+  
+  new gridjs.Grid({
+    columns: ["Accessorio", "Costo"],
+    data: accessoryData,
+    sort: true,
+    pagination: { limit: 20 }
+  }).render(document.getElementById("tblAccessory"));
+};
+
+$(document).ready(getTripData);
   </script>
 <!--=================== expanses script end ===================-->
 {{ end }}
