@@ -15,7 +15,7 @@ Ecco il nostro itinerario dettagliato per non perdere le migliori attrazioni del
 
 #### Itinerario
 
-Questo è il nostro itinerario se si ha poco tempo per visitare la capitale. Può esser usata come 
+Questo è il nostro itinerario se si ha poco tempo per visitare la capitale. 
 
 ##### Giorno 1: Piazza Rossa e dintorni
 
@@ -70,7 +70,7 @@ Nella stessa piazza di trova il Central Kids Store, un centro commerciale per ba
 
 > E' uscito il nostro **Travel Book**! Segui la nostra avventura fino in Giappone in tempo reale [cliccando qui!](/blog/il-nostro-travel-book/)
 
-##### Giorno 2: da sottoterna ai grattacieli 
+##### Giorno 2: da sottoterra ai grattacieli 
  
 ###### La metropolitana di Mosca
 
