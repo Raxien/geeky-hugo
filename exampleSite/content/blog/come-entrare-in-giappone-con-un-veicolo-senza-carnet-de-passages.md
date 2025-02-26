@@ -49,6 +49,8 @@ Inoltre, **non è richiesto acquistare in anticipo il biglietto di uscita dal Gi
 
 In uscita dal paese consegni il TIP ai funzionari doganali che si occuperanno di confermare che hai lasciato il paese.
 
+{{< youtube DIFfBxk0JBA >}}
+
 ##### Procedura per l’Importazione Temporanea
 
 Il TIP è disponibile in tutti i porti per traghetti internazionali (ad esempio Hakata, a Fukuoka, e Shimonoseki). Ecco cosa devi fare:
@@ -106,3 +108,4 @@ Se vuoi saperne di più su tutta la nostra esperienza puoi rivedere {{< extLink 
 <!-- Inoltre, se stai cercando una guida dettagliata sulla Transiberiana via terra, puoi acquistare il nostro e-book online. -->
 
 {{< blogFooter "" "1" "0" >}}
+
