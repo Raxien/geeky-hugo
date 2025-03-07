@@ -58,17 +58,13 @@ icon = "fab fa-instagram"
 link = "https://www.instagram.com/vandipety/"
 title = "Instagram"
 [[social]]
-icon = "fab fa-tiktok"
-link = "https://www.tiktok.com/@vandipety"
-title = "TikTok"
+icon = "fab fa-threads"
+link = "https://www.threads.net/@vandipety"
+title = "Threads"
 [[social]]
 icon = "fab fa-facebook"
 link = "https://www.facebook.com/ilgattodicitturin"
 title = "Facebook"
-[[social]]
-icon = "fab fa-x-twitter"
-link = "https://x.com/vandipety"
-title = "x"
 [[social]]
 icon = "fas fa-store"
 link = "https://www.amazon.it/shop/vandipety"

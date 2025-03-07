@@ -222,6 +222,9 @@
     try {
       const response = await fetch(`${rpcUrl}/sw/getSpese`);
       const data = await response.json();
+
+      console.log(data);
+
       setGrid(data);
       return data;
     } catch (error) {
