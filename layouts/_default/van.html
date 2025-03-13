@@ -3,7 +3,8 @@
 {{- $sectionDelimiter := "<!-- section break -->" -}}
 {{- $rawContentSections := split .RawContent $sectionDelimiter -}}
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
@@ -36,16 +37,16 @@
           <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
           <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 992px)">
           <source srcset="{{ $imageXL.RelPermalink }}">
-          <img loading="lazy" decoding="async" class="img-fluid mb-5 w-100 rounded-4" src="{{$imageFallback.RelPermalink}}"
-            alt="{{.Title}}" width="{{$image.Width}}" height="{{$image.Height}}">
+          <img loading="lazy" decoding="async" class="img-fluid mb-5 w-100 rounded-4"
+            src="{{$imageFallback.RelPermalink}}" alt="{{.Title}}" width="{{$image.Width}}" height="{{$image.Height}}">
         </picture>
         {{ end }}
         <!-- /image processing for multiple device -->
         {{ end }}
         <h2 class="mb-3">{{ .Title | markdownify }}</h2>
         <div class="content">
-            <!-- {{.Content}} -->
-            {{ index $rawContentSections 0 | .RenderString }}
+          <!-- {{.Content}} -->
+          {{ index $rawContentSections 0 | .RenderString }}
         </div>
 
         <div id="informazioni"></div>
@@ -92,16 +93,17 @@
             </div>
           </div>
         </div>
-<i>*dall'11 aprile 2024 abbiamo disdetto l'assicurazione con CamperSereno in quanto siamo usciti dai paesi coperti dalla carta verde. Effettuiamo l'assicurazione in frontiera ad ogni nuovo paese.</i>
+        <i>*dall'11 aprile 2024 abbiamo disdetto l'assicurazione con CamperSereno in quanto siamo usciti dai paesi
+          coperti dalla carta verde. Effettuiamo l'assicurazione in frontiera ad ogni nuovo paese.</i>
         <div class="content">
           <!-- {{.Content}} -->
           {{ index $rawContentSections 1 | .RenderString }}
+        </div>
       </div>
     </div>
-  </div>
 
-  <br>
-  
+    <br>
+
 
     <br>
     <!-- disqus comments -->
@@ -118,52 +120,53 @@
 <!--=================== expanses script start ===================-->
 <script>
 
-const rpcUrl = "https://vandipety-api.herokuapp.com";
+  //let rpcUrl = "http://localhost:3000";
+  //const rpcUrl = "https://vandipety-api.herokuapp.com";
+  const rpcUrl = "https://vandipetyapi.onrender.com"
 
-const getTripData = () => {
-  console.log('getting data');
-  $.ajax({
-    type: 'GET',
-    url: `${rpcUrl}/data/trip`,
-    contentType: "application/json",
-    success: ({ json: res }) => {
-      console.log(res);
-      setVanCost(res.costVan, res.costAccessory);
-      setKmData(res.actualKm);
-      setInsuranceData(res.assicurazione, res.bollo);
-    },
-    error: (_, __, error) => console.log('Error:', error.message)
-  });
-};
+  const getTripData = () => {
+    console.log('getting data');
+    $.ajax({
+      type: 'GET',
+      url: `${rpcUrl}/data/trip`,
+      contentType: "application/json",
+      success: ({ json: res }) => {
+        console.log(res);
+        setVanCost(res.costVan, res.costAccessory);
+        setKmData(res.actualKm);
+        setInsuranceData(res.assicurazione, res.bollo);
+      },
+      error: (_, __, error) => console.log('Error:', error.message)
+    });
+  };
 
-const setInsuranceData = (assicuazione, bollo) => {
-  document.getElementById('assicuazione').innerText = `${assicuazione} €`;
-  document.getElementById('bollo').innerText = `${bollo} €`;
-};
+  const setInsuranceData = (assicuazione, bollo) => {
+    document.getElementById('assicuazione').innerText = `${assicuazione} €`;
+    document.getElementById('bollo').innerText = `${bollo} €`;
+  };
 
-const setKmData = (actualKm) => {
-  document.getElementById('travelingKm').innerText = actualKm;
-};
+  const setKmData = (actualKm) => {
+    document.getElementById('travelingKm').innerText = actualKm;
+  };
 
-const setVanCost = (initialCost, accessoryCost) => {
-  const totalAccessoryCost = Object.values(accessoryCost).reduce((sum, cost) => sum + cost, 0);
-  
-  document.getElementById('initialCost').innerText = `${initialCost} €`;
-  document.getElementById('accessoryCost').innerText = `${totalAccessoryCost} €`;
-  document.getElementById('totalVanCost').innerText = `${initialCost + totalAccessoryCost} €`;
+  const setVanCost = (initialCost, accessoryCost) => {
+    const totalAccessoryCost = Object.values(accessoryCost).reduce((sum, cost) => sum + cost, 0);
 
-  const accessoryData = Object.entries(accessoryCost);
-  
-  new gridjs.Grid({
-    columns: ["Accessorio", "Costo"],
-    data: accessoryData,
-    sort: true,
-    pagination: { limit: 20 }
-  }).render(document.getElementById("tblAccessory"));
-};
+    document.getElementById('initialCost').innerText = `${initialCost} €`;
+    document.getElementById('accessoryCost').innerText = `${totalAccessoryCost} €`;
+    document.getElementById('totalVanCost').innerText = `${initialCost + totalAccessoryCost} €`;
 
-$(document).ready(getTripData);
-  </script>
+    const accessoryData = Object.entries(accessoryCost);
+
+    new gridjs.Grid({
+      columns: ["Accessorio", "Costo"],
+      data: accessoryData,
+      sort: true,
+      pagination: { limit: 20 }
+    }).render(document.getElementById("tblAccessory"));
+  };
+
+  $(document).ready(getTripData);
+</script>
 <!--=================== expanses script end ===================-->
 {{ end }}
-
