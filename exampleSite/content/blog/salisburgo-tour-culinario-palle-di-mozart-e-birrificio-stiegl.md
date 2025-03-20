@@ -6,7 +6,7 @@ date: 2025-02-10T10:00:00+01:00
 categories: [ "Animali", "Guida"]
 type: featured
 country: Giappone
-draft: false
+draft: true
 ---
 
 Viaggiare in Giappone con il tuo animale domestico **è un'esperienza unica**, ma richiede una pianificazione accurata. Il paese adotta normative rigorose per l'importazione e il trasporto di animali, da rispettare assolutamente per garantire un viaggio sicuro e confortevole. 

@@ -1,6 +1,6 @@
 ---
-title: 'Viaggio in Giappone: tutto ciò che devi sapere e i nostri itinerari' 
-description: "Stai pensando di andare in Giappone? Fatti consigliare da noi!"
+title: 'Viaggio in Giappone 2025: Itinerari e Info Utili' 
+description: "Scopri itinerari e informazioni utili per il tuo viaggio in Giappone: costi, stagioni e consigli pratici dal blog di Vandipety!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1687279327/Articoli/Giappone/tori-in-acqua_gzscgp.jpg
 date: 2023-06-19T17:00:00.000
 categories: ["Asia", "Giappone", "Guida", "Itinerari"]
@@ -23,14 +23,16 @@ Se stai cercando una destinazione che ti offra un'esperienza di viaggio unica, i
 >     - [14 Giorni](#14-giorni) 
 > - [Le nostre mappe](#le-nostre-mappe)
 
-##### Il paese
+## Informazioni utili
+
+### Il paese
 Il Giappone è una delle nazioni più affascinanti e influenti del mondo. La sua storia è ricca di tradizioni, con riti e cerimonie che risalgono a secoli fa. Il paese offre anche molte attrazioni moderne, come i grattacieli di Tokyo, le tecnologie avanzate, i parchi tematici e molto altro ancora. 
 
 La natura del Giappone è altrettanto spettacolare, con montagne imponenti, fiori di ciliegio che sbocciano in primavera e spiagge di sabbia bianca che si affacciano sul Pacifico. 
 
 La lingua ufficiale è il giapponese ed è difficile trovare qualcuno che parli inglese. Per ovviare a questo problema vi consigliamo di scaricare un traduttore offline sul vostro telefono, nel nostro caso abbiamo scelto Google Translate ({{< extLink "Ios" "https://apps.apple.com/us/app/google-translate/id414706506" >}}, {{< extLink "Android" "https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en_US&pli=1" >}}).
 
-##### Clima e quando andare
+### Clima e quando andare
 Il Giappone ha un clima vario a seconda della stagione e della regione. In generale, **{{< underline "la migliore stagione" >}}** per visitare il paese è la primavera (marzo-maggio) quando i ciliegi in fiore offrono uno spettacolo mozzafiato, seguita dall'autunno (settembre-novembre) grazie agli splendidi colori autunnali. 
 
 L'estate (giugno-agosto) può essere calda e umida, specialmente nelle regioni costiere, mentre l'inverno (dicembre-febbraio) è freddo, ma ideale per chi vuole praticare sport invernali come lo sci. 
@@ -38,7 +40,7 @@ Inoltre, conviene prestare attenzione nella pianificazione del viaggio in base a
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1687279325/Articoli/Giappone/tempio-notte-tokyo-asakusa_frbfcb.jpg" >}}
 
-##### Come pagare
+### Come pagare
 In Giappone la moneta ufficiale è lo yen ( ¥, pronunciato "en"). 
 
 I bancomat sono facilmente disponibili in tutto il paese e possono essere utilizzati per prelevare denaro contante. In particolare modo li troverete nei Combini, i tipici negozi aperti 24 ore su 24, 7 giorni su 7 sparsi ovunque sul territorio.
@@ -49,8 +51,9 @@ Il Giappone è un paese moderno ma in merito alle carte di credito è molto indi
 
 Attualmente 1 € vale circa 147,6 ¥.
 
-##### Internet
-La soluzione migliore per avere internet è quella di acquistare una SIM dati. Noi consigliamo {{< extLink "questa" "https://www.japan-rail-pass.com/it/accesso-a-Internet/sim-card">}} con internet illimitato per 8, 16 o 31 giorni e che potete ritirare all'aeroporto o farvi consegnare direttamente a casa. 
+### Internet
+La soluzione migliore per avere internet è quella di acquistare una SIM dati. Noi consigliamo {{< extLink "questa" "- https://www.japan-wireless.com/esim?via=vandipety">}} con internet illimitato per tutta la durata del soggiorno. Nel caso di una eSIM è attiva fin da subito in alternativa potete richiedere una classica SIM o un router che potete ritirare all'aeroporto o farvi consegnare direttamente a casa. 
+
 Nel caso di viaggio in 2 o più persone consigliamo di prendere l'opzione con il Pocket Wifi.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1687279276/Articoli/Giappone/cervi-cibo-myajima_sm51ks.jpg" >}}

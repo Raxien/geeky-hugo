@@ -6,6 +6,7 @@ date: 2024-11-01T10:00:00+01:00
 categories: [ "Guida", "Corea del Sud"]
 country: "Corea del Sud"
 type: featured
+draft: true
 ---
 
 **Sogni un viaggio indimenticabile in Russia?** Che tu sia appassionato di storia, arte, natura o semplicemente curioso di scoprire una cultura affascinante, questo paese ha qualcosa da offrire a tutti.
