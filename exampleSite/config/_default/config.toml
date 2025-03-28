@@ -1,6 +1,19 @@
+<<<<<<< Updated upstream
 ######################## default configuration ####################
 baseURL = "https://demo.statichunt.com/geeky-hugo/"
 title = "Geeky | Hugo Personal Blog Template"
+=======
+baseURL = "https://www.vandipety.it"
+disableLanguages = ["fr"]
+disqusShortname = "vandipety-it"
+googleAnalytics = "G-E9L2CG2NZ6"
+languageCode = "it-IT"
+languageName = "It"
+
+[pagination]
+pagerSize = 10
+summaryLength = "20"
+>>>>>>> Stashed changes
 theme = "geeky-hugo"
 languageName = "En"
 languageCode = "en-us"
