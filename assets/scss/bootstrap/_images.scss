@@ -40,3 +40,16 @@
   @include font-size($figure-caption-font-size);
   color: $figure-caption-color;
 }
+
+.logoHeader { 
+  width: 40px;
+}
+
+.logoHeader img {
+  max-width: 100%;
+  max-height: auto;
+}
+
+.logoOther { 
+  width: 100px;
+}

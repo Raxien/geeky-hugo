@@ -1,9 +1,7 @@
 {{ define "main" }}
 
 <!-- checking blog -->
-{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq
-.Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section
-"tags") }}
+{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
 
 <!--=================== section start ===================-->
 <section class="section-sm">
@@ -11,53 +9,135 @@
     <div class="row">
       <div class="col-lg-8 mb-5 mb-lg-0">
         <!-- image path -->
-        {{ $imagePath:= .Params.image }} {{ if $imagePath }}
+        {{ $imagePath:= .Params.image }}
+        {{ if $imagePath }}
         <div class="position-relative">
-          {{ partial "image.html" (dict "Src" $imagePath "Alt" .Title "Class"
-          "img-fluid mb-5 w-100 rounded-4" ) }}
+          <!-- image CDN -->
+          {{ if hasPrefix $imagePath "http" }}
+          <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Title }}"
+            class="img-fluid mb-5 w-100 rounded-4">
+          {{ else }}
+          <!-- /image cdn -->
+
+          <!-- image processing for multiple device -->
+          {{ if fileExists (add `assets/` $imagePath) }}
+          {{ $image:= resources.Get $imagePath }}
+          {{ $imageFallback:= $image.Resize "1400x" }}
+          {{ $imageXL:= $image.Resize "1400x webp" }}
+          {{ $imageLG:= $image.Resize "1000x webp" }}
+          {{ $imageMD:= $image.Resize "800x webp" }}
+          {{ $imageSM:= $image.Resize "600x webp" }}
+          <picture>
+            <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
+            <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
+            <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 992px)">
+            <source srcset="{{ $imageXL.RelPermalink }}">
+            <img loading="lazy" decoding="async" class="img-fluid mb-5 w-100 rounded-4"
+              src="{{$imageFallback.RelPermalink}}" alt="{{.Title}}" width="{{$image.Width}}"
+              height="{{$image.Height}}">
+          </picture>
+          {{ else }}
+          <strong class="text-danger">`{{$imagePath}}` doesn't exist</strong>
+          {{ end }}
+          <!-- /image processing for multiple device -->
+          {{ end }}
           <ul class="list-inline card-badge">
             {{ range .Params.categories }}
             <li class="list-inline-item">
-              <a
-                href="{{`categories/` | relLangURL}}{{. | lower | urlize}}"
-                class="badge badge-primary py-1"
-                >{{. | title}}</a
-              >
+              <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary py-1">{{. | title}}</a>
             </li>
             {{ end }}
           </ul>
         </div>
-        {{ else }} {{ range .Params.categories }}
-        <a
-          href="{{`categories/` | relLangURL}}{{. | lower | urlize}}"
-          class="badge badge-primary mb-4 d-inline-block"
-          >{{. | title}}</a
-        >
-        {{ end }} {{ end }}
+        {{ else }}
+        {{ range .Params.categories }}
+        <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary mb-4 d-inline-block">{{. | title}}</a>
+        {{ end }}
+        {{ end }}
         <h1 class="h3 mb-4">{{.Title | markdownify}}</h1>
         <ul class="list-inline card-meta d-flex align-items-center mb-4">
-          <li class="list-inline-item d-flex align-items-center">
+          <li class="list-inline-item d-flex align-items-center" style="display: none !important; ">
             <i class="fas fa-user me-2"></i>
             <a href="{{`about` | relLangURL}}">{{site.Params.author}}</a>
           </li>
+          {{ if .Params.country}}
+          <li class="list-inline-item d-flex align-items-center">
+            <i class="fas fa-map-pin me-2"></i>
+            {{ $country := .Params.country}}
+            {{ $link:= add "search/?s=" $country }}
+            <a href="{{$link | relLangURL}}">{{.Params.country | title}}</a>
+          </li>
+          {{end}}
           <li class="list-inline-item d-flex align-items-center">
             <i class="fas fa-calendar me-2"></i>
-            <span>{{ time.Format ":date_long" .PublishDate }}</span>
+            <!-- data di pubblicazione formattata Mese, gg aaaa -->
+            {{ $date := time.Format ":date_long" .PublishDate }}
+            {{ $sDate := split (string $date) " " }}
+
+            <span>
+            {{ $aMonth := index $sDate 0}}
+            {{ $aDay := index $sDate 1}}
+            {{ $aYear := index $sDate 2}}
+
+            {{ $day := (string $aDay)}}
+            {{ $month := (string $aMonth)}}
+            {{ $year := (string $aYear)}}
+
+            {{ replace $day "," " " }}
+            {{ if eq $month "January" }}
+            {{ "Gennaio" }}
+            {{ else if eq $month "February" }}
+            {{ "Febbraio" }}
+            {{ else if eq $month "March" }}
+            {{ "Marzo" }}
+            {{ else if eq $month "April" }}
+            {{ "Aprile" }}
+            {{ else if eq $month "May" }}
+            {{ "Maggio" }}
+            {{ else if eq $month "June" }}
+            {{ "Giugno" }}
+            {{ else if eq $month "July" }}
+            {{ "Luglio" }}
+            {{ else if eq $month "August" }}
+            {{ "Agosto" }}
+            {{ else if eq $month "September" }}
+            {{ "Settembre" }}
+            {{ else if eq $month "October" }}
+            {{ "Ottobre" }}
+            {{ else if eq $month "November" }}
+            {{ "Novembre" }}
+            {{ else if eq $month "December" }}
+            {{ "Dicembre" }}
+            {{ end }}
+            {{ $year }}
+            </span>
           </li>
+          <li class="list-inline-item d-flex align-items-center">
+            <i class="fas fa-glasses me-2"></i>
+            {{ $readTime := mul (div (countwords .Content) 300.0) 60 }}
+            {{ $minutes := math.Floor (div $readTime 60) }}
+            {{ $seconds := mod $readTime 60 }}
+            <span>{{ $minutes }} {{ cond (eq $minutes 1) "minuto" "minuti" }} e
+                  {{ $seconds }} {{ cond (eq $seconds 1) "secondo" "secondi" }}</span>
+          </li>
+          {{ if .Params.sponsored}}
+          <li class="list-inline-item d-flex align-items-center">
+            <i>Sponsorizzato</i>
+          </li>
+          {{end}}
         </ul>
         <div class="content drop-cap">{{.Content}}</div>
-        <!-- Disqus comments -->
-        {{ if site.Config.Services.Disqus.Shortname }}
-        <div class="mt-20">
+        <!-- disqus comments -->
+        {{ if .Site.DisqusShortname }}
+        <div class="border rounded p-4">
           {{ template "_internal/disqus.html" . }}
         </div>
-      {{ end }}
-        
+        {{ end }}
       </div>
       <!-- sidebar widgets -->
       <aside class="col-lg-4">
-        {{ $widget:= site.Params.widgets.sidebar }} {{ partialCached
-        "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . )}}
+        {{ $widget:= site.Params.widgets.sidebar }}
+        {{ partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . )}}
       </aside>
     </div>
   </div>
@@ -70,18 +150,18 @@
     <div class="row">
       <div class="col-12">
         <div class="section-title">
-          <h2 class="h4 title-border">{{ site.Params.related_posts }}</h2>
+          <h2 class="h4 title-border">Articoli consigliati</h2>
         </div>
       </div>
     </div>
 
-    <!-- related post -->
+    <!-- releted post -->
     <div class="row">
-      {{ $related := (where site.RegularPages "Section" "in"
-      site.Params.mainSections) | intersect (where site.RegularPages ".Title"
-      "!=" .Title) | union (site.RegularPages.Related . ) }} {{ range first 3
-      $related }}
-      <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">{{ .Render "post" }}</div>
+      {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where site.RegularPages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
+      {{ range first 3 $related }}
+      <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+      {{ .Render "post" }}
+      </div>
       {{ end }}
     </div>
   </div>
@@ -89,12 +169,15 @@
 <!--=================== section end ===================-->
 
 <!-- regular page -->
-{{ else }} {{ partial "page-header.html" . }}
+{{ else }}
+{{ partial "page-header.html" . }}
 <section class="section-sm">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 mx-auto">
-        <div class="content">{{.Content}}</div>
+        <div class="content">
+          {{.Content}}
+        </div>
       </div>
     </div>
   </div>

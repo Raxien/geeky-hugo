@@ -1,0 +1,136 @@
+<!-- get param -->
+{{ $text:= (.Get 0) }}
+{{ $start:= (.Get 1) }}
+{{ $end:= (.Get 2) }}
+
+<blockquote>
+  <h6 id="testo">{{ $text }}</h5>
+  <div id="listExpanses"></div>
+  <h6>
+    <strong class="title-border">Totale : </strong><strong id="totalExpanses" class="title-border"></strong>
+  </h6>
+</blockquote>
+<!--=================== expanses script start ===================-->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@3.8.0/dist/chart.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/locale/it.js"></script>
+<script>
+
+  //let rpcUrl = "http://localhost:3000";
+  //const rpcUrl = "https://vandipety-api.herokuapp.com";
+  const rpcUrl = "https://vandipetyapi.onrender.com"
+  
+  let tripData  = null;
+  let costperDay = null;
+
+  let getSW = function () {
+
+    console.log('getting data');
+    $.ajax({
+      type: 'GET', // added,
+      url: rpcUrl + "/sw/get",
+      contentType: "application/json",
+      data: '{"datedAfter": "{{ $start }}", "datedBefore": "{{ $end }}"}',
+      //dataType: 'jsonp' - removed
+      //jsonpCallback: 'callback' - removed
+      success: function (data) {
+
+        console.log(data);
+
+        let travelingSumCost = 0, i = 0;
+
+        // cancella i dati che non servono
+        while(i < data.res.length){
+          // console.log(data.res[i])
+          if(toDate(data.res[i].date) <= toDate("{{ $start }}") || toDate(data.res[i].date) >= toDate("{{ $end }}") || data.res[i].category.id === 8){
+              data.res[i].deleted_by = 1;      
+            }
+          else 
+            travelingSumCost += parseFloat(data.res[i].cost);
+            
+          i++;
+        }
+
+        document.getElementById('totalExpanses').innerText = (Math.round((travelingSumCost + Number.EPSILON) * 100) / 100) + ' €';
+
+        setList(data);
+
+        return data;
+      },
+      error: function (xhr, status, error) {
+          console.log('Error: ' + error.message);
+      }
+    });
+  }
+
+  let setList = function(data){  
+    const obj = new Object();
+
+    let i = 0;
+    while(i < data.res.length){
+
+      if(data.res[i].deleted_by == null){
+        let cost = parseFloat(data.res[i].cost);
+        let category_name = data.res[i].category.name;
+        
+        if(category_name == 'Parcheggio')
+          category_name = 'Parcheggi';
+
+        if(category_name == 'Intrattenimento - Altro')
+          category_name = 'Musei';
+
+        if(category_name == 'Hotel')
+          category_name = 'Campeggio';
+
+        if(category_name == 'Spese personali - Altro')
+          category_name = 'Varie';
+
+        if(category_name == 'TV/Telefono/Internet')
+          category_name = 'Internet';
+
+        let val = obj[category_name];
+        
+        val = (val == undefined? 0 : val) + cost;
+
+        obj[category_name] = Math.round((val + Number.EPSILON) * 100) / 100;
+      }
+      i++;
+    }
+
+    let entries = Object.entries(obj);
+    let sorted = entries.sort((a, b) => b[1] - a[1]);
+
+    const ul = document.getElementById("listExpanses");
+    for(var j = 0; j < sorted.length;  j++)
+    { 
+      const li = document.createElement("li");
+      li.appendChild(document.createTextNode(`${sorted[j][0]}: ${sorted[j][1]} €`));
+      ul.appendChild(li);
+    } 
+
+  }
+
+  var getDaysArray = function(start, end) {
+    for(var arr=[],dt=new Date(start); dt<=new Date(end); dt.setDate(dt.getDate()+1)){
+        arr[formatDate(new Date(dt))] = 0;
+    }
+    return arr;
+  };
+
+  let formatDate = function(date){
+    // let yourDate = new Date()
+    return date.toISOString().split('T')[0];
+  }
+
+  let toDate = function(date){
+    return new Date(date);
+  }
+  
+  getSW();
+
+  </script>

@@ -1,128 +1,71 @@
-#################### default parameters ################################
-# favicon
+about_widget_content = "Se sentite ridere in lontananza potremmo essere noi."
+address = ""
+author = "Sara"
+contact_form_action = "javascript: sendMail();"
+copyright = ""
+custom_script = ""
+description = "Alla scoperta del mondo on the road. Unisciti al viaggio e lasciati ispirare a intraprendere la tua prossima avventura!"
+email = "info@vandipety.it"
+emailSponsor = "sponsor@vandipety.it"
 favicon = "images/favicon.png"
-# logo
+featured_post_title = "In primo piano"
+footer_content = "Se sentite ridere in lontananza potremmo essere noi."
+image = "images/logo.png"
 logo = "images/logo.png"
-# use `x` with logo_width, example: "100x".
-# Note: logo_width is not work with .svg file
-logo_width = "150x"
-# logo text will only show when logo is missing.
-logo_text = "Geeky"
-# navbar fixed to top
-navbar_fixed = false
-# OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
-# contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@email.com"
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
-# search
-search = true
-
-# Posts related Titles & Contents
-categories_title = "Blog Categories"
-posts_title = "Featured"
-featured_post_title = "Featured Post"
-recent_post_title = "Recent Post"
-featured_post_button = "Featured"
-recent_post_button = "Recent"
-read_more_button = "Read more"
-previous_button = "Previous"
-next_button = "Next"
-related_posts = "Related Posts"
-showing_posts = "Showing Post From"
-no_categories_found = "No Categories Found"
-no_tags_found = "No Tags Found"
-
+logoPlain = "images/logoPlain.png"
+logoTxt = "images/logo_text.png"
+logo2 = "images/logo2.png"
+logo_text = "Boilerplate"
+logo_width = "150px"
+logo_height = "150px"
 mainSections = ["blog"]
-# about widget content
-about_widget_content = "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
-# footer content
-footer_content = "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper."
-# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
-custom_script= ""
-# copyright
-theme_copyright = true
-copyright = "Copyright by your company"
-
-# 404
-error_404_text = "404 Page Not Found!"
-error_404_button = "Back To Home"
-
-# Preloader
+mobile = ""
+navbar_fixed = false
+recent_post_title = "Ultimi Post"
+search = true
+[advertisement]
+image = ""
+link = "https://gethugothemes.com/"
+[banner]
+background_image = "/images/banner-bg-shape.svg"
+button_label = "Conoscici meglio"
+button_link = "about/"
+content = "Siamo Paolo, Sara, Olimpia e Sakè e giriamo per il mondo raccontando qui le nostre avventure."
+enable = true
+image = "images/banner.png"
+title_large = "Benvenuti **!**"
+title_small = "nel Blog di Vandipety"
+[cookies]
+button = "Accetto"
+content = "Questo sito utilizza i cookie. Continuando a utilizzare questo sito Web, acconsenti al loro utilizzo."
+enable = true
+expire_days = 7
 [preloader]
 enable = false
-preloader = "" # use jpg, png, svg or gif format.
-
-# Banner
-[banner]
-enable = true
-title_large = "Welcome **!**"
-title_small = "to Jhon Bravo Blog"
-image = "images/banner.png"
-background_image = "/images/banner-bg-shape.svg"
-content = "Are Developer and recently started your own business Already made website to ensure presence wants to develop."
-button_label = "Know About Me"
-button_link = "about/"
-
-# Advertise
-[advertisement]
-image = "images/promotion.png"
-link = "https://gethugothemes.com/"
-
-# cookies
-[cookies]
-enable = false
-expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
-
-######################## sidebar widgets #########################
-[widgets]
-sidebar = ["about", "categories", "recent-post", "newsletter"]
-# available widget : about,categories,newsletter,recent-post
-
-
-# Subscription
+preloader = ""
 [subscription]
 enable = false
-newsletter_title = "Newsletter"
-newsletter_invitation = "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!"
-newsletter_placeholder = "Type And Hit Enter"
-newsletter_reminder_a = "By Singing Up, You Agree To"
-newsletter_reminder_b = "Privacy Policy"
-newsletter_button = "Sign in"
-# mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
-
-
-############################# social site ########################
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+[widgets]
+sidebar = ["newsletter", "categories"]
 [[social]]
-title = "facebook"
-icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
+icon = "fab fa-youtube"
+link = "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1"
+title = "YouTube"
 [[social]]
-title = "twitter"
-icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
-
+icon = "fab fa-instagram"
+link = "https://www.instagram.com/vandipety/"
+title = "Instagram"
 [[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
+icon = "fab fa-threads"
+link = "https://www.threads.net/@vandipety"
+title = "Threads"
 [[social]]
-title = "github"
-icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
+icon = "fab fa-facebook"
+link = "https://www.facebook.com/ilgattodicitturin"
+title = "Facebook"
 [[social]]
-title = "linkedin"
-icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+icon = "fas fa-store"
+link = "https://www.amazon.it/shop/vandipety"
+title = "Negozio"

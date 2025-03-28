@@ -1,0 +1,28 @@
+{{ $country := .Get 0}}
+
+Per viaggiare 
+{{ if eq $country "EU"}}
+in
+{{ else if eq $country "EX"}}
+fuori dall' 
+{{end}}
+Europa con il proprio animale occorre avere: 
+<ul>
+    <li>passaporto</li>
+    <li>microchip</li>
+    <li>vaccinazione antirabbica in corso di validità</li>
+    {{ if eq $country "EX"}}
+    <li>titolazione antirabbica</li>
+    {{end}}
+</ul> 
+{{ if eq $country "EX"}}
+Quest'ultimo documento si effettua tramite un prelievo del sangue che viene analizzato in centri specializzati ed è
+obbligatorio per poter rientrare in Europa.
+{{end}}
+Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese. 
+Ti consigliamo di prestare sempre attenzione nei luoghi affollati perché le persone potrebbero avere timore, {{ if eq $country "EX"}} e ai numerosi animali selvatici, {{end}} motivo per cui noi giriamo sempre con i nostri animali al guinzaglio. 
+In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata di mano. 
+<br> 
+<br> 
+Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa. 
+

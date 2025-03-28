@@ -1,11 +1,39 @@
 {{ define "main" }}
 
 <!--=================== about section start ===================-->
-<section class="section">
+<section class="sectionFix">
   <div class="container">
     <div class="row mb-5">
       <div class="col-12">
-        {{ partial "image.html" (dict "Src" .Params.image "Alt" .Title "Class" "img-fluid mb-5 w-100 rounded-4" ) }}
+        <!-- image path -->
+        {{ $imagePath:= .Params.image }}
+
+        <!-- image CDN -->
+        {{ if hasPrefix $imagePath "http" }}
+        <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Title }}"
+          class="img-fluid mb-5 w-100 rounded-4">
+        {{ else }}
+        <!-- /image cdn -->
+
+        <!-- image processing for multiple device -->
+        {{ if fileExists (add `assets/` $imagePath) }}
+        {{ $image:= resources.Get $imagePath }}
+        {{ $imageFallback:= $image.Resize "1400x" }}
+        {{ $imageXL:= $image.Resize "1400x webp" }}
+        {{ $imageLG:= $image.Resize "1000x webp" }}
+        {{ $imageMD:= $image.Resize "800x webp" }}
+        {{ $imageSM:= $image.Resize "600x webp" }}
+        <picture>
+          <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
+          <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
+          <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 992px)">
+          <source srcset="{{ $imageXL.RelPermalink }}">
+          <img loading="lazy" decoding="async" class="img-fluid mb-5 w-100 rounded-4" src="{{$imageFallback.RelPermalink}}"
+            alt="{{.Title}}" width="{{$image.Width}}" height="{{$image.Height}}">
+        </picture>
+        {{ end }}
+        <!-- /image processing for multiple device -->
+        {{ end }}
         <h2 class="mb-3">{{ .Title | markdownify }}</h2>
         <div class="content">
           {{.Content}}
@@ -17,7 +45,7 @@
       {{ if .enable }}
       <div class="col-md-6 mb-4 mb-md-0">
         <div class="p-4 border rounded">
-          <h2 class="h4 mb-5 title-border">{{ .title | markdownify }}</h2>
+          <h2 class="h4 mb-5 title-border">Formal Education</h2>
           <div class="row">
             {{ range .education_list }}
             <div class="col-md-6 mb-3">
@@ -49,5 +77,51 @@
   </div>
 </section>
 <!--=================== about section end ===================-->
+<!--=================== contact section start ===================-->
+<!--
+<section class="section contact">
+  <div class="container">
+    {{ $bgImage:= resources.Get "images/map.png" }}
+    {{ $bgImage:= $bgImage.Resize "1400x webp" }}
+    <div class="row section-sm pt-0" style="background-image: url('{{ $bgImage.RelPermalink }}')">
+      <div class="col-lg-6">
+        <div class="content pt-lg-5 pb-3 pb-lg-0">
+          <h2>Contattaci</h2>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="p-4 border rounded-4">
+          <h3 class="h4 mb-5 text-capitalize">Mandaci un
+            <span class="text-primary"> messaggio <i class="fas fa-arrow-right ms-2"></i></span>
+          </h3>
+          <form action="{{site.Params.contact_form_action | safeURL}}" method="POST">
+            <div class="form-group">
+              <label for="name" class="form-label">Nome <small>*</small></label>
+              <input type="text" class="form-control" name="name" id="name" placeholder="Mario Rossi" required>
+            </div>
+            <div class="form-group">
+              <label for="email" class="form-label">Email <small>*</small></label>
+              <input type="email" name="email" class="form-control" id="email" placeholder="example@email.com" required>
+            </div>
+            <div class="form-group">
+              <label for="name" class="form-label">Oggetto <small>*</small></label>
+              <input type="text" class="form-control" name="subject" id="subject" placeholder=""
+                required>
+            </div>
+            <div class="form-group">
+              <label for="message" class="form-label">Il tuo messaggio <small>*</small></label>
+              <textarea class="form-control" placeholder="" id="message"
+                name="message" required></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Invia</button>
+          </form>
+        </div>
+      </div>
+    </div>
 
+    
+  </div>
+</section>
+-->
+<!--=================== contact section start ===================-->
 {{ end }}

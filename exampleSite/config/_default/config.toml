@@ -1,79 +1,37 @@
-######################## default configuration ####################
-baseURL = "https://demo.statichunt.com/geeky-hugo/"
-title = "Geeky | Hugo Personal Blog Template"
-theme = "geeky-hugo"
-languageName = "En"
-languageCode = "en-us"
-# post pagination
-pagination.pagerSize = "6"
-# post excerpt
+baseURL = "https://www.vandipety.it"
+disableLanguages = ["fr"]
+disqusShortname = "vandipety-it"
+googleAnalytics = "G-E9L2CG2NZ6"
+languageCode = "it-IT"
+languageName = "It"
+paginate = "8"
 summaryLength = "20"
-# google analytics
-googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
-
-# disable language
-disableLanguages = ["fr"] # example: ["fr"] for disable french language
-
-[services.disqus]
-shortname = 'themefisher-template' # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
-
-############################# Modules ##############################
-[module]
-[module.hugoVersion]
-extended = true
-min = "0.87.0"
-
-############################# Outputs ##############################
-[outputs]
-home = ["HTML", "RSS", "JSON", "WebAppManifest"]
-
-############################# Imaging ##############################
-[imaging]
-# See https://github.com/disintegration/imaging
-# Default JPEG or WebP quality setting. Default is 75.
-quality = 90
-
-############################# Caches ###############################
-[caches]
-[caches.images]
-dir = ":resourceDir/_gen"
-maxAge = "720h"
-
+theme = "geeky-hugo"
+title = "Vandipety"
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
-
-
-############################# Markup ###############################
-[markup]
+[caches.images]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+[imaging]
+quality = 90
 [markup.goldmark.renderer]
 unsafe = true
-
-
-############################ Media types ############################
-[mediaTypes]
 [mediaTypes."application/manifest+json"]
 suffixes = ["webmanifest"]
-
 [mediaTypes."text/netlify"]
 delimiter = ""
 suffixes = [""]
-
-
-############################ Output Format ###########################
-[outputFormats]
+[module.hugoVersion]
+extended = true
+min = "0.87.0"
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
-
-
-############################ sitemap  ###########################
+[outputs]
+home = ["HTML", "RSS", "JSON", "WebAppManifest"]
 [sitemap]
-  changeFreq = 'daily'
+  changefreq = 'weekly'
   filename = 'sitemap.xml'
-  priority = 0
-
-
-############################ exclude from sitemap  ###########################
-[params]
-taxonomiesExcludedFromSitemap = ["tags", "categories"]
+  priority = 0.5

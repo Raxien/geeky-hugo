@@ -6,7 +6,7 @@
         <nav class="navbar navbar-expand-lg navbar-light p-0">
           <!-- navbar brand/logo -->
           <a class="navbar-brand" href="{{ site.BaseURL | relLangURL }}">
-            {{ partial "logo.html" }}
+            {{ partialCached "logoHeader.html" . }}
           </a>
 
           <!-- buttons -->
@@ -14,7 +14,7 @@
             <ul class="list-unstyled search me-3">
               {{ if site.Params.search }}
               <li class="list-inline-item">
-                <a href="#" class="toggle-search" data-target="#search-wrap"><i class="fas fa-search"></i></a>
+                <a href="#" class="toggle-search" aria-label="search" data-target="#search-wrap"><i class="fas fa-search"></i></a>
               </li>
               {{ end }}
               <li class="list-inline-item">
@@ -67,7 +67,7 @@
             <ul class="list-unstyled social-icons">
               {{ range site.Params.social }}
               <li class="list-inline-item">
-                <a href="{{ .link | safeURL }}"><i class="{{.icon}}"></i></a>
+                <a href="{{ .link | safeURL }}" target = "_blank" aria-label="{{.title}}" rel = "nofollow noopener noreferrer"><i class="{{.icon}}"></i></a>
               </li>
               {{ end }}
             </ul>
@@ -75,7 +75,7 @@
             {{ if site.Params.search }}
             <ul class="list-unstyled search d-none d-lg-block">
               <li class="list-inline-item">
-                <button class="toggle-search" data-target="#search-wrap"><i class="fas fa-search"></i></button>
+                <button class="toggle-search" aria-label="Ricerca" data-target="#search-wrap"><i class="fas fa-search"></i></button>
               </li>
             </ul>
             {{ end }}
@@ -86,7 +86,7 @@
         {{ if site.Params.search }}
         <div class="search-wrap" id="search-wrap">
           <form action="{{ `search`| relLangURL }}" class="search-bar d-flex align-items-center justify-content-center">
-            <input class="search-input w-100 border-0 h-100" id="search-query" name="s" type="search" placeholder="Search..." />
+            <input class="search-input w-100 border-0 h-100" id="search-query" name="s" type="search" placeholder="Cerca..." autocomplete="off"/>
             <span class="close-search toggle-search" data-target="#search-wrap">
               <i class="fas fa-times"></i>
             </span>
@@ -125,7 +125,7 @@
             <ul class="list-unstyled social-icons">
               {{ range site.Params.social }}
               <li class="list-inline-item">
-                <a href="{{ .link | safeURL }}"><i class="{{.icon}}"></i></a>
+                <a href="{{ .link | safeURL }}" aria-label="{{.title}}" ><i class="{{.icon}}"></i></a>
               </li>
               {{ end }}
             </ul>

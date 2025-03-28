@@ -1,0 +1,17 @@
+# This robots.txt file controls crawling of URLs under https://vandipety.it.
+# All crawlers are disallowed to crawl files in the "includes" directory, such
+# as .css, .js, but Google needs them for rendering, so Googlebot is allowed
+# to crawl them.
+User-agent: *
+Disallow: /includes/
+Disallow: /categories/
+Disallow: /about/
+Disallow: /press/
+
+User-agent: Googlebot
+Allow: /includes/
+Disallow: /categories/
+Disallow: /about/
+Disallow: /press/
+
+Sitemap: https://vandipety.it/sitemap_correct.xml

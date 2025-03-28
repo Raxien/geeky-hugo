@@ -1,10 +1,10 @@
 <div class="widget featured-widget ">
   <div class="widget-title">
-    <h3 class="title-border h5">{{site.Params.posts_title}}</h3>
+    <h3 class="title-border h5">Articoli</h3>
   </div>
   <div class="d-grid mb-5 gap-3 d-md-block nav nav-pills">
-    <button class="btn btn-sm btn-outline-primary btn-lg me-2 mb-lg-3 mb-xl-0 active" type="button" data-bs-toggle="pill" data-bs-target="#Featured" aria-selected="true">{{site.Params.featured_post_button}}</button>
-    <button class="btn btn-sm btn-outline-primary btn-lg" type="button" data-bs-toggle="pill" data-bs-target="#Recent" aria-selected="false">{{site.Params.recent_post_button}}</button>
+    <button class="btn btn-sm btn-outline-primary btn-lg me-2 mb-lg-3 mb-xl-0 active" type="button" data-bs-toggle="pill" data-bs-target="#Featured" aria-selected="true">Primo Piano</button>
+    <button class="btn btn-sm btn-outline-primary btn-lg" type="button" data-bs-toggle="pill" data-bs-target="#Recent" aria-selected="false">Recenti</button>
   </div>
 
   <div class="tab-content">
@@ -12,16 +12,90 @@
       {{ range first 5 ( where site.RegularPages "Type" "featured" )}}
       <div class="card rounded-0">
         <div class="d-sm-flex">
-          {{ partial "image.html" (dict "Src" .Params.image "Alt" .Title "Class" "img-fluid rounded-circle mb-3 mb-sm-0 featured-widget-img" "Command" "Fill" "Size" "80x80" ) }}
+          <!-- image path -->
+          {{ $imagePath:= .Params.image }}
+          {{ if $imagePath }}
+          <!-- image CDN -->
+          {{ if hasPrefix $imagePath "http" }}
+          <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Title }}"
+            class="img-fluid rounded-circle mb-3 mb-sm-0 featured-widget-img" width="80" height="80">
+          {{ else }}
+          <!-- /image cdn -->
+
+          <!-- image processing for single device -->
+          {{ if fileExists (add `assets/` $imagePath) }}
+          {{ $image:= resources.Get $imagePath }}
+          {{ $imageFallback:= $image.Fill "80x80" }}
+          {{ $imageWebp:= $image.Fill "80x80 webp" }}
+          <img loading="lazy" decoding="async" src="{{$imageWebp.RelPermalink}}" alt="{{ .Title }}"
+            class="img-fluid rounded-circle mb-3 mb-sm-0 featured-widget-img" width="{{$imageFallback.Width}}" height="{{$imageFallback.Height}}"
+            onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
+          {{ end }}
+          <!-- /image processing for single device -->
+          {{ end }}
+          {{ end }}
           <div class="card-body ps-sm-3">
             <h4 class="h6">
               <a class="title-linked" href="{{.RelPermalink}}">{{.Title | markdownify}}</a>
             </h4>
             <ul class="list-inline card-meta d-flex align-items-center mb-3">
+              {{ if .Params.country}}
+              <li class="list-inline-item d-flex align-items-center">
+                <i class="fas fa-map-pin me-2"></i>
+                {{ $country := .Params.country}}
+                {{ $link:= add "search/?s=" $country }}
+                <a href="{{$link | relLangURL}}">{{.Params.country | title}}</a>
+              </li>
+              {{end}}
               <li class="list-inline-item d-flex align-items-center">
                 <i class="fas fa-calendar me-2"></i>
-                <span>{{ time.Format ":date_long" .PublishDate }}</span>
+                      <!-- data di pubblicazione formattata Mese, gg aaaa -->
+                      {{ $date := time.Format ":date_long" .PublishDate }}
+                      {{ $sDate := split (string $date) " " }}
+
+                      <span>
+                        {{ $aMonth := index $sDate 0}}
+                        {{ $aDay := index $sDate 1}}
+                        {{ $aYear := index $sDate 2}}
+
+                        {{ $day := (string $aDay)}}
+                        {{ $month := (string $aMonth)}}
+                        {{ $year := (string $aYear)}}
+
+                        {{ replace $day "," " " }}
+                        {{ if eq $month "January" }}
+                        {{ "Gennaio" }}
+                        {{ else if eq $month "February" }}
+                        {{ "Febbraio" }}
+                        {{ else if eq $month "March" }}
+                        {{ "Marzo" }}
+                        {{ else if eq $month "April" }}
+                        {{ "Aprile" }}
+                        {{ else if eq $month "May" }}
+                        {{ "Maggio" }}
+                        {{ else if eq $month "June" }}
+                        {{ "Giugno" }}
+                        {{ else if eq $month "July" }}
+                        {{ "Luglio" }}
+                        {{ else if eq $month "August" }}
+                        {{ "Agosto" }}
+                        {{ else if eq $month "September" }}
+                        {{ "Settembre" }}
+                        {{ else if eq $month "October" }}
+                        {{ "Ottobre" }}
+                        {{ else if eq $month "November" }}
+                        {{ "Novembre" }}
+                        {{ else if eq $month "December" }}
+                        {{ "Dicembre" }}
+                        {{ end }}
+                        {{ $year }}
+                      </span>
               </li>
+              {{ if .Params.sponsored}}
+              <li class="list-inline-item d-flex align-items-center">
+                <i>Sponsorizzato</i>
+              </li>
+              {{end}}
             </ul>
           </div>
         </div>
@@ -32,15 +106,84 @@
       {{ range first 5 ( where site.RegularPages "Section" "in" site.Params.mainSections )}}
       <div class="card rounded-0">
         <div class="d-sm-flex">
-          {{ partial "image.html" (dict "Src" .Params.image "Alt" .Title "Class" "img-fluid rounded-circle mb-3 mb-sm-0 featured-widget-img" "Command" "Fill" "Size" "80x80" ) }}
+          <!-- image path -->
+          {{ $imagePath:= .Params.image }}
+          {{ if $imagePath }}
+          <!-- image CDN -->
+          {{ if hasPrefix $imagePath "http" }}
+          <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Title }}"
+            class="img-fluid rounded-circle mb-3 mb-sm-0 featured-widget-img" width="80" height="80">
+          {{ else }}
+          <!-- /image cdn -->
+
+          <!-- image processing for single device -->
+          {{ if fileExists (add `assets/` $imagePath) }}
+          {{ $image:= resources.Get $imagePath }}
+          {{ $imageFallback:= $image.Fill "80x80" }}
+          {{ $imageWebp:= $image.Fill "80x80 webp" }}
+          <img loading="lazy" decoding="async" src="{{$imageWebp.RelPermalink}}" alt="{{ .Title }}"
+            class="img-fluid rounded-circle mb-3 mb-sm-0 featured-widget-img" width="{{$imageFallback.Width}}" height="{{$imageFallback.Height}}"
+            onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
+          {{ end }}
+          <!-- /image processing for single device -->
+          {{ end }}
+          {{ end }}
           <div class="card-body ps-sm-3">
             <h4 class="h6">
               <a class="title-linked" href="{{.RelPermalink}}">{{.Title | markdownify}}</a>
             </h4>
             <ul class="list-inline card-meta d-flex align-items-center mb-3">
+              {{ if .Params.country}}
+              <li class="list-inline-item d-flex align-items-center">
+                <i class="fas fa-map-pin me-2"></i>
+                {{ $country := .Params.country}}
+                {{ $link:= add "search/?s=" $country }}
+                <a href="{{$link | relLangURL}}">{{.Params.country | title}}</a>
+              </li>
+              {{end}}
               <li class="list-inline-item d-flex align-items-center">
                 <i class="fas fa-calendar me-2"></i>
-                <span>{{ time.Format ":date_long" .PublishDate }}</span>
+                      <!-- data di pubblicazione formattata Mese, gg aaaa -->
+                      {{ $date := time.Format ":date_long" .PublishDate }}
+                      {{ $sDate := split (string $date) " " }}
+
+                      <span>
+                      {{ $aMonth := index $sDate 0}}
+                      {{ $aDay := index $sDate 1}}
+                      {{ $aYear := index $sDate 2}}
+
+                      {{ $day := (string $aDay)}}
+                      {{ $month := (string $aMonth)}}
+                      {{ $year := (string $aYear)}}
+
+                      {{ replace $day "," " " }}
+                      {{ if eq $month "January" }}
+                      {{ "Gennaio" }}
+                      {{ else if eq $month "February" }}
+                      {{ "Febbraio" }}
+                      {{ else if eq $month "March" }}
+                      {{ "Marzo" }}
+                      {{ else if eq $month "April" }}
+                      {{ "Aprile" }}
+                      {{ else if eq $month "May" }}
+                      {{ "Maggio" }}
+                      {{ else if eq $month "June" }}
+                      {{ "Giugno" }}
+                      {{ else if eq $month "July" }}
+                      {{ "Luglio" }}
+                      {{ else if eq $month "August" }}
+                      {{ "Agosto" }}
+                      {{ else if eq $month "September" }}
+                      {{ "Settembre" }}
+                      {{ else if eq $month "October" }}
+                      {{ "Ottobre" }}
+                      {{ else if eq $month "November" }}
+                      {{ "Novembre" }}
+                      {{ else if eq $month "December" }}
+                      {{ "Dicembre" }}
+                      {{ end }}
+                      {{ $year }}
+                      </span>
               </li>
             </ul>
           </div>
