@@ -3,7 +3,7 @@
   command = "cd exampleSite && hugo server --minify --gc --themesDir ../themes --theme geeky-hugo"
   
 [build.environment]
-  HUGO_VERSION = "0.145"
+  HUGO_VERSION = "0.144.2"
   HUGO_THEME = "repo"
   HUGO_BASEURL = "/"
 
