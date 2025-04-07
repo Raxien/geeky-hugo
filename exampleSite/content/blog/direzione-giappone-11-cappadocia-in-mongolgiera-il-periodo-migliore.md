@@ -24,17 +24,17 @@ Erano le 6 e mezza quando abbiamo terminato il giro per far salire a bordo altri
 
 Poi finalmente si sono accese luci ad intermittenza tutto attorno a noi, quelle del fuoco pompato dal gas. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1709916475/Articoli/Direzione%20giappone/Direzione11/cappadocia-mongolfiere-in-preparazione.jpg" >}} 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1709916475/Articoli/Direzione%20giappone/Direzione11/cappadocia-mongolfiere-in-preparazione.jpg">}} 
 
 Una sessantina di palloncini colorati hanno iniziato a muoversi, a gonfiarsi poco a poco, mentre salivamo a bordo delle ceste seguendo le istruzioni. Tutti in silenzio, **tutti con l’emozione che chiudeva la gola e non lasciava trapelare parola.** Ci siamo sollevati da terra senza accorgercene. Nessuno strattone, nessun vuoto nello stomaco. Eravamo leggeri come uccellini, mentre la terra diventava lontana, mentre salivamo su, sempre più su. Un’emozione difficile da spiegare. A tratti i tetti delle case erano così vicini che si potevano quasi sfiorare con le dita, e subito dopo sembravano irraggiungibili. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1709916475/Articoli/Direzione%20giappone/Direzione11/cappadocia-mongolfiere-in-citta.jpg" >}} 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1709916475/Articoli/Direzione%20giappone/Direzione11/cappadocia-mongolfiere-in-citta.jpg">}} 
 
 E poi le rocce delle vallate, anche loro sempre più vicine e poi lontane, in uno zigzagare di movimenti, mentre il pilota tirava fili di qua e di là e gli occhi non sapevano più in che direzione accaparrare immagini da fissare nei ricordi migliori. 
 **In un attimo sono comparsi i raggi del sole, illuminando i palloncini colorati**, ricreando ciò che eravamo soliti ammirare in immagini digitali, mentre dondolavamo all’alba in quell’arcobaleno di colori che tingevano il cielo.
 A bordo con noi una ventina di turisti, con i quali abbiamo brindato una volta scesi a terra, stringendo fra le mani il nostro attestato di volo. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1709916475/Articoli/Direzione%20giappone/Direzione11/cappadocia-mongolfiere-nel-cielo.jpg" >}} 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1709916475/Articoli/Direzione%20giappone/Direzione11/cappadocia-mongolfiere-nel-cielo.jpg">}} 
 
 ##### Ma quindi quanto costa?
 
@@ -45,7 +45,7 @@ Bando alle emozioni, veniamo alle informazioni tecniche.
 - **Quanto dura il volo?** Circa un’ora.
 - **Possono volare tutti?** Di solito i bambini con meno di 6 anni non possono volare.
   
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1709916475/Articoli/Direzione%20giappone/Direzione11/cappadocia-mongolfiere-comandante.jpg" >}} 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1709916475/Articoli/Direzione%20giappone/Direzione11/cappadocia-mongolfiere-comandante.jpg">}} 
 _Decide lui!_
 
 - **Quante mongolfiere volano?** In bassa stagione una sessantina, in alta stagione circa 200. 
@@ -54,7 +54,7 @@ _Decide lui!_
 
 Vola insieme a noi qui!
 
-{{< youtube "xntHQGZGvT0" >}}
+{{< youtube "xntHQGZGvT0">}}
 
 Arigatou, alla prossima.
 

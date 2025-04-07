@@ -38,16 +38,16 @@ Mettiti comodo e buona lettura.
 ##### `Aggiornamento 2024` 
 A seguito delle elezioni presidenziali tenutesi in Senegal a marzo 2024 la situazione nella dogana di Rosso sembra essere cambiata.
 
-Inoltre gli amici di {{< extLink "@R4 Team Piemonte" "https://www.instagram.com/r4teampiemonte/" >}} sono andati da Saluzzo fino a Dakar ad agosto 2024 passando proprio presso questa dogana e grazie all'aiuto di un passeur hanno pagato circa 200 euro impiegando 4 ore a uscire dalla Mauritania e entrare in Senegal senza alcun problema. 
+Inoltre gli amici di {{<extLink "@R4 Team Piemonte" "https://www.instagram.com/r4teampiemonte/">}} sono andati da Saluzzo fino a Dakar ad agosto 2024 passando proprio presso questa dogana e grazie all'aiuto di un passeur hanno pagato circa 200 euro impiegando 4 ore a uscire dalla Mauritania e entrare in Senegal senza alcun problema. 
 Lasciamo di seguito i contatti:
 
 **Ifra Ril Passeur**  
 **+222 48 58 71 16**
 
-Consigliamo comunque di **proseguire la lettura dell'articolo** e di verificare su iOverlander ({{< extLink "qui" "https://www.ioverlander.com/places/98598-rosso" >}} e {{< extLink "qui" "https://www.ioverlander.com/places/100969-border-rosso-mauretanie-to-senegal" >}}) la situazione aggiornata.
+Consigliamo comunque di **proseguire la lettura dell'articolo** e di verificare su iOverlander ({{<extLink "qui" "https://www.ioverlander.com/places/98598-rosso">}} e {{<extLink "qui" "https://www.ioverlander.com/places/100969-border-rosso-mauretanie-to-senegal">}}) la situazione aggiornata.
 
 ##### Premessa
-Prima di iniziare una piccola premessa: per arrivare al confine senegalese dal nord bisogna attraversare prima **il Marocco** (guarda {{< extLink "qui la nostra avventura" "https://www.youtube.com/watch?v=9fsV_nTm9bg" >}}) e poi **la Mauritania** ([clicca qui se vuoi avere informazioni in merito](/blog/viaggio-mauritania-on-the-road-le-dogane/)). Se vuoi intraprendere quest'avventura ti consigliamo vivamente di leggere i precedenti articoli per conoscere la condizione delle strade e i costi da sostenere per arrivare a destinazione!
+Prima di iniziare una piccola premessa: per arrivare al confine senegalese dal nord bisogna attraversare prima **il Marocco** (guarda {{<extLink "qui la nostra avventura" "https://www.youtube.com/watch?v=9fsV_nTm9bg">}}) e poi **la Mauritania** ([clicca qui se vuoi avere informazioni in merito](/blog/viaggio-mauritania-on-the-road-le-dogane/)). Se vuoi intraprendere quest'avventura ti consigliamo vivamente di leggere i precedenti articoli per conoscere la condizione delle strade e i costi da sostenere per arrivare a destinazione!
 
 ##### Rosso o Diama?
 Per entrare in Senegal esistono due dogane:
@@ -60,7 +60,7 @@ Entrambe hanno i loro **pro** e soprattutto **contro** e la scelta dipende essen
 3. che mezzo possiedi
 
 ###### Rosso
-{{< procontro pro1="Facilmente raggiungibile con qualsiasi mezzo" pro2="Raggiungibile in qualsiasi stagione" contro1="Estremamente corrotta" contro2="Costi esorbitanti per entrare (e uscire)" >}}
+{{< procontro pro1="Facilmente raggiungibile con qualsiasi mezzo" pro2="Raggiungibile in qualsiasi stagione" contro1="Estremamente corrotta" contro2="Costi esorbitanti per entrare (e uscire)">}}
 
 La strada è molto facile da percorrere, tutta asfaltata e facilmente raggiungibile a bordi di qualsiasi mezzo.
 Il vero problema è l'estrema corruzione che si riflette in costi esorbitanti se si vuole passare da questa dogana. Quando eravamo al famoso [Zebrabar](/blog/guida-senegal-in-camper-itinerari/), abbiamo sentito di persone che hanno sborsato addirittura 1000 euro per entrare (e immaginiamo lo stesso per uscire dal Senegal)!
@@ -68,22 +68,22 @@ Il vero problema è l'estrema corruzione che si riflette in costi esorbitanti se
 
 
 ###### Diama
-{{< procontro pro1="Economica" pro2="Poco frequentata" contro1="Meno facile da raggiungere" contro2="Durante la stagione delle piogge raggiungibile solo con un 4x4" >}}
+{{< procontro pro1="Economica" pro2="Poco frequentata" contro1="Meno facile da raggiungere" contro2="Durante la stagione delle piogge raggiungibile solo con un 4x4">}}
 
 L'unico problema di questa dogana è la strada in quanto dall'ultima "città" della Mauritania al confine ci sono 48 chilometri di strada sterrata **in pessime condizioni** il cui tempo di percorrenza è di circa 2 ore e mezza. Questa strada diventa **impraticabile per i mezzi non 4x4** durante la stagione delle piogge. Ha di positivo che si trova all'interno del **parco del Dwailing** e permette di avvistare numerosi animali selvatici, soprattutto facoceri e uccelli di tutti i colori che migrano verso il vicino [parco del Djoudj](/blog/informazioni_viaggio_senegal/).
 
-Prestando attenzione, la strada si riesce a percorrere anche con un camper mansardato (come {{< extLink "hanno fatto i nostri amici" "https://youtu.be/bEgypQBv2wI" >}}).
+Prestando attenzione, la strada si riesce a percorrere anche con un camper mansardato (come {{<extLink "hanno fatto i nostri amici" "https://youtu.be/bEgypQBv2wI">}}).
 
 I costi sono relativamente più bassi rispetto a Rosso, al netto di tutte le tasse da pagare lungo la strada in Mauritania e poco prima di entrare, [che vedremo fra poco](#ma-quanto-mi-costa).
 
 ###### Quindi quale scegliere? 
 Il vincitore è, rullo di tamburi 🥁: 
 
-{{< citazione "Diama" >}}
+{{< citazione "Diama">}}
 
 Questa è la scelta che abbiamo fatto noi e che **consigliamo caldamente a tutti coloro che vogliono andare in Senegal**. Ovviamente valuta bene quando programmare la visita di questo fantastico paese se non possiedi un mezzo 4x4.
 
-La dogana di Rosso è **{{< underline "da evitare assolutamente" >}}** in tutti i casi, a meno che tu non abbia problemi a spendere tanti soldi. A quel punto però conviene forse viaggiare in aereo.
+La dogana di Rosso è **{{< underline "da evitare assolutamente">}}** in tutti i casi, a meno che tu non abbia problemi a spendere tanti soldi. A quel punto però conviene forse viaggiare in aereo.
 
 ##### La dogana di Diama
 Se come noi hai deciso di andare verso la dogana di Diama, una volta lasciata la Mauritania, ecco cosa devi fare:
@@ -104,7 +104,7 @@ La durata del visto di permanenza in Senegal, in qualità di turista, è di **90
 Una volta ottenuto il visto, sempre con la Mauritania alle spalle procedi verso **l'edificio di sinistra** con il libretto di circolazione (o una fotocopia, non si sa mai) per sbrigare tutte le faccende relative al mezzo. Qui esistono varie possibilità che dipendono dall'età del mezzo o dal fatto che tu abbia o meno il **Carnet de passages** (CdP da ora in poi).
 
 ###### Carnet de Passages: serve?
-Per entrare in Senegal non è richiesto il CdP (se non sai di cosa si tratta trovi maggiori informazioni in merito a questo documento sul sito dell'{{< extLink "ACI" "https://www.aci.it/il-club/soci-in-viaggio/per-chi-va-allestero/carnet-de-passages-en-douane.html">}}) ma è consigliato in quanto:
+Per entrare in Senegal non è richiesto il CdP (se non sai di cosa si tratta trovi maggiori informazioni in merito a questo documento sul sito dell'{{<extLink "ACI" "https://www.aci.it/il-club/soci-in-viaggio/per-chi-va-allestero/carnet-de-passages-en-douane.html">}}) ma è consigliato in quanto:
 - non avrai problemi burocratici
 - non avrai costi aggiuntivi 
 - fa sì che ti venga rilasciato un passavant da rinnovare solo una volta
@@ -135,7 +135,7 @@ Se si ha il Passavant si può rinnovare al massimo due volte ogni 15 giorni pres
 L'assicurazione del mezzo si fa dopo aver svolto le pratiche del mezzo.
 Non c'è un luogo ben preciso all'interno della dogana quindi dovrai chiedere. Nel nostro caso è stata fatta da un vecchietto seduto su una sediolina.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854073/Articoli/Senegal/Senegal_Van_nql3tl.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854073/Articoli/Senegal/Senegal_Van_nql3tl.jpg">}}
 
 ###### Ma quanto mi costa?
 Se hai deciso di andare verso la dogana di Diama, prima di poterla raggiungere e in uscita dalla Mauritania, ti aspettano alcune "tasse" obbligatorie da pagare: le trovi tutte nel [dettaglio nell'articolo dedicato](/blog/viaggio-mauritania-on-the-road-le-dogane/#quanto-abbiamo-speso).
@@ -217,11 +217,11 @@ Se vuoi vedere i nostri vlog o vuoi sentire le nostre considerazioni in merito a
 
 - {{< underline "vlog">}}
 
-{{< youtube AHVvaftCd70 >}}
+{{< youtube AHVvaftCd70>}}
 
 - {{< underline "le nostre considerazioni">}}
 
-{{< youtube avKZAgEAd0Q >}}
+{{< youtube avKZAgEAd0Q>}}
 
 ##### Articoli consigliati
 Per altre informazioni, itinerari e mappe sul Senegal e sui paesi da attraversare per arrivarci ti lasciamo di seguito alcuni link:
@@ -229,4 +229,4 @@ Per altre informazioni, itinerari e mappe sul Senegal e sui paesi da attraversar
 - [Senegal: il nostro itinerario e le mappe](/blog/informazioni-viaggio-senegal/)
 - [Mauritania: come attraversare la dogana](/blog/viaggio-mauritania-on-the-road-le-dogane/)
 
-{{< blogFooter "SN" "1" "0" >}}
+{{< blogFooter "SN" "1" "0">}}

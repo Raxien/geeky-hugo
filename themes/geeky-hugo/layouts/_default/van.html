@@ -1,0 +1,172 @@
+{{ define "main" }}
+
+{{- $sectionDelimiter := "<!-- section break -->" -}}
+{{- $rawContentSections := split .RawContent $sectionDelimiter -}}
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
+
+<!--=================== expanses section start ===================-->
+<section class="section">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-12">
+        <!-- image path -->
+        {{ $imagePath:= .Params.image }}
+
+        <!-- image CDN -->
+        {{ if hasPrefix $imagePath "http" }}
+        <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Title }}"
+          class="img-fluid mb-5 w-100 rounded-4">
+        {{ else }}
+        <!-- /image cdn -->
+
+        <!-- image processing for multiple device -->
+        {{ if fileExists (add `assets/` $imagePath) }}
+        {{ $image:= resources.Get $imagePath }}
+        {{ $imageFallback:= $image.Resize "1400x" }}
+        {{ $imageXL:= $image.Resize "1400x webp" }}
+        {{ $imageLG:= $image.Resize "1000x webp" }}
+        {{ $imageMD:= $image.Resize "800x webp" }}
+        {{ $imageSM:= $image.Resize "600x webp" }}
+        <picture>
+          <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
+          <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
+          <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 992px)">
+          <source srcset="{{ $imageXL.RelPermalink }}">
+          <img loading="lazy" decoding="async" class="img-fluid mb-5 w-100 rounded-4"
+            src="{{$imageFallback.RelPermalink}}" alt="{{.Title}}" width="{{$image.Width}}" height="{{$image.Height}}">
+        </picture>
+        {{ end }}
+        <!-- /image processing for multiple device -->
+        {{ end }}
+        <h2 class="mb-3">{{ .Title | markdownify }}</h2>
+        <div class="content">
+          <!-- {{.Content}} -->
+          {{ index $rawContentSections 0 | .RenderString }}
+        </div>
+
+        <div id="informazioni"></div>
+        <div class="row">
+          <div class="col-md-12 mb-4 mb-md-0">
+            <div class="p-4 border rounded">
+              <!-- <h2 class="h4 mb-5 title-border">Il nostro van in breve</h2> -->
+              <div class="row">
+                <div class="col-md-3 mb-3">
+                  <h4 class="h5 mb-2">Mezzo</h4>
+                  <h3 id="vanInfo" class="mb-5 h5 ">Roadcar 540</h3>
+                </div>
+                <div class="col-md-3 mb-3">
+                  <h4 class="h5 mb-2">Motorizzazione</h4>
+                  <h3 id="motorization" class="mb-5 h5 ">2.2 cc 140 cv</h3>
+                </div>
+                <div class="col-md-3 mb-3">
+                  <h4 class="h5 mb-2">Assicurazione*</h4>
+                  <h3 id="assicuazione" class="mb-5 h5 "></h3>
+                </div>
+                <div class="col-md-3 mb-3">
+                  <h4 class="h5 mb-2">Bollo</h4>
+                  <h3 id="bollo" class="mb-5 h5 "></h3>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-3 mb-3">
+                  <h4 class="h5 mb-2">Costo Van</h4>
+                  <h3 id="initialCost" class="mb-5 h5 "></h3>
+                </div>
+                <div class="col-md-3 mb-3">
+                  <h4 class="h5 mb-2">Accessori</h4>
+                  <h3 id="accessoryCost" class="mb-5 h5 "></h3>
+                </div>
+                <div class="col-md-3 mb-3">
+                  <h4 class="h5 mb-2">Totale</h4>
+                  <h3 id="totalVanCost" class="mb-5 h5 "></h3>
+                </div>
+                <div class="col-md-3 mb-3">
+                  <h4 class="h5 mb-2">Km percorsi</h4>
+                  <h3 id="travelingKm" class="mb-5 h5 "></h3>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <i>*dall'11 aprile 2024 abbiamo disdetto l'assicurazione con CamperSereno in quanto siamo usciti dai paesi
+          coperti dalla carta verde. Effettuiamo l'assicurazione in frontiera ad ogni nuovo paese.</i>
+        <div class="content">
+          <!-- {{.Content}} -->
+          {{ index $rawContentSections 1 | .RenderString }}
+        </div>
+      </div>
+    </div>
+
+    <br>
+
+
+    <br>
+    <!-- disqus comments -->
+    {{ with .Site.Params.disqusShortname }}
+    <div class="border rounded p-4">
+      {{ template "_internal/disqus.html" $ }}
+    </div>
+    {{ end }}
+  </div>
+
+</section>
+<!--=================== expanses section end ===================-->
+
+<!--=================== expanses script start ===================-->
+<script>
+
+  //let rpcUrl = "http://localhost:3000";
+  //const rpcUrl = "https://vandipety-api.herokuapp.com";
+  const rpcUrl = "https://vandipetyapi.onrender.com"
+
+  const getTripData = () => {
+    console.log('getting data');
+    $.ajax({
+      type: 'GET',
+      url: `${rpcUrl}/data/trip`,
+      contentType: "application/json",
+      success: ({ json: res }) => {
+        console.log(res);
+        setVanCost(res.costVan, res.costAccessory);
+        setKmData(res.actualKm);
+        setInsuranceData(res.assicurazione, res.bollo);
+      },
+      error: (_, __, error) => console.log('Error:', error.message)
+    });
+  };
+
+  const setInsuranceData = (assicuazione, bollo) => {
+    document.getElementById('assicuazione').innerText = `${assicuazione} €`;
+    document.getElementById('bollo').innerText = `${bollo} €`;
+  };
+
+  const setKmData = (actualKm) => {
+    document.getElementById('travelingKm').innerText = actualKm;
+  };
+
+  const setVanCost = (initialCost, accessoryCost) => {
+    const totalAccessoryCost = Object.values(accessoryCost).reduce((sum, cost) => sum + cost, 0);
+
+    document.getElementById('initialCost').innerText = `${initialCost} €`;
+    document.getElementById('accessoryCost').innerText = `${totalAccessoryCost} €`;
+    document.getElementById('totalVanCost').innerText = `${initialCost + totalAccessoryCost} €`;
+
+    const accessoryData = Object.entries(accessoryCost);
+
+    new gridjs.Grid({
+      columns: ["Accessorio", "Costo"],
+      data: accessoryData,
+      sort: true,
+      pagination: { limit: 20 }
+    }).render(document.getElementById("tblAccessory"));
+  };
+
+  $(document).ready(getTripData);
+</script>
+<!--=================== expanses script end ===================-->
+{{ end }}

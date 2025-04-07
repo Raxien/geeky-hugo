@@ -9,7 +9,7 @@ country: Iraq
 draft: false
 ---
 
-Nuovo appuntamento con **"Storie di straordinaria follia"** sempre in collaborazione con Simone di **{{< extLink "Radio Italiana 531" "https://www.radioitaliana531.com.au/" >}}**. Oggi vi portiamo alla scoperta **del "paese che non esiste" ovvero il Kurdistan Iracheno.**
+Nuovo appuntamento con **"Storie di straordinaria follia"** sempre in collaborazione con Simone di **{{<extLink "Radio Italiana 531" "https://www.radioitaliana531.com.au/">}}**. Oggi vi portiamo alla scoperta **del "paese che non esiste" ovvero il Kurdistan Iracheno.**
 
 Sarà pericoloso come si crede? Mettetevi comodi che vi raccontiamo **le due settimane più pazze del nostro viaggio!**
 

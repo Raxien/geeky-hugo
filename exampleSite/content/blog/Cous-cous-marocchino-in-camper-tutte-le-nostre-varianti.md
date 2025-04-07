@@ -13,7 +13,7 @@ Avendo vissuto 3 mesi [in Marocco](/blog/marocco-in-camper-alla-scoperta-della-c
 
 ##### La tradizione
 
-Il **{{< underline "Cous cous" >}}** è un piatto che pesca le proprie origini nella tradizione berbera: si tratta di chicchi di semola di grano duro cotti al vapore e mescolati con carne, verdure e spezie. Solitamente in casa viene condiviso tra tutti i commensali **in un unico grande piatto**, insieme a salse di accompagnamento. 
+Il **{{< underline "Cous cous">}}** è un piatto che pesca le proprie origini nella tradizione berbera: si tratta di chicchi di semola di grano duro cotti al vapore e mescolati con carne, verdure e spezie. Solitamente in casa viene condiviso tra tutti i commensali **in un unico grande piatto**, insieme a salse di accompagnamento. 
 
 Noi per praticità ne prepariamo sempre un po’ di più e lo conserviamo in frigorifero per un massimo di due giorni (ma ti assicuro che dura meno!).
 
@@ -30,7 +30,7 @@ La ricetta originale prevede di cuocere i chicchi di semola per **una ventina di
 Errore irrecuperabile? In realtà no, tutte le confezioni sul loro retro danno ragione ai tempi di cottura da me scelti. 
 Perdiamo un po’ nel gusto, perché ammetto di non cuocerlo con il brodo. Ma se spadelli due verdure con un trito di cipolle, le sali per benino e ci aggiungi un po’ di amore ti assicuro **che verrà fuori un buon piatto.** 
 
-{{< youtube Xp3Y62pB96U >}} 
+{{< youtube Xp3Y62pB96U>}} 
 
 ##### Ricette alternative 
 

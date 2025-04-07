@@ -19,7 +19,7 @@ In questa guida ti spiegheremo cosa sono il Carnet de Passages en Douane (CPD d'
 ##### Carnet de Passages en Douane: cos’è 
 
 Il CPD è un documento simile a un passaporto per veicoli, che garantisce che il tuo mezzo non venga venduto o abbandonato nel paese visitato. Alcuni paesi lo richiedono come garanzia, e per ottenerlo dovrai depositare **una somma più o meno ingente presso una compagnia emittente.** 
-In Italia il CPD si ottiene con l'ACI è il costo dipende dal valore e l'età del mezzo. Non entreremo nei dettagli per l'ottenimento e consigliamo di {{< extLink "contattare l'ACI" "https://www.aci.it/" >}} più vicina a te. Per rendere l'idea per il nostro mezzo acquistato 4 anni fa con un valore commerciale 65,000 euro, ci fu chiesto 5,000 euro!
+In Italia il CPD si ottiene con l'ACI è il costo dipende dal valore e l'età del mezzo. Non entreremo nei dettagli per l'ottenimento e consigliamo di {{<extLink "contattare l'ACI" "https://www.aci.it/">}} più vicina a te. Per rendere l'idea per il nostro mezzo acquistato 4 anni fa con un valore commerciale 65,000 euro, ci fu chiesto 5,000 euro!
 
 Una volta ottenuto, il CPD viene timbrato ogni volta che entri ed esci da un paese, garantendo così che il tuo veicolo è entrato solo temporaneamente in quel paese. Sebbene la procedura sia semplice, non è né economica né veloce. 
 
@@ -27,7 +27,7 @@ Una volta ottenuto, il CPD viene timbrato ogni volta che entri ed esci da un pae
 
 Se decidi di entrare in Giappone con il CPD, sappi che prima di poter utilizzare il tuo veicolo **dovrai obbligatoriamente far autenticare tale documento.** Ecco i passaggi da seguire:
 
-1. Prenota via mail un appuntamento presso {{< extLink "la Japanese Automobile Federation (JAF)" "https://jaf.or.jp/" >}} più vicina al porto di arrivo.
+1. Prenota via mail un appuntamento presso {{<extLink "la Japanese Automobile Federation (JAF)" "https://jaf.or.jp/">}} più vicina al porto di arrivo.
 2. Al tuo arrivo recati, in taxi o con i mezzi pubblici, presso gli uffici della JAF con il CPD, la Patente Internazionale e il libretto di circolazione.
 3. Ottenuta l'autenticazione, torna al porto, presenta il CPD autenticato alla dogana 
 4. A questo punto potrai finalmente guidare in Giappone!
@@ -38,18 +38,18 @@ Alcune compagnie, come la Camellia Line (da Busan a Fukuoka), offrono un servizi
 
 Dai racconti di altri viaggiatori l'importazione del mezzo tramite CPD può durare dalle 2 alle 8 ore. Controlla con attenzione che tutti i dati (es. numero del telaio) vengano inseriti correttamente per evitare di dover ritornare presso gli uffici. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto:eco/v1739789925/Articoli/camper/camper-giappone_bknmu4.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto:eco/v1739789925/Articoli/camper/camper-giappone_bknmu4.jpg">}}
 
 ##### TIP: cos'è?
 
-L'alternativa più semplice e soprattutto gratuita rispetto al CPD è, come dicevamo prima, il TIP, noto in Giappone {{< extLink "come modulo C5014" "https://www.customs.go.jp/kaisei/zeikantsutatsu/kobetsu/TU-S46k0849a.pdf" >}}. Se arrivi in Giappone da un paese che non richiede il CPD (come per esempio la Corea del Sud), questa opzione è perfetta per te.
+L'alternativa più semplice e soprattutto gratuita rispetto al CPD è, come dicevamo prima, il TIP, noto in Giappone {{<extLink "come modulo C5014" "https://www.customs.go.jp/kaisei/zeikantsutatsu/kobetsu/TU-S46k0849a.pdf">}}. Se arrivi in Giappone da un paese che non richiede il CPD (come per esempio la Corea del Sud), questa opzione è perfetta per te.
 Con il TIP, il tuo veicolo può rimanere in Giappone fino a un massimo di un anno. Se superi tale periodo, dovrai pagare le tasse di importazione. 
 
 Inoltre, **non è richiesto acquistare in anticipo il biglietto di uscita dal Giappone** e puoi lasciare il veicolo nel paese anche se devi temporaneamente partire. Nel caso in cui ti venga richiesto una data e da che porto lascerai il Giappone devi rispondere con il porto di ingresso.
 
 In uscita dal paese consegni il TIP ai funzionari doganali che si occuperanno di confermare che hai lasciato il paese.
 
-{{< youtube DIFfBxk0JBA >}}
+{{< youtube DIFfBxk0JBA>}}
 
 ##### Procedura per l’Importazione Temporanea
 
@@ -72,8 +72,8 @@ Dopo aver inoltrato questa email alla compagnia navale, siamo riusciti a prenota
 
 Di seguito la mail della dogana di Fukuoka e il sito web dove cercare il contatto della dogana di competenza nel caso in cui dovessi scegliere un porto diverso:
 
-- Dogana di Fukuoka: {{< extLink "moji-sodankan@customs.go.jp" "mailto:moji-sodankan@customs.go.jp" >}}
-- Qua invece puoi trovare la {{< extLink "lista delle dogane per prefettura" "https://www.customs.go.jp/question_e.htm" >}}
+- Dogana di Fukuoka: {{<extLink "moji-sodankan@customs.go.jp" "mailto:moji-sodankan@customs.go.jp">}}
+- Qua invece puoi trovare la {{<extLink "lista delle dogane per prefettura" "https://www.customs.go.jp/question_e.htm">}}
 
 Consigliamo **di contattarli in anticipo** sia per avere una mail di conferma, sia se ti ritrovi in casi particolari, ad esempio se devi spedire con un container da altri paesi. Tra i vari distretti possono esserci regole leggermente diverse e quindi potrebbero non permetterti l'ingresso con il TIP.
 
@@ -94,18 +94,18 @@ Ne esistono due:
 - **Jibaiseki**: obbligatoria e con tariffa fissa statale, copre solo lesioni personali o decessi. Il costo varia in base al numero di mesi, si va da 5,840 yen per un mese fino a 8,95 yen per 6 mesi.
 - **Ninihoken**: facoltativa, copre anche danni alla proprietà di terzi. È un'assicurazione annuale e il prezzo varia in base all'età del guidatore; costa 53,000 yen per gli under 26 mentre 42,000 yen per gli over.
 
-A noi è stata fornita dalla Camellia Line (e abbiamo dovuto pagare in yen in contanti al nostro arrivo), ma se la tua compagnia non dovesse fornirtela alcuni viaggiatori hanno provveduto in autonomia {{< extLink "tramite questo Broker" "https://apexmoto.jp/products/" >}} pagando via PayPal.
+A noi è stata fornita dalla Camellia Line (e abbiamo dovuto pagare in yen in contanti al nostro arrivo), ma se la tua compagnia non dovesse fornirtela alcuni viaggiatori hanno provveduto in autonomia {{<extLink "tramite questo Broker" "https://apexmoto.jp/products/">}} pagando via PayPal.
 
 ##### Conclusioni
 
 Se segui la procedura corretta, il TIP ti permette di evitare il CPD e risparmiare denaro. Se invece usi il CPD, assicurati di completare correttamente tutte le formalità per evitare problemi in fase di ingresso e uscita del tuo veicolo dal Giappone.
 
-Se vuoi saperne di più su tutta la nostra esperienza puoi rivedere {{< extLink "i nostri video su YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}} e per qualsiasi dubbio non esitare a scriverci.
+Se vuoi saperne di più su tutta la nostra esperienza puoi rivedere {{<extLink "i nostri video su YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1">}} e per qualsiasi dubbio non esitare a scriverci.
 
 <!-- Qui invece puoi vedere come è andato il nostro ingresso in Giappone, raggiunto finalmente dopo 3 anni on the road! -->
 
 
 <!-- Inoltre, se stai cercando una guida dettagliata sulla Transiberiana via terra, puoi acquistare il nostro e-book online. -->
 
-{{< blogFooter "" "1" "0" >}}
+{{< blogFooter "" "1" "0">}}
 

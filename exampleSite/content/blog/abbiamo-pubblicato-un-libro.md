@@ -30,4 +30,4 @@ Al suo interno si trovano tutti i nostri consigli, alcuni esercizi da svolgere i
 
 ##### Lo voglio!
 
-Il nostro libro "Vivere e viaggiare in camper senza spendere una fortuna" si trova su Amazon sia in versione cartacea che in versione ebook e puoi acquistarlo {{< extLink "cliccando qui!" "https://www.amazon.it/dp/B0CW1FVQQT">}}
+Il nostro libro "Vivere e viaggiare in camper senza spendere una fortuna" si trova su Amazon sia in versione cartacea che in versione ebook e puoi acquistarlo {{<extLink "cliccando qui!" "https://www.amazon.it/dp/B0CW1FVQQT">}}

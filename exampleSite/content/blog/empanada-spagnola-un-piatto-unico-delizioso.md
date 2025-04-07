@@ -12,7 +12,7 @@ draft: false
 Tra i piatti spagnoli a bordo del nostro van, oltre alla [tortilla che ti abbiamo presentato qui](/blog/tortilla-de-patatas-spagnola-scoprila-insieme-a-noi), non poteva di certo mancare **l’empanada!**
 Diciamo che all’italiana si potrebbe paragonare all’amata torta salata salva cena e in effetti così è anche in questo paese, l’empanada salva tutto e placa **la tristezza delle papille gustative.**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094775/Articoli/empanada/IMG_3098_j6rtcg.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094775/Articoli/empanada/IMG_3098_j6rtcg.jpg">}}
 
 ##### Empanada: cosa, come e dove?
 
@@ -26,7 +26,7 @@ Ora potresti dirmi: **perché nelle città ho visto negozi di empanadas argentin
 Tranquilla/o, siamo tutti confusi e affamati.
 Ma come direbbero in casa mia, butta giù che poi in pancia tutto si sistema! 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094764/Articoli/empanada/IMG_4229_h60vsi.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094764/Articoli/empanada/IMG_4229_h60vsi.jpg">}}
 
 ###### La storia, ma sarò breve promesso! 
 
@@ -40,7 +40,7 @@ Ma non preoccuparti, perché in ogni paesino troverai una piccola panetteria in 
 
 In base ai tuoi gusti comunque puoi trovarle anche ripiene di carne o di sole verdure o di formaggio, te l’avevo detto che accontentano chiunque! 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094748/Articoli/empanada/IMG_3100_gawwoe.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094748/Articoli/empanada/IMG_3100_gawwoe.jpg">}}
 
 ###### Quali sono gli ingredienti principali dell’empanada? 
 
@@ -55,7 +55,7 @@ Se non vuoi sporcarti le mani ma solo leccarti le dita rileggi il paragrafo prim
 
 Pensa che una volta in un parcheggio nel nord della Spagna ci è successo di poterla comprare direttamente a domicilio dal camioncino di un panettiere! Una delle empanade più buone che abbiamo gustato in tutto il paese! 
 
-{{< youtube CkCwT4rboXI >}}
+{{< youtube CkCwT4rboXI>}}
 _Trovi la prova assaggio ed altre avventure in questo video!_
 
 La nostra preferita? **Empanada al tonno** da abbinare a un’insalata per un picnic a regola d’arte! Che te lo dico a fare, è la preferita anche di Sakè!

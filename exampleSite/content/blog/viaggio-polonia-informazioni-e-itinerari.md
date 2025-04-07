@@ -44,14 +44,14 @@ In inverno puoi visitare alcuni festival e i famosi mercatini di Natale, tuttavi
 
 In generale, il periodo migliore per visitare la Polonia è durante l'estate, quando il clima è mite e ci sono molte attività e eventi culturali in corso. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682607595/Articoli/Polonia/monti_tatra_zakopane_yjhz3h.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682607595/Articoli/Polonia/monti_tatra_zakopane_yjhz3h.jpg">}}
 
 ##### Come pagare
 La moneta ufficiale è lo zloty polacco (PLN). Le banconote polacche vanno dai 10 PLN ai 200 PLN, mentre le monete variano dai 1 groszy ai 5 zloty.
 
 I bancomat sono facilmente disponibili in tutto il paese e possono essere utilizzati per prelevare denaro contante.
 
-{{< card >}}
+{{< card>}}
 
 La maggior parte dei negozi, ristoranti e alberghi accetta carte di credito e di debito, ma è sempre una buona idea avere del contante a disposizione.
 
@@ -67,9 +67,9 @@ Essendo la Polonia parte dell'Unione Europea puoi usare la tua promozione italia
 ##### Vaccini e assicurazione sanitaria
 L'Italia ha un accordo bilaterale con la Polonia, che prevede che i cittadini italiani che visitano la Polonia abbiano diritto all'assistenza sanitaria pubblica gratuita in caso di emergenza o malattia improvvisa. E' necessario presentare la Tessera Sanitaria.
  
-{{< assicurazione >}}
+{{< assicurazione>}}
 
-Per maggiori informazioni ti rimandiamo al sito di {{< extLink "viaggiare sicuri" "https://www.viaggiaresicuri.it/find-country/country/POL" "Stay safe!!" >}}.
+Per maggiori informazioni ti rimandiamo al sito di {{<extLink "viaggiare sicuri" "https://www.viaggiaresicuri.it/find-country/country/POL" "Stay safe!!">}}.
 
 ##### Mezzi di trasporto pubblici 
 La Polonia ha una buona rete di trasporti pubblici, che include autobus, treni e tram.
@@ -78,7 +78,7 @@ Molte compagnie aeree offrono voli nazionali ed internazionali dall'aeroporto Ch
 
 Infine, il servizio di taxi è disponibile in tutto il paese e molti taxi accettano pagamenti con carta di credito o debito.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682606595/Articoli/Polonia/bratislava_gnomo_cuore_lpycxw.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682606595/Articoli/Polonia/bratislava_gnomo_cuore_lpycxw.jpg">}}
 
 ##### Cosa mangiare 
 I piatti tipici polacchi sono i pierogi, la zuppa di barbabietole, le kielbasa (salsicce), la zurek (zuppa con farina di segale fermentata, legumi, patate, uova sode, funghi, cipolle, pancetta e salsiccia servita dentro a una pagnotta privata della mollica) e per quanto riguarda lo street food noi abbiamo provato la zapiekanka, una sorta di baguette servita come una bruschetta e condita con formaggio, pomodoro, funghi trifolati e spesso anche ketchup o maionese.
@@ -88,7 +88,7 @@ Noi abbiamo avuto la fortuna di assaggiare i pierogi in più occasioni, sia nell
 La zuppa di barbabietola può essere calda e brodosa (Barszcz) servita con gnocchi o tortellini e condita con aceto oppure fredda e guarnita con uova sode (Chlodnik).
 
 Tra le bevande citiamo ovviamente la vodka, ma anche la tradizione delle birre non è da sottovalutare.
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682698131/IMG_1200_nw9rez.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682698131/IMG_1200_nw9rez.jpg">}}
 
 ##### Dove dormire
 In Polonia ci sono molte opzioni di alloggio, per tutti i budget, tra cui hotel, appartamenti, ostelli e agriturismi.
@@ -107,52 +107,52 @@ Se vuoi invece raggiungere il paese in camper o rivivere le nostra avventura, a 
 ###### 7 Giorni
 Ecco un possibile itinerario di 7 giorni in Polonia con partenza dall'aeroporto di Cracovia e rientro da Wrocław (Bratislava).
 
-**{{< underline "Giorno 1" >}}** Arrivo a Cracovia. Primo approccio alla città partendo dalla città vecchia e del quartiere ebraico Kazimierz.
+**{{< underline "Giorno 1">}}** Arrivo a Cracovia. Primo approccio alla città partendo dalla città vecchia e del quartiere ebraico Kazimierz.
 
-**{{< underline "Giorno 2" >}}** Visita in mattinata alla Miniera di Sale di Wieliczka. Ritorno a Cracovia con la visita del centro storico, il Castello Reale di Wawel, la Cattedrale di Wawel.
+**{{< underline "Giorno 2">}}** Visita in mattinata alla Miniera di Sale di Wieliczka. Ritorno a Cracovia con la visita del centro storico, il Castello Reale di Wawel, la Cattedrale di Wawel.
 
-**{{< underline "Giorno 3" >}}** Visita al Campo di concentramento di Auschwitz-Birkenau.
+**{{< underline "Giorno 3">}}** Visita al Campo di concentramento di Auschwitz-Birkenau.
 
-**{{< underline "Giorno 4" >}}** Visita di Katowice in particolare della Chiesa di San Michele Arcangelo, la 
+**{{< underline "Giorno 4">}}** Visita di Katowice in particolare della Chiesa di San Michele Arcangelo, la 
 Cattedrale di Cristo Re e del quartiere storico Nikiszowiec.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682606369/Articoli/Polonia/cracovia_chiesa_b0br6o.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682606369/Articoli/Polonia/cracovia_chiesa_b0br6o.jpg">}}
 
-**{{< underline "Giorno 5" >}}** Visita in mattinata della città vecchia di Opole. Spostamento nel pomeriggio a Wrocław (Bratislava).
+**{{< underline "Giorno 5">}}** Visita in mattinata della città vecchia di Opole. Spostamento nel pomeriggio a Wrocław (Bratislava).
 
-**{{< underline "Giorno 6" >}}** Giornata dedicata alla visita di Wrocław partendo da Rynek, la piazza principale, passando poi per l'imponente cattedrale di San Giovanni Battista e infine visitando gli edifici storici lungo il fiume. Durante la visita ti consigliamo di cercare i più di 300 gli gnomi di pietra sparsi un po' ovunque nella città.
+**{{< underline "Giorno 6">}}** Giornata dedicata alla visita di Wrocław partendo da Rynek, la piazza principale, passando poi per l'imponente cattedrale di San Giovanni Battista e infine visitando gli edifici storici lungo il fiume. Durante la visita ti consigliamo di cercare i più di 300 gli gnomi di pietra sparsi un po' ovunque nella città.
 
-**{{< underline "Giorno 7" >}}** ultimo giro per Wrocław.
+**{{< underline "Giorno 7">}}** ultimo giro per Wrocław.
 
 ##### I parchi e altre escursioni
 La Polonia ha numerosi parchi nazionali e riserve naturali che offrono una grande varietà di paesaggi e attività all'aperto.
 
-Noi abbiamo avuto la fortuna di visitare i Monti Tatra e il parco di Slowinski ({{< extLink "un deserto in Polonia?" "https://youtu.be/kYUqetI7HHQ" >}}), rimanendo affascinati in entrambi i luoghi.
+Noi abbiamo avuto la fortuna di visitare i Monti Tatra e il parco di Slowinski ({{<extLink "un deserto in Polonia?" "https://youtu.be/kYUqetI7HHQ">}}), rimanendo affascinati in entrambi i luoghi.
 
 Il Parco Nazionale dei Monti Tatra è un'importante destinazione per gli amanti della natura e degli sport all'aperto. Situato al confine tra la Polonia e la Slovacchia, ospita la più alta catena montuosa dei Carpazi, con vette che raggiungono i 2.500 metri. Offre una grande varietà di attività all'aperto, tra cui trekking, sci, arrampicata e mountain bike. D'estate la temperatura è mite e piacevole, ma può essere minata da temporali (noi siamo dovuti fuggire a causa di un fastidioso acquazzone).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682607673/Articoli/Polonia/monti_tatra_vista_rjhahp.jpg " >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682607673/Articoli/Polonia/monti_tatra_vista_rjhahp.jpg ">}}
 
 Il Parco Nazionale di Slowinski, situato sulla costa del Mar Baltico, è famoso per le sue dune di sabbia mobili che si estendono per oltre 40 chilometri lungo la costa. La più famosa è la duna di Lebka. Il parco offre numerose attività all'aperto, tra cui escursioni, camminate sulla spiaggia, e visite ai villaggi di pescatori locali e ai carboni fossili. 
-Per maggiori informazioni relative al parco ti rimandiamo {{< extLink "qui" "https://slowinskipn.pl/en/about-the-park" >}}, mentre per quanto riguarda i prezzi sia dell'ingresso al parco che del parcheggio trovi tutto {{< extLink "qui" "https://slowinskipn.pl/en/en-price-list2.html" >}}.
+Per maggiori informazioni relative al parco ti rimandiamo {{<extLink "qui" "https://slowinskipn.pl/en/about-the-park">}}, mentre per quanto riguarda i prezzi sia dell'ingresso al parco che del parcheggio trovi tutto {{<extLink "qui" "https://slowinskipn.pl/en/en-price-list2.html">}}.
 Attenzione: i cani non sono ammessi nel parco ed è vietato campeggiare.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682607523/Articoli/Polonia/Deserto_di_B%C5%82%C4%99d%C3%B3w_vista_pzxfoh.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682607523/Articoli/Polonia/Deserto_di_B%C5%82%C4%99d%C3%B3w_vista_pzxfoh.jpg">}}
 
 Uno dei parchi nazionali più famosi che per il momento non abbiamo avuto il piacere di visitare è il Parco Nazionale di Białowieża, situato nella parte orientale della Polonia. Al suo interno ospita l'ultima foresta primaria della pianura europea, dove è possibile ammirare specie animali uniche, tra cui il bisonte europeo.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682607068/Articoli/Polonia/zakopane_pyhsla.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682607068/Articoli/Polonia/zakopane_pyhsla.jpg">}}
 
 Infine, il Parco Nazionale di Kampinos è situato a pochi chilometri a ovest di Varsavia, è il parco nazionale più vicino alla capitale. Ospita una grande varietà di flora e fauna, tra cui cervi, cinghiali, lontre e numerose specie di uccelli e offre numerose attività all'aperto, tra cui escursioni a piedi, in bicicletta e in canoa.
 
 ##### Il nostro Vlog
-Se vuoi vedere i nostri vlog sulla Polonia ti lasciamo di seguito le nostre avventure a Cracovia oppure trovi la playlist completa {{< extLink "qui" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV" >}}
+Se vuoi vedere i nostri vlog sulla Polonia ti lasciamo di seguito le nostre avventure a Cracovia oppure trovi la playlist completa {{<extLink "qui" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV">}}
 
-{{< youtube d5blVGXVJ08 >}}
+{{< youtube d5blVGXVJ08>}}
 
 <!-- <div id="Mappe"></div> -->
 
 <!-- ##### Le nostre mappe -->
-<!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F" >}} -->
+<!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F">}} -->
 
-{{< blogFooter "PL" "1" "0" >}}
+{{< blogFooter "PL" "1" "0">}}

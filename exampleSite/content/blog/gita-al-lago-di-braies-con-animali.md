@@ -10,7 +10,7 @@ type: regular
 ---
 Stai pensando di visitare il lago di Braies e vuoi avventurarti insieme al tuo cane o gatto? 
 
-Prima di raccontarti la nostra avventura ti segnaliamo un paio di informazioni utili, soprattutto in caso di visita estiva: dato il sovraffollamento di turismo, dal 2022 nei mesi estivi dalle ore 09.30 alle 16.00 la {{< extLink "Valle di Braies" "https://www.braies.org" >}} è raggiungibile solo mediante mezzi pubblici, a piedi e in bici. Il transito con mezzi privati è consentito solo previa prenotazione del parcheggio o con esibizione di un valido permesso di transito ({{< extLink "qui puoi trovare maggiori informazioni" "https://www.prags.bz/it" >}}).
+Prima di raccontarti la nostra avventura ti segnaliamo un paio di informazioni utili, soprattutto in caso di visita estiva: dato il sovraffollamento di turismo, dal 2022 nei mesi estivi dalle ore 09.30 alle 16.00 la {{<extLink "Valle di Braies" "https://www.braies.org">}} è raggiungibile solo mediante mezzi pubblici, a piedi e in bici. Il transito con mezzi privati è consentito solo previa prenotazione del parcheggio o con esibizione di un valido permesso di transito ({{<extLink "qui puoi trovare maggiori informazioni" "https://www.prags.bz/it">}}).
 
 ![Riva Lago di Braies](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1657873911/Articoli/Riva_del_lago_di_Braies.jpg)
 

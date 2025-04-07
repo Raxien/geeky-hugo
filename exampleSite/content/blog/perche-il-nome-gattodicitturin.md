@@ -22,4 +22,4 @@ Dato che con Olimpia andavamo sempre a trovare le nostre famiglie a un'ora di di
 Curioso? 
 Scopri di più in questo video! 
 
-{{< youtube Za72BX3mgNY >}}
+{{< youtube Za72BX3mgNY>}}

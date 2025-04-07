@@ -10,7 +10,7 @@ draft: false
 
 Da quanto siamo partiti per vivere sul nostro van una delle domande più gettonate che ci hanno rivolto è stata:
 
-{{< citazione "Quanto tornate?" >}}
+{{< citazione "Quanto tornate?">}}
 
 Domanda facile, da porre.
 Domanda difficile, alla quale rispondere.
@@ -35,7 +35,7 @@ Per questo forse il primo mattino in cui ci siamo svegliati, lontani fisicamente
 È stato come spalancare una finestra di prima mattina su una distesa di stimoli. 
 I nostri cervelli hanno iniziato a mettere in moto idee a più non posso. Era un continuo ping pong di questo, quello, quell’altro.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_auto,q_auto:eco/v1689180926/Articoli/quando%20tornate/IMG_8600_utjbt5.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_auto,q_auto:eco/v1689180926/Articoli/quando%20tornate/IMG_8600_utjbt5.jpg">}}
 
 
 ##### Tutto bello, ma quando tornate? 
@@ -58,8 +58,8 @@ Quando siamo partiti non avevamo idea di come gestire tutto ciò.
 
 Una settimana fa siamo arrivati in Francia in un borgo di 30 abitanti. Siamo stati accolti come figli, ci siamo offerti per aiutare nei preparativi della festa nazionale, abbiamo guardato i fuochi d’artificio insieme ai nostri vicini di camper. Poi siamo ripartiti tra strette di mano, 3 baci sulle guance, frasi capite a metà in un miscuglio di lingue, occhi pieni di commozione e gratitudine.
 
-Un anno fa accadeva la stessa cosa nei Paesi Bassi, quando ci siamo ritrovati per caso a costruire gondole in fiore, seduti vicino a un gruppo di persone che brindavano a noi e che ci rincorrevano in paese per salutare quegli “italiani pazzerelli con cane e gatto” (a proposito, {{< extLink "eccoti qui quegli attimi" "https://youtu.be/-TqHygqTneo" >}}!). 
-Sono solo due delle tante altre situazioni, che definiremmo più **{{< underline "occasioni fortunate" >}}**, che ci sono successe un po’ ovunque sia in Europa che in Africa, in un mondo che chiamiamo Casa, con persone che chiamiamo Famiglia.
+Un anno fa accadeva la stessa cosa nei Paesi Bassi, quando ci siamo ritrovati per caso a costruire gondole in fiore, seduti vicino a un gruppo di persone che brindavano a noi e che ci rincorrevano in paese per salutare quegli “italiani pazzerelli con cane e gatto” (a proposito, {{<extLink "eccoti qui quegli attimi" "https://youtu.be/-TqHygqTneo">}}!). 
+Sono solo due delle tante altre situazioni, che definiremmo più **{{< underline "occasioni fortunate">}}**, che ci sono successe un po’ ovunque sia in Europa che in Africa, in un mondo che chiamiamo Casa, con persone che chiamiamo Famiglia.
 
 ##### Non possiamo tornare. 
 
@@ -75,8 +75,8 @@ Così come non è facile dire “non restiamo”.
 Torneremo: per abbracciare, per raccontare, per condividere. 
 Torneremo: alla nostra vita, alla nostra strada, alle nostre 24 ore, a ciò che di incerto ci rende certi, curiosi, felici.
 
-Se ti va di rivivere le nostre avventure mangiando pop corn sul divano, {{< extLink "clicca qui!" "https://www.youtube.com/c/vandipety" >}}.
+Se ti va di rivivere le nostre avventure mangiando pop corn sul divano, {{<extLink "clicca qui!" "https://www.youtube.com/c/vandipety">}}.
 
 Grazie se in minima parte potrai comprenderci, grazie se avrai voglia di confrontarti con noi nei commenti.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_auto,q_auto:eco/v1689180913/Articoli/quando%20tornate/3BD59BD7-F47D-4742-8169-C88772019A02_baqvuk.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_auto,q_auto:eco/v1689180913/Articoli/quando%20tornate/3BD59BD7-F47D-4742-8169-C88772019A02_baqvuk.jpg">}}

@@ -2,7 +2,7 @@
 title: 'Viaggiare in Russia: guida completa in 11 punti (aggiornamento 2025)'
 description: "Scopri come pianificare il tuo viaggio in Russia nel 2024, con informazioni aggiornate su visti, ingressi, valuta, consigli e altro ancora."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1731636403/Articoli/Blog/russia-guida-completa_j8amvo.png
-date: 2024-11-01T10:00:00+01:00
+date: 2025-01-02T10:00:00+01:00
 categories: [ "Guida", "Russia"]
 country: Russia
 type: featured
@@ -44,8 +44,8 @@ Le informazioni contenute in questa guida sono aggiornate **a settembre 2024**. 
 Per visitare la Russia è sempre necessario ottenere un visto di ingresso. 
 
 ###### Visto Elettronico
-Il grande vantaggio del visto elettronico è che **non è necessario recarsi al Consolato o ai centri per i visti russi**, ma basta compilare **{{< extLink "la richiesta online" "https://electronic-visa.kdmid.ru/" >}}** e viene rilasciato entro 4 giorni, indipendentemente dai fine settimana e dai giorni festivi, tra l’altro senza la necessità di ottenere inviti o conferme. 
-**Il prezzo dell’e-visa è di 52 dollari** ma si può richiedere solo per soggiorni fino a 16 giorni e da diritto a un solo ingresso, quindi calcola bene quanti giorni vuoi rimanere in paese ma soprattutto fai attenzione perché tale documento è riconosciuto solo in alcuni posti di blocco ({{< extLink "scopri qui quali" "https://electronic-visa.kdmid.ru/checkpoint.html" >}}). 
+Il grande vantaggio del visto elettronico è che **non è necessario recarsi al Consolato o ai centri per i visti russi**, ma basta compilare **{{<extLink "la richiesta online" "https://electronic-visa.kdmid.ru/">}}** e viene rilasciato entro 4 giorni, indipendentemente dai fine settimana e dai giorni festivi, tra l’altro senza la necessità di ottenere inviti o conferme. 
+**Il prezzo dell’e-visa è di 52 dollari** ma si può richiedere solo per soggiorni fino a 16 giorni e da diritto a un solo ingresso, quindi calcola bene quanti giorni vuoi rimanere in paese ma soprattutto fai attenzione perché tale documento è riconosciuto solo in alcuni posti di blocco ({{<extLink "scopri qui quali" "https://electronic-visa.kdmid.ru/checkpoint.html">}}). 
 
 Ad esempio se vuoi entrare in Russia dalla Georgia e uscire in Kazakistan come fanno tanti viaggiatori tale visto non è riconosciuto, per cui potremmo consigliarlo **a chi vuole rimanere intorno a [Mosca](/blog/tour-di-mosca-in-due-giorni-itinerario-imperdibile) e [San Pietroburgo](/blog/tour-di-san-pietroburgo-scopri-la-venezia-del-nord-in-2-giorni)**, anche se ci sono persone che l’hanno sfruttato per raggiungere direttamente la Mongolia, **a proprio rischio e pericolo** perché può sempre succedere un imprevisto lungo la strada. 
 
@@ -55,17 +55,17 @@ Tale visto può essere di tipo turistico, d’affari, per visite private, ecc., 
 Se ti serve un visto di questi tipo ricordati che **la richiesta si può fare non prima di 6 mesi** (negli uffici di Genova e Milano) e **non prima di 3 mesi** (a Roma e Palermo) dalla prevista data di partenza.
 Attenzione però perché quando si parla di visto semestrale si intende che **si può rimanere in paese per un massimo di 90 giorni nell’arco di 6 mesi**, quindi non che puoi stare nel paese 6 mesi. 
 
-Tra l’altro secondo alcune agenzie il visto semestrale viene concesso a chi ha già ottenuto visti russi in precedenza, per gli altri invece viene rilasciato al massimo un visto trimestrale doppia entrata. Noi per effettuare il nostro visto con cui siamo stati 75 giorni in Russia entrando e uscendo sia dal Kazakistan che dalla Mongolia {{< extLink "ci siamo affidati all’agenzia Vistonline" "https://www.vistonline.it/" >}}. 
+Tra l’altro secondo alcune agenzie il visto semestrale viene concesso a chi ha già ottenuto visti russi in precedenza, per gli altri invece viene rilasciato al massimo un visto trimestrale doppia entrata. Noi per effettuare il nostro visto con cui siamo stati 75 giorni in Russia entrando e uscendo sia dal Kazakistan che dalla Mongolia {{<extLink "ci siamo affidati all’agenzia Vistonline" "https://www.vistonline.it/">}}. 
 
 I documenti necessari nel nostro caso sono stati: 
 
 * Invito ufficiale (che ci ha fornito l’agenzia)
-* Assicurazione sanitaria **valida in territorio russo**. Noi abbiamo {{< extLink "sfruttato Genki" "https://www.genki.world/with/vandipety" >}}, l’assicurazione che usiamo in tutto il mondo
+* Assicurazione sanitaria **valida in territorio russo**. Noi abbiamo {{<extLink "sfruttato Genki" "https://www.genki.world/with/vandipety">}}, l’assicurazione che usiamo in tutto il mondo
 * Una copia del modulo richiesta d’ingresso che viene compilata online dall’agenzia sul sito del Consolato.
 * Una copia del modulo richiesta d’incarico
 * due fototessere
 
-Per la Procedura completa abbiamo {{< extLink "spedito con un corriere" "https://youtu.be/ESPXke-m0L0" >}} il passaporto, le foto tessere e il modulo consolare compilato e l’agenzia si è occupata di recarsi presso gli uffici consolari e di spedirci **dopo circa 21 giorni lavorativi** il passaporto completo di visto. In questo caso le tasse consolari e le spese di spedizione si pagano direttamente all’agenzia e al corriere.
+Per la Procedura completa abbiamo {{<extLink "spedito con un corriere" "https://youtu.be/ESPXke-m0L0">}} il passaporto, le foto tessere e il modulo consolare compilato e l’agenzia si è occupata di recarsi presso gli uffici consolari e di spedirci **dopo circa 21 giorni lavorativi** il passaporto completo di visto. In questo caso le tasse consolari e le spese di spedizione si pagano direttamente all’agenzia e al corriere.
 
 Previo appuntamento invece è possibile **presentarsi personalmente presso i centri visti in Italia**, e pagare tasse consolari e commissioni di servizio in modo autonomo. In questo caso dovrai però  compilare da te anche il modulo consolare online e procurarti l’assicurazione medica e la lettera d'invito. Per evitare perdite di tempo e che magari ti venga rifiutato il visto per un errore banale, **ti raccomandiamo di informarti bene prima di procedere.**
 
@@ -79,7 +79,7 @@ Il visto di transito ai cittadini stranieri che attraversano il territorio con a
 Il visto di transito ai cittadini stranieri che attraversano il territorio con automezzi **viene rilasciato per non più di 10 giorni** e questo limite di tempo viene calcolato sulla base **di un chilometraggio medio giornaliero del veicolo di 500 km.**
 La validità del visto di transito a doppio ingresso non può superare un mese e Il secondo visto di transito deve essere richiesto in ufficio consolare russo nel paese, dove il cittadino straniero si troverà dopo il primo transito dalla Russia.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/Mosca/mosca-piazza-rossa_icjreg.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/Mosca/mosca-piazza-rossa_icjreg.jpg">}}
 
 ##### 2. Come entrare in Russia 
 
@@ -91,9 +91,9 @@ A seguito delle sanzioni internazionali **i voli sono diventati più costosi**.
 
 ###### Ingresso via terra 
 
-Per entrare in Russia via terra (a piedi o a bordo di automobile, camper, motocicletta o bus) esistono varie  frontiere, che ti consigliamo di verificare sul sito {{< extLink "di Viaggiare Sicuri" "https://www.viaggiaresicuri.it/schede_paese/pdf/RUS.pdf" >}} o tramite {{< extLink "iOverlander" "https://ioverlander.com/" >}} **per ottenere informazioni aggiornate.**
+Per entrare in Russia via terra (a piedi o a bordo di automobile, camper, motocicletta o bus) esistono varie  frontiere, che ti consigliamo di verificare sul sito {{<extLink "di Viaggiare Sicuri" "https://www.viaggiaresicuri.it/schede_paese/pdf/RUS.pdf">}} o tramite {{<extLink "iOverlander" "https://ioverlander.com/">}} **per ottenere informazioni aggiornate.**
 
-{{< youtube "rLljFmk3fN4" >}}
+{{< youtube "rLljFmk3fN4">}}
 _La nostra esperienza entrando in Russia dalla Georgia_
 
 ###### La nostra esperienza via terra 
@@ -102,13 +102,13 @@ Noi siamo entrati in Russia **via terra, a bordo del camper dalla Georgia** (fro
 
 Alla dogana russa bisogna compilare due documenti:
 1) il foglio relativo al documento di immigrazione dove vanno riportati i dati personali e da conservare con cura e da consegnare all'uscita dal paese.
-2) il documento di importazione temporanea del mezzo da compilare in duplice copia con i dati del proprietario del veicolo e del mezzo(puoi scaricare {{< extLink "la versione in russo qui" "https://tinyurl.com/DocImpRussia" >}}). Presta attenzione a non commettere errori altrimenti dovrai ricompilare tutto da capo (noi avevamo dichiarato gli animali alla voce 7, ma abbiamo scoperto di non doverlo fare). Questo documento va conservato con cura ed è valido anche nei paesi limitrofi dell’Eurasia (Kazakistan, Kirghistan). Questo documento va consegnato quando si esce dai paesi non appartenenti all'Euraia.
+2) il documento di importazione temporanea del mezzo da compilare in duplice copia con i dati del proprietario del veicolo e del mezzo(puoi scaricare {{<extLink "la versione in russo qui" "https://tinyurl.com/DocImpRussia">}}). Presta attenzione a non commettere errori altrimenti dovrai ricompilare tutto da capo (noi avevamo dichiarato gli animali alla voce 7, ma abbiamo scoperto di non doverlo fare). Questo documento va conservato con cura ed è valido anche nei paesi limitrofi dell’Eurasia (Kazakistan, Kirghistan). Questo documento va consegnato quando si esce dai paesi non appartenenti all'Euraia.
 
 Consigliamo di scaricare e compilare in anticipo il documento di importazione temporanea, questo farà risparmiare molto tempo.
 
 Avendo il visto multingresso **noi siamo usciti dalla Russia per entrare in Kazakistan** (frontiera nei pressi di Petropavl), siamo tornati in Russia **nei pressi della dogana di Pogranichnyy** e siamo entrati in Mongolia nei pressi della **dogana di Tashanta**, per poi uscire e tornare in Russia in direzione Ulan Ude. Presta attenzione perché in alcuni casi l’attesa potrebbe essere molto lunga dato il numeroso transito di persone, **inoltre potrebbero interrogarti circa il tragitto e lo scopo del viaggio.**
 
-{{< youtube "w2tPi29Mubg" >}}
+{{< youtube "w2tPi29Mubg">}}
 _La nostra esperienza entrando in Russia dal Kazakistan_
 
 ###### Uscita via nave
@@ -117,7 +117,7 @@ Se come noi stai pensando di uscire dalla Russia via nave e raggiungere la Corea
 In questo caso dovrai comunicare con largo anticipo sia con i doganieri russi che con i doganieri coreani. 
 <!-- Vista la  scritto una guida in merito -->
 
-{{< youtube WwkDeXOMaAU >}}
+{{< youtube WwkDeXOMaAU>}}
 
 ###### Assicurazione stradale 
 
@@ -140,22 +140,22 @@ Attualmente esistono alcune opzioni di carte per gli stranieri che si recano in 
 
 ###### La nostra esperienza
 
-Noi, data la precarietà del momento, abbiamo deciso di portare più contanti e cambiarli all’occorrenza, cosa che ci è tornata utile ad esempio per pagare non solo il cibo e la benzina **{{< extLink "ma anche le spese veterinarie per i nostri animali" "https://youtu.be/LOAtIHD3OK4" >}}** e il cambio olio e ruote del mezzo. 
+Noi, data la precarietà del momento, abbiamo deciso di portare più contanti e cambiarli all’occorrenza, cosa che ci è tornata utile ad esempio per pagare non solo il cibo e la benzina **{{<extLink "ma anche le spese veterinarie per i nostri animali" "https://youtu.be/LOAtIHD3OK4">}}** e il cambio olio e ruote del mezzo. 
 
-{{< card >}}
+{{< card>}}
 
-{{< youtube LOAtIHD3OK4 >}}
+{{< youtube LOAtIHD3OK4>}}
 
 ##### 6. Internet (GPS e VPN)
 
 I modi per poter avere Internet nel paese sono sostanzialmente due: 
-* Acquistare una carta SIM fisica all’arrivo in Russia. {{< extLink "Beeline" "https://moskva.beeline.ru/" >}} e {{< extLink "MTC" "https://moskva.mts.ru/personal" >}} offrono offerte vantaggiose.
-* Utilizzare come facciamo noi una eSim come {{< extLink "ConnectPls" "https://connectpls.com/vandipety/" >}}
+* Acquistare una carta SIM fisica all’arrivo in Russia. {{<extLink "Beeline" "https://moskva.beeline.ru/">}} e {{<extLink "MTC" "https://moskva.mts.ru/personal">}} offrono offerte vantaggiose.
+* Utilizzare come facciamo noi una eSim come {{<extLink "ConnectPls" "https://connectpls.com/vandipety/">}}
 
 Dal 2022 la Federazione Russa **ha adottato misure restrittive per quanto riguarda l’uso di media e social media**, quindi per poter utilizzare determinate piattaforme (Instagram, Facebook) è necessario l’utilizzo di una VPN. 
 Consigliamo di usare queste:
-* {{< extLink "Surfshark" "https://surfshark.club/friend/rC7LbYQV" >}}
-* {{< extLink "Outline" "https://outlinekeys.com" >}} a cui bisogna {{< extLink "aggiungere manualemnte i server" "https://outlinekeys.com/key" >}} e provare. Mediamente ogni 24ore i server vengono bloccati e bisogna aggiungerne uno nuovo e sperare che funzioni.
+* {{<extLink "Surfshark" "https://surfshark.club/friend/rC7LbYQV">}}
+* {{<extLink "Outline" "https://outlinekeys.com">}} a cui bisogna {{<extLink "aggiungere manualemnte i server" "https://outlinekeys.com/key">}} e provare. Mediamente ogni 24ore i server vengono bloccati e bisogna aggiungerne uno nuovo e sperare che funzioni.
 
 Spesso anche il GPS non funziona, quindi ti consigliamo di scaricare le mappe offline.
 Dal momento che spesso Google Maps non è aggiornato, **ti consigliamo di utilizzare Yandex map** per gli spostamenti e per la ricerca di informazioni. Inoltre **è l'unico che ha informazioni in merito alla mezzi pubblici** di trasporto a Mosca e San Pietroburgo.
@@ -181,15 +181,15 @@ Attenzione: Se attraversi la striscia continua **rischi il ritiro della patente*
 
 ##### 8. Hotel, campeggi e sosta libera
 
-Per quanto riguarda la prenotazione di un alloggio, sia esso un hotel o un appartamento, le principali piattaforme di prenotazione (Booking, Airbnb, ecc.) **non consentono di prenotare hotel in Russia**, quindi dovrai ricorrere ad altre opzioni, come ad esempio {{< extLink "Zenhotels" "https://www.zenhotels.com/" >}} o {{< extLink "Sutochno" "https://www.Sutochno.ru/" >}}. Tieni a mente che **molti di essi non accettano animali** e che **non potrai pagare con la carta.**
+Per quanto riguarda la prenotazione di un alloggio, sia esso un hotel o un appartamento, le principali piattaforme di prenotazione (Booking, Airbnb, ecc.) **non consentono di prenotare hotel in Russia**, quindi dovrai ricorrere ad altre opzioni, come ad esempio {{<extLink "Zenhotels" "https://www.zenhotels.com/">}} o {{<extLink "Sutochno" "https://www.Sutochno.ru/">}}. Tieni a mente che **molti di essi non accettano animali** e che **non potrai pagare con la carta.**
 
 Se viaggi in camper potrai trovare alcuni campeggi sul suolo russo.
-Noi abbiamo effettuato ovunque sosta libera (senza campeggiare e in totale rispetto del circondario): a tal proposito ti consigliamo di usare le applicazioni {{< extLink "Park4night" "https://park4night.com" >}} (dove trovi tutte le nostre soste aggiunte) e {{< extLink "Go Vanlife" "https://go-vanlife.ru/" >}} (utilizzata prettamente da viaggiatori russi). 
+Noi abbiamo effettuato ovunque sosta libera (senza campeggiare e in totale rispetto del circondario): a tal proposito ti consigliamo di usare le applicazioni {{<extLink "Park4night" "https://park4night.com">}} (dove trovi tutte le nostre soste aggiunte) e {{<extLink "Go Vanlife" "https://go-vanlife.ru/">}} (utilizzata prettamente da viaggiatori russi). 
 
 **Non esistono quasi per niente aree di carico e scarico**, ma se dovessi avere problemi a trovare alcune fontane puoi chiedere alle persone del posto che sicuramente ti offriranno acqua gratuitamente. 
 Per bere **noi abbiamo sempre acquistato acqua nei supermercati** (uno fra tutti il **Lenta**, che offre prezzi e offerte vantaggiosi).  
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/Mosca/mosca-moscow-city_oi6si1.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/Mosca/mosca-moscow-city_oi6si1.jpg">}}
 
 ##### 9. Quando andare in Russia: il clima
 La Russia è il paese più grande del mondo, con climi che vanno dal polare al subtropicale. Il tempo varia notevolmente tra le stagioni: 
@@ -205,7 +205,7 @@ La Russia è il paese più grande del mondo, con climi che vanno dal polare al s
 Viaggiare in Russia è del tutto sicuro e nei nostri due mesi di permanenza in paese **non abbiamo mai avuto problemi** né nelle grandi città, né in zone più remote e abbiamo pernottato in libera (cioè senza usufruire di campeggi o alberghi) senza alcun problema. 
 A Mosca **è addirittura normale incontrare ragazze che corrono da sole di sera** nei parchi in periferia, mentre nei paesini di campagna tutti ci hanno accolti in modo gentile, chiedendoci se avessimo necessità di qualcosa. 
 
-{{< youtube xP5iInwIyW0 >}}
+{{< youtube xP5iInwIyW0>}}
 
 Ricordati però che per evitare problemi di sicurezza in qualità di turisti **è bene evitare di partecipare a manifestazioni** o fare dichiarazioni pubbliche sui social media con critiche relative al paese. 
 Ovviamente poi, data la situazione attuale, **è necessario essere prudenti quando si viaggia nelle regioni limitrofe all’Ucraina**, ma la M4 che per 200 km si trova molto vicina al confine, a giugno del 2024 era perfettamente percorribile. 
@@ -226,6 +226,6 @@ Tieni a mente che il certificato di buona salute puoi effettuarlo presso qualsia
 
 Se come noi poi vuoi uscire dalla Russia e entrare in Corea la questione ancora una volta si complica, perché dovrai recarti presso più uffici e compilare dei documenti specifici per l’espatrio e **per non rischiare la quarantena**. 
 
-{{< youtube 8CSdiBuj-k4 >}}
+{{< youtube 8CSdiBuj-k4>}}
 
-{{< blogFooter "" "1" "0" >}}
+{{< blogFooter "" "1" "0">}}

@@ -6,9 +6,6 @@ date: 2022-06-24T12:00:00+01:00
 categories: ["Blog", "Animali"]
 type: "regular" # available types: [featured/regular]
 draft: false
-Victor_Hugo: "true"
-Focus_Keyword: "olimpia cane rottweiler" # lista keyword su cui verificare l'ottimizzazione della pagina 
-Victor_Hugo_Clean: "false"
 ---
 
 La nostra Olimpia ha compiuto da poco 9 anni. A prima vista potrebbe intimorire: una rottweiler, la tradizione la annovera fra i cosiddetti cani da difesa pericolosi. Basta coricarsi al suo fianco per capire che si potrebbe dormire una notte intera con lei abbracciata. 

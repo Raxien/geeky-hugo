@@ -41,7 +41,7 @@ Restano esclusi dall’elenco: **Svizzera, Principato di Monaco e il Regno Unito
 Se vuoi sapere quanti giga hai a disposizione puoi farlo accedendo all'area personale dedicata sul sito del tuo operatore oppure puoi calcolarlo facilmente qua sotto 👇
 
 <div style="color: #222; line-height: 32px; margin-bottom: 15px; position: relative; background-color: #f2f2f2; border-radius: 5px; padding: 30px 105px; margin: 3em 0;">
-{{< citazione "Calcola i tuoi giga in roaming in Europa" >}}
+{{< citazione "Calcola i tuoi giga in roaming in Europa">}}
 
 Tariffa mensile: <input id="tariffa" type="number" /> € = GB in Roaming: <span id="result"></span> 
 
@@ -75,7 +75,7 @@ Tariffa mensile: <input id="tariffa" type="number" /> € = GB in Roaming: <span
 
 </script>
 
-{{< underline "Attenzione" >}}: il tuo soggiorno non dovrebbe, di norma superare, **i 3 mesi di permanenza**, altrimenti potresti **rischiare che tuo operatore recida il contratto.**
+{{< underline "Attenzione">}}: il tuo soggiorno non dovrebbe, di norma superare, **i 3 mesi di permanenza**, altrimenti potresti **rischiare che tuo operatore recida il contratto.**
 
 ###### Voglio andare fuori dall'Europa!
 Spesso gli operatori italiani offrono dei pacchetti ad hoc per i paesi che si vogliono visitare. Questa può essere una soluzione veloce per avere qualche giga da utilizzate all'estero ma spesso non è la scelta più economica.
@@ -87,7 +87,7 @@ Per esempio, guardando sui vari siti degli operatori nostrani è possibile trova
 
 Come dicevamo non sono soluzioni economiche e infatti **consigliamo di valutare la prima soluzione che consigliamo** per i viaggi lunghi qui di seguito. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1684677033/DSC02744_wp34o6.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1684677033/DSC02744_wp34o6.jpg">}}
 _Pure qui, [in Marocco, nel nulla](/blog/5-spot-in-marocco.md), siamo riusciti ad avere connessione!_
 
 ##### Viaggi lunghi
@@ -97,7 +97,7 @@ Di seguito le soluzioni se prevedi di fare un viaggio lungo in giro per il mondo
 
 Le SIM locali sono la soluzione più economica e facile da sfruttare in giro per il mondo. 
 Noi le abbiamo utilizzate in vari paesi sia Europei (Francia, Spagna e Portogallo dato che in questi paesi siamo rimasti a lungo disattivando le promozioni con i nostri operatori che ci garantivano meni giga) che extra Europa (Marocco, Senegal e Montenegro). 
-Per farti un esempio in Portogallo la Vodafone {{< extLink "offre dati illimitati" "https://www.vodafone.pt/en/products-services/visiting-portugal.html" >}} a una cifra ragionevole mentre in Francia abbiamo usato {{< extLink "Reglo Mobile" "https://www.reglomobile.fr/" >}}, la più economica che si può acquistare in qualsiasi supermercato E.LeClerc. Se avessimo dovuto usare solo i giga a disposizione con gli operatori italiani non saremmo riusciti a lavorare.
+Per farti un esempio in Portogallo la Vodafone {{<extLink "offre dati illimitati" "https://www.vodafone.pt/en/products-services/visiting-portugal.html">}} a una cifra ragionevole mentre in Francia abbiamo usato {{<extLink "Reglo Mobile" "https://www.reglomobile.fr/">}}, la più economica che si può acquistare in qualsiasi supermercato E.LeClerc. Se avessimo dovuto usare solo i giga a disposizione con gli operatori italiani non saremmo riusciti a lavorare.
 
 Per le informazioni sulle sim usate in Africa trovi tutto negli articoli dedicati:
   - [Marocco](/blog/marocco-quale-operatore-internet-scegliere)
@@ -116,14 +116,14 @@ Come funziona? ConnectPls è un servizio di abbonamento Internet che offre una c
 Ovunque davvero? Sì. L'unica limitazione è che a seconda del Paese in si utilizza il dispositivo, potrebbe essere applicato un fair use o un limite di velocità. 
 Nei paesi indicati sul loro sito nel gruppo 1, quando l'utilizzo giornaliero dei dati supera i 5 GB si potrebbe riscontrare una diminuzione della velocità di connessione. Nei paesi del Gruppo 2 la connessione sarà a velocità 4G per 500 MB al giorno – 256 kbps una volta raggiunto il limite di velocità. Si tratta principalmente di una protezione contro l'abuso dell'utilizzo dei dati non personali su tutti i dispositivi, ma l'accesso ad Internet sarà in ogni caso illimitato.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1702369025/Articoli/Blog/internet-illimitato-connectpls_lbtnbm.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1702369025/Articoli/Blog/internet-illimitato-connectpls_lbtnbm.jpg">}}
 _Il router ha una batteria infinita ed è portatile! Grande Giove!_
 
 ###### Perché ci ha cambiato la vita in viaggio
 Negli ultimi due mesi, **vivendo come fulltime vanlifers**, ci siamo ritrovati ad attraversare numerose frontiere in Europa e fuori Europa. Se in ogni paese avessimo dovuto cercare informazioni circa le offerte, ricercare dove comprare le sim una volta attraversata la dogana e sfruttare al meglio la promozione calcolando giorni e giga a disposizione avremmo perso tantissimo tempo! 
 Con il router di Connect PLS, che viene inviato una volta stipulato l'abbonamento e completo di una sim cloud al suo interno, non abbiamo dovuto pensare più a nulla! **Siamo sempre connessi, oltre ogni confine!**
 
-Scopri di più sul {{< extLink "sito ufficiale" "https://connectpls.com/vandipety" >}} **e ricevi uno sconto del 35% sul primo mese!**
+Scopri di più sul {{<extLink "sito ufficiale" "https://connectpls.com/vandipety">}} **e ricevi uno sconto del 35% sul primo mese!**
 
 ##### Ma quindi cosa scegliere?
 La risposta è: **dipende!** 
@@ -140,7 +140,7 @@ Se stai pianificando un viaggio per vacanza ma non assolutamente rimanere fuori 
 
 Se sei un nomade digitale o un fulltime vanlifer cerca di capire le tue necessità di download o upload, e ricorda che non sempre i WIFI  dei bar o co-working sono affidabili al 100%.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1702369025/Articoli/Blog/smartworking-in-van_xctosr.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1702369025/Articoli/Blog/smartworking-in-van_xctosr.jpg">}}
 _Non conosci i [Sumi me?](/blog/storie-personalizzate-ecco-i-sumi-me)_
 
 ##### In breve
@@ -185,7 +185,7 @@ Veniamo ora ai trucchi che usiamo viaggiando per risparmiare giga e avere sempre
 Questo è uno strumento facilissimo di Whatsapp che consente di inviare lo stesso messaggio a più contatti contemporaneamente, senza dover creare un gruppo in cui i partecipanti possano avere accesso ad altri contatti e senza dover scrivere più e più volte il messaggio in ogni chat o inoltrare sempre la stessa fotografia. 
 Noi lo usiamo per aggiornare tutti i familiari e risparmiare mega che si trasformano in giga in un batter d'occhio: in questo caso infatti tu invierai un file e poi sarà Whatsapp a destinarlo senza pesare sul tuo consumo. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1702369025/Articoli/Blog/whatsapp-liste-broadcast_zzny3z.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1702369025/Articoli/Blog/whatsapp-liste-broadcast_zzny3z.jpg">}}
 _Un messaggio solo per comunicare con tutti!_
 
 ###### Come creare e usare una lista broadcast
@@ -205,8 +205,8 @@ La lista sarà creata in automatico, solo tu vedrai i partecipanti, che potrai s
 
 ##### 2. Limitare dati
 Impostare il limite di consumo dei dati ti aiuterà ad evitare che alcune applicazioni scarichino dati in background a loro piacere ma a tuo sfavore, facendoti consumare più giga del previsto. Come fare?
-- {{< extLink "su iOs" "https://support.apple.com/it-it/102433#:~:text=Rete%20cellulare%205G-,Vai%20su%20Impostazioni%20e%20tocca%20Cellulare.,attiva%20Consumo%20limitato%20di%20dati." >}}
-- {{< extLink "su Android" "https://support.google.com/duo/answer/6376100?hl=it&co=GENIE.Platform%3DAndroid" >}}
+- {{<extLink "su iOs" "https://support.apple.com/it-it/102433#:~:text=Rete%20cellulare%205G-,Vai%20su%20Impostazioni%20e%20tocca%20Cellulare.,attiva%20Consumo%20limitato%20di%20dati.">}}
+- {{<extLink "su Android" "https://support.google.com/duo/answer/6376100?hl=it&co=GENIE.Platform%3DAndroid">}}
 
 ##### 3. Wi-Fi Map
 Wi-Fi Map è un'applicazione molto semplice da utilizzare che permette di **individuare tutti i WiFi disponibili nella zona in cui si trova.**
@@ -214,7 +214,7 @@ Wi-Fi Map è un'applicazione molto semplice da utilizzare che permette di **indi
 ###### Come funziona?
 I WiFi sono stati inseriti da altri utenti (e tu stesso puoi aggiungerne uno se lo trovi), che indicano se essi sono ad accesso libero o se richiedono una password e in tal caso quale è la password da inserire. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1702369025/Articoli/Blog/wifi-map-applicazione_yekf6y.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1702369025/Articoli/Blog/wifi-map-applicazione_yekf6y.jpg">}}
 _Un messaggio solo per comunicare con tutti!_
 
 ###### Funziona sempre?
@@ -231,10 +231,10 @@ Noi utilizziamo principalmente:
 Prima di partire noi scarichiamo sempre film o libri o playlist musicali ai quali ci sappiamo che ci farebbe piacere avere accesso nei momenti si svago o durante la guida. 
 Vuoi mettere ascoltare solo la radio in lingua locale? E' pur vero che è un ottimo esercizio linguistico!
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1702369025/Articoli/Blog/leggere-ovunque-senza-problemi_lkk6t4.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1702369025/Articoli/Blog/leggere-ovunque-senza-problemi_lkk6t4.jpg">}}
 _[Scopri cosa leggiamo](/books)_
 
 Non ti resta che partire, ricordandoti di connetterti anche con il luogo che stai per visitare, con le persone del posto, i sapori e tutte le cose belle che potrai portare a casa come bagaglio culturale! 
 Speriamo di esserti stati utili, ti aspettiamo nei commenti se avessi dubbi o curiosità. 
 
-{{< youtube hMheQoKeFVY >}}
+{{< youtube hMheQoKeFVY>}}

@@ -1,0 +1,171 @@
+{{ define "main" }}
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+<!--=================== contact section start ===================-->
+<section class="section contact">
+  <div class="container">
+    {{ $bgImage:= resources.Get "images/map.png" }}
+    {{ $bgImage:= $bgImage.Resize "1400x webp" }}
+    <div class="row section-sm pt-0" style="background-image: url('{{ $bgImage.RelPermalink }}')">
+      <div class="col-lg-6">
+        <div class="content pt-lg-5 pb-3 pb-lg-0">
+          <h2>Contattaci</h2>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="p-4 border rounded-4">
+          <h3 class="h4 mb-5 text-capitalize">Mandaci un
+            <span class="text-primary"> messaggio <i class="fas fa-arrow-right ms-2"></i></span>
+          </h3>
+          <form action="{{site.Params.contact_form_action | safeURL}}" method="POST">
+            <!-- <div class="form-group">
+              <label for="name" class="form-label">Nome <small>*</small></label>
+              <input type="text" class="form-control" name="name" id="name" placeholder="Sakè Olimpia" required>
+            </div> -->
+            <div class="form-group">
+              <label for="email" class="form-label">Email <small>*</small></label>
+              <input type="email" name="email" class="form-control" id="email" placeholder="esempio@email.com" required>
+            </div>
+            <!-- <div class="form-group">
+              <label for="isSponsor" class="form-label">Sei un'azienda?</label>              
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="isSponsor">
+                <label class="form-check-label" for="isSponsor">
+                  Si
+                </label>
+              </div>
+            </div> -->
+            <div class="form-group">
+              <label for="name" class="form-label">Oggetto <small>*</small></label>
+              <input type="text" class="form-control" name="subject" id="subject" placeholder=""
+                required>
+            </div>
+            <div class="form-group">
+              <label for="message" class="form-label">Il tuo messaggio <small>*</small></label>
+              <textarea class="form-control" placeholder="" id="message"
+                name="message" required></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Invia</button>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <div class="row g-4">
+      {{ with site.Params.mobile }}
+      <div class="col-lg-4">
+        <div class="card text-center">
+          <a href="tel:{{.}}"><i class="fas fa-user text-primary"></i>{{.}}</a>
+        </div>
+      </div>
+      {{ end }}
+      {{ with site.Params.email }}
+      <div class="col-lg-4">
+        <div class="card text-center">
+          <a href="mailto:{{.}}"><i class="fas fa-envelope text-primary"></i>{{.}}</a>
+        </div>
+      </div>
+      {{ end }}
+      {{ with site.Params.instagram }}
+      <div class="col-lg-4">
+        <div class="card text-center">
+          <li>
+            <i class="fas fa-map-marker-alt text-primary"></i>{{ .| markdownify}}
+          </li>
+        </div>
+      </div>
+      {{ end }}
+      {{ with site.Params.address }}
+      <div class="col-lg-4">
+        <div class="card text-center">
+          <li>
+            <i class="fas fa-map-marker-alt text-primary"></i>{{ .| markdownify}}
+          </li>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+
+  <div id="emailRecived" class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Email ricevuta</h5>
+          <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button> -->
+        </div>
+        <div class="modal-body">
+          <p id="result"></p>
+        </div>
+        <div class="modal-footer">
+          <button id="close" type="button" class="btn btn-primary" data-dismiss="modal">Chiudi</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--=================== contact section start ===================-->
+
+<!--=================== expanses script start ===================-->
+<script>
+
+  //let rpcUrl = "http://localhost:3000";
+  //const rpcUrl = "https://vandipety-api.herokuapp.com";
+  const rpcUrl = "https://vandipetyapi.onrender.com"
+
+  var sendMail = function () {
+    console.log('getting data');
+    
+    let data = {
+        "from": $("#email").val(),
+        "isSponsor": 0,
+        "subject":$("#subject").val(),
+        "text": $("#message").val()
+    }
+
+    // debugger;
+    
+    console.log(data);
+    $.ajax({
+      type: 'GET', // added,
+      url: rpcUrl + "/mail/sendMail",
+      contentType: "application/json; charset=utf-8",
+      data: data, //JSON.stringify(data),
+      success: function (data) {
+        console.log(data);
+        res = data.json;
+        manageResult('Abbiamo ricevuto la tua email.');
+        return data;
+      },
+      error: function (xhr, status, error) {
+        manageResult('Non siamo riusciti a ricevere la tua email :( riprova più tardi.');
+      }
+      });
+    }
+  
+    var manageResult = function(message){
+      
+      $("#email").val('');
+      $("#isSponsor").removeAttr('checked');
+      $("#subject").val('');
+      $("#message").val('');
+
+      $("#result").html(message);
+
+      var myModal = new bootstrap.Modal(document.getElementById('emailRecived'));
+      myModal.show();
+    }
+
+    $( document ).ready(function() {
+      $("#close").on('click', function(){
+        var myModal = bootstrap.Modal.getInstance(document.getElementById('emailRecived'));
+        myModal.hide();
+      });
+    });
+    </script>
+<!--=================== expanses script end ===================-->
+{{ end }}

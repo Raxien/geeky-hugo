@@ -1,0 +1,69 @@
+<!-- <div class="widget newsletter-widget">
+  <div class="widget-title">
+    <h3 class="h5 title-border">Newsletter</h3>
+  </div>
+  <p class="mb-3 small text-light-900">Join thousands of Tiny Salt subscribers and get our best recipes delivered each week! </p>
+  {{ with site.Params.subscription }}
+  <form class="row g-3 mb-3" action="{{ .mailchimp_form_action }}" method="post" name="mc-embedded-subscribe-form" target="_blank">
+    <div class="col-12">
+      <div class="input-group">
+        <input type="text" class="form-control" placeholder="Scrivi e premi invio" id="inputEmail4" required><i class="fas fa-envelope"></i>
+      </div>
+    </div>
+    <div class="col-12">
+      <button type="submit" name="subscribe" class="btn btn-primary w-100">Iscriviti</button>
+      <div style="position: absolute; left: -5000px;" aria-hidden="true">
+        <input type="text" name="{{ .mailchimp_form_name }}" tabindex="-1">
+      </div>
+    </div>
+  </form>
+  
+  {{ end }}
+  <p class="text-light-900 small content">Iscrivendoti accetti le <a href="{{`privacy-policy`| relLangURL}}" class="text-light-900"><strong>Privacy Policy</strong></a></p>
+</div> -->
+
+<div class="widget newsletter-widget">
+  <div class="widget-title">
+    <h3 class="h5 title-border">Newsletter</h3>
+  </div>
+  <!-- 9 metri quadrati -->
+<!-- Viviamo a bordo di un van con cane e gatto, in giro per l'Europa! -->
+  <p class="mb-3 small text-light-900">Salta a bordo del nostro van per ricevere una storia esclusiva ogni settimana!</p>
+  <!-- {{ with site.Params.subscription }} -->
+  <!-- <form class="row g-3 mb-3" action="{{ .mailchimp_form_action }}" method="post" name="mc-embedded-subscribe-form" target="_blank">
+    <div class="col-12">
+      <div class="input-group">
+        <input type="text" class="form-control" placeholder="Scrivi e premi invio" id="inputEmail4" required><i class="fas fa-envelope"></i>
+      </div>
+    </div>
+    <div class="col-12">
+      <button type="submit" name="subscribe" class="btn btn-primary w-100">Iscriviti</button>
+      <div style="position: absolute; left: -5000px;" aria-hidden="true">
+        <input type="text" name="{{ .mailchimp_form_name }}" tabindex="-1">
+      </div>
+    </div>
+  </form> -->
+  <form class="row g-3 mb-3" id="newsletterForm">
+    <div class="col-12">
+      <div class="input-group">
+        <input type="email" class="form-control" placeholder="Inserisci la tua email" id="newsletterEmail" required>
+        <i class="fas fa-envelope"></i>
+      </div>
+    </div>
+    <div class="col-12">
+      <button type="submit" class="btn btn-primary w-100">Iscriviti</button>
+    </div>
+  </form>
+  <!-- {{ end }} -->
+  <p class="text-light-900 small content" style="margin-bottom: 5px;">Iscrivendoti accetti le <a href="{{`privacy-policy`| relLangURL}}" class="text-light-900"><strong>Privacy Policy</strong></a></p>
+</div>
+
+<script>
+function handleSubscribe(event) {
+  event.preventDefault();
+  const email = document.getElementById('newsletterEmail').value;
+  const encodedEmail = encodeURIComponent(email);
+  window.open(`https://vandipety.substack.com/subscribe?just_signed_up=true&skip_redirect_check=true&utm_medium=web&utm_source=embed&freeSignupEmail=${encodedEmail}`, '_blank');
+}
+</script>
+

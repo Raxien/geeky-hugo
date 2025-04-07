@@ -9,7 +9,7 @@ country: Georgia
 draft: false
 ---
 
-E' tornato l'appuntamento più pazzo pazzerello on the road: **"Storie di straordinaria follia"**. Sempre in collaborazione con Simone di **{{< extLink "Radio Italiana 531" "https://www.radioitaliana531.com.au/" >}}** oggi vi portiamo alla scoperta della Georgia, **il paese che fonde antiche tradizioni con paesaggi mozzafiato e una ricca storia culturale.**
+E' tornato l'appuntamento più pazzo pazzerello on the road: **"Storie di straordinaria follia"**. Sempre in collaborazione con Simone di **{{<extLink "Radio Italiana 531" "https://www.radioitaliana531.com.au/">}}** oggi vi portiamo alla scoperta della Georgia, **il paese che fonde antiche tradizioni con paesaggi mozzafiato e una ricca storia culturale.**
 
 Mettetevi comodi che vi raccontiamo il nostro mese tra Khachapuri, vino, pane e **donne ultime al mondo a fare una danza!**
 

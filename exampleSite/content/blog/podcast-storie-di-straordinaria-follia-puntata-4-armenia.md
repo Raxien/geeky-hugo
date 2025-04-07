@@ -9,7 +9,7 @@ country: Armenia
 draft: false
 ---
 
-Nuovo appuntamento con **"Storie di straordinaria follia"** sempre in collaborazione con Simone di **{{< extLink "Radio Italiana 531" "https://www.radioitaliana531.com.au/" >}}**. Oggi vi portiamo alla scoperta dell'Armenia, il paese che incanta **con il suo patrimonio millenario, paesaggi montuosi e una cultura vibrante.**
+Nuovo appuntamento con **"Storie di straordinaria follia"** sempre in collaborazione con Simone di **{{<extLink "Radio Italiana 531" "https://www.radioitaliana531.com.au/">}}**. Oggi vi portiamo alla scoperta dell'Armenia, il paese che incanta **con il suo patrimonio millenario, paesaggi montuosi e una cultura vibrante.**
 
 Sotto **l'occhio vigile del monte Ararat** come sarà andata questa settimana in Armenia?
 

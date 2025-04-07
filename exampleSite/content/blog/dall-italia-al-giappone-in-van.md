@@ -34,12 +34,12 @@ Il nostro folle progetto doveva essere di nuovo rinchiuso fra i pensieri.
 Decidemmo però di partire lo stesso, solo in direzione opposta. Dovevamo andare a est, in Asia, e ci siamo ritrovati a sud-ovest, in Africa.
 Un po' fuori rotta, penserete voi, ma questa avventura non prevista ci è servita tantissimo: abbiamo imparato davvero a vivere nei 9mq del van, a capire i suoi limiti, i nostri e a come risolvere i tanti problemi che ci si ritrova a fronteggiare ogni giorno da soli in mezzo al mondo.
 
-{{< image src="images/mappamondo-da-torino-tokyo-pin.png" >}}
+{{< image src="images/mappamondo-da-torino-tokyo-pin.png">}}
 _Sembrava più vicino con una cartina in mano! Solo 8 fusi orari._
 
 ##### Buone notizie
 
-Finita la nostra avventura in Africa (che puoi rivivere [con la mappa interattiva qui](/trip/)), mentre stavamo tornando [in Italia per sposarci](/blog/matrimonio-alternativo-30-giorni-per-organizzarlo-in-un-van/), sistemare il van e riorganizzare le idee sulla strada da intraprendere, abbiamo ricevuto un messaggio dal nostro carissimo amico Franco di {{< extLink "@bicosisgud" "https://www.instagram.com/bicosisgud/" >}}: **"ragazzi la nave per il Giappone riparte!".**
+Finita la nostra avventura in Africa (che puoi rivivere [con la mappa interattiva qui](/trip/)), mentre stavamo tornando [in Italia per sposarci](/blog/matrimonio-alternativo-30-giorni-per-organizzarlo-in-un-van/), sistemare il van e riorganizzare le idee sulla strada da intraprendere, abbiamo ricevuto un messaggio dal nostro carissimo amico Franco di {{<extLink "@bicosisgud" "https://www.instagram.com/bicosisgud/">}}: **"ragazzi la nave per il Giappone riparte!".**
 
 Potete provare a immaginare il nostro stato d'animo. Avevamo mille e più cose da organizzare, ma la priorità era diventata scrivere una email al nostro contatto in Russia. Poche ore di fuso orario dopo abbiamo ricevuto la risposta più importante di tutte:
 
@@ -55,7 +55,7 @@ Ci siamo guardati negli occhi e ci siamo detti: **"andiamo in Giappone in van, q
 Seppur non ci fossero più grossi ostacoli davanti a noi, rimaneva un piccolo problema da aggirare: era settembre e a breve sarebbe arrivato l'inverno in Russia, il che non ci avrebbe di certo **permesso di attraversare le strade del paese fino all'estate.**
 
 Era il caso di rinviare ancora una volta il nostro progetto? Certo che no! 
-A quel punto, cartina alla mano, abbiamo solo deciso di affrontare il percorso di fronte a noi con molta calma e di dividere questo enorme viaggio in due tour: il primo attraverso i paesi Balcani per dire lentamente lentamente arrivederci all'Europa (che puoi vedere {{< extLink "qui" "" >}}), il secondo varcando la soglia di un nuovo continente **direzione Giappone**. 
+A quel punto, cartina alla mano, abbiamo solo deciso di affrontare il percorso di fronte a noi con molta calma e di dividere questo enorme viaggio in due tour: il primo attraverso i paesi Balcani per dire lentamente lentamente arrivederci all'Europa (che puoi vedere {{<extLink "qui" "">}}), il secondo varcando la soglia di un nuovo continente **direzione Giappone**. 
 
 Potevamo puntare dritto e accorciare le distanze? Certo che no! Eccovi quindi un ulteriore, bizzarro, itinerario in stile Vandipety.
 
@@ -108,14 +108,14 @@ Probabilmente piangeremo a dirotto dalla commozione il giorno in cui riusciremo 
 
 E una volta nel paese del Sol Levante cosa succederà? Restate con noi per scoprirlo, perché non sarà una fine ma solo un nuovo entusiasmante punto di partenza. 
 
-{{< youtube "IpjFo4TCBc0" >}}
+{{< youtube "IpjFo4TCBc0">}}
 
 ##### E' tempo di svelare qualche segreto
 
 Abbiamo detto che vi avremmo svelato qualche segreto e vogliamo essere di parola. 
 Il primo è che la nostra meta e il nostro amore per il Giappone sono sempre stati davanti ai vostri occhi!
 
-In quasi tutti i nostri video c'è sempre stato un rimando al Giappone: un ristorante di Ramen {{< extLink "nel vlog a Madrid" "https://youtu.be/MOG3cuPsI_E" >}}, un tori rosso visto da Sara {{< extLink "in Marocco" "https://youtu.be/bRRphPHpGZ0" >}} oppure un {{< extLink "Konichiwa di troppo" "https://youtu.be/asvtCfK9ko8" >}}. Questi sono solo alcuni piccoli esempi e vi sfidiamo a trovarli tutti!
+In quasi tutti i nostri video c'è sempre stato un rimando al Giappone: un ristorante di Ramen {{<extLink "nel vlog a Madrid" "https://youtu.be/MOG3cuPsI_E">}}, un tori rosso visto da Sara {{<extLink "in Marocco" "https://youtu.be/bRRphPHpGZ0">}} oppure un {{<extLink "Konichiwa di troppo" "https://youtu.be/asvtCfK9ko8">}}. Questi sono solo alcuni piccoli esempi e vi sfidiamo a trovarli tutti!
 
 Anche se il segreto più grande è sempre stato lui: **Sakè!**
 
@@ -136,11 +136,11 @@ Ultima notizia per festeggiare questo grande viaggio! Vogliamo accontentare tutt
 
 ###### Vlog
 
-Per tutto Aprile usciranno due vlog a settimana sul nostro canale ({{< extLink "iscriviti per non perderteli!" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}}) **ogni martedì e giovedì ore 18:00!**
+Per tutto Aprile usciranno due vlog a settimana sul nostro canale ({{<extLink "iscriviti per non perderteli!" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1">}}) **ogni martedì e giovedì ore 18:00!**
 
 ###### Mini vlog
 
-Insieme ai vlog usciranno dei "mini vlog da 60 secondi" sia su {{< extLink "YouTube come short" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}} che su {{< extLink "Instagram come reel " "https://www.instagram.com/vandipety/" >}}, per raccontare un po' più "brevemente" questa grande avventura!
+Insieme ai vlog usciranno dei "mini vlog da 60 secondi" sia su {{<extLink "YouTube come short" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1">}} che su {{<extLink "Instagram come reel " "https://www.instagram.com/vandipety/">}}, per raccontare un po' più "brevemente" questa grande avventura!
 
 ###### Blog
 

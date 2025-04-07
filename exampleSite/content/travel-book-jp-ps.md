@@ -33,12 +33,12 @@ Allora dovrai fare questi semplici passaggi:
 1. Scaricare la seguente applicazione:
 
 <div style="text-align: center">
-<a href="https://apps.apple.com/us/app/polarsteps-travel-tracker/id947925763" target="_blank">{{< image src="/images/ios-256x256-r.png" >}}</a><a href="https://play.google.com/store/apps/details?id=com.polarsteps" target="_blank">{{< image src="/images/android-256x256-r.png" >}}</a> 
+<a href="https://apps.apple.com/us/app/polarsteps-travel-tracker/id947925763" target="_blank">{{< image src="/images/ios-256x256-r.png">}}</a><a href="https://play.google.com/store/apps/details?id=com.polarsteps" target="_blank">{{< image src="/images/android-256x256-r.png">}}</a> 
 </div>
 
 2. Dopo aver installato l'applicazione procedi con la registrazione.
 
-3. Comunicaci via mail (<a href="mailto:info@vandipety.it" target="_self" rel="noopener" >info@vandipety.it</a>) o {{< extLink "tramite Instagram" "https://www.instagram.com/vandipety/" >}} il tuo nome utente sull'applicazione.
+3. Comunicaci via mail (<a href="mailto:info@vandipety.it" target="_self" rel="noopener" >info@vandipety.it</a>) o {{<extLink "tramite Instagram" "https://www.instagram.com/vandipety/">}} il tuo nome utente sull'applicazione.
    
 4. Accedere al nostro Travel Book cliccando su questo link:
 
@@ -48,5 +48,5 @@ Il link alle istruzioni saranno sempre disponibili nella fattura che riceverete 
 Una volta ricevuto il nome utente e la richiesta provvederemo ad accettarla così potrai avere accesso completo alle nostre avventure!
 
 <div style="text-align: center">
-<a id="btnAction" href="" target="_blank">{{< image src="/images/btn-travel-book.png" >}}</a> 
+<a id="btnAction" href="" target="_blank">{{< image src="/images/btn-travel-book.png">}}</a> 
 </div>

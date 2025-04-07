@@ -9,7 +9,7 @@ type: regular
 draft: false
 ---
 
-Dopo un anno di partite a **Carcassonne**, {{< extLink "il famoso gioco di società" "https://amzn.to/3JWWC5E" >}}, a bordo del nostro camper, siamo arrivati per davvero in città, dove abbiamo comprato {{< extLink "un’espansione" "https://amzn.to/3Dh1hvu" >}} per mettere un po’ di pepe alle nostre avventure a bordo!
+Dopo un anno di partite a **Carcassonne**, {{<extLink "il famoso gioco di società" "https://amzn.to/3JWWC5E">}}, a bordo del nostro camper, siamo arrivati per davvero in città, dove abbiamo comprato {{<extLink "un’espansione" "https://amzn.to/3Dh1hvu">}} per mettere un po’ di pepe alle nostre avventure a bordo!
 
 **Carcassonne** si trova collocata nel sud della Francia, il che rende la città un’ottima tappa sul percorso per raggiungere ad esempio [la Spagna del Nord](/blog/guida-spagna-del-nord-in-camper-itinerari) o rientrando in Italia.
 
@@ -21,9 +21,9 @@ Se come noi arrivi in camper non temere, [al fondo ti lasciamo un paio di siti s
 
 **Carcassonne** è una tipica città medievale con una doppia cinta muraria, 4 porte e 52 torri che si intravedono da lontano e fanno volare la mente indietro nel tempo. Lungo tutto il percorso che conduce in città lo sguardo si perde fra terreni vinicoli, lasciando intendere la sua posizione strategica. 
 
-Una volta entrati in città sembra di fare un tuffo nel passato in quell'era animata da gesta eroiche di cavalieri e dame e principesse da salvare. Oppure, se come me siete amanti dei film, vi riporterà ai ricordi di uno degli ultimi capolavori di Ridley Scott: **{{< extLink "The Last Duel" "https://www.youtube.com/watch?v=41WdQ8iY7D4" >}}**.
+Una volta entrati in città sembra di fare un tuffo nel passato in quell'era animata da gesta eroiche di cavalieri e dame e principesse da salvare. Oppure, se come me siete amanti dei film, vi riporterà ai ricordi di uno degli ultimi capolavori di Ridley Scott: **{{<extLink "The Last Duel" "https://www.youtube.com/watch?v=41WdQ8iY7D4">}}**.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689177691/Articoli/carcassonne/R0001115_gkxr0v.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689177691/Articoli/carcassonne/R0001115_gkxr0v.jpg">}}
 
 ##### Carcassonne: una città tutta da scoprire
 
@@ -35,12 +35,12 @@ La città medievale di Carcassonne è un esempio unico in Europa, sia per le dim
 Purtroppo sia nelle viuzze che nelle piazzette si trovano tantissime insegne, sedie e tavolini che lasciano lo spazio solo all’immaginazione per rivivere l’atmosfera medievale autentica. 
 
 Nella città medievale si possono visitare:
-- lo **Château Comtal**, il castello, che ospita il museo lapidario e numerose installazioni oltre a permettere di camminare lungo i bastioni e ammirare i panorami sottostanti (orario visite 10-17, prezzo 9,50 euro {{< extLink "prenotabile qui" "https://www.remparts-carcassonne.fr/" >}})
+- lo **Château Comtal**, il castello, che ospita il museo lapidario e numerose installazioni oltre a permettere di camminare lungo i bastioni e ammirare i panorami sottostanti (orario visite 10-17, prezzo 9,50 euro {{<extLink "prenotabile qui" "https://www.remparts-carcassonne.fr/">}})
 - la **Basilica di Saint Nazaire**, una chiesa di origine romanica ma arricchita da dettagli gotici nei rosoni e nelle cappelle (ingresso gratuito)
-- il **{{< extLink "Museo della Scuola" "https://www.carcassonne.org/article-page/musee-de-lecole" >}}**
-- il **{{< extLink "Museo dell’Inquisizione" "https://musee-inquisition-carcassonne.com/" >}}**
+- il **{{<extLink "Museo della Scuola" "https://www.carcassonne.org/article-page/musee-de-lecole">}}**
+- il **{{<extLink "Museo dell’Inquisizione" "https://musee-inquisition-carcassonne.com/">}}**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689176386/Articoli/carcassonne/IMG_4621_i0mm6o.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689176386/Articoli/carcassonne/IMG_4621_i0mm6o.jpg">}}
 
 ###### La città bassa: Bastide Saint-Louis
 
@@ -66,14 +66,14 @@ A fine agosto-inizio settembre si tiene la **Feria di Carcassonne**, dedicata a 
 
 Intorno al 10 di settembre viene invasa lungo tutte le stradine da giocatori dell’**omonimo gioco di società**, uno dei nostri preferiti.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689177656/Articoli/carcassonne/R0001122_jjsiqq.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689177656/Articoli/carcassonne/R0001122_jjsiqq.jpg">}}
 
-{{< extLink "Il gioco da tavola Carcassonne" "https://amzn.to/3JWWC5E" >}} consiste nell’assemblare varie tessere per ricreare città e strade medievali, attorno a chiese e al corso del fiume. Nel tempo sono state realizzate più espansioni, con cattedrali, fiumi, locande, commercianti e costruttori, torri, abbazie, borgomastri, catapulte, bazar, ponti, pecore e colline, draghi e principesse, conti, re ed eretici.
+{{<extLink "Il gioco da tavola Carcassonne" "https://amzn.to/3JWWC5E">}} consiste nell’assemblare varie tessere per ricreare città e strade medievali, attorno a chiese e al corso del fiume. Nel tempo sono state realizzate più espansioni, con cattedrali, fiumi, locande, commercianti e costruttori, torri, abbazie, borgomastri, catapulte, bazar, ponti, pecore e colline, draghi e principesse, conti, re ed eretici.
 
-Durante la nostra visita di Carcassonne in uno dei centri del turismo cittadino abbiamo comprato {{< extLink "l’estensione n.2" "https://amzn.to/3Dh1hvu" >}} (anche se non abbiamo la numero 1 😂), poi siamo corsi in camper per intavolare subito una partita (si gioca da 2 a 5 persone).
+Durante la nostra visita di Carcassonne in uno dei centri del turismo cittadino abbiamo comprato {{<extLink "l’estensione n.2" "https://amzn.to/3Dh1hvu">}} (anche se non abbiamo la numero 1 😂), poi siamo corsi in camper per intavolare subito una partita (si gioca da 2 a 5 persone).
 Più volte ci è capitato di invitare qualche viaggiatore a giocare a bordo con noi! Tu ci hai mai giocato? 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689176389/Articoli/carcassonne/IMG_3593_g16t2b.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689176389/Articoli/carcassonne/IMG_3593_g16t2b.jpg">}}
 
 ##### Dove parcheggiare con il camper? 
 In città puoi trovare un campeggio e un'area sosta attrezzata a pagamento. 
@@ -81,7 +81,7 @@ Noi abbiamo preferito sostare in libera **nella vicina cittadina di Cazilhac** p
 
 Trovi tutte le coordinate in questa mappa:
 
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1s1t-tDz9bR3Xayns7Pisi4mHPQ_6Asg&ehbc=2E312F" >}} 
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1s1t-tDz9bR3Xayns7Pisi4mHPQ_6Asg&ehbc=2E312F">}} 
 
-{{< blogFooter "FR_A" "1" "0" >}}
+{{< blogFooter "FR_A" "1" "0">}}
 

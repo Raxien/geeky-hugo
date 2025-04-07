@@ -35,9 +35,9 @@ Siete pronti a scoprire con noi 4 pizze in Marocco davvero deliziose? Noi abbiam
 
 Che dire, siamo ritornati due sere dopo tanto ci è piaciuta! E ci torneremmo ancora, ancora e ancora!
 
-**{{< extLink "📍 Local 1, Résidence ÉLÉGANCE, Av. 9 Avril, Tétouan 93000" "https://goo.gl/maps/ejk1FXbiDc15oodq6" >}}**
+**{{<extLink "📍 Local 1, Résidence ÉLÉGANCE, Av. 9 Avril, Tétouan 93000" "https://goo.gl/maps/ejk1FXbiDc15oodq6">}}**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1685394819/IMG_2528_ybbk2y.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1685394819/IMG_2528_ybbk2y.jpg">}}
 
 #### 🍕 Positano, Fez: 
 
@@ -51,9 +51,9 @@ Che dire, siamo ritornati due sere dopo tanto ci è piaciuta! E ci torneremmo an
 
 **LA PIZZA**: Ottima qualità degli ingredienti. Pizza sottile e ben cotta, cornicione squisito. Siamo rimasti davvero soddisfatti. Se proprio dobbiamo trovare una critica: la foglia di basilico intera e non spezzettata grossolanamente.
 
-**{{< extLink "📍 Champs de course, 47, Fes 30000" "https://goo.gl/maps/te1SZ14g3KYZVUb26" >}}**
+**{{<extLink "📍 Champs de course, 47, Fes 30000" "https://goo.gl/maps/te1SZ14g3KYZVUb26">}}**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1685384689/IMG_2082_hiurs5.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1685384689/IMG_2082_hiurs5.jpg">}}
 
 #### 🍕 Snack pizzeria slimane, Ouaouizeght: 
 
@@ -67,9 +67,9 @@ Che dire, siamo ritornati due sere dopo tanto ci è piaciuta! E ci torneremmo an
 
 **LA PIZZA**: l'impasto ha della semola all'interno, che si sposa perfettamente con i sapori degli altri ingredienti. La lievitazione è buona e la pizza rimane un po' più spessa ma non gommosa. Viene servita con salse aggiuntive piccanti e agrodolci. 
 
-**{{< extLink "📍 واويزغت Ouaouizeght" "https://goo.gl/maps/Pjkebsekgu5mt3No8" >}}**
+**{{<extLink "📍 واويزغت Ouaouizeght" "https://goo.gl/maps/Pjkebsekgu5mt3No8">}}**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1685384776/IMG_1470_mogkpx.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1685384776/IMG_1470_mogkpx.jpg">}}
 
 #### 🍕 Portorico, Dakhla:
 
@@ -83,9 +83,9 @@ Che dire, siamo ritornati due sere dopo tanto ci è piaciuta! E ci torneremmo an
 
 **LA PIZZA**: l'impasto è ben lievitato e ben cotto, la pizza rimane sottile, peccato per il cornicione che perde di morbidezza. Buono il condimento. Tutto sommato una buona pizza!
 
-**{{< extLink "📍 100 Boulevard Mohamed V, Dakhla 73000" "https://goo.gl/maps/2jK4ZR6iVFHsL5m47" >}}**
+**{{<extLink "📍 100 Boulevard Mohamed V, Dakhla 73000" "https://goo.gl/maps/2jK4ZR6iVFHsL5m47">}}**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1685384824/IMG_9116_ckfmj2.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1685384824/IMG_9116_ckfmj2.jpg">}}
 
 Ora diteci di voi! 
 Siete del team pizza all'estero sì o preferite mangiare solo cibi locali? 

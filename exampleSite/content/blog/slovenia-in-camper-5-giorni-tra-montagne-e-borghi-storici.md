@@ -21,15 +21,15 @@ Abbiamo fin da subito deciso di non acquistare la vignetta, **obbligatoria se de
 
 In questo tour abbiamo deciso di non puntare alle mete turistiche sul mare che offre la Slovenia, ma di attraversare il paese godendo delle montagne, visitando la capitale e altri borghi ricchi di storia. Ecco di seguito le nostre tappe:
 
-**{{< underline "Giorno 1" >}}**: Kranji
+**{{< underline "Giorno 1">}}**: Kranji
 
-**{{< underline "Giorno 2" >}}**: Lubiana
+**{{< underline "Giorno 2">}}**: Lubiana
 
-**{{< underline "Giorno 3" >}}**: Celje
+**{{< underline "Giorno 3">}}**: Celje
 
-**{{< underline "Giorno 4" >}}**: Maribor
+**{{< underline "Giorno 4">}}**: Maribor
 
-**{{< underline "Giorno 5" >}}**: Ptuj
+**{{< underline "Giorno 5">}}**: Ptuj
 
 A questo punto potete proseguire il vostro viaggio nei Balcani come noi, verso l'interno della Croazia, oppure ripiegare sulla costa per ritornare in Italia. A voi la scelta!
 
@@ -51,7 +51,7 @@ Come accennavamo all'inizio di questo articolo, abbiamo scelto di percorrere sol
 
 Noi abbiamo trascorso una notte tranquilla in libera vicino al centro sportivo. Il centro è raggiungibile a piedi in 20 minuti e da questo parcheggio partono bellissime passeggiate, ottimo se si viaggia con animali. Poossibilità di accedere a un Wi-Fi.
 
-{{< youtube "QUvrEk-H5Dc" >}}
+{{< youtube "QUvrEk-H5Dc">}}
 
 ##### Lubiana
 
@@ -59,7 +59,7 @@ Della pittoresca capitale a ridosso del fiume Ljubljanica ve ne parliamo in un a
 
 ###### Dove dormire a Lubiana
 
-Per visitare la città abbiamo parcheggiato in centro (per la modica cifra di 0.50 cent l'ora) mentre per dormire abbiamo pernottato in libera poco fuori dalla città vicino ad una scuola. Notte tranquilla, Wi-Fi disponibile alla stazione dei bus. L'unico problema di questo parcheggio è che si rischia di rimanere bloccati {{< extLink "perché parcheggiano ovunque!" "https://youtu.be/u5h_S4c1aRw" >}}.
+Per visitare la città abbiamo parcheggiato in centro (per la modica cifra di 0.50 cent l'ora) mentre per dormire abbiamo pernottato in libera poco fuori dalla città vicino ad una scuola. Notte tranquilla, Wi-Fi disponibile alla stazione dei bus. L'unico problema di questo parcheggio è che si rischia di rimanere bloccati {{<extLink "perché parcheggiano ovunque!" "https://youtu.be/u5h_S4c1aRw">}}.
 
 ##### Celje
 
@@ -219,4 +219,4 @@ Ci siamo sempre sentiti al sicuro, accolti con piacere dai saluti (**"Dober dan"
 
 Siete mai stati in Slovenia? Ci consigliate altre mete imperdibili per il futuro? 
 
-{{< youtube "Gq-5OJyZyfM" >}}
+{{< youtube "Gq-5OJyZyfM">}}

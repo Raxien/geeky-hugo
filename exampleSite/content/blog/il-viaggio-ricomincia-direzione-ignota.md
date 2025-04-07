@@ -19,7 +19,7 @@ In realtà **in un giorno**, fermi in un parcheggio in Francia, abbiamo riunito 
 
 Il resto è stato lacrime di gioia e commozione, in una cornice di sorrisi.
 
-Abbiamo condiviso qualche foto sul nostro profilo {{< extLink "Instagram" "https://www.instagram.com/vandipety/" >}}, ma presto uscirà un video pieno di emozioni sul {{< extLink "canale YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}} per condividere e raccontarvi questo momento che porteremo nel cuore e che **ci ha resi davvero felici!**
+Abbiamo condiviso qualche foto sul nostro profilo {{<extLink "Instagram" "https://www.instagram.com/vandipety/">}}, ma presto uscirà un video pieno di emozioni sul {{<extLink "canale YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1">}} per condividere e raccontarvi questo momento che porteremo nel cuore e che **ci ha resi davvero felici!**
 
 <script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript">
 </script>  
@@ -58,7 +58,7 @@ Abbiamo condiviso qualche foto sul nostro profilo {{< extLink "Instagram" "https
 myWidget.render();
 </script>
 
-<!-- {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1694595899/Articoli/Blog/matrimonio.jpg" >}}
+<!-- {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1694595899/Articoli/Blog/matrimonio.jpg">}}
 _E' venuta scura ma c'è anche la piccola Olimpia!_ -->
 
 ##### Un van messo a nuovo
@@ -70,7 +70,7 @@ La zanzariera si era rotta, qualche plastica si era scollata, avevamo bisogno di
 
 Anche di questo vi racconteremo tutto, con una serie di video che speriamo vi incuriosiscano a ripartire a viaggiare insieme a noi con testa e cuore. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1694595873/Articoli/Blog/lavori_al_van.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1694595873/Articoli/Blog/lavori_al_van.jpg">}}
 _Abbiamo smontato mezzo van ma siamo riusciti a rimontarlo meglio di prima!_
 
 ##### Si riparte, ma per dove?

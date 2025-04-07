@@ -16,9 +16,9 @@ Quando abbiamo acquistato [il nostro Roadcar 540](/van) immaginavamo di utilizza
 Ogni giorno o quasi finora ci siamo ritrovati a dover caricare non solo il frigorifero a compressore, che seppur di ridotte dimensioni ha un assorbimento importante, ma anche due computer, due smartphone e una macchina fotografica e se mancava il sole per un giorno intero potevamo esser certi di andare a dormire con una minacciosa spia arancione, oltre a sperare di non svegliarci con le batterie del tutto scariche. Più di una volta ci è successo di svegliarci alle 6 del mattino e accendere subito il motore per evitare di buttar via le batterie a gel in quanto se la tensione va sotto gli 11.6V si rischia di rovinarle irrimediabilmente! 
 
 Per chi non ci conoscesse e si stesse chiedendo perché non ci siamo appoggiati alle colonnine dei campeggi in queste situazioni risponderemo semplicemente per scelta personale ed economica. 
-Detto ciò, quando ci si è presentata l’occasione di poter collaborare con un’azienda tedesca, {{< extLink "la Creabest" "http://creabest.it" >}}, produttrice di batterie per camper al litio, non ci siamo tirati indietro. 
+Detto ciò, quando ci si è presentata l’occasione di poter collaborare con un’azienda tedesca, {{<extLink "la Creabest" "http://creabest.it">}}, produttrice di batterie per camper al litio, non ci siamo tirati indietro. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/batteria-al-litio-con-van_iqstfb.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/batteria-al-litio-con-van_iqstfb.jpg">}}
 
 ##### La batteria installata
 
@@ -26,14 +26,14 @@ La batteria che ci offrivano, una **LiFePO4 12V da 200Ah**, avrebbe sostituito d
 
 Non vi scriveremo un articolo tecnico sui componenti delle batterie né vi faremo una lezione di fisica perché non siamo minimamente le persone adatte. Vogliamo però raccontarvi quali sono i punti che ci hanno convinti una volta per tutte ad installare una batteria al litio:
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/installazione-batterial-al-litio_abknzw.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/installazione-batterial-al-litio_abknzw.jpg">}}
 
 1. **Capacità reale**: la batteria è utilizzabile fino all'ultimo ampere rispetto al 50/60% della batteria a Gel! Non esiste effetto memoria quindi la batteria può esser usata in qualsiasi momento senza alterarne la capacità.
 2. **Tempo di vita più lungo**: **Creabest** garantisce 3000 cicli profondi.
 3. **Leggerissima**: pesa la metà rispetto alle nostre precedenti batterie al piombo a parità di stessa capacità.
 4. **Applicazione sul cellulare**: permette **in tempo reale** di monitorare lo stato della batteria con affidabilità. Basta connettere il proprio smartphone via bluetooth alla batteria tramite l'applicazione dedicata per sapere con precisione la percentuale della batteria rimanente, il che ci farà vivere molto meglio.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/app-controllo-batteria_no03jt.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/app-controllo-batteria_no03jt.jpg">}}
 
 5. **Sicurezza tramite controllo BMS**: il sistema di gestione della batteria (**battery managment system** o BMS) monitora e si adatta alle condizioni della batteria per massimizzare le prestazioni e garantire massima sicurezza. Quando la tensione e la corrente sono anormali il BMS spegne la batteria evitando problemi.
 
@@ -50,8 +50,8 @@ Una cosa che non abbiamo voluto cambiare è il cosidetto booster o convertitore 
 
 Per concludere quindi, è vero che il nostro utilizzo è al momento agli inizi ma siamo davvero felici di aver deciso di cambiare batteria e ringraziamo la Creabest per quest’opportunità e per la fiducia riposta in noi. 
 
-Potete acquistare anche voi **la batteria al litio della Creabest** andando {{< extLink "qui" "https://creabest.it/" >}} e potete ottenere un 4% di sconto inserendo il codice promozionale **"vandipety"**!
+Potete acquistare anche voi **la batteria al litio della Creabest** andando {{<extLink "qui" "https://creabest.it/">}} e potete ottenere un 4% di sconto inserendo il codice promozionale **"vandipety"**!
 
 Ora non ci resta che continuare a vivere insieme a voi nuove avventure! 
 
-{{< youtube Xw4n0CYZqeQ >}}
+{{< youtube Xw4n0CYZqeQ>}}

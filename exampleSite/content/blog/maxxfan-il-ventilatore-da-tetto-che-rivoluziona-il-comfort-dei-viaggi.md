@@ -12,7 +12,7 @@ Quando si tratta di viaggiare in camper o van, **il comfort è fondamentale per 
 
 ##### Introduzione al MaxxFan
 
-Il MaxxFan è un ventilatore da tetto progettato appositamente per camper e van, sviluppato da {{< extLink "Maxxair" "https://www.maxxair.com/@vandipety" >}}, un leader nel settore della ventilazione e del comfort per veicoli ricreativi. Questo dispositivo non è solo un semplice ventilatore, ma un sistema completo che mira a migliorare la qualità dell'aria e il comfort all'interno del veicolo, indipendentemente dalle condizioni esterne:
+Il MaxxFan è un ventilatore da tetto progettato appositamente per camper e van, sviluppato da {{<extLink "Maxxair" "https://www.maxxair.com/@vandipety">}}, un leader nel settore della ventilazione e del comfort per veicoli ricreativi. Questo dispositivo non è solo un semplice ventilatore, ma un sistema completo che mira a migliorare la qualità dell'aria e il comfort all'interno del veicolo, indipendentemente dalle condizioni esterne:
 
 - Ventilazione potente: il MaxxFan è dotato di un ventilatore potente che può muovere grandi volumi d'aria, **garantendo un flusso costante e efficace per mantenere fresco l'ambiente interno**.
 
@@ -34,6 +34,6 @@ Il MaxxFan non si limita a migliorare la circolazione dell'aria all'interno del 
 
 - Comfort tutto l'anno: con la possibilità di invertire il flusso d'aria, il MaxxFan può essere utilizzato sia per far entrare aria fresca durante il giorno che per estrarre aria calda di notte o in condizioni climatiche avverse.
 
-{{< youtube jBDKFopmiZU >}}
+{{< youtube jBDKFopmiZU>}}
 
 ##### Dopoo un mese di utilizzo

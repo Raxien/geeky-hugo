@@ -32,7 +32,7 @@ Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese. 
 
 ##### Il paese
 Il Senegal a differenza di molti altri paesi africani, citati per panorami mozzafiato o per itinerari unici in mezzo alla savana, offre agglomerati di capanne con tetto in paglia e abiti colorati svolazzanti qua e là, che trasportano in un tempo dimenticato. Alcune zone possono sembrare abbandonate a se stesse, ma la gentilezza delle persone non mancherà di stupirvi.
-Per questo motivo è forse un paese più da "{{< bold vivere >}}", a parer nostro, che da "{{< bold visitare >}}".
+Per questo motivo è forse un paese più da "{{< bold vivere>}}", a parer nostro, che da "{{< bold visitare>}}".
 Per quanto riguarda le città, la capitale è Dakar e la seconda più visitata è Saint Louis.
 
 ##### Documenti e visto
@@ -49,13 +49,13 @@ La stagione delle piogge va da giugno a ottobre. In questo periodo possono esser
 Noi siamo rimasti in paese dal 22 febbraio al 18 marzo. La temperatura ha raggiunto picchi di 43 gradi sulla costa della Casamance e 45 gradi nella zona di Tambacounda.
 
 ##### Come pagare
-La moneta corrente è il "{{< bold "Franco senegalese" >}}" (CFA o F). Un buon cambio è "{{< bold "650 CFA per 1 Euro" >}}" ed è facilmente ottenibile ovunque.
+La moneta corrente è il "{{< bold "Franco senegalese">}}" (CFA o F). Un buon cambio è "{{< bold "650 CFA per 1 Euro">}}" ed è facilmente ottenibile ovunque.
 Le carte di credito non sono accettate in tutto il Paese ma è possibile prelevare dai bancomat, tuttavia anche questi non sono molto diffusi. Per questo motivo consigliamo di arrivare con i contanti e cambiarli in loco.
 Se hai intenzione di usare le carte per prelevare contanti in Senegal ricordati di verificare, prima di partire, l’abilitazione della carta ai prelievi internazionali e soprattutto informati sui costi di commissione applicati dalla vostra banca.
 
-{{< card >}}
+{{< card>}}
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854092/Articoli/Senegal/Senegal_Donne_colori_tcayom.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854092/Articoli/Senegal/Senegal_Donne_colori_tcayom.jpg">}}
 
 ##### Internet
 Gli operatori sul suolo sono principalmente tre:
@@ -63,7 +63,7 @@ Gli operatori sul suolo sono principalmente tre:
 - Espresso   
 - Free
 
-**{{< underline "Orange" >}}** è l'operatore più caro ma anche quello che prende meglio. Offre un'ottima copertura 4g praticamente in tutto il territorio. 
+**{{< underline "Orange">}}** è l'operatore più caro ma anche quello che prende meglio. Offre un'ottima copertura 4g praticamente in tutto il territorio. 
 Nel momento in cui scriviamo le promozioni più interessanti sono: 
 - Pass settimanale:
     1.5 GB per 1500 F (circa 2.30 euro)
@@ -75,9 +75,9 @@ Nel momento in cui scriviamo le promozioni più interessanti sono:
 
 Se si acquista il pass mensile ogni giorno si ha 1 extra GB da mezzanotte alle 8 di mattina.
 Facile da ricaricare praticamente ovunque, offre possibilità di usare l'hotspot! 
-Se vuoi vedere offerte più aggiornate vai {{< extLink "qui" "https://orange.sn/" "Orange l'operatore migliore del Senegal" >}}.
+Se vuoi vedere offerte più aggiornate vai {{<extLink "qui" "https://orange.sn/" "Orange l'operatore migliore del Senegal">}}.
 
-**{{< underline "Expresso" >}}** la connessione è più limitata (ma siamo comunque riusciti a scaricare dei file abbastanza pesanti senza problemi) e funziona maggiormente nella parte nord del Senegal, mentre nel sud solo a Ziguinchor e Cap Skirring. Offre però delle promozioni molto vantaggiose.
+**{{< underline "Expresso">}}** la connessione è più limitata (ma siamo comunque riusciti a scaricare dei file abbastanza pesanti senza problemi) e funziona maggiormente nella parte nord del Senegal, mentre nel sud solo a Ziguinchor e Cap Skirring. Offre però delle promozioni molto vantaggiose.
 - Pass settimanale: 
     - 1 GB per 500 F
     - 2 GB per 700 F
@@ -89,12 +89,12 @@ Se vuoi vedere offerte più aggiornate vai {{< extLink "qui" "https://orange.sn/
     - 70 GB per 10000 F
     - Illimitato per 15000F
 
-Attenzione perché questo operatore non permette l'hotspot! Puoi ovviare al problema comprando un router portatile ({{< extLink "qui" "http://amzn.to/3Zopkl5" "qui trovi quello che usiamo noi da 1 anno!" >}}) e usandolo come modem per tutti.
+Attenzione perché questo operatore non permette l'hotspot! Puoi ovviare al problema comprando un router portatile ({{<extLink "qui" "http://amzn.to/3Zopkl5" "qui trovi quello che usiamo noi da 1 anno!">}}) e usandolo come modem per tutti.
 
-Per ulteriori promozioni vai {{< extLink "qui" "https://www.expressotelecom.sn/" "Expresso, what's else?" >}}.
+Per ulteriori promozioni vai {{<extLink "qui" "https://www.expressotelecom.sn/" "Expresso, what's else?">}}.
 
-**{{< underline "Free" >}}**, che da noi si chiama Iliad! Non sappiamo la copertura di questo operatore in quanto non l'abbiamo provato (se hai informazioni puoi farcelo sapere nei commenti).
-Se vuoi vedere le promozioni le trovi {{< extLink "qui" "https://www.free.sn/" "Free, is a magic number!" >}}.
+**{{< underline "Free">}}**, che da noi si chiama Iliad! Non sappiamo la copertura di questo operatore in quanto non l'abbiamo provato (se hai informazioni puoi farcelo sapere nei commenti).
+Se vuoi vedere le promozioni le trovi {{<extLink "qui" "https://www.free.sn/" "Free, is a magic number!">}}.
 
 Non sappiamo i costi di acquisto della singola sim in quanto all'ingresso della Mauritania alcuni italiani che stavano rientrando dal Senegal ci hanno regalato le loro sim Orange e Espresso. In questa maniera siamo riusciti a provarli entrambi. 
 In Senegal, essendo paese francofono, troverete la dicitura Go (giga octane) anziché GB.
@@ -108,17 +108,17 @@ Non è richiesta alcuna vaccinazione obbligatoria per i viaggi in Senegal, trann
 Per informazioni su ulteriori vaccinazioni raccomandate ma non obbligatorie, ti consigliamo di consultare il tuo medico.
 Meglio portare con sé medicinali contro la dissenteria e un antibiotico ad ampio spettro, ma soprattutto un buon repellente per le zanzare.
 
-{{< assicurazione >}}
+{{< assicurazione>}}
 
-Per maggiori informazioni ti rimandiamo al sito di {{< extLink "viaggiare sicuri" "https://www.viaggiaresicuri.it/find-country/country/SEN" "Stay safe!!" >}}.
+Per maggiori informazioni ti rimandiamo al sito di {{<extLink "viaggiare sicuri" "https://www.viaggiaresicuri.it/find-country/country/SEN" "Stay safe!!">}}.
 
 ##### Sicurezza nel paese
 In tutto il paese l'ospitalità pare essere sacra, ma non dimenticarti che i ladruncoli possono essere dappertutto.
 Al di là dei problemi di corruzione che dilagano in tutto il paese, sovente ti verrà richiesto in prestito il cellulare per scattare una fotografia. Non fare l'errore di darlo.
 A noi è successo un altro piccolo inconveniente: eravamo parcheggiati vicino a una spiaggia e mentre eravamo a pranzo qualcuno ha scassinato il vetro del camper e ha rubato il cellulare di Paolo che l'aveva dimenticato all'interno del veicolo. 
-Nella zona periferica della capitale Dakar si possono verificare maggiori episodi di microcriminalità, soprattutto furti o borseggi. Per evitare episodi spiacevoli (a noi {{< extLink "è successo" "https://youtu.be/Xb0CQXsTV1w">}}) evita di indossare gioielli e porta con te lo stretto necessario.
+Nella zona periferica della capitale Dakar si possono verificare maggiori episodi di microcriminalità, soprattutto furti o borseggi. Per evitare episodi spiacevoli (a noi {{<extLink "è successo" "https://youtu.be/Xb0CQXsTV1w">}}) evita di indossare gioielli e porta con te lo stretto necessario.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854092/Articoli/Senegal/Senegal_Bandiera_runzga.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854092/Articoli/Senegal/Senegal_Bandiera_runzga.jpg">}}
 
 ##### Mezzi di trasporto pubblici 
 I mezzi di trasporto in Senegal sono molto economici, ma è complicato poter fare affidamento sugli orari e sull’affidabilità dei veicoli.
@@ -131,7 +131,7 @@ La linea ferroviaria è praticamente inesistente, mentre sono diffusi:
 - i tam-tam: carretti trainati da cavalli o asini, diffusi per lo più nei piccoli villaggi. Offrono un passaggio a chiunque.
 - taxi: automobili decisamente datate, tipicamente gialle nel nord del paese e grigie a sud. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854060/Articoli/Senegal/Senegal_Cavalli_ft2m2t.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854060/Articoli/Senegal/Senegal_Cavalli_ft2m2t.jpg">}}
 
 ##### Dove e cosa mangiare 
 In tutto il paese si trovano tantissime botteghine che vendono un po' di tutto oltre a banchetti di mercati quotidiani situati lungo tutte le strade, dove acquistare frutta, verdura e noccioline.
@@ -139,11 +139,11 @@ In tutto il paese si trovano tantissime botteghine che vendono un po' di tutto o
 I piatti nazionali senegalesi sono due: il Thieboudienne e lo Yassa. 
 Il Thieboudienne è composto da riso (bianco o rosso) con pesce accompagnato da verdure (pochi pezzettini di carota, cavolo e manioca). Si può trovare a volte con la carne. Un prezzo molto onesto è 1500 F a porzione.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854084/Articoli/Senegal/Senegal_Tiebuden_4_yivo8o.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854084/Articoli/Senegal/Senegal_Tiebuden_4_yivo8o.jpg">}}
 
 Lo Yassa poulet e lo Yassa poisson sono invece rispettivamente piatti a base di pollo o pesce marinati e conditi con cipolla, pepe, sale, peperoncino e poi grigliati. Vengono accompagnati con riso. Ci è capitato di trovare il pesce anche sotto forma di polpette. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854083/Articoli/Senegal/Senegal_Tiebuden_Riso_qlzhvk.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854083/Articoli/Senegal/Senegal_Tiebuden_Riso_qlzhvk.jpg">}}
 
 Un altro piatto molto caratteristico è il maffè: uno spezzatino di manzo o pollo condito con pasta d’arachidi e accompagnato dal riso.
 
@@ -158,7 +158,7 @@ La verdura viene rincarata per gli occidentali (parola di locali quando abbiamo 
 
 Piccola curiosità: in Casamance ricordati di provare il tapalapa, un pane composto da un mix di farine, cotto in forni di fango. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854096/Articoli/Senegal/Senegal_Tapalapa_xmjvdl.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854096/Articoli/Senegal/Senegal_Tapalapa_xmjvdl.jpg">}}
 
 ##### Dove dormire
 Ascoltando l'esperienza di altri viaggiatori, nelle città principali si trovano ostelli e piccoli alberghi, che è meglio contattare telefonicamente dopo aver prenotato online. Lungo la costa si possono trovare anche resort più di lusso. 
@@ -182,70 +182,70 @@ Ecco un possibile itinerario di 7 giorni in Senegal con partenza e arrivo dall'a
 
 Questo itinerario ti darà la possibilità di scoprire le bellezze naturali e culturali del Senegal anche in soli sette giorni. Tieni presente che potresti aver bisogno di organizzare i trasferimenti tra le destinazioni, quindi ti consigliamo di prenotare in anticipo un'agenzia di viaggio o un autista privato per facilitare gli spostamenti. Per quanto riguarda i mezzi di trasporto pubblici non sempre gli orari sono attendibili e rispettati. 
 
-**{{< underline "Giorno 1" >}}**: Arrivo a Dakar
+**{{< underline "Giorno 1">}}**: Arrivo a Dakar
 Quando raggiungi la città di Dakar dedicati alla sua visita, in particolare il mercato di Sandaga, il Museo delle Arti Africane, la Cattedrale di Dakar e il monumento dell'Indipendenza.
 
-**{{< underline "Giorno 2" >}}**: Isola di Gorée
+**{{< underline "Giorno 2">}}**: Isola di Gorée
 Grazie al traghetto che parte ogni giorno dal porto della capitale puoi raggiungere e visitare l'isola di Gorée, patrimonio dell'UNESCO, che fu uno dei principali porti africani per il commercio degli schiavi. Qui puoi trovare anche la Maison des Esclaves, l'antica casa dei mercanti di schiavi e il museo di storia dell'isola, oltre a numerose botteghe artigiane e numerosi localini per mangiare. 
 
-**{{< underline "Giorno 3" >}}**: Lago Rosa e deserto di Lompoul
+**{{< underline "Giorno 3">}}**: Lago Rosa e deserto di Lompoul
 Partenza per il Lago Rosa, una laguna salata situata a nord di Dakar.
 Attenzione: quando noi abbiamo visitato il Lago Rosa, non era più rosa. I dintorni sono comunque interessanti da visitare e si possono fare alcune attività a bordo di mezzi 4x4. Anche il vicino deserto di Lompoul è visitabile e le guide in loco offrono varie escursioni. 
 
-**{{< underline "Giorno 4" >}}**: Safari a Bandia
+**{{< underline "Giorno 4">}}**: Safari a Bandia
 Visita del Parco Nazionale di Bandia per un safari in jeep. Qui avrai l'opportunità di avvistare leoni, giraffe, zebre, bufali, ippopotami e molte altre specie selvatiche.
 
-**{{< underline "Giorno 5-6" >}}**: La Somone
+**{{< underline "Giorno 5-6">}}**: La Somone
 Partenza per la Somone dove potrai rilassarti in uno dei resort e goderti le bellissime spiagge sabbiose.
 Dedica un po' di tempo per fare un escursione in piroga nel fiume Somone per ammirare l'ecosistema di mangrovie e le isole sabbiose.
 
-**{{< underline "Giorno 7" >}}**: Dakar
+**{{< underline "Giorno 7">}}**: Dakar
 Ultima giornata a Dakar per fare acquisti al mercato di Soumbedioune o per rilassarti in spiaggia a Plage de N'Gor. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854056/Articoli/Senegal/Senegal_Isola_Goree_h0gbfj.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854056/Articoli/Senegal/Senegal_Isola_Goree_h0gbfj.jpg">}}
 
 ###### 14 Giorni
 Questo itinerario di 14 giorni in Senegal ti permetterà di scoprire le principali attrazioni turistiche del paese, tra cui parchi naturali, isole, spiagge e città. Ti rimandiamo al capitolo [Casamance](#casamance) per valutare un'ulteriore alternativa in questo itinerario, noi ti consigliamo di preferirla a tutta la zona della Petit Cote.
 
-**{{< underline "Giorno 1-2" >}}**: Dakar e l'isola di Goree
+**{{< underline "Giorno 1-2">}}**: Dakar e l'isola di Goree
 Dedica la prima giornata alla visita della città di Dakar, inclusi il mercato di Sandaga, il Museo delle Arti Africane, la Cattedrale di Dakar e il monumento dell'Indipendenza. 
 Il secondo giorno visita l'isola di Gorée, patrimonio dell'UNESCO, che fu uno dei principali porti africani per il commercio degli schiavi. Visita la Maison des Esclaves, l'antica casa dei mercanti di schiavi e il museo di storia dell'isola.
 
-**{{< underline "Giorno 3" >}}**: Lago Rosa e deserto di Lompoul
+**{{< underline "Giorno 3">}}**: Lago Rosa e deserto di Lompoul
 Partenza per il Lago Rosa, una laguna salata situata a nord di Dakar.
 Attenzione: quando noi abbiamo visitato il Lago Rosa, non era più rosa. I dintorni sono comunque interessanti da visitare e si possono fare alcune attività a bordo di mezzi 4x4. Anche il vicino deserto di Lompoul è visitabile e le guide in loco offrono varie escursioni. 
 
-**{{< underline "Giorno 4-5-6" >}}**: Saint-Louis e il parco del Djoudj
+**{{< underline "Giorno 4-5-6">}}**: Saint-Louis e il parco del Djoudj
 Partenza per Saint-Louis, una città coloniale situata sulla costa nord del Senegal. Visita il quartiere di pescatori di Guet Ndar, la Grande Moschea, la Cattedrale di Saint-Louis e il Museo della fotografia.
 Il giorno successivo visita il parco del Djoudj, Patrimonio Mondiale dell’UNESCO dal 1971, che offre un habitat naturale e un buon ristoro durante la migrazione per oltre 400 specie diverse di uccelli, essendo una zona particolarmente ricca di vegetazione e corsi d’acqua. Ritorno a Saint Louis e spostamento l'indomani verso la Riserva di Bandia. 
 
-**{{< underline "Giorno 7" >}}**: Safari a Bandia
+**{{< underline "Giorno 7">}}**: Safari a Bandia
 Visita del Parco Nazionale di Bandia per un safari in jeep. Qui avrai l'opportunità di avvistare leoni, giraffe, zebre, bufali, ippopotami e molte altre specie selvatiche.
 
-**{{< underline "Giorno 8-9" >}}** La Somone e la Petit Cote
+**{{< underline "Giorno 8-9">}}** La Somone e la Petit Cote
 Partenza per la Somone dove potrai rilassarti in uno dei resort e goderti le bellissime spiagge sabbiose.
 Dedica un po' di tempo per fare un'escursione in piroga nel fiume Somone per ammirare l'ecosistema di mangrovie e le isole sabbiose.
 
-**{{< underline "Giorno 10" >}}** M'Bour
+**{{< underline "Giorno 10">}}** M'Bour
 Visita M'bour e il tipico mercato del pesce, dove potrai vedere numerose piroghe portate a riva. 
 
-**{{< underline "Giorno 11" >}}** Joal-Fadiouth e l'isola delle conchiglie 
+**{{< underline "Giorno 11">}}** Joal-Fadiouth e l'isola delle conchiglie 
 L'isola delle conchiglie è caratteristica proprio perché offre un tappeto di conchiglie calpestabile, oltre a ospitare un cimitero misto musulmano-cattolico.
 Non troppo distante, nel piccolo paesino di Fadial, sorge un Baobab gigantesco, meglio noto come Baobab Sacro. Presta attenzione ai pipistrelli se pensi di infilare la testa al suo interno!
 
-**{{< underline "Giorno 12" >}}** Palmarin 
+**{{< underline "Giorno 12">}}** Palmarin 
 Visita il tipico villaggio dei pescatori e rilassati sulla bellissima spiaggia dall'aspetto caraibico. Anche in questa zona puoi effettuare una bella escursione fra le mangrovie, a bordo di una colorata piroga.
 
-**{{< underline "Giorno 13" >}}** Petit Cote
+**{{< underline "Giorno 13">}}** Petit Cote
 Raggiungi la Petit Cote per spezzare il viaggio e godere ancora di una giornata in spiaggia.
 
-**{{< underline "Giorno 14" >}}** Dakar
+**{{< underline "Giorno 14">}}** Dakar
 Rientro a Dakar per un'ultima visita della città.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854081/Articoli/Senegal/Senegal_Isola_Goree_Donna_ihzss8.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854081/Articoli/Senegal/Senegal_Isola_Goree_Donna_ihzss8.jpg">}}
 
 ##### Casamance
-Abbiamo deciso di dedicare a questa zona del paese un paragrafo a parte, sia perché è il luogo che più ci è piaciuto (quanto? {{< extLink "scoprilo qui" "https://youtu.be/EAJRtniCcxc" >}}), sia perché i modi per raggiungerla sono molteplici e volevamo racchiudere in merito tutte le informazioni che abbiamo trovato.
+Abbiamo deciso di dedicare a questa zona del paese un paragrafo a parte, sia perché è il luogo che più ci è piaciuto (quanto? {{<extLink "scoprilo qui" "https://youtu.be/EAJRtniCcxc">}}), sia perché i modi per raggiungerla sono molteplici e volevamo racchiudere in merito tutte le informazioni che abbiamo trovato.
 La regione di Casamance, a sud del Gambia, vanta bellissime spiagge, meno rovinate dai cumuli di immondizia come quelle situate a nord del paese. 
 Noi abbiamo visitato i villaggi di Cap Skirring, Kabrousse (l'ultimo villaggio prima del confine con la Guinea-Bissau),Diembering (famoso per i tipici alberi Fromager), Elikine (da cui si può salire su di una piroga e raggiungere l'isola di Carabane) e Oussoye (famosa per i boschi sacri legati all'animismo, religione molto sentita in questa zona del paese). 
 In questa zona ci siamo sentiti davvero ben accolti, le persone sono cordiali e vige meno corruzione. 
@@ -258,17 +258,17 @@ Come raggiungere la Casamance:
 
 Se pensi che possa interessarti questa zona ti consigliamo di inserirla nell'itinerario di 14 giorni, dedicandole almeno 5 giorni dato anche il tempo necessario per raggiungerla. 
 Se vuoi capire perché abbiamo amato la Casamance puoi scoprirlo qui. 
-{{< animali >}}
+{{< animali>}}
 
 ##### Il nostro Vlog
 Se volete vedere i nostri vlog o vuoi sentire le nostre considerazioni ti lasciamo di seguito i video: 
 
 - vlog
 
-{{< youtube AHVvaftCd70 >}}
+{{< youtube AHVvaftCd70>}}
 
 - le nostre considerazioni
 
-{{< youtube avKZAgEAd0Q >}}
+{{< youtube avKZAgEAd0Q>}}
 
-{{< blogFooter "SN" "1" "0" >}}
+{{< blogFooter "SN" "1" "0">}}

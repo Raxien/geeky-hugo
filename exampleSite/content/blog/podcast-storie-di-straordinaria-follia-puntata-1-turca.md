@@ -9,7 +9,7 @@ country: Turchia
 draft: false
 ---
 
-Storie di starordinaria follia è un podcast **nato un po’ per caso**, un po’ grazie a un’intuizione, un po’ perché c’è ancora chi ha voglia di raccontare e ascoltare cose belle. Quando abbiamo risposto a Simone di **{{< extLink "Radio Italiana 531" "https://www.radioitaliana531.com.au/" >}}** non ci aspettavamo che sarebbe nata quasi un’amicizia spontanea, a chilometri di distanza. 
+Storie di starordinaria follia è un podcast **nato un po’ per caso**, un po’ grazie a un’intuizione, un po’ perché c’è ancora chi ha voglia di raccontare e ascoltare cose belle. Quando abbiamo risposto a Simone di **{{<extLink "Radio Italiana 531" "https://www.radioitaliana531.com.au/">}}** non ci aspettavamo che sarebbe nata quasi un’amicizia spontanea, a chilometri di distanza. 
 
 Il suo entusiasmo è stato incredibile: da una semplice intervista ha deciso di donarci il suo tempo prezioso, di fare di quella condivisione che noi amiamo un podcast fruibile per tutti su Spotify, di farci qualche domanda in più, anche quelle scomode che però c’è chi non ha il coraggio di porre.
 

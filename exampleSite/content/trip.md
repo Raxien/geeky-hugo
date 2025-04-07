@@ -3,7 +3,6 @@ title: Il viaggio
 description: Tutte le tappe del nostro viaggio
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1701795049/asset/trip_wlwlcy.jpg
 layout: trip
-Victor_Hugo: "false"
 Focus_Keyword: "trip"
 ---
 <!-- https://www.mapchart.net/world.html -->

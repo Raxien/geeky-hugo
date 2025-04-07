@@ -1,0 +1,13 @@
+items:
+  - title: "Funzionali"
+    description: "Cookie necessari per il funzionamento del sito"
+    is_functional: true
+    script_file: "functional.js"
+  - title: "Analytics"
+    description: "Cookie per analisi del traffico"
+    is_functional: false
+    script_file: "analytics.js"
+  - title: "Marketing"
+    description: "Cookie per pubblicità e marketing"
+    is_functional: false
+    script_file: "marketing.js" 

@@ -15,16 +15,16 @@ draft: true
 
 **grassetto**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 [trovi tutto qui](/blog/) per link interno 
 
- {{< extLink "**link esterno**" "http://linkesterno.it" >}} 
+ {{<extLink "**link esterno**" "http://linkesterno.it">}} 
 
 x video 
 
 
-{{< youtube RsTGZQ0ZxDI >}}
+{{< youtube RsTGZQ0ZxDI>}}
 
 
 

@@ -1,6 +1,8 @@
+theme = "geeky-hugo"
+
 # This file is for render site varibles and plugins
 # don't remove this file.
-# The presence of this file is for compatibility with Blogdown and Forestry.
+# The presence of this file is for compatibility with Blogdown.
 #
 # The actual configuration files are stored in the `config/_default/` folder.
 
@@ -58,12 +60,15 @@ link = "plugins/jquery/jquery.min.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
-link = "plugins/search/fuse.min.js"
+link = "https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"
 [[params.plugins.js]]
-link = "plugins/search/mark.js"
+link = "https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"
 [[params.plugins.js]]
-link = "plugins/search/search.js"
+link = "assets/plugins/search/search.js"
 [[params.plugins.js]]
 link = "plugins/webfont-loader/webfont-loader-2.min.js"
 [[params.plugins.js]]
 link = "plugins/money.min.js"
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]

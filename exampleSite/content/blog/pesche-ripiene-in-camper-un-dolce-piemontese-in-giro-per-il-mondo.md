@@ -24,16 +24,16 @@ Immaginate un banchetto a base di pane, salame, formaggio e un goccio di vino ro
 
 ##### Chi rese pubblica la ricetta?
 
-Ada Boni fu la prima donna a citare i Persi Pien nel suo libro {{< extLink "“Il talismano della felicità”" "https://amzn.to/3KbVviY" >}} del 1929, consigliando di grattugiare del cioccolato fondente sul finale e di servire le pesche ripiene fredde. 
+Ada Boni fu la prima donna a citare i Persi Pien nel suo libro {{<extLink "“Il talismano della felicità”" "https://amzn.to/3KbVviY">}} del 1929, consigliando di grattugiare del cioccolato fondente sul finale e di servire le pesche ripiene fredde. 
 
-In quella che invece è considerata la Bibbia della cucina piemontese, il libro {{< extLink "“Nonna Genia”" "https://amzn.to/3Y7X4nN" >}}, Beppe Lodi e Luciano De Giacomi suggeriscono di mescolare il cacao amaro in polvere con gli altri ingredienti e di servire le pesche ripiene calde o tiepide.
+In quella che invece è considerata la Bibbia della cucina piemontese, il libro {{<extLink "“Nonna Genia”" "https://amzn.to/3Y7X4nN">}}, Beppe Lodi e Luciano De Giacomi suggeriscono di mescolare il cacao amaro in polvere con gli altri ingredienti e di servire le pesche ripiene calde o tiepide.
 
 **Nonna Teie** mi insegnò a mettere un po’ di cacao in polvere ma non troppo, in modo da aggiungere qualche scaglia di cioccolato senza sentirsi in colpa e soprattutto a prepararne una buona quantità, per mangiare i persi pien sia tiepidi che freddi nei giorni a venire. 
 
 A casa nostra si usava far le cose in grande: *grandi porzioni per grandi sorrisi!*
 
 Clicca nel video qui sotto se vuoi vederci impazzire felicemente nella cucina del camper per preparare i persi pien!
-{{< youtube f8yDEwQbMFs >}} 
+{{< youtube f8yDEwQbMFs>}} 
 
 ##### Ingredienti per la classica ricetta 
 

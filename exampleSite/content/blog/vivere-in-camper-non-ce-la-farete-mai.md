@@ -14,7 +14,7 @@ e anche...
 
 > Pensavo che non avreste retto la vita in van, invece dopo un anno avete tutta la mia stima!
 
-Sono state due frasi che **ci sono state dette per davvero**, una da un (ex) collega, l’altra da una persona che non conosciamo direttamente ma che ci segue sul nostro {{< extLink "canale YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}}. 
+Sono state due frasi che **ci sono state dette per davvero**, una da un (ex) collega, l’altra da una persona che non conosciamo direttamente ma che ci segue sul nostro {{<extLink "canale YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1">}}. 
 
 Le abbiamo apprezzate però, perché ci sono state rivolte senza sconti e hanno ottenuto risposta dai fatti prima ancora che potessimo darla noi con un sorriso. 
 
@@ -29,7 +29,7 @@ E così ad agosto siamo partiti per un mese intero in Danimarca a bordo della no
 Anzi, la **conferma** era che che avevamo preso insieme una delle **decisioni migliori** che potessimo.
 
 ##### I soliti che ci provano e poi mollano
-La seconda frase ci è stata scritta alla pubblicazione del video relativo a "{{< extLink "un anno di vanlife" "https://youtu.be/0NrXpFEY6Wc" >}}", con un riassunto sulle spese sostenute, su cosa si è rotto a bordo, sulle nostre impressioni. 
+La seconda frase ci è stata scritta alla pubblicazione del video relativo a "{{<extLink "un anno di vanlife" "https://youtu.be/0NrXpFEY6Wc">}}", con un riassunto sulle spese sostenute, su cosa si è rotto a bordo, sulle nostre impressioni. 
 
 Quel contenuto era ed è un video al quale teniamo molto. Perché è pieno di verità, è sincero e sottolinea il nostro percorso dall’inizio. Ci fa piacere che sia stato apprezzato da chi ci aveva immaginati come *i soliti che ci provano e poi mollano*.
 

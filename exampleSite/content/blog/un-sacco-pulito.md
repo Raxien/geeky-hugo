@@ -39,7 +39,7 @@ Ora vi spiego in che cosa consiste, e perché anche noi abbiamo deciso di prende
 
 ###### Nato dagli Appassionati di Viaggi
 
-Il progetto di **"Un Sacco Pulito"** è nato nella primavera del 2023 da un’idea lanciata da {{< extLink "Armando del Canale Youtube di Vivere in Camper: Macchitelofaffa?" "https://www.youtube.com/@VivereInCamperMacchitelofaffa" >}}.
+Il progetto di **"Un Sacco Pulito"** è nato nella primavera del 2023 da un’idea lanciata da {{<extLink "Armando del Canale Youtube di Vivere in Camper: Macchitelofaffa?" "https://www.youtube.com/@VivereInCamperMacchitelofaffa">}}.
 
 L’idea assurda e geniale, era quella di raggruppare **quanti più canali youtube sul tema dei viaggi** in camper, outdoor e vanlife possibili e sfruttare il "potere" dei loro canali social per unire una rete di cittadini attivi ed aziende con un’obiettivo comune: **pulire l’ambiente!**
 
@@ -174,7 +174,7 @@ Ci vediamo nel prossimo articolo! 🙂
 
  
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1694595899/Articoli/Blog/matrimonio.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1694595899/Articoli/Blog/matrimonio.jpg">}}
 
 
 #### 41 giorni dopo: tutto uguale, tutto diverso 
@@ -188,7 +188,7 @@ La zanzariera si era rotta, qualche plastica si era scollata, avevamo bisogno di
 
 Anche di questo vi racconteremo tutto, con una serie di video che speriamo vi incuriosiscano a ripartire a viaggiare insieme a noi con testa e cuore. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1694595873/Articoli/Blog/lavori_al_van.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1694595873/Articoli/Blog/lavori_al_van.jpg">}}
 
 
 #### 41 giorni dopo: tutto uguale, tutto diverso 

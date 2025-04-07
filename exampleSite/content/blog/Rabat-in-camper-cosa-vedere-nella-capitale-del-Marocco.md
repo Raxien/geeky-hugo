@@ -15,7 +15,7 @@ A Rabat si trovano il Palazzo Reale, le sedi amministrative, trasporti pubblici 
 
 Prima di scoprire cosa vedere sappi che al fondo troverai anche l’indicazione su dove poter parcheggiare oltre alla mappa con tutte le tappe.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690129841/Articoli/rabat/rabat_vicolo_dxi8xd.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690129841/Articoli/rabat/rabat_vicolo_dxi8xd.jpg">}}
 
 #### Cosa vedere a Rabat 
 
@@ -25,7 +25,7 @@ La nostra passeggiata per le vie di Rabat ha avuto inizio dalla Kasba degli Oud
 ##### Medina
 Attraversato il viale che la divide dalla Kasba, abbiamo raggiunto la Medina di Rabat , che permette di passeggiare tra antichi edifici e perdersi letteralmente nel souk cittadino: partendo da Rue Souiqa e Rue es-Sebat si trovano il quartiere dei pellettieri, dei commercianti di tessuto e numerosi bazaar.fino ad arrivare nella zona dei ferrai e dei tessitori. La zona più famosa della Medina è Rue des Consuls dove il giovedì mattina si svolge l’asta dei Tappeti.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690129340/Articoli/rabat/rabat_medina_ye8prd.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690129340/Articoli/rabat/rabat_medina_ye8prd.jpg">}}
 
 ##### Torre di Hassan
 Simbolo della città, faceva parte di una grande moschea distrutta dal terremoto del 1755, i cui ruderi di 360 colonne sono ancora visibili nella piazza. Se ami le vedute dall’alto ti consigliamo si salire fino in cima alla torre.
@@ -36,7 +36,7 @@ Un vero capolavoro di arte e architettura marocchina, ospita le spoglie di alcun
 ##### Cimitero Mussulmano
 Il cimitero di Rabat si trova su una collina affacciata verso la spiaggia e il faro cittadini. Tutte le lapidi sono direzionate verso la Mecca, tranne quelle di coloro che sono morti lontano da Rabat. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690129339/Articoli/rabat/rabat_nennaa.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690129339/Articoli/rabat/rabat_nennaa.jpg">}}
 
 ##### Palazzo Reale
 E' la residenza ufficiale del re del Marocco e della sua famiglia e non è possibile visitarlo all’interno. 
@@ -51,8 +51,8 @@ Se sei un amante dei musei e dei reperti storici allora dovresti prendere in con
 Salè è la città gemella di Rabat, separata dalla capitale dal corso del fiume. Un tempo teatro di pirateria, permette di passeggiare in un luogo che regala ancora scorci di autenticità. Ben diversa dalla città moderna, con un souk più raccolto, nessuna infrastruttura ma strade cittadine sterrate, merita secondo noi una visita per capire un po’ di più il vero ritmo di vita marocchino. 
 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690129339/Articoli/rabat/sal%C3%A8_ijtrnq.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690129339/Articoli/rabat/sal%C3%A8_ijtrnq.jpg">}}
 
 
-Se vuoi visitare queste zone con i nostri occhi, ti lasciamo qui {{< extLink "la playlist" "https://youtube.com/playlist?list=PLHaclq_J5PZ8sbONBTfhLKW6EWdkxsnbH&si=dDBRb7U6tSsxXyuk" >}} relativa al nostro viaggio in Marocco! 
+Se vuoi visitare queste zone con i nostri occhi, ti lasciamo qui {{<extLink "la playlist" "https://youtube.com/playlist?list=PLHaclq_J5PZ8sbONBTfhLKW6EWdkxsnbH&si=dDBRb7U6tSsxXyuk">}} relativa al nostro viaggio in Marocco! 
 

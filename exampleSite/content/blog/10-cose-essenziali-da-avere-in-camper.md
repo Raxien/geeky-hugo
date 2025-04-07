@@ -9,4 +9,4 @@ draft: true
 ---
 <!-- TODO FARE -->
 
-{{< blogFooter "" "1" "0" >}}
+{{< blogFooter "" "1" "0">}}

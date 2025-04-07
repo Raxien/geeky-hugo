@@ -46,7 +46,7 @@ Per tutto il resto ci è bastato un cacciavite a stella per smontare tutto e un 
 
 Non andremo a spiegarvi come smontare il vostro van in quanto cambia da costruttore a costruttore e dal tipo di allestimento che si ha a bordo. Abbiamo girato un video  un'idea di come abbiamo svolto noi i lavori a bordo del nostro Roadcar e che potete visionare qui sotto:
 
-{{< youtube Xw4n0CYZqeQ >}}
+{{< youtube Xw4n0CYZqeQ>}}
 
 
 
@@ -61,7 +61,7 @@ Così facendo non ci illudiamo di aver fatto i lavori migliori del mondo ma, con
 
 ##### Prima e dopo
 
-<!-- {{< youtube Xw4n0CYZqeQ >}}    mettere video lavori -->
+<!-- {{< youtube Xw4n0CYZqeQ>}}    mettere video lavori -->
 
 ##### Batteria al litio
 
@@ -77,7 +77,7 @@ Abbiamo deciso di affidarci al nostro gommista di fiducia (Nasto gomme - Scarnaf
 Fra un po' di chilometri vedremo se ci saranno differenza e capiremo quale scelta effettuare sul cambio successivo.
 Dove avverrà? Lo scopriremo solo viaggiando :) 
 
-<!-- {{< youtube RsTGZQ0ZxDI >}}    mettere video officina -->
+<!-- {{< youtube RsTGZQ0ZxDI>}}    mettere video officina -->
 
 ##### E la meccanica? 
 
@@ -91,4 +91,4 @@ Sempre con Cris abbiamo fissato la canalina del tendalino in modo che rimanesse 
 Insomma, con un po' di migliorie tecniche e tanta voglia di scoprire il mondo non ci restava che partire... destinazione? 
 Lo scopriremo insieme giorno per giorno!
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}

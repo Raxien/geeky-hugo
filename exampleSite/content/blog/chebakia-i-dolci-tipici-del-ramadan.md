@@ -19,13 +19,13 @@ Sono i dolci tipici del Ramadan e durante tutto il periodo ci è capitato di ved
 
 ##### Non sono tutti uguali
 
-Inutile girarci intorno ma quelli più buoni che abbiamo assaggiato sono stati proprio quelli preparati in casa quando siamo stati ospiti della famiglia di Med. Non potevamo credere ai nostri occhi quando abbiamo visto che un intero tavolo della cucina era occupato da una montagna di Chebakia. Per l’occasione abbiamo banchettato insieme, in quel pasto che per loro era la colazione e per noi la cena (trovi tutto {{< extLink "in questo video" "https://youtu.be/vgNL4cK-aJY" >}}).
+Inutile girarci intorno ma quelli più buoni che abbiamo assaggiato sono stati proprio quelli preparati in casa quando siamo stati ospiti della famiglia di Med. Non potevamo credere ai nostri occhi quando abbiamo visto che un intero tavolo della cucina era occupato da una montagna di Chebakia. Per l’occasione abbiamo banchettato insieme, in quel pasto che per loro era la colazione e per noi la cena (trovi tutto {{<extLink "in questo video" "https://youtu.be/vgNL4cK-aJY">}}).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690465505/Articoli/Cibo/Chebakia-varie-versioni_yrmuwk.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690465505/Articoli/Cibo/Chebakia-varie-versioni_yrmuwk.jpg">}}
 
 Quando siamo rimasti due giorni ospiti nel cortile della casa di Mustapha e abbiamo chiesto se potevamo assaggiare un ultimo chebakia prima di ripartire e suo padre ce ne ha portato addirittura **un sacchetto intero!** Anche questa avventura la trovi raccontata qui se te la fossi persa:
 
-{{< youtube dS1dd3N2QF8 >}}
+{{< youtube dS1dd3N2QF8>}}
 
 Insomma, abbiamo mangiato i tipici dolci marocchini quasi ogni giorno anche noi. Le tradizioni **d’altronde vanno rispettate!**
 
@@ -34,7 +34,7 @@ Dico quasi perché saranno anche buoni, ma sono dei piccoli scrigni dolci, dolci
 Se sei un po’ attenta/o al tuo intestino e ai tuoi denti, anche tu li mangeresti “quasi” tutti i giorni.
 Se sei molto golosa/o, fai due passi in più e ricordati di **lavarti bene i denti**, per il resto sei perdonata/o!
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690465517/Articoli/Cibo/Chebakia-ramadan_eruc0v.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690465517/Articoli/Cibo/Chebakia-ramadan_eruc0v.jpg">}}
 
 ##### Vuoi la ricetta?
 

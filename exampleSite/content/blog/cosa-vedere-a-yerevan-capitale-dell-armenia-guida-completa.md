@@ -3,10 +3,10 @@ title: 'Cosa vedere a Yerevan, capitale dell''Armenia: guida completa per un via
 description: 'Alla scoperta della sottovalutata capitale dell''Armenia. Yerevan, la città dai mille volti.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1713011125/Articoli/Direzione%20giappone/Direzione19/ushguli-dall-alto_hzhbkm.jpg
 date: 2024-08-01T7:00:00+01:00
-categories: [ "Armenia"]
+categories: [ "Guida", "Itinerari"]
 type: featured  
 country: Armenia 
-draft: false
+draft: true
 ---
 
 Yerevan, la vivace capitale dell'Armenia, offre un affascinante mix di storia antica, architettura moderna e cultura vibrante. Nonostante abbia subito profondi cambiamenti urbanistici nel XX secolo, **la città conserva ancora un'anima autentica che cattura il cuore dei visitatori.**

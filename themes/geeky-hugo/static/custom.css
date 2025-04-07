@@ -1,0 +1,24 @@
+/* Smooth transitions for offcanvas */
+.offcanvas {
+    transition: all 0.25s ease !important;
+}
+
+/* Custom close button styles */
+.btn-close {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.btn-close:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+/* Remove individual transitions */
+.offcanvas.showing,
+.offcanvas.hiding,
+.offcanvas-body,
+.offcanvas.showing .offcanvas-body,
+.offcanvas.hiding .offcanvas-body {
+    transition: none !important;
+} 

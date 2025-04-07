@@ -50,55 +50,62 @@ weight = 3
 #   url = "van/"
 #   weight = 3
 
-[[main]]
-name = "Libri"
-url = "books/"
-weight = 4
+# [[main]]
+# name = "Libri"
+# url = "books/"
+# weight = 4
 
 # [[main]]
 # name = "Il Record"
 # url = "record/"
 # weight = 5
 
-[[main]]
-name = "Chi siamo"
-url = "#"
-weight = 6
-hasChildren = true
+# [[main]]
+# parent = "Chi siamo"
+# name = "Parlano di noi"
+# url = "press/"
+# weight = 2
 
-  [[main]]
-  parent = "Chi siamo"
-  name = "Vandipety"
-  url = "about/"
-  weight = 1
 
-  [[main]]
-  parent = "Chi siamo"
-  name = "Parlano di noi"
-  url = "press/"
-  weight = 2
+# [[main]]
+# name = "Chi siamo"
+# url = "#"
+# weight = 6
+# hasChildren = true
 
-  [[main]]
-  parent = "Chi siamo"
-  name = "Contatti"
-  url = "contact/"
-  weight = 3
+#   [[main]]
+#   parent = "Chi siamo"
+#   name = "Vandipety"
+#   url = "about/"
+#   weight = 1
+
+#   [[main]]
+#   parent = "Chi siamo"
+#   name = "Parlano di noi"
+#   url = "press/"
+#   weight = 2
+
+#   [[main]]
+#   parent = "Chi siamo"
+#   name = "Contatti"
+#   url = "contact/"
+#   weight = 3
   
 # footer menu
 [[footer]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[footer]]
 name = "Chi siamo"
 url = "about/"
-weight = 2
+weight = 1
 
 [[footer]]
 name = "Contatti"
 url = "contact/"
 weight = 2
+
+[[footer]]
+name = "Press"
+url = "press"
+weight = 3
 
 [[footer]]
 name = "Privacy Policy"

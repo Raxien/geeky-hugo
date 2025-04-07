@@ -84,6 +84,6 @@ E una volta che si hanno tutti i documenti in regola?
 Ricordati di avere con te guinzaglio e museruola e tutto l'occorente per far sì che il viaggio con il tuo animale sia il più confortevole possibile per lui. 
 
 Qui trovi ????? -->
-{{< youtube tlzeuxt-6yY >}}
+{{< youtube tlzeuxt-6yY>}}
 
-{{< blogFooter "PET" "1" "0" >}}
+{{< blogFooter "PET" "1" "0">}}

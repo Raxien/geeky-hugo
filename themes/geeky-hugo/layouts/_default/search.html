@@ -1,0 +1,76 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="section-title">
+      <h2 class="h4">Risultati per <span class="title-border"><script>
+        var keyword = (window.location.search).substr(3);
+        var result = keyword.replace("+", " ");
+        // fix per ricerca con spazi da pin
+        result = result.replace("%20", " ");
+        document.write(result);
+      </script>
+      </span></h2>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-8 mb-5 mb-lg-0">
+        <div class="border mb-5 pt-4 rounded">
+          <div class="row mx-0 g-5" id="search-results">
+            <script id="search-result-template" type="text/x-js-template">
+              <div class="col-sm-6 mb-4">
+                <div class="card">
+                  <div class="mb-4 position-relative">
+                    <img loading="lazy" decoding="async" class="img-fluid w-100 rounded-4" src="${image}" alt="${title}">
+                    ${ isset categories }<ul class="list-inline card-badge"><li class="list-inline-item"><span class="badge badge-primary py-1">${categories0}</span></li><li class="list-inline-item ${visible1}"><span class="badge badge-primary py-1">${categories1}</span></li><li class="list-inline-item ${visible2}"><span class="badge badge-primary py-1">${categories2}</span></li><li class="list-inline-item ${visible3}"><span class="badge badge-primary py-1">${categories3}</span></li></ul>${ end }
+                  </div>
+                  <div class="card-body">
+                    <h3 class="h6">
+                      <a class="title-linked" href="${link}">${title}</a>
+                    </h3>
+                    <ul class="list-inline card-meta d-flex align-items-center mb-3">
+                      <li class="list-inline-item d-flex align-items-center">
+                        <i class="fas fa-calendar me-2"></i>
+                        <span>${date}</span>
+                      </li>
+                    </ul>
+                    <p class="card-text mb-4">${snippet}</p>
+                    <a href="${link}" class="btn btn-outline-primary btn-sm">Leggi</a>
+                  </div>
+                </div>
+              </div>
+            </script>
+          </div>
+        </div>
+      </div>
+
+      <!-- sidebar widgets -->
+      <aside class="col-lg-4">
+        {{ $widget:= site.Params.widgets.sidebar }}
+        {{ partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . )}}
+      </aside>
+    </div>
+  </div>
+</section>
+
+{{ "<!-- Search index -->" | safeHTML }}
+<script>
+  var indexURL = {{ "index.json" | relLangURL }};
+  console.log('Search page loaded, indexURL:', indexURL);
+</script>
+
+<!-- Load jQuery first -->
+{{ $jquery := resources.Get "plugins/jquery/jquery.min.js" | minify }}
+<script src="{{ $jquery.RelPermalink }}" type="application/javascript"></script>
+
+<!-- Load search scripts -->
+{{ $fuse := resources.Get "plugins/search/fuse.min.js" | minify }}
+<script src="{{ $fuse.RelPermalink }}" type="application/javascript"></script>
+
+{{ $mark := resources.Get "plugins/search/mark.js" | minify }}
+<script src="{{ $mark.RelPermalink }}" type="application/javascript"></script>
+
+{{ $searchJS := resources.Get "plugins/search/search.js" | minify }}
+<script src="{{ $searchJS.RelPermalink }}" type="application/javascript"></script>
+
+{{ end }}

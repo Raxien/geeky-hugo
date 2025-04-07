@@ -6,7 +6,7 @@ type: regular
 ---
 
 <!-- Spesa totale
-{{< tripExpanses "Spese" "2021-05-18T00:00:00Z" "2023-12-31T00:00:00Z" >}} -->
+{{< tripExpanses "Spese" "2021-05-18T00:00:00Z" "2023-12-31T00:00:00Z">}} -->
 
 Spesa 2024
-{{< tripExpanses "Spese" "2024-01-01T00:00:00Z" "2024-12-31T00:00:00Z" >}}
+{{< tripExpanses "Spese" "2024-01-01T00:00:00Z" "2024-12-31T00:00:00Z">}}

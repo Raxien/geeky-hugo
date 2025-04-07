@@ -3,7 +3,6 @@ title: Le nostre spese
 description: Tutte le spese sostenute fino ad oggi per il nostro viaggio
 image: images/spese.jpg
 layout: expanses
-Victor_Hugo: 'false'
 Focus_Keyword: expanses
 
 ---
@@ -17,9 +16,9 @@ Nei calcoli non sono inclusi il costo del van e dei suoi accessori che potete tr
 
 ##### Video
 
-_**{{< extLink "Quanto abbiamo speso dopo 6 mesi" "https://youtu.be/CYJHHkg3_3s" >}}**_: dopo 6 mesi in viaggio in Europa raccontiamo nel dettaglio le nostre spese.
+_**{{<extLink "Quanto abbiamo speso dopo 6 mesi" "https://youtu.be/CYJHHkg3_3s">}}**_: dopo 6 mesi in viaggio in Europa raccontiamo nel dettaglio le nostre spese.
 
-_**{{< extLink "Come risparmiamo" "https://youtu.be/rCvzJ8LsRrc" >}}**_: un video in merito a come facciamo a risparmiare a bordo!
+_**{{<extLink "Come risparmiamo" "https://youtu.be/rCvzJ8LsRrc">}}**_: un video in merito a come facciamo a risparmiare a bordo!
 
 **La verità!** Quanto abbiamo speso dopo 1 anno in giro fra due continenti e 13 paesi:
-{{< youtube 0NrXpFEY6Wc >}}
+{{< youtube 0NrXpFEY6Wc>}}

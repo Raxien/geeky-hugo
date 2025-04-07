@@ -23,7 +23,7 @@ Sarò sincera, a bordo non ho ancora provato a prepararli, un po' per pigrizia, 
 
 Ho fatto un po’ di ricerche, chiesto conferma a Kalina e quindi ecco qui per voi la **ricetta** per l’impasto dei deliziosi pierogi. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1200/f_auto,q_auto:eco/v1689676110/Articoli/empanada/madrid/cordoba/images_jlds9z.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1200/f_auto,q_auto:eco/v1689676110/Articoli/empanada/madrid/cordoba/images_jlds9z.jpg">}}
 
 ##### La ricetta segreta
 Ingredienti per 35-40 pierogi:
@@ -39,7 +39,7 @@ E ora che si fa? Te lo spieghiamo in 10 passaggi:
 3. Metti un po’ di musica, fai due piroette e rilassati! Non troppo, devi pur pensare al ripieno no?
 4. Puoi spadellare un po’ di verdure, oppure sbucciare le patate e lessarle in acqua fino a quando non saranno morbide, schiacciarle con lo schiacciapatate e amalgamarle con la ricotta. Se ti piace la carne puoi soffriggere una cipolla e aggiungere del macinato. 
 
-{{< citazione "Insomma vedi cosa preferisci, ma mantieni il buonumore che è sempre l’ingrediente che da quel tocco in più!" >}}
+{{< citazione "Insomma vedi cosa preferisci, ma mantieni il buonumore che è sempre l’ingrediente che da quel tocco in più!">}}
 
 5. A questo punto, con la cucina un po' incasinata **ma non troppo**, stendi l’impasto (dello spessore di circa 2 mm) e se è troppo appiccicoso aggiungi altra farina.
 6. Ritaglia dei cerchi aiutandoti con un bicchiere e metti al centro un po’ di ripieno (non troppo che sennò poi non riesci a chiuderli **e ti arrabbi)**. 
@@ -52,14 +52,14 @@ E ora che si fa? Te lo spieghiamo in 10 passaggi:
 
 ##### Pierogi come dolci
 
-In un incontro fortuito nato grazie alla simpatia del nostro gatto Saké **abbiamo conosciuto Kalina** che ci ha invitati ad assaggiare sia una versione casalinga che nella versione **{{< underline "dolce" >}}**. Grazie a un abbinamento di una salsina a base di panna acida e marmellata di fragole, **non vi dico che bontà.**
+In un incontro fortuito nato grazie alla simpatia del nostro gatto Saké **abbiamo conosciuto Kalina** che ci ha invitati ad assaggiare sia una versione casalinga che nella versione **{{< underline "dolce">}}**. Grazie a un abbinamento di una salsina a base di panna acida e marmellata di fragole, **non vi dico che bontà.**
 <!-- 
-Quel giorno, a casa di Kalina, abbiamo avuto l’onore di poterli assaggiare anche nella versione **{{< underline "dolce" >}}**, grazie a un abbinamento di una salsina a base di panna acida e marmellata di fragole, non vi dico che bontà. -->
+Quel giorno, a casa di Kalina, abbiamo avuto l’onore di poterli assaggiare anche nella versione **{{< underline "dolce">}}**, grazie a un abbinamento di una salsina a base di panna acida e marmellata di fragole, non vi dico che bontà. -->
 
 Insomma non resta che provare a prepararli, a me in camper e a voi in cucina. Oppure potremmo organizzare un ritrovo in Polonia e sederci al tavolo di qualche localino, cosa ne dite?  
 
 **In ogni caso, buon appetito :)**
 
-<!-- Vuoi rivedere le nostre avventure in Polonia? Puoi ritrovarle {{< extLink "in questa playlist" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV" >}}. -->
+<!-- Vuoi rivedere le nostre avventure in Polonia? Puoi ritrovarle {{<extLink "in questa playlist" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV">}}. -->
 
-{{< blogFooter "PL" "0" "0" >}}
+{{< blogFooter "PL" "0" "0">}}

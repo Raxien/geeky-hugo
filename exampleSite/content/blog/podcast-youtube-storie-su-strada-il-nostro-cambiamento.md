@@ -3,7 +3,7 @@ title: "\"Storie su strada\": un podcast sul nostro cambiamento di vita"
 description: "Un podcast alla scoperta di come abbiamo deciso di cambiare vita"
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1674035838/Articoli/storie_su_stra_ep1_ruaori.png"
 date: 2023-02-17T23:00:00Z
-categories: ["Blog", "YouTube", "Podcast"]
+categories: ["Blog", "Podcast"]
 type: "regular"
 ---
 
@@ -37,4 +37,4 @@ Continueremo a farlo? “Cambiare” deriva dal greco kàmbein e significa curva
 
 Se hai piacere di vedere il video o ascoltare il nostro primo podcast lo trovi qui sotto:
 
-{{< youtube Z3IUhW6bUO8 >}}
+{{< youtube Z3IUhW6bUO8>}}

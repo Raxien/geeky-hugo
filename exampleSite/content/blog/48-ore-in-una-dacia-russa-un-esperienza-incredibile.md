@@ -8,7 +8,7 @@ country: "Russia"
 type: featured
 ---
 
-Chi l'avrebbe mai detto che {{< extLink "un incontro casuale in Turchia" "https://youtu.be/E5om0a1GiWU" >}} ci avrebbe portati a vivere un'esperienza così autentica in Russia?  
+Chi l'avrebbe mai detto che {{<extLink "un incontro casuale in Turchia" "https://youtu.be/E5om0a1GiWU">}} ci avrebbe portati a vivere un'esperienza così autentica in Russia?  
 Avevamo conosciuto Emil e la sua famiglia per caso, e **mai ci saremmo immaginati di vivere 48 ore nella loro dacia russa** nelle campagne di Kazan, sulle rive del Volga.
 
 Vi raccontiamo la nostra esperienza con una pagina di diario, tramite quei ricordi che resteranno per sempre nel nostro cuore.
@@ -21,7 +21,7 @@ Non riuscivo a credere ai miei occhi. La piccola dependance a lato, con le paret
 
 Ci siamo ritrovati con i pigiami in una borsa, il cibo per gli animali nell’altra, pronti a dormire nei due letti singoli, in una stanza più grande del nostro van, tanto che ci sembrava quasi di poter giocare a nascondino tra quelle quattro mura. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/dacia/dacia-in-russia_boxhck.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/dacia/dacia-in-russia_boxhck.jpg">}}
 _Ecco la famosa Dacia Russa_
 
 ##### Colazione da re e regina 
@@ -30,13 +30,13 @@ La colazione è stata tutta una sorpresa. Abbiamo assaggiato gli **“Etchpetchm
 Lui e la moglie avevano acquistato quella dacia più per i vicini di casa che per la vicinanza dalla prima casa. 
 **Non ci restava che andare a conoscere Rustik e Tania di persona**, e ritrovarci in men che non si dica in costume da bagno, a bordo di una piccola barca a motore. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/dacia/dacia-name_ot0ade.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/dacia/dacia-name_ot0ade.jpg">}}
 _Pronti?_
 
 ##### Un tuffo nel Volga
 I due amici seduti davanti, valorosi capitani, noi dietro, curiosi come bambini. **Ci siamo tuffati nelle fredde acque del Volga, sfidando la corrente**, salutando chi attorno a noi sfrecciava su moto d’acqua o ci osservava dalla riva, ammirando le facciate colorate delle altre numerose dacie nascoste tra gli alberi. Stavamo vivendo l’estate russa, che dura giusto tre mesi, il tempo di una tregua dal freddo e dal buio. Il vento fra i capelli, la pelle accarezzata dai raggi del sole. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/dacia/emil-in-barca_dutepq.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/dacia/emil-in-barca_dutepq.jpg">}}
 _I capitani alla guida!_
 
 ##### Cin cin ragazzi!
@@ -48,20 +48,20 @@ Appreso il trucco del buttare fuori l’aria con un respiro deciso, bere e magia
 E io, che se bevo un dito di vino bianco mi ritrovo con il mal di testa e la risata facile, ero perfettamente sobria. 
 **Ma soprattutto, felice.**
 
-{{< youtube "xP5iInwIyW0" >}}
+{{< youtube "xP5iInwIyW0">}}
 _Scopri il video della nostra estate russa_
 
 ##### Tour delle dacie
 Nel tardo pomeriggio la nostra presenza aveva fatto notizia, tant’è che ci siamo ritrovati a spalancare le porte del van per mostrare la nostra piccola casa su quattro ruote, per poi curiosare fra le mura altrui. Dopo aver ricevuto un invito da parte di due anziani per l’indomani nella loro isba - la classica casa in legno dipinto abitata tutto l’anno -  **abbiamo varcato la soglia della splendida dacia di un artista**, Vadim. Aveva pensato e costruito tutto lui: le ceramiche alle finestre, il salotto con i tendoni, la cucina in legno con cimeli del passato, il bagno in stile nipponico, la stanza open space al piano di sopra con macchine da scrivere e fotocamere analogiche, una macchina da cucire trasformata in tavolino e piccolo forno per gli spuntini con amici, lo studio d’arte all’ultimo piano con le tempere, gli oli e vari materiali messi a disposizione da madre natura. **Siamo usciti dalla casa-museo con un paio di regali:** una scarpa in legno intagliato e un’icona di San Nicola, protettore dei viaggi. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/dacia/dacia-proviamo-attrezzi_y5pn01.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/dacia/dacia-proviamo-attrezzi_y5pn01.jpg">}}
 _Pronta per andare nei campi_
 
 Da Rustik e Tania ci siamo presentati con due borse di panni da lavare, mentre loro ci mostravano i giochi allestiti per i gatti di casa, e ci servivano una generosa porzione di quella zuppa che ogni famiglia prepara con un ingrediente segreto, mescolato con amore. 
 Il sole accennava timidamente a tramontare, mentre noi ci preparavamo ad assaggiare la cena preparata da Emil, brindando ormai con abilità e dando il via a un karaoke in onore delle canzoni che hanno lasciato un segno nel tempo. 
 **Eccola la nostra estate russa, in compagnia della miglior famiglia adottiva che potessimo desiderare.**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/dacia/il-pittore_vymztc.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/dacia/il-pittore_vymztc.jpg">}}
 _Conosciamo il pittore_
 
 ##### Fermiamoci qui
@@ -72,7 +72,7 @@ Abbiamo voluto dormire nel van la seconda notte per fingere di avere anche noi u
 Ho tentato di immaginare il candido paesaggio intorno a noi, guardando fuori dalla finestra mentre Emil faceva sfrigolare le uova nel pentolino con abili gesti paterni pieni d’amore.
 **A un arrivederci durato un’eternità**, mentre passeggiavamo con Olimpia e Sakè salutando i vicini con fiere parole pronunciate in russo e abbracciando tutti ancora una volta, è seguita una tappa a casa dei due nonnini che ci aspettavano impazienti. Ci hanno mostrato con fierezza il loro orto, che garantisce frutta e verdura fresca per l’estate e da conservare per il resto dell’anno, abbellito da uno stagno e un castello di pietra, realizzato a mano come pegno d’amore. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/dacia/pittore-discorsi_utfqzt.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1727247897/Articoli/Russia/dacia/pittore-discorsi_utfqzt.jpg">}}
 _Con il traduttore possiamo comunicare in qualsiasi lingua_
 
 “Facciamo tutto da soli, ci alziamo alle 4 del mattino perché di giorno fa troppo caldo e quello che avanza lo condividiamo con i vicini”.
@@ -90,4 +90,4 @@ Non abbiamo piantato una bandierina in un nuovo paese, **abbiamo solo seminato u
 
 Vuoi pianificare un viaggio in Russia nel 2024? [In questa guida completa](/blog/viaggiare-in-russia-guida-completa-in-11-punti-aggiornamento-2024), troverai tutte le informazioni utili e aggiornate per organizzare un viaggio sicuro e senza imprevisti.
 
-{{< blogFooter "" "1" "0" >}}
+{{< blogFooter "" "1" "0">}}

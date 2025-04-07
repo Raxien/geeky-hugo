@@ -1,0 +1,58 @@
+// Font Variables
+$font-size: 15px;
+$font-scale: 1.3;
+$font-primary: 'Raleway', sans-serif;
+$font-secondary: 'Merriweather Sans', sans-serif;
+$font-icon: 'Font Awesome 5 Free';
+
+// Color Variables
+$color-primary: #15817f;
+$text-color: #555;
+$text-dark: #222;
+$text-light: #999;
+$body-color: #fff;
+$border-color: #E1E1E1;
+$black: #000;
+$white: #fff;
+$light: #f2f2f2;
+
+// import bootstrap
+@import 'bootstrap/bootstrap';
+
+// import theme style
+@import 'mixins';
+
+@import 'typography';
+
+@import 'buttons';
+
+@import 'common';
+
+@import 'templates/navigation.scss';
+
+@import 'templates/main.scss';
+
+/* clears the 'X' from Internet Explorer */
+input[type=search]::-ms-clear { display: none; width : 0; height: 0; }
+input[type=search]::-ms-reveal { display: none; width : 0; height: 0; }
+/* clears the 'X' from Chrome */
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration { display: none; }
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}  
+
+.img-center {
+    text-align: center;
+}

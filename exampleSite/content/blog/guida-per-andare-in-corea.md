@@ -57,8 +57,8 @@ Le informazioni contenute in questa guida sono aggiornate **a settembre 2024**. 
 Per visitare la Russia è sempre necessario ottenere un visto di ingresso. 
 
 ###### Visto Elettronico
-Il grande vantaggio del visto elettronico è che **non è necessario recarsi al Consolato o ai centri per i visti russi**, ma basta compilare **{{< extLink "la richiesta online" "https://electronic-visa.kdmid.ru/" >}}** e viene rilasciato entro 4 giorni, indipendentemente dai fine settimana e dai giorni festivi, tra l’altro senza la necessità di ottenere inviti o conferme. 
-**Il prezzo dell’e-visa è di 52 dollari** ma si può richiedere solo per soggiorni fino a 16 giorni e da diritto a un solo ingresso, quindi calcola bene quanti giorni vuoi rimanere in paese ma soprattutto fai attenzione perché tale documento è riconosciuto solo in alcuni posti di blocco ({{< extLink "scopri qui quali" "https://electronic-visa.kdmid.ru/checkpoint.html" >}}). 
+Il grande vantaggio del visto elettronico è che **non è necessario recarsi al Consolato o ai centri per i visti russi**, ma basta compilare **{{<extLink "la richiesta online" "https://electronic-visa.kdmid.ru/">}}** e viene rilasciato entro 4 giorni, indipendentemente dai fine settimana e dai giorni festivi, tra l’altro senza la necessità di ottenere inviti o conferme. 
+**Il prezzo dell’e-visa è di 52 dollari** ma si può richiedere solo per soggiorni fino a 16 giorni e da diritto a un solo ingresso, quindi calcola bene quanti giorni vuoi rimanere in paese ma soprattutto fai attenzione perché tale documento è riconosciuto solo in alcuni posti di blocco ({{<extLink "scopri qui quali" "https://electronic-visa.kdmid.ru/checkpoint.html">}}). 
 
 Ad esempio se vuoi entrare in Russia dalla Georgia e uscire in Kazakistan come fanno tanti viaggiatori tale visto non è riconosciuto, per cui potremmo consigliarlo **a chi vuole rimanere intorno a [Mosca](/blog/tour-di-mosca-in-due-giorni-itinerario-imperdibile) e [San Pietroburgo](/blog/tour-di-san-pietroburgo-scopri-la-venezia-del-nord-in-2-giorni)**, anche se ci sono persone che l’hanno sfruttato per raggiungere direttamente la Mongolia, **a proprio rischio e pericolo** perché può sempre succedere un imprevisto lungo la strada. 
 
@@ -68,17 +68,17 @@ Tale visto può essere di tipo turistico, d’affari, per visite private, ecc., 
 Se ti serve un visto di questi tipo ricordati che **la richiesta si può fare non prima di 6 mesi** (negli uffici di Genova e Milano) e **non prima di 3 mesi** (a Roma e Palermo) dalla prevista data di partenza.
 Attenzione però perché quando si parla di visto semestrale si intende che **si può rimanere in paese per un massimo di 90 giorni nell’arco di 6 mesi**, quindi non che puoi stare nel paese 6 mesi. 
 
-Tra l’altro secondo alcune agenzie il visto semestrale viene concesso a chi ha già ottenuto visti russi in precedenza, per gli altri invece viene rilasciato al massimo un visto trimestrale doppia entrata. Noi per effettuare il nostro visto con cui siamo stati 75 giorni in Russia entrando e uscendo sia dal Kazakistan che dalla Mongolia {{< extLink "ci siamo affidati all’agenzia Vistonline" "https://www.vistonline.it/" >}}. 
+Tra l’altro secondo alcune agenzie il visto semestrale viene concesso a chi ha già ottenuto visti russi in precedenza, per gli altri invece viene rilasciato al massimo un visto trimestrale doppia entrata. Noi per effettuare il nostro visto con cui siamo stati 75 giorni in Russia entrando e uscendo sia dal Kazakistan che dalla Mongolia {{<extLink "ci siamo affidati all’agenzia Vistonline" "https://www.vistonline.it/">}}. 
 
 I documenti necessari nel nostro caso sono stati: 
 
 * Invito ufficiale (che ci ha fornito l’agenzia)
-* Assicurazione sanitaria **valida in territorio russo**. Noi abbiamo {{< extLink "sfruttato Genki" "https://www.genki.world/with/vandipety" >}}, l’assicurazione che usiamo in tutto il mondo
+* Assicurazione sanitaria **valida in territorio russo**. Noi abbiamo {{<extLink "sfruttato Genki" "https://www.genki.world/with/vandipety">}}, l’assicurazione che usiamo in tutto il mondo
 * Una copia del modulo richiesta d’ingresso che viene compilata online dall’agenzia sul sito del Consolato.
 * Una copia del modulo richiesta d’incarico
 * due fototessere
 
-Per la Procedura completa abbiamo {{< extLink "spedito con un corriere" "https://youtu.be/ESPXke-m0L0" >}} il passaporto, le foto tessere e il modulo consolare compilato e l’agenzia si è occupata di recarsi presso gli uffici consolari e di spedirci **dopo circa 21 giorni lavorativi** il passaporto completo di visto. In questo caso le tasse consolari e le spese di spedizione si pagano direttamente all’agenzia e al corriere.
+Per la Procedura completa abbiamo {{<extLink "spedito con un corriere" "https://youtu.be/ESPXke-m0L0">}} il passaporto, le foto tessere e il modulo consolare compilato e l’agenzia si è occupata di recarsi presso gli uffici consolari e di spedirci **dopo circa 21 giorni lavorativi** il passaporto completo di visto. In questo caso le tasse consolari e le spese di spedizione si pagano direttamente all’agenzia e al corriere.
 
 Previo appuntamento invece è possibile **presentarsi personalmente presso i centri visti in Italia**, e pagare tasse consolari e commissioni di servizio in modo autonomo. In questo caso dovrai però  compilare da te anche il modulo consolare online e procurarti l’assicurazione medica e la lettera d'invito. Per evitare perdite di tempo e che magari ti venga rifiutato il visto per un errore banale, **ti raccomandiamo di informarti bene prima di procedere.**
 
@@ -102,9 +102,9 @@ A seguito delle sanzioni internazionali **i voli sono diventati più costosi**.
 
 ###### Ingresso via terra 
 
-Per entrare in Russia via terra (a piedi o a bordo di automobile, camper, motocicletta o bus) esistono varie  frontiere, che ti consigliamo di verificare sul sito {{< extLink "di Viaggiare Sicuri" "https://www.viaggiaresicuri.it/schede_paese/pdf/RUS.pdf" >}} o tramite {{< extLink "iOverlander" "https://ioverlander.com/" >}} **per ottenere informazioni aggiornate.**
+Per entrare in Russia via terra (a piedi o a bordo di automobile, camper, motocicletta o bus) esistono varie  frontiere, che ti consigliamo di verificare sul sito {{<extLink "di Viaggiare Sicuri" "https://www.viaggiaresicuri.it/schede_paese/pdf/RUS.pdf">}} o tramite {{<extLink "iOverlander" "https://ioverlander.com/">}} **per ottenere informazioni aggiornate.**
 
-{{< youtube "rLljFmk3fN4" >}}
+{{< youtube "rLljFmk3fN4">}}
 _La nostra esperienza entrando in Russia dalla Georgia_
 
 ###### La nostra esperienza via terra 
@@ -113,13 +113,13 @@ Noi siamo entrati in Russia **via terra, a bordo del camper dalla Georgia** (fro
 
 Alla dogana russa bisogna compilare due documenti:
 1) il foglio relativo al documento di immigrazione dove vanno riportati i dati personali e da conservare con cura e da consegnare all'uscita dal paese.
-2) il documento di importazione temporanea del mezzo da compilare in duplice copia con i dati del proprietario del veicolo e del mezzo(puoi scaricare {{< extLink "la versione in russo qui" "https://tinyurl.com/DocImpRussia" >}}). Presta attenzione a non commettere errori altrimenti dovrai ricompilare tutto da capo (noi avevamo dichiarato gli animali alla voce 7, ma abbiamo scoperto di non doverlo fare). Questo documento va conservato con cura ed è valido anche nei paesi limitrofi dell’Eurasia (Kazakistan, Kirghistan). Questo documento va consegnato quando si esce dai paesi non appartenenti all'Euraia.
+2) il documento di importazione temporanea del mezzo da compilare in duplice copia con i dati del proprietario del veicolo e del mezzo(puoi scaricare {{<extLink "la versione in russo qui" "https://tinyurl.com/DocImpRussia">}}). Presta attenzione a non commettere errori altrimenti dovrai ricompilare tutto da capo (noi avevamo dichiarato gli animali alla voce 7, ma abbiamo scoperto di non doverlo fare). Questo documento va conservato con cura ed è valido anche nei paesi limitrofi dell’Eurasia (Kazakistan, Kirghistan). Questo documento va consegnato quando si esce dai paesi non appartenenti all'Euraia.
 
 Consigliamo di scaricare e compilare in anticipo il documento di importazione temporanea, questo farà risparmiare molto tempo.
 
 Avendo il visto multingresso **noi siamo usciti dalla Russia per entrare in Kazakistan** (frontiera nei pressi di Petropavl), siamo tornati in Russia **nei pressi della dogana di Pogranichnyy** e siamo entrati in Mongolia nei pressi della **dogana di Tashanta**, per poi uscire e tornare in Russia in direzione Ulan Ude. Presta attenzione perché in alcuni casi l’attesa potrebbe essere molto lunga dato il numeroso transito di persone, **inoltre potrebbero interrogarti circa il tragitto e lo scopo del viaggio.**
 
-{{< youtube "w2tPi29Mubg" >}}
+{{< youtube "w2tPi29Mubg">}}
 _La nostra esperienza entrando in Russia dal Kazakistan_
 
 ###### Uscita via nave
@@ -263,4 +263,4 @@ Dovrai poi contattare il paese successivo in anticipo e effettuare la visita vet
 
 
 
-{{< blogFooter "" "1" "0" >}}
+{{< blogFooter "" "1" "0">}}

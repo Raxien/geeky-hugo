@@ -9,7 +9,7 @@ country: Russia
 draft: false
 ---
 
-Nuovo appuntamento con **"Storie di straordinaria follia"** sempre in collaborazione con Simone di **{{< extLink "Radio Italiana 531" "https://www.radioitaliana531.com.au/" >}}**. Oggi entriamo nel vivo del nostro viaggio verso il Giappone **partendo dal confine con la Russia.**
+Nuovo appuntamento con **"Storie di straordinaria follia"** sempre in collaborazione con Simone di **{{<extLink "Radio Italiana 531" "https://www.radioitaliana531.com.au/">}}**. Oggi entriamo nel vivo del nostro viaggio verso il Giappone **partendo dal confine con la Russia.**
 
 Mettetevi comodi e buon ascolto!
 

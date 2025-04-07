@@ -1,0 +1,4 @@
+{{ $text := .Get 0 }}
+{{ $url := .Get 1 }}
+{{ $title := .Get 2 }}
+<a href="{{ $url }}" target="_blank" rel="nofollow noopener noreferrer" title="{{ $title }}"><span>{{ $text }}</span> <i class="fa fa-external-link-alt"></i></a>

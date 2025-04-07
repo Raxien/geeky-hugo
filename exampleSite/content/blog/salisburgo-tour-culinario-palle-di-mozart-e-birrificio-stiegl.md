@@ -14,7 +14,7 @@ Questa guida ti fornisce tutte le informazioni essenziali per portare con te il 
 
 Prepara le valigie, prendi il pupazzo preferito del tuo amico a quattro zampe e parti per un'avventura indimenticabile in Giappone!
 
-`Fonti ufficiali: Le informazioni complete sono disponibili sul sito del Ministero dell'Agricoltura, delle Foreste e della Pesca giapponese: {{< extLink "MAFF" "https://www.maff.go.jp/aqs/english/animal/dog/import-other.html">}}` 
+`Fonti ufficiali: Le informazioni complete sono disponibili sul sito del Ministero dell'Agricoltura, delle Foreste e della Pesca giapponese: {{<extLink "MAFF" "https://www.maff.go.jp/aqs/english/animal/dog/import-other.html">}}` 
 
 ##### Burocrazia Giapponese per Importare Animali Domestici
 Il Giappone adotta rigide misure per proteggere la sua fauna locale da malattie infettive, in particolare dalla rabbia. 
@@ -35,13 +35,13 @@ Ogni cane o gatto che entra in Giappone deve essere vaccinato contro la rabbia. 
 * **Test degli Anticorpi Antirabbici**
 Un passaggio fondamentale è il test degli anticorpi contro la rabbia. Questo test serve per garantire che il tuo animale abbia un livello sufficiente di anticorpi per proteggerlo dalla rabbia e i risultati devono mostrare **che il titolo anticorpale è uguale o superiore a 0,5 UI/ml.**
 
-Il veterinario esegue un prelievo del sangue e spedisce il campione presso un laboratorio riconosciuto a livello internazionale (in Italia tale laboratorio è {{< extLink "l'Istituto Zooprofilattico Sperimentale delle Venezie (IZSVe)" "https://www.izsvenezie.it/" >}}). Il risultato arriva via mail al proprietario dell’animale. 
+Il veterinario esegue un prelievo del sangue e spedisce il campione presso un laboratorio riconosciuto a livello internazionale (in Italia tale laboratorio è {{<extLink "l'Istituto Zooprofilattico Sperimentale delle Venezie (IZSVe)" "https://www.izsvenezie.it/">}}). Il risultato arriva via mail al proprietario dell’animale. 
 
 `Nota Il test avviene almeno 180 giorni prima dell’ingresso per evitare la quarantena ed è valido per 24 mesi, purché le vaccinazioni successive siano aggiornate.`
 
 ###### 2. Pre-Notifica all'Animal Quarantine Service
 
-Una volta completati tutti i documenti richiesti **e 40 giorni prima dell’arrivo notifica l'ingresso del tuo animale domestico**, inviando una email agli indirizzi specifici dell’aeroporto o del porto giapponese in cui arrivi (trovi tutte le informazioni {{< extLink "a questo link" "https://www.maff.go.jp/aqs/english/attach/pdf/aqs_contact_list_en.pdf" >}}).
+Una volta completati tutti i documenti richiesti **e 40 giorni prima dell’arrivo notifica l'ingresso del tuo animale domestico**, inviando una email agli indirizzi specifici dell’aeroporto o del porto giapponese in cui arrivi (trovi tutte le informazioni {{<extLink "a questo link" "https://www.maff.go.jp/aqs/english/attach/pdf/aqs_contact_list_en.pdf">}}).
 In allegato inserisci i seguenti documenti:
 
 * La data e il luogo previsto di arrivo
@@ -60,7 +60,7 @@ I funzionari giapponesi del MAFF valutano la tua documentazione e, se è tutto c
 A meno di 10 giorni dal viaggio, un veterinario sottopone il tuo animale a una visita clinica e rilascia **un certificato di buona salute e compila il Modulo AC.**
 Invia il modulo ai funzionari giapponesi, che verificano la sua correttezza. Questo passaggio è molto importante, perché **un piccolo errore può impedire al tuo animale domestico di entrare in Giappone.**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto:eco/v1739789925/Articoli/Giappone/giappone-certificato-esportazione_c2c1uz.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto:eco/v1739789925/Articoli/Giappone/giappone-certificato-esportazione_c2c1uz.jpg">}}
 
 Dopo la visita clinica recati presso gli uffici veterinari governativi del paese di provenienza (solitamente ogni veterinario locale fornisce il contatto dell’ufficio più vicino) con il certificato di buona salute e il Modulo AC; qui ricevi **il certificato di esportazione.** Invia anche questo documento al MAFF per ottenere l'approvazione finale.
 
@@ -72,17 +72,17 @@ Invia il certificato di esportazione via mail al MAFF, che ti trasmette in rispo
 Una volta arrivato in Giappone, il servizio di quarantena sottopone l’animale a un'ulteriore ispezione, controlla i documenti e scansiona il microchip.  
 
 Tieni il tuo cane o gatto sempre all'interno del trasportino durante tutta l'ispezione. In genere, l'ispezione dura da circa 30 minuti a qualche ora, a seconda della completezza dei documenti e del numero di animali in arrivo.
-A proposito, scopri {{< extLink "il trasportino preferito di Sakè!" "https://www.mrpeanutspetcarriers.com/?rfsn=8379397.59709d&utm_source=refersion&utm_medium=affiliate&utm_campaign=8379397.59709d" >}} È estendibile e garantisce a Sakè di muoversi liberamente al suo interno. In più ha mille tasche per renderlo il più areato possibile e al suo interno puoi sistemare una comoda traversina. 
+A proposito, scopri {{<extLink "il trasportino preferito di Sakè!" "https://www.mrpeanutspetcarriers.com/?rfsn=8379397.59709d&utm_source=refersion&utm_medium=affiliate&utm_campaign=8379397.59709d">}} È estendibile e garantisce a Sakè di muoversi liberamente al suo interno. In più ha mille tasche per renderlo il più areato possibile e al suo interno puoi sistemare una comoda traversina. 
 
 `Nota: Il link al trasportino di Sakè è un link di affiliazione. Acquistando tramite esso, potremmo ricevere una commissione senza costi extra per te. Grazie per il supporto!`
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto:eco/v1739789925/Articoli/Giappone/giappone-trasportino_vlzuiu.png" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto:eco/v1739789925/Articoli/Giappone/giappone-trasportino_vlzuiu.png">}}
 
 ###### 5. Procedura Post-Ispezione
 
 Se tutta la documentazione è corretta e l'ispezione ha esito positivo, il tuo animale entra senza necessità di quarantena. In caso contrario, il tuo animale rischia una quarantena che dura fino a 180 giorni. Calcola i giorni di quarantena nella seguente maniera:
 
-{{< citazione "180 giorni - giorni trascorsi dal test degli anticorpi = giorni di quarantena" >}}
+{{< citazione "180 giorni - giorni trascorsi dal test degli anticorpi = giorni di quarantena">}}
 
 La quarantena avviene in apposite strutture il cui costo è a tuo carico. A seconda dei risultati della quarantena, il cane o il gatto può comunque non essere ammesso in Giappone.
 
@@ -115,8 +115,8 @@ In Giappone è essenziale rispettare le usanze locali e l'etichetta riguardo gli
 -->
 
 Tutte queste informazioni derivano dalla nostra esperienza personale: arriviamo dall'Italia al Giappone con il nostro gatto, a bordo di un camper! 
-Se ti fa piacere segui {{< extLink "le nostre avventure su YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}} dove raccontiamo tutte le nostre esperienze e consigli di viaggio. 
+Se ti fa piacere segui {{<extLink "le nostre avventure su YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1">}} dove raccontiamo tutte le nostre esperienze e consigli di viaggio. 
 
 Ti auguriamo di vivere un'avventura indimenticabile con il tuo animale domestico!
 
-{{< blogFooter "" "1" "0" >}}
+{{< blogFooter "" "1" "0">}}

@@ -13,7 +13,7 @@ Avevamo scritto di getto una decina di articoli mesi fa, poi tutto si era un po'
 Da quando siamo partiti ci siamo messi in gioco cercando di reinventarci in tanti modi ed essendo tutto nuovo occorrono non solo energia e voglia, ma anche tempo.
 Ed è proprio prendendo tempo, sedendoci attorno al tavolino del nostro van e sorseggiando un caffè, che abbiamo deciso di **avviare un nuovo progetto**: 
 
-{{< citazione "scrivere gli articoli delle nostre avventure!" >}}
+{{< citazione "scrivere gli articoli delle nostre avventure!">}}
 
 Avevamo già iniziato a farlo ma non ci avevamo creduto abbastanza. In tante occasioni abbiamo avuto modo di dare consigli a voce e quindi ci siamo detti: perché non condividere la nostra esperienza con tutti?
 
@@ -50,7 +50,7 @@ A Olimpia e Sakè manca davvero solo la parola quindi scriveremo noi per loro i 
 Avevamo l'abitudine di tener traccia delle nostre spese già quando abitavamo a Torino e abbiamo deciso di continuare a farlo anche viaggiando, sia per essere consapevoli di come stiamo conducendo questo stile di vita, sia per poter essere utili a chi voglia intraprendere un'esperienza simile e abbia il piacere di fare un confronto.
 Trovi i dettagli grafici [in questa sezione](/expanses/) oppure puoi vedere il nostro video relativo alle spese dopo sei mesi a bordo del van:
 
-{{< youtube CYJHHkg3_3s >}}
+{{< youtube CYJHHkg3_3s>}}
 
 ##### Newsletter
 Trovare il tempo di leggere qualcosa in più sappiamo bene che può essere impegnativo, ma ci fa piacere scrivere e inviare ogni settimana una piccola newsletter da qualsiasi parte nel mondo ci troviamo.

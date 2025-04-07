@@ -38,7 +38,7 @@ Esistono due principali modelli di patente internazionale, basati su diverse con
 
 La validità di entrambi i modelli è sempre nei limiti di validità della patente italiana posseduta.
 
-Le differenze principali tra i due modelli riguardano la durata di validità e i Paesi che riconoscono ciascuna convenzione. Prima di partire, è consigliabile visitare il sito di **{{< extLink "Viaggiare Sicuri" "www.viaggiaresicuri.it" >}}**, nella sezione **Mobilità**, per verificare quale modello di patente internazionale è richiesto nel Paese di destinazione.
+Le differenze principali tra i due modelli riguardano la durata di validità e i Paesi che riconoscono ciascuna convenzione. Prima di partire, è consigliabile visitare il sito di **{{<extLink "Viaggiare Sicuri" "www.viaggiaresicuri.it">}}**, nella sezione **Mobilità**, per verificare quale modello di patente internazionale è richiesto nel Paese di destinazione.
 
 Fortunatamente in Italia **è possibile ottenere sia l'uno che l'altro modello** di questa patente. 
 
@@ -55,7 +55,7 @@ Noi l'abbiamo fatta sempre **tramite ACI senza grossi problemi.**
 ##### Patente Internazionale con Motorizzazione Civile
 I documenti necessari per procedere alla richiesta tramite Motorizzazione Civile sono:
 
-1. **Modulo TT 746**: disponibile presso gli uffici della Motorizzazione Civile o {{< extLink "online sul Portale dell'automobilista" "https://www.ilportaledellautomobilista.it/modulistica/spamodulistica/?nomePdf=TT746&service=download" >}}
+1. **Modulo TT 746**: disponibile presso gli uffici della Motorizzazione Civile o {{<extLink "online sul Portale dell'automobilista" "https://www.ilportaledellautomobilista.it/modulistica/spamodulistica/?nomePdf=TT746&service=download">}}
 1. **Fotocopia della patente italiana** fronte-retro.
 2. **Due foto tessera** recenti di cui **una autenticata**.
 3. **Ricevuta di pagamento di un bollettino PagoPA**: da € 10,20 sul c/c 9001 e € 16,00 sul c/c 4028

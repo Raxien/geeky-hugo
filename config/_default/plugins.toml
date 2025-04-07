@@ -1,0 +1,11 @@
+[[plugins.js]]
+link = "https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"
+attributes = "defer"
+
+[[plugins.js]]
+link = "https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"
+attributes = "defer"
+
+[[plugins.js]]
+link = "assets/plugins/search/search.js"
+attributes = "defer" 

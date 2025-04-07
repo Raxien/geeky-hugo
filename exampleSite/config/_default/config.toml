@@ -4,7 +4,8 @@ disqusShortname = "vandipety-it"
 googleAnalytics = "G-E9L2CG2NZ6"
 languageCode = "it-IT"
 languageName = "It"
-paginate = "8"
+[pagination]
+  pagerSize = 10
 summaryLength = "20"
 theme = "geeky-hugo"
 title = "Vandipety"
@@ -25,7 +26,7 @@ delimiter = ""
 suffixes = [""]
 [module.hugoVersion]
 extended = true
-min = "0.87.0"
+min = "0.145.0"
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"

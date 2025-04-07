@@ -27,7 +27,7 @@ Ovviamente un ingrediente principe della pasta frolla del Gâteau Basque è il b
 È nella cottura in forno che i due dischi di pasta frolla si uniscono e diventano un vero e proprio scrigno di dolcezza.
 Davvero difficile scegliere fra uno dei tanti gusti disponibili, motivo per cui come primo assaggio abbiamo scelto il Gateau Basco classico tradizionale.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690376115/Articoli/rabat/gateau/gateau_basco_txp2fs.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690376115/Articoli/rabat/gateau/gateau_basco_txp2fs.jpg">}}
 
 ##### Una storia divertente: la nostra prova assaggio
 
@@ -39,7 +39,7 @@ Peccato che non fossero cioccolatini, bensì probabilmente "fudge", dei dolcetti
 Insomma se vuoi farti una risata in compagnai trovi tutto in questo video! 
 
 
-{{< youtube 3BQKTpHqFP4 >}} 
+{{< youtube 3BQKTpHqFP4>}} 
 
 E tu quale ripieno avresti scelto? Ti aspettiamo nei commenti. 
 

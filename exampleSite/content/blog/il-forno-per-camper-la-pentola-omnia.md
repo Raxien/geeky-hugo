@@ -29,13 +29,13 @@ Ammetto di aver tentato di preparare una galette farcita con marmellata in padel
 
 **Abbiamo deciso quindi di non giocare con il fuoco in tutti i sensi e di affidarci all'uso della pentola fornetto Omnia.**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/forno-omnia-camper_g459yh" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/forno-omnia-camper_g459yh">}}
 
 ##### La pentola fornetto Omnia
 
 Avevamo visto questa pentola fornetto tedesca, simile al fornetto versilia nella versione italiana, nel van di una coppia di due ragazzi tedeschi incontrati on the road. Ne siamo rimasti piacevolmente incuriositi e siamo felicissimi di averla portata a bordo con noi da quando siamo ripartiti per vivere da fulltimers sul van. 
 
-Tutti i pezzi del {{< extLink "**kit Omnia**" "https://tinyurl.com/OmniaSweden" >}} occupano uno spazio irrisorio se pensiamo alle potenzialità di ognuno dei componenti.
+Tutti i pezzi del {{<extLink "**kit Omnia**" "https://tinyurl.com/OmniaSweden">}} occupano uno spazio irrisorio se pensiamo alle potenzialità di ognuno dei componenti.
 
 All'interno del set si trovano: 
 - la pentola in acciaio con l'apposito coperchio
@@ -48,7 +48,7 @@ La struttura del forno è composta da tre parti che assieme forniscono calore so
 
 L'utilizzo è veramente semplice, basta mettere insieme gli ingredienti e controllare solo che la fiamma non sia troppo bassa nè troppo alta, poi attendere la meraviglia che ne esce per olfatto e gusto. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/forno-omnia-torta_wedtjw" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/forno-omnia-torta_wedtjw">}}
 
 ##### La prima ricetta a bordo
 
@@ -62,7 +62,7 @@ Abbiamo lasciato riposare il tutto ancora per 5 minuti con il coperchio, mentre 
 
 Curiosi? Eccovi il video!
 
-{{< youtube -MRGIo8DFHA >}}
+{{< youtube -MRGIo8DFHA>}}
 
 Nella versione che preparavamo a casa usavamo datterini tagliati a metà, rivolti a testa in sù, ricoperti di cubetti di feta. A bordo ci siamo arrangiati con gli ingredienti che avevamo, realizzando però un piatto davvero delizioso! 
 Ora non ci resta che metterci in gioco e sporcare di nuovo la cucina! Avete qualche ricetta semplice e veloce da consigliarci che potremmo provare a preparare nel nostro fornetto Omnia in ogni angolo di mondo in cui saremo? 

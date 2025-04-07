@@ -9,8 +9,8 @@ draft: false
 ---
 
 Il 18 maggio 2022 "**abbiamo chiuso la porta di casa e spalancato quella del van**". 
-Così recitava {{< extLink "il primo video \"corto\"" "https://youtube.com/shorts/XykgxzB3MUE" >}} (detto short) sul nostro canale YouTube. 
-Con una risata iniziava invece il nostro {{< extLink "primo video lungo" "https://youtu.be/Za72BX3mgNY" >}} nel quale ci presentavamo e raccontavamo perché avevamo deciso di cambiare la nostra vita.
+Così recitava {{<extLink "il primo video \"corto\"" "https://youtube.com/shorts/XykgxzB3MUE">}} (detto short) sul nostro canale YouTube. 
+Con una risata iniziava invece il nostro {{<extLink "primo video lungo" "https://youtu.be/Za72BX3mgNY">}} nel quale ci presentavamo e raccontavamo perché avevamo deciso di cambiare la nostra vita.
 
 **Duecentosessantatre** video dopo, tra contenuti lunghi e corti, abbiamo tirato le somme e preso una decisione: è ora di prendere una pausa.
 
@@ -20,11 +20,11 @@ Da quel momento è iniziata una **corsa** continua per registrare e montare vide
 
 - il 4 ottobre 2022 è uscito il nostro **centesimo video.**
 - il 14 ottobre 2022 il nostro canale **ha raggiunto 1000 iscritti!**
-- il 13 gennaio 2023 è andato in onda {{< extLink "il nostro primo podcast" "https://youtu.be/Z3IUhW6bUO8" >}}
+- il 13 gennaio 2023 è andato in onda {{<extLink "il nostro primo podcast" "https://youtu.be/Z3IUhW6bUO8">}}
 
 Oggi il nostro canale conta 3257 iscritti, 263 video e in 86 di questi **raccontiamo 410 giorni** della nostra vita tra avventure e disavventure in giro per l'Europa e l'Africa.
 
-**Quattrocentodieci giorni** della nostra vita sono nero su bianco (in realtà solo i bloopers il resto è a colori 😂) su {{< extLink "YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}}. Visibili 24 ore su 24 ore da chiunque.
+**Quattrocentodieci giorni** della nostra vita sono nero su bianco (in realtà solo i bloopers il resto è a colori 😂) su {{<extLink "YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1">}}. Visibili 24 ore su 24 ore da chiunque.
 
 E' stato bello, è stato tosto. 
 
@@ -37,9 +37,9 @@ E' ora di prenderci una pausa? Sì.
 
 Questo è quello che ho detto a Sara rientrando dal Marocco il primo giugno. Una scelta nata per non andare in burn-out e iniziare ad odiare qualcosa che amiamo e ora **definiamo lavoro**.
 
-E così è stato. Il 27 giugno abbiamo registrato l'ultimo episodio della {{< extLink "stagione 2 di Vandipety" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ929klaWueEsMuZZvFWZKIB" >}} e spento la videocamera. 
+E così è stato. Il 27 giugno abbiamo registrato l'ultimo episodio della {{<extLink "stagione 2 di Vandipety" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ929klaWueEsMuZZvFWZKIB">}} e spento la videocamera. 
 
-{{< youtube VJD3v8a7K7M >}}
+{{< youtube VJD3v8a7K7M>}}
 
 Il nostro viaggio però non si è interrotto: abbiamo continuato a registrare, questa volta solo **con gli occhi**. 
 Una decisone sofferta (sì siamo anche noi un po' vittime del dover fare e farlo bene) e più volte ci siamo detti "poteva uscirci un bel contenuto".

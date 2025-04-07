@@ -11,12 +11,12 @@ Da amanti della natura e degli animali, quando Mattia **ci ha proposto una passe
 
 ##### A cavallo ai piedi del Monviso 
 
-Il {{< extLink "Fly Ranch" "https://flyranch.it/" >}} è un maneggio che si trova a Paesana (in provincia di Cuneo), **in Borgata Belloni**, in Valle Po: un luogo immerso nella natura, circondato da boschi e colline, alle spalle dei quali svetta il Monviso.
+Il {{<extLink "Fly Ranch" "https://flyranch.it/">}} è un maneggio che si trova a Paesana (in provincia di Cuneo), **in Borgata Belloni**, in Valle Po: un luogo immerso nella natura, circondato da boschi e colline, alle spalle dei quali svetta il Monviso.
 
 La prima cosa che ci ha colpiti di Mattia è stata la sua professionalità: non appena siamo arrivati al maneggio ha registrato i nostri dati per l'assicurazione e ci ha consegnato gli elmetti. 
 **La sicurezza prima di tutto**, cosa che ci ha permesso di sentirci ancor più a nostro agio.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/FlyRanch/mattia_fly_ranch_cavallo_sq7sld.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/FlyRanch/mattia_fly_ranch_cavallo_sq7sld.jpg">}}
 
 Sellati i cavalli siamo partiti per una passeggiata davvero emozionante, a suon di chiacchierate e risate.
 
@@ -24,7 +24,7 @@ Sellati i cavalli siamo partiti per una passeggiata davvero emozionante, a suon 
 
 Insomma la nostra ora a cavallo in compagnia di Mattia è davvero volata, tant'è che ci è dispiaciuto **non riuscire a tornare a salutarlo prima di ripartire.** 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/FlyRanch/cavallo_primo_piano_yveuvy.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/FlyRanch/cavallo_primo_piano_yveuvy.jpg">}}
 
 ##### Un'esperienza per tutti 
 
@@ -35,11 +35,11 @@ Al Fly Ranch Mattia e la sua compagna offrono diverse attività:
 - battesimo della sella, non solo al maneggio ma anche in una cornice più entusiasmante ai piedi del Monviso (a Pian Munè o a Crissolo)
 - pensioni per cavalli privati. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/FlyRanch/primo_piano_persona_cavallo_uk6wtd.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/FlyRanch/primo_piano_persona_cavallo_uk6wtd.jpg">}}
 
 Insomma se come noi amate gli animali e la natura forse quest'esperienza potrebbe essere ideale da condividere con qualcuno di speciale, anche come idea regalo. 
 Se doveste recarvi al Fly Ranch fatecelo sapere e mandateci qualche fotografia, sarà come essere un po' lì con voi! 
 
 Intanto, volete vedere come ce la siamo spassata noi quel giorno? **Clicca play qua sotto** e mettetevi comodi!
 
-{{< youtube 2hzl_yo9Uw4 >}}
+{{< youtube 2hzl_yo9Uw4>}}

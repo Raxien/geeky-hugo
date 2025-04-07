@@ -53,9 +53,9 @@ Vi vedo che siete virtuosi.. tirate fuori i calici e servitevi quel vino bianco 
 
 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094775/Articoli/empanada/IMG_3098_j6rtcg.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094775/Articoli/empanada/IMG_3098_j6rtcg.jpg">}}
 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094748/Articoli/empanada/IMG_3100_gawwoe.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094748/Articoli/empanada/IMG_3100_gawwoe.jpg">}}
 
 <!-- to do mettere foto e footer -->

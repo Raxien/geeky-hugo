@@ -3,7 +3,7 @@ title: 'Armenia paese numero 31!'
 description: 'Alla scoperta delle ultime donne al mondo a celebrare questo rituale'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1713011125/Articoli/Direzione%20giappone/Direzione19/ushguli-dall-alto_hzhbkm.jpg
 date: 2024-07-01T7:00:00+01:00
-categories: [ "Direzione Giappone", "Armenia"]
+categories: [ "Direzione Giappone", "Camper"]
 type: featured  
 country: Armenia 
 draft: false
@@ -26,7 +26,7 @@ Nonostante non conoscessimo la lingua cecena e il dialetto kist in cui cantavano
 
 È stata un’esperienza potente, coinvolgente, incredibile, tanto da non resistere ad abbracciarle una ad una, come nonne ritrovate lungo la via. 
 
-{{< youtube "mpnY3GhECxk" >}}
+{{< youtube "mpnY3GhECxk">}}
 
 Arigatou, alla prossima.
 

@@ -31,7 +31,7 @@ Un set composto da 1 padella e 2 pentole:
 3. la padella per la frittata o per cuocere le verdure 
 
 ###### 2. Leccapentole
-Un **must have** per evitare di sprecare cucchiaiate {{< extLink "di sugo in padella!" "https://amzn.to/3O7uU7D" >}}
+Un **must have** per evitare di sprecare cucchiaiate {{<extLink "di sugo in padella!" "https://amzn.to/3O7uU7D">}}
 
 ###### 3. Contenitori impilabili
 Ne abbiamo una serie in bio plastica con annessi coperchi. **Tengono poco spazio** e le misure si addicono a ogni necessità.
@@ -40,11 +40,11 @@ Ne abbiamo una serie in bio plastica con annessi coperchi. **Tengono poco spazio
 Il caffè a bordo è una cosa sacra. Va bevuto **nella tazzina giusta.** 
 Che una delle due sia caduta a terra e le si sia rotto il manico poco importa. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690377958/Articoli/Viaggio/tazzine-caffe_z2v792.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690377958/Articoli/Viaggio/tazzine-caffe_z2v792.jpg">}}
 _Prese con i punti Dí per Dí, ve lo ricordate?_
 
 ###### 5. Moka
-Come dicevamo il caffè è sacro e va preparato {{< extLink "nella moka" "https://amzn.to/3Qa8IMZ" >}}, come ci hanno insegnato le nostre nonne.
+Come dicevamo il caffè è sacro e va preparato {{<extLink "nella moka" "https://amzn.to/3Qa8IMZ">}}, come ci hanno insegnato le nostre nonne.
 
 ###### 6. Set di posate in acciaio
 Saranno anche comode le posate di plastica ma ben venga un set di 4 forchette, coltelli, cucchiai e cucchiaini recuperati da casa. Si lavano in un baleno e non si rompono mai **(spero..!)**
@@ -56,9 +56,9 @@ Non volevamo piatti in ceramica a bordo, ma nemmeno i classici piatti di plastic
 Quella del servizio di matrimonio dei miei, signor sì. 
 Non condividiamo con precisione la data di compleanno, però troppi anni di gioie mancate quelli sì. Così ho deciso di averla a bordo e sfruttarla in una miriade di preparazioni: dal riso alla purea ai legumi ai sughi alle verdure ... insomma **ci cuocio di tutto**! 
 
-{{< extLink "Lei" "https://amzn.to/3Ov3v0V" >}} riduce i tempi di cottura, il consumo di gas e noi siamo più felici perché le pance **si riempiono prima.**
+{{<extLink "Lei" "https://amzn.to/3Ov3v0V">}} riduce i tempi di cottura, il consumo di gas e noi siamo più felici perché le pance **si riempiono prima.**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690377964/Articoli/Viaggio/pentola-a-pressione_plwolo.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690377964/Articoli/Viaggio/pentola-a-pressione_plwolo.jpg">}}
 _La salvezza!_
 
 ###### 9. Coperchi in silicone
@@ -76,6 +76,6 @@ Che te ne pare? **Manca qualcosa di fondamentale?**
 
 Se invece vuoi qualche consiglio sul come fare la spesa a bordo e su come evitare sprechi in cucina trovi tutto in questo video! 
 
-{{< youtube rCvzJ8LsRrc >}}
+{{< youtube rCvzJ8LsRrc>}}
 
-{{< blogFooter "" "0" "0" >}}
+{{< blogFooter "" "0" "0">}}

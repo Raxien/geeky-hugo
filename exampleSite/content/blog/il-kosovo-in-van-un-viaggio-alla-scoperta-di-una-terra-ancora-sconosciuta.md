@@ -52,14 +52,14 @@ I maggiori punti di interesse della città secondo noi sono:
 1. **il monumento ai caduti**: nella piazza centrale di Pejë si erge la statua dedicata al padre fondatore dell'Albania, strano vero? Questo perché i kosovari si definiscono **"albanesi kosovari"** (infatti la lingua ufficiale è l'albanese)!
 2. **l'Hotel Korza**: uno dei simboli della città, era il più antico hotel, eretto ad inizio 1900, ora diventato sede di una banca. Alla sua sinistra troverete ahimè uno degli edifici **più brutti della città**.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862720/Articoli/kosovo/peje-hotel-edificio-brutto_ywnoss.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862720/Articoli/kosovo/peje-hotel-edificio-brutto_ywnoss.jpg">}}
 _Giudicate voi_
 
 3. **il bazar**: affascinante bazar nel centro della città, mantiene alcuni scorci di un passato lontano.
 4. **il monastero Patriarcale di Pec**: forse **il vero motivo** per cui dovreste venire a Pejë e uno dei luoghi che più ci ha emozionati. Patrimonio UNESCO, **è uno dei monasteri serbo-ortodossi più belli che abbiamo visto** in questo tour dei balcani, sia all'esterno grazie al bellissimo viale che conduce al portone di ingresso e alla foresta di Rugova che compare all'orizzonte, sia all'interno dove trovere un'infinità di affreschi perfettamente conservati. Una gioia per gli occhi. Portatevi un documento di identità, vi verrà richiesto dai militari che presidiano l'ingresso: nessuna paura, è un luogo che trasmette pace in ogni dettaglio. 
 5. **il parco Nazionale di Rugova**: se amate i trekking, le ferrate o camminare nella natura, dedicate una o più giornate alla visita di questo parco nazionale, che si trova poco oltre la cittadina di Pejë.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862720/Articoli/kosovo/peje-monastero_aelstb.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862720/Articoli/kosovo/peje-monastero_aelstb.jpg">}}
 
 Se prima citavamo alcune ragioni culinarie per visitare questi luoghi è perché Pejë è famosa perché da i natali **alla omonima, e buonissima, birra nazionale** mentre il prodotto tipico della vallata di Rugova è il famoso **formaggio di Rugova**, simile alla feta come consistenza, dal gusto molto salato. 
 Entrambi questi prodotti potete gustarli nei numerosi bar o ristoranti oppure acquistarli al supermercato.
@@ -91,7 +91,7 @@ Ovviamente l'abbiamo scoperto solo cammin facendo, ma abbiamo deciso di tirar fu
 Noi abbiamo parcheggiato presso **il ristorante Villa Park**, approfittando anche di poter dormire una notte tranquillamente e con possibilità di accedere gratuitamente al Wi-Fi. Per ringraziare dell'ospitalità abbiamo ordinato due caffè (0.70 € a caffè) e ammirato l'interno del locale che è veramente particolare. 
 Se doveste recarvici salutate da parte nostra il custode del giardino, che parla italiano in quanto ha vissuto 12 anni a Firenze.
 
-{{< youtube QS-N-wQvHq0 >}}
+{{< youtube QS-N-wQvHq0>}}
 _Scopri con noi la ferrata alle cascatate di Mirusha!_
 
 ###### Prizren: "There's a lot to see"
@@ -161,14 +161,14 @@ Il santuario degli orsi dista circa 20 km dalla capitale e d è visitabile con u
 
 Nota di merito: è disponibile un parcheggio gratuito per i camper, con fontana d'acqua potabile. Wi-Fi (quando è aperto) e toilette sono disponili all'interno del centro negli orari di apertura.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862720/Articoli/kosovo/kosovo-bear-sancturay-orso_kbzugk.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862720/Articoli/kosovo/kosovo-bear-sancturay-orso_kbzugk.jpg">}}
 
 ###### Il monastero di Gračanica
 
 Sempre nei dintorni della capitale si trova il monastero serbo-ortodosso di Gračanica, situato nella omonima città. Costruito nel XIV secolo, fa parte del patrimonio culturale serbo-ortodosso del Kosovo ed è famoso sia per i suoi affreschi medievali ben conservati che raccontano la storia della Bibbia, sia per essere un capolavoro dell'architettura serba medievale. Il monastero è stato dichiarato patrimonio dell'umanità dall'UNESCO nel 2004.
 
 A differenza degli altri monasteri non vengono richiesti i documenti ma permane il divieto di scattare fotografie all'interno.
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862720/Articoli/kosovo/kosovo-gracanica-monastero_xatboe.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862720/Articoli/kosovo/kosovo-gracanica-monastero_xatboe.jpg">}}
 
 ###### Pristina: Newborn!
 
@@ -244,50 +244,50 @@ myWidget2.render();
 Le Grotte di Gadime, scoperte per caso nel 1969 da un contadino del luogo (e scoperte da noi per caso cercando un punto dove sostare), permettono alla modica cifra di 2€, di ammirare stalattiti e stalagmiti davvero particolari in un cunicolo di grotte lungo un paio di chilometri. 
 La visita dura circa mezz'ora e nel nostro caso un ragazzo gentilissimo anche se non parlava inglese ha provato a spiegarsi al meglio per farci ammirare alcune figure create dalle rocce.
 
-{{< youtube tBHoCNmERUk >}}
+{{< youtube tBHoCNmERUk>}}
 
 ##### Itinerario
 
 Come vi scrivevamo nella sezione precedente, le mete che vi abbiamo elencato sono in ordine di visita entrando dal Montenegro e uscendo verso la Macedonia. Se doveste visitare il paese arrivando direttamente a Pristina potreste valutare anche questo itinerario: 
 
-**{{< underline "Giorno 1-2" >}}**: Arrivo a Pristina e visita della città
+**{{< underline "Giorno 1-2">}}**: Arrivo a Pristina e visita della città
 
-**{{< underline "Giorno 3" >}}**: Marble Cave a Gadime, il monastero di Gracanica, Bear Sanctuary
+**{{< underline "Giorno 3">}}**: Marble Cave a Gadime, il monastero di Gracanica, Bear Sanctuary
 
-**{{< underline "Giorno 4" >}}**: Prizren
+**{{< underline "Giorno 4">}}**: Prizren
 
-**{{< underline "Giorno 5" >}}**: Gjakova e le cascate di Mirusha 
+**{{< underline "Giorno 5">}}**: Gjakova e le cascate di Mirusha 
 
-**{{< underline "Giorno 6" >}}**: Monastero di Decan, Peje e il santuario patriarcale
+**{{< underline "Giorno 6">}}**: Monastero di Decan, Peje e il santuario patriarcale
 
 ##### Tour culinario
 In questo viaggio alla scoperta del Kosovo non potevamo non assaggiare alcuni piatti e prodotti tipici del paese. Purtroppo molte ricette prevedono l'utilizzo della carne che noi non mangiamo, per cui abbiamo ristretto un po' il cerchio rimanendo però piacevolmente stupiti. 
 
-**{{< underline "Formaggio Rugova" >}}**: è un formaggio che ricorda sia nella forma che nella consistenza e nel gusto la molto più rinomata feta.
+**{{< underline "Formaggio Rugova">}}**: è un formaggio che ricorda sia nella forma che nella consistenza e nel gusto la molto più rinomata feta.
 Viene prodotto a nord del paese, nella Rugova valley, e si trova sia nei ristoranti che nella grande distribuzione. 
 
-**{{< underline "La birra Peje" >}}**: questa birra, nata nel 1968, è un simbolo del paese e dal 1971 viene prodotta direttamente a Peja città.
+**{{< underline "La birra Peje">}}**: questa birra, nata nel 1968, è un simbolo del paese e dal 1971 viene prodotta direttamente a Peja città.
 
-**{{< underline "Lecenik" >}}**: il leçenik è una specie di pane morbido all'interno preparato con farina di mais che garantisce una crosta croccante. Spesso viene impastato con il kos (una sorta di yogurt) oppure con spinaci, ortiche o cipolle.
+**{{< underline "Lecenik">}}**: il leçenik è una specie di pane morbido all'interno preparato con farina di mais che garantisce una crosta croccante. Spesso viene impastato con il kos (una sorta di yogurt) oppure con spinaci, ortiche o cipolle.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862720/Articoli/kosovo/kosovo-cosa-mangiare_g78zhe.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862720/Articoli/kosovo/kosovo-cosa-mangiare_g78zhe.jpg">}}
 _Il kit di sopravvivenza in Kosovo_
 
-**{{< underline "Treleche" >}}**: uno dei dolci tipici del Kosovo e di tutti i Balcani, noto anche come tre latti, è un dolce dalla consistenza morbida ricoperto di caramello. Lo trovate nelle pasticcerie ma anche in alcune bancarelle di streetfood. 
+**{{< underline "Treleche">}}**: uno dei dolci tipici del Kosovo e di tutti i Balcani, noto anche come tre latti, è un dolce dalla consistenza morbida ricoperto di caramello. Lo trovate nelle pasticcerie ma anche in alcune bancarelle di streetfood. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862720/Articoli/kosovo/kosovo-treleche_qhx1oz.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1682862720/Articoli/kosovo/kosovo-treleche_qhx1oz.jpg">}}
 
-**{{< underline "Flija Cope" >}}**: è un prodotto da forno caratterizzato dalla sovrapposizione di vari strati simili a crepe o pancake.
+**{{< underline "Flija Cope">}}**: è un prodotto da forno caratterizzato dalla sovrapposizione di vari strati simili a crepe o pancake.
 
-**{{< underline "Pane di Mais" >}}**: tipico pane dalla consistenza più solida preparato con farina di mais. Consigliamo di abbinarlo ai formaggi!
+**{{< underline "Pane di Mais">}}**: tipico pane dalla consistenza più solida preparato con farina di mais. Consigliamo di abbinarlo ai formaggi!
 
-**{{< underline "La pizza" >}}**: la pizza sì, hai letto bene! Nel nostro tour culinario in questo paese abbiamo voluto magiare una buona pizza! Non è raro trovare pizzerie in Kosovo, nel nostro caso abbiamo scelto con cura assaggiando i buonissimi prodotti della pizzeria "La Napoletana".
+**{{< underline "La pizza">}}**: la pizza sì, hai letto bene! Nel nostro tour culinario in questo paese abbiamo voluto magiare una buona pizza! Non è raro trovare pizzerie in Kosovo, nel nostro caso abbiamo scelto con cura assaggiando i buonissimi prodotti della pizzeria "La Napoletana".
 
 ##### Informazioni
 Di seguito alcune informazioni utili per visitare il paese in auto o camper in tutta tranquillità.
 
 ###### Assicurazione sanitaria
-{{< assicurazione >}}
+{{< assicurazione>}}
 
 ###### Strade 
 Le strade sul territorio del Kosovo sono in buono stato e non abbiamo trovato grosse difficoltà nel muoverci attraverso il paese, anche percorrendo strade secondarie. 
@@ -311,18 +311,18 @@ I costi variano in base al mezzo e secondo noi anche un po' all'assicuratore che
 
 Quando siamo arrivati alla frontiera l'assicuratore voleva farci pagare 138 euro credendo che il nostro mezzo fosse un camion. Dopo aver mostrato che è un autocaravan/camper grazie alla dicitura sul libretto abbiamo pagato 15 euro. Sappiamo però che altri camperisti entrando da altre frontiere hanno pagato 77 euro. 
 
-Noi siamo entrati dall'unica frontiera aperta {{< extLink "fra Montenegro e Kosovo" "https://maps.app.goo.gl/LwB4EZ1RsvikkMP38" >}} e {{< extLink "usciti verso la frontiera Macedone" "https://maps.app.goo.gl/nCdxWHAiLZxZGoxw5" >}} e in nessuna delle due abbiamo avuto problemi, anzi. Per la prima volta abbiamo trovato dei doganieri simpatici e felici di incontrarci!
+Noi siamo entrati dall'unica frontiera aperta {{<extLink "fra Montenegro e Kosovo" "https://maps.app.goo.gl/LwB4EZ1RsvikkMP38">}} e {{<extLink "usciti verso la frontiera Macedone" "https://maps.app.goo.gl/nCdxWHAiLZxZGoxw5">}} e in nessuna delle due abbiamo avuto problemi, anzi. Per la prima volta abbiamo trovato dei doganieri simpatici e felici di incontrarci!
 
 ###### Viaggiare con il proprio animale
 {{< animali "EX">}}
 
 ##### Il nostro Vlog 
-Se vuoi rivivere le nostre avventure trovi la **{{< extLink "playlist completa qui" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-7swbxxVk-IMXnyrJLuH04" >}}** oppure premi play qui sotto:
+Se vuoi rivivere le nostre avventure trovi la **{{<extLink "playlist completa qui" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-7swbxxVk-IMXnyrJLuH04">}}** oppure premi play qui sotto:
 
-{{< youtube -AWumnDAAI0 >}}
+{{< youtube -AWumnDAAI0>}}
 _Ovviamente il titolo è provocativo!_
 
 ##### Le nostre mappe
-{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1fuaGW8i4r5isH2s5RpLgJl3ZJXeNN8s&ehbc=2E312F" >}}
+{{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1fuaGW8i4r5isH2s5RpLgJl3ZJXeNN8s&ehbc=2E312F">}}
 
-{{< blogFooter "RKS" "1" "0" >}}
+{{< blogFooter "RKS" "1" "0">}}

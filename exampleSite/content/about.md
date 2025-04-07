@@ -14,7 +14,7 @@ Per il momento abbiamo visitato 15 paesi fra Europa e Africa e ogni confine che 
 
 Amiamo fermarci a chiacchierare con chiunque: persone del posto, stranieri come noi, italiani come noi.
 
-Ogni giorno cerchiamo nuovi stimoli anche lavorativi e creativi, motivo per cui abbiamo deciso di aprire questo blog e {{< extLink "un canale YouTube" "https://www.youtube.com/@vandipety" >}}, in modo da poter raccontare la nostra esperienza e condividere tutto ciò che scopriamo.
+Ogni giorno cerchiamo nuovi stimoli anche lavorativi e creativi, motivo per cui abbiamo deciso di aprire questo blog e {{<extLink "un canale YouTube" "https://www.youtube.com/@vandipety">}}, in modo da poter raccontare la nostra esperienza e condividere tutto ciò che scopriamo.
 
 Le nostre mete future? 
 Siamo cambiati tanto da quando siamo partiti. Se un tempo avevamo bisogno di sapere dove avremmo aperto gli occhi l'indomani, oggi lasciamo molto più spazio all'improvvisazione. Il mondo qua fuori offre a volte strade che sarebbe un peccato non percorrere. 
