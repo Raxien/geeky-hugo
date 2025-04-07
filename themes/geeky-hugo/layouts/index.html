@@ -22,8 +22,16 @@
                 {{ if $imagePath }}
                 <!-- image CDN -->
                 {{ if hasPrefix $imagePath "http" }}
-                <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Title }}"
-                  class="img-fluid rounded-4 align-self-start" width="105" height="85">
+                <div class="image-container" style="width: 105px; height: 85px; position: relative; flex-shrink: 0;">
+                  <img loading="lazy" decoding="async" 
+                    src="{{ $imagePath | safeURL }}" 
+                    srcset="{{ $imagePath | safeURL }} 1x, {{ $imagePath | safeURL }} 2x"
+                    alt="{{ .Title }}"
+                    class="img-fluid rounded-4" 
+                    width="105" 
+                    height="85"
+                    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                </div>
                 {{ else }}
                 <!-- /image cdn -->
 
@@ -32,9 +40,16 @@
                 {{ $image:= resources.Get $imagePath }}
                 {{ $imageFallback:= $image.Fill "105x85" }}
                 {{ $imageWebp:= $image.Fill "105x85 webp" }}
-                <img loading="lazy" decoding="async" src="{{$imageWebp.RelPermalink}}" alt="{{ .Title }}" width="105" height="85"
-                  class="img-fluid rounded-4 align-self-start"
-                  onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
+                <div class="image-container" style="width: 105px; height: 85px; position: relative; flex-shrink: 0;">
+                  <img loading="lazy" decoding="async" 
+                    src="{{$imageWebp.RelPermalink}}" 
+                    alt="{{ .Title }}" 
+                    width="105" 
+                    height="85"
+                    class="img-fluid rounded-4"
+                    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;"
+                    onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
+                </div>
                 {{ end }}
                 <!-- /image processing for single device -->
                 {{ end }}
