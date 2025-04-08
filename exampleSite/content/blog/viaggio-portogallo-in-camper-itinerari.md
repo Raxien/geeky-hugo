@@ -1,7 +1,7 @@
 ---
 title: 'Portogallo on the road con animali | Guida e itinerari'
 description: "Alla scoperta del Portogallo, un viaggio on the road attraverso Porto e Lisbona fino a raggiungere le scogliere l'Algarve. Itinerari completi per tutti i gusti"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1683816018/IMG_1491_f1hx1p.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683816018/IMG_1491_f1hx1p.jpg
 date: 2023-04-10T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Portogallo 
@@ -41,7 +41,7 @@ Alla scoperta di Porto e di altre tre cittadine del Portogallo del Nord:
 
 Trovi [l'itinerario completo qui](/blog/viaggio-portogallo-del-nord-e-porto-informazioni-e-itinerari/).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1683816072/IMG_2056_wv38d1.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683816072/IMG_2056_wv38d1.jpg">}}
 
 ###### Da Aveiro a Lisbona
 Città con case dalle pareti colorate e onde dell'oceano indimenticabili. Alla scoperta di Lisbona e di tante altre piccole realtà del centro del Portogallo:
@@ -61,7 +61,7 @@ Città con case dalle pareti colorate e onde dell'oceano indimenticabili. Alla s
 
 Trovi [l'itinerario completo qui](/blog/viaggio-portogallo-centro-e-lisbona-itinerari/).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1683816075/IMG_2026_ir5z9v.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683816075/IMG_2026_ir5z9v.jpg">}}
 
 ###### L'alentejo
 
@@ -88,7 +88,7 @@ Una delle mete più rinomate del turismo portoghese: spiagge stupende, scogliere
 
 Trovi [l'itinerario completo qui](/blog/viaggio-portogallo-algarve-itinerari/).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1683816124/IMG_3301_o9zgqv.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683816124/IMG_3301_o9zgqv.jpg">}}
 
 ##### Strade 
 In Portogallo trovi autostrade (AE), le superstrade, suddivise in ‘Itinerários Principais’ (IP) e ‘Itinerários Complementares’ (IC), le strade nazionali (EN) e le strade comunali.
@@ -126,7 +126,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "Alentejo">}}**: meno turistico ma se ami la natura e la costa fa la caso tuo.
 -   **{{< bold "Algarve">}}**: a noi le cittadine di questa regione non sono piaciute, ma le scogliere meritano sicuramente una visita. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1683816045/IMG_1739_fzeeir.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683816045/IMG_1739_fzeeir.jpg">}}
 
 ##### Il nostro Vlog 
 Puoi trovare la serie completa delle nostre avventure in Portogallo {{<extLink "a questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ9fxLqD_0GFKVZBwnHQiM4I">}}.

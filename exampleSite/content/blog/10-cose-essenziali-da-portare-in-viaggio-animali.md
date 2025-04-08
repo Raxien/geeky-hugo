@@ -1,7 +1,7 @@
 ---
 title: 'Viaggio con cane e gatto: le 10 cose essenziali da portare con te!'
 description: Scopri le 10 cose essenziali da avere per un viaggio indimenticabile con il tuo animale! Leggi il nostro articolo per pianificare al meglio la tua avventura.
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689522826/Articoli/Viaggio/gatto-guinzaglio_sl2l8z.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689522826/Articoli/Viaggio/gatto-guinzaglio_sl2l8z.jpg
 date: 2023-07-18T7:00:00+01:00
 categories: [ "Animali", "Consigli"]
 type: regular   
@@ -21,7 +21,7 @@ Se pensi, come facciamo noi, di usare anche tu la stessa borraccia, ti consiglia
 In qualsiasi modo scegli di viaggiare una scorta di cibo per il tuo animale è fondamentale.
 Noi consigliamo {{<extLink "questo umido per il gatto" "https://amzn.to/3ptyyjr">}} e {{<extLink "questo secco per il cane" "https://amzn.to/42DJE3Y">}}. Ricordati di calcolare bene le quantità necessarie in modo da non trovarti senza a metà del viaggio e impazzire nella ricerca!
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_auto,q_auto:eco/v1689522820/Articoli/Viaggio/cane-sguardo_he2ofa.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689522820/Articoli/Viaggio/cane-sguardo_he2ofa.jpg">}}
 
 ##### 4. Cinture di Sicurezza 
 Se come noi viaggi on the road, in auto o camper o van, ti consigliamo di assicurare con pratiche {{<extLink "ad una cintura di sicurezza" "https://amzn.to/3DdIlhm">}} il tuo animale, in modo da evitare spiacevoli incidenti. In alternativa puoi pensare di usare i pratici kennel e trasportini.
@@ -32,7 +32,7 @@ Se il tuo animale è abituato a riposare e dormire nella sua {{<extLink "sua cuc
 ##### 6. Guinzaglio
 Noi usiamo sempre il guinzaglio per passeggiare con i nostri animali, per evitare spiacevoli disavventure con altri animali o con altre persone (ci è successo più volte che animali randagi o liberi attaccassero il nostro cane!).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_auto,q_auto:eco/v1689522820/Articoli/Viaggio/cane-prato_symbj3.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689522820/Articoli/Viaggio/cane-prato_symbj3.jpg">}}
 
 ##### 7. Museruola
 In alcuni paesi la museruola è d'obbligo averla dietro, in altri invece da indossare, soprattutto per alcune razze particolari. 
@@ -49,7 +49,7 @@ Ebbene sì, per viaggiare con il proprio animale servono alcuni documenti import
 Vuoi scoprire quali? 
 Ne abbiamo parlato [in questo articolo!](/blog/viaggiare-con-cane-e-gatto-tutto-quello-che-devi-sapere)
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_auto,q_auto:eco/v1689522820/Articoli/Viaggio/coniglio-al-guinzaglio_binbrs.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689522820/Articoli/Viaggio/coniglio-al-guinzaglio_binbrs.jpg">}}
 _Vale anche se avete un coniglio al guinzaglio 🐰_
 
 ##### Consigli

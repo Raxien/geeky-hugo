@@ -1,7 +1,7 @@
 ---
 title: 'La colazione turca è una cosa seria!'
 description: Oggi vi portiamo a scoprire il kahvaltı, ovvero la colazione turca!
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione4/colazione-turca-con-noi_qaixu6.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione4/colazione-turca-con-noi_qaixu6.jpg
 date: 2024-05-01T7:00:00+01:00
 categories: [ "Direzione Giappone", "Turchia"]
 type: featured  
@@ -24,7 +24,7 @@ Una stufa al centro, un unico tavolo, un calcio balilla, un vecchio divano, un d
 
 Si fa così qui, si beve tè nell’attesa.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione4/cay-il-te-turco_veafsf.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione4/cay-il-te-turco_veafsf.jpg">}}
 
 Non siamo riusciti a rimanere con le mani in mano, incuriositi dalla danza che iniziava nella stanza alle nostre spalle. 
 **Sul tavolo centrale sono apparsi pomodori, peperoni, olive, contenitori in vetro dai colori più disparati,** un salame, uova, fettine di patata da rosolare in un padellino, il pane da tagliare a fette. È comparso anche un rotolo di carta igienica e mentre spalancavo gli occhi incredula ho scoperto che sarebbe servito per pulire le lame dei coltelli. Siamo tornati a bere il tè, senza rovinare un ritmo che non ci competeva, scaldandoci vicino alla stufa. 
@@ -39,7 +39,7 @@ Formaggio, verdure cotte, verdure crude, miele, marmellata d’uva, marmellata d
 Ci sembrava di essere re e regina serviti nella sala regale con il tavolo lungo, i candelabri al centro e noi a un capo e all’altro.
 Era tutto vero invece.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione4/colazione-turca-piatti_w3lyos.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione4/colazione-turca-piatti_w3lyos.jpg">}}
 
 Ogni sapore era autentico, di piatti freschi appena cucinati, di chi sa fare il proprio lavoro in modo semplice ma preciso. 
 Quando Fatma, la cuoca, si è rivolta a noi il traduttore ci ha rivelato **“avete altro da chiedere a questa vostra mamma?”.** 

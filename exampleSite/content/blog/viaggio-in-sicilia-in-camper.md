@@ -1,7 +1,7 @@
 ---
 title: 'Sicilia in camper: il nostro itinerario e qualche consiglio culinario'
 description: "In questo articolo ti porteremo alla scoperta di spiagge, siti archeologici, promontori, città e località turistiche della Sicilia on the road!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1688991540/Articoli/Sicilia/sicilia-vista-mare_r1glpo.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1688991540/Articoli/Sicilia/sicilia-vista-mare_r1glpo.jpg
 date: 2023-07-09T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Italia
@@ -24,13 +24,13 @@ Abbiamo letteralmente amato questa regione italiana sia per i luoghi fantastici 
 
 **{{< underline "Giorno 2">}}**: In mattinata abbiamo fatto due passi nella piccola città di Sant'Alessio Siculo per poi spostarci a **Taormina**. Abbiamo posteggiato {{<extLink "davanti alla stazione" "https://goo.gl/maps/S6nSL73uBycnbmHi7">}} per prendere il pullman per ragiungere la parte alta della città, ma dopo mezz'ora di attesa abbiamo deciso di avventurarci a piedi! In alternativa puoi prendere {{<extLink "la funicolare" "http://www.gotaormina.com/en/taormina/cable_car.html">}}, al costo di 3 euro a tratta.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1688983880/Articoli/Sicilia/taormina-anfitetro_cqvowj.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1688983880/Articoli/Sicilia/taormina-anfitetro_cqvowj.jpg">}}
 
 Taormina è una gradevola città con scorci stupendi, in cui l'attrattiva principale è il {{<extLink "Teatro Antico" "http://www.parconaxostaormina.com/">}} che accetta anche gli animali! Dopo aver fatto i turisti fra luoghi pieni di storia e viuzze del paese siamo scesi verso la spiaggia dell'**isola Bella**, poi siamo tornati al camper, questa volta in pullman, per dirigerci prima a **Giardini Naxos** (forse merita una sosta d'estate? d'inverno si può evitare), poi verso la spiaggia del Mulino di Acireale dove abbiamo trovato uno spiazzo per dormire tranquillamente in libera cullati dalle onde del mare.
 
 **{{< underline "Giorno 3">}}**: Il giorno successivo ci siamo spostati ad **Acireale**, parcheggiando davanti al {{<extLink "bar Kennedy" "https://goo.gl/maps/oupP99bMWv5g5YzBA">}} per assaggiare la famosa granita siciliana: super approvata! Per smaltire la colazione abbiamo deciso di visitare la città a piedi partendo da {{<extLink "Villa Belvedere" "http://www.comune.acireale.ct.it/">}} per poi proseguire verso il centro visitando la **Basilica Cattedrale Maria SS.ma Annunziata** e la **Basilica Collegiata di San Sebastiano**. Nel pomeriggio abbiamo visitato **Aci Trezza** e le **sue Isole dei Ciclopi**, **Aci Castello** e il suo castello. In serata ci siamo spostati a Catania per dormire presso una struttura {{<extLink "un po' fuori dalla città" "https://park4night.com//lieu/245826/">}}. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1688983860/Articoli/Sicilia/taormina-isola-bella_prmarr.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1688983860/Articoli/Sicilia/taormina-isola-bella_prmarr.jpg">}}
 
 **{{< underline "Giorno 4">}}**: Potevamo raggiungere Catania in pullman, ma abbiamo preferito spostarci con il camper e parcheggiare **{{<extLink "presso la dogana" "https://goo.gl/maps/XxZMJ3f7a9hjcnFD7">}}**. Un posto tranquillo, economico e vicino al centro (e all'ombra). Ci siamo persi a passeggio per la città, purtroppo **non pulitissima ma affascinante**. Partendo dal mercato ci siamo diretti verso la piazza con il simbolo della città ovvero la **Fontana dell'Elefante**, per poi proseguire lungo la via principale, via Etnea, fino a raggiungere i giardini di **Villa Bellini** dai quali si può godere di uan bellissima vista sull'Etna. Infine abbiamo raggiunto il **Monastero dei Benedettini di San Nicolò l'Arena** per poi tornare al camper. 
 
@@ -42,7 +42,7 @@ Dopo la visita e dopo pranzo ci siamo diretti verso **{{<extLink "l'Agricampeggi
 
 **{{< underline "Giorno 6">}}**: abbiamo raggiunto a piedi la vicina **Punta Secca**, famosa per la **casa di Montalbano**.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1688983876/Articoli/Sicilia/valle-dei-templi-tempio-gatto_bdlwdd.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1688983876/Articoli/Sicilia/valle-dei-templi-tempio-gatto_bdlwdd.jpg">}}
 
 **{{< underline "Giorno 7">}}**: ci siamo spostati a **Scicli**, perdendoci nelle viuzze, ammirando il **Commissariato di Vigata** e salendo fino al **Castello dei Tre Cantoni**, che abbiamo trovato chiuso ma dal quale si può ammirare un'ottima vista!
 
@@ -50,7 +50,7 @@ Prima di raggiungere la tappa successiva non potevamo non assaggiare il **{{<ext
 
 Next stop: **Ragusa**. {{<extLink "Abbiamo parcheggiato" "https://goo.gl/maps/JUeB2aa9SDVXfm9P6">}} e siamo saliti verso la parte alta della città, **Ragusa Ibla**, passando davanti al **Duomo di San Giorgio** e al **{{<extLink "Palazzo Arezzo di Trifiletti" "http://www.palazzoarezzo.it/">}}**, arrivando al **Giardino Ibleo**. Camminando tra mille cartelli che citavano "cannoli ripieni" ci è venuta di nuovo fame, così abbiamo provato il cannolo di {{<extLink "Biancomangiare" "https://www.facebook.com/caffetteriabiancomangiare#_=_">}}, che viene riempito sul momento di ricotta. Un must se si passa da Ragusa.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1688983876/Articoli/Sicilia/cannolo-siciliano_svlfuv.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1688983876/Articoli/Sicilia/cannolo-siciliano_svlfuv.jpg">}}
 
 **{{< underline "Giorno 9">}}**:  nuovo giorno, nuova tappa, era la volta di **Modica** e del suo famoso cioccolato. Abbiamo {{<extLink "parcheggiato gratuitamente" "https://goo.gl/maps/ARudEtZxfMukHz1y6">}} e visitato la città salendo fino ai vari belvedere, poi siamo spostati nel pomeriggio per visitare la spiaggia di **Punta delle formiche**,  dove abbiamo sostato la notte in libera.
 

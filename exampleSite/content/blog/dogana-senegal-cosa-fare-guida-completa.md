@@ -1,7 +1,7 @@
 ---
 title: 'Senegal on the road: dogane e strade!' 
 description: "Tutto quello che devi sapere se vuoi entrare in Senegal in moto, auto o camper!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1681839060/Articoli/Copertine/Senegal_in_Van_nbfqyv.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1681839060/Articoli/Copertine/Senegal_in_Van_nbfqyv.jpg
 date: 2023-03-26T17:00:00.000
 categories: ["Africa", "Dogana"]
 country: Senegal
@@ -135,7 +135,7 @@ Se si ha il Passavant si può rinnovare al massimo due volte ogni 15 giorni pres
 L'assicurazione del mezzo si fa dopo aver svolto le pratiche del mezzo.
 Non c'è un luogo ben preciso all'interno della dogana quindi dovrai chiedere. Nel nostro caso è stata fatta da un vecchietto seduto su una sediolina.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1681854073/Articoli/Senegal/Senegal_Van_nql3tl.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1681854073/Articoli/Senegal/Senegal_Van_nql3tl.jpg">}}
 
 ###### Ma quanto mi costa?
 Se hai deciso di andare verso la dogana di Diama, prima di poterla raggiungere e in uscita dalla Mauritania, ti aspettano alcune "tasse" obbligatorie da pagare: le trovi tutte nel [dettaglio nell'articolo dedicato](/blog/viaggio-mauritania-on-the-road-le-dogane/#quanto-abbiamo-speso).

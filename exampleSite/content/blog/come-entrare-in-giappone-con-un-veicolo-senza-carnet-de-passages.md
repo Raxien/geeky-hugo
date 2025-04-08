@@ -1,7 +1,7 @@
 ---
 title: "Ecco come entrare in Giappone con un veicolo senza Carnet de Passages"
 description: "Scopri come entrare in Giappone con il tuo veicolo senza spendere inutili soldi per il Carnet de Passages en Douane. Segui la nostra guida per richiedere il Permesso di Importazione Temporanea, un'alternativa gratuita e semplice, basata sulla nostra esperienza personale"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1739789765/Articoli/camper/camper-tori_nxvehm.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1739789765/Articoli/camper/camper-tori_nxvehm.jpg
 date: 2025-02-10T10:00:00+01:00
 categories: [ "Camper", "Guida"]
 type: featured
@@ -38,7 +38,7 @@ Alcune compagnie, come la Camellia Line (da Busan a Fukuoka), offrono un servizi
 
 Dai racconti di altri viaggiatori l'importazione del mezzo tramite CPD può durare dalle 2 alle 8 ore. Controlla con attenzione che tutti i dati (es. numero del telaio) vengano inseriti correttamente per evitare di dover ritornare presso gli uffici. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1739789925/Articoli/camper/camper-giappone_bknmu4.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1739789925/Articoli/camper/camper-giappone_bknmu4.jpg">}}
 
 ##### TIP: cos'è?
 

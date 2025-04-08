@@ -1,7 +1,7 @@
 ---
 title: Lago di Braies con cane e gatto
 description: In gita al lago di Braies con cane e gatto, per un'avventura in mezzo alla natura 
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1657873908/Articoli/Gita_al_lago_di_Braies.jpeg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1657873908/Articoli/Gita_al_lago_di_Braies.jpeg
 date: 2022-07-15T10:00:00.000+02:00
 categories: ["Itinerari", "Italia", "Animali"]
 country: Italia
@@ -12,7 +12,7 @@ Stai pensando di visitare il lago di Braies e vuoi avventurarti insieme al tuo c
 
 Prima di raccontarti la nostra avventura ti segnaliamo un paio di informazioni utili, soprattutto in caso di visita estiva: dato il sovraffollamento di turismo, dal 2022 nei mesi estivi dalle ore 09.30 alle 16.00 la {{<extLink "Valle di Braies" "https://www.braies.org">}} è raggiungibile solo mediante mezzi pubblici, a piedi e in bici. Il transito con mezzi privati è consentito solo previa prenotazione del parcheggio o con esibizione di un valido permesso di transito ({{<extLink "qui puoi trovare maggiori informazioni" "https://www.prags.bz/it">}}).
 
-![Riva Lago di Braies](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1657873911/Articoli/Riva_del_lago_di_Braies.jpg)
+![Riva Lago di Braies](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1657873911/Articoli/Riva_del_lago_di_Braies.jpg)
 
 ##### In gita al lago di Braies con cane e gatto
 Noi abbiamo deciso di fermarci a dormire a bordo del nostro van in uno spiazzo libero ad una quindicina di minuti dai parcheggi vicini al lago. Di buon mattino abbiamo raggiunto il parcheggio adibito ai camper (il più vicino al sito, con tariffa 8 euro per 3 ore, 25 euro giornaliero). Alle 8 del mattino iniziavamo la nostra avventura: pochissime persone, clima fresco ideale, prime luci del sole ad illuminare la valle. Avendo con noi Olimpia e Sakè non potevamo fare scelta migliore. Alle 10, quando finivamo la nostra passeggiata, il pontile famoso per le foto più postate sui social era affollatissimo, iniziavano a crearsi code di persone per affittare la barchetta, il parcheggio era al completo e lungo la strada si era creata una colonna di auto di circa 5 chilometri. Devi tener conto che era venerdì 3 giugno, quindi giornata di ponte. Cerca di pianificare al meglio la tua gita se pensi di andare nei weekend o durante le festività.
@@ -42,4 +42,4 @@ Tornando verso l'ingresso noi ci siamo imbattuti in molte persone che facevano i
 
 Evitando il sovraffolamento per noi è stata una gita decisamente divertente. Ti lasciamo un'immagine di questo bellissimo lago incastonato fra le montagne. Facci sapere nei commenti se l'hai già visitato o se in qualche modo ti abbiamo risvegliato la curiosità di andarci, magari insieme al tuo amico a quattro zampe :) 
 
-![Lago di Braies](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1657873913/Articoli/Lago_di_Braies.jpg)
+![Lago di Braies](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1657873913/Articoli/Lago_di_Braies.jpg)

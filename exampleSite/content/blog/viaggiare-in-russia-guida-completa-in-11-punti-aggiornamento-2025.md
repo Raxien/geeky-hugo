@@ -1,7 +1,7 @@
 ---
 title: 'Viaggiare in Russia: guida completa in 11 punti (aggiornamento 2025)'
 description: "Scopri come pianificare il tuo viaggio in Russia nel 2024, con informazioni aggiornate su visti, ingressi, valuta, consigli e altro ancora."
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1731636403/Articoli/Blog/russia-guida-completa_j8amvo.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1731636403/Articoli/Blog/russia-guida-completa_j8amvo.png
 date: 2025-01-02T10:00:00+01:00
 categories: [ "Guida", "Russia"]
 country: Russia
@@ -79,7 +79,7 @@ Il visto di transito ai cittadini stranieri che attraversano il territorio con a
 Il visto di transito ai cittadini stranieri che attraversano il territorio con automezzi **viene rilasciato per non più di 10 giorni** e questo limite di tempo viene calcolato sulla base **di un chilometraggio medio giornaliero del veicolo di 500 km.**
 La validità del visto di transito a doppio ingresso non può superare un mese e Il secondo visto di transito deve essere richiesto in ufficio consolare russo nel paese, dove il cittadino straniero si troverà dopo il primo transito dalla Russia.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-piazza-rossa_icjreg.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-piazza-rossa_icjreg.jpg">}}
 
 ##### 2. Come entrare in Russia 
 
@@ -189,7 +189,7 @@ Noi abbiamo effettuato ovunque sosta libera (senza campeggiare e in totale rispe
 **Non esistono quasi per niente aree di carico e scarico**, ma se dovessi avere problemi a trovare alcune fontane puoi chiedere alle persone del posto che sicuramente ti offriranno acqua gratuitamente. 
 Per bere **noi abbiamo sempre acquistato acqua nei supermercati** (uno fra tutti il **Lenta**, che offre prezzi e offerte vantaggiosi).  
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-moscow-city_oi6si1.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-moscow-city_oi6si1.jpg">}}
 
 ##### 9. Quando andare in Russia: il clima
 La Russia è il paese più grande del mondo, con climi che vanno dal polare al subtropicale. Il tempo varia notevolmente tra le stagioni: 

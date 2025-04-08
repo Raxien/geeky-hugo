@@ -1,7 +1,7 @@
 ---
 title: "La Galette bretonne: una deliziosa ricetta francese"
 description: "Simile a una crepe, la galette francese ci ha conquistati al primo assaggio!"
-image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689094771/Articoli/empanada/IMG_9897_doklnq.jpg"
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094771/Articoli/empanada/IMG_9897_doklnq.jpg"
 date: 2023-07-16T10:00:00Z
 categories: ["Cucina"]
 country: Francia
@@ -53,9 +53,9 @@ Vi vedo che siete virtuosi.. tirate fuori i calici e servitevi quel vino bianco 
 
 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689094775/Articoli/empanada/IMG_3098_j6rtcg.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094775/Articoli/empanada/IMG_3098_j6rtcg.jpg">}}
 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689094748/Articoli/empanada/IMG_3100_gawwoe.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094748/Articoli/empanada/IMG_3100_gawwoe.jpg">}}
 
 <!-- to do mettere foto e footer -->
