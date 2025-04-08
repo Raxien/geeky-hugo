@@ -10,9 +10,8 @@ theme = "geeky-hugo"
 ######################### site variables ##############################
 # customize your color and font from here.
 [params]
-description = "La tua descrizione del sito qui"
+description = "Alla scoperta del mondo on the road. Unisciti al viaggio e lasciati ispirare a intraprendere la tua prossima avventura!"
 title = "Vandipety | Esplora il Mondo in Camper"
-
 [params.variables]
 color_primary = "#15817f"
 body_color = "#FFF"
