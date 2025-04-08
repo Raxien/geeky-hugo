@@ -1,7 +1,7 @@
 ---
 title: 'Viaggio con cane e gatto: le 10 cose essenziali da portare con te!'
 description: Scopri le 10 cose essenziali da avere per un viaggio indimenticabile con il tuo animale! Leggi il nostro articolo per pianificare al meglio la tua avventura.
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689522826/Articoli/Viaggio/gatto-guinzaglio_sl2l8z.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689522826/Articoli/Viaggio/gatto-guinzaglio_sl2l8z.jpg
 date: 2023-07-18T7:00:00+01:00
 categories: [ "Animali", "Consigli"]
 type: regular   
