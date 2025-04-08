@@ -24,7 +24,7 @@
 <!-- logo fallback -->
 {{ .Scratch.Set "logo_fallback" ($logo.Resize $logoWidth).RelPermalink }}
 {{ end }}
-<p class="logo_tt" style="display: flex; align-items: center; margin: 0; height: 100%;">VANDIPETY</p>
+<p class="logo_tt" style="display: flex; align-items: center; margin: 0; height: 100%; font-size: 1.5rem;">VANDIPETY</p>
 
 {{ else }}
 <strong class="text-danger">`{{$logoPath}}` doesn't exist</strong>

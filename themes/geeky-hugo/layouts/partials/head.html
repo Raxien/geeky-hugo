@@ -45,6 +45,18 @@
 <meta name="msapplication-TileColor" content="{{site.Params.variables.color_primary | default `#da532c`}}">
 <meta name="theme-color" content="{{site.Params.variables.body_color | default `#ffffff` }}">
 
+{{ $logoPath:= site.Params.logo }}
+{{ if $logoPath }}
+{{ if fileExists (add `assets/` $logoPath) }}
+{{ $logo:= resources.Get $logoPath }}
+{{ $logoExt := path.Ext $logo }}
+{{ if ne $logoExt ".svg"}}
+<link rel="preload" href="{{ ($logo.Resize (replace site.Params.logo_width `px` `x`)).RelPermalink }}" as="image">
+{{ else }}
+<link rel="preload" href="{{ $logo.RelPermalink }}" as="image">
+{{ end }}
+{{ end }}
+{{ end }}
 
 {{ "<!-- Open Graph image and Twitter Card metadata -->" | safeHTML }}
 {{ $image_path := .Params.image | default site.Params.image -}}
