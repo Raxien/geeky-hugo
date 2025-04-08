@@ -22,7 +22,7 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7348628013126614"
      crossorigin="anonymous"></script>
 	<meta name="google-adsense-account" content="ca-pub-7348628013126614">
-	<meta name="description" content="{{ .Description }}">
+	<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/money.js/0.2.0/money.min.js"></script>  -->
 	<!-- <script type="text/javascript" src="https://raw.githubusercontent.com/jhvanderschee/hugocodex/main/static/js/carousel.js"></script>
 	<link rel="stylesheet" href="https://raw.githubusercontent.com/jhvanderschee/hugocodex/main/static/css/carousel.css"> -->

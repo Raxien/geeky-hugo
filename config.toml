@@ -9,6 +9,9 @@ theme = "geeky-hugo"
 
 ######################### site variables ##############################
 # customize your color and font from here.
+[params]
+description = "La tua descrizione del sito qui"
+
 [params.variables]
 color_primary = "#15817f"
 body_color = "#FFF"
