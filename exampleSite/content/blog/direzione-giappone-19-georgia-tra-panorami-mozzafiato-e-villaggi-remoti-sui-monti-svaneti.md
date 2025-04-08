@@ -1,7 +1,7 @@
 ---
 title: 'Georgia tra panorami mozzafiato e villaggi remoti sui monti Svaneti'
 description: 'Immergiti nella natura selvaggia della Georgia, tra le cime innevate dello Svaneti e i villaggi tradizionali. Esplora Ushguli, il villaggio più alto d''Europa, e vivi un''esperienza indimenticabile.'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione19/ushguli-dall-alto_hzhbkm.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione19/ushguli-dall-alto_hzhbkm.jpg
 date: 2024-06-03T7:00:00+01:00
 categories: [ "Direzione Giappone", "Georgia"]
 type: featured  

@@ -1,7 +1,7 @@
 ---
 title: 'Storie di straordinaria follia: Prima puntata dalla Russia'
 description: 'Storie di straordinaria follia: un podcast che parla di vita vera. Oggi vi portiamo alla scopera della Russia'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1716102319/Articoli/Blog/podcast-5_wwnrqb.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1716102319/Articoli/Blog/podcast-5_wwnrqb.png
 date: 2024-10-20T7:00:00+01:00
 categories: [ "Podcast"]
 type: featured  

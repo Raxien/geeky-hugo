@@ -1,7 +1,7 @@
 ---
 title: 'Ci siamo presi una pausa da YouTube'
 description: "Dopo un anno dietro alla videocamera è ora di prendere una pausa. Cosa ne sarà del nostro canale YouTube?" 
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1690130756/Articoli/Blog/youtube-pausa_bpphs4.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1690130756/Articoli/Blog/youtube-pausa_bpphs4.png
 date: 2023-07-31T8:00:00+01:00
 categories: [ "Blog"]
 type: featured

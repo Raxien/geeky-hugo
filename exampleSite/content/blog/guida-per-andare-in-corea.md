@@ -1,7 +1,7 @@
 ---
 title: 'Guida per andare in Corea del Sud'
 description: "Scopri come pianificare il tuo viaggio in Russia nel 2024, con informazioni aggiornate su visti, ingressi, valuta, consigli e altro ancora."
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1731636403/Articoli/Blog/russia-guida-completa_j8amvo.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1731636403/Articoli/Blog/russia-guida-completa_j8amvo.png
 date: 2024-11-01T10:00:00+01:00
 categories: [ "Guida", "Corea del Sud"]
 country: "Corea del Sud"

@@ -1,7 +1,7 @@
 ---
 title: 'Porto e dintorni in 5 giorni'
 description: "Alla scoperta del Portogallo del Nord"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683730729/IMG_0723_n3ptpi.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683730729/IMG_0723_n3ptpi.jpg
 date: 2023-04-10T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Portogallo 
@@ -23,13 +23,13 @@ Se invece hai intenzione di visitare o aggiungere nel tuo viaggio altre zone del
   Viana do Castelo è una delle più belle città del nord del Portogallo con il sui caratteristico centro storico, ricchissimo di eleganti palazzi storici. Il centro della vita cittadina è la pedonale Praça da República che ospita il vecchio municipio e una fontana rinascimentale in granito. A Viana do Castelo si può visitare anche la nave Gil Eannes, che portava aiuto medico ai pescherecci portoghesi che pescavano il baccalà. Altri siti da non perdere sono la Cattedrale, la Fortezza de Sao Tiago de Barba che permette di passeggiare lungo i suoi bastioni, l'Igreja de Misericordia e le sue meravigliose piastrelle decorative, considerate tra le più belle di tutto il Portogallo. 
   Ciò che consigliamo di non perdere è il Monte de Santa Luzia, la collina che sorge alle spalle della città, che si può raggiungere con la funicolare oppure tramite due chilometri di strada in salita. Dall'alto si possono ammirare panorami incredibili e visitare il Santuario do Sagrado Coração de Jesus e le rovine di un villaggio fortificato. Ti auguriamo di trovare bel tempo, quando noi siamo saliti in cima ci ha avvolti una fitta nebbia autunnale. 
 
-  {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683730703/IMG_0486_tdfzfo.jpg">}}
+  {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683730703/IMG_0486_tdfzfo.jpg">}}
 
 - **{{< underline "Giorno 3 - Braga">}}**:
   
   Braga è una delle città più antiche del Portogallo e nelle sue immediate vicinanze ha sede il santuario di Bom Jesus do Monte, circondato da uno splendido parco. Puoi raggiungerlo o tramite una monumentale scalinata a fisarmonica in granito con oltre 600 gradini, che ospita anche le tappe della Via Crucis, oppure tramite la funicolare del Bom Jesus, la più vecchia al mondo alimentata dalla forza dell’acqua. Noi abbiamo optato per salire con quest'ultima dato che diluviava e poi scendere tramite la scalinata. La vista panoramica dall'alto è magnifica. Il biglietto costa 1.50 singola corsa € e 2 € a/r e il percorso dura circa 5 minuti.
 
-  {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683730625/IMG_0571_qmmtdr.jpg">}}
+  {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683730625/IMG_0571_qmmtdr.jpg">}}
 
 - - **{{< underline "Giorno 4/5 - Porto">}}**:
   
@@ -40,7 +40,7 @@ Se invece hai intenzione di visitare o aggiungere nel tuo viaggio altre zone del
   Poco distante trovi la curiosa _libreria “Lello e Irmao”_, che pare abbia ispirato anche alcune scene di Harry Potter (costo di ingresso 5€, che danno diritto a uno sconto sull'acquisto di un libro). Noi non siamo entrati data la coda di persone, ma in caso puoi prenotare online sul sito ufficiale {{<extLink "a questo link" "https://www.livrarialello.pt/">}}.
 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683730690/IMG_0658_kxmcto.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683730690/IMG_0658_kxmcto.jpg">}}
 
 
 ##### Curiosità

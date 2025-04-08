@@ -1,7 +1,7 @@
 ---
 title: 'Pian Munè: il rifugio perfetto per il nostro matrimonio on the road'
 description: "Sposarsi in montagna ai piedi del Monviso è stata un'esperienza incredibile."
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689874010/Articoli/Blog/sposi_sotto_monviso_kwe480.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689874010/Articoli/Blog/sposi_sotto_monviso_kwe480.jpg
 date: 2023-10-02T08:00:00.000
 categories: ["Blog"]
 type: featured
@@ -21,7 +21,7 @@ E' così che, quando le nuvole sono scomparse, siamo corsi tutti fuori a ringraz
 
 E' così che siamo andati a scattare qualche foto **nel bosco della Trebulina** e abbiamo corso sotto al diluvio protetti dalle foglie degli alberi che tintinnavano i loro migliori auguri a ogni folata di vento.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/sposi_bosco_tribulina_ehra7w.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/sposi_bosco_tribulina_ehra7w.jpg">}}
 
 Volevamo che la natura fosse al nostro fianco, volevamo poter rimanere a dormire in montagna nella nostra casa a quattro ruote, **vivere appieno ogni istante in un luogo in cui sentir riecheggiare l'eco delle nostre risate.**
 
@@ -36,7 +36,7 @@ D'inverno si può sciare, ciaspolare e approfittare delle escursioni sulle motos
 Insomma, può sembrare un luogo da **dover raggiungere per forza, lontano da tutto.** 
 Per noi invece c'è racchiuso tutto: qui Sara ha imparato a sciare, qui abbiamo passeggiato molte volte negli anni in tutte e quattro le stagioni e questo luogo era davvero la cornice perfetta per dare il via a una nuova avventura insieme. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/brindisi_sposa_lnenuy.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/brindisi_sposa_lnenuy.jpg">}}
 
 ##### Un team eccezionale 
 
@@ -47,7 +47,7 @@ Siete curiosi di scoprire i vari eventi che propongono? Non perdetevi {{<extLink
 
 Che sia per una tappa nel rifugio a valle a 1535 m o per una gita a passeggio o in seggiovia alla baita in quota a 1890 m, il panorama che avrete a 360° **ripagherà ogni chilometro percorso per arrivare fino a qui.** 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/la_tavolata_bvn0ws.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/la_tavolata_bvn0ws.jpg">}}
 
 ##### Wild life
 

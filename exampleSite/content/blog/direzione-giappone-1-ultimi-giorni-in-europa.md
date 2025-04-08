@@ -1,7 +1,7 @@
 ---
 title: 'Ultimi giorni in Europa'
 description: 
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/moschea-edirne_x4ke3x.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/moschea-edirne_x4ke3x.jpg
 date: 2024-03-28T10:00:00+01:00
 categories: [ "Direzione Giappone", "Turchia"]
 type: featured   
@@ -47,7 +47,7 @@ Accendiamo il motore e ci mettiamo in direzione Istanbul, sfidando il traffico c
 
 Perfetto, se siamo i benvenuti facciamo che pagare subito due notti e poi noi siamo là in fondo e stiamo bravi al nostro posto, promesso! 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/edirne-moschea-abcd.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/edirne-moschea-abcd.jpg">}}
 
 ##### Informazioni utili 
 
@@ -58,7 +58,7 @@ Noi abbiamo scelto di esibire la carta d'identità come documento (ovviamente va
 
 I documenti teoricamente richiesti per [viaggiare con gli animali](/blog/viaggiare-con-cane-e-gatto-tutto-quello-che-devi-sapere) non ci sono stati richiesti.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/visto-turchia_ybjgjy.png">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/visto-turchia_ybjgjy.png">}}
 _Entrando il 20 gennaio 2024 e facendo due calcoli possiamo stare fino al 18 aprile, ma notiamo che ci hanno regalato quattro giorni in più._
 
 ###### Cambio valuta 

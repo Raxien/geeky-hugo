@@ -1,7 +1,7 @@
 ---
 title: 'Quando tornate?'
 description: "Quando tornate è stata la domanda più gettonata da quando siamo partiti per vivere la nostra vita a bordo di un van. Domanda facile o difficile? Scoprilo in questo articolo."
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689180920/Articoli/quando%20tornate/IMG_2899_ha372q.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689180920/Articoli/quando%20tornate/IMG_2899_ha372q.jpg
 date: 2023-07-17T08:00:00.000
 categories: ["Blog"]
 type: regular

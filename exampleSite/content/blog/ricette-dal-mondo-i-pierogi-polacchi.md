@@ -1,7 +1,7 @@
 ---
 title: 'Ricette dal mondo: i Pierogi polacchi'
 description: Quando siamo arrivati in Polonia abbiamo avuto il piacere di assaggiare i pierogi, tipici ravioli, nella versione salata.. e dolce! Siediti, abbiamo aggiunto un posto a tavola!
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689676111/Articoli/empanada/madrid/cordoba/Pierogi_z_mas%C5%82em_-_2023.03.31_kl1rw7.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689676111/Articoli/empanada/madrid/cordoba/Pierogi_z_mas%C5%82em_-_2023.03.31_kl1rw7.jpg
 date: 2023-07-26T10:00:00+01:00
 categories: [ "Cucina"]
 country: Polonia

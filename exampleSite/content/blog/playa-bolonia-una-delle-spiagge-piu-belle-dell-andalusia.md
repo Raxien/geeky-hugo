@@ -1,7 +1,7 @@
 ---
 title: "Playa Bolonia: una delle spiagge più belle dell’Andalusia"
 description: "Una spiaggia vista Marocco, con alle spalle meravigliose rovine romane"
-image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1673425578/Articoli/bologna_1_odyxzg.jpg"
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1673425578/Articoli/bologna_1_odyxzg.jpg"
 date: 2023-01-09T23:00:00Z
 categories: ["Europa", "Itinerari"]
 country: Spagna
@@ -23,12 +23,12 @@ Sul luogo si trova un centro di accoglienza turistica e un museo gratuito visita
 
 C’è un grande parcheggio gratuito a disposizione dei visitatori e tutte le indicazioni per poterlo raggiungere lungo la strada.
 
-![Rovine romane a playa de bolonia](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1673425527/Articoli/bologna_6_ogu2su.jpg)
+![Rovine romane a playa de bolonia](https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1673425527/Articoli/bologna_6_ogu2su.jpg)
 
 ##### Guidare in mezzo alla duna? È possibile a Punta Paloma
 Pochi chilometri dopo Playa Bolonia si trova un’altra spiaggia, Punta Paloma. La particolarità di questo luogo è la strada asfaltata che taglia letteralmente a metà la duna, con una vista sulla spiaggia davvero gradevole.
 
-![Punta paloma](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1673425528/Articoli/bologna_4_tx84js.jpg)
+![Punta paloma](https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1673425528/Articoli/bologna_4_tx84js.jpg)
 
 Vuoi scoprire di più su questa spiaggia e suoi luoghi vicini? Viaggia insieme a noi in Andalusia!
 

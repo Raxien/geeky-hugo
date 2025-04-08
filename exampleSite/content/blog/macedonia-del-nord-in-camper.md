@@ -1,7 +1,7 @@
 ---
 title: 'Bosnia ed Erzegovina in camper: tour di 7 giorni'
 description: "Itinerario di viaggio alla scoperta della Bosnia ed Erzegovina, tra cascate, natura, villaggi persi nel tempo e città storiche."
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
 date: 2023-09-23T08:00:00.000
 categories: ["Europa", "Itinerari", "Balcani", "Camper"]
 country: Macedonia
@@ -21,7 +21,7 @@ Questa soluzione politica adottata nel 1995 ha permesso di far coesistere non so
 
 <!-- Assicurazione in viaggio? Fate come noi, usate Genki.  -->
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 ##### Cosa vedere in Bosnia ed Erzegovina
 Il nostro itinerario prevede di attraversare il Paese con un viaggio on the road da nord a sud, dato che successivamente abbiamo proseguito verso il Montenegro. 
@@ -39,7 +39,7 @@ Dal centro cittadino, che pullula di bar e negozietti, si può salire in cima al
 A 10 minuti di strada da Jaice si trovano invece i mulini, cosiddetti Mlincici, e il lago Pliva. 
 Ad oggi i mulini non sono più attivi ma una comoda passerella permette di camminarvi in mezzo e ammirare la natura circostante. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 ##### Visoko e le piramidi bosniache
 Questa meta non era prevista nel nostro itinerario, ma dovendo cercare un posto per spezzare il viaggio abbiamo tentato di approfittarne per visitare un altra meta "degna di attenzione". Purtroppo le "**piramidi**" a noi non sono piaciute particolarmente e occorre un po' di fantasia per chiamare in tal modo le colline del posto. Sicuramente la natura qui è piacevolmente rigogliosa, ma è valsa la pena fermarsi proprio solo come tappa per pranzare prima di raggiungere la capitale Sarajevo. 
@@ -61,7 +61,7 @@ Il luogo può sembrare un po' tetro dato che è totalmente in disuso, ma i numer
 Raggiungendo la sommità si arriva ad un punto panoramico decisamente superbo sulla città. 
 Questa zona si può raggiungere in auto in una ventina di minuti o con la funicolare che parte dal centro città. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 Il giorno successivo l'abbiamo dedicato alla scoperta del vecchio quartiere della città, la **Baščaršija**, un susseguirsi di viuzze acciottolate, costellate di pasticcerie, ristoranti e negozietti di artigianato. Un grande bazar insomma, in cui domina la scena la moschea ottomana di Gazi Husrev-bey. In Piazza Sebilj si trova invece una fontana settecentesca, vicino alla quale si possono ammirare ogni giorno centinaia di piccioni sfamati da turisti e locali. 
 Non lontano si trovano la Biblioteca Nazionale, incendiata quasi totalmente dai bombardamenti serbi, e il Ponte Latino, luogo in cui ebbe origine l'omicidio di Francesco Ferdinando che scatenò la Prima Guerra Mondiale.
@@ -78,20 +78,20 @@ Mostar è forse la meta più turistica di tutta la Bosnia ed Erzegovina, il cui 
 Per arrivarsi basta camminare lungo le vie del piccolo centro storico che pullula di ristoranti e bancarelle, arrivare alla moschea Koski Mehmed-Pasha (dove è possibilesalire sul minareto per avere una vista panoramica sulla città) e percorrere i ciottoli che costeggiano il fiume Neretva fino al ponte. 
 Da qui si può scendere verso sinistra e ritrovarsi sulla sponda per ammirare lo Stari Most dal basso oppure terminare il giro cittadino addentrandosi di nuovo tra vicoli e ristoranti fino a raggiungere un secondo ponticello, anch'esso però molto scenografico. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 ##### Blagaj
 Blagaj è un piccolo villaggio incastonato fra vigneti e montagne, non troppo distante da Mostar, che deve la sua importanza al monastero **Blagaj Tekija**, un monastero derviscio risalente al 1500.
 Ricostruito di recente e abbandonato dai dervisci durante la Seconda Guerra Mondiale per ordine dei nazisti, resta tutt'oggi particolare per essere incastonato nella montagna sulla sorgente del fiume Buna.
 Arrivando ci si ritrova in un luogo un po' snaturato poichè sono stati creati numerosi ristoranti lungo il letto del fiume, e anche trovare la giusta strada per raggiungere il punto panoramico non è semplicissimo (a proposito, spieghiamo come fare nel nostro video in merito). 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 ##### Počitelj
 Počitelj è un antico villaggio arroccato tra le mura. E' impossibile non ammirarlo già dal basso, ma è camminando fra le sue viuzze acciottolate, inerpicandosi fino in cima alla torre e raggiungendo la fortezza, che sembra di essere catapultati in un passato lontano. 
 Questo villaggio è stato disabitato per tantissimi anni ed è solo grazie alla costruzione della nuova statale che ha potuto acquisire vigore.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 ##### Trebigne
 Trebigne è la città più a sud, a un'ora dal confine con il Montenegro. La città di per sè non ha granchè da offrire. Degni di visita sono invece il monastero ortodosso Tvrdos, a 10 minuti dalla città, che contiene affreschi a dir poco splendidi, in un ambiente circondato da vigneti, e il monastero ortodosso che si trova sulla sommità della collina, dove è possibile godere di un panorama mozzafiato. 

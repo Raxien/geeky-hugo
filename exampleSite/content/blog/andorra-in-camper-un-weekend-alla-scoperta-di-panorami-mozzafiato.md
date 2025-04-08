@@ -1,7 +1,7 @@
 ---
 title: 'Andorra in camper: un weekend alla scoperta di panorami mozzafiato'
 description: Stai pensando di raggiungere Andorra in camper? Scopri dove parcheggiare e vivere splendide avventure immerse nella natura
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1690038414/Articoli/andorra/andorra_vista_orizzonte_ewxv6w.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1690038414/Articoli/andorra/andorra_vista_orizzonte_ewxv6w.jpg
 date: 2023-07-25T10:00:00+01:00
 categories: [ "Camper", "Itinerari"]
 country: Andorra
@@ -28,7 +28,7 @@ Se preferisci fermarti ad Andorra la Vella città puoi visitare ***Casa de la Va
 
 Come ti dicevamo noi siamo invece fuggiti nel verde e siamo rimasti due giorni in un parcheggio gratuito con quattro posti camper, affacciato sulla valle e con possibilità di parecchie camminate in natura, una piccola parete per arrampicare, un ponte tibetano da percorrere avanti e indietro sospeso sul fiume e un gruppo di marmotte come vicine ad augurarci il buongiorno e la buonanotte. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1690038416/Articoli/andorra/andorra_montagna_pnqnib.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1690038416/Articoli/andorra/andorra_montagna_pnqnib.jpg">}}
 
 ##### Dove sostare in camper
 

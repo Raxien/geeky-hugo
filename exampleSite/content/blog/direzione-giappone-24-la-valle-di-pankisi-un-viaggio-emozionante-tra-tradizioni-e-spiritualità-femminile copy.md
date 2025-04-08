@@ -1,7 +1,7 @@
 ---
 title: 'La valle di Pankisi: un viaggio emozionante tra tradizioni e spiritualità femminile'
 description: 'Alla scoperta delle ultime donne al mondo a celebrare questo rituale'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione19/ushguli-dall-alto_hzhbkm.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione19/ushguli-dall-alto_hzhbkm.jpg
 date: 2024-07-01T7:00:00+01:00
 categories: [ "Direzione Giappone", "Georgia"]
 type: featured  
