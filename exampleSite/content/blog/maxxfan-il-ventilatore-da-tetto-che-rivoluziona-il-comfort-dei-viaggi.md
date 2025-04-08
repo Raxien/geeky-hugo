@@ -1,7 +1,7 @@
 ---
 title: 'MaxxFan: Il Ventilatore da Tetto Che Rivoluziona il Comfort dei Viaggi'
 description: 'Esplora le rovine di Tskaltubo, un tempo fiorente città termale in Georgia. Scopri il suo passato glorioso, il declino doloroso e l''atmosfera suggestiva di un luogo sospeso nel tempo.'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1713011125/Articoli/Direzione%20giappone/Direzione19/ushguli-dall-alto_hzhbkm.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione19/ushguli-dall-alto_hzhbkm.jpg
 date: 2024-06-20T7:00:00+01:00
 categories: [ "Camper"]
 type: featured  

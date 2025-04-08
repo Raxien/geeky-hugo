@@ -80,7 +80,7 @@ function executeSearch(searchQuery) {
     if (result.length > 0) {
       populateResults(result);
     } else {
-      $('#search-results').append("<div class=\"text-center\"><img class=\"img-fluid mb-5\" src=\"https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1701789881/asset/not-found_nw9oea.png\" width=\"200\"><h3>Nessun risultato trovato</h3></div>");
+      $('#search-results').append("<div class=\"text-center\"><img class=\"img-fluid mb-5\" src=\"https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1701789881/asset/not-found_nw9oea.png\" width=\"200\"><h3>Nessun risultato trovato</h3></div>");
     }
   }).fail(function(jqXHR, textStatus, errorThrown) {
     console.error('Error loading index.json:', textStatus, errorThrown);

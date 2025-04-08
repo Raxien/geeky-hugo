@@ -1,7 +1,7 @@
 ---
 title: 'Gatto in camper: 10 consigli per vivere fantastiche avventure on the road' 
 description: "Scopri come abbiamo fatto ad abituare il nostro gatto a viaggiare in camper e quali regole occorre seguire in giro per il mondo"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689500423/Articoli/gatto%20in%20camper/DSC01423_2_irao6q.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689500423/Articoli/gatto%20in%20camper/DSC01423_2_irao6q.jpg
 date: 2023-07-15T17:00:00.000
 categories: ["Animali", "Blog"]
 type: regular
@@ -21,7 +21,7 @@ Permetti al tuo gatto di conoscere il camper, di annusarne ogni angolo, lasciare
 ##### 3 - Porta a bordo del camper qualche oggetto conosciuto dal tuo micio 
 Se il tuo gatto ha una {{<extLink "sua cuccia" "https://amzn.to/3NRdv33">}}, un cuscino, un peluche o un giochino porta tutto a bordo in modo che possa facilitarlo a sentirsi a casa.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689500422/Articoli/gatto%20in%20camper/89D9B6AF-10CE-487C-A15E-CD70EB3B082D_mtghjm.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689500422/Articoli/gatto%20in%20camper/89D9B6AF-10CE-487C-A15E-CD70EB3B082D_mtghjm.jpg">}}
 
 ##### 4 - Porta a bordo del camper il trasportino se sei abituato ad usarlo
 Se il tuo gatto è abituato a stare nel trasportino **permettigli di farlo anche in camper** se lo aiuta a stare più tranquillo. Altrimenti, prova ad utilizzare un guinzaglio legato {{<extLink "ad una cintura di sicurezza" "https://amzn.to/3DdIlhm">}} in modo da evitare che il micio che possa saltare in giro mentre sei alla guida. 
@@ -34,7 +34,7 @@ Trova un luogo ideale per {{<extLink "la lettiera" "https://amzn.to/3JV4ll2">}} 
 ##### 6 - Porta a bordo del camper le ciotole del tuo gatto
 Porta a bordo una ciotola per l’acqua e una per il cibo (oltre ad assicurarti una scorta di acqua e cibo nel camper) che potresti portare con te in giro se provviste di gancio per moschettone (noi usiamo {{<extLink "queste" "https://amzn.to/42HQ1Da">}} e ci troviamo benissimo).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689500923/Articoli/gatto%20in%20camper/IMG_3988_t6qqas.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689500923/Articoli/gatto%20in%20camper/IMG_3988_t6qqas.jpg">}}
 
 ##### 7 - Viaggia nelle ore meno calde e individua zone in ombra per le tue soste 
 Noi solitamente ci spostiamo in mattinata o nel tardo pomeriggio, sapendo già dove andremo a piazzarci.
@@ -49,7 +49,7 @@ Noi ne abbiamo due, uno {{<extLink "attorcigliato alla gamba del tavolino" "http
 ##### 10 - Programma le tue avventure quando prevedi di lasciare il gatto da solo a bordo del camper
 Può capitare che ci siano luoghi nei quali gli animali non sono ammessi oppure che il tuo gatto sia stanco e preferisca stare a bordo invece che uscire a gironzolare con te, quindi **ti consigliamo di programmare il tempo in cui starai lontana/o dal camper** in modo da non lasciare il tuo micio troppo solo o esposto a temperature non idonee. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689500923/Articoli/gatto%20in%20camper/IMG_9027_xjvqfk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689500923/Articoli/gatto%20in%20camper/IMG_9027_xjvqfk.jpg">}}
 
 ##### Ricordati di viaggiare con i documenti del tuo animale
 Oltre ad essere **obbligatorio per legge**, se dovessi aver urgente bisogno di un veterinario sarà più facile per lui accedere  ai dettagli relativi alle vaccinazioni e alle cure pregresse. 

@@ -1,7 +1,7 @@
 ---
 title: 'Tour di 7 giorni in Algarve in camper'
 description: "Un road trip in Algarve, affacciati sulle scogliere"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1683757945/IMG_2877_affjhz.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1683757945/IMG_2877_affjhz.jpg
 date: 2023-04-10T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Portogallo 
@@ -26,7 +26,7 @@ Se vuoi visitare insieme a noi tutto il resto del paese ti rimandiamo [all'artic
   Lagos, piccola cittadina dell’Algarve, è famosa per le sue spiagge dorate, per il piacevole centro storico e per l’atmosfera di divertimento.
   Le migliori spiagge di Lagos sono Praia de Porto de Mós, Praia do Camilo (noi ce ne siamo innamorati!), Praia de Dona Ana, Praia do Pinhão, Praia da Batata e Meia Praia.
 
-   {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1683757819/IMG_2897_nv8wn8.jpg">}}
+   {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1683757819/IMG_2897_nv8wn8.jpg">}}
 
 - **{{< underline "Giorno 3 - Portimao/Ferragudo/Carvoeiro">}}**: 
   
@@ -35,7 +35,7 @@ Se vuoi visitare insieme a noi tutto il resto del paese ti rimandiamo [all'artic
   
   Poco più a sud trovi Carvoeiro, un pittoresco villaggio preso d'assalto in estate da tutte le tipologie di turisti. La piccola spiaggia affacciata sulla piazza del paese è sabbiosa e circondata da scogliere. Tutta la costa della zona di Carvoeiro si alterna fra scogliere, grotte e calette, da esplorare con gite in barca private o in gruppo. Un'escursione molto bella potrebbe essere quella diretta alle grotte di Benagil. Noi abbiamo passeggiato lungo la Passerella Carvoeiro, che si estende dal centro di Carvoeiro e ragala splendidi scorci sulla costa. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1683757921/IMG_3359_nz6q5e.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1683757921/IMG_3359_nz6q5e.jpg">}}
 
 - **{{< underline "Giorno 4 - Silves">}}**:
   
@@ -46,7 +46,7 @@ Se vuoi visitare insieme a noi tutto il resto del paese ti rimandiamo [all'artic
   
   Albufeira offre un centro storico in cui si trovano numerosi ristoranti, bar e negozi e una zona moderna piena di hotel e appartamenti. Nel piccolo centro storico si trova ancora qualche scorcio legato al passato. Le due spiagge principali sono Praia dos Pescadores e Praia do Tunel. Noi abbiamo adorato passeggiare lungo la non troppo distante Praia da Falésia, una lunga spiaggia sabbiosa con scogliere rossastre raggiungibile grazie a una passerella. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1683757849/IMG_3471_zxckbh.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1683757849/IMG_3471_zxckbh.jpg">}}
 
 
 - **{{< underline "Giorno 6 - Faro">}}**: 
@@ -58,7 +58,7 @@ Se vuoi visitare insieme a noi tutto il resto del paese ti rimandiamo [all'artic
   Tavira è un villaggio di pescatori tipico di questa regione ed è circondata da una serie di spiagge che appartengono all’area protetta del Parco Naturale di Ria Formosa. 
   Situata sull'isola di Tavira c'è una spiaggia raggiungibile a piedi, Praia do Barrel, in cui si trovano più di duecento ancore arrugginite appartenenti ai vecchi pescherecci di tonni, che donano a questo luogo l'appellativo di "cimitero delle ancore". 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1683757805/IMG_3702_pmpukm.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1683757805/IMG_3702_pmpukm.jpg">}}
 
 ##### Curiosità
 L'Algarve è una regione che, se vissuta on the road, secondo noi offre scorci decisamente degni di una sosta. Anche i piccoli paesini si prestano per piacevoli passeggiate. Visitare questi luoghi fuori stagione può far assaporare un po' di saudade, ma li rende certamente più autentici rispetto all'estate, periodo in cui vengono presi d'assalto dal turismo. 

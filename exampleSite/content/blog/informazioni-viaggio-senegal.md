@@ -1,7 +1,7 @@
 ---
 title: 'Viaggio in Senegal: tutto quello da sapere e itinerari' 
 description: ""
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681839215/Articoli/Copertine/Senegal_Informazioni_Viaggio_tg3jnb.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1681839215/Articoli/Copertine/Senegal_Informazioni_Viaggio_tg3jnb.png
 date: 2023-03-26T17:00:00.000
 categories: ["Africa", "Guida", "Itinerari"]
 country: Senegal
@@ -55,7 +55,7 @@ Se hai intenzione di usare le carte per prelevare contanti in Senegal ricordati 
 
 {{< card>}}
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854092/Articoli/Senegal/Senegal_Donne_colori_tcayom.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1681854092/Articoli/Senegal/Senegal_Donne_colori_tcayom.jpg">}}
 
 ##### Internet
 Gli operatori sul suolo sono principalmente tre:
@@ -118,7 +118,7 @@ Al di là dei problemi di corruzione che dilagano in tutto il paese, sovente ti 
 A noi è successo un altro piccolo inconveniente: eravamo parcheggiati vicino a una spiaggia e mentre eravamo a pranzo qualcuno ha scassinato il vetro del camper e ha rubato il cellulare di Paolo che l'aveva dimenticato all'interno del veicolo. 
 Nella zona periferica della capitale Dakar si possono verificare maggiori episodi di microcriminalità, soprattutto furti o borseggi. Per evitare episodi spiacevoli (a noi {{<extLink "è successo" "https://youtu.be/Xb0CQXsTV1w">}}) evita di indossare gioielli e porta con te lo stretto necessario.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854092/Articoli/Senegal/Senegal_Bandiera_runzga.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1681854092/Articoli/Senegal/Senegal_Bandiera_runzga.jpg">}}
 
 ##### Mezzi di trasporto pubblici 
 I mezzi di trasporto in Senegal sono molto economici, ma è complicato poter fare affidamento sugli orari e sull’affidabilità dei veicoli.
@@ -131,7 +131,7 @@ La linea ferroviaria è praticamente inesistente, mentre sono diffusi:
 - i tam-tam: carretti trainati da cavalli o asini, diffusi per lo più nei piccoli villaggi. Offrono un passaggio a chiunque.
 - taxi: automobili decisamente datate, tipicamente gialle nel nord del paese e grigie a sud. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854060/Articoli/Senegal/Senegal_Cavalli_ft2m2t.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1681854060/Articoli/Senegal/Senegal_Cavalli_ft2m2t.jpg">}}
 
 ##### Dove e cosa mangiare 
 In tutto il paese si trovano tantissime botteghine che vendono un po' di tutto oltre a banchetti di mercati quotidiani situati lungo tutte le strade, dove acquistare frutta, verdura e noccioline.
@@ -139,11 +139,11 @@ In tutto il paese si trovano tantissime botteghine che vendono un po' di tutto o
 I piatti nazionali senegalesi sono due: il Thieboudienne e lo Yassa. 
 Il Thieboudienne è composto da riso (bianco o rosso) con pesce accompagnato da verdure (pochi pezzettini di carota, cavolo e manioca). Si può trovare a volte con la carne. Un prezzo molto onesto è 1500 F a porzione.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854084/Articoli/Senegal/Senegal_Tiebuden_4_yivo8o.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1681854084/Articoli/Senegal/Senegal_Tiebuden_4_yivo8o.jpg">}}
 
 Lo Yassa poulet e lo Yassa poisson sono invece rispettivamente piatti a base di pollo o pesce marinati e conditi con cipolla, pepe, sale, peperoncino e poi grigliati. Vengono accompagnati con riso. Ci è capitato di trovare il pesce anche sotto forma di polpette. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854083/Articoli/Senegal/Senegal_Tiebuden_Riso_qlzhvk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1681854083/Articoli/Senegal/Senegal_Tiebuden_Riso_qlzhvk.jpg">}}
 
 Un altro piatto molto caratteristico è il maffè: uno spezzatino di manzo o pollo condito con pasta d’arachidi e accompagnato dal riso.
 
@@ -158,7 +158,7 @@ La verdura viene rincarata per gli occidentali (parola di locali quando abbiamo 
 
 Piccola curiosità: in Casamance ricordati di provare il tapalapa, un pane composto da un mix di farine, cotto in forni di fango. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854096/Articoli/Senegal/Senegal_Tapalapa_xmjvdl.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1681854096/Articoli/Senegal/Senegal_Tapalapa_xmjvdl.jpg">}}
 
 ##### Dove dormire
 Ascoltando l'esperienza di altri viaggiatori, nelle città principali si trovano ostelli e piccoli alberghi, che è meglio contattare telefonicamente dopo aver prenotato online. Lungo la costa si possono trovare anche resort più di lusso. 
@@ -202,7 +202,7 @@ Dedica un po' di tempo per fare un escursione in piroga nel fiume Somone per amm
 **{{< underline "Giorno 7">}}**: Dakar
 Ultima giornata a Dakar per fare acquisti al mercato di Soumbedioune o per rilassarti in spiaggia a Plage de N'Gor. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854056/Articoli/Senegal/Senegal_Isola_Goree_h0gbfj.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1681854056/Articoli/Senegal/Senegal_Isola_Goree_h0gbfj.jpg">}}
 
 ###### 14 Giorni
 Questo itinerario di 14 giorni in Senegal ti permetterà di scoprire le principali attrazioni turistiche del paese, tra cui parchi naturali, isole, spiagge e città. Ti rimandiamo al capitolo [Casamance](#casamance) per valutare un'ulteriore alternativa in questo itinerario, noi ti consigliamo di preferirla a tutta la zona della Petit Cote.
@@ -242,7 +242,7 @@ Raggiungi la Petit Cote per spezzare il viaggio e godere ancora di una giornata 
 **{{< underline "Giorno 14">}}** Dakar
 Rientro a Dakar per un'ultima visita della città.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681854081/Articoli/Senegal/Senegal_Isola_Goree_Donna_ihzss8.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1681854081/Articoli/Senegal/Senegal_Isola_Goree_Donna_ihzss8.jpg">}}
 
 ##### Casamance
 Abbiamo deciso di dedicare a questa zona del paese un paragrafo a parte, sia perché è il luogo che più ci è piaciuto (quanto? {{<extLink "scoprilo qui" "https://youtu.be/EAJRtniCcxc">}}), sia perché i modi per raggiungerla sono molteplici e volevamo racchiudere in merito tutte le informazioni che abbiamo trovato.

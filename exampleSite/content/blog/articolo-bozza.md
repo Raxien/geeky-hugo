@@ -1,7 +1,7 @@
 ---
 title: 'articolo bozza'
 description: " "
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
 date: 2023-09-23T08:00:00.000
 categories: ["Blog"]
 type: featured
@@ -15,7 +15,7 @@ draft: true
 
 **grassetto**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 [trovi tutto qui](/blog/) per link interno 
 

@@ -1,7 +1,7 @@
 ---
 title: 'Ricette dal mondo: i Pierogi polacchi'
 description: Quando siamo arrivati in Polonia abbiamo avuto il piacere di assaggiare i pierogi, tipici ravioli, nella versione salata.. e dolce! Siediti, abbiamo aggiunto un posto a tavola!
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689676111/Articoli/empanada/madrid/cordoba/Pierogi_z_mas%C5%82em_-_2023.03.31_kl1rw7.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689676111/Articoli/empanada/madrid/cordoba/Pierogi_z_mas%C5%82em_-_2023.03.31_kl1rw7.jpg
 date: 2023-07-26T10:00:00+01:00
 categories: [ "Cucina"]
 country: Polonia
@@ -23,7 +23,7 @@ Sarò sincera, a bordo non ho ancora provato a prepararli, un po' per pigrizia, 
 
 Ho fatto un po’ di ricerche, chiesto conferma a Kalina e quindi ecco qui per voi la **ricetta** per l’impasto dei deliziosi pierogi. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1200/f_auto,q_auto:eco/v1689676110/Articoli/empanada/madrid/cordoba/images_jlds9z.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1200/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689676110/Articoli/empanada/madrid/cordoba/images_jlds9z.jpg">}}
 
 ##### La ricetta segreta
 Ingredienti per 35-40 pierogi:

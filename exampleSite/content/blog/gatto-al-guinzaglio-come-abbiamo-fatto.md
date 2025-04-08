@@ -1,7 +1,7 @@
 ---
 title: 'Gatto al guinzaglio: come abbiamo fatto?' 
 description: "Scopri come abbiamo fatto ad abituare il nostro gatto al guinzaglio! Eccoti alcuni consigli e il perché di questa scelta!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1688983876/Articoli/Sicilia/valle-dei-templi-tempio-gatto_bdlwdd.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1688983876/Articoli/Sicilia/valle-dei-templi-tempio-gatto_bdlwdd.jpg
 date: 2022-07-26T17:00:00.000
 categories: ["Animali", "Blog"]
 type: regular
@@ -11,7 +11,7 @@ Il giorno in cui abbiamo iniziato le nostre avventure con il nostro gatto al gui
 ##### È possibile portare un gatto al guinzaglio?
 Sinceramente queste parole non ci sono venute in mente quando ci abbiamo provato e nemmeno nei giorni e nei mesi a seguire. Ci siamo documentati un po' su come fare, quello sì, e abbiamo **scoperto che non eravamo i primi!** Su Instagram ({{<extLink "a proposito qui trovi il nostro profilo" "https://www.instagram.com/vandipety/">}}) si trovano tantissimi profili di gatti che camminano fieri al guinzaglio, e poi c'era la storia vera di Bob, e quella di Nala e il suo padrone che gira il mondo in bici. Ci sentivamo capiti anche se nessuno vicino a noi viveva la stessa esperienza.
 
-![A passeggio per la Danimarca](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1658859422/Articoli/gatto_guinzaglio_2_v7bb9k.jpg)
+![A passeggio per la Danimarca](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1658859422/Articoli/gatto_guinzaglio_2_v7bb9k.jpg)
 
 ##### 10 consigli per abituare un gatto al guinzaglio
 
@@ -51,7 +51,7 @@ Per concludere, non abbiamo nessuna abilità particolare.
 
 **Ci siamo fidati di Sakè mentre lui si fidava di noi**. Il resto è solo avventura che speriamo di riuscire a raccontarti e trasmetterti ogni volta.
 
-![A passeggio per la Danimarca](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1658859432/Articoli/gatto_gunzaglio_zceav5.jpg)
+![A passeggio per la Danimarca](https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1658859432/Articoli/gatto_gunzaglio_zceav5.jpg)
 
 Ecco di seguito il video in cui raccontiamo la nostra esperienza :)
 

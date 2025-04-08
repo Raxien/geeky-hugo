@@ -1,7 +1,7 @@
 ---
 title: 'Un dolce speciale: la torta Leonardo'
 description: "La storia di una torta speciale per un evento speciale"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
 date: 2023-09-23T08:00:00.000
 categories: ["Blog"]
 type: featured
@@ -23,7 +23,7 @@ Quando abbiamo contattato Marco della {{<extLink "Pasticceria Luciano di Barge" 
 
 La conferma ci è arrivata quando ci siamo recati in negozio e abbiamo conosciuto di persona tutto il team, quando ci siamo seduti a tavola e abbiamo assaggiato i loro prodotti e ci siamo letteralmente commossi di fronte alla focaccia farcita e ai baci di dama che si scioglievano in bocca, quando abbiamo portato a bordo del van la porzione della torta che avevamo scelto per il nostro giorno. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 ##### Sua maestà: la torta
 
@@ -38,7 +38,7 @@ Vi cito la mission di Marco e del suo team, che trovate sul loro sito web, dal q
 
 Ecco, noi abbiamo davvero detto quel Wow, oltre al sì lo voglio, **voglio questa torta il giorno del mio matrimonio.**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Blog/dolci-luciano-barge_kspefv.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/dolci-luciano-barge_kspefv.jpg">}}
 
 ##### Un'esperienza unica
 

@@ -1,7 +1,7 @@
 ---
 title: 'Amsterdam con cane e gatto: 3 tappe imperdibili' 
 description: "Due gorni alla scoperta di una Amsterdam decisamente insolita "
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1683208317/IMG_0701_2_icitnu.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1683208317/IMG_0701_2_icitnu.jpg
 date: 2023-04-26T17:00:00.000
 categories: ["Europa", "Guida", "Animali", "Itinerari"]
 country: Paesi Bassi
@@ -23,12 +23,12 @@ Questi luoghi ci sono stati consigliati da Davide, e ci sentiamo di consigliarte
 
 **{{< underline "Museo Met Muizenhuis">}}**: è il piccolo {{<extLink "museo" "https://www.themousemansion.com/">}} dei topolini. Ingresso gratuito, una vera e propria opera d'arte a tutti gli effetti. Difficilmente uscirai senza aver preso almeno una cartolina ricordo o scattato una fotografia. Non aver timore a chiedere spiegazioni, la donna dietro al bancone è gentilissima e ci ha raccontato tutta la storia. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1683208308/IMG_0737_foal8a.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1683208308/IMG_0737_foal8a.jpg">}}
 
 **{{< underline "Museo Straat">}}**: è il {{<extLink "museo di street-art" "https://https://straatmuseum.com/en/">}} nel quartiere nord della città. Troverai opere anche sui muri dei palazzi limitrofi, ma la suo interno si nascondono delle vere opere d'arte. Tra queste citiamo anche le opere dell'italiano Millo (che potete vedere anche {{<extLink "a Torino per esempio" "https://www.turismotorino.org/it/esperienze/cultura/musei-e-fondazioni/arte-barriera-murales-millo">}}) Potresti anche vedere qualche artista all'opera. 
 Il quartiere è raggiungibile {{<extLink "https://reisinfo.gvb.nl/en/lijnen/F4/dienstregeling/heen/4257/ma-tm-vr " " gratuitamente con il traghetto F4">}}.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1683208301/IMG_1447_qfofcr.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1683208301/IMG_1447_qfofcr.jpg">}}
 
 ##### Itinerario completo
 Vuoi leggere ogni attimo della nostra avventura vissuta in città insieme a Olimpia e Sakè? Qui trovi il nostro diario giornaliero.
@@ -47,7 +47,7 @@ E ricorda, in città devi prestare più attenzione alle biciclette che a qualsia
 ##### Le nostre considerazioni
 Dobbiamo essere sinceri, Amsterdam è stata forse una delle mete che ci è piaciuta meno di tutti i Paesi Bassi. Forse avessimo visto solo la città ci sarebbe piaciuta parecchio, ma avendo scoperto anche i piccoli villaggi ne siamo rimasti colpiti maggiormente. Merita in ogni caso una visita, e se dovesse capitarti di raggiungerla in primavera ti consigliamo una visita al parco Keukenhof per ammirare le distese di tulipani in fiore. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1683208306/IMG_1446_krr9fi.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1683208306/IMG_1446_krr9fi.jpg">}}
 
 ##### Viaggiare con il proprio animale
 In città ci sono numerose fontane, ma se la visiti in estate con il tuo amico a quattro zampe, ti consigliamo di portare con te una ciotola (noi usiamo questa che attacchiamo allo zaino con il pratico moschettone) e una borraccia. 

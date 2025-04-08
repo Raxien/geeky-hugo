@@ -1,7 +1,7 @@
 ---
 title: 'Croazia in camper: un itinerario decisamente alternativo'
 description: "Scopri con noi l'entroterra croato fra borghi antichi, boschi, castelli e riserve etnografiche"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689874010/Articoli/Croazia/zagabria-cimitero-monumentale-okqqcg.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689874010/Articoli/Croazia/zagabria-cimitero-monumentale-okqqcg.jpg
 date: 2023-11-21T08:00:00.000
 categories: ["Europa", "Itinerari", "Balcani", "Camper"]
 country: Croazia
@@ -22,7 +22,7 @@ Il nostro itinerario di **5 tappe**, nel quale vi lasciamo anche i luoghi in cui
 **Samobor**, che dista circa un'ora dalla capitale, è un piccolo villaggio di casette a tinta pastello attraversato da un torrente e circondato da boschi che permettono numerose escursioni. Famoso è **il Carnevale di Samobor**, che rimanda ad antiche tradizioni letterarie e musicali. La scena è dominata dall'alto dalle rovine del **castello**, mentre in paese non è raro trovare bancarelle che vendono prodotti tipici come miele, biscotti e vino della zona. 
 Sosta in libera presso la **{{<extLink "stazione dei bus" "https://maps.app.goo.gl/18qSbD2dA51ggjBt9">}}**, in ampio parcheggio con cestini per i rifiuti e wifi gratuito ({{<extLink "scopri di più su WiFi4EU" "https://wifi4eu.ec.europa.eu/">}}). 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Croazia/samobor-q6opcu.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Croazia/samobor-q6opcu.jpg">}}
 
 ###### Zagabria 
 
@@ -76,13 +76,13 @@ Il villaggio di **Cigoc** è "famoso" per i numerosi **nidi di cicogne** che si 
 A Cigoc si può percorrere una passeggiata gratuita di 5 km immersa nella natura oppure si possono intraprendere dei veri e propri trail a pagamento (dalla cifra irrisoria di 3 euro circa).
 L'atmosfera ad ottobre era leggermente inquietante, tanto che sembrava di attraversare un paese fantasma popolato solo da galline e cani randagi. La sosta libera notturna non è permessa, ma volendo si trova un campeggio in centro paese che costa 30 euro a notte. Noi abbiamo proseguito verso il villaggio successivo. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Croazia/cigoc-case-zembwu.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Croazia/cigoc-case-zembwu.jpg">}}
 
 ###### Krapje
 
 Il vicino villaggio di **Krapje** è una meta decisamente più pittoresca, caratterizzata da un'unica via centrale costellata da tradizionali casette in legno. {{<extLink "Qui" "https://pp-lonjsko-polje.hr/">}} si trova un centro informazioni con un comodo parcheggio presso il quale abbiamo pernottato gratuitamente e che mette a disposizione bagni pubblici, tavolini per picnic e wifi (WIFI4EU). Nei dintorni parte un trail a pagamento che conduce verso la foresta ove non è consentito proseguire dato l'alto numero di animali selvatici. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1689094780/Articoli/Croazia/cigoc-case-vecchie-rp0npf.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Croazia/cigoc-case-vecchie-rp0npf.jpg">}}
 
 ###### Jasenovac 
 

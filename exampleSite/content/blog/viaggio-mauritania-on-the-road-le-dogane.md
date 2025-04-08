@@ -1,7 +1,7 @@
 ---
 title: 'Mauritania in camper: informazioni utili e dogana'
 description: "Ecco tutte le informazioni utili per entrare in Mauritania in camper, compresi i documenti necessari e il passavant"
-image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:eco/v1681930891/Articoli/Copertine/Mauritania_Camper_ofxmtr.jpg"
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1000/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1681930891/Articoli/Copertine/Mauritania_Camper_ofxmtr.jpg"
 date: 2023-03-06T17:00:00.000
 categories: ["Africa", "Guida", "Dogana", "Camper"]
 country: Mauritania

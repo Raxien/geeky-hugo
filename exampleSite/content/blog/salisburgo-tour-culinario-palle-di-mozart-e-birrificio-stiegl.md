@@ -1,7 +1,7 @@
 ---
 title: "Viaggiare con Animali Domestici in Giappone: Evita la Quarantena con le Normative, Trasporti e Sistemazioni Pet-Friendly"
 description: "Scopri come viaggiare con il tuo animale domestico in Giappone evitando la quarantena. Leggi la nostra guida completa su normative, trasporti pet-friendly e sistemazioni che accolgono animali."
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto:eco/v1739789765/Articoli/Giappone/giappone-quarantena_mau6pb.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1739789765/Articoli/Giappone/giappone-quarantena_mau6pb.jpg
 date: 2025-02-10T10:00:00+01:00
 categories: [ "Animali", "Guida"]
 type: featured
@@ -60,7 +60,7 @@ I funzionari giapponesi del MAFF valutano la tua documentazione e, se è tutto c
 A meno di 10 giorni dal viaggio, un veterinario sottopone il tuo animale a una visita clinica e rilascia **un certificato di buona salute e compila il Modulo AC.**
 Invia il modulo ai funzionari giapponesi, che verificano la sua correttezza. Questo passaggio è molto importante, perché **un piccolo errore può impedire al tuo animale domestico di entrare in Giappone.**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto:eco/v1739789925/Articoli/Giappone/giappone-certificato-esportazione_c2c1uz.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1739789925/Articoli/Giappone/giappone-certificato-esportazione_c2c1uz.jpg">}}
 
 Dopo la visita clinica recati presso gli uffici veterinari governativi del paese di provenienza (solitamente ogni veterinario locale fornisce il contatto dell’ufficio più vicino) con il certificato di buona salute e il Modulo AC; qui ricevi **il certificato di esportazione.** Invia anche questo documento al MAFF per ottenere l'approvazione finale.
 
@@ -76,7 +76,7 @@ A proposito, scopri {{<extLink "il trasportino preferito di Sakè!" "https://www
 
 `Nota: Il link al trasportino di Sakè è un link di affiliazione. Acquistando tramite esso, potremmo ricevere una commissione senza costi extra per te. Grazie per il supporto!`
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto:eco/v1739789925/Articoli/Giappone/giappone-trasportino_vlzuiu.png">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto:good,w_800,c_scale,dpr_auto/v1739789925/Articoli/Giappone/giappone-trasportino_vlzuiu.png">}}
 
 ###### 5. Procedura Post-Ispezione
 
