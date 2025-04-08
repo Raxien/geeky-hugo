@@ -10,7 +10,7 @@
     {{ range $name, $items := site.Taxonomies.categories }}
     <li>
       <a href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}" class="d-flex">
-        {{ $name | humanize }} <small class="ms-auto">{{ len $items }}</small>
+        {{ $name | humanize }} <small class="ms-auto" style="color: black !important">{{ len $items }}</small>
       </a>
     </li>
     {{ end }}
