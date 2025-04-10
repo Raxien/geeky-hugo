@@ -15,5 +15,3 @@
   X-XSS-Protection = "1; mode=block"
   Referrer-Policy = "same-origin"
   Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
-  Content-Encoding = "gzip, br"
-  Accept-Encoding = "gzip, br"
