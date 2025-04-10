@@ -30,11 +30,11 @@ img {
 a,
 a:hover,
 a:focus {
-  text-decoration: none;
+  text-decoration: $color-primary;
 }
 
 a:hover {
-  color: $color-primary;
+  color: $color-primary !important;
 }
 
 a,
@@ -344,6 +344,8 @@ select {
 .badge-primary {
   background-color: $color-primary !important;
   color: $white !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
 }
 
 .font-primary {

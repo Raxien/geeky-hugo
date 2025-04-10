@@ -22,34 +22,38 @@
                 {{ if $imagePath }}
                 <!-- image CDN -->
                 {{ if hasPrefix $imagePath "http" }}
-                <div class="image-container" style="width: 105px; height: 85px; position: relative; flex-shrink: 0;">
-                  <img loading="lazy" decoding="async" 
-                    src="{{ $imagePath | safeURL }}" 
-                    srcset="{{ $imagePath | safeURL }} 1x, {{ $imagePath | safeURL }} 2x"
-                    alt="{{ .Title }}"
-                    class="img-fluid rounded-4" 
-                    width="105" 
-                    height="85"
-                    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
-                </div>
+                <a href="{{.RelPermalink}}" class="d-block" style="overflow: hidden; width: 105px; height: 85px; flex-shrink: 0;">
+                  <div class="image-container" style="width: 100%; height: 100%; position: relative;">
+                    <img loading="lazy" decoding="async" 
+                      src="{{ $imagePath | safeURL }}" 
+                      srcset="{{ $imagePath | safeURL }} 1x, {{ $imagePath | safeURL }} 2x"
+                      alt="{{ .Title }}"
+                      class="img-fluid rounded-4" 
+                      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;"
+                      onmouseover="this.style.transform='scale(1.05)'"
+                      onmouseout="this.style.transform='scale(1)'">
+                  </div>
+                </a>
                 {{ else }}
                 <!-- /image cdn -->
 
                 <!-- image processing for single device -->
                 {{ if fileExists (add `assets/` $imagePath) }}
                 {{ $image:= resources.Get $imagePath }}
-                {{ $imageFallback:= $image.Fill "105x85" }}
-                {{ $imageWebp:= $image.Fill "105x85 webp" }}
-                <div class="image-container" style="width: 105px; height: 85px; position: relative; flex-shrink: 0;">
-                  <img loading="lazy" decoding="async" 
-                    src="{{$imageWebp.RelPermalink}}" 
-                    alt="{{ .Title }}" 
-                    width="105" 
-                    height="85"
-                    class="img-fluid rounded-4"
-                    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;"
-                    onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
-                </div>
+                {{ $imageFallback:= $image.Fill "105x85 Center" }}
+                {{ $imageWebp:= $image.Fill "105x85 Center webp" }}
+                <a href="{{.RelPermalink}}" class="d-block" style="overflow: hidden; width: 105px; height: 85px; flex-shrink: 0;">
+                  <div class="image-container" style="width: 100%; height: 100%; position: relative;">
+                    <img loading="lazy" decoding="async" 
+                      src="{{$imageWebp.RelPermalink}}" 
+                      alt="{{ .Title }}" 
+                      class="img-fluid rounded-4"
+                      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;"
+                      onmouseover="this.style.transform='scale(1.05)'"
+                      onmouseout="this.style.transform='scale(1)'"
+                      onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
+                  </div>
+                </a>
                 {{ end }}
                 <!-- /image processing for single device -->
                 {{ end }}
