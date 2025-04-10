@@ -58,11 +58,11 @@
                 <!-- /image processing for single device -->
                 {{ end }}
                 {{ end }}
-                <div class="card-body ps-sm-3">
-                  <h3 class="h6">
+                <div class="card-body ps-sm-3" style="flex: 1; min-width: 0;">
+                  <h3 class="h6 mb-2" style="font-size: 1rem; line-height: 1.4;">
                     <a class="title-linked" href="{{.RelPermalink}}">{{.Title | markdownify}}</a>
                   </h3>
-                  <ul class="list-inline card-meta d-flex align-items-center mb-3">
+                  <ul class="list-inline card-meta d-flex align-items-center mb-2" style="font-size: 0.85rem;">
                     {{ if .Params.country}}
                     <li class="list-inline-item d-flex align-items-center">
                       <i class="fas fa-map-pin me-2"></i>
@@ -140,7 +140,7 @@
       <div class="col-lg-16 mb-5 mb-lg-0">
         {{with site.Params.recent_post_title}}
         <div class="section-title">
-          <h2 class="h4 title-border">{{ . | markdownify}}</h2>
+          <h2 class="h3 title-border">{{ . | markdownify}}</h2>
         </div>
         {{end}}
       </div>
