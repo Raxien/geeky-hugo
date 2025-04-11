@@ -12,4 +12,42 @@ document.addEventListener('DOMContentLoaded', function() {
   if (newsletterForm) {
     newsletterForm.addEventListener('submit', handleSubscribe);
   }
+
+  // Toggle search box
+  const toggleSearch = document.querySelectorAll('.toggle-search');
+  const searchWrap = document.getElementById('search-wrap');
+
+  toggleSearch.forEach(function(button) {
+    button.addEventListener('click', function(e) {
+      e.preventDefault();
+      const target = this.dataset.target;
+      const element = document.querySelector(target);
+      if (element) {
+        element.classList.toggle('active');
+        if (element.classList.contains('active')) {
+          element.querySelector('input').focus();
+        }
+      }
+    });
+  });
+
+  // Close search box when clicking outside
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('#search-wrap') && !e.target.closest('.toggle-search')) {
+      if (searchWrap && searchWrap.classList.contains('active')) {
+        searchWrap.classList.remove('active');
+      }
+    }
+  });
+
+  // Handle search form submission
+  const searchForm = document.getElementById('search-form');
+  if (searchForm) {
+    searchForm.addEventListener('submit', function(e) {
+      const searchQuery = document.getElementById('search-query').value.trim();
+      if (!searchQuery) {
+        e.preventDefault();
+      }
+    });
+  }
 }); 
