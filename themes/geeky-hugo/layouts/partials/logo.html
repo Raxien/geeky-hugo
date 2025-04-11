@@ -18,18 +18,25 @@
 <!-- logo fallback for svg -->
 {{ .Scratch.Set "logo_fallback" $logo.RelPermalink }}
 {{ else }}
-<!-- logo processing to webp -->
+<!-- logo processing to webp and avif -->
 {{ $logoDefaultWidth:= add (string $logo.Width) "x"}}
 {{ $logoWidth:= $logoWidth | default $logoDefaultWidth }}
-{{ $options := add (string $logoWidth) " webp" }}
-{{ .Scratch.Set "logo" ($logo.Resize $options).RelPermalink }}
+{{ $webpOptions := add (string $logoWidth) " webp" }}
+{{ $avifOptions := add (string $logoWidth) " avif" }}
+{{ .Scratch.Set "logo_webp" ($logo.Resize $webpOptions).RelPermalink }}
+{{ .Scratch.Set "logo_avif" ($logo.Resize $avifOptions).RelPermalink }}
 <!-- logo fallback -->
 {{ .Scratch.Set "logo_fallback" ($logo.Resize $logoWidth).RelPermalink }}
 {{ end }}
 
-<img loading="lazy" decoding="async" class="img-fluid logoOther" {{if ne $logoExt `.svg`}}
-  width="{{$logoWidth | default $logo.Width}}" height="{{$logoHeight | default $logo.Height}}" {{end}} src="{{.Scratch.Get `logo`}}"
-  alt="{{ site.Title }}" onerror="this.onerror=null;this.src='{{.Scratch.Get `logo_fallback`}}'">
+<img loading="lazy" decoding="async" class="img-fluid logoOther" 
+  {{if ne $logoExt `.svg`}}
+  srcset="{{ .Scratch.Get "logo_avif" }} 1x, {{ .Scratch.Get "logo_webp" }} 1x"
+  src="{{ .Scratch.Get "logo_fallback" }}"
+  {{else}}
+  src="{{ .Scratch.Get "logo" }}"
+  {{end}}
+  alt="{{ site.Title }}" width="{{ site.Params.logo_width }}" height="{{ site.Params.logo_height }}">
 {{ else }}
 <strong class="text-danger">`{{$logoPath}}` doesn't exist</strong>
 {{ end }} 
