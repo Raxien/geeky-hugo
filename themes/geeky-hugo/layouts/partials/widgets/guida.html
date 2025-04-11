@@ -1,0 +1,159 @@
+<div class="widget newsletter-widget">
+  <div class="widget-title">
+    <h3 class="h5 title-border">Le nostre guide</h3>
+  </div>
+  
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <!-- Slide 1 -->
+      <div class="swiper-slide">
+        <div class="slide-content">
+          <img src="/images/guide/guida1.jpg" alt="Guida 1" class="slide-image">
+          <div class="slide-text">
+            <h4>Titolo Guida 1</h4>
+            <p>Descrizione della prima guida</p>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Slide 2 -->
+      <div class="swiper-slide">
+        <div class="slide-content">
+          <img src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1744353858/Articoli/Blog/transiberiana-on-the-road-guida_kaoxl5.jpg" alt="Guida 2" class="slide-image">
+          <div class="slide-text">
+            <h4>Transiberiana on the road</h4>
+            <p>Descrizione della seconda guida</p>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Slide 3 -->
+      <div class="swiper-slide">
+        <div class="slide-content">
+          <img src="/images/guide/guida3.jpg" alt="Guida 3" class="slide-image">
+          <div class="slide-text">
+            <h4>Titolo Guida 3</h4>
+            <p>Descrizione della terza guida</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Pagination -->
+    <div class="swiper-pagination"></div>
+    
+    <!-- Navigation buttons -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
+
+  <style>
+    .swiper-container {
+      width: 100%;
+      height: 0;
+      padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+      margin-bottom: 20px;
+      border-radius: 12px;
+      overflow: hidden;
+      background-color: #f5f5f5;
+      position: relative;
+    }
+    
+    .swiper-wrapper {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+    
+    .slide-content {
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+    
+    .slide-image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    
+    .slide-text {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4));
+      color: white;
+      padding: 15px;
+    }
+    
+    .slide-text h4 {
+      margin: 0 0 5px 0;
+      font-size: 1.2em;
+    }
+    
+    .slide-text p {
+      margin: 0;
+      font-size: 0.9em;
+    }
+    
+    .swiper-button-next,
+    .swiper-button-prev {
+      color: white;
+    }
+    
+    .swiper-pagination-bullet {
+      background: white;
+    }
+
+    /* Placeholder durante il caricamento */
+    .swiper-slide {
+      background-color: #f5f5f5;
+    }
+
+    .swiper-slide img {
+      opacity: 0;
+      transition: opacity 0.3s ease-in-out;
+    }
+
+    .swiper-slide img.loaded {
+      opacity: 1;
+    }
+  </style>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      new Swiper('.swiper-container', {
+        loop: true,
+        autoplay: {
+          delay: 5000,
+          disableOnInteraction: false,
+        },
+        pagination: {
+          el: '.swiper-pagination',
+          clickable: true,
+        },
+        navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev',
+        },
+      });
+
+      // Gestione del caricamento delle immagini
+      const images = document.querySelectorAll('.slide-image');
+      images.forEach(img => {
+        if (img.complete) {
+          img.classList.add('loaded');
+        } else {
+          img.addEventListener('load', function() {
+            this.classList.add('loaded');
+          });
+        }
+      });
+    });
+  </script>
+</div>
+

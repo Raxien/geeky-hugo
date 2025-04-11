@@ -469,6 +469,7 @@ select {
 
       @include tablet {
         font-size: 17px;
+        padding-left: 20px !important;
 
         &::before,
         &::after {

@@ -33,6 +33,10 @@ a:focus {
   text-decoration: $color-primary;
 }
 
+.a-country {
+  text-decoration: none !important;
+}
+
 a:hover {
   color: $color-primary !important;
 }
@@ -469,6 +473,7 @@ select {
 
       @include tablet {
         font-size: 17px;
+        padding-left: 20px !important;
 
         &::before,
         &::after {
