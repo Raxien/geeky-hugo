@@ -3,15 +3,20 @@
 {{- $sectionDelimiter := "<!-- section break -->" -}}
 {{- $rawContentSections := split .RawContent $sectionDelimiter -}}
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"
-  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<!-- Preload scripts -->
+<link rel="preload" href="https://code.jquery.com/jquery-3.6.0.min.js" as="script">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js" as="script">
+<link rel="preload" href="https://cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.9.0/dist/svgMap.min.js" as="script">
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/moment.min.js" as="script">
 
-<script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.9.0/dist/svgMap.min.js"></script>
+<!-- Load scripts with defer -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.9.0/dist/svgMap.min.js" defer></script>
 <link href="https://cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.9.0/dist/svgMap.min.css" rel="stylesheet">
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/moment.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/locale/it.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/moment.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/locale/it.js" defer></script>
 
 <!--=================== expanses section start ===================-->
 <section class="section">
