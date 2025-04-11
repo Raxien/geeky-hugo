@@ -48,4 +48,119 @@
       },
     });
   });
+
+  // Funzione per tradurre il contenuto
+  async function translateContent() {
+    console.log('Funzione translateContent chiamata');
+    
+    const articleContent = document.querySelector('.content.drop-cap');
+    const translateBtn = document.querySelector('button[onclick="translateContent()"]');
+    
+    console.log('Elementi trovati:', {
+      articleContent: articleContent,
+      translateBtn: translateBtn
+    });
+    
+    if (!articleContent) {
+      console.error('Elemento .content.drop-cap non trovato');
+      return;
+    }
+    
+    const isTranslated = articleContent.classList.contains('translated');
+    console.log('Stato traduzione:', isTranslated);
+    
+    if (!isTranslated) {
+      console.log('Inizio traduzione...');
+      
+      // Mostra il loader
+      translateBtn.innerHTML = '<i class="fas fa-spinner fa-spin me-2 text-primary"></i><span class="text-primary d-inline-block d-md-none">Trad...</span><span class="text-primary d-none d-md-inline-block">Translating...</span>';
+      translateBtn.disabled = true;
+      
+      // Salva il contenuto originale
+      articleContent.setAttribute('data-original-content', articleContent.innerHTML);
+      
+      // Traduci il contenuto preservando la struttura HTML
+      const elements = articleContent.querySelectorAll('h1, h2, h3, h4, h5, h6, p, li, span, figcaption');
+      // Aggiungiamo anche il titolo dell'articolo
+      const title = document.querySelector('h3.mb-4');
+      if (title) {
+        elements.push(title);
+      }
+      console.log('Elementi da tradurre trovati:', elements.length);
+      
+      // Funzione per tradurre un singolo nodo
+      async function translateNode(node) {
+        if (node.nodeType === Node.TEXT_NODE && node.textContent.trim() !== '') {
+          console.log('Traduzione nodo testo:', node.textContent.substring(0, 50) + '...');
+          
+          // Preserva gli spazi prima e dopo
+          const leadingSpace = node.textContent.match(/^\s+/)?.[0] || '';
+          const trailingSpace = node.textContent.match(/\s+$/)?.[0] || '';
+          const text = node.textContent.trim();
+          
+          const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=it&tl=en&dt=t&q=${encodeURIComponent(text)}`;
+          
+          try {
+            const response = await fetch(url);
+            const data = await response.json();
+            let translatedText = data[0].map(item => item[0]).join('');
+            
+            // Ripristina gli spazi
+            translatedText = leadingSpace + translatedText + trailingSpace;
+            
+            // Preserva la capitalizzazione originale
+            if (text[0] !== text[0].toUpperCase()) {
+              translatedText = translatedText.charAt(0).toLowerCase() + translatedText.slice(1);
+            }
+            
+            console.log('Testo tradotto:', translatedText.substring(0, 50) + '...');
+            node.textContent = translatedText;
+          } catch (error) {
+            console.error('Errore nella traduzione:', error);
+          }
+        } else if (node.nodeType === Node.ELEMENT_NODE) {
+          // Se è un elemento, processa i suoi figli
+          const childNodes = Array.from(node.childNodes);
+          for (const child of childNodes) {
+            await translateNode(child);
+          }
+        }
+      }
+      
+      // Traduci tutti gli elementi
+      for (const element of elements) {
+        console.log(`Processo elemento:`, element);
+        if (element.textContent.trim() !== '') {
+          // Crea una copia temporanea dell'elemento
+          const tempDiv = document.createElement('div');
+          tempDiv.innerHTML = element.innerHTML;
+          
+          // Traduci il contenuto
+          await translateNode(tempDiv);
+          
+          // Aggiorna l'elemento originale mantenendo la struttura HTML
+          element.innerHTML = tempDiv.innerHTML;
+          console.log(`Elemento tradotto:`, element.innerHTML);
+        }
+      }
+      
+      articleContent.classList.add('translated');
+      translateBtn.disabled = false;
+      translateBtn.innerHTML = '<i class="fas fa-language me-2 text-primary"></i><span class="text-primary d-inline-block d-md-none">Orig.</span><span class="text-primary d-none d-md-inline-block">View original</span>';
+      console.log('Traduzione completata');
+    } else {
+      console.log('Ripristino contenuto originale...');
+      // Mostra il loader
+      translateBtn.innerHTML = '<i class="fas fa-spinner fa-spin me-2 text-primary"></i><span class="text-primary d-inline-block d-md-none">Ripr...</span><span class="text-primary d-none d-md-inline-block">Restoring...</span>';
+      translateBtn.disabled = true;
+      
+      // Ripristina il contenuto originale
+      articleContent.innerHTML = articleContent.getAttribute('data-original-content');
+      articleContent.classList.remove('translated');
+      
+      translateBtn.disabled = false;
+      translateBtn.innerHTML = '<i class="fas fa-language me-2 text-primary"></i><span class="text-primary d-inline-block d-md-none">Trad.</span><span class="text-primary d-none d-md-inline-block">Translate to English</span>';
+      console.log('Contenuto originale ripristinato');
+    }
+  }
 </script>

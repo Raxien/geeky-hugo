@@ -55,7 +55,7 @@
         {{ end }}
         {{ end }}
         <h1 class="h3 mb-4">{{.Title | markdownify}}</h1>
-        <ul class="list-inline card-meta d-flex align-items-center mb-4">
+        <ul class="list-inline card-meta d-flex align-items-center mb-4 small">
           <li class="list-inline-item d-flex align-items-center" style="display: none !important; ">
             <i class="fas fa-user me-2"></i>
             <a href="{{`about` | relLangURL}}">{{site.Params.author}}</a>
@@ -83,33 +83,64 @@
             {{ $month := (string $aMonth)}}
             {{ $year := (string $aYear)}}
 
-            {{ replace $day "," " " }}
-            {{ if eq $month "January" }}
-            {{ "Gennaio" }}
-            {{ else if eq $month "February" }}
-            {{ "Febbraio" }}
-            {{ else if eq $month "March" }}
-            {{ "Marzo" }}
-            {{ else if eq $month "April" }}
-            {{ "Aprile" }}
-            {{ else if eq $month "May" }}
-            {{ "Maggio" }}
-            {{ else if eq $month "June" }}
-            {{ "Giugno" }}
-            {{ else if eq $month "July" }}
-            {{ "Luglio" }}
-            {{ else if eq $month "August" }}
-            {{ "Agosto" }}
-            {{ else if eq $month "September" }}
-            {{ "Settembre" }}
-            {{ else if eq $month "October" }}
-            {{ "Ottobre" }}
-            {{ else if eq $month "November" }}
-            {{ "Novembre" }}
-            {{ else if eq $month "December" }}
-            {{ "Dicembre" }}
-            {{ end }}
-            {{ $year }}
+            <span class="d-inline-block d-md-none">
+              {{ replace $day "," " " }}
+              {{ if eq $month "January" }}
+              {{ "Gen" }}
+              {{ else if eq $month "February" }}
+              {{ "Feb" }}
+              {{ else if eq $month "March" }}
+              {{ "Mar" }}
+              {{ else if eq $month "April" }}
+              {{ "Apr" }}
+              {{ else if eq $month "May" }}
+              {{ "Mag" }}
+              {{ else if eq $month "June" }}
+              {{ "Giu" }}
+              {{ else if eq $month "July" }}
+              {{ "Lug" }}
+              {{ else if eq $month "August" }}
+              {{ "Ago" }}
+              {{ else if eq $month "September" }}
+              {{ "Set" }}
+              {{ else if eq $month "October" }}
+              {{ "Ott" }}
+              {{ else if eq $month "November" }}
+              {{ "Nov" }}
+              {{ else if eq $month "December" }}
+              {{ "Dic" }}
+              {{ end }}
+              {{ $year }}
+            </span>
+            <span class="d-none d-md-inline-block">
+              {{ replace $day "," " " }}
+              {{ if eq $month "January" }}
+              {{ "Gennaio" }}
+              {{ else if eq $month "February" }}
+              {{ "Febbraio" }}
+              {{ else if eq $month "March" }}
+              {{ "Marzo" }}
+              {{ else if eq $month "April" }}
+              {{ "Aprile" }}
+              {{ else if eq $month "May" }}
+              {{ "Maggio" }}
+              {{ else if eq $month "June" }}
+              {{ "Giugno" }}
+              {{ else if eq $month "July" }}
+              {{ "Luglio" }}
+              {{ else if eq $month "August" }}
+              {{ "Agosto" }}
+              {{ else if eq $month "September" }}
+              {{ "Settembre" }}
+              {{ else if eq $month "October" }}
+              {{ "Ottobre" }}
+              {{ else if eq $month "November" }}
+              {{ "Novembre" }}
+              {{ else if eq $month "December" }}
+              {{ "Dicembre" }}
+              {{ end }}
+              {{ $year }}
+            </span>
             </span>
           </li>
           <li class="list-inline-item d-flex align-items-center">
@@ -117,8 +148,14 @@
             {{ $readTime := mul (div (countwords .Content) 300.0) 60 }}
             {{ $minutes := math.Floor (div $readTime 60) }}
             {{ $seconds := mod $readTime 60 }}
-            <span>{{ $minutes }} {{ cond (eq $minutes 1) "minuto" "minuti" }} e
+            <span class="d-inline-block d-md-none">{{ $minutes }}m {{ $seconds }}s</span>
+            <span class="d-none d-md-inline-block">{{ $minutes }} {{ cond (eq $minutes 1) "minuto" "minuti" }} e
                   {{ $seconds }} {{ cond (eq $seconds 1) "secondo" "secondi" }}</span>
+          </li>
+          <li class="list-inline-item d-flex align-items-center">
+            <button onclick="translateContent()" class="btn btn-sm btn-outline-primary">
+              <i class="fas fa-language me-2"></i><span class="d-inline-block d-md-none">Trad.</span><span class="d-none d-md-inline-block">Translate to English</span>
+            </button>
           </li>
           {{ if .Params.sponsored}}
           <li class="list-inline-item d-flex align-items-center">
