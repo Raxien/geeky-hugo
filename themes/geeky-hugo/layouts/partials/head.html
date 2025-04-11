@@ -114,3 +114,24 @@
 {{ if not hugo.IsServer }}
   {{ template "_internal/google_analytics.html" . }}
 {{ end }}
+
+<!-- Custom CSS for responsive images -->
+<style>
+  @media (min-width: 576px) {
+    .featured-image-container {
+      width: 105px !important;
+      height: 85px !important;
+    }
+  }
+  @media (max-width: 575.98px) {
+    .featured-image-container {
+      width: 100% !important;
+      height: 200px !important;
+    }
+  }
+  .featured-image-container {
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+</style>

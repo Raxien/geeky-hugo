@@ -232,7 +232,7 @@
       loadConsentScripts(consentValue);
   }
   function loadConsentScripts(consentValue) {
-    console.log('loadConsentScripts');
+/*     console.log('loadConsentScripts'); */
     // debugger;
       scripts.forEach(function(value,key){
         if(consentValue[key] == "0")
@@ -245,7 +245,7 @@
   }
 
   function eraseCookie(name) {
-    console.log('elimina ' + name)
+/*     console.log('elimina ' + name) */
     document.cookie = name + '=; Max-Age=0'
   }
 
