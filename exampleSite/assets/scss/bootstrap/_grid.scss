@@ -20,3 +20,11 @@
 @if $enable-grid-classes {
   @include make-grid-columns();
 }
+
+.row-mobile {
+
+  @media (max-width: 768px) {
+    margin-top: -40px !important;
+    margin-bottom: -40px !important;
+  }
+} 

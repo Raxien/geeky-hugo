@@ -20,8 +20,8 @@
             <script id="search-result-template" type="text/x-js-template">
               <div class="col-sm-6 mb-4">
                 <div class="card">
-                  <div class="mb-4 position-relative">
-                    <img loading="lazy" decoding="async" class="img-fluid w-100 rounded-4" src="${image}" alt="${title}">
+                  <div class="mb-4 position-relative" style="overflow: hidden; border-radius: 0.5rem !important;">
+                    <img loading="lazy" decoding="async" class="img-fluid w-100 rounded-4" src="${image}" alt="${title}" style="border-radius: 0.5rem !important; display: block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
                     ${ isset categories }<ul class="list-inline card-badge"><li class="list-inline-item"><span class="badge badge-primary py-1">${categories0}</span></li><li class="list-inline-item ${visible1}"><span class="badge badge-primary py-1">${categories1}</span></li><li class="list-inline-item ${visible2}"><span class="badge badge-primary py-1">${categories2}</span></li><li class="list-inline-item ${visible3}"><span class="badge badge-primary py-1">${categories3}</span></li></ul>${ end }
                   </div>
                   <div class="card-body">
@@ -35,7 +35,6 @@
                       </li>
                     </ul>
                     <p class="card-text mb-4">${snippet}</p>
-                    <a href="${link}" class="btn btn-outline-primary btn-sm">Leggi</a>
                   </div>
                 </div>
               </div>

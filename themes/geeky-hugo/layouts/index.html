@@ -255,7 +255,7 @@
 <!--=================== blog section start ===================-->
 <section class="section" style="padding-top: 0px">
   <div class="container">
-    <div class="row">
+    <div class="row row-mobile">
       <div class="col-lg-16 mb-5 mb-lg-0">
         {{with site.Params.recent_post_title}}
         <div class="section-title">
@@ -295,15 +295,15 @@
             <!-- Previous page. -->
             {{ if $paginator.HasPrev }}
             <li class="page-item prev d-flex align-items-center">
-              <a class="page-link disabled" href="{{ $paginator.Prev.URL }}" aria-label="Precedente"><i
+              <a class="page-link" href="{{ $paginator.Prev.URL }}" aria-label="Precedente"><i
                   class="fas fa-arrow-left me-3"></i><span class="d-none d-sm-inline">Precedente</span>
               </a>
             </li>
             {{ else }}
-            <li class="page-item prev d-flex align-items-center disabled">
-              <span class="page-link disabled" aria-label="Precedente"><i
+            <li class="page-item prev d-flex align-items-center">
+              <a class="page-link disabled" href="#" aria-label="Precedente"><i
                   class="fas fa-arrow-left me-3"></i><span class="d-none d-sm-inline">Precedente</span>
-              </span>
+              </a>
             </li>
             {{ end }}
             <!-- Page numbers. -->
