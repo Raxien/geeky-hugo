@@ -3,18 +3,89 @@
     <h3 class="h5 title-border">Ultimi Vlog</h3>
   </div>
   
-  <div class="youtube-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 15px; border-radius: 12px;">
-    <iframe 
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 12px;" 
-      src="https://www.youtube-nocookie.com/embed/videoseries?si=T7Dko4vd6HfodYNo&amp;controls=0&amp;list=PLHaclq_J5PZ_gu1kNkYx-mEQPchUK3Wzh" 
-      title="YouTube video player" 
-      frameborder="0" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-      referrerpolicy="strict-origin-when-cross-origin" 
-      allowfullscreen>
-    </iframe>
+  <div class="youtube-wrapper" style="width: 100%; position: relative; margin-bottom: 15px;">
+    <div class="youtube-container" style="position: relative; width: 100%; padding-bottom: 56.25%; border-radius: 12px; overflow: hidden;">
+      <!-- Facade -->
+      <div class="youtube-facade" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; cursor: pointer; background-size: cover; background-position: center;">
+        <div style="text-align: center; position: relative;">
+          <i class="fas fa-play" style="font-size: 23px; color: white; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);"></i>
+          <i class="fab fa-youtube" style="font-size: 40px; color: #ff0000; position: relative; z-index: 1;"></i>
+        </div>
+<!--           <p style="margin-top: 10px; color: #fff; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Clicca per guardare il video</p>
+ -->        </div>
+      </div>
+      
+      <!-- Iframe -->
+      <div class="youtube-iframe" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0; transition: opacity 0.3s ease-in-out; pointer-events: none;">
+        <iframe 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 12px;" 
+          src="about:blank" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          referrerpolicy="strict-origin-when-cross-origin" 
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
   </div>
   
   <p class="text-light-900 small content" style="margin-bottom: 5px;">Oppure guarda tutte le <a href="https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" class="text-light-900"><strong>nostre avvenuture</strong></a></p>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const youtubeFacade = document.querySelector('.youtube-facade');
+      const youtubeIframe = document.querySelector('.youtube-iframe iframe');
+      const youtubeIframeContainer = document.querySelector('.youtube-iframe');
+      const playlistId = 'PLHaclq_J5PZ_gu1kNkYx-mEQPchUK3Wzh';
+      const apiKey = 'AIzaSyB-m8BmXqPNdNSyTanaww8Uv51TzXKzsqU';
+      
+      // Funzione per ottenere l'anteprima del primo video pubblico
+      async function getFirstPublicVideoThumbnail() {
+        try {
+          const response = await fetch(`https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,status&maxResults=50&playlistId=${playlistId}&key=${apiKey}`);
+          const data = await response.json();
+          
+          if (data.items) {
+            // Cerca il primo video pubblico
+            const publicVideo = data.items.find(item => item.status.privacyStatus === 'public');
+            
+            if (publicVideo) {
+              const videoId = publicVideo.snippet.resourceId.videoId;
+              const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`;
+              
+              // Imposta l'immagine di sfondo
+              youtubeFacade.style.backgroundImage = `url('${thumbnailUrl}')`;
+            } else {
+              console.log('Nessun video pubblico trovato nella playlist');
+            }
+          }
+        } catch (error) {
+          console.error('Errore nel caricamento dell\'anteprima:', error);
+        }
+      }
+      
+      // Carica l'anteprima
+      getFirstPublicVideoThumbnail();
+      
+      youtubeFacade.addEventListener('click', function() {
+        // Nascondi il facade con una transizione
+        youtubeFacade.style.opacity = '0';
+        youtubeFacade.style.transition = 'opacity 0.3s ease-in-out';
+        
+        // Mostra l'iframe con una transizione
+        youtubeIframeContainer.style.opacity = '1';
+        youtubeIframeContainer.style.pointerEvents = 'auto';
+        
+        // Carica il video
+        youtubeIframe.src = `https://www.youtube-nocookie.com/embed/videoseries?list=${playlistId}&controls=0&autoplay=1`;
+        
+        // Rimuovi il facade dopo la transizione
+        setTimeout(() => {
+          youtubeFacade.style.display = 'none';
+        }, 300);
+      });
+    });
+  </script>
 </div>
 
