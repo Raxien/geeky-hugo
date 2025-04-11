@@ -1,6 +1,6 @@
 {{ $guides := index .Site.Data.guides "guides" }}
 
-<div class="widget guides-widget">
+<div class="widget guides-widget guides-widget-no-pagination">
   <div class="widget-title">
     <h3 class="h5 title-border">Le nostre guide</h3>
   </div>
@@ -24,9 +24,6 @@
     <div class="swiper-button-next"></div>
     <div class="swiper-button-prev"></div>
   </div>
-
-  <!-- Pagination -->
-  <div class="guides-pagination swiper-pagination"></div>
 
   <script>
     document.addEventListener('DOMContentLoaded', function() {

@@ -202,17 +202,28 @@
     height: 100%;
     z-index: 2;
   }
-  .guides-pagination {
-    position: relative;
-    margin-top: 15px;
-    text-align: center;
+  .guides-slider .swiper-button-next,
+  .guides-slider .swiper-button-prev {
+    color: white;
   }
-  .guides-pagination .swiper-pagination-bullet {
-    background: #333;
+  .guides-slider .swiper-pagination {
+    position: absolute !important;
+    bottom: 10px !important;
+    left: 0;
+    right: 0;
+    z-index: 10;
+  }
+  .guides-slider .swiper-pagination-bullet {
+    background: white;
     opacity: 0.5;
   }
-  .guides-pagination .swiper-pagination-bullet-active {
+  .guides-slider .swiper-pagination-bullet-active {
     opacity: 1;
+  }
+
+  /* Nascondi i puntini per il widget guida */
+  .guides-widget-no-pagination .swiper-pagination {
+    display: none;
   }
 </style>
 
