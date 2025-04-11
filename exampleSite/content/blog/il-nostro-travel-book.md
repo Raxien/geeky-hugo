@@ -1,7 +1,7 @@
 ---
 title: 'E'' uscito il Travel Book per seguire il nostro viaggio!'
 description: "Scopri le nostre avventure in tempo reale con post, foto e racconti esclusivi di quest''epico viaggio verso il Giappone"
-image: images/travel-book-jp.png
+image:  https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1657123237/Articoli/Blog/travel-book-jp_avasf5.png
 date: 2024-09-22T00:00:00.000
 categories: ["Blog"]
 type: featured
