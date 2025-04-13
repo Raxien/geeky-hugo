@@ -36,79 +36,8 @@
 
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-      // Carica la prima immagine immediatamente
-      const firstImage = document.querySelector('.swiper-slide img[data-src]');
-      if (firstImage && firstImage.dataset.src) {
-        firstImage.src = firstImage.dataset.src;
-        firstImage.removeAttribute('data-src');
-        firstImage.addEventListener('load', function() {
-          this.style.opacity = '1';
-        });
-      }
-
-      let swiper = new Swiper('.guides-slider', {
-        loop: true,
-        autoplay: {
-          delay: 5000,
-          disableOnInteraction: false,
-        },
-        pagination: {
-          el: '.guides-pagination',
-          clickable: true,
-        },
-        navigation: {
-          nextEl: '.swiper-button-next',
-          prevEl: '.swiper-button-prev',
-        },
-        on: {
-          init: function() {
-            // Carica tutte le immagini all'inizializzazione
-            loadAllImages();
-          },
-          slideChange: function() {
-            // Carica l'immagine della nuova slide attiva e delle adiacenti
-            loadSlideImages(this.activeIndex);
-          }
-        }
-      });
-
-      // Funzione per caricare tutte le immagini
-      function loadAllImages() {
-        const images = document.querySelectorAll('.swiper-slide img[data-src]');
-        images.forEach(img => {
-          if (img.dataset.src) {
-            const src = img.dataset.src;
-            img.src = src;
-            img.removeAttribute('data-src');
-            img.addEventListener('load', function() {
-              this.style.opacity = '1';
-            });
-          }
-        });
-      }
-
-      // Funzione per caricare le immagini delle slide
-      function loadSlideImages(activeIndex) {
-        const slides = document.querySelectorAll('.swiper-slide');
-        const totalSlides = slides.length;
-        
-        // Carica l'immagine della slide attiva
-        loadImage(slides[activeIndex]);
-        
-        // Carica l'immagine della slide precedente
-        const prevIndex = (activeIndex - 1 + totalSlides) % totalSlides;
-        loadImage(slides[prevIndex]);
-        
-        // Carica l'immagine della slide successiva
-        const nextIndex = (activeIndex + 1) % totalSlides;
-        loadImage(slides[nextIndex]);
-      }
-
       // Funzione per caricare una singola immagine
-      function loadImage(slide) {
-        if (!slide) return;
-        
-        const img = slide.querySelector('img[data-src]');
+      function loadImage(img) {
         if (img && img.dataset.src) {
           const src = img.dataset.src;
           img.src = src;
@@ -118,6 +47,12 @@
           });
         }
       }
+
+      // Carica tutte le immagini
+      const images = document.querySelectorAll('.swiper-slide img[data-src]');
+      images.forEach(loadImage);
+
+
     });
   </script>
 </div>
