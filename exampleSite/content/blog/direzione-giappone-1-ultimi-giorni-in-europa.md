@@ -37,7 +37,7 @@ Subito dopo ci ritroviamo ad attraversare un piccolo bazar, dove è possibile ac
 È la vista quassù a fare da padrona: le montagne innevate, i minareti, le cupole, i tetti. Un nuovo orizzonte, mentre tutt’attorno regna il silenzio.
 Restiamo fermi qualche istante, per scattare un fermo immagine anche con il cuore. 
 
-{{< youtube "NCuyE5-0LRM">}}
+{{< youtube2 "NCuyE5-0LRM">}}
 
 ##### Direzione Istanbul
 

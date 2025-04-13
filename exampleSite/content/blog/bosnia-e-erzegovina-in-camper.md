@@ -40,47 +40,12 @@ Dal centro cittadino, che pullula di bar e negozietti, si può salire in cima al
 A 10 minuti di strada da Jaice si trovano invece i mulini, **cosiddetti Mlincici, e il lago Pliva**. 
 Ad oggi i mulini non sono più attivi ma una comoda passerella permette di camminarvi in mezzo e ammirare la natura circostante. 
 
-<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript">
-</script>  
-
-<div id="my-gallery" style="max-width:100%;margin:auto">
-</div>
-
-<script>
-     const myWidget = cloudinary.galleryWidget({
-    "cloudName": "ilgattodicitturin",
-    "mediaAssets": [{
-        "publicId": "Articoli/Bosnia/jaice-cascata_n4elf1",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Bosnia/jaice-mulini_hwsgmm",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Bosnia/jaice-mulini-acqua_rzeung",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Bosnia/jaice-mulini-acqua-van_ykirl8",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Bosnia/jaice-mulini-bosnia-van_swxc08",
-        "mediaType": "image"
-    }],
-    "aspectRatio": "16:9",
-    "navigationButtonProps": {
-        "shape": "rectangle",
-        "color": "#FFFFFF",
-        "iconColor": "#000000"
-    },
-    "container": "#my-gallery"
-});
-
-myWidget.render();
-</script>
+{{< carousel images="Articoli/Bosnia/jaice-cascata_n4elf1,Articoli/Bosnia/jaice-mulini_hwsgmm,Articoli/Bosnia/jaice-mulini-acqua_rzeung,Articoli/Bosnia/jaice-mulini-acqua-van_ykirl8,Articoli/Bosnia/jaice-mulini-bosnia-van_swxc08" >}}
 
 ###### Visoko e le piramidi bosniache
 Questa meta non era prevista nel nostro itinerario, ma dovendo cercare un posto per spezzare il viaggio abbiamo tentato di approfittarne per visitare un altra meta "degna di attenzione". Purtroppo le "**piramidi**" a noi non sono piaciute particolarmente e occorre un po' di fantasia per chiamare in tal modo le colline del posto. Sicuramente la natura qui è piacevolmente rigogliosa, ma è valsa la pena fermarsi proprio solo come tappa per pranzare prima di raggiungere la capitale Sarajevo. 
 
-{{< youtube LxaH0lN62Nk>}}
+{{< youtube2 LxaH0lN62Nk>}}
 
 ###### Sarajevo
 Visitare Sarajevo senza che la mente torni ai giorni della guerra è pressoché difficile: i segni del conflitto sono ovunque, sui muri, nei monumenti e nelle lapidi, nei musei e nelle mostre. 
@@ -101,7 +66,7 @@ Il luogo può sembrare un po' tetro dato che è totalmente in disuso, ma i numer
 Raggiungendo la sommità si arriva ad un punto panoramico decisamente superbo sulla città. 
 Questa zona si può raggiungere in auto in una ventina di minuti o con la funicolare che parte dal centro città. 
 
-{{< youtube j2TVNQ-89Sc>}}
+{{< youtube2 j2TVNQ-89Sc>}}
 
 Il giorno successivo l'abbiamo dedicato alla scoperta del vecchio quartiere della città, la **Baščaršija**, un susseguirsi di viuzze acciottolate, costellate di pasticcerie, ristoranti e negozietti di artigianato. Un grande bazar insomma, in cui domina la scena la **moschea ottomana di Gazi Husrev-bey**. In Piazza Sebilj si trova invece una fontana settecentesca, vicino alla quale si possono ammirare ogni giorno centinaia di piccioni sfamati da turisti e locali. 
 Non lontano si trovano la Biblioteca Nazionale, incendiata quasi totalmente dai bombardamenti serbi, e il Ponte Latino, luogo in cui ebbe origine l'omicidio di Francesco Ferdinando che scatenò la Prima Guerra Mondiale.
@@ -150,7 +115,7 @@ Le strade sono in ottimo stato, tenendo conto che noi abbiamo attraversato solo 
 Speriamo che questo itinerario vi sia stato di aiuto e di ispirazione e se avete curiosità o domande vi aspettiamo nei commenti!
 Per tutti gli altri itinerari relativi ai Balcani vi rimandiamo alla sezione apposita, mentre se volete rivivere le nostre avventure un po' dal vivo sul canale Youtube trovate i video dedicati alla Bosnia ed Erzegovina. 
 
-{{< youtube QisI4L-ADPw>}}
+{{< youtube2 QisI4L-ADPw>}}
 
 ###### Cosa vedere e dove parcheggiare il camper?
 Scoprilo con la comoda mappa qui sotto:

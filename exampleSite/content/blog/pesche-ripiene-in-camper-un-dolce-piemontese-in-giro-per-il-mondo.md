@@ -33,7 +33,7 @@ In quella che invece è considerata la Bibbia della cucina piemontese, il libro 
 A casa nostra si usava far le cose in grande: *grandi porzioni per grandi sorrisi!*
 
 Clicca nel video qui sotto se vuoi vederci impazzire felicemente nella cucina del camper per preparare i persi pien!
-{{< youtube f8yDEwQbMFs>}} 
+{{< youtube2 f8yDEwQbMFs>}} 
 
 ##### Ingredienti per la classica ricetta 
 

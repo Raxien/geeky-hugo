@@ -65,7 +65,7 @@ Salutata anche Tafraout ci siamo diretti lungo una strada in cresta davvero pano
 **{{< underline "Giorno 14-15">}}**: attraversata la valle delle rose seppur senza vederne alcuna fiorita siamo arrivati alla **"valle del Dades"**. Anche qui il tratto panoramico è solo uno, limitato alle ultime curve in quota, che creano in ogni caso uno spettacolare percorso tornante dopo tornante. In vetta si trova un ristorante/caffè, noi abbiamo però preferito assaggiare la cucina berbera cucinata per mano di un'intera famiglia, assaporando i gusti della tradizione.
 
 Se volete scoprire queste strade spettacolari e cosa abbiamo mangiato trovate tutto in questo video.
-{{< youtube Xp3Y62pB96U>}}
+{{< youtube2 Xp3Y62pB96U>}}
 
 **{{< underline "Giorno 16">}}**: la meta successiva è stata **Ouarzazate**, dove abbiamo deciso di visitare la famosa Kasbha per 40dh a persona (4 euro) senza guida.
 
@@ -92,7 +92,7 @@ Dopo aver visto e vissuto il Marocco per quasi due mesi Marrakech **ci è sembra
 **{{< underline "Giorno 27-29">}}**: su consiglio di amici abbiamo deciso di avventurarci nuovamente verso le montagne e raggiungere, dopo aver fatto scorta di frutta e verdura e altri beni alimentari, la particolare montagna chiamata **"Cattedrale di Amsfrane"**. Anche qui siamo rimasti un paio di giorni, ad ammirare la natura incontaminata. Sulla via del ritorno, prima di raggiungere il lado di Bin El Ouidane, abbiamo assaggiato una [pizza deliziosa](/blog/le-migliori-pizze-in-marocco).
 
 E' andato tutto bene in questi luoghi? Scoprilo nel video ⤵️
-{{< youtube bRRphPHpGZ0>}}
+{{< youtube2 bRRphPHpGZ0>}}
 
 **{{< underline "Giorno 30-31">}}**: sempre per rimanere in tema natura, che è ciò che più abbiamo amato in Marocco, abbiamo raggiunto il **Lago di Ouiouane**, lungo il cui perimetro si può passeggiare ammirando anche le scimmie libere nel loro habitat. 
 
@@ -170,7 +170,7 @@ Forse, dovendo tirare le somme, questi luoghi e le emozioni che qui abbiamo viss
 
 Cliccando qui puoi vedere tutte le nostre avventure in Marocco:
 
-{{< youtube vgNL4cK-aJY>}}
+{{< youtube2 vgNL4cK-aJY>}}
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ECqhZ8xnaxMc-PBZKLGmML-epe56eek&ehbc=2E312F">}}

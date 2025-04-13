@@ -31,7 +31,7 @@ Prezzo del biglietto? 1,50 euro a testa, che per un’ora di esibizione ne vale 
 Vuoi vedere il nostro tentativo di vorticare come è andato a finire? 
 Eccoti il video!
 
-{{< youtube "O4yzgc_L8K0">}}
+{{< youtube2 "O4yzgc_L8K0">}}
 
 Arigatou, alla prossima.
 

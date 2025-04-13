@@ -9,9 +9,6 @@ type: featured
 draft: false
 ---
 
-<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript">
-</script>  
-
 Lubiana è una delle capitali europee meno conosciute e più piccole, eppure **racchiude un fascino particolare misto a un'atmosfera conviviale e giovanile**. Visto che non è enorme si visita tranquillamente a piedi in un giorno o in un weekend e permette di raggiungere facilmente altre mete del paese ([che trovi comodamente qui](/blog/slovenia-in-camper-5-giorni-tra-montagne-e-borghi-storici)). 
 
 Ecco allora le 8 cose da vedere a Lubiana in un tour a piedi per non perdersi niente di questa fantastica capitale!
@@ -45,33 +42,8 @@ Il primo è impreziosito da quattro draghi alati, simbolo della città. Il secon
 
 In questo quartiere si trova anche il **Mercato di Lubiana**.
 
-<div id="my-gallery3" style="max-width:100%;margin:auto">
-</div>
 
-<script>
-     const myWidget3 = cloudinary.galleryWidget({
-    "cloudName": "ilgattodicitturin",
-    "mediaAssets": [{
-        "publicId": "Articoli/Slovenia/lubiana-palazzo_qjj6rm.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/lubiana-di-notte_prqjsm.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/lubiana-chiesa-rossa_o5btn5.jpg",
-        "mediaType": "image"
-    }],
-    "aspectRatio": "16:9",
-    "navigationButtonProps": {
-        "shape": "rectangle",
-        "color": "#FFFFFF",
-        "iconColor": "#000000"
-    },
-    "container": "#my-gallery3"
-});
-
-myWidget3.render();
-</script>
+{{< carousel images="Articoli/Slovenia/lubiana-palazzo_qjj6rm.jpg,Articoli/Slovenia/lubiana-di-notte_prqjsm.jpg,Articoli/Slovenia/lubiana-chiesa-rossa_o5btn5.jpg" >}}
 
 ##### 6. Il castello 
 
@@ -166,4 +138,4 @@ Quale gusto scegliere? Il più tipico pare essere quello al formaggio, ma puoi d
 
 Se non sei ancora stufo scopri insieme a noi la visita della città!
 
-{{< youtube RsTGZQ0ZxDI>}}
+{{< youtube2 RsTGZQ0ZxDI>}}

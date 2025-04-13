@@ -81,46 +81,7 @@ Raggiunta la vicina **Skagen** ci siamo poi diretti a **Grenen**, il punto più 
 
 **{{< underline "Giorno 10">}}**: abbiamo visitato la vicina **Mariager** sotto l'ombrello e acquistato una girella alla cannella e del pane di segale. Ci siamo spostati a **Ebeltoft** per pranzare al porto. Nelle vicinanze si trova una nave visitabile oppure si può passeggiare nell’Aldegade, la via principale con negozi e botteghe. Dato che aveva ripreso a piovere ci siamo diretti ad **Aarhus**. Incastonata tra i palazzi si trova la via più antica, con caratteristiche casette colorate. La zona del porto invece è un’esplosione di modernità, con i suoi grattacieli **ed il complesso “iceberg”**, davvero un notevole contrasto. Il meteo ci ha regalato una tregua al tramonto, per cui abbiamo deciso di visitare **“den gamble by”** in orario di chiusura: si tratta di una riproduzione fedele della città dal 1800 ai giorni nostri, con palazzi perfettamente ricostruiti. In orario di apertura si possono vedere i locali aperti ed alcuni figuranti in abiti d’epoca. Noi l'abbiamo visitata con poche altre persone e ne abbiamo ammirato comunque il fascino. Per dormire ci siamo spostati di pochi km, direttamente affacciati sulla spiaggia e sul mare.
 
-<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript">
-</script>  
-
-<div id="my-gallery" style="max-width:100%;margin:auto">
-</div>
-
-<script>
-     const myWidget = cloudinary.galleryWidget({
-    "cloudName": "ilgattodicitturin",
-    "mediaAssets": [{
-        "publicId": "Articoli/Danimarca/danimarca-case_ulgcox",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Danimarca/danimarca-faro-du9qlw",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Danimarca/danimarca-museo-aaron_vtyy8k",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Danimarca/danimarca-ponte-circolare-rngaxr",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Danimarca/danimarca-tramonto-rxsfkz",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Danimarca/aaron-icebeerg-complesso_ldzlst",
-        "mediaType": "image"
-    }],
-    "aspectRatio": "16:9",
-    "navigationButtonProps": {
-        "shape": "rectangle",
-        "color": "#FFFFFF",
-        "iconColor": "#000000"
-    },
-    "container": "#my-gallery"
-});
-
-myWidget.render();
-</script>
-
+{{< carousel images="Articoli/Danimarca/danimarca-case_ulgcox,Articoli/Danimarca/danimarca-faro-du9qlw,Articoli/Danimarca/danimarca-museo-aaron_vtyy8k,Articoli/Danimarca/danimarca-ponte-circolare-rngaxr,Articoli/Danimarca/danimarca-tramonto-rxsfkz,Articoli/Danimarca/aaron-icebeerg-complesso_ldzlst" >}}
 
 **{{< underline "Giorno 11">}}**: abbiamo visitato di prima mattina **l’Infinite bridge**, un ponte circolare sul mare che dà idea appunto di poter camminare all’infinito sul mare e ci siamo diretti al museo d’arte contemporanea Aros: i suoi 10 piani sono ispirati alla divina commedia, per cui partendo dal 10° piano, formato da uno specchio colorato ad arcobaleno che si affaccia a 360 gradi sulla città, che rappresenta il paradiso, siamo scesi visitando tutte le mostre presenti fino al piano 0. Lasciata la città sotto la pioggia ci siamo diretto verso **Ry e Silkeborg**, a nostro avviso due posti da tralasciare a meno che non ti interessi una visita all’acquario “Aqua”. Bellina la piccola foresta attraversata per arrivarci, un gioco di luci fra alberi e muschio. Siamo arrivati verso le 17 a **{{<extLink "Legoland" "https://www.legoland.dk/en/">}}** per chiedere **informazioni sull’ingresso gratuito a mezz’ora dalla chiusura, ma abbiamo scoperto che l’hanno eliminato** da qualche anno. Abbiamo cercato parcheggio vicino ad un’enorme area cani dove far divertire Olimpia e passare la notte.
 
@@ -183,28 +144,7 @@ Abbiamo incontrato alcuni lavori per strada, attraversato il famoso ponte sospes
      const myWidget2 = cloudinary.galleryWidget({
     "cloudName": "ilgattodicitturin",
     "mediaAssets": [{
-        "publicId": "Articoli/Danimarca/danimarca_case_kvasbu",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Danimarca/danimarca-aaron-museo_ecryxw",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Danimarca/danimarca-arte-contemporanea_sfqee6",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Danimarca/danimarca-arte-contemporanea-2_ogygpo",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Danimarca/danimarca-case-tipiche-utnvfk",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Danimarca/danimarca-castello-luccbf",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Danimarca/danimarca-drone_h0otxp",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Danimarca/danimarca-pescatore_ub6rnc",
+        "publicId": "Articoli/Danimarca/danimarca_case_kvasbu,Articoli/Danimarca/danimarca-aaron-museo_ecryxw,Articoli/Danimarca/danimarca-arte-contemporanea_sfqee6,Articoli/Danimarca/danimarca-arte-contemporanea-2_ogygpo,Articoli/Danimarca/danimarca-case-tipiche-utnvfk,Articoli/Danimarca/danimarca-castello-luccbf,Articoli/Danimarca/danimarca-drone_h0otxp,Articoli/Danimarca/danimarca-pescatore_ub6rnc",
         "mediaType": "image"
     }],
     "aspectRatio": "16:9",

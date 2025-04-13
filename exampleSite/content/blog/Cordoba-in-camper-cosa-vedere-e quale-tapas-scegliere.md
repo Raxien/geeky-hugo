@@ -69,6 +69,6 @@ Il prezzo è di 2,80 euro a porzione, ma una in due può bastare per uno spuntin
 
 Se hai piacere di vedere i nostri sguardi pieni di gioia per le vie della città ti lasciamo qui il video dedicato. 
 
-{{< youtube 7F-d2nCwfwU>}} 
+{{< youtube2 7F-d2nCwfwU>}} 
 
 <!-- {{< blogFooter "SP_a" "1" "0">}} -->

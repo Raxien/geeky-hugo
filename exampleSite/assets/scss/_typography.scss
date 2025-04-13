@@ -32,7 +32,7 @@ small,
 }
 
 .logo_tt{
-  font-family: Tratterello;
+  font-family: Futura;
   color: #15817f;
 }
 
@@ -53,7 +53,7 @@ $level-size: $font-size;
       font-size: calc( #{$level-size} * .85);
     }
     @include mobile {
-      font-size: calc( #{$level-size} * .65);
+      font-size: calc( #{$level-size} * 1);
     }
   }
 }

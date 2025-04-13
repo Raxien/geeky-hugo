@@ -30,45 +30,7 @@ Sosta in libera presso la **{{<extLink "stazione dei bus" "https://maps.app.goo.
 Basta un giorno? Se non si hanno grosse pretese di visitare anche i musei sì.  
 Noi abbiamo parcheggiato gratuitamente di domenica a 30 minuti a piedi dal centro città ({{<extLink "qui" "https://maps.app.goo.gl/3SK2tGKcJLDmV2jK6">}}) e abbiamo pernottato sempre gratuitamente {{<extLink "vicino allo zoo" "https://maps.app.goo.gl/JQhGAp6aEgCr1FYC6">}}. 
 
-<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript">
-</script>  
-
-<div id="my-gallery" style="max-width:100%;margin:auto">
-</div>
-
-<script>
-     const myWidget = cloudinary.galleryWidget({
-    "cloudName": "ilgattodicitturin",
-    "mediaAssets": [{
-        "publicId": "Articoli/Croazia/P1011693_t0vbpr",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Croazia/zagabria-chiesa-ijafhn",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Croazia/zagabria-chiesa-mark-gdqnlk",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Croazia/zagabria-cimitero-vista-tvyedn",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Croazia/zagabria-oktogon-bypkay",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Croazia/zagabria-piazza-centrale-z3iodu",
-        "mediaType": "image"
-    }],
-    "aspectRatio": "16:9",
-    "navigationButtonProps": {
-        "shape": "rectangle",
-        "color": "#FFFFFF",
-        "iconColor": "#000000"
-    },
-    "container": "#my-gallery"
-});
-
-myWidget.render();
-</script>
+{{< carousel images="Articoli/Croazia/P1011693_t0vbpr,Articoli/Croazia/zagabria-chiesa-ijafhn,Articoli/Croazia/zagabria-chiesa-mark-gdqnlk,Articoli/Croazia/zagabria-cimitero-vista-tvyedn,Articoli/Croazia/zagabria-oktogon-bypkay,Articoli/Croazia/zagabria-piazza-centrale-z3iodu" >}}
 
 ###### Cigoc 
 
@@ -90,4 +52,4 @@ Nel villaggio di **Jasenovac** abbiamo voluto effettuare una visita commemorativ
 
 Da qui si può attraversare la dogana per raggiungere la Bosnia ed Erzegovina. Noi abbiamo dovuto proseguire verso il paese di **Slavonski brod** per ritirare la **sim** che ci permette di avere {{<extLink "Internet illimitato in tutto il mondo" "https://connectpls.com/vandipety/">}} (codice sconto: vandipety) e abbiamo attraversato qui la frontiera per raggiungere Banja Luka e continuare le nostre avventure verso Est. 
 
-{{< youtube nd61Q6SZpco>}}
+{{< youtube2 nd61Q6SZpco>}}

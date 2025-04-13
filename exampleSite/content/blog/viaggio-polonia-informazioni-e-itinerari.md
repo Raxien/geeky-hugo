@@ -148,7 +148,7 @@ Infine, il Parco Nazionale di Kampinos è situato a pochi chilometri a ovest di 
 ##### Il nostro Vlog
 Se vuoi vedere i nostri vlog sulla Polonia ti lasciamo di seguito le nostre avventure a Cracovia oppure trovi la playlist completa {{<extLink "qui" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV">}}
 
-{{< youtube d5blVGXVJ08>}}
+{{< youtube2 d5blVGXVJ08>}}
 
 <!-- <div id="Mappe"></div> -->
 

@@ -237,4 +237,4 @@ _[Scopri cosa leggiamo](/books)_
 Non ti resta che partire, ricordandoti di connetterti anche con il luogo che stai per visitare, con le persone del posto, i sapori e tutte le cose belle che potrai portare a casa come bagaglio culturale! 
 Speriamo di esserti stati utili, ti aspettiamo nei commenti se avessi dubbi o curiosità. 
 
-{{< youtube hMheQoKeFVY>}}
+{{< youtube2 hMheQoKeFVY>}}

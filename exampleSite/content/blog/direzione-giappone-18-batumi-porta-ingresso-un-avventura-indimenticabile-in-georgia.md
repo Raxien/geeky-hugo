@@ -45,7 +45,7 @@ Saziati dalle emozioni e dalla bellezza di Batumi, ci siamo uniti a due viaggiat
 
 Batumi è stata solo la prima tappa del nostro viaggio in Georgia. Un'esperienza che ci ha aperto le porte a un paese ricco di storia, cultura, paesaggi mozzafiato e ospitalità calorosa. **Un viaggio che non dimenticheremo mai** e che racconteremo con entusiasmo a chiunque voglia scoprire la bellezza della Georgia.
 
-{{< youtube "_RwPi0vhhrY">}}
+{{< youtube2 "_RwPi0vhhrY">}}
 
 Arigatou, alla prossima.
 

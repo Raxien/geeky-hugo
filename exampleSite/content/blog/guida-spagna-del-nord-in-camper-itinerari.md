@@ -40,7 +40,7 @@ Di seguito troverai il nostro diario giornaliero, ma se vuoi leggere l'itinerari
 **{{< underline "Giorno 6">}}**: abbiamo raggiunto comodamente il centro città con il treno che impiega 30 minuti (1,80 euro a/r) lasciando gli animali a bordo del van dato che diluviava abbondantemente. Una volta arrivati abbiamo passeggiato per il Casco viejo raggiungendo il mercato del La Ribera (peccato fosse chiuso nel pomeriggio), acquistando un delizioso Pastel Vasco presso la {{<extLink "pasticceria Arrese" "https://www.arrese.biz/">}}, attraversando il ponte di Calatrava, fino ad arrivare al Museo Guggenheim che abbiamo visitato in un paio d'ore (puoi risparmiare 1 euro sul biglietto prenotando in anticipo {{<extLink "sul sito ufficiale" "https://www.guggenheim-bilbao.eus/">}}).
 
 Vuoi vedere le nostre avventure fino a qui? Trovi tutto in questo video!
-{{< youtube Htsc7-shv1w>}}
+{{< youtube2 Htsc7-shv1w>}}
 
 **{{< underline "Giorno 7">}}**: ci siamo spostati a Santander e poi in direzione delle bellissime spiagge: playa de Covachos, playa de la Arnia, playa de Valdearenas. Nel pomeriggio abbiamo raggiunto il delizioso borgo di Santillana do Mar: luogo di passaggio del Cammino di Santiago. Non perdetevi una fetta di quesada (torta al latte) servita con un bicchiere di latte fresco! Notte in libera a San Vicente de la Barquera. 
 
@@ -129,7 +129,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 
 Nel video qui sotto puoi scoprire insieme a noi alcuni dei luoghi che ci sono rimasti nel cuore.
 
-{{< youtube CkCwT4rboXI>}} 
+{{< youtube2 CkCwT4rboXI>}} 
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=11GfW4gwkFqTBJcnrv5FV-ak3qVS4jws&ehbc=2E312F">}}

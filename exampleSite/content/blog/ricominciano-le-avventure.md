@@ -26,4 +26,4 @@ Da qui inizierà un emozionate viaggio di 18.000 km, 7 fusi orari, 3 paesi, innu
 
 Siete un po' emozionati come noi? Ecco **il trailer di questa super stagione che sta per iniziare!** 
 
-{{< youtube "WDlvUIc0qFc">}}
+{{< youtube2 "WDlvUIc0qFc">}}

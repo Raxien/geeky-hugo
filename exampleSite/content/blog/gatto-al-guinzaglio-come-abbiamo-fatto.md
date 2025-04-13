@@ -23,7 +23,7 @@ Sinceramente queste parole non ci sono venute in mente quando ci abbiamo provato
 
 4. **{{< underline "evitare posti con temperature troppo alte o basse">}}**: meglio controllare le temperature delle destinazioni scelte, soprattutto per evitare che le zampine del tuo gatto possano ustionarsi con l'asfalto rovente. **Noi siamo arrivati fino in Senegal con Sakè**, facendo attenzione ad ogni cosa! Curioso/a?
 
-{{< youtube AHVvaftCd70>}}
+{{< youtube2 AHVvaftCd70>}}
 
 Stesso consiglio vale per l'altitudine: anche i gatti possono soffrire il mal di montagna.
 
@@ -55,4 +55,4 @@ Per concludere, non abbiamo nessuna abilità particolare.
 
 Ecco di seguito il video in cui raccontiamo la nostra esperienza :)
 
-{{< youtube GJfq6pROYlE>}}
+{{< youtube2 GJfq6pROYlE>}}

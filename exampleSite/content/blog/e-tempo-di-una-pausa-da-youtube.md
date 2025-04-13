@@ -39,7 +39,7 @@ Questo è quello che ho detto a Sara rientrando dal Marocco il primo giugno. Una
 
 E così è stato. Il 27 giugno abbiamo registrato l'ultimo episodio della {{<extLink "stagione 2 di Vandipety" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ929klaWueEsMuZZvFWZKIB">}} e spento la videocamera. 
 
-{{< youtube VJD3v8a7K7M>}}
+{{< youtube2 VJD3v8a7K7M>}}
 
 Il nostro viaggio però non si è interrotto: abbiamo continuato a registrare, questa volta solo **con gli occhi**. 
 Una decisone sofferta (sì siamo anche noi un po' vittime del dover fare e farlo bene) e più volte ci siamo detti "poteva uscirci un bel contenuto".

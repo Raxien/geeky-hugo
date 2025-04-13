@@ -46,7 +46,7 @@ Per sostare la notte **si paga una tassa di 15 DH a un guardiano notturno** che 
 
 Vuoi vedere le nostre avventure in questo luogo fra trekking e rocce colorate? 
 
-{{< youtube VUcb9JEbnME>}}
+{{< youtube2 VUcb9JEbnME>}}
 
 #### 3 - Cattedrale di Amsfrane
 Non immaginarti una sosta religiosa, perché di una Cattedrale in questo luogo troverai solo la forma di una montagna imponente. Tutto attorno **la natura regna sovrana, con alberi e il letto del fiume.**

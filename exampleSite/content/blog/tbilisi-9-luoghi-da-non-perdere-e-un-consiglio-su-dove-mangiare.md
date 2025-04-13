@@ -83,7 +83,7 @@ Esistono molti posti dove andare a mangiare a Tblisi ma se volete veramente prov
 
 Se vuoi vedere cos'abbiamo mangiato puoi scoprirlo nel video qui sotto!
 
-{{< youtube "dIiTfZTqS9s">}}
+{{< youtube2 "dIiTfZTqS9s">}}
 
 Arigatou, alla prossima.
 

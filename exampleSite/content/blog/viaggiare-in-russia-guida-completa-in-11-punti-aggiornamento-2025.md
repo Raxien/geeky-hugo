@@ -93,7 +93,7 @@ A seguito delle sanzioni internazionali **i voli sono diventati più costosi**.
 
 Per entrare in Russia via terra (a piedi o a bordo di automobile, camper, motocicletta o bus) esistono varie  frontiere, che ti consigliamo di verificare sul sito {{<extLink "di Viaggiare Sicuri" "https://www.viaggiaresicuri.it/schede_paese/pdf/RUS.pdf">}} o tramite {{<extLink "iOverlander" "https://ioverlander.com/">}} **per ottenere informazioni aggiornate.**
 
-{{< youtube "rLljFmk3fN4">}}
+{{< youtube2 "rLljFmk3fN4">}}
 _La nostra esperienza entrando in Russia dalla Georgia_
 
 ###### La nostra esperienza via terra 
@@ -108,7 +108,7 @@ Consigliamo di scaricare e compilare in anticipo il documento di importazione te
 
 Avendo il visto multingresso **noi siamo usciti dalla Russia per entrare in Kazakistan** (frontiera nei pressi di Petropavl), siamo tornati in Russia **nei pressi della dogana di Pogranichnyy** e siamo entrati in Mongolia nei pressi della **dogana di Tashanta**, per poi uscire e tornare in Russia in direzione Ulan Ude. Presta attenzione perché in alcuni casi l’attesa potrebbe essere molto lunga dato il numeroso transito di persone, **inoltre potrebbero interrogarti circa il tragitto e lo scopo del viaggio.**
 
-{{< youtube "w2tPi29Mubg">}}
+{{< youtube2 "w2tPi29Mubg">}}
 _La nostra esperienza entrando in Russia dal Kazakistan_
 
 ###### Uscita via nave
@@ -117,7 +117,7 @@ Se come noi stai pensando di uscire dalla Russia via nave e raggiungere la Corea
 In questo caso dovrai comunicare con largo anticipo sia con i doganieri russi che con i doganieri coreani. 
 <!-- Vista la  scritto una guida in merito -->
 
-{{< youtube WwkDeXOMaAU>}}
+{{< youtube2 WwkDeXOMaAU>}}
 
 ###### Assicurazione stradale 
 
@@ -144,7 +144,7 @@ Noi, data la precarietà del momento, abbiamo deciso di portare più contanti e 
 
 {{< card>}}
 
-{{< youtube LOAtIHD3OK4>}}
+{{< youtube2 LOAtIHD3OK4>}}
 
 ##### 6. Internet (GPS e VPN)
 
@@ -205,7 +205,7 @@ La Russia è il paese più grande del mondo, con climi che vanno dal polare al s
 Viaggiare in Russia è del tutto sicuro e nei nostri due mesi di permanenza in paese **non abbiamo mai avuto problemi** né nelle grandi città, né in zone più remote e abbiamo pernottato in libera (cioè senza usufruire di campeggi o alberghi) senza alcun problema. 
 A Mosca **è addirittura normale incontrare ragazze che corrono da sole di sera** nei parchi in periferia, mentre nei paesini di campagna tutti ci hanno accolti in modo gentile, chiedendoci se avessimo necessità di qualcosa. 
 
-{{< youtube xP5iInwIyW0>}}
+{{< youtube2 xP5iInwIyW0>}}
 
 Ricordati però che per evitare problemi di sicurezza in qualità di turisti **è bene evitare di partecipare a manifestazioni** o fare dichiarazioni pubbliche sui social media con critiche relative al paese. 
 Ovviamente poi, data la situazione attuale, **è necessario essere prudenti quando si viaggia nelle regioni limitrofe all’Ucraina**, ma la M4 che per 200 km si trova molto vicina al confine, a giugno del 2024 era perfettamente percorribile. 
@@ -226,6 +226,6 @@ Tieni a mente che il certificato di buona salute puoi effettuarlo presso qualsia
 
 Se come noi poi vuoi uscire dalla Russia e entrare in Corea la questione ancora una volta si complica, perché dovrai recarti presso più uffici e compilare dei documenti specifici per l’espatrio e **per non rischiare la quarantena**. 
 
-{{< youtube 8CSdiBuj-k4>}}
+{{< youtube2 8CSdiBuj-k4>}}
 
 {{< blogFooter "" "1" "0">}}

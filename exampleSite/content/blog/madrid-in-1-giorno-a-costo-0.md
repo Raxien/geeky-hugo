@@ -80,7 +80,7 @@ Per questo motivo, oltre al caldo afoso, abbiamo dedicato alla capitale spagnola
 ##### Il nostro Vlog
 Se vuoi vivere le nostre avventure e disavventure in città trovi tutto in questo video.
 
-{{< youtube MOG3cuPsI_E>}}
+{{< youtube2 MOG3cuPsI_E>}}
 
 ##### Le nostre mappe
 

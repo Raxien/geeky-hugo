@@ -41,7 +41,7 @@ Di lì in poi abbiamo la strada, sempre dritta, costeggiata a tratti dai campi, 
 
 Ultimo step: **richiedere il visto elettronico per il prossimo paese!**
 
-{{< youtube "LdxXvmiyws4">}}
+{{< youtube2 "LdxXvmiyws4">}}
 
 Arigatou, alla prossima.
 

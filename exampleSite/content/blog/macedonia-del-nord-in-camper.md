@@ -109,6 +109,6 @@ Sono presenti numerosi segnali di limiti di velocità.
 Speriamo che questo itinerario vi sia stato di aiuto e di ispirazione e se avete curiosità o domande vi aspettiamo nei commenti!
 Per tutti gli altri itinerari relativi ai Balcani vi rimandiamo alla sezione apposita, mentre se volete rivivere le nostre avventure un po' dal vivo sul canale Youtube trovate i video dedicati alla Bosnia ed Erzegovina. 
 
-{{< youtube _nCK9Gq2KZs >}}
+{{< youtube2 _nCK9Gq2KZs >}}
 
 

@@ -71,48 +71,7 @@ In serata ci siamo spostati verso **Agnone bagni** per sostare in uno spot vista
 
 **{{< underline "Giorno 14">}}**: abbiamo dedicato l'ultimo giorno a una passeggiata in spiaggia ad **Agnone bagni**, per poi procedere in serata a prendere il traghetto da Messina in direzione Reggio Calabria.
 
-<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript">
-</script>  
-
-<div id="my-gallery" style="max-width:100%;margin:auto">
-</div>
-
-<script>
-     const myWidget = cloudinary.galleryWidget({
-    "cloudName": "ilgattodicitturin",
-    "mediaAssets": [{
-        "publicId": "Articoli/Sicilia/catania_rozbo6",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Sicilia/ragusa-ibla_wt30zc",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Sicilia/sicilia-barca_qb32bd",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Sicilia/sicilia-caletta_kugzko",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Sicilia/sicilia-spiaggia_x4pj4a",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Sicilia/valle-dei-templi_z6rvux",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Sicilia/valle-dei-templi-tempio-blackandwhite_xrx6va",
-        "mediaType": "image"
-    }],
-    "aspectRatio": "16:9",
-    "navigationButtonProps": {
-        "shape": "rectangle",
-        "color": "#FFFFFF",
-        "iconColor": "#000000"
-    },
-    "container": "#my-gallery"
-});
-
-myWidget.render();
-</script>
+{{< carousel images="Articoli/Sicilia/catania_rozbo6,Articoli/Sicilia/ragusa-ibla_wt30zc,Articoli/Sicilia/sicilia-barca_qb32bd,Articoli/Sicilia/sicilia-caletta_kugzko,Articoli/Sicilia/sicilia-spiaggia_x4pj4a,Articoli/Sicilia/valle-dei-templi_z6rvux,Articoli/Sicilia/valle-dei-templi-tempio-blackandwhite_xrx6va" >}}        
 
 ###### In Breve
 
@@ -142,7 +101,7 @@ myWidget.render();
 
 **{{< underline "Giorno 14">}}**: Agnone bagni, Messina
 
-{{< youtube pwsXaymLF0k>}}
+{{< youtube2 pwsXaymLF0k>}}
 
 ##### Viva i dolci siciliani!
 Quando si parla di Sicilia non si può non parlare **della sua cucina!**. Da buoni golosoni la nostra attenzione si è focalizzata di più sui dolci ed eccoti quindi 4 consigli che ci fanno ancora venire l'acquolina in bocca pensando alla Sicilia, oltre a un posticino dove gustare pesce cucinato a regola d'arte. 

@@ -62,7 +62,7 @@ Abbiamo lasciato riposare il tutto ancora per 5 minuti con il coperchio, mentre 
 
 Curiosi? Eccovi il video!
 
-{{< youtube -MRGIo8DFHA>}}
+{{< youtube2 -MRGIo8DFHA>}}
 
 Nella versione che preparavamo a casa usavamo datterini tagliati a metà, rivolti a testa in sù, ricoperti di cubetti di feta. A bordo ci siamo arrangiati con gli ingredienti che avevamo, realizzando però un piatto davvero delizioso! 
 Ora non ci resta che metterci in gioco e sporcare di nuovo la cucina! Avete qualche ricetta semplice e veloce da consigliarci che potremmo provare a preparare nel nostro fornetto Omnia in ogni angolo di mondo in cui saremo? 

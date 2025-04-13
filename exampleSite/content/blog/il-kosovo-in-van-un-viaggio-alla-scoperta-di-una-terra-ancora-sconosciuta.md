@@ -8,8 +8,6 @@ country: Kosovo
 type: featured
 draft: false 
 ---
-<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript">
-</script>  
 
 Il Kosovo è una terra ricca di storia, cultura e natura, ma è ancora relativamente sconosciuta ai turisti. In questo articolo ti raccontiamo la nostra esperienza di un viaggio in van di 7 giorni alla scoperta delle sue bellezze.
 
@@ -91,7 +89,7 @@ Ovviamente l'abbiamo scoperto solo cammin facendo, ma abbiamo deciso di tirar fu
 Noi abbiamo parcheggiato presso **il ristorante Villa Park**, approfittando anche di poter dormire una notte tranquillamente e con possibilità di accedere gratuitamente al Wi-Fi. Per ringraziare dell'ospitalità abbiamo ordinato due caffè (0.70 € a caffè) e ammirato l'interno del locale che è veramente particolare. 
 Se doveste recarvici salutate da parte nostra il custode del giardino, che parla italiano in quanto ha vissuto 12 anni a Firenze.
 
-{{< youtube QS-N-wQvHq0>}}
+{{< youtube2 QS-N-wQvHq0>}}
 _Scopri con noi la ferrata alle cascatate di Mirusha!_
 
 ###### Prizren: "There's a lot to see"
@@ -104,51 +102,7 @@ Alle spalle della grande moschea si diramano alcune stradine in salita che condu
 Lungo il tragitto vi consigliamo una sosta alla piccola chiesa di Nedelja e alla chiesa scoperchiata del Cristo Salvatore. 
 Una volta raggiunta la sommità potrete sedervi sotto l'imponente scritta UCK e ammirare il tramonto sulla bellissima città di Prizren.
 
-<div id="my-gallery" style="max-width:100%;margin:auto">
-</div>
-
-<script>
-     const myWidget = cloudinary.galleryWidget({
-    "cloudName": "ilgattodicitturin",
-    "mediaAssets": [{
-        "publicId": "Articoli/kosovo/prizren-mopschea_dbet6w",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/prizre-chiesa-piccola_nd9ybe",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/prizren-canali_ctqb6h",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/prizren-chiesa_njbuxu",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/prizren-chiesa-scoperchiata_vsy2si",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/prizren-moschea_ddufaw",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/prizren-persona_ixqnpq",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/prizren-porta_ctncte",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/prizren-sarto_pcrlwl",
-        "mediaType": "image"
-    }],
-    "aspectRatio": "16:9",
-    "navigationButtonProps": {
-        "shape": "rectangle",
-        "color": "#FFFFFF",
-        "iconColor": "#000000"
-    },
-    "container": "#my-gallery"
-});
-
-myWidget.render();
-</script>
+{{< carousel images="Articoli/kosovo/prizren-mopschea_dbet6w,Articoli/kosovo/prizre-chiesa-piccola_nd9ybe,Articoli/kosovo/prizren-canali_ctqb6h,Articoli/kosovo/prizren-chiesa_njbuxu,Articoli/kosovo/prizren-chiesa-scoperchiata_vsy2si,Articoli/kosovo/prizren-moschea_ddufaw,Articoli/kosovo/prizren-persona_ixqnpq,Articoli/kosovo/prizren-porta_ctncte,Articoli/kosovo/prizren-sarto_pcrlwl" >}}
 
 ###### Il santuario degli orsi
 
@@ -187,64 +141,14 @@ Merita uno sguardo anche al suo interno, dove si trovano alcune sale davvero par
 7. **la Cattedrale di Madre Teresa:** la più grande della Penisola Balcanica, progettata dall’architetto italiano Livio Sterlicchio, con interni immacolati che creano giochi di luce meravigliosi. 
 8. **il murales di Millo:** nascosto fra i vari palazzi il nostro italianissimo Millo ha lasciato il segno con un murales imponente e stupendo! Da non perdere come non sono da perdere tutti i murales che si possono vedere in tutta la città.
 
-<div id="my-gallery2" style="max-width:100%;margin:auto">
-</div>
-
-<script>
-     const myWidget2 = cloudinary.galleryWidget({
-    "cloudName": "ilgattodicitturin",
-"mediaAssets": [{
-        "publicId": "Articoli/kosovo/pristina-bibblioteca-notte_vywud3",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/pristina-chiesa_sx3ewr",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/pristina-chiesa-abbandonata_c9ljbp",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/pristina-chiesa-notte_nlxpsb",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/pristina-di-notte-newborn_jsgy26",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/pristina-interno-chiesa_wn7ywi",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/pristina-interno-organo_coik9z",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/pristina-murales_duroat",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/pristina-murales-2_gjhaa5",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/pristina-opara-millo_lpbnsi",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/kosovo/pristina-orologio_juh6fs",
-        "mediaType": "image"
-    }],
-    "aspectRatio": "16:9",
-    "navigationButtonProps": {
-        "shape": "rectangle",
-        "color": "#FFFFFF",
-        "iconColor": "#000000"
-    },
-    "container": "#my-gallery2"
-});
-
-myWidget2.render();
-</script>
+{{< carousel images="Articoli/kosovo/pristina-bibblioteca-notte_vywud3,Articoli/kosovo/pristina-chiesa_sx3ewr,Articoli/kosovo/pristina-chiesa-abbandonata_c9ljbp,Articoli/kosovo/pristina-chiesa-notte_nlxpsb,Articoli/kosovo/pristina-di-notte-newborn_jsgy26,Articoli/kosovo/pristina-interno-chiesa_wn7ywi,Articoli/kosovo/pristina-interno-organo_coik9z,Articoli/kosovo/pristina-murales_duroat,Articoli/kosovo/pristina-murales-2_gjhaa5,Articoli/kosovo/pristina-opara-millo_lpbnsi,Articoli/kosovo/pristina-orologio_juh6fs" >}}
 
 ###### Grotte di Gadime: che spettacolo della natura
 
 Le Grotte di Gadime, scoperte per caso nel 1969 da un contadino del luogo (e scoperte da noi per caso cercando un punto dove sostare), permettono alla modica cifra di 2€, di ammirare stalattiti e stalagmiti davvero particolari in un cunicolo di grotte lungo un paio di chilometri. 
 La visita dura circa mezz'ora e nel nostro caso un ragazzo gentilissimo anche se non parlava inglese ha provato a spiegarsi al meglio per farci ammirare alcune figure create dalle rocce.
 
-{{< youtube tBHoCNmERUk>}}
+{{< youtube2 tBHoCNmERUk>}}
 
 ##### Itinerario
 
@@ -319,7 +223,7 @@ Noi siamo entrati dall'unica frontiera aperta {{<extLink "fra Montenegro e Kosov
 ##### Il nostro Vlog 
 Se vuoi rivivere le nostre avventure trovi la **{{<extLink "playlist completa qui" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-7swbxxVk-IMXnyrJLuH04">}}** oppure premi play qui sotto:
 
-{{< youtube -AWumnDAAI0>}}
+{{< youtube2 -AWumnDAAI0>}}
 _Ovviamente il titolo è provocativo!_
 
 ##### Le nostre mappe

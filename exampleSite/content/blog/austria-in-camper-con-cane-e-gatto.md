@@ -55,7 +55,7 @@ Non in tutta l'Austria è consentito pernottare il libera, motivo per cui per la
 **{{< underline "Giorno 12">}}**: ci siamo spostati per cercare un'area di servizio e ci siamo fermati di fronte a un paesino delizioso trovato per caso curva dopo curva: **Traunkirchen**. Il panorama che viene offerto dalle acque del lago su cui sorge è dir poco meraviglioso. Anche qui vige il divieto di balneazione per i cani. 
 Per la notte ci siamo spostati a Gmunden.
 
-{{< youtube 5On2kJVs7Hk>}} 
+{{< youtube2 5On2kJVs7Hk>}} 
 
 **{{< underline "Giorno 13-14">}}**: **Gmunden** è un altro paesino affacciato su di un lago che riporta l'ennesimo divieto di balneazione per cani. Si possono però fare delle belle passeggiate sul molo, picnic sull'erba insieme alle persone del posto, visitare il giardino del castello affacciato sul molo, e le viuzze strette del centro storico. In città si trova anche {{<extLink "un'ottima pizzeria" "http://www.hacklpizza.at/">}} che permette l'asporto (noi abbiamo gustato due pizze ottime in riva al lago!). Sosta in libera in un parcheggio vicino al lago. 
 

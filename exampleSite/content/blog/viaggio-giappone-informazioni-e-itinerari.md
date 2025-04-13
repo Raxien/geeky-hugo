@@ -165,9 +165,22 @@ Nel caso invece il vostro viaggio preveda una ripartenza da Osaka potete dedicar
 
 <!-- - vlog -->
 <!-- https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV -->
-<!-- {{< youtube PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV>}} -->
+<!-- {{< youtube2 PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV>}} -->
 
 <!-- Oppure la playlist completa {{<extLink "qui" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV">}} -->
+
+{{ if le .Site.Params.theme_switcher true }}
+Oltre allo splendido libro puoi seguire la **nostra seconda stagione su Youtube.** Se non l'hai già fatto **iscriviti subito al canale** per non perderti i nuovi video!
+
+<!-- {{< youtube2 PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV>}} -->
+{{< youtube2 PLHaclq_J5PZ_gu1kNkYx-mEQPchUK3Wzh>}}
+
+{{ else }}
+Oltre allo splendido libro puoi seguire la **nostra seconda stagione su Youtube.** Se non l'hai già fatto **iscriviti subito al canale** per non perderti i nuovi video!
+
+<!-- {{< youtube2 PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV>}} -->
+{{< youtube2 PLHaclq_J5PZ_gu1kNkYx-mEQPchUK3Wzh>}}
+{{ end }}
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1kN6Jsl-kEKC6ZozMZVQVfJlZ-F49hWo&ehbc=2E312F">}}

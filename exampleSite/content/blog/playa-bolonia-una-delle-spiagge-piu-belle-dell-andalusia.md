@@ -32,4 +32,4 @@ Pochi chilometri dopo Playa Bolonia si trova un’altra spiaggia, Punta Paloma. 
 
 Vuoi scoprire di più su questa spiaggia e suoi luoghi vicini? Viaggia insieme a noi in Andalusia!
 
-{{< youtube 9ulsn4_xxQc>}}
+{{< youtube2 9ulsn4_xxQc>}}

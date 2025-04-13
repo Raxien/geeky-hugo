@@ -92,9 +92,10 @@
 }
 
 .card-badge {
-  top: 16px;
+  bottom: 16px;
   left: 16px;
   position: absolute;
+  z-index: 2;
 }
 
 .a-country {
@@ -468,4 +469,17 @@ tr {
 
 .hide-li {
   display: none;
+}
+
+.search-input {
+  -webkit-appearance: none;
+  background-color: white;
+  border-radius: 0;
+  
+  &::-webkit-search-decoration,
+  &::-webkit-search-cancel-button,
+  &::-webkit-search-results-button,
+  &::-webkit-search-results-decoration {
+    -webkit-appearance: none;
+  }
 }

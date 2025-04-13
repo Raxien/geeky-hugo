@@ -21,4 +21,4 @@ _**{{<extLink "Quanto abbiamo speso dopo 6 mesi" "https://youtu.be/CYJHHkg3_3s">
 _**{{<extLink "Come risparmiamo" "https://youtu.be/rCvzJ8LsRrc">}}**_: un video in merito a come facciamo a risparmiare a bordo!
 
 **La verità!** Quanto abbiamo speso dopo 1 anno in giro fra due continenti e 13 paesi:
-{{< youtube 0NrXpFEY6Wc>}}
+{{< youtube2 0NrXpFEY6Wc>}}

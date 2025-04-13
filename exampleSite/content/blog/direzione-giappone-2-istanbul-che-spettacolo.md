@@ -92,7 +92,7 @@ La nostra ultima buonanotte alla città è anche l'ultima rivolta al nostro cont
 Entriamo per davvero in Asia attraverso un tunnel subacqueo. Tutti insieme, con ruote, piedi e zampe. 
 Nessuna musica di benvenuto, un panorama sempre uguale, ma sono le emozioni dentro di noi a scalpitare. 
 
-{{< youtube "jCh6m8fchHI">}}
+{{< youtube2 "jCh6m8fchHI">}}
 
 Arigatou, alla prossima.
 

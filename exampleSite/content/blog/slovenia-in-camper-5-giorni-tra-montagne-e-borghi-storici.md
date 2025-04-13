@@ -9,9 +9,6 @@ type: featured
 draft: false
 ---
 
-<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript">
-</script>  
-
 La Slovenia è stata la nostra prima meta da quando abbiamo iniziato il nostro **"Balkan Tour"**, avevamo **davvero poche aspettative** ed è così che abbiamo scoperto con i nostri occhi questo paese meraviglia dopo meraviglia. 
 Appena varcato il confine da Gorizia in direzione Nova Goritza davanti a noi si è aperto un ventaglio di natura incastonata fra le montagne, uno spettacolo per gli occhi, curva dopo curva, paesino dopo paesino che ci ha fatto rivalutare subito 
 
@@ -51,7 +48,7 @@ Come accennavamo all'inizio di questo articolo, abbiamo scelto di percorrere sol
 
 Noi abbiamo trascorso una notte tranquilla in libera vicino al centro sportivo. Il centro è raggiungibile a piedi in 20 minuti e da questo parcheggio partono bellissime passeggiate, ottimo se si viaggia con animali. Poossibilità di accedere a un Wi-Fi.
 
-{{< youtube "QUvrEk-H5Dc">}}
+{{< youtube2 "QUvrEk-H5Dc">}}
 
 ##### Lubiana
 
@@ -72,45 +69,7 @@ Sul lungofiume invece troverete la Biblioteca Centrale e la statua dello zatteri
 
 La città offre vari posti per dormire sia in libera che in aree camper. Noi abbiamo deciso di spostarci in un'area camper gratuita a pochi chilometri immersa nelle colline. 
 
-<div id="my-gallery" style="max-width:100%;margin:auto">
-</div>
-
-<script>
-     const myWidget = cloudinary.galleryWidget({
-    "cloudName": "ilgattodicitturin",
-    "mediaAssets": [{
-        "publicId": "Articoli/Slovenia/celje-slovenia-duomo_s5ww8h.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/celje-slovenia-duomo-da-finestra_rszmdb.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/celje-slovenia-statua-fotografo_epo8mz.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/celje-slovenia-vista-fortezza_yuhkyq.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/celje-slovenia-statua_wf8plw.jpg",
-        "mediaType": "image"
-    },{
-        "publicId": "Articoli/Slovenia/celje-slovenia-vista-parco_jwpntc.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/celje-slovenia-piazza_bhjamf.jpg",
-        "mediaType": "image"
-    }],
-    "aspectRatio": "16:9",
-    "navigationButtonProps": {
-        "shape": "rectangle",
-        "color": "#FFFFFF",
-        "iconColor": "#000000"
-    },
-    "container": "#my-gallery"
-});
-
-myWidget.render();
-</script>
+{{< carousel images="Articoli/Slovenia/celje-slovenia-duomo_s5ww8h.jpg,Articoli/Slovenia/celje-slovenia-duomo-da-finestra_rszmdb.jpg,Articoli/Slovenia/celje-slovenia-statua-fotografo_epo8mz.jpg,Articoli/Slovenia/celje-slovenia-vista-fortezza_yuhkyq.jpg,Articoli/Slovenia/celje-slovenia-statua_wf8plw.jpg,Articoli/Slovenia/celje-slovenia-vista-parco_jwpntc.jpg,Articoli/Slovenia/celje-slovenia-piazza_bhjamf.jpg" >}}
 
 ##### Maribor
 
@@ -123,46 +82,8 @@ Da non perdere uno sguardo alla facciata **del palazzo postale** che sorge nei p
 
 Poco distante dal centro cittadino, a circa una quindicina di chilometri, si trova una comoda area sosta camper con servizia gratuiti, immersa nella natura e vicina a numerose passeggiate. 
 
-<div id="my-gallery2" style="max-width:100%;margin:auto">
-</div>
-
-<script>
-     const myWidget = cloudinary.galleryWidget({
-    "cloudName": "ilgattodicitturin",
-    "mediaAssets": [{
-        "publicId": "Articoli/Slovenia/maribor-posta_vwkbc6.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/maribor-posta-edificio_jwyzr4.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/maribor-piazza-centrale_wm8oj2.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/maribor-locomotiva_q1x9uc.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/maribor-chiesa_zfbgbu.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/maribor-cattedrale_xb54cu.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/maribo-posta-dettaglio_eyjrt3.jpg",
-        "mediaType": "image"
-    }],
-    "aspectRatio": "16:9",
-    "navigationButtonProps": {
-        "shape": "rectangle",
-        "color": "#FFFFFF",
-        "iconColor": "#000000"
-    },
-    "container": "#my-gallery2"
-});
-
-myWidget.render();
-</script>
-
+{{< carousel images="Articoli/Slovenia/maribor-posta_vwkbc6.jpg,Articoli/Slovenia/maribor-posta-edificio_jwyzr4.jpg,Articoli/Slovenia/maribor-piazza-centrale_wm8oj2.jpg,Articoli/Slovenia/maribor-locomotiva_q1x9uc.jpg,Articoli/Slovenia/maribor-chiesa_zfbgbu.jpg,Articoli/Slovenia/maribor-cattedrale_xb54cu.jpg,Articoli/Slovenia/maribo-posta-dettaglio_eyjrt3.jpg" >}}
+       
 ##### Ptuj 
 
 La città di Ptuj sorge lungo il fiume Drava nella parte nord-orientale del paese **ed è nota per essere una delle città più antiche della Slovenia.** 
@@ -175,42 +96,8 @@ Il centro storico di Ptuj è molto piacevole, costellato di casette ed edifici m
 
 Noi abbiamo dormito in libera in un parcheggio insieme ad altri camperisti. Il centro è raggiungibile a piedi in 10 minuti. Non sono presenti servizi ma in città è presente il Wi-Fi gratuito.
 
-<div id="my-gallery3" style="max-width:100%;margin:auto">
-</div>
 
-<script>
-     const myWidget = cloudinary.galleryWidget({
-    "cloudName": "ilgattodicitturin",
-    "mediaAssets": [{
-        "publicId": "Articoli/Slovenia/ptuji-via-centrale_sjxpb3.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/ptuji-tramonto_zqzlek.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/ptuji-notte_usm76w.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/ptuji-fiori_h0phvd.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/ptuji-cattedrale_l9rzab.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Slovenia/ptuji-barbiere_m1g8zy.jpg",
-        "mediaType": "image"
-    }],
-    "aspectRatio": "16:9",
-    "navigationButtonProps": {
-        "shape": "rectangle",
-        "color": "#FFFFFF",
-        "iconColor": "#000000"
-    },
-    "container": "#my-gallery3"
-});
-
-myWidget.render();
-</script>
+{{< carousel images="Articoli/Slovenia/ptuji-via-centrale_sjxpb3.jpg,Articoli/Slovenia/ptuji-tramonto_zqzlek.jpg,Articoli/Slovenia/ptuji-notte_usm76w.jpg,Articoli/Slovenia/ptuji-fiori_h0phvd.jpg,Articoli/Slovenia/ptuji-cattedrale_l9rzab.jpg,Articoli/Slovenia/ptuji-barbiere_m1g8zy.jpg" >}}
 
 ##### Considerazioni sulla Slovenia
 
@@ -219,4 +106,4 @@ Ci siamo sempre sentiti al sicuro, accolti con piacere dai saluti (**"Dober dan"
 
 Siete mai stati in Slovenia? Ci consigliate altre mete imperdibili per il futuro? 
 
-{{< youtube "Gq-5OJyZyfM">}}
+{{< youtube2 "Gq-5OJyZyfM">}}

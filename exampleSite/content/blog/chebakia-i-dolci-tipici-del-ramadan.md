@@ -25,7 +25,7 @@ Inutile girarci intorno ma quelli più buoni che abbiamo assaggiato sono stati p
 
 Quando siamo rimasti due giorni ospiti nel cortile della casa di Mustapha e abbiamo chiesto se potevamo assaggiare un ultimo chebakia prima di ripartire e suo padre ce ne ha portato addirittura **un sacchetto intero!** Anche questa avventura la trovi raccontata qui se te la fossi persa:
 
-{{< youtube dS1dd3N2QF8>}}
+{{< youtube2 dS1dd3N2QF8>}}
 
 Insomma, abbiamo mangiato i tipici dolci marocchini quasi ogni giorno anche noi. Le tradizioni **d’altronde vanno rispettate!**
 

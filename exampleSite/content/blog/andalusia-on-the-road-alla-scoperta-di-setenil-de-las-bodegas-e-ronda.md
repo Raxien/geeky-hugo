@@ -37,7 +37,7 @@ Scoprilo con la comoda mappa qui sotto:
 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1rb5xIbZpPmy4aKWpVBwDapCEBxNKSpc&ehbc=2E312F">}}
 
-{{< youtube 7F-d2nCwfwU>}}
+{{< youtube2 7F-d2nCwfwU>}}
 
 ##### Ronda: la città sospesa
 

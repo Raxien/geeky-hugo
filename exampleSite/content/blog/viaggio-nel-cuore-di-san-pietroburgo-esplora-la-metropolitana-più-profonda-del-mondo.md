@@ -49,4 +49,4 @@ Consigliamo di pianificare il tuo percorso. Utilizza le mappe online (una su tut
 A volte, la scoperta più bella è quella inaspettata. Perditi tra le stazioni e **lasciati sorprendere dalla bellezza di questa città sotterranea.** A noi è successo ritrovandoci a Sportivnaya, la stazione dedicata agli sport!
 
 Scopri questa e altre metro stupende nel video completo su **San Pietroburgo!**
-{{< youtube "sA0I4SnNbvo">}}
+{{< youtube2 "sA0I4SnNbvo">}}

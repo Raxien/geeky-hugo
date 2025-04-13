@@ -109,11 +109,11 @@ Di seguito vi lasciamo il video nel quale rivivere insieme a noi le avventure in
 
 - Vlog
 
-{{< youtube wm_NmytTD0c>}} 
+{{< youtube2 wm_NmytTD0c>}} 
 
 - Le nostre considerazioni
 
-{{< youtube n0Y9ev5EEIk>}} 
+{{< youtube2 n0Y9ev5EEIk>}} 
 
 ##### Le nostre mappe
 Questa è la mappa completa del nostro tour di tre mesi in Marocco comprensiva di tutti i posti visitat, gli spot in cui abbiamo dormito e altre informazioni utili. Cliccando in alto a sinistra puoi attivare o disattivare i vari livelli in modo da vedere solo le informazioni di cui ti interessa. Buona navigazione 🗺️

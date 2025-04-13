@@ -71,7 +71,7 @@ E poi di nuovo siamo stati accolti, **ci è stata offerta la cena, le persone si
 
 Quello che non sapevamo era che il comitato di accoglienza italiano, costituito da Tonino in primis e dall’ambasciatore yazida italiano e la sua famiglia, aveva in serbo per noi ancora qualche cartuccia per farci letteralmente innamorare del Kurdistan Iracheno e che saremmo stati invitati a due matrimoni e in innumerevoli case altrui. 
 
-{{< youtube "lC1VmuyubYo">}}
+{{< youtube2 "lC1VmuyubYo">}}
 
 Arigatou, alla prossima.
 

@@ -43,7 +43,7 @@ L’indomani ci siamo salutati con mille strette di mano, **con un abbraccio fra
 
 Quello che non sapevamo era che quello **sarebbe stato solo l’inizio** di un’avventura incredibile nel Kurdistan Iracheno. 
 
-{{< youtube "4oBDkFSmINM">}}
+{{< youtube2 "4oBDkFSmINM">}}
 
 Arigatou, alla prossima.
 

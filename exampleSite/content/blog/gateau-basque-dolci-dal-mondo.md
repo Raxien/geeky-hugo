@@ -39,7 +39,7 @@ Peccato che non fossero cioccolatini, bensì probabilmente "fudge", dei dolcetti
 Insomma se vuoi farti una risata in compagnai trovi tutto in questo video! 
 
 
-{{< youtube 3BQKTpHqFP4>}} 
+{{< youtube2 3BQKTpHqFP4>}} 
 
 E tu quale ripieno avresti scelto? Ti aspettiamo nei commenti. 
 

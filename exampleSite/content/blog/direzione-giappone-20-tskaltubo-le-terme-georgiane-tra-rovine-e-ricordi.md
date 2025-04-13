@@ -61,7 +61,7 @@ L'iconico stabilimento termale N°8, famoso per la sua forma a UFO!
 
 Puoi vedere dall'alto questo stabilimento e altri sanatori nel video che lasciamo qui di seguito!
 
-{{< youtube "lza18uf2Go4">}}
+{{< youtube2 "lza18uf2Go4">}}
 
 Arigatou, alla prossima.
 

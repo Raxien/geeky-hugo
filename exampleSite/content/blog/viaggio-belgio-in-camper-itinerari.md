@@ -9,9 +9,6 @@ type: regular
 draft: false
 ---
 
-<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript">
-</script>  
-
 In questo articolo ti portiamo alla scoperta di **3 cittadine in Belgio** che abbiamo raggiunto a bordo del nostro van, insieme a Olimpia e Sakè, i nostri cane e gatto. Nonostante il poco tempo a disposizione siamo comunque riusciti a trovare 3 destinazioni che hanno rapito il nostro sguardo, scopriamole insieme! 
 
 Siamo entrati nel paese da  dai [Paesi Bassi](/blog/viaggio-paesi-bassi-in-camper-itinerari/) ed eravamo diretti in [Francia](/blog/viaggio-francia-alta-francia-in-camper-itinerari/), motivo per cui abbiamo solo attraversato questo stato mantenendo la rotta lungo la costa atlantica.
@@ -26,57 +23,7 @@ Raggiungiamo un ponte, a destra un meraviglioso salice piangente. A sinistra due
 
 Lasciamo la città, {{<extLink "torniamo in campagna" "https://goo.gl/maps/2xAkDW4HcDdenzeVA">}}, senza sapere dove siamo finiti, **giusto in tempo per ammirare gli ultimi raggi del tramonto**. 
 
-<div id="my-gallery" style="max-width:100%;margin:auto">
-</div>
-
-<script>
-     const myWidget = cloudinary.galleryWidget({
-    "cloudName": "ilgattodicitturin",
-    "mediaAssets": [{
-        "publicId": "Articoli/Belgio/damme_k8sqmj",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Belgio/damme-albero-libri_ljs8iy",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Belgio/damme-citta_h7u2zb",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Belgio/damme-gatto_qizder",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Belgio/damme-libri_imnb2i",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Belgio/gand_gzuyki",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Belgio/gand-case_jmdlzp",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Belgio/gand-cattedrale_rjsuj8",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Belgio/gand-ristorante_hsgxzb",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Belgio/gand-ristorante-interno_mjhnoz",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Belgio/IMG_2309_tzp7iq",
-        "mediaType": "image"
-    }],
-    "aspectRatio": "16:9",
-    "navigationButtonProps": {
-        "shape": "rectangle",
-        "color": "#FFFFFF",
-        "iconColor": "#000000"
-    },
-    "container": "#my-gallery"
-});
-
-myWidget.render();
-</script>
+{{< carousel images="Articoli/Belgio/damme_k8sqmj,Articoli/Belgio/damme-albero-libri_ljs8iy,Articoli/Belgio/damme-citta_h7u2zb,Articoli/Belgio/damme-gatto_qizder,Articoli/Belgio/damme-libri_imnb2i,Articoli/Belgio/gand_gzuyki,Articoli/Belgio/gand-case_jmdlzp,Articoli/Belgio/gand-cattedrale_rjsuj8,Articoli/Belgio/gand-ristorante_hsgxzb,Articoli/Belgio/gand-ristorante-interno_mjhnoz,Articoli/Belgio/IMG_2309_tzp7iq" >}}
 
 ##### Bruges: la capitale delle Fiandre Occidentali
 
@@ -92,46 +39,7 @@ Decidiamo di raggiungere **il chiostro di un monastero benedettino** abitato da 
 
 Cerchiamo un posto dove riposare tranquilli, probabilmente cullati dal suono della pioggia. **Arriviamo in un paesino quasi fantasma**. Casette basse, ordinate. Un piccolo molo dal quale intravediamo un unico timido raggio di sole del tramonto. Respiriamo. Il silenzio riempie ogni cosa. In camper però mettiamo un po’ di musica mentre cucino **del salmone e un’insalata di pomodori e tagliamo la baguette per fare scarpetta**. Il vapore copre i vetri, la musica copre il silenzio e i pensieri. E un’altra notte di questo viaggio vola via con il tempo perduto. Ciao Proust, benvenuto nei miei sogni. Non ho mai sognato in inglese, c’è una prima volta per tutto. 
 
-<div id="my-gallery2" style="max-width:100%;margin:auto">
-</div>
-
-<script>
-     const myWidget2 = cloudinary.galleryWidget({
-    "cloudName": "ilgattodicitturin",
-     "mediaAssets": [{
-        "publicId": "Articoli/Belgio/belgio-notte_ohjrxs",
-        "mediaType": "image"
-    },
-    {
-        "publicId": "Articoli/Belgio/belgio-cattedrale_lppvyi",
-        "mediaType": "image"
-    },  {
-        "publicId": "Articoli/Belgio/bruges_blyzox",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Belgio/bruges-case_cj1clx",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Belgio/gand-casa-rossa_b0xpx4",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Belgio/gand-di-notte_c8lz8o",
-        "mediaType": "image"
-    }, {
-        "publicId": "Articoli/Belgio/tramonto-beglio_ei2elt",
-        "mediaType": "image"
-    }],
-    "aspectRatio": "16:9",
-    "navigationButtonProps": {
-        "shape": "rectangle",
-        "color": "#FFFFFF",
-        "iconColor": "#000000"
-    },
-    "container": "#my-gallery2"
-});
-
-myWidget2.render();
-</script>
+{{< carousel images="Articoli/Belgio/belgio-notte_ohjrxs,Articoli/Belgio/belgio-cattedrale_lppvyi,Articoli/Belgio/bruges_blyzox,Articoli/Belgio/bruges-case_cj1clx,Articoli/Belgio/gand-casa-rossa_b0xpx4,Articoli/Belgio/gand-di-notte_c8lz8o,Articoli/Belgio/tramonto-beglio_ei2elt" >}}
 
 ##### Damme: il paese più romantico e famoso delle Fiandre Occidentali
 
@@ -149,6 +57,6 @@ Il costo della vita sicuramente **è più alto che altrove**, abbiamo potuto not
 
 Il clima subisce le correnti atlantiche, a inizio settembre abbiamo trovato sia bel tempo sia acquazzoni e umidità elevata nell'arco di 5 giorni. 
 
-{{< youtube PT95-7itNX4>}}
+{{< youtube2 PT95-7itNX4>}}
 
 {{< blogFooter "B" "1" "0">}}

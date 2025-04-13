@@ -26,7 +26,7 @@ Nonostante non conoscessimo la lingua cecena e il dialetto kist in cui cantavano
 
 È stata un’esperienza potente, coinvolgente, incredibile, tanto da non resistere ad abbracciarle una ad una, come nonne ritrovate lungo la via. 
 
-{{< youtube "mpnY3GhECxk">}}
+{{< youtube2 "mpnY3GhECxk">}}
 
 Arigatou, alla prossima.
 

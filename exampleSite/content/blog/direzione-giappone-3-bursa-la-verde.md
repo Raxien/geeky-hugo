@@ -74,7 +74,7 @@ Potevamo quindi non tentare la fortuna **anche al museo dedicato ad Ataturk**, p
 
 Vi aspettiamo nella prossima puntata, tutta affacciata sul mare!
 
-{{< youtube "CiJZS00mehY">}}
+{{< youtube2 "CiJZS00mehY">}}
 
 
 Arigatou, alla prossima.

@@ -55,7 +55,7 @@ Kostroma è anche, tra le città dell’Anello d’Oro, quella più distante da 
 
 Ivanovo è la città più “giovane” dell’Anello d’Oro e per molto tempo si è fregiata del titolo di capitale dell’industria tessile russa. **Secondo noi è la città meno interessante da visitare.** 
 
-{{< youtube "7Y8ENITurFA">}}
+{{< youtube2 "7Y8ENITurFA">}}
 
 ###### Suzdal
 

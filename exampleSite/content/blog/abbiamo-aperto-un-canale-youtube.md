@@ -41,4 +41,4 @@ _**{{<extLink "Stagione 5" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_-
 
 _Stagione 6_: ... 🔜
 
-{{< youtube Za72BX3mgNY>}}
+{{< youtube2 Za72BX3mgNY>}}

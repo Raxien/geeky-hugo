@@ -74,7 +74,7 @@ Ci siamo goduti un piatto di pasta al pomodoro e gli gnocchi fatti in casa, risp
 Abbiamo allentato le resistenze di chi è abituato a volersela cavare da solo a tutti i costi, accettando un affetto senza interesse e senza confini. 
 E abbiamo detto arrivederci e grazie, noi che ormai siamo allergici agli addii, figli di un mondo che sa sempre come stupirci.
 
-{{< youtube "8792paJmF_o">}}
+{{< youtube2 "8792paJmF_o">}}
 
 Arigatou, alla prossima.
 

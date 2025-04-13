@@ -108,7 +108,7 @@ Probabilmente piangeremo a dirotto dalla commozione il giorno in cui riusciremo 
 
 E una volta nel paese del Sol Levante cosa succederà? Restate con noi per scoprirlo, perché non sarà una fine ma solo un nuovo entusiasmante punto di partenza. 
 
-{{< youtube "IpjFo4TCBc0">}}
+{{< youtube2 "IpjFo4TCBc0">}}
 
 ##### E' tempo di svelare qualche segreto
 

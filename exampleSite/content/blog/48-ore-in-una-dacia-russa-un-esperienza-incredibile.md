@@ -48,7 +48,7 @@ Appreso il trucco del buttare fuori l’aria con un respiro deciso, bere e magia
 E io, che se bevo un dito di vino bianco mi ritrovo con il mal di testa e la risata facile, ero perfettamente sobria. 
 **Ma soprattutto, felice.**
 
-{{< youtube "xP5iInwIyW0">}}
+{{< youtube2 "xP5iInwIyW0">}}
 _Scopri il video della nostra estate russa_
 
 ##### Tour delle dacie

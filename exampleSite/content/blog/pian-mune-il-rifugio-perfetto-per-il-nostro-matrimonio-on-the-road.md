@@ -59,4 +59,4 @@ Insomma, speriamo di avervi un po' incuriositi, di avervi fatto venir voglia di 
 Chi lo sa, magari un domani torneremo a organizzare qualcosa con Marta e occuperemo il piazzale di amanti dei viaggi.
 Per il momento vi lasciamo {{<extLink "le coordinate" "https://maps.app.goo.gl/fnAjgPgQZCuPW8ro6">}}, se arrivate in cima **sorridete al Monviso anche per noi!**
 
-{{< youtube RsTGZQ0ZxDI>}}
+{{< youtube2 RsTGZQ0ZxDI>}}

@@ -55,7 +55,7 @@ Se non vuoi sporcarti le mani ma solo leccarti le dita rileggi il paragrafo prim
 
 Pensa che una volta in un parcheggio nel nord della Spagna ci è successo di poterla comprare direttamente a domicilio dal camioncino di un panettiere! Una delle empanade più buone che abbiamo gustato in tutto il paese! 
 
-{{< youtube CkCwT4rboXI>}}
+{{< youtube2 CkCwT4rboXI>}}
 _Trovi la prova assaggio ed altre avventure in questo video!_
 
 La nostra preferita? **Empanada al tonno** da abbinare a un’insalata per un picnic a regola d’arte! Che te lo dico a fare, è la preferita anche di Sakè!

@@ -54,7 +54,7 @@ _Decide lui!_
 
 Vola insieme a noi qui!
 
-{{< youtube "xntHQGZGvT0">}}
+{{< youtube2 "xntHQGZGvT0">}}
 
 Arigatou, alla prossima.
 

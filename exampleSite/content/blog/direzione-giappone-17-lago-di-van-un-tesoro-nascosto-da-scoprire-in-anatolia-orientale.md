@@ -39,7 +39,7 @@ _Incontri del terzo tipo!_
 Il nostro viaggio si è concluso ad Artvin, cittadina arroccata in alto con stradine strette e pittoresche. Qui, abbiamo avuto l'occasione di visitare una piantagione di tè presso la fattoria di Ishmar e Miriam. Cinquant'anni di vita in un terreno scosceso, in uno scenario incastonato tra le vallate, hanno permesso a **questa coppia di ricavare dalla terra frutti preziosi: tè, miele, latte, uova, castagne, nocciole e così via a seconda delle stagioni.**
 Abbiamo salutato loro e la Turchia con abbracci calorosi, diretti con grande curiosità verso nuove avventure.
 
-{{< youtube "uZ_0Q58Mmas">}}
+{{< youtube2 "uZ_0Q58Mmas">}}
 
 Arigatou, alla prossima.
 

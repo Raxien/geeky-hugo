@@ -42,4 +42,4 @@ Se doveste recarvi al Fly Ranch fatecelo sapere e mandateci qualche fotografia, 
 
 Intanto, volete vedere come ce la siamo spassata noi quel giorno? **Clicca play qua sotto** e mettetevi comodi!
 
-{{< youtube 2hzl_yo9Uw4>}}
+{{< youtube2 2hzl_yo9Uw4>}}

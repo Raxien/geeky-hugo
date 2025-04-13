@@ -31,7 +31,7 @@ Purtroppo **lo street food proposto era quasi tutto carnivoro** ma siamo riuscit
 
 Vuoi rivedere le nostre avventure nella capitale? 
 
-{{< youtube sS90azvpc4c>}}
+{{< youtube2 sS90azvpc4c>}}
 
 **{{< underline "Giorno 3: Bojnice">}}**: dopo aver fatto colazione abbiamo deciso di regalare un tuffo nel fiume alla nostra cagnolona Olimpia, scelta decisamente apprezzata dalla nostra rottweiler che si è direttamente fiondata verso la riva. Nel tardo pomeriggio, dopo esser rimasti nascosti fin che potevamo sotto l’ombra donata da un paio di alberi, ci siamo recati in un piccolo paesino, **Bojnice**, dove abbiamo ammirato i giardini di un castello, prima di cercare un nuovo posto dove passare la notte. Ci siamo lasciati guidare un po' dall'istinto e abbiamo deciso di percorrere una strada immersa fra boschi e montagne e raggiungere il particolare borgo di Cickmany, che **sembrava essere uscito da una fiaba dei fratelli Grimm**. Abbiamo trascorso la notte finalmente avvolti nel piumone, soli in tutto il piazzale ai piedi dell’impianto dello ski-lift.
 

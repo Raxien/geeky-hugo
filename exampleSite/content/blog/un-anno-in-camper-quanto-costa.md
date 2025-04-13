@@ -36,7 +36,7 @@ Nel totale rientra davvero tutto: gasolio, cibo, parcheggi, visite culturali, do
 
 Tutto ciò che ci ha portati a visitare **2 continenti, 13 paesi, percorrere 30000 km**, vivere 4 mesi in Africa da soli lontano da tutti, inventandoci parole mai sentite prima per comunicare e cavandocela sempre con un sorriso (ok, tranne alla [dogana Senegalese](/blog/dogana-senegal-cosa-fare-guida-completa) quando un poliziotto corrotto è stato irremovibile e ha rovinato i nostri piani).
 
-{{< youtube avKZAgEAd0Q>}}
+{{< youtube2 avKZAgEAd0Q>}}
 
 #### Avremmo potuto fare di meglio?
 
@@ -67,7 +67,7 @@ A conti fatti siamo **molto contenti della cifra spesa**, che ci permette di sap
 Vuoi sapere quali sono i lavori che dovremo sistemare e come abbiamo analizzato la cifra finale? 
 Trovi tutto in questo video sul nostro canale YouTube.
 
-{{< youtube 0NrXpFEY6Wc>}}
+{{< youtube2 0NrXpFEY6Wc>}}
 
 Se invece sei curiosa/o e vuoi vedere le nostre spese in tempo reale ti rimandiamo [alla sezione dedicata su questo sito](/expanses). 
 

@@ -48,7 +48,7 @@ Noi ci siamo affidati all'{{<extLink "Istituto Zooprofilattico Sperimentale dell
 
 **{{< underline "Attenzione">}}**: ricordatevi di far scrivere sul passaporto alla voce VI i dettagli dell’esame effettuato (noi non lo sapevamo e abbiamo passato un brutto quarto d’ora).
 
-{{< youtube VBb-Zza0oUs>}}
+{{< youtube2 VBb-Zza0oUs>}}
 
 <!-- 
 {{< animali "EX">}}

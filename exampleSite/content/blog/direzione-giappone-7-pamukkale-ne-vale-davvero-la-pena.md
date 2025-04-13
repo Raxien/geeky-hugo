@@ -37,7 +37,7 @@ _Però dormire qui è uno spettacolo!_
 
 Vuoi scoprire di più in tempo quasi reale insieme a noi? 
 
-{{< youtube "I3ovlfvjRCo">}}
+{{< youtube2 "I3ovlfvjRCo">}}
 
 Arigatou, alla prossima.
 

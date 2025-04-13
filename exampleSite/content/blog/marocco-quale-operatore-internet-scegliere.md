@@ -80,7 +80,7 @@ All'uscita del paese, al controllo doganale, potrebbero fermarti mandandoti in u
 Ci teniamo a darti tutte le informazioni che abbiamo ottenuto perché nel nostro caso due operatori ci avevano dato due informazioni diverse quindi noi abbiamo ritardato a chiudere il contratto pagando il mese successivo senza usufruirne e probabilmente se dovessimo tornare in Marocco dovremmo pagare ancora una mensilità..
 
 In questo video raccontiamo live cosa è successo.
-{{< youtube wm_NmytTD0c>}}
+{{< youtube2 wm_NmytTD0c>}}
 
 {{< procontro pro1="Internet illimitato" pro2="Costa poco" contro1="Disponibile solo in abbonamento ..." contro2="... che non è facile da rinnovare e ..." contro3="... non è facile da disdire!">}}
  

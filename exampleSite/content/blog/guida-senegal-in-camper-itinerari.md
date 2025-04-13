@@ -212,11 +212,11 @@ Se vuoi vedere i nostri vlog o vuoi sentire le nostre considerazioni ti lasciamo
 
 - {{< underline "vlog">}}
 
-{{< youtube AHVvaftCd70>}}
+{{< youtube2 AHVvaftCd70>}}
 
 - {{< underline "le nostre considerazioni">}}
 
-{{< youtube avKZAgEAd0Q>}}
+{{< youtube2 avKZAgEAd0Q>}}
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1EogDF__ObgoOfXHFqgH2fxtq-A2SzGY&ehbc=2E312F" "1">}}

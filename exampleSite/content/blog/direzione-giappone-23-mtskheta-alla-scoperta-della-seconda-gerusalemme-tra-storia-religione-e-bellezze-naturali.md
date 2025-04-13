@@ -51,7 +51,7 @@ Proprio nel cuore di Mtskheta, sulla facciata del Museo d'Arte Nazionale della G
 
 Nel centro storico di Mtskheta si trova un mercato quotidiano, con numerose bancarelle presso le quali scoprire alcuni prodotti tipici oltre che lavori di artigianato locale. 
 
-{{< youtube "SS_-p6F3NrA">}}
+{{< youtube2 "SS_-p6F3NrA">}}
 
 Arigatou, alla prossima.
 

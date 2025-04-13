@@ -28,7 +28,7 @@ In questo villaggio isolato, dove il tempo sembra scorrere a un ritmo diverso, a
 Abbiamo esplorato ogni angolo di Ushguli, lasciandoci inebriare dalla bellezza incontaminata della natura e dalla genuinità delle persone. **Immaginando di immergerci nella vallata che conduce fino al ghiacciaio e lasciando volare l'immaginazione in un cielo senza confini.** 
 C'è chi dice che non si è visto il paese se non si sono viste queste zone. Noi siamo felici di averle ammirate con i nostri occhi, ma la curiosità è tanta per scoprire cos’altro c’è di meraviglioso in questo paese!
 
-{{< youtube "_RwPi0vhhrY">}}
+{{< youtube2 "_RwPi0vhhrY">}}
 
 Arigatou, alla prossima.
 

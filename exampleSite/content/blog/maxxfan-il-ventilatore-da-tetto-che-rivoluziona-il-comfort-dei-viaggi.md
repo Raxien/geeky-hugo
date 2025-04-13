@@ -34,6 +34,6 @@ Il MaxxFan non si limita a migliorare la circolazione dell'aria all'interno del 
 
 - Comfort tutto l'anno: con la possibilità di invertire il flusso d'aria, il MaxxFan può essere utilizzato sia per far entrare aria fresca durante il giorno che per estrarre aria calda di notte o in condizioni climatiche avverse.
 
-{{< youtube jBDKFopmiZU>}}
+{{< youtube2 jBDKFopmiZU>}}
 
 ##### Dopoo un mese di utilizzo

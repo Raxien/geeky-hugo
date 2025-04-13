@@ -132,7 +132,7 @@ In camper o auto, mete imperdibili:
 ##### Il nostro Vlog
 Nel video qui sotto puoi rivedere il nostro Vlog in Normandia oppure trovi la serie completa sul paese {{<extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8">}}.
 
-{{< youtube GYiGS6j605c>}}
+{{< youtube2 GYiGS6j605c>}}
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1k7WeDnRorbC4wtUu2AybAgNgaNgSjNo&ehbc=2E312F" "1">}}

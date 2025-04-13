@@ -80,7 +80,7 @@ Chiamata anche **“Palazzo del Popolo”**, è una delle metropolitane più tra
 
 È la chiesa ortodossa più importante, **nonché la vera cattedrale di Mosca**. Per entrare gli uomini non possono indossare pantaloni corti e le donne devono coprirsi il capo. 
 
-{{< youtube xS23dpY5Y3g>}}
+{{< youtube2 xS23dpY5Y3g>}}
 
 ###### Via Arbat
 

@@ -54,7 +54,7 @@ Ci siamo alzati da tavola gongolanti, come se avessimo appena vissuto un pranzo 
 
 Abbiamo abbracciato Fatma per l’ultima volta, stringendola forte come se in lei potessero prendere vita le nostre mamme. 
 
-{{< youtube "0fDTzN4NFE8">}}
+{{< youtube2 "0fDTzN4NFE8">}}
 
 Arigatou, alla prossima.
 

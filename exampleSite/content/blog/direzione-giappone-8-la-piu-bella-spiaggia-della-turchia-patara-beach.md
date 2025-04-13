@@ -47,7 +47,7 @@ Se vuoi visitare anche i dintorni di Patara Beach eccoti alcuni consigli:
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione8/il-monte-chimera_qtmhc6.jpg">}} 
 
-{{< youtube "E5om0a1GiWU">}}
+{{< youtube2 "E5om0a1GiWU">}}
 
 Arigatou, alla prossima.
 

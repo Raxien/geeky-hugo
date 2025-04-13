@@ -44,7 +44,7 @@ Ammirato la zona attorno al castello, la cupola d’oro e la statua del drago sp
 **{{< underline "Giorno 7">}}**: ci siamo diretti verso il piccolo paesino di Zalipie, noto per le case dipinte con motivi floreali, attraversando le campagne polacche, che sono a dir poco armoniose: campi coltivati in modo impeccabile, casette abbellite da giardini ricchi di fiori, strade curate e ben percorribili. Una piacevole scoperta. Arrivati alla prima costruzione dipinta abbiamo percorso un anello a piedi di circa un'ora poi ci siamo rimessi in strada, diretti verso le Miniere di Sale, dove gli animali ovviamente non sono potuti entrare. 
 La visita guidata che abbiamo prenotato in loco è stata a parer nostro interessante, con una guida decisamente folkloristica. La temperatura all'interno è costantemente umida e ci sono numerosi scalini da scendere, ma la Cattedrale scolpita nel sale{{<extLink "" "https://youtu.be/">}} è veramente degna di nota: se si pensa alle ore di lavoro per creare una tale opera d’arte, alla cura dei dettagli, alla pazienza di un lavoro minuzioso sottoterra senza vedere la luce del sole per ore, non si può che meravigliarsi. 
 Se vuoi trovare più informazioni in merito {{<extLink "clicca qui" "https://www.minieradisalewieliczka.it/">}}), se invece vuoi vedere quanto ci siamo divertiti puoi guardare il nostro video.
-{{< youtube fugpYtMXXAM>}}
+{{< youtube2 fugpYtMXXAM>}}
 
 Tornati a Cracovia, ci ha accolti un tramonto meraviglioso sul ponte che collega il quartiere ebraico al resto della città. Per cena abbiamo deciso di provare ancora i tipici pierogi e la zuppa di barbabietola con uova sode (borsch) in un locale sottoterra molto caratteristico. 
  
@@ -169,7 +169,7 @@ Le mete secondo noi imperdibili, per quanto riguarda la parte ovest del paese, s
 ##### Il nostro Vlog
 Nel video qui sotto puoi rivedere il nostro ingresso in Polonia oppure trovi la serie completa {{<extLink "a questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV">}}.
 
-{{< youtube d5blVGXVJ08>}}
+{{< youtube2 d5blVGXVJ08>}}
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=14RYfqDoFR3i5zzqunEXiLMo-wXOZGrU&ehbc=2E312F">}}

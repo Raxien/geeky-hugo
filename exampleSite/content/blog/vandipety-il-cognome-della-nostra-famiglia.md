@@ -17,4 +17,4 @@ Quale altro termine poteva indicare la meravigliosa direzione che stavano per pr
 A quel punto ci è bastato prendere le altre due parole scelte e inserirle all'interno, giocando un po' con la sistemazione delle lettere. 
 Ed è nato "VANDIPETY", il "cognome" della nostra famiglia.
 
-{{< youtube Za72BX3mgNY>}}
+{{< youtube2 Za72BX3mgNY>}}

@@ -36,6 +36,6 @@ Al momento ci aspettano nuove avventure!
 ##### Il nostro Vlog 
 Nel video qui sotto puoi camminare per le vie di Vienna insieme a noi oppure trovi la serie completa sul paese {{<extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ9M2bL8Cgqg8a_9vxRXWftV">}}.
 
-{{< youtube pzq2f08SCYo>}}
+{{< youtube2 pzq2f08SCYo>}}
 
 {{< blogFooter "A" "1" "0">}}

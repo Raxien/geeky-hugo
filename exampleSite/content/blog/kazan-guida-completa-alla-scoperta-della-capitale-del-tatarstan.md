@@ -19,7 +19,7 @@ Il Cremlino di Kazan è stato teatro di numerosi eventi storici, tra cui assedi,
 ##### La Torre Siuyumbike
 Un simbolo di Kazan e una leggenda viva. Secondo la tradizione, questa torre pendente alta 58 metri fu costruita su richiesta della principessa Siuyumbike per sfuggire alle nozze forzate con Ivan il Terribile. La leggenda narra che, una volta terminata la torre, **la principessa si gettò nel vuoto**, lasciando un'impronta indelebile nella storia di Kazan. Oggi, **la Torre Siuyumbike è uno dei monumenti più visitati del Cremlino di Kazan**, un'icona della città e un simbolo di resistenza e coraggio.
 
-{{< youtube LOAtIHD3OK4>}}
+{{< youtube2 LOAtIHD3OK4>}}
 _Scopri se la storia è vera o falsa_
 
 ##### La moschea Qol Šärif

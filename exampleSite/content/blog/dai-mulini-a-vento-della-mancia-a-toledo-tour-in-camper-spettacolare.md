@@ -113,7 +113,7 @@ La Mancia non è solo mulini, castelli, imprese e panorami mozzafiato ma anche u
 ##### In camper è fattibile?
 Questa regione è davvero **piacevole da visitare in camper**, grazie alle strade facilmente percorribili, al pochissimo traffico e ai panorami mozzafiato. Se non l’hai ancora inserita nei tuoi piani di viaggio ti consigliamo di prenderla in considerazione e se vuoi immaginarla un po’ con i nostri occhi trovi qui il video dedicato.
 
-{{< youtube oU5VtY2C2pg>}}
+{{< youtube2 oU5VtY2C2pg>}}
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ziDcEGP0xvaSkv6yd2hjXiMwDuyrE_M&ehbc=2E312F">}}

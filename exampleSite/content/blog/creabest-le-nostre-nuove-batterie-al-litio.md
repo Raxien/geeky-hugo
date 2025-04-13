@@ -54,4 +54,4 @@ Potete acquistare anche voi **la batteria al litio della Creabest** andando {{<e
 
 Ora non ci resta che continuare a vivere insieme a voi nuove avventure! 
 
-{{< youtube Xw4n0CYZqeQ>}}
+{{< youtube2 Xw4n0CYZqeQ>}}

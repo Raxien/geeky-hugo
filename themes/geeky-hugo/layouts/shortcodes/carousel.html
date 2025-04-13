@@ -1,0 +1,30 @@
+{{ $images := .Get "images" }}
+{{ $id := printf "my-gallery-%d" (now.UnixNano) }}
+
+<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript"></script>
+
+<div id="{{ $id }}" style="max-width:100%;margin:auto"></div>
+
+<script>
+    (function(id) {
+        const images = "{{ $images }}".split(',').map(img => img.trim());
+        const mediaAssets = images.map(image => ({
+            publicId: image,
+            mediaType: "image"
+        }));
+
+        const myWidget = cloudinary.galleryWidget({
+            cloudName: "ilgattodicitturin",
+            mediaAssets: mediaAssets,
+            aspectRatio: "16:9",
+            navigationButtonProps: {
+                shape: "rectangle",
+                color: "#FFFFFF",
+                iconColor: "#000000"
+            },
+            container: "#" + id
+        });
+
+        myWidget.render();
+    })("{{ $id }}");
+</script> 

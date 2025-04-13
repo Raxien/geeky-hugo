@@ -60,7 +60,7 @@ _Uno spot da favola. Svegliarsi con questa vista non ha prezzo._
 **{{< underline "Giorno 5">}}**: lasciata Ouladida siamo giunti a **Safi**, città nota per la produzione di ceramiche. Grazie a un signore del posto abbiamo scoperto che qui, a differenza delle altre cittadine, musulmani, ebrei e cristiani convivevano e convivono senza problemi in abitazioni con porte adiacenti, motivo per cui **non si trova il Mellah** (quartiere ebraico), presente invece nelle altre città del Marocco. Camminando fra le stradine si raggiunge la zona con i forni per la cottura delle ceramiche e le cooperative per la vendita dei prodotti finiti.
 
 Qui abbiamo avuto modo di aprire subito gli occhi su un modo di vivere completamente diverso dal nostro e lo abbiamo raccontato in questo video.
-{{< youtube pCe5Nlob75s>}}
+{{< youtube2 pCe5Nlob75s>}}
 
 **{{< underline "Giorno 6">}}**: abbiamo raggiunto **Essaouira** in mattinata, per una passeggiata fra le viuzze e il souk. Parte della città, quella relativa al Mellah ebraico, era in ristrutturazione. Siamo arrivati fino al porto e poi abbiamo pranzato con un panino ripieno di pesce. Segnaliamo qui un buon co-working {{<extLink "(Noqta space)" "https://noqtaspace.com/">}}, nel quale abbiamo sfruttando una buona connessione e spazi tranquilli e silenziosi per lavorare. 
 
@@ -93,7 +93,7 @@ Abbiamo poi visitato il quartiere con **la fontana blu** e siamo ripartiti in di
 **{{< underline "Giorno 14">}}**: una tempesta di sabbia fastidiosa ci ha costretti a spostarci dalla costa, raggiungendo per pranzo il parcheggio vicino al souk di **Sidi Ifni**. Da qui abbiamo deciso di proseguire senza vedere le **famose scogliere di Legzira** , praticamente impossibili da visitare in mezzo alla bufera (ma ce l'abbiamo fatta al nostro rientro), e abbiamo raggiunto **Guelmin**, dove si trova l'ultimo supermercato attrezzato con prodotti europei, {{<extLink "il Marjane" "https://goo.gl/maps/5Q5RnWxogZ28cjMfA">}} oltre a un mercato del bestiame che si svolge il sabato mattina.
 
 A proposito, avete mai guidato in mezzo a una bufera di sabbia? 
-{{< youtube cYasYm2JoHU>}}
+{{< youtube2 cYasYm2JoHU>}}
 
 **{{< underline "Giorno 15">}}**: abbiamo visitato il souk di Guelmin e osservato **il famoso commercio di caprette e dromedari**, per poi spostarci verso **l'oasi di Tighmert** per pranzo. Purtroppo il vento e la bufera di sabbia non ci hanno dato tregua, così ci siamo rimessi su strada raggiungendo **Tan Tan** senza incontrare anima viva. 
 
@@ -181,7 +181,7 @@ Il problema non è economico ma il fatto che a volte, fin troppe, ci siamo senti
 
 Inoltre i parcheggi sono pieni di spazzatura, se ti pago almeno potresti tenerlo pulito no?
 
-{{< youtube bRRphPHpGZ0>}}
+{{< youtube2 bRRphPHpGZ0>}}
 _Si è presentato come guardiano dell'intera area: un lago._
 
 ###### Tutti i parcheggi sono abusivi?
@@ -202,7 +202,7 @@ che tradotto in italiano
 Non vi serve una pronuncia perfetta in quanto già con la parola **"gendarmerie"** desisteranno.
 Consigliamo comunque di andare via se diventano aggressivi.
 
-{{< youtube 0xRbcDv93xE>}}
+{{< youtube2 0xRbcDv93xE>}}
 _Si è presentato come guardiano del parcheggio ma siamo stati presi a pallonate e qualche pietra dai bambini. Il giorno successivo mi sono opposto e non ho pagato._
 
 ###### Esistono veri guardiani?
@@ -243,7 +243,7 @@ Noi abbiamo deciso di vedere tutto il Marocco ma se tornassimo indietro, queste 
 ##### Il nostro Vlog
 Se vuoi rivivere le nostre avventure puoi farlo qui sotto oppure trovi la serie completa {{<extLink "cliccando qui" "https://www.youtube.com/watch?v=GJfq6pROYlE&list=PLHaclq_J5PZ-DcbT3dit1HikQ3ha-vXEk">}}:
 
-{{< youtube VBb-Zza0oUs>}}
+{{< youtube2 VBb-Zza0oUs>}}
 
 ##### Le nostre mappe
 Questa mappe è completa di tutti i posti visitati, le soste ([qui trovi i 5 migliori](/blog/5-spot-in-marocco)), campeggi, negozi, pizzerie ([scopri le migliori](/blog/le-migliori-pizze-in-marocco)) fatte **in tutto il Marocco**. Non aver paura di cliccare sul tasto nell'angolo in alto a sinistra per abilitare\disabilitare quelli che vi interessano!

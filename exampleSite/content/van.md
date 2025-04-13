@@ -66,7 +66,7 @@ Sempre in fatto di sicurezza abbiamo aggiunto anche un computerino di bordo per 
 
 **Costo totale: 880 €**
 
-{{< youtube ry9BbkIz-A8>}}
+{{< youtube2 ry9BbkIz-A8>}}
 _Una riflessione sugli accessori installati_
 
 **{{< underline "Febbraio 2022">}}**: ad un anno dall'acquisto abbiamo deciso di rendere il van, in questo periodo della vita, la nostra casa a tutti gli effetti! Era ora di metter mano al portafoglio per installare quegli accessori che ritenevamo indispensabili dopo 11 mesi a bordo!
@@ -124,7 +124,7 @@ Inoltre abbiamo anche fatto dei lavori di manutenzione al motore (cambio olio e 
 
 **Costo totale: 760 euro**
 
-{{< youtube Xw4n0CYZqeQ>}}
+{{< youtube2 Xw4n0CYZqeQ>}}
 
 **{{< underline "Settembre 2023">}}**: AdBlue sei un lontano ricordo. Leggendo sui vari siti e confrontandoci con altri Overlander abbiamo deciso di disattivare il sistema in quanto potrebbe rompersi da un momento all'altro con tutti i problemi del caso. Visto il viaggio che ci aspetta abbiamo deciso di dormire sonni tranquilli.
 
@@ -134,7 +134,7 @@ Inoltre abbiamo anche fatto dei lavori di manutenzione al motore (cambio olio e 
 
 **Costo totale: 440 euro**
 
-{{< youtube jBDKFopmiZU>}}
+{{< youtube2 jBDKFopmiZU>}}
 
 ###### I costi nel dettaglio
 
@@ -154,7 +154,7 @@ Per quanto riguarda la scelta del motore, abbiamo fatto bene a scegliere la moto
 Se volete acquistare un mezzo simile per un uso vacanziero va benissimo. Se volete viverci sopra full-time vi accorgerete dei suoi limiti ma di certo non vi fermerà, come non ha fermato noi!
 Alla fin fine il nostro Roadcar ci ha portati fino in Senegal (hai visto il nostro {{<extLink "vlog" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ8BSlBXnCEGXlGMm-xEB210">}}?) e ha retto anche a temperature di 45 gradi!
 
-{{< youtube O8wOdEvyNsc>}}
+{{< youtube2 O8wOdEvyNsc>}}
 _Il tour del nostro van_
 
 ###### Considerazioni sugli accessori
@@ -166,7 +166,7 @@ Per quanto riguarda le batterie, avremmo optato direttamente per una litio di pa
 
 Per quanto riguarda l'acquisto del riscaldamento a diesel esterno, forse era meglio rimuovere la Truma combi a gas per mettere quella a diesel. Quella che abbiamo installato funziona ma è altamente rumorosa soprattutto quando si attacca e stacca di continuo.
 
-{{< youtube -MRGIo8DFHA>}}
+{{< youtube2 -MRGIo8DFHA>}}
 
 ###### To-Do 
 Di seguito la lista check-list di cose da sistemare e aggiornamenti che vorremmo fare al nostro "passaggio" dall'Italia. Alcuni sono check di routine altri invece vanno sistemati in quanto potrebbero, alla lunga, creare problemi durante il viaggio.
@@ -190,6 +190,6 @@ Lavori in valutazione 🔨
 ##### Oggetti di uso quotidiano
 Ci sono alcuni oggetti di uso quotidiano che non possono mancare a bordo, almeno per noi. Se vuoi vedere tutto quello che abbiamo a bordo basta andare **{{<extLink "qui" "https://www.amazon.it/shop/vandipety">}}**. Lasciamo invece qui di seguito i video dedicati alla sicurezza e agli accessori indispensabili a bordo!
 
-{{< youtube dxlavy4Zll0>}}
+{{< youtube2 dxlavy4Zll0>}}
 <br>
-{{< youtube UXMbvLMNn10>}}
+{{< youtube2 UXMbvLMNn10>}}

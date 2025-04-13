@@ -81,7 +81,7 @@ In camper, auto o moto le mete secondo noi imperdibili di questa regione sono:
 ##### Il nostro Vlog
 Nel video qui sotto puoi rivedere il nostro ingresso in Francia oppure trovi la serie completa sul paese {{<extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8">}}.
 
-{{< youtube haPUPL6dgpI>}}
+{{< youtube2 haPUPL6dgpI>}}
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1h_zkHyaexgfCRWw0ZEwkRLa7MfW243o&ehbc=2E312F">}}

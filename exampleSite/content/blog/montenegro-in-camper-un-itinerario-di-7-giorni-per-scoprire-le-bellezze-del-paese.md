@@ -94,8 +94,7 @@ Il paese di **Mojkovac** ci è oggi noto solo grazie al fatto che l'abbiamo sfru
 Degni di nota sono il monumento ai caduti, la chiesa ortodossa e un vecchio hotel dall’architettura niente male. 
 Di questa zona del paese ricorderemo però le strade, alcune fra le più belle e panoramiche che abbiamo mai percorso. 
 
- {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
-
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 Speriamo che questo itinerario vi sia stato di aiuto e di ispirazione e se avete curiosità o domande vi aspettiamo nei commenti!
 Per tutti gli altri itinerari relativi ai Balcani vi rimandiamo alla sezione apposita, mentre se volete rivivere le nostre avventure un po' dal vivo sul canale Youtube trovate i video dedicati al Montenegro. 
@@ -132,11 +131,11 @@ Ricordati di disattivare il roaming perché in questo paese il tuo piano italian
 In Montenegro ci sono 4 strade **cosiddette panoramiche** che attraversano il paese in lungo e in largo e ognuna di esse ha ulteriori diramazioni. Alcuni tratti, come la Kotor Serpentine (ne parliamo più avanti) sono davvero molto suggestivi, ma essendo strade spesso strette e con curve a gomito o pendenze abbastanza rigide occorre sempre guidare con molta prudenza. 
 L'unico tratto che abbiamo percorso a pagamento è stato il tunnel per raggiungere il lago di Scutari (5 euro) dalla costa.
 
-{{< youtube nmMNKAGXFo4>}}
+{{< youtube2 nmMNKAGXFo4>}}
 _Riflettiamo sul perché bisogna andare in Montenegro._
 
 
 **Tappe**: come sempre al fondo dei nostri articoli di trova la mappa con tutti i puntalini relativi ai luoghi di interesse e ai posti in libera dove siamo riusciti a dormire, tenendo conto che abbiamo pernottato con un mezzo 5.40 fuori stagione e non assicurando la validità dei luoghi per sempre. 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
-{{< youtube RsTGZQ0ZxDI>}}
+{{< youtube2 RsTGZQ0ZxDI>}}

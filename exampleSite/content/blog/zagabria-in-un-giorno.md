@@ -65,4 +65,4 @@ All'inizio di questo articolo citavamo la presenza di numerosi musei, come il Mu
 
 Se vuoi rivivere le emozioni a caldo della visita di Zagabria e passeggiare per il parco insieme a Olimpia e Sakè, i nostri cane e gatto, ti lasciamo qui sotto il video dedicato. Buona visione e buona passeggiata! 
 
-{{< youtube asvtCfK9ko8>}} 
+{{< youtube2 asvtCfK9ko8>}} 

@@ -49,4 +49,4 @@ Di seguito di lasciamo i quattro luoghi in cui abbiamo sostato:
 Andorra è famosa per il suo status di paradiso fiscale, che incoraggia il **commercio duty-free**. Ricordati di fare il pieno di benzina o gasolio in questo Principato: noi a luglio 2023 abbiamo pagato 1,2 euro al litro! 
 Se sei amante delle sigarette troverai anche questo prodotto in stecche a prezzi vantaggiosi, oltre ai liquori e al cioccolato (abbiamo pagato 5 euro per 1 kg di cioccolato fondente, una delizia). 
 
-{{< youtube VJD3v8a7K7M>}}
+{{< youtube2 VJD3v8a7K7M>}}

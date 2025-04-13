@@ -37,7 +37,7 @@ Ci siamo seduti per un istante, restando senza parole, e ci è sembrato quasi di
 **Vuoi scoprire come abbiamo fatto a scendere?**
 Preparati a scene rocambolesche cliccando sul video qui sotto!
 
-{{< youtube "XUgO9KizDFg">}}
+{{< youtube2 "XUgO9KizDFg">}}
 
 Arigatou, alla prossima.
 

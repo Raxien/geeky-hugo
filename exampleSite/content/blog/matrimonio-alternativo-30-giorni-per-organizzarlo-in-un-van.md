@@ -123,4 +123,4 @@ E siamo pronti a riconoscerci **in una vita che ci stiamo costruendo su misura**
 Grazie per aver letto questo sproloquio di emozioni. Quel giorno non abbiamo voluto un fotografo estraneo in mezzo a noi, abbiamo chiesto ad amici e parenti di scattare qualche immagine e abbiamo collezionato con gioia ciò che hanno catturato i loro occhi. 
 Ne sono uscite fotografie che amiamo e un video che speriamo renda un briciolo dell'emozione che abbiamo provato! 
 
-{{< youtube 2hzl_yo9Uw4>}}
+{{< youtube2 2hzl_yo9Uw4>}}

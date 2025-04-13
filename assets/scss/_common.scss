@@ -342,7 +342,6 @@ select {
 
 .badge {
   padding: .1em .9em;
-  border-radius: 35px;
 }
 
 .badge-primary {
@@ -351,6 +350,8 @@ select {
   font-size: 14px !important;
   font-weight: 400 !important;
   text-decoration: none !important;
+  border: 1px solid $white !important;
+  padding: .2em 1em !important;
 }
 
 .font-primary {
@@ -424,6 +425,7 @@ select {
 
   img {
     margin-bottom: 1.5em;
+    border-radius: 12px;
   }
 
   p {

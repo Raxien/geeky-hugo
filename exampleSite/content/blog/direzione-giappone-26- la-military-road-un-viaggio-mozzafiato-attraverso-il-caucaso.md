@@ -59,7 +59,7 @@ Per un’eventuale pausa pranzo può essere utile portare con voi del cibo, in c
 
 Ci piace pensare alla Military Road come a un percorso nel quale giocare a nascondino, e proprio per questo l’abbiamo ripresa per voi in un video, **per scoprirla insieme curva dopo curva, chilometro dopo chilometro.** 
 
-{{< youtube "rLljFmk3fN4">}}
+{{< youtube2 "rLljFmk3fN4">}}
 
 Arigatou, alla prossima.
 

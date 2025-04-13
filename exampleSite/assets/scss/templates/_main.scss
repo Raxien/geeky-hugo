@@ -92,9 +92,10 @@
 }
 
 .card-badge {
-  top: 16px;
+  bottom: 16px;
   left: 16px;
   position: absolute;
+  z-index: 2;
 }
 
 .nav-pills {

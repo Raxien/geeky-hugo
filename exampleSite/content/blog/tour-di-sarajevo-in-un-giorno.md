@@ -62,7 +62,7 @@ Se come a noi vi viene fame passeggiando per le vie della città vi consigliamo 
 
 Curiosi di vedere le nostre impressioni dal vivo sulla città? Potete scoprire tutto nel Vlog dedicato a Sarajevo. 
 
-{{< youtube j2TVNQ-89Sc>}}
+{{< youtube2 j2TVNQ-89Sc>}}
 
 
 

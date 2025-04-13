@@ -36,7 +36,7 @@ Forse solo **la moschea di Hisar, incastonata fra le vie del bazar, ci ha permes
 
 Non siamo rimasti che più di un paio d’ore, **per spostarci e scoprire qualcosa di più sul passato di questo paese**. 
 
-{{< youtube "gfwt-PvOJEI">}}
+{{< youtube2 "gfwt-PvOJEI">}}
 
 Arigatou, alla prossima.
 

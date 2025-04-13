@@ -21,45 +21,8 @@ Il resto è stato lacrime di gioia e commozione, in una cornice di sorrisi.
 
 Abbiamo condiviso qualche foto sul nostro profilo {{<extLink "Instagram" "https://www.instagram.com/vandipety/">}}, ma presto uscirà un video pieno di emozioni sul {{<extLink "canale YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1">}} per condividere e raccontarvi questo momento che porteremo nel cuore e che **ci ha resi davvero felici!**
 
-<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript">
-</script>  
 
-<div id="my-gallery" style="max-width:100%;margin:auto">
-</div>
-
-<script>
-     const myWidget = cloudinary.galleryWidget({
-    "cloudName": "ilgattodicitturin",
-    "mediaAssets": [{
-        "publicId": "/Articoli/Blog/matrimonio-vandipety-abbraccio_dhgzil",
-        "mediaType": "image"
-    }, {
-        "publicId": "/Articoli/Blog/matrimonio-vandipety-van_hcztmw.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "/Articoli/Blog/matrimonio-vandipety-van-sposa_q9mapl.jpg",
-        "mediaType": "image"
-    }, {
-        "publicId": "/Articoli/Blog/matrimonio-vandipety-bosco_owuhph",
-        "mediaType": "image"
-    }, {
-        "publicId": "/Articoli/Blog/matrimonio-vandipety-van-animali.jpg",
-        "mediaType": "image"
-    }],
-    "aspectRatio": "16:9",
-    "navigationButtonProps": {
-        "shape": "rectangle",
-        "color": "#FFFFFF",
-        "iconColor": "#000000"
-    },
-    "container": "#my-gallery"
-});
-
-myWidget.render();
-</script>
-
-<!-- {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1694595899/Articoli/Blog/matrimonio.jpg">}}
-_E' venuta scura ma c'è anche la piccola Olimpia!_ -->
+{{< carousel images="Articoli/Blog/matrimonio-vandipety-abbraccio_dhgzil,Articoli/Blog/matrimonio-vandipety-van_hcztmw.jpg,Articoli/Blog/matrimonio-vandipety-van-sposa_q9mapl.jpg,Articoli/Blog/matrimonio-vandipety-bosco_owuhph,Articoli/Blog/matrimonio-vandipety-van-animali.jpg" >}}
 
 ##### Un van messo a nuovo
 

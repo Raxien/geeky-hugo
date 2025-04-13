@@ -42,7 +42,7 @@ Situata sul lato opposto della chiesa del Salvatore e riconoscibile per l’aust
 ###### Cattedrale di Sant’Isacco
 La Cattedrale di Sant’Isacco è la più sontuosa delle chiese della città ed è possibile salire sulla sua cupola, ammirando una vista spettacolare sulla città intera.
 
-{{< youtube "sA0I4SnNbvo">}}
+{{< youtube2 "sA0I4SnNbvo">}}
 _Ricordati di non perderti tutte queste meraviglie ne nostro video!_
 
 ###### I canali e i ponti di San Pietroburgo 

@@ -39,7 +39,7 @@ Nonostante il suo sapore sulfureo, apprezzato non da tutti, l'acqua Borjomi è u
 Lungo la vivace Via 9 aprile, il cuore pulsante di Borjomi, s**i susseguono bancarelle che offrono un'ampia varietà di prodotti tipici**. Tra questi, un posto d'onore spetta ai prodotti realizzati con l'estratto di pino, considerati un vero toccasana per la salute.
 Un consiglio: non perdete l'occasione di assaggiare uno di questi prodotti, magari proprio quello che, come raccontate, vi ha aiutato a curare un raffreddore. Chissà, potrebbe diventare anche per voi una **"panacea di ogni male"!**
 
-{{< youtube "SS_-p6F3NrA">}}
+{{< youtube2 "SS_-p6F3NrA">}}
 
 Arigatou, alla prossima.
 

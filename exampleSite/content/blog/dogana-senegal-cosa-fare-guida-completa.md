@@ -217,11 +217,11 @@ Se vuoi vedere i nostri vlog o vuoi sentire le nostre considerazioni in merito a
 
 - {{< underline "vlog">}}
 
-{{< youtube AHVvaftCd70>}}
+{{< youtube2 AHVvaftCd70>}}
 
 - {{< underline "le nostre considerazioni">}}
 
-{{< youtube avKZAgEAd0Q>}}
+{{< youtube2 avKZAgEAd0Q>}}
 
 ##### Articoli consigliati
 Per altre informazioni, itinerari e mappe sul Senegal e sui paesi da attraversare per arrivarci ti lasciamo di seguito alcuni link:

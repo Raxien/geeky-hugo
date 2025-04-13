@@ -104,7 +104,7 @@ A seguito delle sanzioni internazionali **i voli sono diventati più costosi**.
 
 Per entrare in Russia via terra (a piedi o a bordo di automobile, camper, motocicletta o bus) esistono varie  frontiere, che ti consigliamo di verificare sul sito {{<extLink "di Viaggiare Sicuri" "https://www.viaggiaresicuri.it/schede_paese/pdf/RUS.pdf">}} o tramite {{<extLink "iOverlander" "https://ioverlander.com/">}} **per ottenere informazioni aggiornate.**
 
-{{< youtube "rLljFmk3fN4">}}
+{{< youtube2 "rLljFmk3fN4">}}
 _La nostra esperienza entrando in Russia dalla Georgia_
 
 ###### La nostra esperienza via terra 
@@ -119,7 +119,7 @@ Consigliamo di scaricare e compilare in anticipo il documento di importazione te
 
 Avendo il visto multingresso **noi siamo usciti dalla Russia per entrare in Kazakistan** (frontiera nei pressi di Petropavl), siamo tornati in Russia **nei pressi della dogana di Pogranichnyy** e siamo entrati in Mongolia nei pressi della **dogana di Tashanta**, per poi uscire e tornare in Russia in direzione Ulan Ude. Presta attenzione perché in alcuni casi l’attesa potrebbe essere molto lunga dato il numeroso transito di persone, **inoltre potrebbero interrogarti circa il tragitto e lo scopo del viaggio.**
 
-{{< youtube "w2tPi29Mubg">}}
+{{< youtube2 "w2tPi29Mubg">}}
 _La nostra esperienza entrando in Russia dal Kazakistan_
 
 ###### Uscita via nave

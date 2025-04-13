@@ -16,7 +16,7 @@ A dicembre 2024 noi siamo entrati in Giappone con il nostro camper italiano, **s
 
 In questa guida ti spiegheremo cosa sono il Carnet de Passages en Douane (CPD d'ora in poi) e il Permesso di Importazione Temporanea (TIP),le procedure per entrare in paese con l'uno o l'altro e come evitare di spendere soldi inutilmente. 
 
-##### Carnet de Passages en Douane: cos’è 
+##### Carnet de Passages en Douane: cos'è 
 
 Il CPD è un documento simile a un passaporto per veicoli, che garantisce che il tuo mezzo non venga venduto o abbandonato nel paese visitato. Alcuni paesi lo richiedono come garanzia, e per ottenerlo dovrai depositare **una somma più o meno ingente presso una compagnia emittente.** 
 In Italia il CPD si ottiene con l'ACI è il costo dipende dal valore e l'età del mezzo. Non entreremo nei dettagli per l'ottenimento e consigliamo di {{<extLink "contattare l'ACI" "https://www.aci.it/">}} più vicina a te. Per rendere l'idea per il nostro mezzo acquistato 4 anni fa con un valore commerciale 65,000 euro, ci fu chiesto 5,000 euro!
@@ -49,14 +49,14 @@ Inoltre, **non è richiesto acquistare in anticipo il biglietto di uscita dal Gi
 
 In uscita dal paese consegni il TIP ai funzionari doganali che si occuperanno di confermare che hai lasciato il paese.
 
-{{< youtube DIFfBxk0JBA>}}
+{{< youtube2 DIFfBxk0JBA>}}
 
-##### Procedura per l’Importazione Temporanea
+##### Procedura per l'Importazione Temporanea
 
 Il TIP è disponibile in tutti i porti per traghetti internazionali (ad esempio Hakata, a Fukuoka, e Shimonoseki). Ecco cosa devi fare:
 
 1. Contatta la compagnia di traghetti in anticipo per informarli che entrerai in Giappone con il TIP o modulo C5014, [per evitare problemi.](#i-problemi-che-abbiamo-riscontrato)
-2. All’arrivo, i funzionari doganali controlleranno la documentazione del mezzo e [la patente internazionale](/blog/patente-internazionale-come-fare-guida-completa) e ti rilasceranno il TIP.
+2. All'arrivo, i funzionari doganali controlleranno la documentazione del mezzo e [la patente internazionale](/blog/patente-internazionale-come-fare-guida-completa) e ti rilasceranno il TIP.
 
 L'intera procedura nel nostro caso, comprensiva dei controlli passaporti, controllo quarantena animale, disinfezione delle ruote e ispezione del mezzo **è durata 2 ore.**
 

@@ -24,7 +24,7 @@ draft: true
 x video 
 
 
-{{< youtube RsTGZQ0ZxDI>}}
+{{< youtube2 RsTGZQ0ZxDI>}}
 
 
 

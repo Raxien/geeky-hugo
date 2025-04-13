@@ -46,7 +46,7 @@ L'indomani abbiamo di nuovo raggiunto a piedi il centro città o Casco Antiguo, 
 
 **{{< underline "Giorno 6-7">}}**: giunti a **Conil de la Frontera** abbiamo prima ammirato la costa a nord del piccolo paesino, poi ci siamo persi in una passeggiata fra le casette bianche, animate nel nostro caso dalla sfilata dei **Los Reyes Magos**, la famosa festa celebrata un tempo molto più del Natale. Ogni anno in questa giornata si possono ammirare sfilare in ogni paesino figuranti vestiti da Re Magi, in una delle feste più celebri del paese.  
 
-{{< youtube pjyOKbPs2_A>}}
+{{< youtube2 pjyOKbPs2_A>}}
 
 **{{< underline "Giorno 8">}}**: un altro paesino caratteristico e molto piacevole da visitare anche per la posizione collinare è **Vejer de la Frontera**. Non distante ti consigliamo una visita a **El Palmar**, una spiaggia molto bella presa d'assalto dagli amanti del surf e che regala tramonti mozzafiato.
 
@@ -61,7 +61,7 @@ Ecco due consigli:
 - non tenere in mano del cibo perché ovviamente le scimmie cercheranno di rubartelo. Non fa bene alla loro salute e potresti farti del male in caso di attacchi da parte loro (e ne sarebbero giustificate in tal caso!)
 - non fidarti dei venditori di tour, se fai due conti ti vengono a costare di più del biglietto di andata e ritorno in funicolare.
 
-{{< youtube 8aAhZdDZB30>}}
+{{< youtube2 8aAhZdDZB30>}}
 
 **{{< underline "Giorno 12">}}**: **Marbella** è una tipica località di mare, cittadina molto viva e con numerosi servizi se sono questi gli aspetti che ricerchi. Se vuoi visitare un luogo immerso nella natura e affacciato sulla costa ti consigliamo le vicine **Dune di Artola**. 
 
@@ -78,12 +78,12 @@ Ti lasciamo di seguito le due opzioni:
 **{{< underline "Giorno 15">}}**: se non soffri di vertigini e hai voglia di fare una bella escursione in natura allora il **Caminito del Rey** fa al caso tuo. Camminare sul ponte sospeso a 100 metri di altezza regala emozioni uniche. Noi abbiamo preferito effettuare il tour con la guida (18€ a testa per un paio di ore di visita in inglese e spagnolo) e ti consigliamo in ogni caso di prenotare anche la visita gratuita per evitare un giro a vuoto!
 Se arrivi in camper/van trovi un ottimo posteggio sotto gli alberi a un paio di chilometri dalla biglietteria.
 
-{{< youtube fs8GxLnyjx8>}}
+{{< youtube2 fs8GxLnyjx8>}}
 
 **{{< underline "Giorno 16">}}**: **Malaga** a noi non è piaciuta granché. Il centro cittadino è un susseguirsi di negozi di moda, che le fanno perdere fascino in termini di autenticità. Per pranzo abbiamo mangiato tapas e bevuto cerveza nel mercato coperto che merita una visita anche solo per ammirarne la facciata. Le rovine dell'Alhambra offrono una vista della città dall'alto.
 
 **{{< underline "Giorno 17-18">}}** abbiamo raggiunto **Granada** effettuando una tappa al balcone d'Europa a **Nerja** per ammirare la vista sulla costa. La città è un agglomerato di arte, storia e cultura. La visita dell'Alhambra vale davvero la pena ({{<extLink "clicca qui" "https://www.alhambra-patronato.es">}} se vuoi informazioni sui ticket che occorre prenotare online), così come passeggiare senza meta per le strette calle e osservare la città circondata dai monti della Sierra Nevada. Se ti viene fame non preoccuparti, troverai numerosi locali aperti a ogni ora. Unico consiglio, non avere fretta! 
-<!-- {{< youtube YQvnD1BzS7w>}} -->
+<!-- {{< youtube2 YQvnD1BzS7w>}} -->
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1688553437/Articoli/andalusia/granda-alcazar_d5rckk.jpg">}}
 
@@ -102,7 +102,7 @@ Dal parcheggio il centro città è facilmente raggiungibile a piedi, in una vent
 
 Piccolo consiglio culinario: non perderti una tapa di tortilla al **{{<extLink "bar Santos" "https://goo.gl/maps/kWCy7YZq3EeqM1Co9">}}**! Ti servono una fetta del famoso piatto da una forma gigantesca, e puoi sederti a gustarla sulle scalinate della chiesa. 
 
-{{< youtube 7F-d2nCwfwU>}}
+{{< youtube2 7F-d2nCwfwU>}}
 
 ###### In Breve
 Ti lasciamo qui due ipotetici itinerari in breve.
@@ -185,7 +185,7 @@ In camper o auto, le mete imperdibili secondo noi sono:
 
 Se vuoi rivivere le nostre avventure trovi la **{{<extLink "playlist completa qui" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ8u1sTfbn4D0_On_7JzPOYi">}}** oppure trovi i link qui di seguito:
 
-{{< youtube ltS_nUc60XI>}}
+{{< youtube2 ltS_nUc60XI>}}
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1kz951GpR8BYLTn6uPkMPKXJMDZXCWXU&ehbc=2E312F">}}

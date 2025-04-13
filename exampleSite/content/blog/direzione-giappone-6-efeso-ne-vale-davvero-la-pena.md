@@ -40,7 +40,7 @@ Eccoti allora 3 cose da fare nei dintorni di Efeso senza spendere un euro.
  
 Anche i bagni hanno un non so che di magico: dai rubinetti in ceramica bianca rigorosamente all’aperto sembra esser pronta ad uscire in qualsiasi istante Mirtilla Malcontenta. E infine lei, la Mc Granitt, seduta sulla sedia da professoressa, intenta a fare le fusa. Un gatto in una classe con una stufa a legno al fondo: a chi non verrebbe voglia di ricominciare a studiare? A chi forse ancora non ha visto l’auditorium, ovvio. Una gigantesca lavagna che si affaccia su di una platea con seggiolini monoposto, sul cui retro non si trova un muro ma un panorama degno di boschi e profili montuosi. 
 
-{{< youtube "tD6xiBdzoJE">}}
+{{< youtube2 "tD6xiBdzoJE">}}
 
 Arigatou, alla prossima.
 

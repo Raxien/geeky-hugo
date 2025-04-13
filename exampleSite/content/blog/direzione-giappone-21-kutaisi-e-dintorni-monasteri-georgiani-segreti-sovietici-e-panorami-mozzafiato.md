@@ -62,7 +62,7 @@ La città di Chiatura, **sebbene abbia perso parte del suo antico fascino**, con
 
 Scopri questi e altri fantastici posti nel video dedicato, come sempre, qui sotto!
 
-{{< youtube "skzoe2LYx7k">}}
+{{< youtube2 "skzoe2LYx7k">}}
 
 Arigatou, alla prossima.
 

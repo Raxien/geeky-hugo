@@ -55,7 +55,7 @@ Vuoi abbinarle a qualcosa? Sbizzarrisciti come noi con tutte le verdure che hai 
 Buon appetito, noi andiamo ad aprire il frigo! 
 Ps: Per essere fatta a regola d’arte la tortilla **deve rimanere un po’ umida al suo interno**. Se è secca non è una vera tortilla. 
 
-{{< youtube oU5VtY2C2pg>}}
+{{< youtube2 oU5VtY2C2pg>}}
 
 
 

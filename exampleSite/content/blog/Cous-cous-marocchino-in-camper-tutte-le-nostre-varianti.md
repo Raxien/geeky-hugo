@@ -30,7 +30,7 @@ La ricetta originale prevede di cuocere i chicchi di semola per **una ventina di
 Errore irrecuperabile? In realtà no, tutte le confezioni sul loro retro danno ragione ai tempi di cottura da me scelti. 
 Perdiamo un po’ nel gusto, perché ammetto di non cuocerlo con il brodo. Ma se spadelli due verdure con un trito di cipolle, le sali per benino e ci aggiungi un po’ di amore ti assicuro **che verrà fuori un buon piatto.** 
 
-{{< youtube Xp3Y62pB96U>}} 
+{{< youtube2 Xp3Y62pB96U>}} 
 
 ##### Ricette alternative 
 

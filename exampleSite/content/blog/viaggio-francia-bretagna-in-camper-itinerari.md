@@ -133,7 +133,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 ##### Il nostro Vlog 
 Nel video qui sotto puoi rivedere la nostra meraviglia di fronte ai fari oppure trovi la serie completa sul paese {{<extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8">}}.
 
-{{< youtube QW8a24Bg_co>}}
+{{< youtube2 QW8a24Bg_co>}}
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1Qe2J5JEntbQu5hEZpfvyuq6Z-gGc4S0&ehbc=2E312F" "1">}}

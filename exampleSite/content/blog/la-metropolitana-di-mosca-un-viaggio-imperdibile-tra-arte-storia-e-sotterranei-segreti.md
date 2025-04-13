@@ -77,7 +77,7 @@ Dedicata alla libertà della Russia e alla sua indipendenza, regala un'atmosfe
 ###### 7. Park kultury
 Ispirata all'antica Grecia, con colonne in marmo e mosaici che rievocano l'epoca ellenica
 
-{{< youtube xS23dpY5Y3g>}}
+{{< youtube2 xS23dpY5Y3g>}}
 _Puoi vedere tutte le metro qui!_
 
 ###### 8. Kievskaya

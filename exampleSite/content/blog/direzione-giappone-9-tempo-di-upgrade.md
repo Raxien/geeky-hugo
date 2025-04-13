@@ -30,7 +30,7 @@ Noi in ogni caso continueremo a scendere dal van con il sorriso, il nostro migli
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione9/logo-italia-van_jqn6pp.jpg">}} 
 
-{{< youtube "ESPXke-m0L0">}}
+{{< youtube2 "ESPXke-m0L0">}}
 
 Arigatou, alla prossima.
 
