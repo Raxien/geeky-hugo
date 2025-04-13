@@ -8,6 +8,8 @@ description = "Alla scoperta del mondo on the road. Unisciti al viaggio e lascia
 title = "Vandipety | Esplora il Mondo in Camper"
 email = "info@vandipety.it"
 emailSponsor = "sponsor@vandipety.it"
+disqusShortname = "vandipety-it"
+googleAnalytics = "G-E9L2CG2NZ6"
 favicon = "images/favicon.png"
 featured_post_title = "In primo piano"
 footer_content = "Se sentite ridere in lontananza potremmo essere noi."
@@ -70,3 +72,7 @@ title = "Facebook"
 icon = "fas fa-store"
 link = "https://www.amazon.it/shop/vandipety"
 title = "Negozio"
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
