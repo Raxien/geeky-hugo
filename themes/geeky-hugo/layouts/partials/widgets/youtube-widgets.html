@@ -50,7 +50,8 @@
             
             if (publicVideo) {
               const videoId = publicVideo.snippet.resourceId.videoId;
-              const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`;
+              const thumbnailUrl = `https://img.youtube.com/vi_webp/${videoId}/maxresdefault.webp`;
+              const fallbackUrl = `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`;
               
               // Crea un'immagine per il preload
               const img = new Image();
@@ -58,6 +59,10 @@
                 // Imposta l'immagine di sfondo solo quando è completamente caricata
                 youtubeFacade.style.backgroundImage = `url('${thumbnailUrl}')`;
                 youtubeFacade.style.transition = 'background-image 0.3s ease-in-out';
+              };
+              img.onerror = function() {
+                // Fallback su JPG se WebP non è supportato
+                youtubeFacade.style.backgroundImage = `url('${fallbackUrl}')`;
               };
               img.src = thumbnailUrl;
             } else {
