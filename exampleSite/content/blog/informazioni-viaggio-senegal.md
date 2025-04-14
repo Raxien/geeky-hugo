@@ -12,6 +12,10 @@ draft: false
 Sogni di andare in Senegal ma non sai da dove iniziare?
 Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese. Sono informazioni scoperte sul luogo nel periodo in cui abbiamo transitato, cioè marzo 2023. 
 
+
+<details>
+  <summary>Tabella dei contenuti</summary>
+
 > ##### Tabella dei contenuti
 > - [Il Paese](#il-paese)
 > - [Documenti e Visto](#documenti-e-visto) 
@@ -29,6 +33,8 @@ Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese. 
 >     - [14 Giorni](#14-giorni)
 > - [Casamance](#casamance)
 > - [Il nostro vlog](#il-nostro-vlog)
+
+<details>
 
 ##### Il paese
 Il Senegal a differenza di molti altri paesi africani, citati per panorami mozzafiato o per itinerari unici in mezzo alla savana, offre agglomerati di capanne con tetto in paglia e abiti colorati svolazzanti qua e là, che trasportano in un tempo dimenticato. Alcune zone possono sembrare abbandonate a se stesse, ma la gentilezza delle persone non mancherà di stupirvi.
