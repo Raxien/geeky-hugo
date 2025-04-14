@@ -261,7 +261,7 @@
 <!-- /regular page -->
 
 <script>
-(function($){
+$(function() {
     setInterval(() => {
         $.each($('iframe'), (arr,x) => {
             let src = $(x).attr('src');
@@ -270,7 +270,7 @@
             }
         });
     }, 300);
-})(jQuery);
+});
 </script>
 
 {{ end }}
