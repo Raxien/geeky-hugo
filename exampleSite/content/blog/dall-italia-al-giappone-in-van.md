@@ -34,8 +34,7 @@ Il nostro folle progetto doveva essere di nuovo rinchiuso fra i pensieri.
 Decidemmo però di partire lo stesso, solo in direzione opposta. Dovevamo andare a est, in Asia, e ci siamo ritrovati a sud-ovest, in Africa.
 Un po' fuori rotta, penserete voi, ma questa avventura non prevista ci è servita tantissimo: abbiamo imparato davvero a vivere nei 9mq del van, a capire i suoi limiti, i nostri e a come risolvere i tanti problemi che ci si ritrova a fronteggiare ogni giorno da soli in mezzo al mondo.
 
-{{< image src="images/mappamondo-da-torino-tokyo-pin.png">}}
-_Sembrava più vicino con una cartina in mano! Solo 8 fusi orari._
+{{< image src="images/mappamondo-da-torino-tokyo-pin.png" title="Sembrava più vicino con una cartina in mano! Solo 8 fusi orari." >}}
 
 ##### Buone notizie
 

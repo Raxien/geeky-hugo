@@ -33,8 +33,7 @@ La zanzariera si era rotta, qualche plastica si era scollata, avevamo bisogno di
 
 Anche di questo vi racconteremo tutto, con una serie di video che speriamo vi incuriosiscano a ripartire a viaggiare insieme a noi con testa e cuore. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1694595873/Articoli/Blog/lavori_al_van.jpg">}}
-_Abbiamo smontato mezzo van ma siamo riusciti a rimontarlo meglio di prima!_
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1694595873/Articoli/Blog/lavori_al_van.jpg" title="Abbiamo smontato mezzo van ma siamo riusciti a rimontarlo meglio di prima!" >}}
 
 ##### Si riparte, ma per dove?
 

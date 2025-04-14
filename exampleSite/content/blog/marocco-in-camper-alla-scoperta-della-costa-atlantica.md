@@ -41,8 +41,7 @@ Per quanto riguarda i biglietti del traghetto noi ci siamo affidati **all'agenzi
 
 **{{< underline "Giorno 1">}}**: siamo arrivati a **Tanger Med intorno alle 13** e dopo aver svolto le pratiche doganali, passando attraverso lo scanner, ci siamo diretti immediatamente verso **Assilah** a 80 km a sud. Abbiamo avuto modo di vivere subito l'atmosfera del souk, il tipico mercato marocchino, e di passeggiare lungo le mura di questa cittadina colorata e viva.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690623787/Articoli/marocco%201/assilah_zmey92.jpg">}}
-_Il mix di colori di Assilah, una gioia per gli occhi._
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690623787/Articoli/marocco%201/assilah_zmey92.jpg" title="Il mix di colori di Assilah, una gioia per gli occhi." >}}
 
 **{{< underline "Giorno 2">}}**: abbiamo lasciato Assilah e ci siamo diretti a Larache, tappa trovata per caso sulla cartina stradale. La medina appare da lontano come un cumulo di dadi bianchi e blu. Lungo la strada abbiamo osservato a malincuore numerosi cumuli di pattume a cielo aperto, con bambini e animali intenti a rovistare fra i detriti (scusate la sincerità ma {{<extLink "questa scena" "https://youtu.be/VBb-Zza0oUs">}} ci ha lasciato un peso sul cuore). 
 Siamo arrivati poi nel piccolo paesino di **Moulay Bousselham**, animato da pescatori che effettuano escursioni nella piccola laguna. Qui si trova anche un piccolo souk coperto. Dati i numerosi rifiuti e cani randagi ci siamo rimessi in marcia, raggiungendo un parcheggio libero nei pressi di un hotel, con possibilità di passeggiata lungo l'oceano.
@@ -52,8 +51,7 @@ Siamo arrivati poi nel piccolo paesino di **Moulay Bousselham**, animato da pesc
 Abbiamo scoperto una città in forte crescita, con palazzi all'avanguardia, mezzi pubblici moderni, una Kashba ben curata con giardini ordinati e un souk decisamente pulito e ricco di dettagli.
 Lasciata la capitale ci siamo diretti a **El Jadida**, antica colonia portoghese.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690623788/Articoli/marocco%201/van_marocco_yasxjf.jpg">}}
-_Uno spot da favola. Svegliarsi con questa vista non ha prezzo._
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690623788/Articoli/marocco%201/van_marocco_yasxjf.jpg" title="Uno spot da favola. Svegliarsi con questa vista non ha prezzo." >}}
 
 **{{< underline "Giorno 4">}}**: dopo due passi **lungo le mura di El Jadida** ammirando le piccole botteghe di artigiani locali abbiamo costeggiato l'Atlantico sostando sulla falesia per un pranzo con vista e ci siamo diretti a **Ouladida**, famosa per le coltivazioni di ostriche. 
 

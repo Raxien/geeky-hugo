@@ -15,13 +15,11 @@ Ci sarebbero così tante cose da raccontare sul Kurdistan iracheno, così tante 
 
 In primis **mai ci saremmo aspettati di festeggiare il Nawruz**, ovvero il capodanno persiano, una delle feste più antiche del mondo. Era il 20 marzo, diluviava senza sosta, ma per le vie di Aqrah, **una delle città più antiche del mondo sorta 5000 anni fa**, c’erano tantissime persone intente ad allestire il cibo che si sarebbe potuto mangiare dalle 18.30, per via del Ramadan che ha limitato tantissimo la festa, altrimenti protratta per giorni e giorni.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione15/iraq-nawruz-in-attesa_kd2ckq.jpg">}} 
-_Si aspetta la notte per festeggiare_
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione15/iraq-nawruz-in-attesa_kd2ckq.jpg" title="Si aspetta la notte per festeggiare">}} 
 
 **Insieme a Tonino, un italiano che vive in paese da 14 anni** e che abbiamo conosciuto più per fortuna che per caso, abbiamo assaggiato un succo tipico del paese, un mix di gelsi e menta. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione15/iraq-nawruz-ragazza-vende-dolci_byt5om.jpg">}} 
-_Una bambina ci offre dei dolci_
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione15/iraq-nawruz-ragazza-vende-dolci_byt5om.jpg" caption="Una bambina ci offre dei dolci">}} 
 
 ##### Inizia la magia
 

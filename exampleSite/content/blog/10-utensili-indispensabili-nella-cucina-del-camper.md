@@ -40,8 +40,7 @@ Ne abbiamo una serie in bio plastica con annessi coperchi. **Tengono poco spazio
 Il caffè a bordo è una cosa sacra. Va bevuto **nella tazzina giusta.** 
 Che una delle due sia caduta a terra e le si sia rotto il manico poco importa. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690377958/Articoli/Viaggio/tazzine-caffe_z2v792.jpg">}}
-_Prese con i punti Dí per Dí, ve lo ricordate?_
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690377958/Articoli/Viaggio/tazzine-caffe_z2v792.jpg" title="Prese con i punti Dí per Dí, ve lo ricordate?" >}}
 
 ###### 5. Moka
 Come dicevamo il caffè è sacro e va preparato {{<extLink "nella moka" "https://amzn.to/3Qa8IMZ">}}, come ci hanno insegnato le nostre nonne.
@@ -58,8 +57,7 @@ Non condividiamo con precisione la data di compleanno, però troppi anni di gioi
 
 {{<extLink "Lei" "https://amzn.to/3Ov3v0V">}} riduce i tempi di cottura, il consumo di gas e noi siamo più felici perché le pance **si riempiono prima.**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690377964/Articoli/Viaggio/pentola-a-pressione_plwolo.jpg">}}
-_La salvezza!_
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690377964/Articoli/Viaggio/pentola-a-pressione_plwolo.jpg" title="La salvezza!" >}}
 
 ###### 9. Coperchi in silicone
 Ne abbiamo due, di diametro piccolo e medio. Sigillano bene padelle e pentole, permettono di isolare in cottura, tengono poco spazio.

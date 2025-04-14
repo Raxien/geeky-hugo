@@ -58,8 +58,7 @@ Noi abbiamo scelto di esibire la carta d'identità come documento (ovviamente va
 
 I documenti teoricamente richiesti per [viaggiare con gli animali](/blog/viaggiare-con-cane-e-gatto-tutto-quello-che-devi-sapere) non ci sono stati richiesti.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/visto-turchia_ybjgjy.png">}}
-_Entrando il 20 gennaio 2024 e facendo due calcoli possiamo stare fino al 18 aprile, ma notiamo che ci hanno regalato quattro giorni in più._
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/visto-turchia_ybjgjy.png" title="Entrando il 20 gennaio 2024 e facendo due calcoli possiamo stare fino al 18 aprile, ma notiamo che ci hanno regalato quattro giorni in più" >}}
 
 ###### Cambio valuta 
 

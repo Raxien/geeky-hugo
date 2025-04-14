@@ -50,12 +50,11 @@ I maggiori punti di interesse della città secondo noi sono:
 1. **il monumento ai caduti**: nella piazza centrale di Pejë si erge la statua dedicata al padre fondatore dell'Albania, strano vero? Questo perché i kosovari si definiscono **"albanesi kosovari"** (infatti la lingua ufficiale è l'albanese)!
 2. **l'Hotel Korza**: uno dei simboli della città, era il più antico hotel, eretto ad inizio 1900, ora diventato sede di una banca. Alla sua sinistra troverete ahimè uno degli edifici **più brutti della città**.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682862720/Articoli/kosovo/peje-hotel-edificio-brutto_ywnoss.jpg">}}
-_Giudicate voi_
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682862720/Articoli/kosovo/peje-hotel-edificio-brutto_ywnoss.jpg" title="Lasciamo a voi giudicare." >}}
 
-3. **il bazar**: affascinante bazar nel centro della città, mantiene alcuni scorci di un passato lontano.
-4. **il monastero Patriarcale di Pec**: forse **il vero motivo** per cui dovreste venire a Pejë e uno dei luoghi che più ci ha emozionati. Patrimonio UNESCO, **è uno dei monasteri serbo-ortodossi più belli che abbiamo visto** in questo tour dei balcani, sia all'esterno grazie al bellissimo viale che conduce al portone di ingresso e alla foresta di Rugova che compare all'orizzonte, sia all'interno dove trovere un'infinità di affreschi perfettamente conservati. Una gioia per gli occhi. Portatevi un documento di identità, vi verrà richiesto dai militari che presidiano l'ingresso: nessuna paura, è un luogo che trasmette pace in ogni dettaglio. 
-5. **il parco Nazionale di Rugova**: se amate i trekking, le ferrate o camminare nella natura, dedicate una o più giornate alla visita di questo parco nazionale, che si trova poco oltre la cittadina di Pejë.
+1. **il bazar**: affascinante bazar nel centro della città, mantiene alcuni scorci di un passato lontano.
+2. **il monastero Patriarcale di Pec**: forse **il vero motivo** per cui dovreste venire a Pejë e uno dei luoghi che più ci ha emozionati. Patrimonio UNESCO, **è uno dei monasteri serbo-ortodossi più belli che abbiamo visto** in questo tour dei balcani, sia all'esterno grazie al bellissimo viale che conduce al portone di ingresso e alla foresta di Rugova che compare all'orizzonte, sia all'interno dove trovere un'infinità di affreschi perfettamente conservati. Una gioia per gli occhi. Portatevi un documento di identità, vi verrà richiesto dai militari che presidiano l'ingresso: nessuna paura, è un luogo che trasmette pace in ogni dettaglio. 
+3. **il parco Nazionale di Rugova**: se amate i trekking, le ferrate o camminare nella natura, dedicate una o più giornate alla visita di questo parco nazionale, che si trova poco oltre la cittadina di Pejë.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682862720/Articoli/kosovo/peje-monastero_aelstb.jpg">}}
 
@@ -174,8 +173,7 @@ Viene prodotto a nord del paese, nella Rugova valley, e si trova sia nei ristora
 
 **{{< underline "Lecenik">}}**: il leçenik è una specie di pane morbido all'interno preparato con farina di mais che garantisce una crosta croccante. Spesso viene impastato con il kos (una sorta di yogurt) oppure con spinaci, ortiche o cipolle.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682862720/Articoli/kosovo/kosovo-cosa-mangiare_g78zhe.jpg">}}
-_Il kit di sopravvivenza in Kosovo_
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682862720/Articoli/kosovo/kosovo-cosa-mangiare_g78zhe.jpg" title="Il kit di sopravvivenza in Kosovo" >}}
 
 **{{< underline "Treleche">}}**: uno dei dolci tipici del Kosovo e di tutti i Balcani, noto anche come tre latti, è un dolce dalla consistenza morbida ricoperto di caramello. Lo trovate nelle pasticcerie ma anche in alcune bancarelle di streetfood. 
 

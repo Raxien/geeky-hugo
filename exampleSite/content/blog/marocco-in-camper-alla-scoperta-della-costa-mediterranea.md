@@ -35,16 +35,14 @@ In ultimo noi abbiamo raggiunto nuovamente Tanger Med, da dove ci siamo imbarcat
 5 giorni che abbiamo trascorso immersi nella natura, **senza incontrare nessuno**, finendo le provviste e cucinando del simil pane a bordo del camper, rimanendo con un litro d'acqua per 2 adulti e 2 animali. 
 E' stato surreale, è stato bello, è stato purificante tanto da meritarsi {{<extLink "un video ad hoc" "https://youtu.be/6elKW_OV-98">}} per raccontare le nostre impressioni.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690636794/Articoli/Marocco/marocco%203/marocco_in_camper_in_libera_rabwg4.jpg">}}
-_Un van, due persone, un cane, un gatto e nessun altro._
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690636794/Articoli/Marocco/marocco%203/marocco_in_camper_in_libera_rabwg4.jpg" title="Un van, due persone, un cane, un gatto e nessun altro." >}}
 
 **{{< underline "Giorno 7">}}**: tra le città imperiali che ci mancavano all'appello abbiamo deciso di visitare solo **Fes** dal momento che quando eravamo **il paese Meknes era quasi totalmente in ristrutturazione**. La nostra visita è durata una mattinata intera: abbiamo deciso di passeggiare per le vie del quartiere ebraico alle 7 di mattina, **scelta perfetta per non trovare troppo turismo** e raggiungere le zone delle concerie di pelle, per le quali è famosa la città. 
 Affacciarsi su questi siti è gratuito, anche se numerose persone si proporranno di farvi da guida. L'odore di pelle trattata è veramente forte, ecco perché all'ingresso vi daranno un rametto di menta: non buttatelo! Vi aiuterà a non dover trattenere il respiro tutto il tempo!
 
 **{{< underline "Giorno 8">}}**: lasciata Fes abbiamo deciso, come anticipato, di non dirigerci direttamente a nord bensì di visitare tutta la costa mediterranea del Marocco, raggiungendo il confine purtroppo **invalicabile con l'Algeria** a **Saidia**. E' stato toccante salutare con la mano le persone al di là di un semplice fossato riempito di filo spinato. A posteriori, questa è stata una delle cose più interessanti e particolari da ammirare lungo la costa, **se non l'unica.** 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690636796/Articoli/Marocco/marocco%203/camper_saidia_confine_algeria_marocco_y2y25m.jpg">}}
-_Sarebbe stato bellissimo visitare l'Algeria e la Tunisia per rientrare in Italia dalla Sicilia..._
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690636796/Articoli/Marocco/marocco%203/camper_saidia_confine_algeria_marocco_y2y25m.jpg" title="Sarebbe stato bellissimo visitare l'Algeria e la Tunisia per rientrare in Italia dalla Sicilia.." >}}
 
 **{{< underline "Giorno 9-15">}}**: dato il maltempo abbiamo proseguito lungo questo tratto di costa che ci è apparso triste e trasandato, dove tra l'altro non si può sostare facilmente. Una meta che può essere interessante da visitare è **Melilla**, colonia spagnola. Data la pioggia davvero insistente noi siamo andati oltre, raggiungendo **Al Hoceima** e poi **Cala Iris**, fino ad arrivare a **Oued Lau**. Da qui avremmo potuto continuare lungo la costa ma abbiamo deciso di optare per una breve deviazione verso l'entroterra.
 
@@ -80,8 +78,7 @@ _Sarebbe stato bellissimo visitare l'Algeria e la Tunisia per rientrare in Itali
 
 **{{< underline "Giorno 19-22">}}**: Cap Spartel e Tangeri
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690636792/Articoli/Marocco/marocco%203/marocco_costa_mediterranea_qcofuq.jpg">}}
-_Vista in foto sembra pulita, sembra._
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690636792/Articoli/Marocco/marocco%203/marocco_costa_mediterranea_qcofuq.jpg" title="Vista in foto sembra pulita, sembra." >}}
 
 ##### Quanto abbiamo speso
 

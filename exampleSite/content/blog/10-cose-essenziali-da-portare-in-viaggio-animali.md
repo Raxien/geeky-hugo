@@ -49,8 +49,8 @@ Ebbene sì, per viaggiare con il proprio animale servono alcuni documenti import
 Vuoi scoprire quali? 
 Ne abbiamo parlato [in questo articolo!](/blog/viaggiare-con-cane-e-gatto-tutto-quello-che-devi-sapere)
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689522820/Articoli/Viaggio/coniglio-al-guinzaglio_binbrs.jpg">}}
-_Vale anche se avete un coniglio al guinzaglio 🐰_
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689522820/Articoli/Viaggio/coniglio-al-guinzaglio_binbrs.jpg" title="Vale anche se avete un coniglio al guinzaglio 🐰">}}
+
 
 ##### Consigli
 La cosa più importante di tutte è forse la voglia di **divertirsi e vivere bellissime avventure insieme!**

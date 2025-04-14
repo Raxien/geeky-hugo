@@ -87,8 +87,7 @@ Per esempio, guardando sui vari siti degli operatori nostrani è possibile trova
 
 Come dicevamo non sono soluzioni economiche e infatti **consigliamo di valutare la prima soluzione che consigliamo** per i viaggi lunghi qui di seguito. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1684677033/DSC02744_wp34o6.jpg">}}
-_Pure qui, [in Marocco, nel nulla](/blog/5-spot-in-marocco.md), siamo riusciti ad avere connessione!_
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1684677033/DSC02744_wp34o6.jpg" title="Pure qui, [in Marocco, nel nulla](/blog/5-spot-in-marocco), siamo riusciti ad avere connessione!" >}}
 
 ##### Viaggi lunghi
 Di seguito le soluzioni se prevedi di fare un viaggio lungo in giro per il mondo!
@@ -116,8 +115,7 @@ Come funziona? ConnectPls è un servizio di abbonamento Internet che offre una c
 Ovunque davvero? Sì. L'unica limitazione è che a seconda del Paese in si utilizza il dispositivo, potrebbe essere applicato un fair use o un limite di velocità. 
 Nei paesi indicati sul loro sito nel gruppo 1, quando l'utilizzo giornaliero dei dati supera i 5 GB si potrebbe riscontrare una diminuzione della velocità di connessione. Nei paesi del Gruppo 2 la connessione sarà a velocità 4G per 500 MB al giorno – 256 kbps una volta raggiunto il limite di velocità. Si tratta principalmente di una protezione contro l'abuso dell'utilizzo dei dati non personali su tutti i dispositivi, ma l'accesso ad Internet sarà in ogni caso illimitato.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1702369025/Articoli/Blog/internet-illimitato-connectpls_lbtnbm.jpg">}}
-_Il router ha una batteria infinita ed è portatile! Grande Giove!_
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1702369025/Articoli/Blog/internet-illimitato-connectpls_lbtnbm.jpg" title="Il router ha una batteria infinita ed è portatile! Grande Giove!" >}}
 
 ###### Perché ci ha cambiato la vita in viaggio
 Negli ultimi due mesi, **vivendo come fulltime vanlifers**, ci siamo ritrovati ad attraversare numerose frontiere in Europa e fuori Europa. Se in ogni paese avessimo dovuto cercare informazioni circa le offerte, ricercare dove comprare le sim una volta attraversata la dogana e sfruttare al meglio la promozione calcolando giorni e giga a disposizione avremmo perso tantissimo tempo! 
@@ -141,7 +139,6 @@ Se stai pianificando un viaggio per vacanza ma non assolutamente rimanere fuori 
 Se sei un nomade digitale o un fulltime vanlifer cerca di capire le tue necessità di download o upload, e ricorda che non sempre i WIFI  dei bar o co-working sono affidabili al 100%.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1702369025/Articoli/Blog/smartworking-in-van_xctosr.jpg">}}
-_Non conosci i [Sumi me?](/blog/storie-personalizzate-ecco-i-sumi-me)_
 
 ##### In breve
 
@@ -185,8 +182,7 @@ Veniamo ora ai trucchi che usiamo viaggiando per risparmiare giga e avere sempre
 Questo è uno strumento facilissimo di Whatsapp che consente di inviare lo stesso messaggio a più contatti contemporaneamente, senza dover creare un gruppo in cui i partecipanti possano avere accesso ad altri contatti e senza dover scrivere più e più volte il messaggio in ogni chat o inoltrare sempre la stessa fotografia. 
 Noi lo usiamo per aggiornare tutti i familiari e risparmiare mega che si trasformano in giga in un batter d'occhio: in questo caso infatti tu invierai un file e poi sarà Whatsapp a destinarlo senza pesare sul tuo consumo. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1702369025/Articoli/Blog/whatsapp-liste-broadcast_zzny3z.jpg">}}
-_Un messaggio solo per comunicare con tutti!_
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1702369025/Articoli/Blog/whatsapp-liste-broadcast_zzny3z.jpg" title="Un messaggio solo per comunicare con tutti!" >}}
 
 ###### Come creare e usare una lista broadcast
 Creare una lista broadcast **è facilissimo** ma dipende dal sistema operativo che si utilizza.
@@ -214,8 +210,7 @@ Wi-Fi Map è un'applicazione molto semplice da utilizzare che permette di **indi
 ###### Come funziona?
 I WiFi sono stati inseriti da altri utenti (e tu stesso puoi aggiungerne uno se lo trovi), che indicano se essi sono ad accesso libero o se richiedono una password e in tal caso quale è la password da inserire. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1702369025/Articoli/Blog/wifi-map-applicazione_yekf6y.jpg">}}
-_Un messaggio solo per comunicare con tutti!_
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1702369025/Articoli/Blog/wifi-map-applicazione_yekf6y.jpg" >}}
 
 ###### Funziona sempre?
 Il limite di questa applicazione è che le password dei WiFi nel tempo possono essere modificate senza che nessuno le aggiorni o che il WiFi del bar\ristorante non sia disponibile (es. il locale ha chiuso).
@@ -232,7 +227,6 @@ Prima di partire noi scarichiamo sempre film o libri o playlist musicali ai qual
 Vuoi mettere ascoltare solo la radio in lingua locale? E' pur vero che è un ottimo esercizio linguistico!
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1702369025/Articoli/Blog/leggere-ovunque-senza-problemi_lkk6t4.jpg">}}
-_[Scopri cosa leggiamo](/books)_
 
 Non ti resta che partire, ricordandoti di connetterti anche con il luogo che stai per visitare, con le persone del posto, i sapori e tutte le cose belle che potrai portare a casa come bagaglio culturale! 
 Speriamo di esserti stati utili, ti aspettiamo nei commenti se avessi dubbi o curiosità. 

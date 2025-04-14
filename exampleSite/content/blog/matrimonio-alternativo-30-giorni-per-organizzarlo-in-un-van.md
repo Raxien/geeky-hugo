@@ -37,8 +37,7 @@ Paolo ed io siamo così, lanciamo idee e progetti per aria e poi lasciamo che le
 Era il **18 maggio 2023** quando, affacciati sulla costa mediterranea del Marocco, osservando le nostre radici da lontano sotto a un diluvio magnanimo, abbiamo deciso di contattare il Comune di Torino per sposarci un paio di mesi dopo, periodo in cui saremmo passati sicuramente da casa.
 La risposta da parte degli uffici è stata celere quanto negativa: il tempo a disposizione non sarebbe stato sufficiente. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/mi-vuoi-sposare_smcsfk.jpg">}}
-_Se vuoi vedere il video completo lo trovi in fondo all'articolo_
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/mi-vuoi-sposare_smcsfk.jpg" title="Se vuoi vedere il video completo lo trovi in fondo all'articolo." >}}
 
 ##### Non s'ha da fare
 

@@ -82,8 +82,7 @@ Con la card cittadina **si ha accesso su qualsiasi mezzo di trasporto**: pullman
 Traghetto? Non esiste solo quello per la turistica crociera sul Bosforo? 
 **Ebbene no!** Esiste anche un pratico traghetto che ogni mezz'ora circa attraversa il Bosforo collegando il lato europeo con quello asiatico della città, permettendo di ammirare lo skyline dei palazzi sull'acqua mescolandosi alla gente del posto. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Istanbul/istanbul_gatto_in_attesa_barca_c3z4pn.jpg">}}
-_Pure i gatti prendono il traghetto!_
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Istanbul/istanbul_gatto_in_attesa_barca_c3z4pn.jpg" title="Pure i gatti prendono il traghetto." >}}
 
 La nostra ultima buonanotte alla città è anche l'ultima rivolta al nostro continente. 
 

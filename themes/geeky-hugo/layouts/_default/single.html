@@ -208,7 +208,30 @@
 
     <!-- releted post -->
     <div class="row">
-      {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where site.RegularPages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
+      {{ $currentPage := . }}
+      {{ $related := slice }}
+      
+      <!-- Prima cerchiamo i post correlati per paese -->
+      {{ if .Params.country }}
+        {{ $relatedByCountry := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.country" "eq" .Params.country) }}
+        {{ $related = $related | append $relatedByCountry }}
+      {{ end }}
+      
+      <!-- Poi cerchiamo i post correlati per tag -->
+      {{ $relatedByTags := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.tags" "intersect" .Params.tags) }}
+      
+      <!-- Poi cerchiamo i post correlati per categorie -->
+      {{ $relatedByCategories := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.categories" "intersect" .Params.categories) }}
+      
+      <!-- Uniamo i risultati, dando priorità ai post con più elementi in comune -->
+      {{ $related = $related | append $relatedByTags | append $relatedByCategories | uniq }}
+      
+      <!-- Se non abbiamo abbastanza post correlati, aggiungiamo post recenti -->
+      {{ if lt (len $related) 3 }}
+        {{ $recent := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | first (sub 3 (len $related)) }}
+        {{ $related = $related | append $recent | uniq }}
+      {{ end }}
+      
       {{ range first 3 $related }}
       <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
       {{ .Render "post" }}

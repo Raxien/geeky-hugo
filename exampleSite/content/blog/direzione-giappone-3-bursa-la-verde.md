@@ -64,8 +64,7 @@ Cittadina mai sentita nominare prima, è stato solo studiando le cartine e tradu
 
 Siamo arrivati in orario di preghiera e siamo scesi timidamente, traducendo la richiesta di poter entrare. E subito tutti a farci segno, ad accompagnare me a sinistra e Paolo a destra. Io nel soppalco con le donne, lui al pian terreno con gli uomini. Ci siamo ritrovati di nuovo sul piazzale, con una scarpa sì e una no nei piedi, sorridendoci a distanza, ringraziando la gente del posto per l’accoglienza. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione3/isola_barche_tl4si5.jpg">}}
-_Sembra di esser in [Senegal](/categories/senegal)_
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione3/isola_barche_tl4si5.jpg" title="Sembra di esser in Senegal" >}}
 
 Potevamo quindi non tentare la fortuna anche al museo dedicato ad Ataturk, padre fondatore della Turchia? Se siete nei paraggi vale davvero una sosta, fosse anche solo per la gentilezza del personale. 
 
