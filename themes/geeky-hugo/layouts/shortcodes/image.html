@@ -1,6 +1,8 @@
 <!-- 230722 PP -->
 <!-- set quality image -->
-{{ if strings.Contains (.Get "src") "f_webp,q_auto:good,w_800,c_scale,dpr_auto"  }}
+{{ if .Get "skip_quality" }}
+  {{ .Scratch.Set "src" (.Get "src") }}
+{{ else if strings.Contains (.Get "src") "f_webp,q_auto:good,w_800,c_scale,dpr_auto"  }}
   {{ .Scratch.Set "src" (.Get "src") }}
 {{ else }}
   {{ .Scratch.Set "src" (replace (.Get "src") "upload/" "upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/") }}
@@ -30,10 +32,10 @@
 <!-- cdn image -->
 
 <!-- image figure -->
-{{ if .Get `title` }}
+{{ if or (.Get `title`) (.Get `caption`) }}
 <figure class="{{.Scratch.Get `image-position`}}">
   <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Get `alt` }}" class="{{.Get `c`}}" width="{{.Get `w`}}" height="{{.Get `h`}}">
-  <figcaption>{{.Get `title` | markdownify}}</figcaption>
+  <figcaption>{{.Get `title` | default (.Get `caption`) | markdownify}}</figcaption>
 </figure>
 {{ else }}
 <!-- image tag -->
@@ -69,10 +71,10 @@
 {{ end }}
 
 <!-- image figure -->
-{{ if .Get `title` }}
+{{ if or (.Get `title`) (.Get `caption`) }}
 <figure class="{{.Scratch.Get `image-position`}}">
   <img loading="lazy" decoding="async" class="{{.Get `c`}}" width="{{.Get `w` | default $imageWidth }}" height="{{.Get `h` | default $imageHeight}}" src="{{.Scratch.Get `image`}}" alt="{{.Get `alt`}}" onerror="this.onerror='null';this.src='{{.Scratch.Get `image_fallback`}}'">
-  <figcaption>{{.Get `title` | markdownify}}</figcaption>
+  <figcaption>{{.Get `title` | default (.Get `caption`) | markdownify}}</figcaption>
 </figure>
 {{ else }}
 <!-- image tag -->
@@ -83,10 +85,10 @@
 {{ else if fileExists $imagePath }}
 
 <!-- image figure -->
-{{ if .Get `title` }}
+{{ if or (.Get `title`) (.Get `caption`) }}
 <figure class="{{.Scratch.Get `image-position`}}">
   <img loading="lazy" decoding="async" class="{{.Get `c`}}" width="{{.Get `w`}}" height="{{.Get `h`}}" src="{{$imagePath | relURL}}" alt="{{.Get `alt`}}">
-  <figcaption>{{.Get `title` | markdownify}}</figcaption>
+  <figcaption>{{.Get `title` | default (.Get `caption`) | markdownify}}</figcaption>
 </figure>
 {{ else }}
 <!-- image tag -->
