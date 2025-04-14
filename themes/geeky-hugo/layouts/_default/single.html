@@ -261,12 +261,12 @@
 <!-- /regular page -->
 
 <script>
-$(function() {
-    setInterval(() => {
-        $.each($('iframe'), (arr,x) => {
-            let src = $(x).attr('src');
+document.addEventListener('DOMContentLoaded', function() {
+    setInterval(function() {
+        document.querySelectorAll('iframe').forEach(function(iframe) {
+            let src = iframe.getAttribute('src');
             if (src && src.match(/(ads-iframe)|(disqusads)/gi)) {
-                $(x).remove();
+                iframe.remove();
             }
         });
     }, 300);
