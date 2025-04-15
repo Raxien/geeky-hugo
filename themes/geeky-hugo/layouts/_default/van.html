@@ -119,7 +119,17 @@
 
 <!--=================== expanses script start ===================-->
 <script>
-
+  document.addEventListener('DOMContentLoaded', function() {
+      setInterval(function() {
+          document.querySelectorAll('iframe').forEach(function(iframe) {
+              let src = iframe.getAttribute('src');
+              if (src && src.match(/(ads-iframe)|(disqusads)/gi)) {
+                  iframe.remove();
+              }
+          });
+      }, 300);
+  });
+  
   //let rpcUrl = "http://localhost:3000";
   //const rpcUrl = "https://vandipety-api.herokuapp.com";
   const rpcUrl = "https://vandipetyapi.onrender.com"
