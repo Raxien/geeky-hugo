@@ -34,3 +34,5 @@ Che tu sia un viaggiatore esperto o un principiante, questa guida è pensata per
 ##### Pronto a partire?
 
 Non lasciare che il richiamo della Transiberiana resti solo un sogno! La nostra guida, disponibile in versione cartacea e eBook, è il compagno perfetto per pianificare il tuo viaggio. {{<extLink "Acquistala ora su Amazon" "https://amzn.to/3Ec1FQh">}} e inizia a preparare la tua avventura!
+
+{{< blogFooter "" "1" "0">}}

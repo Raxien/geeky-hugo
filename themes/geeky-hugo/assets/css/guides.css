@@ -86,4 +86,10 @@
 
 .guides-pagination .swiper-pagination-bullet-active {
   opacity: 1;
+}
+
+.no-space {
+    margin: 0;
+    padding: 0;
+    display: inline;
 } 

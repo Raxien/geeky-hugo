@@ -61,3 +61,5 @@ Scarica app come [Naver Maps o Kakao Metro](/blog/corea-del-sud-le-app-da-avere-
 Se non usi tutto il credito, puoi richiedere un rimborso (fino a 20.000 won) agli sportelli autorizzati, come in aeroporto, pagando una piccola commissione.
 
 Con la T-Money in tasca, esplorare Seoul diventa un’esperienza fluida e senza stress. Che tu stia correndo [verso un tempio storico o un caffè trendy](/blog/seoul-cosa-vedere-4-giorni-itinerario-completo), la metro e la tua carta ricaricabile saranno i tuoi migliori alleati.
+
+{{< blogFooter "" "1" "0">}}

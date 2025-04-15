@@ -3,7 +3,7 @@ title: 'Gatto in camper: 10 consigli per vivere fantastiche avventure on the roa
 description: "Scopri come abbiamo fatto ad abituare il nostro gatto a viaggiare in camper e quali regole occorre seguire in giro per il mondo"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689500423/Articoli/gatto%20in%20camper/DSC01423_2_irao6q.jpg
 date: 2023-07-15T17:00:00.000
-categories: ["Animali", "Blog"]
+categories: ["Animali"]
 type: regular
 ---
 
