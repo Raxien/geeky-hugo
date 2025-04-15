@@ -1,0 +1,48 @@
+{{ if .Params.image }}
+{{ $image := .Resources.GetMatch .Params.image }}
+{{ if $image }}
+  {{ $webp := $image.Resize "1200x webp" }}
+  {{ $jpg := $image.Resize "1200x" }}
+  <div class="post-featured-image">
+    <picture>
+      <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+      <img 
+        src="{{ $jpg.RelPermalink }}" 
+        alt="{{ .Title }}" 
+        loading="eager"
+        width="{{ $jpg.Width }}"
+        height="{{ $jpg.Height }}"
+        class="img-fluid"
+      >
+    </picture>
+  </div>
+{{ else }}
+  <div class="post-featured-image">
+    <img 
+      src="{{ .Params.image | absURL }}" 
+      alt="{{ .Title }}" 
+      loading="eager"
+      class="img-fluid"
+    >
+  </div>
+{{ end }}
+{{ end }}
+
+<style>
+.post-featured-image {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  overflow: hidden;
+}
+
+.post-featured-image img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+</style> 

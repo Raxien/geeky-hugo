@@ -281,3 +281,13 @@
   }
   window.addEventListener('load', loadSwiper);
 </script>
+
+{{ if .Params.image }}
+  {{ $image := .Resources.GetMatch .Params.image }}
+  {{ if $image }}
+    {{ $webp := $image.Resize "1200x webp" }}
+    <link rel="preload" as="image" href="{{ $webp.RelPermalink }}" type="image/webp">
+  {{ else }}
+    <link rel="preload" as="image" href="{{ .Params.image | absURL }}">
+  {{ end }}
+{{ end }}
