@@ -40,7 +40,7 @@ Non perdete l'occasione di esplorare la serra situata alla fine dei giardini, ol
 _Orario 09:00-21:00 (ultimo ingresso alle 20:00), chiuso il lunedì._
 
 ###### Deoksugung
-Questo palazzo, designato come palazzo reale principale solo alla fine del diciannovesimo secolo, si trova nel cuore della città e **offre un interessante contrasto tra il passato e il presente.**
+Questo palazzo, designato come palazzo reale principale solo alla fine del diciannovesimo secolo, si trova nel cuore della città e **offrono un interessante contrasto tra il passato e il presente.**
 
 Alcune parti della struttura sono state ricostruite o modificate nel corso del ventesimo secolo, per cui si distingue per la fusione di stili architettonici occidentali e tradizionali coreani.
 
