@@ -1,10 +1,8 @@
 ---
 title: Le nostre spese
 description: Tutte le spese sostenute fino ad oggi per il nostro viaggio
-image: images/spese.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Blog/spese-in-viaggio_nsvy8m.jpg
 layout: expanses
-Focus_Keyword: expanses
-
 ---
 
 Per permetterci questa scelta di vita abbiamo risparmiato giorno per giorno e lo stiamo facendo ancora. Ci piace da sempre tenere conto delle spese, per cui ecco dei [grafici](#chart) e la [tabella](#tblSpese) dove teniamo traccia di tutte le spese e di come questo viaggio potrà davvero mantenersi nei mesi.
