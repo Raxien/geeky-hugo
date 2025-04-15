@@ -8,40 +8,12 @@
   HUGO_BASEURL = "/"
 
 [[headers]]
-  for = "/*"
-  [headers.values]
-    X-Content-Type-Options = "nosniff"
-    X-XSS-Protection = "1; mode=block"
-    X-Frame-Options = "SAMEORIGIN"
-    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
-
-[[headers]]
-  for = "/assets/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
-
-[[headers]]
-  for = "/images/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
-
-[[headers]]
-  for = "/css/*"
-  [headers.values]
-    Cache-Control = "public, max-age=2592000"
-
-[[headers]]
-  for = "/js/*"
-  [headers.values]
-    Cache-Control = "public, max-age=2592000"
-
-[[headers]]
-  for = "/fonts/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
-
-# Compressione
-[[headers]]
-  for = "/*"
-  [headers.values]
+  for = "/*" # This defines which paths this specific [[headers]] block will cover.
+    [headers.values]
     Content-Encoding = "gzip"
+
+[headers.values]
+  X-Frame-Options = "DENY"
+  X-XSS-Protection = "1; mode=block"
+  Referrer-Policy = "same-origin"
+  Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
