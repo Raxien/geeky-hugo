@@ -3,9 +3,6 @@
 {{- $sectionDelimiter := "<!-- section break -->" -}}
 {{- $rawContentSections := split .RawContent $sectionDelimiter -}}
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"
-  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-
 <script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
 
@@ -130,24 +127,21 @@
       }, 300);
   });
   
-  //let rpcUrl = "http://localhost:3000";
-  //const rpcUrl = "https://vandipety-api.herokuapp.com";
   const rpcUrl = "https://vandipetyapi.onrender.com"
 
-  const getTripData = () => {
+  const getTripData = async () => {
     console.log('getting data');
-    $.ajax({
-      type: 'GET',
-      url: `${rpcUrl}/data/trip`,
-      contentType: "application/json",
-      success: ({ json: res }) => {
-        console.log(res);
-        setVanCost(res.costVan, res.costAccessory);
-        setKmData(res.actualKm);
-        setInsuranceData(res.assicurazione, res.bollo);
-      },
-      error: (_, __, error) => console.log('Error:', error.message)
-    });
+    try {
+      const response = await fetch(`${rpcUrl}/data/trip`);
+      const data = await response.json();
+      const res = data.json;
+      console.log(res);
+      setVanCost(res.costVan, res.costAccessory);
+      setKmData(res.actualKm);
+      setInsuranceData(res.assicurazione, res.bollo);
+    } catch (error) {
+      console.log('Error:', error.message);
+    }
   };
 
   const setInsuranceData = (assicuazione, bollo) => {
@@ -176,7 +170,7 @@
     }).render(document.getElementById("tblAccessory"));
   };
 
-  $(document).ready(getTripData);
+  document.addEventListener('DOMContentLoaded', getTripData);
 </script>
 <!--=================== expanses script end ===================-->
 {{ end }}

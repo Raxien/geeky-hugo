@@ -181,25 +181,23 @@
         <!-- articoli correlati mobile -->
         <div class="d-lg-none">
           {{ partial "widgets/related-posts.html" . }}
+        </div>
 
-          <!-- disqus comments -->   
-          {{ with .Site.Params.disqusShortname }}
-          <div class="border rounded p-4">
-            {{ template "_internal/disqus.html" $ }}
-          </div>
-          {{ end }}
+        <!-- disqus comments -->   
+        {{ with .Site.Params.disqusShortname }}
+        <div  style="margin-top: 30px;">
+        <div class="border rounded p-4">
+          {{ template "_internal/disqus.html" $ }}
+        </div>
+        </div>
+        {{ end }}
 
+        <!-- recommended posts mobile -->
+        <div class="d-lg-none">
           <div style="margin-top: 30px;">
             {{ partial "widgets/recommended-posts.html" . }}
           </div>
         </div>
-
-        <!-- disqus comments desktop -->   
-        {{ with .Site.Params.disqusShortname }}
-        <div class="border rounded p-4 d-none d-lg-block">
-          {{ template "_internal/disqus.html" $ }}
-        </div>
-        {{ end }}
       </div>
       <!-- sidebar widgets -->
       <div class="col-lg-4">

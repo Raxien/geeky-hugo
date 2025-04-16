@@ -294,4 +294,47 @@ picture.rounded-4 {
     display: block;
   }
 }
+
+/* PayPal Hosted Button Container */
+#paypal-container-BCJTRMPKC52MW {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 1rem;
+  background-color: transparent;
+  border-radius: 8px;
+  
+  iframe {
+    width: 100% !important;
+    min-height: 45px !important;
+    border: none !important;
+    background-color: transparent !important;
+  }
+}
+
+/* Reset for PayPal injected styles */
+#paypal-container-BCJTRMPKC52MW h3,
+#paypal-container-BCJTRMPKC52MW * h3,
+#paypal-container-BCJTRMPKC52MW iframe h3,
+#paypal-container-BCJTRMPKC52MW iframe * h3 {
+  all: revert !important;
+  font-size: 1.75rem !important;
+  font-weight: 600 !important;
+  margin: 0 0 1rem 0 !important;
+  padding: 0 !important;
+  color: var(--bs-body-color) !important;
+  line-height: 1.2 !important;
+  font-family: inherit !important;
+  text-transform: none !important;
+  letter-spacing: normal !important;
+  text-align: left !important;
+  display: block !important;
+  border: none !important;
+  background: none !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+  font-style: normal !important;
+  font-variant: normal !important;
+  text-decoration: none !important;
+  vertical-align: baseline !important;
+}
   

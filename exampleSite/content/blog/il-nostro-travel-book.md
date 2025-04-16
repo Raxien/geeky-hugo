@@ -47,10 +47,10 @@ Abbiamo scelto di attribuire una piccola cifra a pagamento a questo Travel Book,
 `Importante`  
 Dopo l'acquisto si apriranno le istruzioni su come accedere al Travel Book. Il link alle istruzioni saranno sempre disponibili nella fattura che riceverete via mail alla voce "Codice". In caso di problemi potete contattarci presso <a href="mailto:info@vandipety.it" target="_self" rel="noopener" >info@vandipety.it</a>.
 
-<script src="https://www.paypal.com/sdk/js?client-id=BAAXMIPKDI1J_f5jgTXxkh2yPhMIh8O1vmlhzRa_pe_rkZOqpm-JnPOamYpK0FltLsSeU_iiZuVo95xriQ&components=hosted-buttons&disable-funding=venmo&currency=EUR"></script>
-<div id="paypal-container-4TTTSVD3NYZQY"></div>
+
+<div id="paypal-container-BCJTRMPKC52MW"></div>
 <script>
   paypal.HostedButtons({
-    hostedButtonId: "4TTTSVD3NYZQY",
-  }).render("#paypal-container-4TTTSVD3NYZQY")
-</script>   
+    hostedButtonId: "BCJTRMPKC52MW",
+  }).render("#paypal-container-BCJTRMPKC52MW")
+</script>

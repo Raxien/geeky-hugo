@@ -3,9 +3,6 @@
 {{- $sectionDelimiter := "<!-- section break -->" -}}
 {{- $rawContentSections := split .RawContent $sectionDelimiter -}}
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"
-  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/moment.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/locale/it.js"></script>
 
@@ -140,7 +137,6 @@
 
 <!--=================== expanses script start ===================-->
 <script>
-
   //const rpcUrl = "https://vandipety-api.herokuapp.com";
   const rpcUrl = "https://vandipetyapi.onrender.com"
 
@@ -250,11 +246,8 @@
       return item != null;
     })
 
-
     var addRouteLayer = function (id, mapJson, color, title) {
-
       var mapBoxCoordinates = mapJson.map(function (item) {
-
         var latlong = item[0].replace(' ', '').split(',').map(function (value) {
           return parseFloat(value);
         });
@@ -288,8 +281,13 @@
         }
       });
 
-      let legend = $("#legend")
-      legend.append('<div><span style="background-color: ' + color + ' "></span>' + title + '</div>')
+      const legend = document.getElementById('legend');
+      const newLegendItem = document.createElement('div');
+      const span = document.createElement('span');
+      span.style.backgroundColor = color;
+      newLegendItem.appendChild(span);
+      newLegendItem.appendChild(document.createTextNode(title));
+      legend.appendChild(newLegendItem);
     }
 
     map.on("load", function () {
@@ -303,8 +301,6 @@
         addRouteLayer('route2', mapJson.route[1], '#d98396', 'Tour dei Balcani');
         // route 3 - Direzione Giappone
         addRouteLayer('route3', mapJson.route[2], '#91CCF1', 'Direzione Giappone');
-
-
 
         map.addImage("custom-marker", image);
 
@@ -327,8 +323,6 @@
           }
         });
 
-
-        
         const legend = document.getElementById('legend');
         legend.style.display = 'block';
       });
@@ -362,7 +356,6 @@
     map.on('mouseleave', 'places', function () {
       map.getCanvas().style.cursor = '';
     });
-
   };
 
   document.addEventListener('DOMContentLoaded', () => {

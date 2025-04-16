@@ -1,6 +1,4 @@
 {{ define "main" }}
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-
 <!--=================== about section start ===================-->
 <section class="section">
   <div class="container">
@@ -77,47 +75,50 @@
     </div>
   </div>
 </section>
+
 <script>
+  const rpcUrl = "https://vandipetyapi.onrender.com";
+  const _url = "travel-book";
 
-  //let rpcUrl = "http://localhost:3000";
-  //const rpcUrl = "https://vandipety-api.herokuapp.com";
-  const rpcUrl = "https://vandipetyapi.onrender.com"
-  let _url = "travel-book";
-
-  let getParam = function (p) {
+  async function getParam(p) {
+    try {
       console.log('getting data');
-      $.ajax({
-        type: 'GET', // added,
-        url: rpcUrl + "/data/" + _url,
-        contentType: "application/json",
-        success: function (data) {
-          // debugger;
-          console.log(data);
-          res = data.json;
-          
-          var a = document.getElementById("btnAction")
-          a.href = res[p];
+      const response = await fetch(rpcUrl + "/data/" + _url, {
+        method: 'GET',
+        headers: {
+          'Content-Type': 'application/json'
+        }
+      });
+      
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      
+      const data = await response.json();
+      console.log(data);
+      const res = data.json;
+      
+      const btnAction = document.getElementById("btnAction");
+      if (btnAction) {
+        btnAction.href = res[p];
+      }
 
-          return data;
-        },
-        error: function (xhr, status, error) {
-            console.log('Error: ' + error.message);
-        } 
-        });
+      return data;
+    } catch (error) {
+      console.log('Error: ' + error.message);
+    }
   }
 
-  $(document).ready(function () {
-      // www.vandipety.it/travel-book-jp-ps?acquire=yes&title=polar-japan
-      var url_string = document.URL;
-      var url = new URL(url_string);
-      var c = url.searchParams.get("acquire");
-      var p = url.searchParams.get("title");
+  document.addEventListener('DOMContentLoaded', function() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const c = urlParams.get("acquire");
+    const p = urlParams.get("title");
 
-      if(c == "yes") 
-          getParam(p);
-      else
-          window.location.replace("/404");
-
+    if (c === "yes") {
+      getParam(p);
+    } else {
+      window.location.replace("/404");
+    }
   });
 </script>
 <!--=================== about section end ===================-->
