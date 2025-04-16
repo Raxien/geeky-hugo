@@ -271,7 +271,7 @@
             <!-- recent post -->
             {{ $paginator:= .Paginate (where (where site.RegularPages "Section" "in" site.Params.mainSections) "Params.draft" "!=" true) }}
             {{ range $paginator.Pages }}
-            <div class="col-sm-6 mb-4">
+            <div class="col-md-6 mb-4">
               {{ .Render "post" }}
             </div>
             {{ end }}
