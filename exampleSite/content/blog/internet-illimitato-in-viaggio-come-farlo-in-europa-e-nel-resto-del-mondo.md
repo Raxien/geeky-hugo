@@ -3,7 +3,7 @@ title: "Internet illimitato in viaggio in Europa e nel mondo"
 description: 'Navigare in Internet all''estero senza limiti: scopri con noi come avere internet illimitato in Europa e nel resto del mondo.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689177365/Articoli/Blog/internet-ovunque-illimitato_fkf4ms.png
 date: 2023-12-12T00:00:00+01:00
-categories: [ "Blog"]
+categories: [ "Viaggiare"]
 type: featured
 sponsored: true
 draft: false
@@ -36,7 +36,7 @@ Inoltre le chiamate e gli sms da e verso numeri italiani saranno in questo caso 
 
 I paesi in cui potrai usufruire dei giga a disposizione sono: Austria, Belgio, Bulgaria, Cipro, Croazia, Danimarca, Estonia, Finlandia, Francia (inclusi Guadalupa, Guyana francese, La Reunion, Mayotte, Martinica), Germania, Gibilterra, Grecia, Irlanda, Islanda, Lettonia, Liechtenstein, Lituania, Lussemburgo, Malta, Norvegia, Olanda, Polonia, Portogallo, Repubblica Ceca, Romania, Slovacchia, Slovenia, Spagna, Svezia, Ungheria. 
 
-Restano esclusi dall’elenco: **Svizzera, Principato di Monaco e il Regno Unito.**
+Restano esclusi dall'elenco: **Svizzera, Principato di Monaco e il Regno Unito.**
 
 Se vuoi sapere quanti giga hai a disposizione puoi farlo accedendo all'area personale dedicata sul sito del tuo operatore oppure puoi calcolarlo facilmente qua sotto 👇
 
@@ -48,31 +48,29 @@ Tariffa mensile: <input id="tariffa" type="number" /> € = GB in Roaming: <span
 <p id="formula"></p>
 </div>
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-
 <script>
-
-  $(document).ready(function() {
+  document.addEventListener('DOMContentLoaded', function() {
     let price = 1.80;
-    if (Date.parse(Date()) > Date.parse("2024-01-01"))
+    const currentDate = new Date();
+    
+    if (currentDate > new Date("2024-01-01"))
       price = 1.55;
-    else if (Date.parse(Date()) > Date.parse("2025-01-01"))
+    else if (currentDate > new Date("2025-01-01"))
       price = 1.30;
-    else if (Date.parse(Date()) > Date.parse("2026-01-01"))
+    else if (currentDate > new Date("2026-01-01"))
       price = 1.10;
-    else if (Date.parse(Date()) > Date.parse("2027-01-01"))
+    else if (currentDate > new Date("2027-01-01"))
       price = 1.00;
 
     document.getElementById('formula').innerText = 'Formula: 2 x costo periodico (senza iva) / ' + price + ' €';  
     document.getElementById('result').innerText = '0';  
 
-    $("input").keyup(function(){
-     let result = 2 * $("#tariffa").val() / price;
-     document.getElementById('result').innerText = Math.round((result + Number.EPSILON) * 100) / 100 + ' €';
+    const input = document.getElementById('tariffa');
+    input.addEventListener('input', function() {
+      const result = 2 * this.value / price;
+      document.getElementById('result').innerText = Math.round((result + Number.EPSILON) * 100) / 100 + ' €';
     });
-
   });
-
 </script>
 
 {{< underline "Attenzione">}}: il tuo soggiorno non dovrebbe, di norma superare, **i 3 mesi di permanenza**, altrimenti potresti **rischiare che tuo operatore recida il contratto.**
@@ -83,7 +81,7 @@ Spesso gli operatori italiani offrono dei pacchetti ad hoc per i paesi che si vo
 Per esempio, guardando sui vari siti degli operatori nostrani è possibile trovare le seguenti offerte:
 - TIM che offre **2 Giga a 30 € o 4 Giga per 25 €** per gli USA, entrambe le offerte per 10 giorni.
 - Vodafone è un po' più economico per gli USA in quanto da **10 Giga per 24,99 €** mentre per gli altri paesi offre un pass giornaliero di **6 € che da tra i 100 e 500MB al giorno in base al paese**
-- Wind forse è il migliore per gli USA dato che da **10 Giga per una settimana per 10 €** mentre per l'estero da **1 o 2 GB per una settimana a 14,99 € o 5 GB per un mese a 29,99 €**
+- Wind forse è il migliore per gli USA dato che da **10 Giga per una settimana per 10 €** mentre per l'estero da **1 o 2 GB per una settimana a 14,99 € o 5 GB per un mese a 29,99 €**
 
 Come dicevamo non sono soluzioni economiche e infatti **consigliamo di valutare la prima soluzione che consigliamo** per i viaggi lunghi qui di seguito. 
 
