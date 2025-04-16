@@ -296,8 +296,9 @@
     if (!nextUrl) return;
     
     button.disabled = true;
-    button.innerHTML = '<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Caricamento...';
-    
+    button.innerHTML = '<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>';
+    button.style.backgroundColor = '#15817f';
+
     try {
       const response = await fetch(nextUrl);
       const html = await response.text();
@@ -328,6 +329,7 @@
     } finally {
       button.disabled = false;
       button.innerHTML = 'Mostra altro';
+      button.style.backgroundColor = '#15817f';
     }
   });
 </script>

@@ -37,6 +37,7 @@
     position: relative !important;
     overflow: hidden !important;
     padding-bottom: 0 !important;
+    border-radius: 12px;
 
     img {
       position: absolute !important;
@@ -46,9 +47,11 @@
       height: 100% !important;
       object-fit: cover !important;
       transition: transform 0.3s ease !important;
+      border-radius: 12px;
 
       &:hover {
-        transform: scale(1.05) !important;
+        transform: scale(1.1);
+        border-radius: 12px;
       }
     }
   }
@@ -160,6 +163,28 @@
   height: 300px;
   position: relative;
   overflow: hidden;
+  border-radius: 12px;
+
+  .image-container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s ease;
+      border-radius: 12px;
+
+      &:hover {
+        transform: scale(1.1);
+        border-radius: 12px;
+      }
+    }
+  }
 }
 
 .featured-image {
@@ -242,6 +267,16 @@
     &-active {
       opacity: 1;
     }
+  }
+}
+
+.post-featured-image {
+  transition: transform 0.3s ease;
+  border-radius: 12px;
+
+  &:hover {
+    transform: scale(1.1);
+    border-radius: 12px;
   }
 }
   
