@@ -26,13 +26,13 @@
     {{ $imageMD:= $image.Resize "600x webp" }}
     {{ $imageSM:= $image.Resize "545x webp" }}
     {{ $imageXS:= $image.Resize "400x webp" }}
-    <a href="{{.RelPermalink}}" class="d-block" style="overflow: hidden;">
-      <picture>
+    <a href="{{.RelPermalink}}" class="d-block">
+      <picture class="rounded-4">
         <source srcset="{{ $imageXS.RelPermalink }}" media="(max-width: 400px)">
         <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
         <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
         <source srcset="{{ $imageLG.RelPermalink }}">
-        <img loading="eager" decoding="async" class="img-fluid w-100 rounded-4 post-featured-image" 
+        <img loading="eager" decoding="async" class="img-fluid w-100 post-featured-image" 
           src="{{$imageFallback.RelPermalink}}"
           alt="{{.Title}}" 
           width="{{$image.Width}}" 

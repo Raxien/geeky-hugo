@@ -271,13 +271,17 @@
 }
 
 .post-featured-image {
+  object-fit: cover;
   transition: transform 0.3s ease;
-  border-radius: 12px;
-
+  
   &:hover {
-    transform: scale(1.1);
-    border-radius: 12px;
+    transform: scale(1.05);
   }
+}
+
+picture.rounded-4 {
+  overflow: hidden;
+  display: block;
 }
 
 .d-block[style*="overflow: hidden"] {

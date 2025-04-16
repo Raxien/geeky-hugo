@@ -8,7 +8,6 @@ type: featured
 country: Corea del Sud 
 draft: false
 ---
-
 Abbiamo esplorato Seoul **in lungo e in largo**, immergendoci nella sua anima vibrante dove grattacieli futuristici convivono con templi antichi e villaggi tradizionali. La capitale della Corea del Sud **è un mosaico di storia, cultura e modernità**, pronto a sorprendere ogni viaggiatore. In questo articolo, vi guideremo attraverso le migliori attrazioni della città, dal Tempio d’Oro Suguksa alla frenesia di Gangnam, includendo il pratico Royal Palace Pass per ottimizzare le visite ai palazzi reali. Alla fine, troverete un itinerario di 4 giorni ben strutturato per vivere Seoul al meglio. **Pronti? Andiamo!**
 
 #### Le migliori cose da vedere a Seoul
