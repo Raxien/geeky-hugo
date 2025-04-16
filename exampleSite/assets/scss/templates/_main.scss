@@ -796,3 +796,14 @@ tr {
     border-radius: 12px;
   }
 }
+
+.d-block[style*="overflow: hidden"] {
+  border-radius: 12px;
+  overflow: hidden !important;
+  
+  picture {
+    border-radius: 12px;
+    overflow: hidden;
+    display: block;
+  }
+}
