@@ -121,19 +121,20 @@
 
 <!-- Custom CSS for responsive images -->
 <style>
+  /* Rimuovo gli stili che causano conflitto con il featured swiper */
   @media (min-width: 576px) {
-    .featured-image-container {
+    .featured-image-container:not(.featured-mobile-swiper .featured-image-container) {
       width: 105px !important;
       height: 85px !important;
     }
   }
   @media (max-width: 575.98px) {
-    .featured-image-container {
+    .featured-image-container:not(.featured-mobile-swiper .featured-image-container) {
       width: 100% !important;
       height: 200px !important;
     }
   }
-  .featured-image-container {
+  .featured-image-container:not(.featured-mobile-swiper .featured-image-container) {
     position: relative;
     overflow: hidden;
     flex-shrink: 0;
@@ -227,59 +228,26 @@
   }
 </style>
 
-<!-- Defer non-critical CSS -->
-<link rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"></noscript>
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
-<!-- Defer non-critical JS -->
 <script>
-  function loadSwiper() {
-    if (document.querySelector('.swiper-container') || document.querySelector('.mobile-swiper')) {
-      var script = document.createElement('script');
-      script.src = 'https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js';
-      script.async = true;
-      script.onload = function() {
-        // Inizializza lo slider delle guide
-        const guidesSlider = document.querySelector('.guides-slider');
-        if (guidesSlider) {
-          new Swiper(guidesSlider, {
-            loop: true,
-            autoplay: {
-              delay: 5000,
-              disableOnInteraction: false,
-            },
-            pagination: {
-              el: guidesSlider.querySelector('.guides-pagination'),
-              clickable: true,
-            },
-            navigation: {
-              nextEl: guidesSlider.querySelector('.swiper-button-next'),
-              prevEl: guidesSlider.querySelector('.swiper-button-prev'),
-            }
-          });
-        }
-
-        // Inizializza lo slider mobile
-        const mobileSwiper = document.querySelector('.mobile-swiper');
-        if (mobileSwiper) {
-          new Swiper(mobileSwiper, {
-            slidesPerView: 1,
-            spaceBetween: 10,
-            pagination: {
-              el: mobileSwiper.querySelector('.swiper-pagination'),
-              clickable: true,
-            },
-            autoplay: {
-              delay: 3000,
-              disableOnInteraction: false,
-            },
-          });
-        }
-      };
-      document.body.appendChild(script);
-    }
-  }
-  window.addEventListener('load', loadSwiper);
+  document.addEventListener('DOMContentLoaded', function() {
+    // Inizializzazione dello swiper mobile per i post featured
+    const featuredMobileSwiper = new Swiper('.featured-mobile-swiper', {
+      slidesPerView: 1,
+      spaceBetween: 20,
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      loop: true,
+      autoplay: {
+        delay: 4000,
+        disableOnInteraction: false,
+      }
+    });
+  });
 </script>
 
 {{ if .Params.image }}
