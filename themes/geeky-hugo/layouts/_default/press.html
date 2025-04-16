@@ -1,5 +1,4 @@
 {{ define "main" }}
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 
 <!--=================== about section start ===================-->
 <section class="section">
@@ -78,64 +77,55 @@
   </div>
 </section>
 <script>
+  const rpcUrl = "https://vandipetyapi.onrender.com";
+  const _url = "press";
 
-  //let rpcUrl = "http://localhost:3000";
-  //const rpcUrl = "https://vandipety-api.herokuapp.com";
-  const rpcUrl = "https://vandipetyapi.onrender.com"
-  
-  let _url = "press";
+  const liElement = (data) => {
+    const info = data.info ? data.info.replace('#', data.data) : '';
+    return `<li><strong><a href="${data.url}">${data.title}</a></strong>${info ? ` (${info})` : ''}</li>`;
+  };
 
-  let liElement = function(data) {
-    return '<li><strong><a href="' + data.url + '">' + data.title + '</a></strong> (' + data.info.replace('#', data.data) +  ')</li>';
-  }
+  const comp = (a, b) => {
+    return new Date(a.data).getTime() - new Date(b.data).getTime();
+  };
 
-  function comp(a, b) {
-  return new Date(a.data).getTime() - new Date(b.data).getTime();
-  }
-
-  let buildList = function () {
-
+  const buildList = async () => {
+    try {
       console.log('getting data');
-      $.ajax({
-        type: 'GET', // added,
-        url: rpcUrl + "/data/" + _url,
-        contentType: "application/json",
-        success: function (data) {
-          // debugger;
-          console.log(data);
-          res = data.json;
+      const response = await fetch(`${rpcUrl}/data/${_url}`);
+      const data = await response.json();
+      const res = data.json;
+      
+      res.sort(comp);
+
+      const pressElement = document.getElementById('press');
+      let i = 0;
+      
+      while(i < res.length) {
+        const element = res[i];
+        const year = element.data.split('/')[2];
+        
+        if (!document.getElementById(year)) {
+          const yearHeading = document.createElement('h5');
+          yearHeading.textContent = year;
+          pressElement.appendChild(yearHeading);
           
-          res.sort(comp);
-          // console.log(ret);
+          const yearList = document.createElement('ul');
+          yearList.id = year;
+          pressElement.appendChild(yearList);
+        }
 
-          let id = "#press";
-          let i = 0;
-          while(i < res.length ){
-            let element = res[i];
-            // console.log(element);
+        const yearList = document.getElementById(year);
+        yearList.insertAdjacentHTML('beforeend', liElement(element));
+        
+        i++;
+      }
+    } catch (error) {
+      console.error('Error:', error.message);
+    }
+  };
 
-            let year = element.data.split('/')[2];
-            if($('#' + year).val() === undefined ){
-              $(id).append('<h5>' + year + '</h5>');
-              $(id).append('<ul id="' + year + '"></ul>')
-            }
-
-            $('#' + year).append(liElement(element));
-            
-            i++;
-          }
-
-          return data;
-        },
-        error: function (xhr, status, error) {
-            console.log('Error: ' + error.message);
-        } 
-        });
-  }
-
-  $(document).ready(function () {
-    buildList();
-  });
+  document.addEventListener('DOMContentLoaded', buildList);
 </script>
 <!--=================== about section end ===================-->
 {{ end }}
