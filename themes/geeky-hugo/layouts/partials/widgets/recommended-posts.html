@@ -1,0 +1,79 @@
+{{ $currentPage := . }}
+{{ $related := slice }}
+
+<!-- Prima cerchiamo i post correlati per paese -->
+{{ if .Params.country }}
+  {{ $relatedByCountry := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.country" "eq" .Params.country) }}
+  {{ $related = $related | append $relatedByCountry }}
+{{ end }}
+
+<!-- Poi cerchiamo i post correlati per tag -->
+{{ $relatedByTags := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.tags" "intersect" .Params.tags) }}
+
+<!-- Poi cerchiamo i post correlati per categorie -->
+{{ $relatedByCategories := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.categories" "intersect" .Params.categories) }}
+
+<!-- Uniamo i risultati -->
+{{ $related = $related | append $relatedByTags | append $relatedByCategories | uniq }}
+
+<!-- Prendiamo i post featured che non sono già tra i correlati -->
+{{ $recommended := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.type" "eq" "featured") | complement $related | shuffle | first 8 }}
+
+{{ if gt (len $recommended) 0 }}
+<div class="widget">
+  <div class="widget-title">
+    <h3 class="h5 title-border">Articoli consigliati</h3>
+  </div>
+  <div class="recommended-posts">
+    {{ range $recommended }}
+    <a href="{{ .RelPermalink }}" class="recommended-post-item">
+      <div class="recommended-post-image">
+        {{ $imagePath := .Params.image }}
+        {{ if $imagePath }}
+          {{ if hasPrefix $imagePath "http" }}
+            <img loading="lazy" decoding="async" 
+              src="{{ $imagePath | safeURL }}" 
+              alt="{{ .Title }}"
+              class="img-fluid">
+          {{ else }}
+            {{ if fileExists (add `assets/` $imagePath) }}
+              {{ $image := resources.Get $imagePath }}
+              {{ $imageWebp := $image.Fill "60x60 Center webp" }}
+              <img loading="lazy" decoding="async" 
+                src="{{ $imageWebp.RelPermalink }}" 
+                alt="{{ .Title }}"
+                class="img-fluid">
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </div>
+      <div class="recommended-post-content text-start">
+        <h4 class="h6">{{ .Title | markdownify }}</h4>
+        <div class="recommended-post-meta">
+          <i class="fas fa-calendar me-1"></i>
+          {{ $date := time.Format ":date_long" .PublishDate }}
+          {{ $sDate := split (string $date) " " }}
+          {{ $aMonth := index $sDate 0 }}
+          {{ $aDay := index $sDate 1 }}
+          {{ $aYear := index $sDate 2 }}
+          {{ replace $aDay "," " " }} 
+          {{ if eq $aMonth "January" }}{{ "Gen" }}
+          {{ else if eq $aMonth "February" }}{{ "Feb" }}
+          {{ else if eq $aMonth "March" }}{{ "Mar" }}
+          {{ else if eq $aMonth "April" }}{{ "Apr" }}
+          {{ else if eq $aMonth "May" }}{{ "Mag" }}
+          {{ else if eq $aMonth "June" }}{{ "Giu" }}
+          {{ else if eq $aMonth "July" }}{{ "Lug" }}
+          {{ else if eq $aMonth "August" }}{{ "Ago" }}
+          {{ else if eq $aMonth "September" }}{{ "Set" }}
+          {{ else if eq $aMonth "October" }}{{ "Ott" }}
+          {{ else if eq $aMonth "November" }}{{ "Nov" }}
+          {{ else if eq $aMonth "December" }}{{ "Dic" }}
+          {{ end }} {{ $aYear }}
+        </div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }} 

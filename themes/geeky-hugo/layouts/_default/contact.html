@@ -1,6 +1,5 @@
 {{ define "main" }}
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
 <!--=================== contact section start ===================-->
@@ -19,7 +18,7 @@
           <h3 class="h4 mb-5 text-capitalize">Mandaci un
             <span class="text-primary"> messaggio <i class="fas fa-arrow-right ms-2"></i></span>
           </h3>
-          <form action="{{site.Params.contact_form_action | safeURL}}" method="POST">
+          <form id="contactForm" action="{{site.Params.contact_form_action | safeURL}}" method="POST">
             <!-- <div class="form-group">
               <label for="name" class="form-label">Nome <small>*</small></label>
               <input type="text" class="form-control" name="name" id="name" placeholder="Sakè Olimpia" required>
@@ -112,60 +111,56 @@
 
 <!--=================== expanses script start ===================-->
 <script>
-
-  //let rpcUrl = "http://localhost:3000";
-  //const rpcUrl = "https://vandipety-api.herokuapp.com";
   const rpcUrl = "https://vandipetyapi.onrender.com"
 
-  var sendMail = function () {
+  function sendMail(event) {
+    event.preventDefault();
     console.log('getting data');
     
-    let data = {
-        "from": $("#email").val(),
-        "isSponsor": 0,
-        "subject":$("#subject").val(),
-        "text": $("#message").val()
+    const data = {
+      "from": document.getElementById("email").value,
+      "isSponsor": 0,
+      "subject": document.getElementById("subject").value,
+      "text": document.getElementById("message").value
     }
-
-    // debugger;
     
     console.log(data);
-    $.ajax({
-      type: 'GET', // added,
-      url: rpcUrl + "/mail/sendMail",
-      contentType: "application/json; charset=utf-8",
-      data: data, //JSON.stringify(data),
-      success: function (data) {
-        console.log(data);
-        res = data.json;
-        manageResult('Abbiamo ricevuto la tua email.');
-        return data;
-      },
-      error: function (xhr, status, error) {
-        manageResult('Non siamo riusciti a ricevere la tua email :( riprova più tardi.');
+    fetch(rpcUrl + "/mail/sendMail?" + new URLSearchParams(data), {
+      method: 'GET',
+      headers: {
+        'Content-Type': 'application/json; charset=utf-8'
       }
-      });
-    }
-  
-    var manageResult = function(message){
-      
-      $("#email").val('');
-      $("#isSponsor").removeAttr('checked');
-      $("#subject").val('');
-      $("#message").val('');
-
-      $("#result").html(message);
-
-      var myModal = new bootstrap.Modal(document.getElementById('emailRecived'));
-      myModal.show();
-    }
-
-    $( document ).ready(function() {
-      $("#close").on('click', function(){
-        var myModal = bootstrap.Modal.getInstance(document.getElementById('emailRecived'));
-        myModal.hide();
-      });
+    })
+    .then(response => response.json())
+    .then(data => {
+      console.log(data);
+      manageResult('Abbiamo ricevuto la tua email.');
+    })
+    .catch(error => {
+      console.error('Error:', error);
+      manageResult('Non siamo riusciti a ricevere la tua email :( riprova più tardi.');
     });
-    </script>
+  }
+  
+  function manageResult(message) {
+    document.getElementById("email").value = '';
+    document.getElementById("subject").value = '';
+    document.getElementById("message").value = '';
+
+    document.getElementById("result").innerHTML = message;
+
+    const myModal = new bootstrap.Modal(document.getElementById('emailRecived'));
+    myModal.show();
+  }
+
+  document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById("contactForm").addEventListener('submit', sendMail);
+    
+    document.getElementById("close").addEventListener('click', function() {
+      const myModal = bootstrap.Modal.getInstance(document.getElementById('emailRecived'));
+      myModal.hide();
+    });
+  });
+</script>
 <!--=================== expanses script end ===================-->
 {{ end }}

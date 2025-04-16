@@ -79,47 +79,87 @@
       {{end}}
       <li class="list-inline-item d-flex align-items-center">
         <i class="fas fa-calendar me-2"></i>
-                      <!-- data di pubblicazione formattata Mese, gg aaaa -->
-                      {{ $date := time.Format ":date_long" .PublishDate }}
-                      {{ $sDate := split (string $date) " " }}
+        <!-- data di pubblicazione formattata Mese, gg aaaa -->
+        {{ $date := time.Format ":date_long" .PublishDate }}
+        {{ $sDate := split (string $date) " " }}
 
-                      <span>
-                        {{ $aMonth := index $sDate 0}}
-                        {{ $aDay := index $sDate 1}}
-                        {{ $aYear := index $sDate 2}}
+        <span>
+        {{ $aMonth := index $sDate 0}}
+        {{ $aDay := index $sDate 1}}
+        {{ $aYear := index $sDate 2}}
 
-                        {{ $day := (string $aDay)}}
-                        {{ $month := (string $aMonth)}}
-                        {{ $year := (string $aYear)}}
+        {{ $day := (string $aDay)}}
+        {{ $month := (string $aMonth)}}
+        {{ $year := (string $aYear)}}
 
-                        {{ replace $day "," " " }}
-                        {{ if eq $month "January" }}
-                        {{ "Gennaio" }}
-                        {{ else if eq $month "February" }}
-                        {{ "Febbraio" }}
-                        {{ else if eq $month "March" }}
-                        {{ "Marzo" }}
-                        {{ else if eq $month "April" }}
-                        {{ "Aprile" }}
-                        {{ else if eq $month "May" }}
-                        {{ "Maggio" }}
-                        {{ else if eq $month "June" }}
-                        {{ "Giugno" }}
-                        {{ else if eq $month "July" }}
-                        {{ "Luglio" }}
-                        {{ else if eq $month "August" }}
-                        {{ "Agosto" }}
-                        {{ else if eq $month "September" }}
-                        {{ "Settembre" }}
-                        {{ else if eq $month "October" }}
-                        {{ "Ottobre" }}
-                        {{ else if eq $month "November" }}
-                        {{ "Novembre" }}
-                        {{ else if eq $month "December" }}
-                        {{ "Dicembre" }}
-                        {{ end }}
-                        {{ $year }}
-                      </span>
+        <span class="d-inline-block d-md-none">
+          {{ replace $day "," " " }}
+          {{ if eq $month "January" }}
+          {{ "Gen" }}
+          {{ else if eq $month "February" }}
+          {{ "Feb" }}
+          {{ else if eq $month "March" }}
+          {{ "Mar" }}
+          {{ else if eq $month "April" }}
+          {{ "Apr" }}
+          {{ else if eq $month "May" }}
+          {{ "Mag" }}
+          {{ else if eq $month "June" }}
+          {{ "Giu" }}
+          {{ else if eq $month "July" }}
+          {{ "Lug" }}
+          {{ else if eq $month "August" }}
+          {{ "Ago" }}
+          {{ else if eq $month "September" }}
+          {{ "Set" }}
+          {{ else if eq $month "October" }}
+          {{ "Ott" }}
+          {{ else if eq $month "November" }}
+          {{ "Nov" }}
+          {{ else if eq $month "December" }}
+          {{ "Dic" }}
+          {{ end }}
+          {{ $year }}
+        </span>
+        <span class="d-none d-md-inline-block">
+          {{ replace $day "," " " }}
+          {{ if eq $month "January" }}
+          {{ "Gennaio" }}
+          {{ else if eq $month "February" }}
+          {{ "Febbraio" }}
+          {{ else if eq $month "March" }}
+          {{ "Marzo" }}
+          {{ else if eq $month "April" }}
+          {{ "Aprile" }}
+          {{ else if eq $month "May" }}
+          {{ "Maggio" }}
+          {{ else if eq $month "June" }}
+          {{ "Giugno" }}
+          {{ else if eq $month "July" }}
+          {{ "Luglio" }}
+          {{ else if eq $month "August" }}
+          {{ "Agosto" }}
+          {{ else if eq $month "September" }}
+          {{ "Settembre" }}
+          {{ else if eq $month "October" }}
+          {{ "Ottobre" }}
+          {{ else if eq $month "November" }}
+          {{ "Novembre" }}
+          {{ else if eq $month "December" }}
+          {{ "Dicembre" }}
+          {{ end }}
+          {{ $year }}
+        </span>
+        </span>
+      </li>
+      <li class="list-inline-item d-flex align-items-center">
+        <i class="fas fa-glasses me-2"></i>
+        {{ $readTime := mul (div (countwords .Content) 300.0) 60 }}
+        {{ $minutes := math.Floor (div $readTime 60) }}
+        {{ $seconds := mod $readTime 60 }}
+        <span class="d-inline-block d-md-none">{{ $minutes }}m {{ $seconds }}s</span>
+        <span class="d-none d-md-inline-block">{{ $minutes }} {{ cond (eq $minutes 1) "minuto" "minuti" }} e
+              {{ $seconds }} {{ cond (eq $seconds 1) "secondo" "secondi" }}</span>
       </li>
       {{ if .Params.sponsored}}
       <li class="list-inline-item d-flex align-items-center">
@@ -129,3 +169,44 @@
     </ul>
   </div>
 </div>
+
+<style>
+@media (max-width: 767px) {
+  .card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .card .mb-4 {
+    margin-bottom: 0 !important;
+    flex: 0 0 100px;
+  }
+  
+  .card .image-container {
+    height: 100px !important;
+    width: 100px !important;
+    border-radius: 0.5rem !important;
+  }
+  
+  .card .card-body {
+    flex: 1;
+    padding: 0.5rem !important;
+  }
+  
+  .card .card-badge {
+    display: none;
+  }
+  
+  .card .title-linked {
+    font-size: 0.9rem;
+    line-height: 1.3;
+  }
+  
+  .card .card-meta {
+    font-size: 0.75rem;
+    margin-bottom: 0.5rem !important;
+  }
+}
+</style>

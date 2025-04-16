@@ -4,7 +4,7 @@
 {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
 
 <!--=================== section start ===================-->
-<section class="section-sm">
+<section class="section-sm section-sm-mobile">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mb-5 mb-lg-0">
@@ -67,7 +67,7 @@
         <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary mb-4 d-inline-block">{{. | title}}</a>
         {{ end }}
         {{ end }}
-        <h1 class="h3 mb-4">{{.Title | markdownify}}</h1>
+        <h1 class="h3 mb-4 h4-mobile">{{.Title | markdownify}}</h1>
         <ul class="list-inline card-meta d-flex align-items-center mb-4 small">
           <li class="list-inline-item d-flex align-items-center" style="display: none !important; ">
             <i class="fas fa-user me-2"></i>
@@ -178,67 +178,35 @@
         </ul>
         <div class="content drop-cap">{{.Content}}</div>
 
-        <!-- disqus comments -->   
+        <!-- articoli correlati mobile -->
+        <div class="d-lg-none">
+          {{ partial "widgets/related-posts.html" . }}
+
+          <!-- disqus comments -->   
+          {{ with .Site.Params.disqusShortname }}
+          <div class="border rounded p-4">
+            {{ template "_internal/disqus.html" $ }}
+          </div>
+          {{ end }}
+
+          <div style="margin-top: 30px;">
+            {{ partial "widgets/recommended-posts.html" . }}
+          </div>
+        </div>
+
+        <!-- disqus comments desktop -->   
         {{ with .Site.Params.disqusShortname }}
-        <div class="border rounded p-4">
+        <div class="border rounded p-4 d-none d-lg-block">
           {{ template "_internal/disqus.html" $ }}
         </div>
         {{ end }}
-
-        
       </div>
       <!-- sidebar widgets -->
-      <aside class="col-lg-4">
-        {{ $widget:= site.Params.widgets.sidebar }}
-        {{ partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . )}}
-      </aside>
-    </div>
-  </div>
-</section>
-<!--=================== section end ===================-->
-
-<!--=================== section start ===================-->
-<section class="section-sm pt-0">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="section-title">
-          <h2 class="h4 title-border">Articoli consigliati</h2>
+      <div class="col-lg-4">
+        <div class="sticky-top d-none d-lg-block" style="top: 2rem;">
+          {{ partial "widgets/related-posts.html" . }}
         </div>
       </div>
-    </div>
-
-    <!-- releted post -->
-    <div class="row">
-      {{ $currentPage := . }}
-      {{ $related := slice }}
-      
-      <!-- Prima cerchiamo i post correlati per paese -->
-      {{ if .Params.country }}
-        {{ $relatedByCountry := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.country" "eq" .Params.country) }}
-        {{ $related = $related | append $relatedByCountry }}
-      {{ end }}
-      
-      <!-- Poi cerchiamo i post correlati per tag -->
-      {{ $relatedByTags := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.tags" "intersect" .Params.tags) }}
-      
-      <!-- Poi cerchiamo i post correlati per categorie -->
-      {{ $relatedByCategories := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.categories" "intersect" .Params.categories) }}
-      
-      <!-- Uniamo i risultati, dando priorità ai post con più elementi in comune -->
-      {{ $related = $related | append $relatedByTags | append $relatedByCategories | uniq }}
-      
-      <!-- Se non abbiamo abbastanza post correlati, aggiungiamo post recenti -->
-      {{ if lt (len $related) 3 }}
-        {{ $recent := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | first (sub 3 (len $related)) }}
-        {{ $related = $related | append $recent | uniq }}
-      {{ end }}
-      
-      {{ range first 3 $related }}
-      <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
-      {{ .Render "post" }}
-      </div>
-      {{ end }}
     </div>
   </div>
 </section>

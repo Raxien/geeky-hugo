@@ -1,3 +1,9 @@
+{{ $isPost := eq $.Scope.Section "post" }}
+{{ $excludedWidgets := slice "newsletter" "youtube" "guides" "categories" "recommended-posts" }}
+
 {{ range .Widgets }}
-{{ partial ( print "widgets/" . ) $.Scope }}
+  {{ $widgetName := replace . ".html" "" }}
+  {{ if or (not $isPost) (and $isPost (eq $widgetName "related-posts")) }}
+    {{ partial ( print "widgets/" . ) $.Scope }}
+  {{ end }}
 {{ end }}

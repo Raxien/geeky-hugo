@@ -185,6 +185,134 @@
   }
 }
 
+.recommended-posts {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  .recommended-post-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s ease;
+
+    &:hover {
+      transform: translateX(5px);
+    }
+  }
+
+  .recommended-post-image {
+    flex: 0 0 60px;
+    height: 60px;
+    border-radius: 0.5rem;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+
+  .recommended-post-content {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .recommended-post-content h4 {
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.3;
+    margin-bottom: 0.25rem;
+  }
+
+  .recommended-post-meta {
+    font-size: 0.75rem;
+    color: #6c757d;
+  }
+
+  @media (max-width: 767px) {
+    .recommended-post-image {
+      flex: 0 0 50px;
+      height: 50px;
+    }
+    
+    .recommended-post-content h4 {
+      font-size: 0.85rem;
+    }
+    
+    .recommended-post-meta {
+      font-size: 0.7rem;
+    }
+  }
+}
+
+.related-posts {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  .related-post-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s ease;
+
+    &:hover {
+      transform: translateX(5px);
+    }
+  }
+
+  .related-post-image {
+    flex: 0 0 60px;
+    height: 60px;
+    border-radius: 0.5rem;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+
+  .related-post-content {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .related-post-content h4 {
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.3;
+    margin-bottom: 0.25rem;
+  }
+
+  .related-post-meta {
+    font-size: 0.75rem;
+    color: #6c757d;
+  }
+
+  @media (max-width: 767px) {
+    .related-post-image {
+      flex: 0 0 50px;
+      height: 50px;
+    }
+    
+    .related-post-content h4 {
+      font-size: 0.85rem;
+    }
+    
+    .related-post-meta {
+      font-size: 0.7rem;
+    }
+  }
+}
+
 .featured-widget-img {
   width: 75px;
   height: 75px;
@@ -483,3 +611,15 @@ tr {
     -webkit-appearance: none;
   }
 }
+.w-95 {
+  height: 100% !important;
+}
+/* Stile per il titolo mobile */
+@media (max-width: 767px) {
+  .h4-mobile {
+    font-size: 2.25rem !important;
+  }
+  .section-sm-mobile{
+    padding-top: 40px !important;
+  }
+} 

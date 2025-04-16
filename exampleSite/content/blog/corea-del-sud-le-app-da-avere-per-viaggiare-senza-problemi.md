@@ -3,7 +3,7 @@ title: 'Corea del Sud: le app da avere per viaggiare senza problemi'
 description: 'Scopri le app essenziali per esplorare la Corea del Sud senza intoppi: da mappe e traduzioni a messaggistica e pagamenti, ecco tutto ciò che ti serve per un viaggio fluido e indimenticabile.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp/v1684676730/Articoli/Corea/app-corea-del-sud_immqia.jpg
 date: 2025-04-10T7:00:00+01:00
-categories: [ "Guida"]
+categories: ["Viaggi in Corea"]
 type: regular  
 country: Corea del Sud 
 draft: false
