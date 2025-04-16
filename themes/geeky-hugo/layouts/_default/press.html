@@ -5,38 +5,16 @@
   <div class="container">
     <div class="row mb-5">
       <div class="col-12">
-        <!-- image path -->
-        {{ $imagePath:= .Params.image }}
-
-        <!-- image CDN -->
-        {{ if hasPrefix $imagePath "http" }}
-        <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Title }}"
-          class="img-fluid mb-5 w-100 rounded-4">
-        {{ else }}
-        <!-- /image cdn -->
-
-        <!-- image processing for multiple device -->
-        {{ if fileExists (add `assets/` $imagePath) }}
-        {{ $image:= resources.Get $imagePath }}
-        {{ $imageFallback:= $image.Resize "1400x" }}
-        {{ $imageXL:= $image.Resize "1400x webp" }}
-        {{ $imageLG:= $image.Resize "1000x webp" }}
-        {{ $imageMD:= $image.Resize "800x webp" }}
-        {{ $imageSM:= $image.Resize "600x webp" }}
-        <picture>
-          <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
-          <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
-          <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 992px)">
-          <source srcset="{{ $imageXL.RelPermalink }}">
-          <img loading="lazy" decoding="async" class="img-fluid mb-5 w-100 rounded-4" src="{{$imageFallback.RelPermalink}}"
-            alt="{{.Title}}" width="{{$image.Width}}" height="{{$image.Height}}">
-        </picture>
-        {{ end }}
-        <!-- /image processing for multiple device -->
-        {{ end }}
         <h2 class="mb-3">{{ .Title | markdownify }}</h2>
         <div id="content" class="content">
           {{.Content}}
+        </div>
+        <div id="press">
+          <div id="loader" class="text-center my-5">
+            <div class="spinner-border text-primary" role="status">
+              <span class="visually-hidden">Caricamento...</span>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -92,13 +70,15 @@
   const buildList = async () => {
     try {
       console.log('getting data');
+      const loader = document.getElementById('loader');
+      const pressElement = document.getElementById('press');
+      
       const response = await fetch(`${rpcUrl}/data/${_url}`);
       const data = await response.json();
       const res = data.json;
       
       res.sort(comp);
 
-      const pressElement = document.getElementById('press');
       let i = 0;
       
       while(i < res.length) {
@@ -120,8 +100,13 @@
         
         i++;
       }
+
+      // Nascondi il loader una volta che i dati sono stati caricati
+      loader.style.display = 'none';
     } catch (error) {
       console.error('Error:', error.message);
+      // In caso di errore, nascondi comunque il loader
+      document.getElementById('loader').style.display = 'none';
     }
   };
 
