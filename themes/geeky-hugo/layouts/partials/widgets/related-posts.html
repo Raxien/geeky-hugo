@@ -13,6 +13,20 @@
 <!-- Poi cerchiamo i post correlati per categorie -->
 {{ $relatedByCategories := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.categories" "intersect" .Params.categories) }}
 
+<!-- Estraiamo i link interni dal contenuto -->
+{{ if .Content }}
+  {{ $contentLinks := findRE `href="([^"]+)"` .Content }}
+  {{ range $contentLinks }}
+    {{ $link := replaceRE `href="([^"]+)"` "$1" . }}
+    {{ if hasPrefix $link "/" }}
+      {{ $linkedPage := site.GetPage $link }}
+      {{ if and $linkedPage (eq $linkedPage.Kind "page") (in site.Params.mainSections $linkedPage.Section) (ne $linkedPage.Title $currentPage.Title) }}
+        {{ $related = $related | append (slice $linkedPage) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
 <!-- Uniamo i risultati, dando priorità ai post con più elementi in comune -->
 {{ $related = $related | append $relatedByTags | append $relatedByCategories | uniq }}
 

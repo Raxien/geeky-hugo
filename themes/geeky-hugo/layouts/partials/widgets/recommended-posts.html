@@ -17,7 +17,7 @@
 {{ $related = $related | append $relatedByTags | append $relatedByCategories | uniq }}
 
 <!-- Prendiamo i post featured che non sono già tra i correlati -->
-{{ $recommended := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.type" "eq" "featured") | complement $related | shuffle | first 8 }}
+{{ $recommended := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.type" "eq" "featured") | complement $related | shuffle | first 9 }}
 
 {{ if gt (len $recommended) 0 }}
 <div class="widget">

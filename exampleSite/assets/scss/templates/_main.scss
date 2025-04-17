@@ -725,7 +725,7 @@ tr {
     font-size: 1.2rem;
 
     &:hover {
-      color: var(--bs-primary);
+      color: #15817f !important;
     }
   }
 
@@ -742,6 +742,8 @@ tr {
       height: 8px;
       background: var(--bs-primary);
       opacity: 0.5;
+      margin-top: -20px;
+      margin-bottom: -20px;
       
       &-active {
         opacity: 1;
