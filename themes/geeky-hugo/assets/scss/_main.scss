@@ -337,4 +337,120 @@ picture.rounded-4 {
   text-decoration: none !important;
   vertical-align: baseline !important;
 }
-  
+
+.article__body__leggi-anche {
+  margin: 1.5rem 0;
+  background-color: #15817f;
+  border-radius: 12px;
+  overflow: hidden;
+  height: 110px;
+  position: relative;
+  transition: transform 0.3s ease;
+
+  &:hover {
+    transform: scale(1.02);
+  }
+
+  a {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    color: white;
+    text-decoration: none;
+    height: 100%;
+    position: relative;
+    z-index: 1;
+
+    &:hover {
+      color: white;
+    }
+  }
+
+  .leggi-anche-content {
+    flex: 1;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 0;
+    position: relative;
+    margin-right: 30px;
+    clip-path: polygon(0 0, calc(100% - 30px) 0, 100% 100%, 0 100%);
+    background-color: #15817f;
+  }
+
+  .leggi-anche-label {
+    display: block;
+    font-size: .65rem;
+    font-weight: normal;
+    letter-spacing: .1rem;
+    margin-bottom: .25rem;
+    opacity: .7;
+    text-transform: uppercase;
+  }
+
+  .leggi-anche-title {
+    font-size: 1.1rem;
+    line-height: 1.3;
+    font-weight: bold;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+
+  img {
+    width: 220px;
+    height: 110px;
+    object-fit: cover;
+    border-radius: 0 12px 12px 0;
+  }
+
+  @media (max-width: 767px) {
+    height: 100px;
+
+    .leggi-anche-content {
+      padding: 0.75rem;
+      margin-right: 25px;
+      clip-path: polygon(0 0, calc(100% - 25px) 0, 100% 100%, 0 100%);
+    }
+
+    .leggi-anche-label {
+      font-size: 0.6rem;
+      margin-bottom: 0.2rem;
+    }
+
+    .leggi-anche-title {
+      font-size: 0.9rem;
+      line-height: 1.2;
+      -webkit-line-clamp: 2;
+    }
+
+    img {
+      width: 160px;
+      height: 100px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    height: 90px;
+
+    .leggi-anche-content {
+      padding: 0.5rem;
+      margin-right: 20px;
+      clip-path: polygon(0 0, calc(100% - 20px) 0, 100% 100%, 0 100%);
+    }
+
+    .leggi-anche-title {
+      font-size: 0.8rem;
+      line-height: 1.2;
+    }
+
+    img {
+      width: 120px;
+      height: 90px;
+    }
+  }
+}
+    

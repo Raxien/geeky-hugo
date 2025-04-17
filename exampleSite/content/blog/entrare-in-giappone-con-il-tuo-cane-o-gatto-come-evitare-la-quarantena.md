@@ -39,6 +39,8 @@ Il test si esegue tramite un prelievo del sangue da parte del veterinario, che s
 
 `Nota Il test deve essere effettuato almeno 180 giorni prima dell’ingresso per evitare la quarantena ed è valido per 24 mesi, purché le vaccinazioni successive siano aggiornate.`
 
+{{< leggi-anche >}}
+
 ###### 2. Pre-Notifica all'Animal Quarantine Service
 
 Una volta completati tutti i documenti richiesti **e 40 giorni prima dell’arrivo è essenziale notificare l'ingresso del tuo animale domestic**o, inviando una email agli indirizzi specifici dell’aeroporto o del porto giapponese in cui intendi arrivare (trovi tutte le informazioni {{<extLink "a questo link" "https://www.maff.go.jp/aqs/english/attach/pdf/aqs_contact_list_en.pdf">}}).

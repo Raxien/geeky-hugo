@@ -38,7 +38,7 @@ Alcune compagnie, come la Camellia Line (da Busan a Fukuoka), offrono un servizi
 
 Dai racconti di altri viaggiatori l'importazione del mezzo tramite CPD può durare dalle 2 alle 8 ore. Controlla con attenzione che tutti i dati (es. numero del telaio) vengano inseriti correttamente per evitare di dover ritornare presso gli uffici. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1739789925/Articoli/camper/camper-giappone_bknmu4.jpg">}}
+{{< leggi-anche >}}
 
 ##### TIP: cos'è?
 
@@ -85,6 +85,8 @@ Se come noi invece decidi **di attraversare paesi dove non è richiesto il CPD**
 Il TIP permette anche di spedire il tuo mezzo dal Giappone in qualsiasi altro paese. Tieni a mente che in questo caso normalmente le compagnie di spedizione non sono familiari con il TIP è quindi è probabile che non ti aiuteranno e smetteranno addirittura di rispondere alle mail. Consigliamo di partire per tempo contattando direttamente la dogana del distretto da cui spedirai il mezzo.
 
 Se fosse troppo compleso ricordati che puoi sempre andare nella vicina Corea del Sud dove non è richiesto il CPD ed è più facile ed economico spedire il proprio mezzo.
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1739789925/Articoli/camper/camper-giappone_bknmu4.jpg">}}
 
 ##### Assicurazione: obbligatoria per guidare in Giappone
 

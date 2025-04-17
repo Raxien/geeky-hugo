@@ -71,6 +71,8 @@ I documenti necessari per procedere alla richiesta tramite gli uffici dell'ACI s
 
 Dei bollettini e della modulistica si occuperà l’ufficio ACI ad un costo maggiorato.
 
+{{< leggi-anche >}}
+
 ##### Come autenticare una fotografica
 
 L'autenticazione di una fotografica può esser fatta in due maniere:

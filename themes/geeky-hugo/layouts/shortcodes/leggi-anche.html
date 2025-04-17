@@ -1,0 +1,98 @@
+{{ $url := .Get "url" }}
+{{ $currentPage := .Page }}
+
+{{ if $url }}
+  {{ $article := site.GetPage $url }}
+  <div class="article__body__leggi-anche">
+    <a href="{{ $url | relURL }}" title="{{ $article.Title }}">
+      <div class="leggi-anche-content">
+        <span class="leggi-anche-label">leggi anche</span>
+        <span class="leggi-anche-title">{{ $article.Title }}</span>
+      </div>
+      {{ with $article.Params.image }}
+        {{ if hasPrefix . "http" }}
+          <img alt="{{ $article.Title }}" src="{{ . }}">
+        {{ else }}
+          {{ if fileExists (add `assets/` .) }}
+            {{ $imageResource := resources.Get . }}
+            {{ $imageWebp := $imageResource.Fill "220x110 Center webp" }}
+            {{ $imageFallback := $imageResource.Fill "220x110 Center" }}
+            <img alt="{{ $article.Title }}" 
+                 src="{{ $imageWebp.RelPermalink }}"
+                 onerror="this.onerror=null;this.src='{{ $imageFallback.RelPermalink }}'">
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </a>
+  </div>
+{{ else }}
+  {{ $relatedPosts := slice }}
+  {{ $foundRelated := false }}
+
+  {{ $postsAttempt1 := where site.RegularPages "Section" "blog" }}
+  {{ with $currentPage.Params.categories }}
+    {{ $category := index . 0 }}
+    {{ $postsAttempt1 = where $postsAttempt1 ".Params.categories" "intersect" (slice $category) }}
+  {{ end }}
+  {{ with $currentPage.Params.country }}
+    {{ $country := . }}
+    {{ $postsAttempt1 = where $postsAttempt1 ".Params.country" "eq" $country }}
+  {{ end }}
+  {{ $postsAttempt1 = where $postsAttempt1 ".Permalink" "ne" $currentPage.Permalink }}
+
+  {{ if gt (len $postsAttempt1) 0 }}
+    {{ $relatedPosts = $postsAttempt1 }}
+    {{ $foundRelated = true }}
+  {{ end }}
+
+  {{ if and (not $foundRelated) $currentPage.Params.country }}
+    {{ $postsAttempt2 := where site.RegularPages "Section" "blog" }}
+    {{ $country := $currentPage.Params.country }}
+    {{ $postsAttempt2 = where $postsAttempt2 ".Params.country" "eq" $country }}
+    {{ $postsAttempt2 = where $postsAttempt2 ".Permalink" "ne" $currentPage.Permalink }}
+    
+    {{ if gt (len $postsAttempt2) 0 }}
+      {{ $relatedPosts = $postsAttempt2 }}
+      {{ $foundRelated = true }}
+    {{ end }}
+  {{ end }}
+
+  {{ if and (not $foundRelated) $currentPage.Params.categories }}
+    {{ $postsAttempt3 := where site.RegularPages "Section" "blog" }}
+    {{ $category := index $currentPage.Params.categories 0 }}
+    {{ $postsAttempt3 = where $postsAttempt3 ".Params.categories" "intersect" (slice $category) }}
+    {{ $postsAttempt3 = where $postsAttempt3 ".Permalink" "ne" $currentPage.Permalink }}
+
+    {{ if gt (len $postsAttempt3) 0 }}
+      {{ $relatedPosts = $postsAttempt3 }}
+      {{ $foundRelated = true }}
+    {{ end }}
+  {{ end }}
+  
+  {{ $firstRelated := first 1 (shuffle $relatedPosts) }}
+
+  {{ range $firstRelated }}
+    <div class="article__body__leggi-anche">
+      <a href="{{ .RelPermalink }}" title="{{ .Title }}">
+        <div class="leggi-anche-content">
+          <span class="leggi-anche-label">leggi anche</span>
+          <span class="leggi-anche-title">{{ .Title }}</span>
+        </div>
+        {{ with .Params.image }}
+          {{ if hasPrefix . "http" }}
+            <img alt="{{ $.Page.Title }}" src="{{ . }}">
+          {{ else }}
+            {{ if fileExists (add `assets/` .) }}
+              {{ $imageResource := resources.Get . }}
+              {{ $imageWebp := $imageResource.Fill "220x110 Center webp" }}
+              {{ $imageFallback := $imageResource.Fill "220x110 Center" }}
+              <img alt="{{ $.Page.Title }}" 
+                   src="{{ $imageWebp.RelPermalink }}"
+                   onerror="this.onerror=null;this.src='{{ $imageFallback.RelPermalink }}'">
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </a>
+    </div>
+  {{ end }}
+{{ end }} 

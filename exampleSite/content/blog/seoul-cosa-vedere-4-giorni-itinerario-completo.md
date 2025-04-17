@@ -52,6 +52,8 @@ Il **Royal Palace Pass** non un palazzo, ma una chicca per risparmiare tempo e d
 
 **Buone notizie per i viaggiatori over 65:** l’ingresso ai palazzi è gratuito, rendendo l’esperienza ancora più accessibile! Un’opzione ideale per chi vuole esplorare la storia reale di Seoul senza stress!
 
+{{< leggi-anche >}}
+
 ##### 2. Villaggio Antico di Bukchon e Ikseon-dong
 **Bukchon Hanok Village** è famoso per le sue case tradizionali (hanok), stradine pittoresche e viste mozzafiato. Risale a più di 600 anni fa e si trova in cima a una collina, dalla quale godere di una delle viste più belle **(e gratuita)** della città dall’alto.
 
