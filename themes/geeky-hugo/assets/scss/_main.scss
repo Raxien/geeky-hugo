@@ -295,22 +295,6 @@ picture.rounded-4 {
   }
 }
 
-/* PayPal Hosted Button Container */
-#paypal-container-BCJTRMPKC52MW {
-  max-width: 100%;
-  margin: 0 auto;
-  padding: 1rem;
-  background-color: transparent;
-  border-radius: 8px;
-  
-  iframe {
-    width: 100% !important;
-    min-height: 45px !important;
-    border: none !important;
-    background-color: transparent !important;
-  }
-}
-
 /* Reset for PayPal injected styles */
 #paypal-container-BCJTRMPKC52MW h3,
 #paypal-container-BCJTRMPKC52MW * h3,
@@ -451,6 +435,23 @@ picture.rounded-4 {
       width: 120px;
       height: 90px;
     }
+  }
+}
+
+/* PayPal Hosted Button Container */
+#paypal-container-BCJTRMPKC52MW {
+  max-width: 300px; /* Imposta una larghezza massima per permettere la centratura */
+  margin: 1rem auto; /* Centra orizzontalmente, mantiene margine verticale */
+  padding: 0; /* Rimuovo padding interno che potrebbe interferire */
+  background-color: transparent;
+  /* border-radius: 8px; */ /* Rimuovo il radius se non serve più */
+  
+  iframe {
+    display: block; /* Assicura che l'iframe sia un blocco */
+    width: 100% !important; /* L'iframe riempie il contenitore centrato */
+    min-height: 45px !important;
+    border: none !important;
+    background-color: transparent !important;
   }
 }
     
