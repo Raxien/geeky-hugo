@@ -2,7 +2,7 @@
 title: 'Seoul: Cosa vedere in 4 Giorni - Itinerario completo'
 description: 'Scopri Seoul in 4 giorni: itinerario completo con le migliori attrazioni tra storia, cultura e modernità della capitale della Corea del Sud'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Corea/Seoul/cheonggyecheon-stream_cmib4y.jpg
-date: 2025-04-11T7:00:00+01:00
+date: 2025-04-17T7:00:00+01:00
 categories: ["Viaggi in Corea", "Itinerari"]
 type: featured  
 country: Corea del Sud 
@@ -86,7 +86,7 @@ Spesso trascurato in favore del più popolare Bukchon Village **ed è invece il 
 {{< carousel images="Articoli/Corea/Seoul/palazzo-reale-cambio-guardia_x9ycdn.jpg,Articoli/Corea/Seoul/palazzo-reale-giardini-reali_jtym33.jpg,Articoli/Corea/Seoul/palazzo-deoksugung_itfhsr.jpg,Articoli/Corea/Seoul/palazzo-reale-esterno_jbfkw1.jpg,Articoli/Corea/Seoul/palazzo-reale-interni_pkhii1.jpg,Articoli/Corea/Seoul/tempio-dettagli_jfdx5m.jpg,Articoli/Corea/Seoul/pagoda-palazzi-reale_qrev3a.jpg,Articoli/Corea/Seoul/palazzo-reale-pagoda_gkh4yd.jpg" >}}
 
 ##### 7. Myeongdong: la patria della skincare
-**Myeongdong** è il tempio dello shopping, soprattutto per la cosmesi coreana. Qui troverete marchi come Etude House e Innisfree, oltre a street food, che viene venduto dalle 17:00, delizioso (e piccante) come i tteokbokki anche se **i prezzi sono nettamente più alti rispetto ad altre zone di Seoul.**
+**Myeongdong** è il tempio dello shopping, soprattutto per la cosmesi coreana. Qui troverete marchi come Etude House e Innisfree, oltre a street food, che viene venduto dalle 17:00, delizioso (e piccante) come i tteokbokki anche se [i prezzi sono nettamente più alti rispetto ad altre zone di Seoul.](/blog/esplorare-seoul-street-food-e-shopping-nei-mercati-tradizionali)
 
 ##### 8. Il Quartiere di Gangnam
 Reso famoso dalla canzone di Psy, **Gangnam** è il quartiere dei ricchi e dello stile. Boutique di lusso, ristoranti alla moda e una vita notturna vivace lo rendono perfetto per una serata glamour. Da non perdere la statua dedicata alla canzone, il suggestivo **tempio di Bongeunsa** e la **libreria Starfield** nel COEX Mall. Quest’ultima, con scaffali altissimi e un design spettacolare, è un paradiso per i bibliofili, perfetto per rilassarsi o scattare foto memorabili.

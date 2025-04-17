@@ -1,5 +1,5 @@
 ---
-title: 'Esplorare Seoul: Street Food e Shopping nei Mercati Tradizionali'
+title: 'Esplorare Seoul: Street Food e shopping nei mercati tradizionali'
 description: "Scopri i migliori mercati di Seoul per street food e shopping: Gwangjang, Namdaemun e Myeongdong. Immergiti nella cultura coreana con piatti tradizionali, noodle, bibimbap e prodotti unici, tra mercati aperti h24 e quartieri trendy."
 image:  https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1657123237/Articoli/Corea/Seoul/street-food-seoul_uqmwhq.jpg
 date: 2025-04-16T00:00:00.000
@@ -8,7 +8,6 @@ type: regular
 country: Corea del Sud
 draft: false
 ---
-
 Seoul, la vibrante capitale della Corea del Sud, **è un paradiso per gli amanti dello street food e dello shopping.** I suoi mercati tradizionali offrono un’esperienza unica, dove i sapori autentici si mescolano alla frenesia dello shopping e all’atmosfera vivace. Ecco una guida ai tre mercati imperdibili: **Gwangjang, Namdaemun e Myeongdong.**
 
 #### Gwangjang: Il cuore della tradizione coreana
