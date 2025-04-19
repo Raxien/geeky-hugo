@@ -30,6 +30,7 @@
                         srcset="{{ $imagePath | safeURL }} 1x, {{ $imagePath | safeURL }} 2x"
                         alt="{{ .Title }}"
                         class="img-fluid rounded-4">
+                      <div class="swiper-pagination"></div>
                     </div>
                   </a>
                   {{ else }}
@@ -46,6 +47,7 @@
                         alt="{{ .Title }}" 
                         class="img-fluid rounded-4"
                         onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
+                      <div class="swiper-pagination"></div>
                     </div>
                   </a>
                   {{ end }}
@@ -124,115 +126,118 @@
 
           <!-- Versione mobile -->
           <div class="d-lg-none">
-            <div class="swiper featured-mobile-swiper">
-              <div class="swiper-wrapper">
-                {{ range first 5 (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true) }}
-                <div class="swiper-slide">
-                  <div class="card rounded-0">
-                    <div class="d-flex flex-column">
-                      <!-- image path -->
-                      {{ $imagePath:= .Params.image }}
-                      {{ if $imagePath }}
-                      {{ if hasPrefix $imagePath "http" }}
-                      <a href="{{.RelPermalink}}" class="d-block featured-image-container">
-                        <div class="image-container">
-                          <img loading="lazy" decoding="async" 
-                            src="{{ $imagePath | safeURL }}" 
-                            srcset="{{ $imagePath | safeURL }} 1x, {{ $imagePath | safeURL }} 2x"
-                            alt="{{ .Title }}"
-                            class="img-fluid rounded-4">
-                        </div>
-                      </a>
-                      {{ else }}
-                      <!-- /image cdn -->
-                      <!-- image processing for single device -->
-                      {{ if fileExists (add `assets/` $imagePath) }}
-                      {{ $image:= resources.Get $imagePath }}
-                      {{ $imageFallback:= $image.Fill "1200x600 Center" }}
-                      {{ $imageWebp:= $image.Fill "1200x600 Center webp" }}
-                      <a href="{{.RelPermalink}}" class="d-block featured-image-container">
-                        <div class="image-container">
-                          <img loading="lazy" decoding="async" 
-                            src="{{$imageWebp.RelPermalink}}" 
-                            alt="{{ .Title }}" 
-                            class="img-fluid rounded-4"
-                            onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
-                        </div>
-                      </a>
-                      {{ end }}
-                      <!-- /image processing for single device -->
-                      {{ end }}
-                      {{ end }}
-                      <div class="card-body">
-                        <h3 class="h6 mb-2">
-                          <a class="title-linked" href="{{.RelPermalink}}">{{.Title | markdownify}}</a>
-                        </h3>
-                        <ul class="list-inline card-meta d-flex align-items-center mb-2">
-                          {{ if .Params.country}}
-                          <li class="list-inline-item d-flex align-items-center">
-                            <i class="fas fa-map-pin me-2"></i>
-                            {{ $country := .Params.country}}
-                            {{ $link:= add "search/?s=" $country }}
-                            <a class="a-country" href="{{$link | relLangURL}}">{{.Params.country | title}}</a>
-                          </li>
-                          {{end}}
-                          <li class="list-inline-item d-flex align-items-center">
-                            <i class="fas fa-calendar me-2"></i>
-                            <!-- data di pubblicazione formattata Mese, gg aaaa -->
-                            {{ $date := time.Format ":date_long" .PublishDate }}
-                            {{ $sDate := split (string $date) " " }}
+            <!-- Post principale -->
+            {{ range first 1 (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true) }}
+            <div class="featured-post-main mb-4">
+              <!-- image path -->
+              {{ $imagePath:= .Params.image }}
+              {{ if $imagePath }}
+              {{ if hasPrefix $imagePath "http" }}
+              <a href="{{.RelPermalink}}" class="d-block featured-image-container">
+                <div class="image-container">
+                  <img loading="lazy" decoding="async" 
+                    src="{{ $imagePath | safeURL }}" 
+                    srcset="{{ $imagePath | safeURL }} 1x, {{ $imagePath | safeURL }} 2x"
+                    alt="{{ .Title }}"
+                    class="img-fluid rounded-4">
+                </div>
+              </a>
+              {{ else }}
+              <!-- /image cdn -->
+              <!-- image processing for single device -->
+              {{ if fileExists (add `assets/` $imagePath) }}
+              {{ $image:= resources.Get $imagePath }}
+              {{ $imageFallback:= $image.Fill "1200x600 Center" }}
+              {{ $imageWebp:= $image.Fill "1200x600 Center webp" }}
+              <a href="{{.RelPermalink}}" class="d-block featured-image-container">
+                <div class="image-container">
+                  <img loading="lazy" decoding="async" 
+                    src="{{$imageWebp.RelPermalink}}" 
+                    alt="{{ .Title }}" 
+                    class="img-fluid rounded-4"
+                    onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
+                </div>
+              </a>
+              {{ end }}
+              {{ end }}
+              {{ end }}
+              <div class="card-body px-0 pt-4">
+                <h3 class="h4 mb-3">
+                  <a class="title-linked" href="{{.RelPermalink}}">{{.Title | markdownify}}</a>
+                </h3>
+                <ul class="list-inline card-meta d-flex align-items-center mb-3">
+                  {{ if .Params.country}}
+                  <li class="list-inline-item d-flex align-items-center">
+                    <i class="fas fa-map-pin me-2"></i>
+                    {{ $country := .Params.country}}
+                    {{ $link:= add "search/?s=" $country }}
+                    <a class="a-country" href="{{$link | relLangURL}}">{{.Params.country | title}}</a>
+                  </li>
+                  {{end}}
+                  <li class="list-inline-item d-flex align-items-center">
+                    <i class="fas fa-calendar me-2"></i>
+                    {{ $date := time.Format ":date_long" .PublishDate }}
+                    {{ $sDate := split (string $date) " " }}
+                    <span>
+                      {{ index $sDate 0}} {{ index $sDate 1}} {{ index $sDate 2}}
+                    </span>
+                  </li>
+                  {{ if .Params.sponsored}}
+                  <li class="list-inline-item d-flex align-items-center">
+                    <i>Sponsorizzato</i>
+                  </li>
+                  {{end}}
+                </ul>
+              </div>
+            </div>
+            {{ end }}
 
-                            <span>
-                            {{ $aMonth := index $sDate 0}}
-                            {{ $aDay := index $sDate 1}}
-                            {{ $aYear := index $sDate 2}}
-
-                            {{ $day := (string $aDay)}}
-                            {{ $month := (string $aMonth)}}
-                            {{ $year := (string $aYear)}}
-
-                            {{ replace $day "," " " }}
-                            {{ if eq $month "January" }}
-                            {{ "Gennaio" }}
-                            {{ else if eq $month "February" }}
-                            {{ "Febbraio" }}
-                            {{ else if eq $month "March" }}
-                            {{ "Marzo" }}
-                            {{ else if eq $month "April" }}
-                            {{ "Aprile" }}
-                            {{ else if eq $month "May" }}
-                            {{ "Maggio" }}
-                            {{ else if eq $month "June" }}
-                            {{ "Giugno" }}
-                            {{ else if eq $month "July" }}
-                            {{ "Luglio" }}
-                            {{ else if eq $month "August" }}
-                            {{ "Agosto" }}
-                            {{ else if eq $month "September" }}
-                            {{ "Settembre" }}
-                            {{ else if eq $month "October" }}
-                            {{ "Ottobre" }}
-                            {{ else if eq $month "November" }}
-                            {{ "Novembre" }}
-                            {{ else if eq $month "December" }}
-                            {{ "Dicembre" }}
-                            {{ end }}
-                            {{ $year }}
-                            </span>
-                          </li>
-                          {{ if .Params.sponsored}}
-                          <li class="list-inline-item d-flex align-items-center">
-                            <i>Sponsorizzato</i>
-                          </li>
-                          {{end}}
-                        </ul>
+            <!-- Post secondari -->
+            <div class="featured-posts-secondary">
+              <div class="row g-3 flex-nowrap overflow-auto pb-3">
+                {{ range first 4 (after 1 (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true)) }}
+                <div class="col-auto">
+                  <div class="card h-100 border-0">
+                    <!-- image path -->
+                    {{ $imagePath:= .Params.image }}
+                    {{ if $imagePath }}
+                    {{ if hasPrefix $imagePath "http" }}
+                    <a href="{{.RelPermalink}}" class="d-block">
+                      <div class="image-container">
+                        <img loading="lazy" decoding="async" 
+                          src="{{ $imagePath | safeURL }}" 
+                          srcset="{{ $imagePath | safeURL }} 1x, {{ $imagePath | safeURL }} 2x"
+                          alt="{{ .Title }}"
+                          class="img-fluid rounded-4">
                       </div>
+                    </a>
+                    {{ else }}
+                    <!-- /image cdn -->
+                    {{ if fileExists (add `assets/` $imagePath) }}
+                    {{ $image:= resources.Get $imagePath }}
+                    {{ $imageFallback:= $image.Fill "400x300 Center" }}
+                    {{ $imageWebp:= $image.Fill "400x300 Center webp" }}
+                    <a href="{{.RelPermalink}}" class="d-block">
+                      <div class="image-container">
+                        <img loading="lazy" decoding="async" 
+                          src="{{$imageWebp.RelPermalink}}" 
+                          alt="{{ .Title }}" 
+                          class="img-fluid rounded-4"
+                          onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
+                      </div>
+                    </a>
+                    {{ end }}
+                    {{ end }}
+                    {{ end }}
+                    <div class="card-body px-0 pt-3">
+                      <h3 class="h6 mb-2">
+                        <a class="title-linked" href="{{.RelPermalink}}">{{.Title | markdownify}}</a>
+                      </h3>
                     </div>
                   </div>
                 </div>
                 {{ end }}
               </div>
-              <div class="swiper-pagination"></div>
             </div>
           </div>
         </div>
@@ -331,6 +336,69 @@
       button.innerHTML = 'Mostra altro';
       button.style.backgroundColor = '#15817f';
     }
+  });
+
+  document.addEventListener('DOMContentLoaded', function() {
+    let progressTimer;
+    const SLIDE_DURATION = 5000;
+
+    const featuredMobileSwiper = new Swiper('.featured-mobile-swiper', {
+      slidesPerView: 1,
+      spaceBetween: 20,
+      speed: 500,
+      allowTouchMove: false,
+      on: {
+        init: function(swiper) {
+          startProgressBar(swiper);
+        }
+      }
+    });
+
+    function startProgressBar(swiper) {
+      // Resetta tutte le barre
+      swiper.slides.forEach(slide => {
+        const progressBar = slide.querySelector('.slide-progress');
+        if (progressBar) {
+          progressBar.style.transition = 'none';
+          progressBar.style.width = '0%';
+        }
+      });
+
+      // Avvia la barra corrente
+      const currentBar = swiper.slides[swiper.activeIndex].querySelector('.slide-progress');
+      if (currentBar) {
+        // Forza il reflow per assicurarsi che il reset sia applicato
+        currentBar.offsetHeight;
+        currentBar.style.transition = 'width 5s linear';
+        currentBar.style.width = '100%';
+      }
+
+      // Pulisci il timer esistente se presente
+      if (progressTimer) {
+        clearTimeout(progressTimer);
+      }
+
+      // Imposta il timer per il prossimo slide
+      progressTimer = setTimeout(() => {
+        if (swiper.activeIndex >= swiper.slides.length - 1) {
+          swiper.slideTo(0, 500);
+        } else {
+          swiper.slideNext();
+        }
+        startProgressBar(swiper);
+      }, SLIDE_DURATION);
+    }
+
+    // Gestione della visibilità della pagina
+    document.addEventListener('visibilitychange', () => {
+      if (document.hidden) {
+        if (progressTimer) {
+          clearTimeout(progressTimer);
+        }
+      } else {
+        startProgressBar(featuredMobileSwiper);
+      }
+    });
   });
 </script>
 

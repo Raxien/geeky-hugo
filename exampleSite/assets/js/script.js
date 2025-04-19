@@ -75,3 +75,20 @@ $(document).ready(function () {
   });
 
 }); 
+
+document.addEventListener('DOMContentLoaded', function() {
+  // Inizializzazione dello swiper mobile per i post featured
+  const featuredMobileSwiper = new Swiper('.featured-mobile-swiper', {
+    slidesPerView: 1,
+    spaceBetween: 20,
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+    loop: true,
+    autoplay: {
+      delay: 4000,
+      disableOnInteraction: false,
+    }
+  });
+});

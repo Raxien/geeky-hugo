@@ -4,7 +4,8 @@ description: Scopri la guida definitiva alla leggendaria Transiberiana!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1744353858/Articoli/Blog/transiberiana-on-the-road-guida_kaoxl5.jpg
 date: 2025-04-10T00:00:00+01:00
 categories: ["Blog", "Russia"]
-type: featured   
+type: featured
+country: Russia   
 draft: false
 ---
 

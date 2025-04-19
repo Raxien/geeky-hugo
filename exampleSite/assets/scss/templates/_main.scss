@@ -654,8 +654,10 @@ tr {
 .featured-mobile-swiper {
   width: 100%;
   padding: 1rem 0;
+  position: relative;
 
   .swiper-slide {
+    padding: 0.5rem;
     height: auto;
   }
 
@@ -690,6 +692,28 @@ tr {
     padding-bottom: 0 !important;
     border-radius: 12px;
 
+    &::before {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 4px;
+      background: rgba(255, 255, 255, 0.3);
+      z-index: 9;
+    }
+
+    .slide-progress {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 0%;
+      height: 4px;
+      background: #15817f;
+      transition: width 0.1s linear;
+      z-index: 10;
+    }
+
     img {
       position: absolute !important;
       top: 0 !important;
@@ -705,6 +729,11 @@ tr {
         border-radius: 12px;
       }
     }
+  }
+
+  // Nascondi i puntini
+  .swiper-pagination {
+    display: none !important;
   }
 
   .card-body {
@@ -725,7 +754,7 @@ tr {
     font-size: 1.2rem;
 
     &:hover {
-      color: #15817f !important;
+      color: var(--bs-primary);
     }
   }
 
@@ -733,24 +762,146 @@ tr {
     font-size: 0.9rem;
     margin-bottom: 0;
   }
+}
 
-  .swiper-pagination {
-    position: relative;
-    
-    .swiper-pagination-bullet {
-      width: 8px;
-      height: 8px;
-      background: var(--bs-primary);
-      opacity: 0.5;
-      margin-top: -20px;
-      margin-bottom: -20px;
+/* Featured Posts - Mobile */
+@media (max-width: 991px) {
+  .featured-post-main {
+    .image-container {
+      position: relative;
+      border-radius: 8px;
+      overflow: hidden;
       
-      &-active {
-        opacity: 1;
+      img {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 16/9;
+        object-fit: cover;
+      }
+    }
+
+    .card-body {
+      .h4 {
+        font-size: 1.2rem;
+        line-height: 1.4;
       }
     }
   }
-} 
+
+  .featured-posts-secondary {
+    .row {
+      margin-right: -0.25rem !important;
+      margin-left: -0.25rem !important;
+      padding-right: 0.25rem !important;
+      padding-left: 0.25rem !important;
+      gap: 0.25rem !important;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+      display: flex !important;
+      flex-wrap: nowrap !important;
+      
+      &::-webkit-scrollbar {
+        display: none;
+      }
+    }
+    
+    .card {
+      background: transparent;
+      min-width: 250px !important;
+      max-width: 250px !important;
+      width: 250px !important;
+      flex: 0 0 250px !important;
+      flex-shrink: 0 !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      
+      .image-container {
+        position: relative;
+        border-radius: 8px;
+        overflow: hidden;
+        margin-bottom: 0.25rem !important;
+        min-width: 250px !important;
+        max-width: 250px !important;
+        width: 250px !important;
+        min-height: 187px !important;
+        max-height: 187px !important;
+        height: 187px !important;
+        
+        img {
+          min-width: 100% !important;
+          max-width: 100% !important;
+          width: 100% !important;
+          min-height: 100% !important;
+          max-height: 100% !important;
+          height: 100% !important;
+          object-fit: cover !important;
+          aspect-ratio: unset !important;
+        }
+      }
+
+      .card-body {
+        padding: 0.25rem 0 !important;
+        
+        .h6 {
+          font-size: 0.95rem;
+          line-height: 1.4;
+          margin-bottom: 0.25rem !important;
+        }
+
+        .card-meta {
+          font-size: 0.8rem;
+          margin-bottom: 0 !important;
+          
+          i {
+            font-size: 0.75rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+/* Featured Posts - Extra Small */
+@media (max-width: 440px) {
+  .featured-posts-secondary {
+    .row {
+      margin-right: -0.25rem !important;
+      margin-left: -0.25rem !important;
+      padding-right: 0.25rem !important;
+      padding-left: 0.25rem !important;
+      gap: 0.25rem !important;
+      display: flex !important;
+      flex-wrap: nowrap !important;
+    }
+    
+    .card {
+      min-width: 220px !important;
+      max-width: 220px !important;
+      width: 220px !important;
+      flex: 0 0 220px !important;
+      flex-shrink: 0 !important;
+      margin-right: 0 !important;
+      
+      .image-container {
+        min-width: 220px !important;
+        max-width: 220px !important;
+        width: 220px !important;
+        min-height: 165px !important;
+        max-height: 165px !important;
+        height: 165px !important;
+        margin-bottom: 0.25rem !important;
+      }
+
+      .card-body {
+        padding: 0.25rem 0 !important;
+        
+        .h6 {
+          margin-bottom: 0.25rem !important;
+        }
+      }
+    }
+  }
+}
 
 /* Featured Mobile Swiper */
 .swiper-pagination-bullet-active {
@@ -952,4 +1103,193 @@ tr {
     }
   }
 }
-    
+
+/* Featured Posts - Tablet */
+@media (min-width: 576px) and (max-width: 991px) {
+  .featured-post-main {
+    .image-container {
+      img {
+        aspect-ratio: 16/9;
+      }
+    }
+  }
+
+  .featured-posts-secondary {
+    .card {
+      min-width: 320px;
+      width: 320px;
+      
+      .image-container {
+        img {
+          aspect-ratio: 16/9;
+        }
+      }
+    }
+  }
+}
+  /* Stili per il desktop */
+  @media (min-width: 992px) {
+    .featured-image-container:not(.featured-mobile-swiper .featured-image-container) {
+      width: 105px !important;
+      height: 85px !important;
+    }
+  }
+  .featured-image-container:not(.featured-mobile-swiper .featured-image-container) {
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  /* Stili per le immagini featured */
+  .featured-image-container {
+    width: 100%;
+    height: 300px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
+  }
+
+  .guides-widget {
+    margin-bottom: 2rem;
+  }
+  .guides-widget .widget-title {
+    margin-bottom: 1.5rem;
+  }
+  .guides-slider {
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    margin-bottom: 0;
+    border-radius: 12px;
+    overflow: hidden;
+    background-color: #f5f5f5;
+    position: relative;
+  }
+  .guides-slider .swiper-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .guide-slide {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+  .guide-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+  .guide-slide img.loaded {
+    opacity: 1;
+  }
+  .guide-slide .slide-text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4));
+    color: white;
+    padding: 15px;
+  }
+  .guide-slide .slide-text p {
+    margin: 0;
+    font-size: 0.9em;
+  }
+  .guide-slide .slide-link {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+  }
+  .guides-slider .swiper-button-next,
+  .guides-slider .swiper-button-prev {
+    color: white;
+  }
+  .guides-slider .swiper-pagination {
+    position: absolute !important;
+    bottom: 10px !important;
+    left: 0;
+    right: 0;
+    z-index: 10;
+  }
+  .guides-slider .swiper-pagination-bullet {
+    background: white;
+    opacity: 0.5;
+  }
+  .guides-slider .swiper-pagination-bullet-active {
+    opacity: 1;
+  }
+
+  /* Nascondi i puntini per il widget guida */
+  .guides-widget-no-pagination .swiper-pagination {
+    display: none;
+  }
+
+
+.social-share {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.share-label {
+  margin-right: 10px;
+  font-weight: 500;
+}
+
+.social-share a {
+  color: #333;
+  font-size: 24px;
+  transition: color 0.3s ease;
+}
+
+.social-share a:hover {
+  color: #000;
+}
+
+.social-share i {
+  vertical-align: middle;
+}
+
+.share-divider {
+  margin: 30px 0;
+  border: 0;
+  border-top: 1px solid #555555;
+}
+
+.toast {
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%) translateY(-20px);
+  background-color: #15817f;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 30px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  opacity: 0;
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 1000;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 200px;
+  width: fit-content;
+  white-space: nowrap;
+}
+
+.toast.show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
