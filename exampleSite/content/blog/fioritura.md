@@ -6,7 +6,7 @@ date: 2025-04-17T7:00:00+01:00
 categories: ["Viaggi in Corea", "Itinerari"]
 type: featured  
 country: Corea del Sud 
-draft: false
+draft: true
 ---
 Quando si parla di fioritura dei ciliegi, molti pensano subito [all’hanami giapponese](/blog/viaggio-giappone-informazioni-e-itinerari), ma sapevi che anche **la Corea del Sud offre uno spettacolo primaverile altrettanto magico?** Da fine marzo a metà aprile, i ciliegi, chiamati beotkkot, tingono il paese di rosa, trasformando parchi, templi e strade in scenari da cartolina. Simbolo di rinnovamento, purezza e amore, questa fioritura è celebrata con festival, picnic sotto gli alberi e passeggiate romantiche. 
 

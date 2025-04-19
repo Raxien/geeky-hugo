@@ -728,3 +728,12 @@ picture.rounded-4 {
   opacity: 1;
   transform: translateX(-50%) translateY(0);
 }
+
+.title-linked {
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  &:hover {
+    text-decoration: none;
+    -webkit-text-decoration: none;
+  }
+}
