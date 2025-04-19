@@ -49,6 +49,7 @@ Dopo l'acquisto si apriranno le istruzioni su come accedere al Travel Book. Il l
 
 
 <div id="paypal-container-BCJTRMPKC52MW" style="margin: auto; width: 50%;"></div>
+<script src="https://www.paypal.com/sdk/js?client-id=BAAXMIPKDI1J_f5jgTXxkh2yPhMIh8O1vmlhzRa_pe_rkZOqpm-JnPOamYpK0FltLsSeU_iiZuVo95xriQ&components=hosted-buttons&disable-funding=venmo&currency=EUR"></script>
 <script>
   paypal.HostedButtons({
     hostedButtonId: "BCJTRMPKC52MW",

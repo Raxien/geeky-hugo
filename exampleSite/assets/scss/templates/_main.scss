@@ -764,6 +764,7 @@ tr {
   }
 }
 
+
 /* Featured Posts - Mobile */
 @media (max-width: 991px) {
   .featured-post-main {
@@ -771,19 +772,32 @@ tr {
       position: relative;
       border-radius: 8px;
       overflow: hidden;
+      min-width: 100% !important;
+      max-width: 100% !important;
+      width: 100% !important;
+      min-height: 300px !important;
+      max-height: 300px !important;
+      height: 300px !important;
       
       img {
-        width: 100%;
-        height: auto;
-        aspect-ratio: 16/9;
-        object-fit: cover;
+        min-width: 100% !important;
+        max-width: 100% !important;
+        width: 100% !important;
+        min-height: 100% !important;
+        max-height: 100% !important;
+        height: 100% !important;
+        object-fit: cover !important;
+        aspect-ratio: unset !important;
       }
     }
 
     .card-body {
+      padding: 0.5rem 0 !important;
+      
       .h4 {
         font-size: 1.2rem;
         line-height: 1.4;
+        margin-bottom: 0.5rem !important;
       }
     }
   }

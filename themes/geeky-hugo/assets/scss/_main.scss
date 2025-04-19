@@ -125,20 +125,23 @@
     }
 
     .card-body {
+      padding: 0.5rem 0 !important;
+      
       .h4 {
         font-size: 1.2rem;
         line-height: 1.4;
+        margin-bottom: 0.5rem !important;
       }
     }
   }
 
   .featured-posts-secondary {
     .row {
-      margin-right: -0.25rem !important;
-      margin-left: -0.25rem !important;
-      padding-right: 0.25rem !important;
-      padding-left: 0.25rem !important;
-      gap: 0.25rem !important;
+      margin-right: -0.5rem !important;
+      margin-left: -0.5rem !important;
+      padding-right: 0.5rem !important;
+      padding-left: 0.5rem !important;
+      gap: 0.5rem !important;
       scrollbar-width: none;
       -ms-overflow-style: none;
       display: flex !important;
@@ -163,7 +166,7 @@
         position: relative;
         border-radius: 8px;
         overflow: hidden;
-        margin-bottom: 0.25rem !important;
+        margin-bottom: 0.5rem !important;
         min-width: 250px !important;
         max-width: 250px !important;
         width: 250px !important;
@@ -184,12 +187,12 @@
       }
 
       .card-body {
-        padding: 0.25rem 0 !important;
+        padding: 0.5rem 0 !important;
         
         .h6 {
           font-size: 0.95rem;
           line-height: 1.4;
-          margin-bottom: 0.25rem !important;
+          margin-bottom: 0.5rem !important;
         }
 
         .card-meta {
