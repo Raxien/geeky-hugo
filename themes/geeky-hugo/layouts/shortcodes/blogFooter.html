@@ -162,10 +162,14 @@ function showToast(message) {
 
 let modalid = '#satispay';
 function openModal() {
-    $(modalid).modal('show');
+    const modal = document.querySelector(modalid);
+    modal.classList.add('show');
+    document.body.style.overflow = 'hidden';
 }
 
 function closeModal() {
-    $(modalid).modal('hide');
+    const modal = document.querySelector(modalid);
+    modal.classList.remove('show');
+    document.body.style.overflow = 'auto';
 }
 </script>
