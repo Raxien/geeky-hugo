@@ -1010,6 +1010,10 @@ tr {
   height: 110px;
   position: relative;
   transition: transform 0.3s ease;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
 
   &:hover {
     transform: scale(1.02);
@@ -1024,6 +1028,10 @@ tr {
     height: 100%;
     position: relative;
     z-index: 1;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
 
     &:hover {
       color: white;

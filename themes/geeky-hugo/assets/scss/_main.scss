@@ -2,6 +2,10 @@
 .btn-close {
   outline: none !important;
   box-shadow: none !important;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
 
   &:focus {
     outline: none !important;
@@ -101,6 +105,11 @@
 /* Featured Posts - Mobile */
 @media (max-width: 991px) {
   .featured-post-main {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+
     .image-container {
       position: relative;
       border-radius: 8px;
@@ -111,6 +120,10 @@
       min-height: 300px !important;
       max-height: 300px !important;
       height: 300px !important;
+      -webkit-tap-highlight-color: transparent;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      user-select: none;
       
       img {
         min-width: 100% !important;
@@ -121,6 +134,10 @@
         height: 100% !important;
         object-fit: cover !important;
         aspect-ratio: unset !important;
+        -webkit-tap-highlight-color: transparent;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        user-select: none;
       }
     }
 
@@ -136,16 +153,25 @@
   }
 
   .featured-posts-secondary {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+
     .row {
-      margin-right: -0.5rem !important;
-      margin-left: -0.5rem !important;
-      padding-right: 0.5rem !important;
-      padding-left: 0.5rem !important;
-      gap: 0.5rem !important;
+      margin-right: -0.25rem !important;
+      margin-left: -0.25rem !important;
+      padding-right: 0.25rem !important;
+      padding-left: 0.25rem !important;
+      gap: 0.25rem !important;
       scrollbar-width: none;
       -ms-overflow-style: none;
       display: flex !important;
       flex-wrap: nowrap !important;
+      -webkit-tap-highlight-color: transparent;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      user-select: none;
       
       &::-webkit-scrollbar {
         display: none;
@@ -161,6 +187,10 @@
       flex-shrink: 0 !important;
       margin: 0 !important;
       padding: 0 !important;
+      -webkit-tap-highlight-color: transparent;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      user-select: none;
       
       .image-container {
         position: relative;
@@ -676,6 +706,10 @@ picture.rounded-4 {
   align-items: center;
   gap: 10px;
   margin: 20px 0;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
 }
 
 .share-label {
@@ -687,6 +721,10 @@ picture.rounded-4 {
   color: #333;
   font-size: 24px;
   transition: color 0.3s ease;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
 }
 
 .social-share a:hover {
@@ -738,5 +776,43 @@ picture.rounded-4 {
   &:hover {
     text-decoration: none;
     -webkit-text-decoration: none;
+  }
+}
+
+/* Featured Mobile Swiper */
+.featured-mobile-swiper {
+  width: 100%;
+  padding: 1rem 0;
+  position: relative;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+
+  .swiper-slide {
+    padding: 0.5rem;
+    height: auto;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  .card {
+    height: 100%;
+    border: none;
+    box-shadow: none;
+    transition: transform 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+
+    &:hover {
+      transform: translateY(-5px);
+    }
   }
 }
