@@ -46,6 +46,8 @@ L'itinerario è diviso in tre parti:
 
 Concediti il tempo di osservare i particolari delle insegne dei negozi, i muri dei vicoli interni ricoperti da murales particolari. Tutto a Friburgo è curato e colorato. Noi ci siamo poi diretti verso il parco dal quale si può ammirare la città dall’alto, che volendo è raggiungibile anche con la funicolare. Rientrati nelle vie del centro, siamo tornati alla piazza del Monastero, che ospitava il mercato del sabato mattina. Alle 15 siamo ripartiti in  direzione **Rottweil**. Il paesino è piccolo e tranquillo, con graziose casette colorate e decorazioni sulle insegne dei negozi. Purtroppo di sabato pomeriggio era quasi tutto chiuso. Abbiamo così ripreso il nostro viaggio lasciando la zona della Foresta Nera e Renania per un viaggio futuro. Un incidente sulla strada, complice la fame e la stanchezza, ci hanno fatto compiere una deviazione e ci siamo fermati in uno spot nelle campagne limitrofe per cenare e guidare successivamente ancora un’oretta.
 
+{{< leggi-anche >}}
+
 **{{< underline "Giorno 3">}}**: ci siamo svegliati con la pioggia e abbiamo deciso di partire subito direzione **Wurzburg**. La domenica in città non si paga il parcheggio per cui abbiamo posteggiato direttamente sul fiume vicino al ponte “alte mainbrucke”, da cui si possono raggiungere seguendo un percorso segnalato **la Residenz**, il palazzo barocco patrimonio Unesco con i suoi giardini puliti e curati, e dopo 40 minuti di passeggiata la Fortezza "**Festung Marienberg**" in cima alla collina.
 La vista dall’alto della città è veramente sorprendente, soprattutto pensando che la metà era stata rasa al suolo da un bombardamento avvenuto nel 1945. Meritano una visita i vicini giardini, pieni di statue e aiuole decorate. Dopo Wurzburg abbiamo deciso di fermarci a **Giften**, in un posteggio affacciato direttamente sul lago, meraviglioso!
 
@@ -137,27 +139,7 @@ Abbiamo incontrato alcuni lavori per strada, attraversato il famoso ponte sospes
 
 **{{< underline "Giorno 29">}}**: ci siamo svegliati con 10 gradi e avvolti dalla nebbia. Tutt’intorno al parcheggio iniziavano delle belle camminate in montagna per cui ci siamo avventurati senza allontanarci troppo. Dopo pranzo è spuntato il sole e abbiamo deciso di visitare il **lago Titisee**, percorrendone il perimetro in un paio d’ore. Davvero una bella chiusura di vacanza. Abbiamo sostato poco prima del confine per sfruttare ancora il roaming dati e l’indomani rientrare in Italia, sostando prima a **Berna** per un saluto ad amici e poi attraversando il tunnel del Gran San Bernardo fino a raggiungere Torino e correre a cercare una pizzeria aperta. 
 
-<div id="my-gallery2" style="max-width:100%;margin:auto">
-</div>
-
-<script>
-     const myWidget2 = cloudinary.galleryWidget({
-    "cloudName": "ilgattodicitturin",
-    "mediaAssets": [{
-        "publicId": "Articoli/Danimarca/danimarca_case_kvasbu,Articoli/Danimarca/danimarca-aaron-museo_ecryxw,Articoli/Danimarca/danimarca-arte-contemporanea_sfqee6,Articoli/Danimarca/danimarca-arte-contemporanea-2_ogygpo,Articoli/Danimarca/danimarca-case-tipiche-utnvfk,Articoli/Danimarca/danimarca-castello-luccbf,Articoli/Danimarca/danimarca-drone_h0otxp,Articoli/Danimarca/danimarca-pescatore_ub6rnc",
-        "mediaType": "image"
-    }],
-    "aspectRatio": "16:9",
-    "navigationButtonProps": {
-        "shape": "rectangle",
-        "color": "#FFFFFF",
-        "iconColor": "#000000"
-    },
-    "container": "#my-gallery2"
-});
-
-myWidget2.render();
-</script>
+{{< carousel images="Articoli/Danimarca/danimarca_case_kvasbu,Articoli/Danimarca/danimarca-aaron-museo_ecryxw,Articoli/Danimarca/danimarca-arte-contemporanea_sfqee6,Articoli/Danimarca/danimarca-arte-contemporanea-2_ogygpo,Articoli/Danimarca/danimarca-case-tipiche-utnvfk,Articoli/Danimarca/danimarca-castello-luccbf,Articoli/Danimarca/danimarca-drone_h0otxp,Articoli/Danimarca/danimarca-pescatore_ub6rnc" >}}
 
 ###### In Breve
 
