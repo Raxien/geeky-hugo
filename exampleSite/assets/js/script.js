@@ -7,6 +7,7 @@ jQuery.event.special.touchstart = {
     });
   }
 };
+
 jQuery.event.special.touchmove = {
   setup: function (_, ns, handle) {
     'use strict';
@@ -163,3 +164,45 @@ document.addEventListener('DOMContentLoaded', function() {
     startAutoSlide();
   });
 });
+
+
+  // Load more posts
+  const loadMoreButton = document.getElementById('loadMore');
+  if (loadMoreButton) {
+    loadMoreButton.addEventListener('click', async function() {
+      const nextUrl = this.dataset.nextUrl;
+      if (!nextUrl) return;
+
+      this.disabled = true;
+      this.innerHTML = '<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>';
+      this.style.backgroundColor = '#15817f';
+
+      try {
+        const response = await fetch(nextUrl);
+        const html = await response.text();
+        const temp = document.createElement('div');
+        temp.innerHTML = html;
+
+        const newPosts = temp.querySelector('.row.mx-0.g-5');
+        const currentPosts = document.querySelector('.row.mx-0.g-5');
+
+        if (newPosts && currentPosts) {
+          currentPosts.innerHTML += newPosts.innerHTML;
+        }
+
+        const newNextUrl = temp.querySelector('#loadMore')?.dataset.nextUrl;
+        if (newNextUrl) {
+          this.dataset.nextUrl = newNextUrl;
+        } else {
+          this.remove();
+        }
+      } catch (error) {
+        console.error('Errore nel caricamento dei post:', error);
+        this.innerHTML = 'Errore nel caricamento';
+      } finally {
+        this.disabled = false;
+        this.innerHTML = 'Mostra altro';
+        this.style.backgroundColor = '#15817f';
+      }
+    });
+  }
