@@ -77,18 +77,89 @@ $(document).ready(function () {
 }); 
 
 document.addEventListener('DOMContentLoaded', function() {
-  // Inizializzazione dello swiper mobile per i post featured
-  const featuredMobileSwiper = new Swiper('.featured-mobile-swiper', {
-    slidesPerView: 1,
-    spaceBetween: 20,
-    pagination: {
-      el: '.swiper-pagination',
-      clickable: true,
-    },
-    loop: true,
-    autoplay: {
-      delay: 4000,
-      disableOnInteraction: false,
+  const slider = document.querySelector('.guides-slider');
+  
+  // Se lo slider non esiste, esci dalla funzione
+  if (!slider) return;
+  
+  const wrapper = slider.querySelector('.guides-wrapper');
+  const slides = wrapper.querySelectorAll('.guide-slide');
+  const prevButton = slider.querySelector('.nav-button.prev');
+  const nextButton = slider.querySelector('.nav-button.next');
+  let currentSlide = 0;
+  let touchStartX = 0;
+  let touchEndX = 0;
+  let autoSlideInterval;
+
+  // Carica le immagini
+  function loadImages() {
+    const images = wrapper.querySelectorAll('img[data-src]');
+    images.forEach(img => {
+      if (img.dataset.src) {
+        img.src = img.dataset.src;
+        img.removeAttribute('data-src');
+        img.addEventListener('load', () => {
+          img.classList.add('loaded');
+        });
+      }
+    });
+  }
+
+  // Funzione per spostare le slide
+  function moveSlide(direction) {
+    if (direction === 'next') {
+      currentSlide = (currentSlide + 1) % slides.length;
+    } else {
+      currentSlide = (currentSlide - 1 + slides.length) % slides.length;
     }
+    wrapper.style.transform = `translateX(-${currentSlide * 100}%)`;
+  }
+
+  // Gestione touch per mobile
+  function handleTouchStart(e) {
+    touchStartX = e.touches[0].clientX;
+  }
+
+  function handleTouchMove(e) {
+    touchEndX = e.touches[0].clientX;
+  }
+
+  function handleTouchEnd() {
+    const diff = touchStartX - touchEndX;
+    if (Math.abs(diff) > 50) { // Soglia minima per lo swipe
+      if (diff > 0) {
+        moveSlide('next');
+      } else {
+        moveSlide('prev');
+      }
+    }
+  }
+
+  // Inizializza l'autoplay
+  function startAutoSlide() {
+    autoSlideInterval = setInterval(() => {
+      moveSlide('next');
+    }, 5000);
+  }
+
+  // Event listeners
+  prevButton.addEventListener('click', () => moveSlide('prev'));
+  nextButton.addEventListener('click', () => moveSlide('next'));
+
+  slider.addEventListener('touchstart', handleTouchStart);
+  slider.addEventListener('touchmove', handleTouchMove);
+  slider.addEventListener('touchend', handleTouchEnd);
+
+  // Inizializzazione
+  loadImages();
+  startAutoSlide();
+
+  // Pausa autoplay quando il mouse è sopra lo slider
+  slider.addEventListener('mouseenter', () => {
+    clearInterval(autoSlideInterval);
+  });
+
+  slider.addEventListener('mouseleave', () => {
+    startAutoSlide();
   });
 });

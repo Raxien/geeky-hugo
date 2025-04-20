@@ -30,7 +30,6 @@
                         srcset="{{ $imagePath | safeURL }} 1x, {{ $imagePath | safeURL }} 2x"
                         alt="{{ .Title }}"
                         class="img-fluid rounded-4">
-                      <div class="swiper-pagination"></div>
                     </div>
                   </a>
                   {{ else }}
@@ -47,7 +46,6 @@
                         alt="{{ .Title }}" 
                         class="img-fluid rounded-4"
                         onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
-                      <div class="swiper-pagination"></div>
                     </div>
                   </a>
                   {{ end }}

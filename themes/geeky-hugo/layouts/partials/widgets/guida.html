@@ -1,103 +1,41 @@
 {{ $guides := index .Site.Data.guides "guides" }}
 
-<div class="widget guides-widget guides-widget-no-pagination">
+<div class="widget guides-widget">
   <div class="widget-title">
     <h3 class="h5 title-border">Le nostre guide</h3>
   </div>
   
-  <div class="guides-slider swiper-container">
-    <div class="swiper-wrapper">
+  <div class="guides-slider">
+    <div class="guides-wrapper">
       {{ range $guides }}
-      <div class="swiper-slide">
-        <div class="guide-slide">
-          <div class="image-container">
-            <img 
-              src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25'%3E%3C/svg%3E" 
-              data-src="{{ .image }}" 
-              alt="{{ .title }}" 
-              class="slide-image"
-              loading="lazy"
-            >
-          </div>
-          <div class="slide-text">
-            <p>{{ .description }}</p>
-          </div>
-          <a href="{{ .link }}" {{ if .isExternal }}target="_blank" rel="noopener noreferrer"{{ end }} class="slide-link">
-            <span class="sr-only">Leggi la guida: {{ .title }}</span>
-          </a>
+      <div class="guide-slide">
+        <div class="image-container">
+          <img 
+            src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25'%3E%3C/svg%3E" 
+            data-src="{{ .image }}" 
+            alt="{{ .title }}" 
+            class="slide-image"
+            loading="lazy"
+          >
         </div>
+        <div class="slide-text">
+          <p>{{ .description }}</p>
+        </div>
+        <a href="{{ .link }}" {{ if .isExternal }}target="_blank" rel="noopener noreferrer"{{ end }} class="slide-link">
+          <span class="sr-only">Leggi la guida: {{ .title }}</span>
+        </a>
       </div>
       {{ end }}
     </div>
     
-    <!-- Pagination -->
-    <div class="swiper-pagination"></div>
+    <div class="nav-buttons">
+      <button class="nav-button prev" aria-label="Slide precedente">
+        <i class="fas fa-chevron-left"></i>
+      </button>
+      <button class="nav-button next" aria-label="Slide successiva">
+        <i class="fas fa-chevron-right"></i>
+      </button>
+    </div>
   </div>
-
-  <script>
-    // Carica Swiper in modo differito
-    function loadSwiper() {
-      return new Promise((resolve, reject) => {
-        const script = document.createElement('script');
-        script.src = 'https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js';
-        script.async = true;
-        script.onload = resolve;
-        script.onerror = reject;
-        document.body.appendChild(script);
-      });
-    }
-
-    // Funzione per caricare una singola immagine
-    function loadImage(img) {
-      if (img && img.dataset.src) {
-        const src = img.dataset.src;
-        img.src = src;
-        img.removeAttribute('data-src');
-        img.addEventListener('load', function() {
-          this.style.opacity = '1';
-        });
-      }
-    }
-
-    // Inizializza lo slider quando necessario
-    function initSlider() {
-      const guidesSwiper = new Swiper('.guides-slider', {
-        slidesPerView: 1,
-        spaceBetween: 20,
-        loop: true,
-        autoplay: {
-          delay: 3000,
-          disableOnInteraction: false,
-        },
-        pagination: {
-          el: '.swiper-pagination',
-          clickable: true,
-        }
-      });
-    }
-
-    // Carica le immagini e inizializza lo slider
-    document.addEventListener('DOMContentLoaded', function() {
-      const images = document.querySelectorAll('.swiper-slide img[data-src]');
-      images.forEach(loadImage);
-
-      // Usa Intersection Observer per caricare Swiper solo quando necessario
-      const observer = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-          if (entry.isIntersecting) {
-            loadSwiper().then(() => {
-              initSlider();
-            });
-            observer.disconnect();
-          }
-        });
-      });
-
-      const slider = document.querySelector('.guides-slider');
-      if (slider) {
-        observer.observe(slider);
-      }
-    });
-  </script>
 </div>
 
