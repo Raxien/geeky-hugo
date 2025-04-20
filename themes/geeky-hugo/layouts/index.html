@@ -213,14 +213,16 @@
                     <!-- /image cdn -->
                     {{ if fileExists (add `assets/` $imagePath) }}
                     {{ $image:= resources.Get $imagePath }}
-                    {{ $imageFallback:= $image.Fill "400x300 Center" }}
-                    {{ $imageWebp:= $image.Fill "400x300 Center webp" }}
-                    <a href="{{.RelPermalink}}" class="d-block">
+                    {{ $imageFallback:= $image.Fill "400x150 Center" }}
+                    {{ $imageWebp:= $image.Fill "400x150 Center webp" }}
+                    <a href="{{.RelPermalink}}" class="d-block featured-image-container">
                       <div class="image-container">
-                        <img loading="lazy" decoding="async" 
+                        <img 
                           src="{{$imageWebp.RelPermalink}}" 
                           alt="{{ .Title }}" 
                           class="img-fluid rounded-4"
+                          width="400"
+                          height="150"
                           onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
                       </div>
                     </a>
