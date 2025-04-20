@@ -19,9 +19,10 @@
     .modal-dialog {
         position: relative;
         width: auto;
-        max-width: 400px;
+        max-width: 500px;
         width: 90%;
         margin: 0;
+        transform: translate(0, 0);
         z-index: 10000;
     }
     
@@ -57,4 +58,24 @@
             background-color: darken(#15817f, 10%);
         }
     }
-} 
+}
+
+
+/* Stili per il loader del pulsante */
+.btn-primary {
+    color: #15817f;
+    background-color: #15817f;
+    border-color: #15817f;
+  
+    &:disabled {
+      color: #15817f;
+      background-color: #15817f;
+      border-color: #15817f;
+      opacity: 0.65;
+    }
+  
+    .spinner-border {
+      color: #15817f;
+      background-color: #15817f;
+    }
+  }
