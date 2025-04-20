@@ -24,11 +24,12 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Carica i banner quando il documento è pronto
+    let checkAdsScript;
     if (document.querySelector('script[data-loaded="true"]')) {
         loadVisibleAds();
     } else {
         // Se lo script di Google Ads non è ancora caricato, aspetta
-        const checkAdsScript = setInterval(() => {
+        checkAdsScript = setInterval(() => {
             if (document.querySelector('script[data-loaded="true"]')) {
                 clearInterval(checkAdsScript);
                 loadVisibleAds();
