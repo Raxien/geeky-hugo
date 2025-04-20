@@ -145,8 +145,8 @@
               <!-- image processing for single device -->
               {{ if fileExists (add `assets/` $imagePath) }}
               {{ $image:= resources.Get $imagePath }}
-              {{ $imageFallback:= $image.Fill "1200x600 Center" }}
-              {{ $imageWebp:= $image.Fill "1200x600 Center webp" }}
+              {{ $imageFallback:= $image.Fill "600x200 Center" }}
+              {{ $imageWebp:= $image.Fill "600x200 Center webp" }}
               <a href="{{.RelPermalink}}" class="d-block featured-image-container">
                 <div class="image-container">
                   <img loading="lazy" decoding="async" 

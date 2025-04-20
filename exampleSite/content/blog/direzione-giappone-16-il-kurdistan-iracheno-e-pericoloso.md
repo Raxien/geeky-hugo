@@ -36,8 +36,7 @@ _La sposa era molto felice_
 Tra 900 persone in una sala nella quale rimbombava tutto a suon di musica, con persone sedute, persone in cerchio tutt’attorno che si tenevano per i mignoli e accennavano passi di danza, c’era posto anche per i due italiani che sapevano solo dire **"supas", grazie, in curdo**, sfoggiando il loro miglior sorriso. 
 È stato bello immergersi in un momento di festa, senza prestar attenzione alla diversità del rito matrimoniale e mangiando quel piatto nazionale composto da riso, pollo, zuppa di legumi al pomodoro. Acqua e lattine di Coca Cola in tavola e poi di nuovo musica a tutto volume e passi di danza, strette di mano, saluti e inviti per l’indomani. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione16/iraq-matrimonio-festa_iunzwg.jpg">}} 
-_Pochi invitati_
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione16/iraq-matrimonio-festa_iunzwg.jpg" title="Pochi inviati">}} 
 
 ##### Stesso posto, diversa esperienza
 
