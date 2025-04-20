@@ -14,12 +14,18 @@
             <ul class="list-unstyled search me-3">
               {{ if site.Params.search }}
               <li class="list-inline-item">
-                <a href="#" class="toggle-search" aria-label="search" data-target="#search-wrap"><i class="fas fa-search"></i></a>
+                <a href="#" class="toggle-search" aria-label="Cerca nel sito" data-target="#search-wrap">
+                  <i class="fas fa-search"></i>
+                  <span class="sr-only">Cerca nel sito</span>
+                </a>
               </li>
               {{ end }}
               <li class="list-inline-item">
                 <a href="#" class="toggle-side-nav" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight"
-                  aria-controls="offcanvasRight"><i class="fas fa-bars"></i></a>
+                  aria-controls="offcanvasRight">
+                  <i class="fas fa-bars"></i>
+                  <span class="sr-only">Apri il menu di navigazione</span>
+                </a>
               </li>
             </ul>
           </div>
@@ -75,7 +81,10 @@
             {{ if site.Params.search }}
             <ul class="list-unstyled search d-none d-lg-block">
               <li class="list-inline-item">
-                <button class="toggle-search" aria-label="Ricerca" data-target="#search-wrap"><i class="fas fa-search"></i></button>
+                <button class="toggle-search" aria-label="Cerca nel sito" data-target="#search-wrap">
+                  <i class="fas fa-search"></i>
+                  <span class="sr-only">Cerca nel sito</span>
+                </button>
               </li>
             </ul>
             {{ end }}
@@ -86,9 +95,10 @@
         {{ if site.Params.search }}
         <div class="search-wrap" id="search-wrap">
           <form action="{{ `search/`| relLangURL }}" method="GET" class="search-bar d-flex align-items-center justify-content-center" id="search-form">
-            <input class="search-input w-100 border-0 h-100" id="search-query" name="s" type="search" placeholder="Cerca..." autocomplete="off"/>
-            <span class="close-search toggle-search" data-target="#search-wrap">
+            <input class="search-input w-100 border-0 h-100" id="search-query" name="s" type="search" placeholder="Cerca..." autocomplete="off" aria-label="Cerca nel sito"/>
+            <span class="close-search toggle-search" data-target="#search-wrap" aria-label="Chiudi la ricerca">
               <i class="fas fa-times"></i>
+              <span class="sr-only">Chiudi la ricerca</span>
             </span>
           </form>
         </div>
@@ -97,7 +107,10 @@
         <!-- mobile menu -->
         <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
           <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close" style="opacity: 1; outline: none; box-shadow: none;"><i class="fas fa-times"></i></button>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Chiudi il menu">
+              <i class="fas fa-times"></i>
+              <span class="sr-only">Chiudi il menu</span>
+            </button>
           </div>
           <div class="offcanvas-body">
             <ul class="navbar-nav my-4 my-lg-0 me-3 w-100">
