@@ -22,7 +22,9 @@
           <div class="slide-text">
             <p>{{ .description }}</p>
           </div>
-          <a href="{{ .link }}" {{ if .isExternal }}target="_blank" rel="noopener noreferrer"{{ end }} class="slide-link"></a>
+          <a href="{{ .link }}" {{ if .isExternal }}target="_blank" rel="noopener noreferrer"{{ end }} class="slide-link">
+            <span class="sr-only">Leggi la guida: {{ .title }}</span>
+          </a>
         </div>
       </div>
       {{ end }}

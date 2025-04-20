@@ -532,13 +532,6 @@ picture.rounded-4 {
     -webkit-user-select: none;
     user-select: none;
     touch-action: manipulation;
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    user-select: none;
-
-    &:hover {
-      color: white;
-    }
   }
 
   .leggi-anche-content {
@@ -892,4 +885,17 @@ picture.rounded-4 {
       transform: translateY(-5px);
     }
   }
+}
+
+/* Reset e stili base */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
