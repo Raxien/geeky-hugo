@@ -35,24 +35,32 @@
   </div>
 
   <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      // Funzione per caricare una singola immagine
-      function loadImage(img) {
-        if (img && img.dataset.src) {
-          const src = img.dataset.src;
-          img.src = src;
-          img.removeAttribute('data-src');
-          img.addEventListener('load', function() {
-            this.style.opacity = '1';
-          });
-        }
+    // Carica Swiper in modo differito
+    function loadSwiper() {
+      return new Promise((resolve, reject) => {
+        const script = document.createElement('script');
+        script.src = 'https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js';
+        script.async = true;
+        script.onload = resolve;
+        script.onerror = reject;
+        document.body.appendChild(script);
+      });
+    }
+
+    // Funzione per caricare una singola immagine
+    function loadImage(img) {
+      if (img && img.dataset.src) {
+        const src = img.dataset.src;
+        img.src = src;
+        img.removeAttribute('data-src');
+        img.addEventListener('load', function() {
+          this.style.opacity = '1';
+        });
       }
+    }
 
-      // Carica tutte le immagini
-      const images = document.querySelectorAll('.swiper-slide img[data-src]');
-      images.forEach(loadImage);
-
-      // Inizializzazione dello Swiper
+    // Inizializza lo slider quando necessario
+    function initSlider() {
       const guidesSwiper = new Swiper('.guides-slider', {
         slidesPerView: 1,
         spaceBetween: 20,
@@ -66,6 +74,29 @@
           clickable: true,
         }
       });
+    }
+
+    // Carica le immagini e inizializza lo slider
+    document.addEventListener('DOMContentLoaded', function() {
+      const images = document.querySelectorAll('.swiper-slide img[data-src]');
+      images.forEach(loadImage);
+
+      // Usa Intersection Observer per caricare Swiper solo quando necessario
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            loadSwiper().then(() => {
+              initSlider();
+            });
+            observer.disconnect();
+          }
+        });
+      });
+
+      const slider = document.querySelector('.guides-slider');
+      if (slider) {
+        observer.observe(slider);
+      }
     });
   </script>
 </div>
