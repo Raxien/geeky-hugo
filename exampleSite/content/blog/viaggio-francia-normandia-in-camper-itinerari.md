@@ -94,8 +94,6 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682805540/Articoli/francia/IMG_3844_ikkvde.jpg">}}
 
-
-
 ##### Strade 
 Tutte le strade percorse in Normandia sono in buono stato e regalano scorci davvero mozzafiato. 
 
@@ -104,16 +102,7 @@ In Francia è molto semplice trovare aree di servizio attrezzate e gratuite per 
 Per le soste in libera noi non abbiamo avuto problemi dato che ci siamo recati in un periodo di bassa stagione. L'unica limitazione è derivata dalle sbarre che negavano l'accesso a mezzi più alti di 1.90 mt in prossimità delle spiagge. 
 Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio. 
 
-<div id="Speso"></div>
-
-##### Quanto abbiamo speso
-Di seguito un'idea di quanto abbiamo speso nei 10 giorni in Normandia, tenendo però conto che questo viaggio rientra in un percorso molto più ampio, che ci ha visti percorrere tutta la costa atlantica del paese da nord a sud. 
-
-{{< tripExpanses "Spese" "2022-09-15T00:00:00Z" "2022-09-25T00:00:00Z">}}
-
-{{< card>}}
-
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682804701/Articoli/francia/IMG_3908_molbfa.jpg">}}
+{{< leggi-anche >}}
 
 ##### Viaggiare con il proprio animale
 {{< animali "EU">}}
@@ -128,6 +117,8 @@ In camper o auto, mete imperdibili:
 -   **{{< bold "le spiagge degli sbarchi">}}**: in questo viaggio non abbiamo replicato tutte le spiagge, ma se non le hai mai viste te le consigliamo tutte, in particolare Omaha Beach e il vicino Cimitero Monumentale. 
 -   **{{< bold "Granville">}}**: città vivace e piacevole da visitare, vi verrà davver voglia di cercare i numerosi gnometti sparsi ovunque.
 -   **{{< bold "Mont Saint Michel">}}**: per quanto ormai sia una meta a parer nostro troppo turistica, vale sicuramente una visita.
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682804701/Articoli/francia/IMG_3908_molbfa.jpg">}}
 
 ##### Il nostro Vlog
 Nel video qui sotto puoi rivedere il nostro Vlog in Normandia oppure trovi la serie completa sul paese {{<extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8">}}.

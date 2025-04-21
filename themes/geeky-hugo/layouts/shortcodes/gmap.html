@@ -8,14 +8,41 @@ Se vuoi sapere come scaricarle e usarle comodamente offline trovi tutto al segue
 {{ end }}
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe title="map" src="{{ .Get 0 }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" 
-  allowfullscreen="" title="Google Map"></iframe>         
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" 
+    data-src="{{ .Get 0 }}" 
+    loading="async" 
+    allowfullscreen 
+    title="Google Map"
+    loading=async
+  ></iframe>
 </div>
 
 {{ if (eq $blog "1") }}
 
 ⚠️ in merito agli spot segnati non assicuriamo che esistano ancora! Si prega di mantenere il sito pulito e rispettare le regole.
 
-Vandipety non si assume alcuna responsabilità derivante dall’utilizzo delle informazioni fornite nel presente.
+Vandipety non si assume alcuna responsabilità derivante dall'utilizzo delle informazioni fornite nel presente.
 
 {{ end }}
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const iframe = entry.target;
+        iframe.src = iframe.dataset.src;
+        observer.unobserve(iframe);
+      }
+    });
+  }, {
+    rootMargin: '50px 0px',
+    threshold: 0.1
+  });
+
+  document.querySelectorAll('iframe[data-src]').forEach(iframe => {
+    observer.observe(iframe);
+  });
+});
+</script>

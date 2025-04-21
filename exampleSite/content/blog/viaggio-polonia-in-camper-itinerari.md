@@ -16,7 +16,6 @@ In questo articolo ti porteremo con noi alla scoperta della Polonia, terra che c
 >   - [In breve](#in-breve)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
-> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
@@ -142,14 +141,7 @@ In alternativa si può richiedere nei campeggi di effettuare solo i servizi a pa
 
 Il campeggio libero in Polonia non è consentito, ma è permessa la sosta in auto. Motivo per cui noi non abbiamo mai avuto problemi a dormire in libera, nel pieno rispetto dell’abiente che ci circondava. 
 
-##### Quanto abbiamo speso
-In generale il costo della vita in Polonia è più basso rispetto a quello italiano, soprattutto a livello alimentare abbiamo potuto giovare di prezzi vantaggiosi sia per fare la spesa sia per assaggiare i piatti tipici. 
-
-{{< card>}}
-
-Di seguito un idea di quanto abbiamo speso nell'estate del 2022.
-
-{{< tripExpanses "Spese" "2022-07-03T00:00:00Z" "2022-07-29T00:00:00Z">}}
+{{< leggi-anche >}}}
 
 ##### Considerazioni e tappe imperdibili
 Sin dal primo momento abbiamo apprezzato la Polonia, motivo per cui ci sentiamo veramente di consigliarti di prendere in considerazione questo paese per le tue vacanze, in camper, auto o sfruttando le strutture e i mezzi pubblici. 

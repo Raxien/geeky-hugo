@@ -17,7 +17,6 @@ Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tapp
 >   - [In Breve](#in-breve)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
-> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale))
 > - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
 > - [Il nostro vlog](#il-nostro-vlog)
@@ -91,26 +90,17 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682805540/Articoli/francia/IMG_3844_ikkvde.jpg">}}
 
-
-
 ##### Strade 
 Come nel resto del paese non abbiamo trovato strade in condizioni pericolose. Tutte le zone in prossimità dei fari regalano scorci davvero mozzafiato.
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682806085/Articoli/francia/IMG_4801_mof0mc.jpg">}}
 
 ##### Servizi e soste
 In Francia è molto semplice trovare aree di servizio attrezzate e gratuite per carico e scarico.
 Per le soste in libera noi non abbiamo avuto problemi dato che ci siamo recati in un periodo di bassa stagione. L'unica attenzione che ti consigliamo è di prestare attenzione a luoghi in cui il vento potrebbe essere fastidioso o addirittura pericoloso. 
 Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio. >
 
-##### Quanto abbiamo speso
-Di seguito un'idea di quanto abbiamo speso nei 10 giorni in Bretagna, tenendo però conto che questo viaggio rientra in un percorso molto più ampio, che ci ha visti percorrere tutta la costa atlantica del paese da nord a sud. 
-
-{{< tripExpanses "Spese" "2022-09-25T00:00:00Z" "2022-10-05T00:00:00Z">}}
-
-{{< card>}}
-
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682806085/Articoli/francia/IMG_4801_mof0mc.jpg">}}
-
-
+{{< leggi-anche >}}
 
 ##### Considerazioni e tappe imperdibili
 Questa è stata la nostra prima esperienza in Bretagna e abbiamo davvero amato questa regione. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera magica e di altri tempi. 

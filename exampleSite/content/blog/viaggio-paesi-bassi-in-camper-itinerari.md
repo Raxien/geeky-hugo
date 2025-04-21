@@ -17,7 +17,6 @@ Abbiamo visitato e vissuto nei Paesi Bassi a bordo del nostro van, con cane e ga
 > - [Clima](#clima)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
-> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Mezzi di trasporto pubblici](#mezzi-di-trasporto-pubblici)
 > - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
 > - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
@@ -144,16 +143,7 @@ In prossimità dell'isola di Texel non siamo riusciti a sostare in libera di not
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683208316/IMG_9378_susgux.jpg">}}
 
-<div id="Speso"></div>
-
-##### Quanto abbiamo speso
-Di seguito un'idea di quanto abbiamo speso per rimanere un mese nei Paesi Bassi, tenendo però conto che questo viaggio rientra in un percorso molto più ampio e che siamo rimasti fermi più giorni per trovare un amico. 
-In tutto il paese si riesce a pagare comodamente con la carta di credito e/o debito, anche per cifre minime. 
-{{< tripExpanses "Spese" "2022-08-08T00:00:00Z" "2022-09-06T00:00:00Z">}}
-
-{{< card>}}
-
-<div id="Mezzi"></div>
+{{< leggi-anche >}}
 
 ##### Mezzi di trasporto pubblici 
 I mezzi di trasporto pubblici sono davvero efficienti in tutto il paese. Bus, treni, tram, traghetti, biciclette: noi non abbiamo mai avuto problemi né con i pagamenti né con gli orari. 

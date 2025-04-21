@@ -99,11 +99,6 @@ In Spagna del Nord è semplice trovare aree di servizio attrezzate e gratuite pe
 Per le soste in libera noi non abbiamo avuto problemi dato che ci siamo recati in un periodo di bassa stagione. 
 Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio, soprattutto nelle zone affacciate sulla costa. 
 
-##### Quanto abbiamo speso
-Di seguito un'idea di quanto abbiamo speso nei 15 giorni in Spagna del Nord, tenendo conto che arrivavamo dalla Francia e abbiamo proseguito verso il Portogallo. 
-
-{{< tripExpanses "Spese" "2022-10-29T00:00:00Z" "2022-11-13T00:00:00Z">}}
-
 {{< card>}}
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683223905/IMG_8866_dea0c1.jpg">}}

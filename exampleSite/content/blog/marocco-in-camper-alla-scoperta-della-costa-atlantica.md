@@ -21,7 +21,6 @@ A fine gennaio 2023 abbiamo quindi comprato i biglietti per il traghetto da Alge
 >   - [In breve](#in-breve)
 > - [Finte Guardie](#finte-guardie)
 >   - [Come comportarsi?](#come-comportarsi)
-> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Considerazioni](#considerazioni)
 >   - [Tappe imperdibili](#tappe-imperdibili)
 > - [Il nostro vlog](#il-nostro-vlog)
@@ -208,14 +207,6 @@ _Si è presentato come guardiano del parcheggio ma siamo stati presi a pallonate
 Non tutti i parcheggi sono così. Qualche volta ci è capitato di vedere dei veri parcheggi custoditi con esposti i prezzi. Ad esempio a Cabo Negro non sapevamo dove dormire è abbiamo sostato in uno spot trovato su Park4Night con vista mare, segnato come custodito ed infatti così è stato! La guardia è stata seduta tutta la notte sulla sua sedia a controllare noi è altri tre camper! 
 
 Abbiamo pagato anche nel palmeto a Tafrout, posto incantevole, con guardiani che per 15dh passavano la notte con le torce a controllare l'area.
-
-##### Quanto abbiamo speso
-
-Di seguito elenchiamo tutte le spese sostenute dal momento in cui siamo entrati in Marrocco a Tangeri fino al border con la Mauritania, **quindi di sola andata**. Il viaggio di ritorno è stato fatto passando attraverso [l'interno del Marocco](/blog/marocco-in-camper-dalla-costa-al-deserto-a-marrakech) e poi lungo [la costa del Mediterraneo](/blog/marocco-in-camper-alla-scoperta-della-costa-mediterranea). 
-
-Il costo del traghetto (voce "Trasporti - Altro") è da intendersi di sola andata dalla Spagna al Marocco mentre quello di rientro lo puoi trovare [nell'articolo finale della nostra avventura](/blog/marocco-in-camper-alla-scoperta-della-costa-mediterranea). 
-
-{{< tripExpanses "Spese" "2023-01-27T00:00:00Z" "2023-02-19T00:00:00Z">}}
 
 ##### Considerazioni
 

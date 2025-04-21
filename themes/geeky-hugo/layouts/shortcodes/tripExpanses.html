@@ -11,9 +11,6 @@
   </h6>
 </blockquote>
 <!--=================== expanses script start ===================-->
-<script src="https://cdn.jsdelivr.net/npm/chart.js@3.8.0/dist/chart.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
-<link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/moment.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/locale/it.js"></script>
 <script>
@@ -21,7 +18,7 @@
   
   let getSW = function () {
     fetch(rpcUrl + "/sw/get", {
-      method: 'GET',
+      method: 'POST',
       headers: {
         'Content-Type': 'application/json'
       },
@@ -30,7 +27,12 @@
         datedBefore: "{{ $end }}"
       })
     })
-    .then(response => response.json())
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    })
     .then(data => {
       let travelingSumCost = 0, i = 0;
 
@@ -53,7 +55,8 @@
       setList(data);
     })
     .catch(error => {
-      console.log('Error: ' + error.message);
+      console.error('Errore nella richiesta:', error);
+      document.getElementById('listExpanses').innerHTML = '<p style="color: red;">Errore nel caricamento dei dati. Si prega di riprovare più tardi.</p>';
     });
   }
 

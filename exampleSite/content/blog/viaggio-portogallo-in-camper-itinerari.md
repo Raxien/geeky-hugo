@@ -22,7 +22,6 @@ Abbiamo deciso di suddividere gli itinerari in 4 regioni: il nord e Porto, il ce
 >    - [Il nord e porto]()
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
-> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
 > - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
 > - [Il nostro vlog](#Vlog)
@@ -106,12 +105,7 @@ In alternativa si può richiedere nei campeggi di effettuare solo i servizi a pa
 
 Dal 2021 la sosta libera è severamente vietata. Durante l'autunno e l'inverno viene "tollerata" in alcune zona. Vige sempre il divieto di campeggiare: la polizia ti multerà anche con solo una sedia fuori!
 
-##### Quanto abbiamo speso
-Per motivi personali e lavorativi siamo rimasti in Portogallo un mese e mezzo. Ti riportiamo la cifra spesa per aiutarti a capire il costo della vita in questo paese, anche se tieni sempre presente che è un dato altamente indicativo. 
-
-{{< tripExpanses "Spese" "2022-11-14T00:00:00Z" "2022-12-28T00:00:00Z">}}
-
-{{< card>}}
+{{< leggi-anche >}}
 
 ##### Viaggiare con il proprio animale
 {{< animali "EU">}}

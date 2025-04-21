@@ -16,7 +16,6 @@ Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati s
 >   - [In breve](#in-breve)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
-> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
 > - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale))
 > - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
 > - [Il nostro vlog](#il-nostro-vlog)
@@ -87,12 +86,7 @@ In Francia è molto semplice trovare aree di servizio attrezzate e gratuite per 
 Per le soste in libera noi non abbiamo avuto problemi dato che ci siamo recati in un periodo di bassa stagione. 
 Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio. 
 
-##### Quanto abbiamo speso
-Di seguito un'idea di quanto abbiamo speso nei 16 giorni in Nuova Aquitania, tenendo però conto che questo viaggio rientra in un percorso molto più ampio, che ci ha visti percorrere tutta la costa atlantica del paese da nord a sud. 
-
-{{< tripExpanses "Spese" "2022-10-14T00:00:00Z" "2022-10-28T00:00:00Z">}}
-
-{{< card>}}
+{{< leggi-anche >}}
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682862708/Articoli/francia/IMG_7194_rumhcv.jpg">}}
 

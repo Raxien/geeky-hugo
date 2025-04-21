@@ -127,15 +127,6 @@ La sosta in libera non è tollerata su tutto il suolo austriaco.
 Per quanto riguarda i servizi, a noi è successo in alcune occasioni che ci venissero negati nei campeggi senza la sosta (nonostante fossimo disposti a pagare per utilizzarli).
 Si trovano comunque aree gratuite a disposizione.
 
-##### Quanto abbiamo speso
-Di seguito un'idea di quanto abbiamo speso in 3 settimane in Austria.
-
-{{< tripExpanses "Spese" "2022-06-06T00:00:00Z" "2022-06-29T00:00:00Z">}}
-
-{{< card>}}
-
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1684674600/IMG_4670_xkdshk.jpg">}}
-
 ##### Viaggiare con il proprio animale
 {{< animali "EU">}}
 
