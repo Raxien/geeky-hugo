@@ -1030,3 +1030,17 @@ th {
     }
   }
 }
+
+/* Stili per input su Safari mobile */
+.search-input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: transparent;
+  border-radius: 0;
+  
+  &:focus {
+    outline: none;
+    box-shadow: none;
+  }
+}
