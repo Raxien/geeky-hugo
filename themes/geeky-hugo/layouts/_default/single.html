@@ -226,18 +226,5 @@
 </section>
 {{ end }}
 <!-- /regular page -->
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    setInterval(function() {
-        document.querySelectorAll('iframe').forEach(function(iframe) {
-            let src = iframe.getAttribute('src');
-            if (src && src.match(/(ads-iframe)|(disqusads)/gi)) {
-                iframe.remove();
-            }
-        });
-    }, 300);
-});
-</script>
-
+ 
 {{ end }}

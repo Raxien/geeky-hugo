@@ -4,12 +4,8 @@
 {{- $rawContentSections := split .RawContent $sectionDelimiter -}}
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js@3.8.0/dist/chart.min.js"></script>
-
 <script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/moment.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/locale/it.js"></script>
 
 <!--=================== expanses section start ===================-->
 <section class="section">
@@ -70,14 +66,6 @@
               <h4 class="h5 mb-2">Costo giornaliero*</h4>
               <h3 id="dailyCost" class="mb-5 h5 "></h3>
             </div>
-            <!-- <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Con Assicurazione e Bollo</h4>
-              <h3 id="dailyVanCost" class="mb-5 h5 "></h3>
-            </div> -->
-            <!-- <div class="col-md-3 mb-3">
-              <h4 class="h5 mb-2">Spesa</h4>
-              <h3 id="travelingSumCost" class="mb-5 h5 "></h3>
-            </div> -->
           </div>
           <div class="row" id="yearlyCost">
             <!-- Il contenuto verrà generato dinamicamente via JavaScript -->
@@ -124,20 +112,6 @@
       </div>
     </div>
 
-    <!-- <br>
-    <br>
-    
-    <div class="row">
-      <div class="col-md-12">
-         <div class="border rounded p-4">
-           <h2 class="mb-5 h4 title-border">Giornaliero</h2>
-           <ul class="list-styled" style="columns:2">
-             <canvas id="daily" width="400" height="200"></canvas>
-           </ul>
-         </div>
-      </div>
-    </div> -->
-
     <br>
     <br>
     
@@ -160,232 +134,5 @@
   </div>
 </section>
 <!--=================== expanses section end ===================-->
-
-<!--=================== expanses script start ===================-->
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-      setInterval(function() {
-          document.querySelectorAll('iframe').forEach(function(iframe) {
-              let src = iframe.getAttribute('src');
-              if (src && src.match(/(ads-iframe)|(disqusads)/gi)) {
-                  iframe.remove();
-              }
-          });
-      }, 300);
-  });
-  //let rpcUrl = "http://localhost:3000";
-  //const rpcUrl = "https://vandipety-api.herokuapp.com";
-  const rpcUrl = "https://vandipetyapi.onrender.com"
-  
-  let tripData  = null;
-  let costperDay = null;
-  const color = [ 'rgba(255, 99, 132, 1)',
-                    'rgba(54, 162, 235, 1)',
-                    'rgba(255, 206, 86, 1)',
-                    'rgba(229, 122, 250, 1)',
-                    'rgba(32, 102, 255, 1)',
-                    'rgba(255, 159, 64, 1)',
-                    'rgba(153, 102, 255, 1)',
-                    'rgba(102, 178, 255, 1)',
-                    'rgba(153, 153, 255, 1)',
-                    'rgba(204, 255, 204, 1)',
-                    'rgba(255, 153, 153, 1)'
-  ]
-
-  async function fecthExpenseData() {
-    try {
-      const response = await fetch(`${rpcUrl}/sw/getSpeseAnno`);
-      const data = await response.json();
-      processExpenseData(data.json);
-      return data;
-    } catch (error) {
-      console.error('Error fetching SW data:', error);
-    }
-  }
-
-  async function fecthChartCategoryData() {
-    try {
-      const response = await fetch(`${rpcUrl}/sw/getSpesePerCategoria`);
-      const data = await response.json();
-      setChartCategory(data);
-      return data;
-    } catch (error) {
-      console.error('Error fetching SW data:', error);
-    }
-  }
-
-  async function fecthChartMonthlyData() {
-    try {
-      const response = await fetch(`${rpcUrl}/sw/getSpesePerMese`);
-      const data = await response.json();
-      setChartMonthly(data);
-      return data;
-    } catch (error) {
-      console.error('Error fetching SW data:', error);
-    }
-  }
-
-  async function fecthGridData() {
-    try {
-      const response = await fetch(`${rpcUrl}/sw/getSpese`);
-      const data = await response.json();
-
-      console.log(data);
-
-      setGrid(data);
-      return data;
-    } catch (error) {
-      console.error('Error fetching SW data:', error);
-    }
-  }
-
-  // Helper functions to process data
-  function processExpenseData(data) {
-    updateUIElements({
-      totalCost: data.totalCost,
-      totalCostWithoutFerry: data.totalCostWithoutFerry,
-      ferryCosts: data.ferryCosts,
-      yearlyTotals: data.yearlyTotals,
-      dailyCost: data.dailyCost,
-      dailyCostWithoutFerry: data.dailyCostWithoutFerry,
-      diffDays: data.tripDay,
-    });
-  }
-
-  function updateUIElements({ totalCost, totalCostWithoutFerry, ferryCosts, yearlyTotals, dailyCost, dailyCostWithoutFerry, diffDays }) {
-    // Update total cost - disattivato per ora per evitare di fare i conti con i traghetti
-    // da attivare in futuro dopo un anno
-    // document.getElementById('travelingSumCost').innerText = `${totalCost.toFixed(2)} €`;
-    
-    document.getElementById('travelingSumCost').innerText = `${totalCostWithoutFerry.toFixed(2)} €`;
-
-    // Update daily cost
-    document.getElementById('dailyCost').innerText = `${dailyCostWithoutFerry.toFixed(2)} €`;
-    
-    // Update ferry costs
-    document.getElementById('travelingSumCostFerry1').innerText = ferryCosts.ferry1.toFixed(2);
-    document.getElementById('travelingSumCostFerry2').innerText = ferryCosts.ferry2.toFixed(2);
-    
-    // Calculate and update daily cost including ferries
-    document.getElementById('dailyCostFerry').innerText = `${dailyCost.toFixed(2)} € al giorno`;
-    
-    // yearly cost
-    document.getElementById('yearlyCostFerry').innerText = `${totalCost.toFixed(2)} €`;
-    
-
-    // Genera dinamicamente gli elementi per gli anni
-    const yearlyContainer = document.getElementById('yearlyCost');
-    yearlyContainer.innerHTML = ''; // Pulisce il contenuto esistente
-    
-    Object.entries(yearlyTotals).forEach(([year, amount]) => {
-      const yearDiv = document.createElement('div');
-      yearDiv.className = 'col-md-3 mb-3';
-      yearDiv.innerHTML = `
-        <h4 class="h5 mb-2">${year}</h4>
-        <h3 class="mb-5 h5">${amount.toFixed(2)} €</h3>
-      `;
-      yearlyContainer.appendChild(yearDiv);
-    });
-
-    document.getElementById('travelingDay').innerText = diffDays;
-  }
-
-  let setChartCategory = function(data){  
-    // load chart spese
-    const ctx = document.getElementById('catergory').getContext('2d');
-
-    const _labels = Object.keys(data.json);
-    const _data = Object.values(data.json);
-
-    const myChart = new Chart(ctx, {
-        type: 'doughnut',
-        data: {
-            labels: _labels, //['Cibo', 'Benzina', 'Manutenzione', 'Servizi', 'Varie', 'Animali'],
-            datasets: [{
-                label: 'Euro',
-                data: _data, 
-                backgroundColor: color,
-                borderColor: color,
-                borderWidth: 1
-            }]
-        }
-    }); 
-  }
-
-  let setChartMonthly = function(data){  
-    const ctx2 = document.getElementById('monthly').getContext('2d');
-
-    const obj2 = new Object();
-
-    const _labels2 = Object.keys(data.json);
-    const _data2 = Object.values(data.json);
-
-    i = 0;
-    while(i < _labels2.length){
-      if(document.getElementById('total' + _labels2[i]) != null)
-        document.getElementById('total' + _labels2[i]).innerText = obj2[_labels2[i]];
-       
-      i++;
-    }
-
-    const myChart2 = new Chart(ctx2, {
-        type: 'bar',
-        options: {
-        plugins: {
-          legend: {
-              display: false
-            }
-          }
-        },
-        data: {
-            labels: _labels2.reverse(), //['Cibo', 'Benzina', 'Manutenzione', 'Servizi', 'Varie', 'Animali'],
-            datasets: [{
-                label: 'Euro',
-                data: _data2.reverse(), 
-                backgroundColor: color,
-                borderColor: color,
-                borderWidth: 1
-            }]
-        }
-    }); 
-
-  }
-
-  // griglia
-  let setGrid = function(data) {
-    var result = [];
-
-    i = 0;
-    while(i < data.json.length){
-      let res = data.json[i];
-      let cost = parseFloat(res.cost);
-        
-      cost = Math.round((cost + Number.EPSILON) * 100) / 100;
-      result.push([res.category.name, res.description, cost, new Date(res.date).toLocaleString()]);
-      
-      i++;
-    }
-
-    new gridjs.Grid({columns: ["Categoria", "Descrizione", "Spesa", "Data"],
-                     data: result,
-                     sort: true,
-                     pagination: {
-                      limit: 20
-                    },
-                    // language : it_IT
-                    }).render(document.getElementById("tblSpese"));
-
-  }
-
-  // Initialize on document ready using modern syntax
-  document.addEventListener('DOMContentLoaded', async () => {
-    
-    await fecthExpenseData();
-    await fecthChartMonthlyData();
-    await fecthChartCategoryData();
-    await fecthGridData();
-  });
-</script>
-<!--=================== expanses script end ===================-->
 {{ end }}
 

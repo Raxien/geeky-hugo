@@ -3,7 +3,7 @@ title: 'Danimarca in camper: il nostro itinerario'
 description: "Alla scoperta della Danimarca in camper, un viaggio on the road tra fari, casette colorate e mattoncini Lego"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1688671509/Articoli/Danimarca/danimarca-faro_glgvqv.jpg
 date: 2023-07-02T17:00:00.000
-categories: ["Europa", "Guida", "Itinerari", "Camper"]
+categories: ["Viaggio in Danimarca", "Itinerari", "Camper"]
 country: Danimarca
 type: featured
 draft: false 

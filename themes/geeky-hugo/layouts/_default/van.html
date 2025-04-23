@@ -101,7 +101,6 @@
 
     <br>
 
-
     <br>
     <!-- disqus comments -->
     {{ with .Site.Params.disqusShortname }}
@@ -110,67 +109,6 @@
     </div>
     {{ end }}
   </div>
-
 </section>
 <!--=================== expanses section end ===================-->
-
-<!--=================== expanses script start ===================-->
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-      setInterval(function() {
-          document.querySelectorAll('iframe').forEach(function(iframe) {
-              let src = iframe.getAttribute('src');
-              if (src && src.match(/(ads-iframe)|(disqusads)/gi)) {
-                  iframe.remove();
-              }
-          });
-      }, 300);
-  });
-  
-  const rpcUrl = "https://vandipetyapi.onrender.com"
-
-  const getTripData = async () => {
-    console.log('getting data');
-    try {
-      const response = await fetch(`${rpcUrl}/data/trip`);
-      const data = await response.json();
-      const res = data.json;
-      console.log(res);
-      setVanCost(res.costVan, res.costAccessory);
-      setKmData(res.actualKm);
-      setInsuranceData(res.assicurazione, res.bollo);
-    } catch (error) {
-      console.log('Error:', error.message);
-    }
-  };
-
-  const setInsuranceData = (assicuazione, bollo) => {
-    document.getElementById('assicuazione').innerText = `${assicuazione} €`;
-    document.getElementById('bollo').innerText = `${bollo} €`;
-  };
-
-  const setKmData = (actualKm) => {
-    document.getElementById('travelingKm').innerText = actualKm;
-  };
-
-  const setVanCost = (initialCost, accessoryCost) => {
-    const totalAccessoryCost = Object.values(accessoryCost).reduce((sum, cost) => sum + cost, 0);
-
-    document.getElementById('initialCost').innerText = `${initialCost} €`;
-    document.getElementById('accessoryCost').innerText = `${totalAccessoryCost} €`;
-    document.getElementById('totalVanCost').innerText = `${initialCost + totalAccessoryCost} €`;
-
-    const accessoryData = Object.entries(accessoryCost);
-
-    new gridjs.Grid({
-      columns: ["Accessorio", "Costo"],
-      data: accessoryData,
-      sort: true,
-      pagination: { limit: 20 }
-    }).render(document.getElementById("tblAccessory"));
-  };
-
-  document.addEventListener('DOMContentLoaded', getTripData);
-</script>
-<!--=================== expanses script end ===================-->
 {{ end }}

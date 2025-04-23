@@ -43,7 +43,7 @@ Se vuoi sapere quanti giga hai a disposizione puoi farlo accedendo all'area pers
 <div style="color: #222; line-height: 32px; margin-bottom: 15px; position: relative; background-color: #f2f2f2; border-radius: 5px; padding: 30px 105px; margin: 3em 0;">
 {{< citazione "Calcola i tuoi giga in roaming in Europa">}}
 
-Tariffa mensile: <input id="tariffa" type="number" /> € = GB in Roaming: <span id="result"></span> 
+Tariffa mensile: <input id="tariffa" type="number" pattern="[0-9]*" inputmode="numeric" autocomplete="off" /> € = GB in Roaming: <span id="result"></span> 
 
 <p id="formula"></p>
 </div>

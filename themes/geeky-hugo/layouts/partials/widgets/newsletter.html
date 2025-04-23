@@ -57,13 +57,3 @@
   <!-- {{ end }} -->
   <p class="text-light-900 small content" style="margin-bottom: 5px;">Iscrivendoti accetti le <a href="{{`privacy-policy`| relLangURL}}" class="text-light-900"><strong>Privacy Policy</strong></a></p>
 </div>
-
-<script>
-function handleSubscribe(event) {
-  event.preventDefault();
-  const email = document.getElementById('newsletterEmail').value;
-  const encodedEmail = encodeURIComponent(email);
-  window.open(`https://vandipety.substack.com/subscribe?just_signed_up=true&skip_redirect_check=true&utm_medium=web&utm_source=embed&freeSignupEmail=${encodedEmail}`, '_blank');
-}
-</script>
-

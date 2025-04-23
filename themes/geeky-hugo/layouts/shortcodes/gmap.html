@@ -25,24 +25,3 @@ Se vuoi sapere come scaricarle e usarle comodamente offline trovi tutto al segue
 Vandipety non si assume alcuna responsabilità derivante dall'utilizzo delle informazioni fornite nel presente.
 
 {{ end }}
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const observer = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        const iframe = entry.target;
-        iframe.src = iframe.dataset.src;
-        observer.unobserve(iframe);
-      }
-    });
-  }, {
-    rootMargin: '50px 0px',
-    threshold: 0.1
-  });
-
-  document.querySelectorAll('iframe[data-src]').forEach(iframe => {
-    observer.observe(iframe);
-  });
-});
-</script>
