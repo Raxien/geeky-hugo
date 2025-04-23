@@ -54,4 +54,4 @@ La DMZ non è solo un luogo di divisione, ma anche di speranza e memoria. Ogni m
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1727247897/Articoli/Corea/DMZ/dmz-la-corea-del-nord_jpnwnm.jpg" title="Osservare da lontano la Corea del Nord è molto emozionante." >}}
 
-{{< blogFooter "" "1" "0">}}
+ 

@@ -62,4 +62,4 @@ Se non usi tutto il credito, puoi richiedere un rimborso (fino a 20.000 won) agl
 
 Con la T-Money in tasca, esplorare Seoul diventa un’esperienza fluida e senza stress. Che tu stia correndo [verso un tempio storico o un caffè trendy](/blog/seoul-cosa-vedere-4-giorni-itinerario-completo), la metro e la tua carta ricaricabile saranno i tuoi migliori alleati.
 
-{{< blogFooter "" "1" "0">}}
+ 

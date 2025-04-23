@@ -116,4 +116,4 @@ Tutte le strade percorse in Ariege si sono rivelate in ottimo stato e ci hanno r
 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1RacDl0khou0o5AYMahZrO__wfxauyNU&ehbc=2E312F">}}
 
-{{< blogFooter "FR_A" "1" "0">}}
+ 

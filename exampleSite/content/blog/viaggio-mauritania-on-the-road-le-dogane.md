@@ -186,5 +186,3 @@ Se volete vedere il nostro vlog lo trovi di seguito:
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=18_x_kSmOimidCpZAW0h6sRxD1sJaadQ&ehbc=2E312F" "1">}}
-
-{{< blogFooter "MA" "1" "0">}}

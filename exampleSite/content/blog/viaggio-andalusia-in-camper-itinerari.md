@@ -190,4 +190,3 @@ Se vuoi rivivere le nostre avventure trovi la **{{<extLink "playlist completa qu
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1kz951GpR8BYLTn6uPkMPKXJMDZXCWXU&ehbc=2E312F">}}
 
-{{< blogFooter "SP_a" "1" "0">}}

@@ -127,5 +127,3 @@ Nel video qui sotto puoi rivedere la nostra meraviglia di fronte ai fari oppure 
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1Qe2J5JEntbQu5hEZpfvyuq6Z-gGc4S0&ehbc=2E312F" "1">}}
-
-{{< blogFooter "FR_B" "1" "0">}}

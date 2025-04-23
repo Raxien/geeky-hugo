@@ -85,5 +85,3 @@ Ricordati di avere con te guinzaglio e museruola e tutto l'occorente per far sì
 
 Qui trovi ????? -->
 {{< youtube2 tlzeuxt-6yY>}}
-
-{{< blogFooter "PET" "1" "0">}}

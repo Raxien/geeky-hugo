@@ -27,4 +27,4 @@ Per gustare un bibimbap autentico e senza fronzoli, esplorate i **mercati rional
 #### Perché Visitare Jeonju?
 Jeonju è molto più di una destinazione turistica: è un luogo dove la cultura coreana prende vita. Il Villaggio Hanok offre un’immersione nella storia e nell’artigianato, mentre la gastronomia locale, con il bibimbap in testa, soddisfa i palati più esigenti. Che siate appassionati di cibo, storia o semplicemente curiosi di scoprire la Corea autentica, **Jeonju vi accoglierà con il suo fascino senza tempo.**
 
-{{< blogFooter "" "1" "0">}}
+ 

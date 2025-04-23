@@ -76,5 +76,3 @@ I pochi giorni trascorsi in Slovacchia ci hanno fatto apprezzare tantissime cose
 
 <!-- ##### Le nostre mappe -->
 <!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=11GfW4gwkFqTBJcnrv5FV-ak3qVS4jws&ehbc=2E312F">}} -->
-
-{{< blogFooter "SLV" "1" "0">}}

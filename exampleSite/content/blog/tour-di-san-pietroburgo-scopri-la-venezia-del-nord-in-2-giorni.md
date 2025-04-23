@@ -93,4 +93,4 @@ Situata a 200 km da San Pietroburgo, è la più antica città russa e l’unico 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1727247897/Articoli/Russia/San%20Pietroburgo/velikij-novgorod_rrzslp.jpg">}}
 
-{{< blogFooter "" "1" "0">}}
+ 

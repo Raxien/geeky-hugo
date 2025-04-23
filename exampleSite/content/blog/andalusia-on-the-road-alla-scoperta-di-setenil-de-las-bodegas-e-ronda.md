@@ -61,4 +61,3 @@ Scoprilo con la comoda mappa qui sotto:
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094671/Articoli/setenil%20e%20cordoba/IMG_2883_zrsfg4.jpg">}}
 
-{{< blogFooter "SP_a" "1" "0">}}

@@ -58,5 +58,3 @@ Il costo della vita sicuramente **è più alto che altrove**, abbiamo potuto not
 Il clima subisce le correnti atlantiche, a inizio settembre abbiamo trovato sia bel tempo sia acquazzoni e umidità elevata nell'arco di 5 giorni. 
 
 {{< youtube2 PT95-7itNX4>}}
-
-{{< blogFooter "B" "1" "0">}}

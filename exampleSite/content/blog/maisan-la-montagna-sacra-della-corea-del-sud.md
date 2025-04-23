@@ -46,4 +46,4 @@ Tutti i templi sono raggiungibili in meno di 1 ora dal parcheggio pubblico gratu
 ##### Perché Visitare Maisan?
 Maisan non è solo una meta per escursionisti, **ma un’esperienza che unisce natura, spiritualità e cultura.** Che tu sia attratto dai sentieri panoramici, dai templi storici o dalle leggende che avvolgono la montagna, questo luogo offre qualcosa di unico in ogni stagione. Porta con te scarpe comode, una mente aperta e preparati a scoprire uno dei tesori più affascinanti della Corea del Sud.
 
-{{< blogFooter "" "1" "0">}}
+ 

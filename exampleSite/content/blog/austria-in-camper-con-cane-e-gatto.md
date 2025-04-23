@@ -146,4 +146,4 @@ Torneremmo e torneremo in ogni caso perché si tratta di un paese pulito, ordina
 <!-- ##### Le nostre mappe -->
 <!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=11GfW4gwkFqTBJcnrv5FV-ak3qVS4jws&ehbc=2E312F">}} -->
 
-{{< blogFooter "A" "1" "0">}}
+ 

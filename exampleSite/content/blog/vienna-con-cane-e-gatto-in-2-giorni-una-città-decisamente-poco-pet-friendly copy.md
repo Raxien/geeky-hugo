@@ -38,4 +38,4 @@ Nel video qui sotto puoi camminare per le vie di Vienna insieme a noi oppure tro
 
 {{< youtube2 pzq2f08SCYo>}}
 
-{{< blogFooter "A" "1" "0">}}
+ 

@@ -166,4 +166,4 @@ Nel video qui sotto puoi rivedere il nostro ingresso in Polonia oppure trovi la 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=14RYfqDoFR3i5zzqunEXiLMo-wXOZGrU&ehbc=2E312F">}}
 
-{{< blogFooter "PL" "1" "0">}}
+ 

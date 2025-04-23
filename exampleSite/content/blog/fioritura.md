@@ -53,4 +53,4 @@ Conclusione
 La fioritura dei ciliegi in Corea del Sud è un segreto che merita di essere scoperto. Non ha nulla da invidiare all’hanami giapponese, con luoghi come Gyeongju, dove i templi si mescolano ai petali, o Jeju, con i suoi King Cherry Blossoms. Da Gimhae a Boseong, fino a Jeonju, ogni destinazione offre un’esperienza unica. Pianifica il tuo viaggio, segui le date di fioritura e preparati a innamorarti di questo spettacolo primaverile coreano.
 
 
-{{< blogFooter "" "1" "0">}}
+ 

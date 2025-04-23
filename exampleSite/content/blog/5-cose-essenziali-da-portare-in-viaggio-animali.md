@@ -29,4 +29,4 @@ Ti lasciamo il {{<extLink "link al reel" "https://www.instagram.com/reel/CfoKWj7
 
 Hai qualche consiglio da darci?   
 
-{{< blogFooter "" "1" "0">}}
+ 

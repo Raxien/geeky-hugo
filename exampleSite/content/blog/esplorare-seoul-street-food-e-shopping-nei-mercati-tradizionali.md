@@ -38,4 +38,4 @@ Tuttavia, **i prezzi qui sono più alti rispetto ad altri mercati, riflettendo l
 
 [Seoul è una città che vive nei suoi mercati,](/blog/seoul-cosa-vedere-4-giorni-itinerario-completo) dove ogni angolo racconta una storia di tradizione, innovazione e sapori indimenticabili. Prepara le papille gustative e la carta di credito: Gwangjang, Namdaemun e Myeongdong ti aspettano per un’avventura unica!
 
-{{< blogFooter "" "1" "0">}}
+ 

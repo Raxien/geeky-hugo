@@ -130,6 +130,4 @@ Gli animali non hanno pagato alcuna sovrattassa.
 L’agenzia alla quale ci siamo rivolti è quella di {{<extLink "Viajes Normandie" "https://www.viajesnormandie.net/">}} a Palmones y Los Barrios. Sono molto gentili e i più economici e ti regalano una bottiglia di vino e un pacco di biscotti!
 Come servizio aggiuntivo ti permettono di lasciare in deposito il drone gratuitamente! 
 
-{{< blogFooter "MAR">}}
-
 <!-- Per tutte le altre informazioni relative al nostro itinerario completo in Marocco trovi tutto nei due articoli dedicati  -->

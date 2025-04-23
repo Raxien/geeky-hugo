@@ -132,5 +132,3 @@ In serata passeggiata presso il **{{< bold "Golden Gai">}}**.
 
 **{{< underline "Giorno 14">}}** ultimo giorno dedicato a vedere di nuovo il parco di Ueno e il Yanaka Ginza per poi andare verso il quartiere della terza età di Sugamo e del giardino Rikugien. 
 Nel caso invece il vostro viaggio preveda una ripartenza da Osaka potete dedicare l'ultimo giorno a questa città. 
-
-{{< blogFooter "JAP" "1" "0">}}

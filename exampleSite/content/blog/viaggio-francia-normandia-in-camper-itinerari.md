@@ -127,5 +127,3 @@ Nel video qui sotto puoi rivedere il nostro Vlog in Normandia oppure trovi la se
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1k7WeDnRorbC4wtUu2AybAgNgaNgSjNo&ehbc=2E312F" "1">}}
-
-{{< blogFooter "FR_N" "1" "0">}}

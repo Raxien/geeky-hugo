@@ -155,4 +155,4 @@ Se vuoi vedere i nostri vlog sulla Polonia ti lasciamo di seguito le nostre avve
 <!-- ##### Le nostre mappe -->
 <!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F">}} -->
 
-{{< blogFooter "PL" "1" "0">}}
+ 

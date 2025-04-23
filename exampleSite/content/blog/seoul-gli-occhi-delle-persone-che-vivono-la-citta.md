@@ -19,4 +19,4 @@ Ecco una serie di scatti per scoprire questa Seoul autentica, dove ogni immagine
 
 {{< carousel images="Articoli/Corea/Seoul/seoul-hannok-village_we9bnm.jpg,Articoli/Corea/Seoul/seoul-street-food-bbq_kdcs9p.jpg,Articoli/Corea/Seoul/metro-seoul_pj3gpp.jpg,Articoli/Corea/Seoul/monaco-chitarra-seoul_fjaaut.jpg,Articoli/Corea/Seoul/tempio-Suguksa-prega_ilyz36.jpg,Articoli/Corea/Seoul/mural-village-persone-sedute_rpi6cl.jpg,Articoli/Corea/Seoul/street-food-seoul_uqmwhq.jpg,Articoli/Corea/Seoul/villagio-antico-persone-in-costume_qtlrxg.jpg,Articoli/Corea/Seoul/seoul-persone_kdvhtu.jpg,Articoli/Corea/Seoul/seoul-strade-carretto_i29h8e.jpg" >}}
 
-{{< blogFooter "" "1" "0">}}
+ 

@@ -53,4 +53,4 @@ Pagare in Corea del Sud è generalmente semplice, grazie alla diffusione di cart
 
 Con queste applicazioni, [il tuo viaggio in Corea del Sud](/blog/seoul-cosa-vedere-4-giorni-itinerario-completo) sarà non solo più semplice, ma anche più semplice. Scaricale, preparati e immergiti nella magia di questo paese straordinario!
 
-{{< blogFooter "" "1" "0">}}
+ 

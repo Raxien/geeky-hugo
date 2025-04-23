@@ -87,4 +87,3 @@ Se vuoi vivere le nostre avventure e disavventure in città trovi tutto in quest
 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1W_Gy-VmTWbaJ09BShH8lgPO1EFmp6YE&ehbc=2E312F">}}
 
-{{< blogFooter "SP_a" "1" "0">}}

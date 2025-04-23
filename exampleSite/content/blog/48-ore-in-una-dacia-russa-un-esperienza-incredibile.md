@@ -84,4 +84,4 @@ Non abbiamo piantato una bandierina in un nuovo paese, **abbiamo solo seminato u
 
 Vuoi pianificare un viaggio in Russia nel 2024? [In questa guida completa](/blog/viaggiare-in-russia-guida-completa-in-11-punti-aggiornamento-2024), troverai tutte le informazioni utili e aggiornate per organizzare un viaggio sicuro e senza imprevisti.
 
-{{< blogFooter "" "1" "0">}}
+ 

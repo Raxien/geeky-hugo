@@ -171,11 +171,3 @@ Nel video qui sotto puoi fare un po' il turista insieme a noi oppure trovi la se
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=18RnPYKLcA6PMTXjiw1tkFTP3i2_ni1s&ehbc=2E312F">}}
-
-{{< blogFooter "O" "1" "0">}}
-
-
-
-
-
-

@@ -71,4 +71,4 @@ Se hai piacere di vedere i nostri sguardi pieni di gioia per le vie della città
 
 {{< youtube2 7F-d2nCwfwU>}} 
 
-<!-- {{< blogFooter "SP_a" "1" "0">}} -->
+<!--  -->

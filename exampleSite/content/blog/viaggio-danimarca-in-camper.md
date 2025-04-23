@@ -207,5 +207,3 @@ Una cosa che renderà felici i tuoi fidi animali è la presenza di enormi aree c
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1Tri498j53ZDXSbjahbC5bOtpKCwuq1I&ehbc=2E312F">}}
-
-{{< blogFooter "DK" "1" "0">}}

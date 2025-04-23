@@ -119,4 +119,4 @@ Se ti fa piacere segui {{<extLink "le nostre avventure su YouTube" "https://www.
 
 Ti auguriamo di vivere un'avventura indimenticabile con il tuo animale domestico!
 
-{{< blogFooter "" "1" "0">}}
+ 

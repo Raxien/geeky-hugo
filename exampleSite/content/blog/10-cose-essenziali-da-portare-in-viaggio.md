@@ -141,6 +141,6 @@ Prima di lasciarti una comoda check list per verificare di aver preso tutto, ti 
   
 A questo punto non ci resta che augurarti un buon viaggio ✈️
 
-{{< blogFooter "" "1" "0">}}
+ 
 
 [_credits: foto di <a href="https://pixabay.com/it/users/tookapic-1386459/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=933487">tookapic</a> da <a href="https://pixabay.com/it//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=933487">Pixabay</a>_]

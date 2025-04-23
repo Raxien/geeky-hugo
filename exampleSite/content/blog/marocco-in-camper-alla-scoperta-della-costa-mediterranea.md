@@ -110,4 +110,4 @@ Questa è la mappa completa del nostro tour di tre mesi in Marocco comprensiva d
 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ECqhZ8xnaxMc-PBZKLGmML-epe56eek&ehbc=2E312F">}}
 
-{{< blogFooter "MAR" "1" "0">}}
+ 

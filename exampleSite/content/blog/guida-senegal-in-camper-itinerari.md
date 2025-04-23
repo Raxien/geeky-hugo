@@ -221,4 +221,4 @@ Se vuoi vedere i nostri vlog o vuoi sentire le nostre considerazioni ti lasciamo
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1EogDF__ObgoOfXHFqgH2fxtq-A2SzGY&ehbc=2E312F" "1">}}
 
-{{< blogFooter "SN" "1" "0">}}
+ 

@@ -112,5 +112,3 @@ Nel video qui sotto puoi sentire le nostre considerazioni su queste zone oppure 
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1MHF6Cy2vwWikjALaqs5u8QAf2PibH1Y&ehbc=2E312F" "1">}}
-
-{{< blogFooter "FR_N" "1" "0">}}

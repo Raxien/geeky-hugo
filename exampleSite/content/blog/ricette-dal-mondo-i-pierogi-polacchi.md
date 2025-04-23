@@ -61,5 +61,3 @@ Insomma non resta che provare a prepararli, a me in camper e a voi in cucina. Op
 **In ogni caso, buon appetito :)**
 
 <!-- Vuoi rivedere le nostre avventure in Polonia? Puoi ritrovarle {{<extLink "in questa playlist" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV">}}. -->
-
-{{< blogFooter "PL" "0" "0">}}

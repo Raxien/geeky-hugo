@@ -117,6 +117,6 @@ Se ti fa piacere puoi seguire {{<extLink "le nostre avventure su YouTube" "https
 
 Ti auguriamo di vivere un'avventura indimenticabile con il tuo animale domestico!
 
-{{< blogFooter "" "1" "0">}}
+ 
 
 Nota: Il link al trasportino di Sakè è un link di affiliazione. Acquistando tramite esso, potremmo ricevere una commissione senza costi extra per te.

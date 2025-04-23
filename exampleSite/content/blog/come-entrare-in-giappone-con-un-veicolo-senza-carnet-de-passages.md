@@ -109,5 +109,5 @@ Se vuoi saperne di più su tutta la nostra esperienza puoi rivedere {{<extLink "
 
 <!-- Inoltre, se stai cercando una guida dettagliata sulla Transiberiana via terra, puoi acquistare il nostro e-book online. -->
 
-{{< blogFooter "" "1" "0">}}
+ 
 

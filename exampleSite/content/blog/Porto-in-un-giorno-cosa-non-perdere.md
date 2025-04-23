@@ -83,4 +83,4 @@ Ti aspettiamo nei commenti per sapere se anche tu hai visitato Porto e quali imp
 {{< youtube2 7F-d2nCwfwU>}} 
 <!-- to do mettere video porto -->
 
-{{< blogFooter "PT" "1" "0">}}
+ 

@@ -59,5 +59,5 @@ Nel video qui sotto puoi vedere le nostre avventure nel Portogallo del Nord!
 <!-- ##### Le nostre mappe -->
 <!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F">}} -->
 
-{{< blogFooter "PT" "1" "0">}}
+ 
 

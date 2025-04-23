@@ -131,4 +131,4 @@ Puoi trovare la serie completa delle nostre avventure in Portogallo {{<extLink "
 <!-- ##### Le nostre mappe -->
 <!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F">}} -->
 
-{{< blogFooter "PT" "1" "0">}}
+ 

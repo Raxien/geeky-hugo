@@ -226,5 +226,3 @@ _Ovviamente il titolo è provocativo!_
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1fuaGW8i4r5isH2s5RpLgJl3ZJXeNN8s&ehbc=2E312F">}}
-
-{{< blogFooter "RKS" "1" "0">}}

@@ -1015,3 +1015,18 @@ th {
     padding: 0.75rem 0 0.2rem !important;
   }
 }
+
+.donation-links {
+  margin: 1rem 0;
+  
+  .donation-link {
+    color: #15817f;  // Colore primario del tema
+    text-decoration: none;
+    font-weight: 500;
+    
+    &:hover {
+      color: darken(#15817f, 10%);  // Versione più scura al passaggio del mouse
+      text-decoration: underline;
+    }
+  }
+}

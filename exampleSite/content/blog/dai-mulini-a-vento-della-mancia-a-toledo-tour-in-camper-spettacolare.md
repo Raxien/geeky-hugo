@@ -118,4 +118,3 @@ Questa regione è davvero **piacevole da visitare in camper**, grazie alle strad
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ziDcEGP0xvaSkv6yd2hjXiMwDuyrE_M&ehbc=2E312F">}}
 
-{{< blogFooter "SP_a" "1" "0">}}

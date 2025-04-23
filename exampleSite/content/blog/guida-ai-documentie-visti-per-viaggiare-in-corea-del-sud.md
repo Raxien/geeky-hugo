@@ -66,4 +66,4 @@ Preparare i documenti giusti è il primo passo per goderti un viaggio in Corea d
 
 _**Nota**: Le normative possono cambiare, quindi consulta sempre i siti ufficiali del governo sudcoreano o {{< extLink "dell’ambasciata per gli aggiornamenti più recenti" "https://www.viaggiaresicuri.it/find-country/country/KOR" >}}._
 
-{{< blogFooter "" "1" "0">}}
+ 

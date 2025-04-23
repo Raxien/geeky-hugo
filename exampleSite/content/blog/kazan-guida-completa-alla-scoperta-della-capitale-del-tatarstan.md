@@ -46,4 +46,4 @@ La cucina tartara è ricca di sapori e tradizioni. **Assolutamente da provare è
 
 **Secret Pizza**: non è un segreto che gli italiani all’estero ogni tanto abbiano bisogno di assaggiare una buona pizza. In questo locale, che propone pizze di medie e grandi dimensioni a forma triangolare, si può scegliere tra accostamenti davvero particolari. 
 
-{{< blogFooter "" "1" "0">}}
+ 

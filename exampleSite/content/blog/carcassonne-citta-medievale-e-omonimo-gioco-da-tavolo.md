@@ -83,5 +83,5 @@ Trovi tutte le coordinate in questa mappa:
 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1s1t-tDz9bR3Xayns7Pisi4mHPQ_6Asg&ehbc=2E312F">}} 
 
-{{< blogFooter "FR_A" "1" "0">}}
+ 
 

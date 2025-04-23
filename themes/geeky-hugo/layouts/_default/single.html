@@ -177,7 +177,7 @@
           {{end}}
         </ul>
         <div class="content drop-cap">{{.Content}}</div>
-
+        {{ partial "blog-footer.html" (dict "country" "" "payPal" "1" "consult" "0" ) }}
         <!-- articoli correlati mobile -->
         <div class="d-lg-none">
           {{ partial "widgets/related-posts.html" . }}
@@ -209,7 +209,6 @@
   </div>
 </section>
 <!--=================== section end ===================-->
-
 <!-- regular page -->
 {{ else }}
 {{ partial "page-header.html" . }}

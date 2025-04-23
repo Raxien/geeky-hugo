@@ -228,5 +228,3 @@ Per altre informazioni, itinerari e mappe sul Senegal e sui paesi da attraversar
 - [Senegal: guida completa](/blog/guida-senegal-in-camper-itinerari/)
 - [Senegal: il nostro itinerario e le mappe](/blog/informazioni-viaggio-senegal/)
 - [Mauritania: come attraversare la dogana](/blog/viaggio-mauritania-on-the-road-le-dogane/)
-
-{{< blogFooter "SN" "1" "0">}}

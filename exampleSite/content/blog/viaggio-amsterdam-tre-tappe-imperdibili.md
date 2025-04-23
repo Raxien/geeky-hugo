@@ -57,8 +57,3 @@ Ti consigliamo di tenere il tuo animale al guinzaglio per evitare problemi, sopr
 Nel video qui sotto puoi camminare per le vie di Amsterdam insieme a noi oppure trovi la serie completa sul paese {{<extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ9CusTey8eX6KaVHeVOKXGL">}}.
 
 {{< youtube2 dDNv8ZuuvEU>}}
-
-<!-- ##### Le nostre mappe -->
-<!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F">}} --> 
-
-{{< blogFooter "O" "1" "0">}}

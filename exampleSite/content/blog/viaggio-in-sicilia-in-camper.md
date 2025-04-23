@@ -121,6 +121,3 @@ Proprio a due passi dal mercato cittadino è possibile gustare dell'ottimo stree
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ipZq4GlS3cmXzPHI37WSbMO2POBhJUY&ehbc=2E312F">}}
-
-{{< blogFooter "SICILIA" "1" "0">}}
-

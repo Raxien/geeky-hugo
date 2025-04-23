@@ -239,4 +239,4 @@ Questa mappe è completa di tutti i posti visitati, le soste ([qui trovi i 5 mig
 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ECqhZ8xnaxMc-PBZKLGmML-epe56eek&ehbc=2E312F">}}
 
-{{< blogFooter "MAR" "1" "0">}}
+ 

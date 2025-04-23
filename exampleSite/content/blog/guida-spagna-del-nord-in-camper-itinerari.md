@@ -128,5 +128,3 @@ Nel video qui sotto puoi scoprire insieme a noi alcuni dei luoghi che ci sono ri
 
 ##### Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=11GfW4gwkFqTBJcnrv5FV-ak3qVS4jws&ehbc=2E312F">}}
-
-{{< blogFooter "SP_n" "1" "0">}}

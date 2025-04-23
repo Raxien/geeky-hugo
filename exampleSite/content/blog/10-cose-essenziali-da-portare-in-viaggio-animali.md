@@ -62,4 +62,4 @@ Ti lasciamo il {{<extLink "link al reel" "https://www.instagram.com/reel/CfoKWj7
 Hai qualche altro consiglio da darci?   
 Ti aspettiamo nei commenti!
 
-{{< blogFooter "" "1" "0">}}
+ 

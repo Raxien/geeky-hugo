@@ -1,0 +1,50 @@
+<!-- partial che crea il footer per gli articoli -->
+<!-- 
+  parametri
+  country : se vuoto mette messaggio generico - in alternativa mette personalizzato
+  payPal : 0|1 inserisce o meno il payPal
+  consult : 0|1 inserisce o meno il messaggio per la consulenza
+-->
+
+<hr class="share-divider">
+
+<div class="social-share">
+  <span class="title-border share-label">Condividi l'articolo:</span>
+  <a href="#" onclick="event.preventDefault(); shareOnSocial('facebook')" title="Condividi su Facebook"><i class="fab fa-facebook"></i></a>
+  <a href="#" onclick="event.preventDefault(); shareOnSocial('threads')" title="Condividi su Threads"><i class="fab fa-threads"></i></a>
+  <a href="#" onclick="event.preventDefault(); shareOnSocial('twitter')" title="Condividi su X"><i class="fab fa-x-twitter"></i></a>
+  <a href="#" onclick="event.preventDefault(); shareOnSocial('whatsapp')" title="Condividi su WhatsApp"><i class="fab fa-whatsapp"></i></a>
+  <a href="#" onclick="event.preventDefault(); shareOnSocial('telegram')" title="Condividi su Telegram"><i class="fab fa-telegram"></i></a>
+  <a href="#" onclick="event.preventDefault(); shareOnSocial('copy')" title="Copia link"><i class="fas fa-link"></i></a>
+</div>
+
+{{ if not (eq .payPal "0") }}
+
+{{ $data := newScratch }}
+{{ $data.Set "value" "un 🍪 ai nostri pelosi" }}
+
+  <div id="#donazione"></div>
+  <div class="donation-links">
+    Se vuoi ringraziarci puoi offrirci <strong class="title-border">{{ $data.Get "value" }}</strong> al seguente link: 
+    <a href='https://paypal.me/Vandipety' target="_blank" rel="nofollow noopener noreferrer" title="Grazie!" class="donation-link"><span>PayPal</span></a> - <a href='#donazione' target="_self" onclick="return openModal();" title="Grazie!" class="donation-link"><span>Satispay</span></a>
+  </div>
+
+  <div id="satispay" class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header" style="border-bottom: 0px; text-align: center;">
+        </div>
+        <div class="modal-body" style="text-align: center;">
+          <img src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_300/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1688485673/asset/qr-2_gh0mcv.jpg" alt="Logo Vandipety" >
+          <h6 style="margin-top: 0px;">Inquadra il codice e grazie! 🐱🙏</h5>
+        </div>
+        <div class="modal-footer">
+          <button id="close" type="button" class="btn btn-primary" data-dismiss="modal" onclick="return closeModal();">Chiudi</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+{{ end }}
+
+<hr class="share-divider"> 
