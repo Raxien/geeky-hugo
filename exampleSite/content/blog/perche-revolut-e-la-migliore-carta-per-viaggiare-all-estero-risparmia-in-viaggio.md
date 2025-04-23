@@ -68,7 +68,7 @@ Sì, Revolut offre sicurezza avanzata: puoi bloccare la carta dall’app in caso
 Converti la valuta necessaria durante la settimana (lunedì-venerdì) per evitare la maggiorazione dell’1%. Con il piano Premium, le conversioni sono gratuite anche nel weekend.
 
 **3. Posso usare Revolut in paesi extra-UE?**\
-Assolutamente! Revolut supporta oltre 150 valute ed è perfetta per paesi come Giappone, Thailandia o Stati Uniti, con tassi di cambio vantaggiosi e prelievi ATM gratuiti fino al limite mensile.
+Assolutamente! Revolut supporta oltre 150 valute ed è perfetta per paesi come Giappone, Corea del Sud o Stati Uniti, con tassi di cambio vantaggiosi e prelievi ATM gratuiti fino al limite mensile.
 
 **4. Come personalizzare la mia carta Revolut?**\
 Dall’app Revolut, vai alla sezione “Carte” e scegli “Personalizza”. Puoi selezionare colori, design esclusivi o aggiungere il tuo nome. I piani Premium offrono opzioni di design ancora più accattivanti.
