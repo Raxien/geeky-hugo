@@ -384,16 +384,6 @@ function setGrid(data) {
 function initExpensesPage() {
     if (!document.getElementById('catergory')) return;
 
-    // Rimuovi iframe pubblicitari
-    setInterval(() => {
-        document.querySelectorAll('iframe').forEach(iframe => {
-            const src = iframe.getAttribute('src');
-            if (src && src.match(/(ads-iframe)|(disqusads)/gi)) {
-                iframe.remove();
-            }
-        });
-    }, 300);
-
     // Carica i dati
     document.addEventListener('DOMContentLoaded', async () => {
         await fecthExpenseData();
@@ -513,16 +503,6 @@ async function getTripData() {
 // Funzione di inizializzazione per la pagina van
 function initVanPage() {
     if (!document.getElementById('travelingKm')) return;
-
-    // Rimuovi iframe pubblicitari
-    setInterval(() => {
-        document.querySelectorAll('iframe').forEach(iframe => {
-            const src = iframe.getAttribute('src');
-            if (src && src.match(/(ads-iframe)|(disqusads)/gi)) {
-                iframe.remove();
-            }
-        });
-    }, 300);
 
     // Carica i dati
     document.addEventListener('DOMContentLoaded', getTripData);
@@ -734,16 +714,6 @@ async function getMapData() {
 // Funzione di inizializzazione per la pagina trip
 function initTripPage() {
     if (!document.getElementById('map')) return;
-
-    // Rimuovi iframe pubblicitari
-    setInterval(() => {
-        document.querySelectorAll('iframe').forEach(iframe => {
-            const src = iframe.getAttribute('src');
-            if (src && src.match(/(ads-iframe)|(disqusads)/gi)) {
-                iframe.remove();
-            }
-        });
-    }, 300);
 
     // Carica i dati
     document.addEventListener('DOMContentLoaded', async () => {
@@ -1443,4 +1413,15 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 //=================== youtube video script end ===================
 
+// Rimuovi iframe pubblicitari
+document.addEventListener('DOMContentLoaded', function() {
+  setInterval(function() {
+      document.querySelectorAll('iframe').forEach(function(iframe) {
+          let src = iframe.getAttribute('src');
+          if (src && src.match(/(ads-iframe)|(disqusads)/gi)) {
+              iframe.remove();
+          }
+      });
+  }, 300);
+});
   

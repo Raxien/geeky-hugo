@@ -3,7 +3,7 @@ title: 'Seoul: gli occhi delle persone che vivono la città'
 description: 'Un viaggio intimo alla scoperta della Seoul autentica, oltre i grattacieli e le luci al neon, attraverso i gesti e le storie delle persone che la abitano.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp/v1684676730/Articoli/Corea/Seoul/mural-village-persone_ou75wx.jpg
 date: 2025-04-11T7:00:00+01:00
-categories: [ "Blog"]
+categories: ["Blog", "Seoul"]
 type: featured  
 country: Corea del Sud 
 draft: false
