@@ -75,5 +75,3 @@ Che te ne pare? **Manca qualcosa di fondamentale?**
 Se invece vuoi qualche consiglio sul come fare la spesa a bordo e su come evitare sprechi in cucina trovi tutto in questo video! 
 
 {{< youtube2 rCvzJ8LsRrc>}}
-
-{{< blogFooter "" "0" "0">}}
