@@ -1,7 +1,12 @@
 {{ $videoID := .Get 0 }}
+{{ $title := .Get 1 }}
 {{ $apiKey := "AIzaSyB-m8BmXqPNdNSyTanaww8Uv51TzXKzsqU" }}
 {{ $uniqueID := printf "vid-%s" $videoID }}
 {{ $isPlaylist := hasPrefix $videoID "PL" }}
+
+{{ if $title }}
+<figure class="img-center">
+{{ end }}
 
 <div class="youtube-wrapper" style="width: 100%; position: relative; margin-bottom: 15px;">
   <div class="youtube-container" style="position: relative; width: 100%; padding-bottom: 56.25%; border-radius: 12px; overflow: hidden;">
@@ -33,6 +38,11 @@
     </div>
   </div>
 </div>
+
+{{ if $title }}
+  <figcaption>{{ $title | markdownify }}</figcaption>
+</figure>
+{{ end }}
 
 <script>
   // Inizializza il video YouTube con i parametri di Hugo

@@ -4,7 +4,7 @@
 {{ if $url }}
   {{ $article := site.GetPage $url }}
   <div class="article__body__leggi-anche">
-    <a href="{{ $url | relURL }}" title="{{ $article.Title }}">
+    <a href="{{ $article.RelPermalink }}" title="{{ $article.Title }}">
       <div class="leggi-anche-content">
         <span class="leggi-anche-label">leggi anche</span>
         <span class="leggi-anche-title">{{ $article.Title }}</span>
