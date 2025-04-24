@@ -7,6 +7,9 @@ console.log('jQuery available:', typeof $ !== 'undefined');
 // Debug: verifica se Fuse è disponibile
 console.log('Fuse available:', typeof Fuse !== 'undefined');
 
+// Debug: verifica se Mark è disponibile
+console.log('Mark available:', typeof Mark !== 'undefined');
+
 // Debug: verifica se indexURL è definito
 console.log('indexURL:', typeof indexURL !== 'undefined' ? indexURL : 'undefined');
 
@@ -99,6 +102,7 @@ function populateResults(result) {
           start = mvalue.indices[0][0] - summaryInclude > 0 ? mvalue.indices[0][0] - summaryInclude : 0;
           end = mvalue.indices[0][1] + summaryInclude < contents.length ? mvalue.indices[0][1] + summaryInclude : contents.length;
           snippet += contents.substring(start, end);
+          snippetHighlights.push(mvalue.value.substring(mvalue.indices[0][0], mvalue.indices[0][1] - mvalue.indices[0][0] + 1));
         }
       });
     }
@@ -133,6 +137,10 @@ function populateResults(result) {
     });
 
     $('#search-results').append(output);
+
+    $.each(snippetHighlights, function (snipkey, snipvalue) {
+      $("#summary-" + key).mark(snipvalue);
+    });
   });
 }
 
