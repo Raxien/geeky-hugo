@@ -1,211 +1,233 @@
 // Passive event listeners
-jQuery.event.special.touchstart = {
-  setup: function (_, ns, handle) {
-    'use strict';
-    this.addEventListener('touchstart', handle, {
-      passive: !ns.includes('noPreventDefault')
-    });
+document.addEventListener('touchstart', function(e) {
+  'use strict';
+  if (e.target.closest('.noPreventDefault')) {
+    return;
   }
-};
+  e.preventDefault();
+}, { passive: false });
 
-jQuery.event.special.touchmove = {
-  setup: function (_, ns, handle) {
-    'use strict';
-    this.addEventListener('touchmove', handle, {
-      passive: !ns.includes('noPreventDefault')
-    });
+document.addEventListener('touchmove', function(e) {
+  'use strict';
+  if (e.target.closest('.noPreventDefault')) {
+    return;
   }
-};
+  e.preventDefault();
+}, { passive: false });
 
 // Preloader js
-$(window).on('load', function () {
+window.addEventListener('load', function() {
   'use strict';
-  $('.preloader').fadeOut(0);
+  const preloader = document.querySelector('.preloader');
+  if (preloader) {
+    preloader.style.display = 'none';
+  }
 });
 
-// on ready state
-$(document).ready(function () {
-  'use strict';
+// Funzione per inizializzare tutto il codice che dipende da Bootstrap
+function initBootstrapDependentCode() {
+  // Gestione del menu mobile
+  const toggleSideNav = document.querySelector('.toggle-side-nav');
+  const offcanvas = document.getElementById('offcanvasRight');
+  
+  if (toggleSideNav && offcanvas) {
+    const offcanvasBackdrop = document.createElement('div');
+    offcanvasBackdrop.className = 'offcanvas-backdrop fade';
+    document.body.appendChild(offcanvasBackdrop);
 
-  // search-toggle
-  $('.toggle-search').on('click', function () {
-    var targetId = $(this).data('target');
-    var $searchBar;
-    if (targetId) {
-      $searchBar = $(targetId);
-      $searchBar.toggleClass('open');
+    // Gestione del click e del touch sul pulsante di apertura
+    toggleSideNav.addEventListener('click', handleMenuToggle);
+    toggleSideNav.addEventListener('touchstart', handleMenuToggle);
+
+    // Gestione del pulsante di chiusura
+    const closeButton = offcanvas.querySelector('.btn-close');
+    if (closeButton) {
+      closeButton.addEventListener('click', closeMenu);
+      closeButton.addEventListener('touchstart', closeMenu);
     }
 
-    setTimeout(() => {
-      document.getElementById("search-query").focus();
-    }, "100")
+    // Gestione del click sul backdrop
+    offcanvasBackdrop.addEventListener('click', closeMenu);
+    offcanvasBackdrop.addEventListener('touchstart', closeMenu);
 
+    // Gestione del tasto ESC
+    document.addEventListener('keydown', handleEscape);
+  }
+
+  // Accordions
+  const collapses = document.querySelectorAll('.collapse');
+  collapses.forEach(collapse => {
+    collapse.addEventListener('shown.bs.collapse', function() {
+      const parent = this.parentElement;
+      const plusIcon = parent.querySelector('.fas.fa-plus');
+      if (plusIcon) {
+        plusIcon.classList.remove('fas', 'fa-plus');
+        plusIcon.classList.add('fas', 'fa-minus');
+      }
+    });
+
+    collapse.addEventListener('hidden.bs.collapse', function() {
+      const parent = this.parentElement;
+      const minusIcon = parent.querySelector('.fas.fa-minus');
+      if (minusIcon) {
+        minusIcon.classList.remove('fas', 'fa-minus');
+        minusIcon.classList.add('fas', 'fa-plus');
+      }
+    });
+  });
+}
+
+// Funzione per inizializzare il codice indipendente da Bootstrap
+function initIndependentCode() {
+  // Preloader
+  const preloader = document.querySelector('.preloader');
+  if (preloader) {
+    preloader.style.display = 'none';
+  }
+
+  // search-toggle
+  const toggleSearchButtons = document.querySelectorAll('.toggle-search');
+  toggleSearchButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const targetId = this.getAttribute('data-target');
+      if (targetId) {
+        const searchBar = document.querySelector(targetId);
+        if (searchBar) {
+          searchBar.classList.toggle('open');
+          setTimeout(() => {
+            const searchInput = document.getElementById('search-query');
+            if (searchInput) {
+              searchInput.focus();
+            }
+          }, 100);
+        }
+      }
+    });
+    
+    // Aggiungo l'evento touch
+    button.addEventListener('touchstart', function(e) {
+      e.preventDefault();
+      const targetId = this.getAttribute('data-target');
+      if (targetId) {
+        const searchBar = document.querySelector(targetId);
+        if (searchBar) {
+          searchBar.classList.toggle('open');
+          setTimeout(() => {
+            const searchInput = document.getElementById('search-query');
+            if (searchInput) {
+              searchInput.focus();
+            }
+          }, 100);
+        }
+      }
+    });
   });
 
   // tab
-  $('.tab-content').find('.tab-pane').each(function (idx, item) {
-    var navTabs = $(this).closest('.code-tabs').find('.nav-tabs'),
-      title = $(this).attr('title');
-    navTabs.append('<li class="nav-item"><a class="nav-link" href="#">' + title + '</a></li>');
-  });
-
-  $('.code-tabs ul.nav-tabs').each(function () {
-    $(this).find("li:first").addClass('active');
-  })
-
-  $('.code-tabs .tab-content').each(function () {
-    $(this).find("div:first").addClass('active');
-  });
-
-  $('.nav-tabs a').click(function (e) {
-    e.preventDefault();
-    var tab = $(this).parent(),
-      tabIndex = tab.index(),
-      tabPanel = $(this).closest('.code-tabs'),
-      tabPane = tabPanel.find('.tab-pane').eq(tabIndex);
-    tabPanel.find('.active').removeClass('active');
-    tab.addClass('active');
-    tabPane.addClass('active');
-  });
-
-  // Accordions
-  $('.collapse').on('shown.bs.collapse', function () {
-    $(this).parent().find('.fas fa-plus').removeClass('fas fa-plus').addClass('fas fa-minus');
-  }).on('hidden.bs.collapse', function () {
-    $(this).parent().find('.fas fa-minus').removeClass('fas fa-minus').addClass('fas fa-plus');
-  });
-
-}); 
-
-document.addEventListener('DOMContentLoaded', function() {
-  const slider = document.querySelector('.guides-slider');
-  
-  // Se lo slider non esiste, esci dalla funzione
-  if (!slider) return;
-  
-  const wrapper = slider.querySelector('.guides-wrapper');
-  const slides = wrapper.querySelectorAll('.guide-slide');
-  const prevButton = slider.querySelector('.nav-button.prev');
-  const nextButton = slider.querySelector('.nav-button.next');
-  let currentSlide = 0;
-  let touchStartX = 0;
-  let touchEndX = 0;
-  let autoSlideInterval;
-
-  // Carica le immagini
-  function loadImages() {
-    const images = wrapper.querySelectorAll('img[data-src]');
-    images.forEach(img => {
-      if (img.dataset.src) {
-        img.src = img.dataset.src;
-        img.removeAttribute('data-src');
-        img.addEventListener('load', () => {
-          img.classList.add('loaded');
-        });
+  const tabContents = document.querySelectorAll('.tab-content .tab-pane');
+  tabContents.forEach(tabPane => {
+    const title = tabPane.getAttribute('title');
+    const codeTabs = tabPane.closest('.code-tabs');
+    if (codeTabs) {
+      const navTabs = codeTabs.querySelector('.nav-tabs');
+      if (navTabs) {
+        const navItem = document.createElement('li');
+        navItem.className = 'nav-item';
+        const navLink = document.createElement('a');
+        navLink.className = 'nav-link';
+        navLink.href = '#';
+        navLink.textContent = title;
+        navItem.appendChild(navLink);
+        navTabs.appendChild(navItem);
       }
+    }
+  });
+
+  // Attiva il primo tab
+  const codeTabs = document.querySelectorAll('.code-tabs');
+  codeTabs.forEach(tab => {
+    const firstNavItem = tab.querySelector('.nav-tabs li:first-child');
+    const firstTabPane = tab.querySelector('.tab-content div:first-child');
+    if (firstNavItem) firstNavItem.classList.add('active');
+    if (firstTabPane) firstTabPane.classList.add('active');
+  });
+
+  // Gestione click sui tab
+  const navTabs = document.querySelectorAll('.nav-tabs a');
+  navTabs.forEach(tab => {
+    tab.addEventListener('click', function(e) {
+      e.preventDefault();
+      const parentTab = this.parentElement;
+      const tabIndex = Array.from(parentTab.parentElement.children).indexOf(parentTab);
+      const tabPanel = this.closest('.code-tabs');
+      const tabPane = tabPanel.querySelectorAll('.tab-pane')[tabIndex];
+
+      tabPanel.querySelectorAll('.active').forEach(el => el.classList.remove('active'));
+      parentTab.classList.add('active');
+      tabPane.classList.add('active');
     });
-  }
+  });
+}
 
-  // Funzione per spostare le slide
-  function moveSlide(direction) {
-    if (direction === 'next') {
-      currentSlide = (currentSlide + 1) % slides.length;
-    } else {
-      currentSlide = (currentSlide - 1 + slides.length) % slides.length;
-    }
-    wrapper.style.transform = `translateX(-${currentSlide * 100}%)`;
-  }
+// Inizializzazione
+window.addEventListener('load', function() {
+  // Inizializza il codice indipendente da Bootstrap
+  initIndependentCode();
 
-  // Gestione touch per mobile
-  function handleTouchStart(e) {
-    touchStartX = e.touches[0].clientX;
-  }
-
-  function handleTouchMove(e) {
-    touchEndX = e.touches[0].clientX;
-  }
-
-  function handleTouchEnd() {
-    const diff = touchStartX - touchEndX;
-    if (Math.abs(diff) > 50) { // Soglia minima per lo swipe
-      if (diff > 0) {
-        moveSlide('next');
-      } else {
-        moveSlide('prev');
+  // Inizializza il codice dipendente da Bootstrap
+  if (typeof bootstrap !== 'undefined') {
+    initBootstrapDependentCode();
+  } else {
+    // Se Bootstrap non è ancora caricato, aspettiamo che lo sia
+    const checkBootstrap = setInterval(() => {
+      if (typeof bootstrap !== 'undefined') {
+        clearInterval(checkBootstrap);
+        initBootstrapDependentCode();
       }
-    }
+    }, 100);
   }
-
-  // Inizializza l'autoplay
-  function startAutoSlide() {
-    autoSlideInterval = setInterval(() => {
-      moveSlide('next');
-    }, 5000);
-  }
-
-  // Event listeners
-  prevButton.addEventListener('click', () => moveSlide('prev'));
-  nextButton.addEventListener('click', () => moveSlide('next'));
-
-  slider.addEventListener('touchstart', handleTouchStart);
-  slider.addEventListener('touchmove', handleTouchMove);
-  slider.addEventListener('touchend', handleTouchEnd);
-
-  // Inizializzazione
-  loadImages();
-  startAutoSlide();
-
-  // Pausa autoplay quando il mouse è sopra lo slider
-  slider.addEventListener('mouseenter', () => {
-    clearInterval(autoSlideInterval);
-  });
-
-  slider.addEventListener('mouseleave', () => {
-    startAutoSlide();
-  });
 });
 
+// Load more posts
+const loadMoreButton = document.getElementById('loadMore');
+if (loadMoreButton) {
+  loadMoreButton.addEventListener('click', async function() {
+    const nextUrl = this.dataset.nextUrl;
+    if (!nextUrl) return;
 
-  // Load more posts
-  const loadMoreButton = document.getElementById('loadMore');
-  if (loadMoreButton) {
-    loadMoreButton.addEventListener('click', async function() {
-      const nextUrl = this.dataset.nextUrl;
-      if (!nextUrl) return;
+    this.disabled = true;
+    this.innerHTML = '<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>';
+    this.style.backgroundColor = '#15817f';
 
-      this.disabled = true;
-      this.innerHTML = '<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>';
-      this.style.backgroundColor = '#15817f';
+    try {
+      const response = await fetch(nextUrl);
+      const html = await response.text();
+      const temp = document.createElement('div');
+      temp.innerHTML = html;
 
-      try {
-        const response = await fetch(nextUrl);
-        const html = await response.text();
-        const temp = document.createElement('div');
-        temp.innerHTML = html;
+      const newPosts = temp.querySelector('.row.mx-0.g-5');
+      const currentPosts = document.querySelector('.row.mx-0.g-5');
 
-        const newPosts = temp.querySelector('.row.mx-0.g-5');
-        const currentPosts = document.querySelector('.row.mx-0.g-5');
-
-        if (newPosts && currentPosts) {
-          currentPosts.innerHTML += newPosts.innerHTML;
-        }
-
-        const newNextUrl = temp.querySelector('#loadMore')?.dataset.nextUrl;
-        if (newNextUrl) {
-          this.dataset.nextUrl = newNextUrl;
-        } else {
-          this.remove();
-        }
-      } catch (error) {
-        console.error('Errore nel caricamento dei post:', error);
-        this.innerHTML = 'Errore nel caricamento';
-      } finally {
-        this.disabled = false;
-        this.innerHTML = 'Mostra altro';
-        this.style.backgroundColor = '#15817f';
+      if (newPosts && currentPosts) {
+        currentPosts.innerHTML += newPosts.innerHTML;
       }
-    });
-  }
+
+      const newNextUrl = temp.querySelector('#loadMore')?.dataset.nextUrl;
+      if (newNextUrl) {
+        this.dataset.nextUrl = newNextUrl;
+      } else {
+        this.remove();
+      }
+    } catch (error) {
+      console.error('Errore nel caricamento dei post:', error);
+      this.innerHTML = 'Errore nel caricamento';
+    } finally {
+      this.disabled = false;
+      this.innerHTML = 'Mostra altro';
+      this.style.backgroundColor = '#15817f';
+    }
+  });
+}
 
 //=================== expanses script start ===================
 const rpcUrl = "https://vandipetyapi.onrender.com"
@@ -1424,4 +1446,54 @@ document.addEventListener('DOMContentLoaded', function() {
       });
   }, 300);
 });
+
+// Gestione del menu mobile
+const toggleSideNav = document.querySelector('.toggle-side-nav');
+const offcanvas = document.getElementById('offcanvasRight');
+const offcanvasBackdrop = document.createElement('div');
+offcanvasBackdrop.className = 'offcanvas-backdrop fade';
+
+if (toggleSideNav && offcanvas) {
+  // Aggiungi il backdrop al body
+  document.body.appendChild(offcanvasBackdrop);
+
+  // Gestione del click e del touch sul pulsante di apertura
+  toggleSideNav.addEventListener('click', handleMenuToggle);
+  toggleSideNav.addEventListener('touchstart', handleMenuToggle);
+
+  // Gestione del pulsante di chiusura
+  const closeButton = offcanvas.querySelector('.btn-close');
+  if (closeButton) {
+    closeButton.addEventListener('click', closeMenu);
+    closeButton.addEventListener('touchstart', closeMenu);
+  }
+
+  // Gestione del click sul backdrop
+  offcanvasBackdrop.addEventListener('click', closeMenu);
+  offcanvasBackdrop.addEventListener('touchstart', closeMenu);
+
+  // Gestione del tasto ESC
+  document.addEventListener('keydown', handleEscape);
+}
+
+function handleMenuToggle(e) {
+  e.preventDefault();
+  
+  // Toggle del menu
+  offcanvas.classList.toggle('show');
+  offcanvasBackdrop.classList.toggle('show');
+  document.body.classList.toggle('offcanvas-open');
+}
+
+function closeMenu() {
+  offcanvas.classList.remove('show');
+  offcanvasBackdrop.classList.remove('show');
+  document.body.classList.remove('offcanvas-open');
+}
+
+function handleEscape(e) {
+  if (e.key === 'Escape') {
+    closeMenu();
+  }
+}
   
