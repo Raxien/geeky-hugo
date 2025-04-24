@@ -3,6 +3,6 @@
     "terser": "^5.39.0"
   },
   "scripts": {
-    "minify": "node minify.js"
+    "minify": "terser exampleSite/assets/js/script.js -o exampleSite/assets/js/script.min.js -c passes=2,pure_getters,unsafe,unsafe_math,unsafe_proto,unsafe_regexp,unsafe_undefined,conditionals,dead_code,evaluate,booleans,loops,unused,drop_console=true,drop_debugger=true -m --comments '/^!/'"
   }
 }

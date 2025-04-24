@@ -1,19 +1,15 @@
 // Passive event listeners
 document.addEventListener('touchstart', function(e) {
   'use strict';
-  if (e.target.closest('.noPreventDefault')) {
-    return;
-  }
-  e.preventDefault();
-}, { passive: false });
+  // Permetti il comportamento predefinito per tutti gli elementi
+  return;
+}, { passive: true });
 
 document.addEventListener('touchmove', function(e) {
   'use strict';
-  if (e.target.closest('.noPreventDefault')) {
-    return;
-  }
-  e.preventDefault();
-}, { passive: false });
+  // Permetti il comportamento predefinito per tutti gli elementi
+  return;
+}, { passive: true });
 
 // Preloader js
 window.addEventListener('load', function() {
@@ -36,14 +32,26 @@ function initBootstrapDependentCode() {
     document.body.appendChild(offcanvasBackdrop);
 
     // Gestione del click e del touch sul pulsante di apertura
-    toggleSideNav.addEventListener('click', handleMenuToggle);
-    toggleSideNav.addEventListener('touchstart', handleMenuToggle);
+    toggleSideNav.addEventListener('click', function(e) {
+      e.preventDefault();
+      openMenu();
+    });
+    toggleSideNav.addEventListener('touchstart', function(e) {
+      e.preventDefault();
+      openMenu();
+    });
 
     // Gestione del pulsante di chiusura
     const closeButton = offcanvas.querySelector('.btn-close');
     if (closeButton) {
-      closeButton.addEventListener('click', closeMenu);
-      closeButton.addEventListener('touchstart', closeMenu);
+      closeButton.addEventListener('click', function(e) {
+        e.preventDefault();
+        closeMenu();
+      });
+      closeButton.addEventListener('touchstart', function(e) {
+        e.preventDefault();
+        closeMenu();
+      });
     }
 
     // Gestione del click sul backdrop
@@ -1458,14 +1466,26 @@ if (toggleSideNav && offcanvas) {
   document.body.appendChild(offcanvasBackdrop);
 
   // Gestione del click e del touch sul pulsante di apertura
-  toggleSideNav.addEventListener('click', handleMenuToggle);
-  toggleSideNav.addEventListener('touchstart', handleMenuToggle);
+  toggleSideNav.addEventListener('click', function(e) {
+    e.preventDefault();
+    openMenu();
+  });
+  toggleSideNav.addEventListener('touchstart', function(e) {
+    e.preventDefault();
+    openMenu();
+  });
 
   // Gestione del pulsante di chiusura
   const closeButton = offcanvas.querySelector('.btn-close');
   if (closeButton) {
-    closeButton.addEventListener('click', closeMenu);
-    closeButton.addEventListener('touchstart', closeMenu);
+    closeButton.addEventListener('click', function(e) {
+      e.preventDefault();
+      closeMenu();
+    });
+    closeButton.addEventListener('touchstart', function(e) {
+      e.preventDefault();
+      closeMenu();
+    });
   }
 
   // Gestione del click sul backdrop
@@ -1476,19 +1496,26 @@ if (toggleSideNav && offcanvas) {
   document.addEventListener('keydown', handleEscape);
 }
 
-function handleMenuToggle(e) {
-  e.preventDefault();
+function openMenu() {
+  const offcanvas = document.getElementById('offcanvasRight');
+  const offcanvasBackdrop = document.querySelector('.offcanvas-backdrop');
   
-  // Toggle del menu
-  offcanvas.classList.toggle('show');
-  offcanvasBackdrop.classList.toggle('show');
-  document.body.classList.toggle('offcanvas-open');
+  if (offcanvas && offcanvasBackdrop) {
+    offcanvas.classList.add('show');
+    offcanvasBackdrop.classList.add('show');
+    document.body.classList.add('offcanvas-open');
+  }
 }
 
 function closeMenu() {
-  offcanvas.classList.remove('show');
-  offcanvasBackdrop.classList.remove('show');
-  document.body.classList.remove('offcanvas-open');
+  const offcanvas = document.getElementById('offcanvasRight');
+  const offcanvasBackdrop = document.querySelector('.offcanvas-backdrop');
+  
+  if (offcanvas && offcanvasBackdrop) {
+    offcanvas.classList.remove('show');
+    offcanvasBackdrop.classList.remove('show');
+    document.body.classList.remove('offcanvas-open');
+  }
 }
 
 function handleEscape(e) {
