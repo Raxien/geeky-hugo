@@ -70,6 +70,8 @@
   <meta property="og:image" content="{{ $image_path }}" />
   <meta name="twitter:image" content="{{ $image_path }}"/>
   <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
 {{ else -}}
   <!-- Gestione immagini locali -->
   {{ $image_path_local :=  printf "static/%s" $image_path -}}
@@ -79,16 +81,17 @@
       {{ with (imageConfig $image_path_local) -}}
       {{ if (and (gt .Width 144) (gt .Height 144)) -}}
         <meta name="twitter:image" content="{{ $image_path | absURL }}"/>
-        <meta name="twitter:card" content="summary{{ if (and (gt .Width 300) (gt .Height 157) (not (eq .Width .Height))) }}_large_image{{ end }}">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="og:image:width" content="{{ .Width }}"/>
+        <meta property="og:image:height" content="{{ .Height }}"/>
       {{ end -}}
-      <meta property="og:image:width" content="{{ .Width }}">
-      <meta property="og:image:height" content="{{ .Height }}">
       {{ end -}}
     {{ end -}}
     <meta property="og:image:type" content="image/{{ if eq $image_ext `svg` }}svg+xml{{ else }}{{ replaceRE `^jpg$` `jpeg` $image_ext }}{{ end }}">
   {{ end -}}
 {{ end -}}
 
+<!-- Instagram Meta Tags -->
 <meta property="og:title" content="{{ with .Title }}{{ . }}{{ else }}{{ site.Title }}{{ end }}"/>
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
 <meta property="og:url" content="{{ .Permalink }}"/>
@@ -96,11 +99,18 @@
 <meta property="og:site_name" content="{{ site.Title }}"/>
 <meta property="og:locale" content="{{ site.Language.Lang }}"/>
 
-<!-- Twitter Meta Tags -->
+<!-- Twitter/X Meta Tags -->
 <meta name="twitter:title" content="{{ with .Title }}{{ . }}{{ else }}{{ site.Title }}{{ end }}"/>
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
 <meta property="twitter:domain" content="{{ site.BaseURL | replaceRE "^https?://([^/]+).*" "$1" }}"/>
 <meta property="twitter:url" content="{{ .Permalink }}"/>
+<meta name="twitter:site" content="@vandipety"/>
+<meta name="twitter:creator" content="@vandipety"/>
+
+<!-- Threads Meta Tags -->
+<meta property="threads:title" content="{{ with .Title }}{{ . }}{{ else }}{{ site.Title }}{{ end }}"/>
+<meta property="threads:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
+<meta property="threads:image" content="{{ if .Params.image }}{{ .Params.image | absURL }}{{ else }}{{ site.Params.image | absURL }}{{ end }}"/>
 
 <!-- Telegram Meta Tags -->
 <meta property="telegram:channel" content="{{ site.Title }}"/>
