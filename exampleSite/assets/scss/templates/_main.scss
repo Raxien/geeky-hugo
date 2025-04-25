@@ -1470,22 +1470,17 @@ tr {
   position: relative;
   overflow: hidden;
   border-radius: 12px;
-  -webkit-tap-highlight-color: transparent;
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  user-select: none;
 
   .widget-title {
     margin-bottom: 1.5rem;
   }
 
   .guides-slider {
+    position: relative;
     width: 100%;
     height: 0;
-    padding-bottom: 56.25%;
-    position: relative;
+    padding-bottom: 56.25%; // 16:9 aspect ratio
     overflow: hidden;
-    touch-action: pan-y pinch-zoom;
   }
 
   .guides-wrapper {
@@ -1495,29 +1490,33 @@ tr {
     width: 100%;
     height: 100%;
     display: flex;
-    transition: transform 0.5s ease;
-    will-change: transform;
+    transition: transform 0.3s ease-in-out;
   }
 
   .guide-slide {
+    position: relative;
     min-width: 100%;
     height: 100%;
-    position: relative;
     flex-shrink: 0;
   }
 
+  .image-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+
   .slide-image {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
-    opacity: 0;
-    transition: opacity 0.3s ease-in-out;
-    pointer-events: none;
-
-    &.loaded {
-      opacity: 1;
-    }
+    opacity: 1;
+    visibility: visible;
   }
 
   .slide-text {
@@ -1528,7 +1527,7 @@ tr {
     background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4));
     color: white;
     padding: 15px;
-    pointer-events: none;
+    z-index: 2;
   }
 
   .slide-text p {
@@ -1542,18 +1541,19 @@ tr {
     left: 0;
     width: 100%;
     height: 100%;
-    z-index: 2;
+    z-index: 3;
   }
 
   .nav-buttons {
     position: absolute;
     top: 50%;
+    left: 0;
+    right: 0;
     transform: translateY(-50%);
-    width: 100%;
     display: flex;
     justify-content: space-between;
-    padding: 0 10px;
-    z-index: 3;
+    padding: 0 1rem;
+    z-index: 4;
   }
 
   .nav-button {
@@ -1568,22 +1568,20 @@ tr {
     align-items: center;
     justify-content: center;
     transition: background-color 0.3s ease;
-    -webkit-tap-highlight-color: transparent;
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    user-select: none;
 
     &:hover {
       background: rgba(0, 0, 0, 0.8);
+    }
+
+    &:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
     }
   }
 
   @media (max-width: 767px) {
     .nav-buttons {
-      display: none !important;
-      visibility: hidden !important;
-      opacity: 0 !important;
-      pointer-events: none !important;
+      display: none;
     }
   }
 }

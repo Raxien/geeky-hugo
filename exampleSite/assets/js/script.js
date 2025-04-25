@@ -20,6 +20,123 @@ window.addEventListener('load', function() {
   }
 });
 
+// Guide Slider
+function initGuidesSlider() {
+  const guidesWrapper = document.querySelector('.guides-wrapper');
+  const guideSlides = document.querySelectorAll('.guide-slide');
+  const prevButton = document.querySelector('.nav-button.prev');
+  const nextButton = document.querySelector('.nav-button.next');
+  
+  if (!guidesWrapper || !guideSlides.length || !prevButton || !nextButton) return;
+
+  let currentSlide = 0;
+  const totalSlides = guideSlides.length;
+  let autoplayInterval;
+  let touchStartX = 0;
+  let touchEndX = 0;
+  const swipeThreshold = 50; // Soglia minima per considerare uno swipe
+
+  // Funzione per caricare le immagini
+  function loadImages() {
+    const images = document.querySelectorAll('.slide-image[data-src]');
+    images.forEach(img => {
+      if (img.dataset.src) {
+        img.src = img.dataset.src;
+        img.removeAttribute('data-src');
+      }
+    });
+  }
+
+  // Funzione per aggiornare lo slider
+  function updateSlider() {
+    const offset = -currentSlide * 100;
+    guidesWrapper.style.transform = `translateX(${offset}%)`;
+    
+    // Aggiorna lo stato dei pulsanti
+    prevButton.disabled = currentSlide === 0;
+    nextButton.disabled = currentSlide === totalSlides - 1;
+  }
+
+  // Funzione per passare alla slide successiva
+  function nextSlide() {
+    if (currentSlide < totalSlides - 1) {
+      currentSlide++;
+    } else {
+      currentSlide = 0;
+    }
+    updateSlider();
+  }
+
+  // Funzione per passare alla slide precedente
+  function prevSlide() {
+    if (currentSlide > 0) {
+      currentSlide--;
+    } else {
+      currentSlide = totalSlides - 1;
+    }
+    updateSlider();
+  }
+
+  // Funzione per avviare l'autoplay
+  function startAutoplay() {
+    autoplayInterval = setInterval(nextSlide, 5000);
+  }
+
+  // Funzione per fermare l'autoplay
+  function stopAutoplay() {
+    clearInterval(autoplayInterval);
+  }
+
+  // Gestione degli eventi touch
+  guidesWrapper.addEventListener('touchstart', (e) => {
+    touchStartX = e.changedTouches[0].screenX;
+    stopAutoplay();
+  });
+
+  guidesWrapper.addEventListener('touchend', (e) => {
+    touchEndX = e.changedTouches[0].screenX;
+    handleSwipe();
+    startAutoplay();
+  });
+
+  // Funzione per gestire lo swipe
+  function handleSwipe() {
+    const diff = touchStartX - touchEndX;
+    
+    if (Math.abs(diff) > swipeThreshold) {
+      if (diff > 0) {
+        // Swipe verso sinistra
+        nextSlide();
+      } else {
+        // Swipe verso destra
+        prevSlide();
+      }
+    }
+  }
+
+  // Event listeners per i pulsanti
+  prevButton.addEventListener('click', () => {
+    stopAutoplay();
+    prevSlide();
+    startAutoplay();
+  });
+
+  nextButton.addEventListener('click', () => {
+    stopAutoplay();
+    nextSlide();
+    startAutoplay();
+  });
+
+  // Event listeners per il mouse
+  guidesWrapper.addEventListener('mouseenter', stopAutoplay);
+  guidesWrapper.addEventListener('mouseleave', startAutoplay);
+
+  // Carica le immagini e inizializza lo slider
+  loadImages();
+  updateSlider();
+  startAutoplay();
+}
+
 // Funzione per inizializzare tutto il codice che dipende da Bootstrap
 function initBootstrapDependentCode() {
   // Gestione del menu mobile
@@ -92,6 +209,9 @@ function initIndependentCode() {
   if (preloader) {
     preloader.style.display = 'none';
   }
+
+  // Inizializza lo slider delle guide
+  initGuidesSlider();
 
   // search-toggle
   const toggleSearchButtons = document.querySelectorAll('.toggle-search');
