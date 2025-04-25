@@ -27,11 +27,57 @@ suffixes = [""]
 [module.hugoVersion]
 extended = true
 min = "0.145.0"
+[outputFormats.HTML]
+  mediaType = "text/html"
+  isHTML = true
+  noUgly = true
+  permalinkable = true
+  minify = true
+[outputFormats.JSON]
+  mediaType = "application/json"
+  minify = true
+[outputFormats.RSS]
+  mediaType = "application/rss+xml"
+  minify = true
 [outputFormats.WebAppManifest]
-mediaType = "application/manifest+json"
-rel = "manifest"
+  mediaType = "application/manifest+json"
+  rel = "manifest"
+  minify = true
 [outputs]
 home = ["HTML", "RSS", "JSON", "WebAppManifest"]
+
+[build]
+  writeStats = true
+  useResourceCacheWhen = "fallback"
+
+[services]
+  [services.googleAnalytics]
+    id = "G-E9L2CG2NZ6"
+    respectDoNotTrack = true
+    anonymizeIP = true
+
+[security]
+  [security.http]
+    [security.http.headers]
+      [security.http.headers.Server]
+        action = "replace"
+        value = "Hugo"
+      [security.http.headers.X-Content-Type-Options]
+        action = "replace"
+        value = "nosniff"
+      [security.http.headers.X-Frame-Options]
+        action = "replace"
+        value = "SAMEORIGIN"
+      [security.http.headers.X-XSS-Protection]
+        action = "replace"
+        value = "1; mode=block"
+      [security.http.headers.Referrer-Policy]
+        action = "replace"
+        value = "strict-origin-when-cross-origin"
+      [security.http.headers.Content-Security-Policy]
+        action = "replace"
+        value = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' https://www.google-analytics.com;"
+
 [sitemap]
   changefreq = 'weekly'
   filename = 'sitemap.xml'
