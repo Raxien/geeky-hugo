@@ -230,12 +230,27 @@ function initIndependentCode() {
           searchBar.classList.toggle('open');
           const searchInput = document.getElementById('search-query');
           if (searchInput) {
-            // Imposta il focus immediatamente
-            searchInput.focus();
-            // Forza l'apertura della tastiera su mobile
-            searchInput.setAttribute('autofocus', '');
             // Assicurati che l'input sia visibile
             searchInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            
+            // Forza il focus e l'apertura della tastiera
+            searchInput.focus();
+            searchInput.click();
+            
+            // Crea e dispa un evento di input per forzare l'apertura della tastiera
+            const inputEvent = new Event('input', { bubbles: true });
+            searchInput.dispatchEvent(inputEvent);
+            
+            // Forza il focus dopo un breve ritardo per assicurarsi che funzioni
+            setTimeout(() => {
+              searchInput.focus();
+              searchInput.click();
+              // Aggiungi un carattere temporaneo e rimuovilo per forzare l'apertura della tastiera
+              searchInput.value = ' ';
+              setTimeout(() => {
+                searchInput.value = '';
+              }, 10);
+            }, 50);
           }
         }
       }
@@ -251,12 +266,27 @@ function initIndependentCode() {
           searchBar.classList.toggle('open');
           const searchInput = document.getElementById('search-query');
           if (searchInput) {
-            // Imposta il focus immediatamente
-            searchInput.focus();
-            // Forza l'apertura della tastiera su mobile
-            searchInput.setAttribute('autofocus', '');
             // Assicurati che l'input sia visibile
             searchInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            
+            // Forza il focus e l'apertura della tastiera
+            searchInput.focus();
+            searchInput.click();
+            
+            // Crea e dispa un evento di input per forzare l'apertura della tastiera
+            const inputEvent = new Event('input', { bubbles: true });
+            searchInput.dispatchEvent(inputEvent);
+            
+            // Forza il focus dopo un breve ritardo per assicurarsi che funzioni
+            setTimeout(() => {
+              searchInput.focus();
+              searchInput.click();
+              // Aggiungi un carattere temporaneo e rimuovilo per forzare l'apertura della tastiera
+              searchInput.value = ' ';
+              setTimeout(() => {
+                searchInput.value = '';
+              }, 10);
+            }, 50);
           }
         }
       }
