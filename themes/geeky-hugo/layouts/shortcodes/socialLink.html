@@ -1,0 +1,9 @@
+{{ $text := .Get 0 }}
+{{ $social := .Get 1 }}
+{{ $socials := site.Params.social }}
+
+{{ range $socials }}
+  {{ if eq .title $social }}
+    <a href="{{ .link }}" target="_blank" rel="nofollow noopener noreferrer" title="Seguici su {{ .title }}" data-social="{{ .title }}">{{$text}}</a>
+  {{ end }}
+{{ end }} 

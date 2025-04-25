@@ -1,0 +1,16 @@
+{{ $social := .Get "social" }}
+{{ $socials := site.Params.social }}
+
+{{ range $socials }}
+  {{ if eq .title $social }}
+    <div class="article__body__social-follow" data-social="{{ .title }}">
+      <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" title="Seguici su {{ .title }}">
+        <div class="social-follow-content">
+          <span class="social-follow-label">seguici su</span>
+          <span class="social-follow-title">{{ .title }}</span>
+        </div>
+        <i class="{{ .icon }} social-follow-icon"></i>
+      </a>
+    </div>
+  {{ end }}
+{{ end }} 
