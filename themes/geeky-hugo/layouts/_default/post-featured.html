@@ -6,12 +6,12 @@
     <!-- image CDN -->
     {{ if hasPrefix $imagePath "http" }}
     <a href="{{.RelPermalink}}" class="d-block" style="overflow: hidden;">
-      <div class="image-container" style="width: 100%; height: 300px; position: relative;">
+      <div class="image-container" style="width: 100%; height: 300px; position: relative; @media (max-width: 767px) { height: 200px; }">
         <img loading="eager" decoding="async" 
           src="{{ $imagePath | safeURL }}" 
           srcset="{{ $imagePath | safeURL }} 1x, {{ $imagePath | safeURL }} 2x"
           alt="{{ .Title }}"
-          class="img-fluid rounded-4 post-featured-image"
+          class="img-fluid post-featured-image"
           fetchpriority="high">
       </div>
     </a>
@@ -26,7 +26,7 @@
     {{ $imageMD:= $image.Resize "600x webp" }}
     {{ $imageSM:= $image.Resize "545x webp" }}
     {{ $imageXS:= $image.Resize "400x webp" }}
-    <a href="{{.RelPermalink}}" class="d-block">
+    <a href="{{.RelPermalink}}" class="d-block" style="overflow: hidden;">
       <picture class="rounded-4">
         <source srcset="{{ $imageXS.RelPermalink }}" media="(max-width: 400px)">
         <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
