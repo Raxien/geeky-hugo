@@ -53,13 +53,24 @@ function param(name) {
 var searchQuery = param("s");
 console.log('Initial search query:', searchQuery);
 
-if (searchQuery) {
+// Controlla se siamo sulla pagina di ricerca
+const isSearchPage = window.location.pathname.includes('/search/');
+
+if (searchQuery && !isSearchPage) {
   console.log('Executing search for:', searchQuery);
   document.getElementById('search-query').value = searchQuery;
   executeSearch(searchQuery);
+} else {
+  // Focus automatico sull'input di ricerca
+  document.getElementById('search-query').focus();
 }
 
 function executeSearch(searchQuery) {
+  // Mostra loading state
+  document.getElementById('search-loading').style.display = 'block';
+  document.getElementById('search-results').style.display = 'none';
+  document.getElementById('no-results').style.display = 'none';
+  
   console.log('Fetching index.json from:', indexURL);
   fetch(indexURL)
     .then(response => response.json())
@@ -69,15 +80,21 @@ function executeSearch(searchQuery) {
       var fuse = new Fuse(pages, fuseOptions);
       var result = fuse.search(searchQuery);
       console.log('Search results:', result.length);
+      
+      // Nascondi loading state
+      document.getElementById('search-loading').style.display = 'none';
+      
       if (result.length > 0) {
+        document.getElementById('search-results').style.display = 'flex';
         populateResults(result);
       } else {
-        const searchResults = document.getElementById('search-results');
-        searchResults.innerHTML = '<div class="text-center"><img class="img-fluid mb-5" src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1701789881/asset/not-found_nw9oea.png" width="200"><h3>Nessun risultato trovato</h3></div>';
+        document.getElementById('no-results').style.display = 'block';
       }
     })
     .catch(error => {
       console.error('Error loading index.json:', error);
+      document.getElementById('search-loading').style.display = 'none';
+      document.getElementById('no-results').style.display = 'block';
     });
 }
 
@@ -145,4 +162,32 @@ function render(templateString, data) {
     templateString = templateString.replace(re, data[key]);
   }
   return templateString;
+}
+
+// Funzione per passare i risultati alla pagina di ricerca
+function redirectToSearchPage(query, results) {
+  // Converti i risultati in stringa JSON
+  const resultsJson = JSON.stringify(results);
+  // Codifica i risultati per l'URL
+  const encodedResults = encodeURIComponent(resultsJson);
+  // Reindirizza alla pagina di ricerca con i risultati
+  window.location.href = `/search/?s=${encodeURIComponent(query)}&r=${encodedResults}`;
+}
+
+// Modifica la funzione di ricerca per utilizzare il reindirizzamento
+function search(query) {
+  if (query.length > 0) {
+    fetch(indexURL)
+      .then(response => response.json())
+      .then(data => {
+        var fuse = new Fuse(data, fuseOptions);
+        var results = fuse.search(query);
+        redirectToSearchPage(query, results);
+      })
+      .catch(error => {
+        console.error('Error:', error);
+        // In caso di errore, reindirizza comunque alla pagina di ricerca
+        window.location.href = `/search/?s=${encodeURIComponent(query)}`;
+      });
+  }
 }
