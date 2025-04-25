@@ -102,6 +102,13 @@
 <meta property="twitter:domain" content="{{ site.BaseURL | replaceRE "^https?://([^/]+).*" "$1" }}"/>
 <meta property="twitter:url" content="{{ .Permalink }}"/>
 
+<!-- Telegram Meta Tags -->
+<meta property="telegram:channel" content="{{ site.Title }}"/>
+<meta property="telegram:site" content="{{ site.Title }}"/>
+<meta property="telegram:title" content="{{ with .Title }}{{ . }}{{ else }}{{ site.Title }}{{ end }}"/>
+<meta property="telegram:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
+<meta property="telegram:image" content="{{ if .Params.image }}{{ .Params.image | absURL }}{{ else }}{{ site.Params.image | absURL }}{{ end }}"/>
+
 <!-- DNS preconnect e prefetch -->
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
