@@ -56,16 +56,9 @@
   console.log('Search page loaded, indexURL:', indexURL);
 </script>
 
-<!-- Load jQuery first -->
-{{ $jquery := resources.Get "plugins/jquery/jquery.min.js" | minify }}
-<script src="{{ $jquery.RelPermalink }}" type="application/javascript"></script>
-
 <!-- Load search scripts -->
 {{ $fuse := resources.Get "plugins/search/fuse.min.js" | minify }}
 <script src="{{ $fuse.RelPermalink }}" type="application/javascript"></script>
-
-{{ $mark := resources.Get "plugins/search/mark.js" | minify }}
-<script src="{{ $mark.RelPermalink }}" type="application/javascript"></script>
 
 {{ $searchJS := resources.Get "plugins/search/search.js" | minify }}
 <script src="{{ $searchJS.RelPermalink }}" type="application/javascript"></script>

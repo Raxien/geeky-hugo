@@ -39,23 +39,19 @@
 </div>
 <script type="application/javascript">
 	document.addEventListener('DOMContentLoaded', function() {
-		if (typeof jQuery !== 'undefined') {
-			(function ($) {
-				const cookieBox = document.getElementById('js-cookie-box');
-				const cookieButton = document.getElementById('js-cookie-button');
-				
-				if (cookieBox && cookieButton) {
-					if (!Cookies.get('cookie-box')) {
-						cookieBox.classList.remove('cookie-box-hide');
-						cookieButton.onclick = function () {
-							Cookies.set('cookie-box', true, {
-								expires: "{{ .expire_days }}"
-							});
-							cookieBox.classList.add('cookie-box-hide');
-						};
-					}
-				}
-			})(jQuery);
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		
+		if (cookieBox && cookieButton) {
+			if (!Cookies.get('cookie-box')) {
+				cookieBox.classList.remove('cookie-box-hide');
+				cookieButton.addEventListener('click', function() {
+					Cookies.set('cookie-box', true, {
+						expires: "{{ .expire_days }}"
+					});
+					cookieBox.classList.add('cookie-box-hide');
+				});
+			}
 		}
 	});
 </script>
