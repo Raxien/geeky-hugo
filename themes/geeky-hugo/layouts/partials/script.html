@@ -1,22 +1,54 @@
-<!-- JS Plugins + Main script -->
-{{ $scripts := slice }}
+<!-- JS Plugins -->
 {{ range site.Params.plugins.js}}
-{{ if findRE "^http" .link }}
-<script src="{{ .link | relURL }}" type="application/javascript" defer {{.attributes | safeHTMLAttr}}></script>
-{{ else }}
-{{ $scripts = $scripts | append (resources.Get .link) }}
-{{ end }}
+<script src="{{ .link | absURL }}" {{ if .defer }}defer{{ end }} {{ if .async }}async{{ end }}></script>
 {{ end }}
 
-{{ $mainScript := resources.Get "js/script.js" }}
-{{ if hugo.IsProduction }}
-{{ $mainScript = resources.Get "js/script.min.js" | resources.Minify }}
+<!-- Main Script -->
+{{ $script := resources.Get "js/script.js" | minify}}
+<script src="{{ $script.Permalink }}" defer></script>
+
+<!-- Google Analytics -->
+{{ if site.Params.googleAnalytics }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.Params.googleAnalytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.Params.googleAnalytics }}');
+</script>
 {{ end }}
 
-{{ $adsScript := resources.Get "js/ads-optimizer.js" }}
-{{ $scripts = $scripts | append $mainScript | append $adsScript }}
-{{ $scripts = $scripts | resources.Concat "js/bundle.js" | minify | fingerprint "sha512" }}
-<script crossorigin="anonymous" defer integrity="{{ $scripts.Data.Integrity }}" type="application/javascript">{{$scripts.Content | safeJS}}</script>
+<!-- Prefetch per domini esterni -->
+<link rel="prefetch" href="https://pagead2.googlesyndication.com" as="document">
+<link rel="prefetch" href="https://www.googletagmanager.com" as="document">
+<link rel="prefetch" href="https://www.google-analytics.com" as="document">
+
+<!-- Lazy loading per immagini -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
+    
+    if ("IntersectionObserver" in window) {
+      let lazyImageObserver = new IntersectionObserver(function(entries, observer) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            let lazyImage = entry.target;
+            lazyImage.src = lazyImage.dataset.src;
+            if (lazyImage.dataset.srcset) {
+              lazyImage.srcset = lazyImage.dataset.srcset;
+            }
+            lazyImage.classList.remove("lazy");
+            lazyImageObserver.unobserve(lazyImage);
+          }
+        });
+      });
+
+      lazyImages.forEach(function(lazyImage) {
+        lazyImageObserver.observe(lazyImage);
+      });
+    }
+  });
+</script>
 
 <!-- Search script -->
 {{ $search := resources.Get "js/search.js" | resources.Minify }}

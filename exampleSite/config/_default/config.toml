@@ -55,6 +55,8 @@ home = ["HTML", "RSS", "JSON", "WebAppManifest"]
     id = "G-E9L2CG2NZ6"
     respectDoNotTrack = true
     anonymizeIP = true
+    defer = true
+    async = true
 
 [security]
   [security.http]
@@ -76,9 +78,15 @@ home = ["HTML", "RSS", "JSON", "WebAppManifest"]
         value = "strict-origin-when-cross-origin"
       [security.http.headers.Content-Security-Policy]
         action = "replace"
-        value = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' https://www.google-analytics.com;"
+        value = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com https://pagead2.googlesyndication.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' https://www.google-analytics.com https://pagead2.googlesyndication.com; prefetch-src 'self' https://www.googletagmanager.com https://www.google-analytics.com https://pagead2.googlesyndication.com;"
 
 [sitemap]
   changefreq = 'weekly'
   filename = 'sitemap.xml'
   priority = 0.5
+
+[params]
+  [params.performance]
+    preload = ["/assets/js/script.js", "/assets/js/carousel.js"]
+    prefetch = ["https://www.googletagmanager.com", "https://www.google-analytics.com", "https://pagead2.googlesyndication.com"]
+    defer = ["/assets/js/script.js", "/assets/js/carousel.js"]
