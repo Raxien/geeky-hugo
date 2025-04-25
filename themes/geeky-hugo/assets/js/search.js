@@ -1,11 +1,3 @@
-// Newsletter subscription handler
-function handleSubscribe(event) {
-  event.preventDefault();
-  const email = document.getElementById('newsletterEmail').value;
-  const encodedEmail = encodeURIComponent(email);
-  window.open(`https://vandipety.substack.com/subscribe?just_signed_up=true&skip_redirect_check=true&utm_medium=web&utm_source=embed&freeSignupEmail=${encodedEmail}`, '_blank');
-}
-
 // Funzione per caricare Fuse.js
 function loadFuse() {
   return new Promise((resolve, reject) => {
