@@ -66,25 +66,25 @@ document.addEventListener('DOMContentLoaded', function() {
         }
             
         // Attach the handlers
-        ele.addEventListener("scroll", debounce(setSelected));
-        ele.addEventListener("touchstart", setInteracted);
+        ele.addEventListener("scroll", debounce(setSelected), { passive: true });
+        ele.addEventListener("touchstart", setInteracted, { passive: true });
         ele.addEventListener('keydown', function (e){
             if(e.key == 'ArrowLeft') ele.classList.add('interacted');
             if(e.key == 'ArrowRight') ele.classList.add('interacted');
-        });
+        }, { passive: true });
   
         nextarrow.addEventListener("click", nextSlide);
-        nextarrow.addEventListener("mousedown", setInteracted);
-        nextarrow.addEventListener("touchstart", setInteracted);
+        nextarrow.addEventListener("mousedown", setInteracted, { passive: true });
+        nextarrow.addEventListener("touchstart", setInteracted, { passive: true });
   
         prevarrow.addEventListener("click", prevSlide);
-        prevarrow.addEventListener("mousedown", setInteracted);
-        prevarrow.addEventListener("touchstart", setInteracted);
+        prevarrow.addEventListener("mousedown", setInteracted, { passive: true });
+        prevarrow.addEventListener("touchstart", setInteracted, { passive: true });
   
         bullets.forEach(function(bullet) {
           bullet.querySelector('a').addEventListener('click', scrollTo);
-          bullet.addEventListener("mousedown", setInteracted);
-          bullet.addEventListener("touchstart", setInteracted);
+          bullet.addEventListener("mousedown", setInteracted, { passive: true });
+          bullet.addEventListener("touchstart", setInteracted, { passive: true });
         });
   
         //setInterval for autoplay

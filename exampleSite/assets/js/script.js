@@ -11,6 +11,12 @@ document.addEventListener('touchmove', function(e) {
   return;
 }, { passive: true });
 
+document.addEventListener('wheel', function(e) {
+  'use strict';
+  // Permetti il comportamento predefinito per tutti gli elementi
+  return;
+}, { passive: true });
+
 // Preloader js
 window.addEventListener('load', function() {
   'use strict';
@@ -222,12 +228,15 @@ function initIndependentCode() {
         const searchBar = document.querySelector(targetId);
         if (searchBar) {
           searchBar.classList.toggle('open');
-          setTimeout(() => {
-            const searchInput = document.getElementById('search-query');
-            if (searchInput) {
-              searchInput.focus();
-            }
-          }, 100);
+          const searchInput = document.getElementById('search-query');
+          if (searchInput) {
+            // Imposta il focus immediatamente
+            searchInput.focus();
+            // Forza l'apertura della tastiera su mobile
+            searchInput.setAttribute('autofocus', '');
+            // Assicurati che l'input sia visibile
+            searchInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          }
         }
       }
     });
@@ -240,12 +249,15 @@ function initIndependentCode() {
         const searchBar = document.querySelector(targetId);
         if (searchBar) {
           searchBar.classList.toggle('open');
-          setTimeout(() => {
-            const searchInput = document.getElementById('search-query');
-            if (searchInput) {
-              searchInput.focus();
-            }
-          }, 100);
+          const searchInput = document.getElementById('search-query');
+          if (searchInput) {
+            // Imposta il focus immediatamente
+            searchInput.focus();
+            // Forza l'apertura della tastiera su mobile
+            searchInput.setAttribute('autofocus', '');
+            // Assicurati che l'input sia visibile
+            searchInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          }
         }
       }
     });
