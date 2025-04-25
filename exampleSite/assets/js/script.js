@@ -1610,7 +1610,9 @@ document.addEventListener('DOMContentLoaded', function() {
   setInterval(function() {
       document.querySelectorAll('iframe').forEach(function(iframe) {
           let src = iframe.getAttribute('src');
-          if (src && src.match(/(ads-iframe)|(disqusads)/gi)) {
+          let id = iframe.getAttribute('id');
+          if ((src && src.match(/(ads-iframe)|(disqusads)/gi)) || 
+              (id && (id === 'indicator-north' || id === 'indicator-south'))) {
               iframe.remove();
           }
       });
