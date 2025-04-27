@@ -91,7 +91,7 @@ A seguito delle sanzioni internazionali **i voli sono diventati più costosi**.
 
 ###### Ingresso via terra 
 
-Per entrare in Russia via terra (a piedi o a bordo di automobile, camper, motocicletta o bus) esistono varie  frontiere, che ti consigliamo di verificare sul sito {{<extLink "di Viaggiare Sicuri" "https://www.viaggiaresicuri.it/schede_paese/pdf/RUS.pdf">}} o tramite {{<extLink "iOverlander" "https://ioverlander.com/">}} **per ottenere informazioni aggiornate.**
+Per entrare in Russia via terra (a piedi o a bordo di automobile, camper, motocicletta o bus) esistono varie  frontiere, che ti consigliamo di verificare sul sito {{<extLink "di Viaggiare Sicuri" "https://www.viaggiaresicuri.it/schede_paese/pdf/RUS.pdf">}} o tramite [iOverlander](/blog/camper-le-applicazioni-da-avere-per-viaggiare)  **per ottenere informazioni aggiornate.**
 
 {{< youtube2 "rLljFmk3fN4">}}
 _La nostra esperienza entrando in Russia dalla Georgia_

@@ -170,7 +170,7 @@ Piccola curiosità: in Casamance ricordati di provare il tapalapa, un pane compo
 Ascoltando l'esperienza di altri viaggiatori, nelle città principali si trovano ostelli e piccoli alberghi, che è meglio contattare telefonicamente dopo aver prenotato online. Lungo la costa si possono trovare anche resort più di lusso. 
 Per quanto riguarda i campeggi, dopo la pandemia il numero di quelli aperti è diminuito. Molti sono stati abbandonati. 
 Sostare in libera è possibile, con le dovute accortezze. 
-Noi abbiamo utilizzato le applicazioni park4night e iOverlander. 
+Noi abbiamo utilizzato le applicazioni [park4night e iOverlander.](/blog/camper-le-applicazioni-da-avere-per-viaggiare) 
 
 ##### Viaggiare con il proprio animale
 {{< animali "EX">}}

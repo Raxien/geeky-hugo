@@ -1,5 +1,5 @@
 ---
-title: 'Viaggiare in camper: le applicazioni da avere!'
+title: 'Viaggiare in camper: le applicazioni da avere! [2025]'
 description: 'Una selezione delle applicazioni indispensabili per viaggiare.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1657879625/Articoli/app_camper_drffxr.jpg
 date: 2022-07-15T09:18:00.000+01:00
