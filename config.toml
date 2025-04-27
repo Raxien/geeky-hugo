@@ -50,12 +50,12 @@ font_icon = "Font Awesome 5 Free"
 ############################# Plugins ##############################
 
 # CSS Plugins
-[[params.plugins.css]]
-link = "plugins/font-awesome/fontawesome.min.css"
-[[params.plugins.css]]
-link = "plugins/font-awesome/brands.css"
-[[params.plugins.css]]
-link = "plugins/font-awesome/solid.css"
+# [[params.plugins.css]]
+# link = "assets/plugins/font-awesome/fontawesome.min.css"
+# [[params.plugins.css]]
+# link = "assets/plugins/font-awesome/brands.css"
+# [[params.plugins.css]]
+# link = "assets/plugins/font-awesome/solid.css"
 
 # JS Plugins
 [[params.plugins.js]]
