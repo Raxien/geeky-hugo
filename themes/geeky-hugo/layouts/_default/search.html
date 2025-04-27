@@ -100,6 +100,10 @@
   // Al caricamento della pagina
   document.addEventListener('DOMContentLoaded', function() {
     const { query, results } = getUrlParams();
+    const loading = document.getElementById('search-loading');
+    
+    // Mostra il loader immediatamente
+    loading.style.display = 'flex';
     
     if (results) {
       // Se abbiamo i risultati nell'URL, mostrali direttamente
@@ -115,9 +119,12 @@
         })
         .catch(error => {
           console.error('Error:', error);
-          document.getElementById('search-loading').style.display = 'none';
+          loading.style.display = 'none';
           document.getElementById('no-results').style.display = 'block';
         });
+    } else {
+      // Se non c'è query, nascondi il loader
+      loading.style.display = 'none';
     }
   });
 </script>

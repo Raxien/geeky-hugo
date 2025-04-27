@@ -2262,3 +2262,17 @@ body.offcanvas-open {
     &:hover { color: darken(#FF9900, 10%); }
   }
 }
+
+/* Search Page Loader */
+#search-loading {
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  .spinner-border {
+    width: 3rem;
+    height: 3rem;
+    color: var(--bs-primary);
+  }
+}
