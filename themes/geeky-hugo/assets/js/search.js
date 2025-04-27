@@ -7,7 +7,7 @@ function loadFuse() {
     }
 
     const script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/npm/fuse.js@6.6.2';
+    script.src = 'https://cdn.jsdelivr.net/npm/fuse.js@7.1.0';
     script.onload = () => resolve(window.Fuse);
     script.onerror = () => reject(new Error('Errore nel caricamento di Fuse.js'));
     document.head.appendChild(script);

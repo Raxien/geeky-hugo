@@ -154,13 +154,50 @@
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
 
-<!-- Google Analytics -->
-<script defer src="https://www.googletagmanager.com/gtag/js?id=G-E9L2CG2NZ6"></script>
+<!-- Google Tag Manager - Ottimizzato -->
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-E9L2CG2NZ6');
+  // Funzione per caricare GTM in modo asincrono
+  function loadGTM() {
+    var gtmScript = document.createElement('script');
+    gtmScript.async = true;
+    gtmScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-E9L2CG2NZ6';
+    document.head.appendChild(gtmScript);
+    
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-E9L2CG2NZ6', {
+      'send_page_view': false,
+      'anonymize_ip': true,
+      'optimize_id': 'OPT-XXXXXXX'
+    });
+  }
+
+  // Carica GTM dopo il caricamento della pagina
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', loadGTM);
+  } else {
+    loadGTM();
+  }
+</script>
+
+<!-- Google Ads - Ottimizzato -->
+<script>
+  // Funzione per caricare Ads in modo asincrono
+  function loadGoogleAds() {
+    var adsScript = document.createElement('script');
+    adsScript.async = true;
+    adsScript.crossOrigin = 'anonymous';
+    adsScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7348628013126614';
+    document.head.appendChild(adsScript);
+  }
+
+  // Carica Ads dopo il caricamento della pagina
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', loadGoogleAds);
+  } else {
+    loadGoogleAds();
+  }
 </script>
 
 <!-- preload immagini articolo -->

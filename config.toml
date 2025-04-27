@@ -61,7 +61,7 @@ font_icon = "Font Awesome 5 Free"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
-link = "https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"
+link = "https://cdn.jsdelivr.net/npm/fuse.js@7.1.0"
 [[params.plugins.js]]
 link = "https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"
 [[params.plugins.js]]

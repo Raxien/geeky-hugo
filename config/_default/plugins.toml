@@ -1,5 +1,5 @@
 [[plugins.js]]
-link = "https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"
+link = "https://cdn.jsdelivr.net/npm/fuse.js@7.1.0"
 attributes = "defer"
 
 [[plugins.js]]
