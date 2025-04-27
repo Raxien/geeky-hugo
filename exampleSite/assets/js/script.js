@@ -1507,6 +1507,23 @@ document.addEventListener('DOMContentLoaded', function() {
 // Funzione per ottenere l'anteprima del primo video pubblico di una playlist
 async function getFirstPublicVideoThumbnail(playlistId, apiKey, facade) {
   try {
+    // Controlla se l'immagine è già in cache
+    const cacheKey = `yt_thumbnail_${playlistId}`;
+    const cachedData = localStorage.getItem(cacheKey);
+    
+    if (cachedData) {
+      const { thumbnailUrl, timestamp } = JSON.parse(cachedData);
+      const oneWeekInMs = 7 * 24 * 60 * 60 * 1000;
+      
+      // Se la cache è più vecchia di una settimana, la invalidiamo
+      if (Date.now() - timestamp < oneWeekInMs) {
+        if (facade) {
+          facade.style.backgroundImage = `url('${thumbnailUrl}')`;
+        }
+        return;
+      }
+    }
+
     const response = await fetch(`https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,status&maxResults=50&playlistId=${playlistId}&key=${apiKey}`);
     const data = await response.json();
     
@@ -1517,6 +1534,12 @@ async function getFirstPublicVideoThumbnail(playlistId, apiKey, facade) {
         const videoId = publicVideo.snippet.resourceId.videoId;
         const thumbnailUrl = `https://img.youtube.com/vi_webp/${videoId}/maxresdefault.webp`;
         const fallbackUrl = `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`;
+        
+        // Salva in cache
+        localStorage.setItem(cacheKey, JSON.stringify({
+          thumbnailUrl,
+          timestamp: Date.now()
+        }));
         
         const img = new Image();
         img.onload = function() {
