@@ -1,7 +1,7 @@
 ---
 title: Il van
 description: Costo, storia ed evoluzione del nostro Van
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1689177365/Articoli/Blog/van_vutmva.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689177365/Articoli/Blog/van_vutmva.jpg
 layout: van
 ---
 

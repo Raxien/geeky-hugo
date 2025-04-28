@@ -1,7 +1,7 @@
 ---
 title: "Andalusia in camper con cane e gatto: itinerario, consigli e informazioni utili"
 description: "Alla scoperta dell'Andalusia in camper, un viaggio on the road alla ricerca di luoghi ricchi di storia affacciati sulla costa"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1688553433/Articoli/andalusia/caminito-del-rey_kpfckj.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1688553433/Articoli/andalusia/caminito-del-rey_kpfckj.jpg
 date: 2023-07-01T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Spagna
@@ -35,12 +35,12 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [direttamente cliccando q
 
 **{{< underline "Giorno 2-3">}}**: ci siamo spostati a **Santiponce**, a 15 km da Siviglia, per scoprire il **centro archeologico romano di Italica** e il **Santuario di San Isidoro**, entrambi piacevoli e gratuiti da visitare. Al centro Italica Oil abbiamo fatto rifornimento di gasolio a un prezzo davvero conveniente. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1688553437/Articoli/andalusia/acipiona_ktrml3.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1688553437/Articoli/andalusia/acipiona_ktrml3.jpg">}}
 
 Successivamente ci siamo spostati a **Siviglia**, in un parcheggio gratuito a mezz'ora piedi dal centro città, che abbiamo subito raggiunto per passeggiare fra le sue vie attraversando il ponte dal quartiere Triana, per arrivare in Piazza di Spagna e ammirare ogni centimetro cubo della sua meravigliosa architettura. Ci siamo poi diretti all'Università, alla Cattedrale e alla Giralda perdendoci per le vie di Santa Cruz, abbiamo dato un'occhiata all'Archivio generale delle Indie e ci siamo spostati al Setas per osservare da fuori la costruzione del centro commerciale e della sua passerella. Sosta in libera.
 L'indomani abbiamo di nuovo raggiunto a piedi il centro città o Casco Antiguo, visitando **in mattinata l'Alcazar** (per il quale ti consigliamo di comprare con anticipo i biglietti {{<extLink "qui" "https://www.realalcazarsevilla.com/it/">}}), il celebre palazzo reale con i suoi giardini, e perdendoci poi per le calle mangiando empanadas, prima di tornare al van e spostarci verso **Chipiona**. Notte affacciati sulla costa in libera. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1688553437/Articoli/andalusia/siviglia_tt6k5i.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1688553437/Articoli/andalusia/siviglia_tt6k5i.jpg">}}
 
 **{{< underline "Giorno 4-5">}}**: abbiamo visitato **Chipiona** per poi dirigerci verso **Cadice**. Per la notte abbiamo preferito un parcheggio un po' fuori città affacciato sulla costa, mentre di giorno ci siamo spostati verso il centro. Complice il maltempo, la nostra visita è stata abbastanza rapida, ma siamo comunque riusciti a passeggiare per le calle, raggiungendo il teatro romano, la Cattedrale, playa de La Caleta, il Castillo de Santa Catalina, Parco Genoves e il Ficus centenario nel giardino Clara Campoamor.
 
@@ -85,7 +85,7 @@ Se arrivi in camper/van trovi un ottimo posteggio sotto gli alberi a un paio di 
 **{{< underline "Giorno 17-18">}}** abbiamo raggiunto **Granada** effettuando una tappa al balcone d'Europa a **Nerja** per ammirare la vista sulla costa. La città è un agglomerato di arte, storia e cultura. La visita dell'Alhambra vale davvero la pena ({{<extLink "clicca qui" "https://www.alhambra-patronato.es">}} se vuoi informazioni sui ticket che occorre prenotare online), così come passeggiare senza meta per le strette calle e osservare la città circondata dai monti della Sierra Nevada. Se ti viene fame non preoccuparti, troverai numerosi locali aperti a ogni ora. Unico consiglio, non avere fretta! 
 <!-- {{< youtube2 YQvnD1BzS7w>}} -->
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1688553437/Articoli/andalusia/granda-alcazar_d5rckk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1688553437/Articoli/andalusia/granda-alcazar_d5rckk.jpg">}}
 
 ###### Itinerario verso Ronda, Setenil e Cordova
 
@@ -93,7 +93,7 @@ Se arrivi in camper/van trovi un ottimo posteggio sotto gli alberi a un paio di 
 Se hai voglia di tapas, nel locale "{{<extLink "El Lechuguita" "https://goo.gl/maps/vueD9BzyAsaVkxfKA">}}" pare ci siano numerose tapas a 1€ (quando eravamo in città era chiuso per ferie, purtroppo!).
 Su una delle applicazioni che usiamo per camperisti avevamo trovato un parcheggio che si affacciava sul ponte. Non te lo consigliamo dato che abbiamo rischiato di non riuscire a risalire sula strada tanto slittavano le ruote. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1688553437/Articoli/andalusia/setenil-de-la-botegas_r5k4zo.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1688553437/Articoli/andalusia/setenil-de-la-botegas_r5k4zo.jpg">}}
 
 **{{< underline "Giorno 14">}}**: **Setenil** è un altro borgo in cui conviene parcheggiare poco fuori città e passeggiare lentamente per le viuzze, un po' per non perderti lo spettacolo delle casette incastonate nella roccia, un po' per via di tutte le salite! A 14 km dalla città si trova un centro romano, **{{<extLink "Acinipo" "https://www.juntadeandalucia.es/cultura/enclaves/enclave-arqueologico-acinipo">}}**, che non offre chissà quali reperti, ma la vista tutto attorno è davvero magica. Noi abbiamo dormito soli nel piazzale e l'abbiamo visitato gratuitamente il mattino per poi rimetterci in pista. 
 
@@ -154,7 +154,7 @@ Ti lasciamo qui due ipotetici itinerari in breve.
 **{{< underline "Giorno 11-12">}}**: Granada
 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1682862720/Articoli/francia/playa-tramonto_ytl2rb.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682862720/Articoli/francia/playa-tramonto_ytl2rb.jpg">}}
 
 ##### Strade 
 In tutta l'Andalusia abbiamo trovato le strade in condizioni perfette. L'autostrada è a pagamento, mentre l'autopista è gratuita.
@@ -163,7 +163,7 @@ In tutta l'Andalusia abbiamo trovato le strade in condizioni perfette. L'autostr
 Noi non abbiamo avuto problemi per la sosta in libera, ma tieni presente che ci siamo recati in un periodo di bassa stagione. 
 Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio, soprattutto nelle zone affacciate sulla costa dato l'ammontare di turisti che scelgono questa zona come meta per le proprie vacanze. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1683223905/deserto-spagna-andalusia_pnkbzj.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683223905/deserto-spagna-andalusia_pnkbzj.jpg">}}
 
 ##### Viaggiare con il proprio animale
 {{< animali "EU">}}
@@ -179,7 +179,7 @@ In camper o auto, le mete imperdibili secondo noi sono:
 -   **{{< bold "Ronda">}}**: è davvero un borgo piacevole, in cui respirare aria di autenticità.
 -   **{{< bold "Setenil de Las Botegas">}}**: noi ci siamo letteralmente persi nelle viuzze, ammirandone ogni angolo nascosto. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1683223926/setenil-de-la-botegas_r5k4zo.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683223926/setenil-de-la-botegas_r5k4zo.jpg">}}
 
 ##### Il nostro Vlog 
 

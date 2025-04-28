@@ -1,7 +1,7 @@
 ---
 title: 'Il Kurdistan Iracheno è pericoloso?'
 description: 'Il popolo Iracheno è fra i più ospitali al mondo, scopriamolo insieme fra pranzi, matrimoni e feste!'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione16/iraq-yazidi-lalish-papa_eejcuo.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione16/iraq-yazidi-lalish-papa_eejcuo.jpg
 date: 2024-05-21T7:00:00+01:00
 categories: [ "Direzione Giappone", "Viaggio in Iraq"]
 type: featured  
@@ -19,7 +19,7 @@ Hamilton stesso nel suo libro di memorie ha descritto il tracciato come **"uno z
 
 Abbiamo optato per il percorso ad anello, trovando sulla via del ritorno un venditore ambulante di pan focaccia che per un attimo ci ha fatti tornare con il pensiero in Liguria.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione16/iraq-hamilton-road-van_hzjddx.jpg" title="Portiamo alto l'onore italiano">}} 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione16/iraq-hamilton-road-van_hzjddx.jpg" title="Portiamo alto l'onore italiano">}} 
 
 ##### Un popolo meraviglioso
 
@@ -31,7 +31,7 @@ In Kurdistan è norma comune essere invitati da tutti, ecco perché ci siamo rit
 Tra 900 persone in una sala nella quale rimbombava tutto a suon di musica, con persone sedute, persone in cerchio tutt’attorno che si tenevano per i mignoli e accennavano passi di danza, c’era posto anche per i due italiani che sapevano solo dire **"supas", grazie, in curdo**, sfoggiando il loro miglior sorriso. 
 È stato bello immergersi in un momento di festa, senza prestar attenzione alla diversità del rito matrimoniale e mangiando quel piatto nazionale composto da riso, pollo, zuppa di legumi al pomodoro. Acqua e lattine di Coca Cola in tavola e poi di nuovo musica a tutto volume e passi di danza, strette di mano, saluti e inviti per l’indomani. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione16/iraq-matrimonio-sposa_o9zope.jpg">}} 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione16/iraq-matrimonio-sposa_o9zope.jpg">}} 
 
 ##### Stesso posto, diversa esperienza
 
@@ -40,7 +40,7 @@ Se avevamo [visitato Lalish e il mausoleo comprendendo pochi dettagli](/blog/dir
 Gli Yazidi negli ultimi anni **sono stati additati come adoratori del diavolo e perseguitati brutalmente dall’Isis**. Gli uomini sono stati uccisi, le donne stuprate e private di identità, i bambini drogati, convertiti all’Islam o uccisi. 
 Abbiamo rivolto tante domande, alle quali ci è stato risposto con gentilezza, senza bisogno di farci credere, solo con l’intento di arricchire la nostra cultura personale. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione16/iraq-yazidi-lalish-foto-con-papa_frzyjp.jpg" title="L'onore di esser fotografati con uno dei due papi">}} 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione16/iraq-yazidi-lalish-foto-con-papa_frzyjp.jpg" title="L'onore di esser fotografati con uno dei due papi">}} 
 
 Abbiamo scoperto che la preghiera degli Yazidi si rivolge due volte al giorno al sole, pregando per il bene di tutto il mondo, di tutti i popoli, di tutti gli Yazidi e solo alla fine per il bene di se stessi, e abbiamo lasciato quello che si può definire il “Vaticano” yazida tra sorrisi e ringraziamenti, diretti a casa del principe per il pranzo, con un invito semplice e caloroso che è sembrato arrivare da persone di famiglia. 
 
@@ -51,7 +51,7 @@ Siamo tornati a un altro matrimonio, abbiamo riconosciuto volti già visti, **ci
 Abbiamo iniziato a salutare i militari con un cenno, a superare i dossi come palline contro i birilli, a comprendere che quel riso che si mangia ogni giorno ha salvato chi è sopravvissuto fra le montagne e simboleggia il valore riservato alle cose semplici ma fondamentali. 
 Abbiamo abbozzato brevi conversazioni, scattato foto ricordo, **spento le telecamere e vissuto il momento.** 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione16/iraq-yazidi-lalish-preghiera_osogun.jpg">}} 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione16/iraq-yazidi-lalish-preghiera_osogun.jpg">}} 
 
 Abbiamo ascoltato racconti di chi ha perso la famiglia, di chi ha combattuto per la propria gente e la propria terra, di chi ha visto cose che non si dovrebbero nemmeno poter immaginare.
 Ci siamo goduti un piatto di pasta al pomodoro e gli gnocchi fatti in casa, rispondendo a quei tanti “a fra poco” che mai ci saremmo aspettati di ricevere al telefono. 

@@ -1,7 +1,7 @@
 ---
 title: 'Non solo l’ennesimo blog: la storia di una "famiglia bestiale"'
 description: Di come cambiare vita, di viaggi e avventure, degli incontri sulla via, di come viaggiare con un gatto al guinzaglio.
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1655735460/Articoli/questo_blog_1.2_snz7mt.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1655735460/Articoli/questo_blog_1.2_snz7mt.jpg
 date: 2022-06-20T09:18:00.000+01:00
 categories: ["Blog"]
 type: regular
@@ -21,4 +21,4 @@ Non ci spaventa non sfruttare il nostro titolo di studio. Non perché ci sentiam
 ##### Qui comincia l’avventura: **rischiamo di essere felici insieme?** 
 Di cosa parleremo in questo blog? Di cambiamenti, di viaggi e avventure, delle vite altrui che incontreremo sulla nostra via, e di come viaggiare con un gatto al guinzaglio possa essere un biglietto da visita estremamente interessante. Nulla di troppo nuovo. Ma *tutto molto molto personale*. Speriamo di catturare un po’ la tua attenzione e regalarti anche solo una piccola parte delle emozioni che a noi piace vivere sulla pelle.
 
-![Una nuova avventura](https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1655735460/Articoli/questo_blog_1.2_snz7mt.jpg)
+![Una nuova avventura](https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1655735460/Articoli/questo_blog_1.2_snz7mt.jpg)

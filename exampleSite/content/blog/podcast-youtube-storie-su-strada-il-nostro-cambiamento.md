@@ -1,7 +1,7 @@
 ---
 title: "\"Storie su strada\": un podcast sul nostro cambiamento di vita"
 description: "Un podcast alla scoperta di come abbiamo deciso di cambiare vita"
-image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1674035838/Articoli/storie_su_stra_ep1_ruaori.png"
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1674035838/Articoli/storie_su_stra_ep1_ruaori.png"
 date: 2023-02-17T23:00:00Z
 categories: ["Blog", "Podcast"]
 type: "regular"

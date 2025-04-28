@@ -1,7 +1,7 @@
 ---
 title: 'Seoul: Cosa vedere in 4 Giorni - Itinerario completo'
 description: 'Scopri Seoul in 4 giorni: itinerario completo con le migliori attrazioni tra storia, cultura e modernità della capitale della Corea del Sud'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1709916475/Articoli/Corea/Seoul/cheonggyecheon-stream_cmib4y.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Corea/Seoul/cheonggyecheon-stream_cmib4y.jpg
 date: 2025-04-17T7:00:00+01:00
 categories: ["Viaggi in Corea", "Itinerari", "Seoul"]
 type: featured  
@@ -115,7 +115,7 @@ Ora che conoscete le attrazioni, ecco come organizzarle in un itinerario di 4 gi
 - **Pomeriggio**: Dirigetevi a **Changdeokgung** per esplorare il giardino segreto (prenotate in anticipo). Poi, passeggiate nel vicino **Ihwa Mural Village** per un tocco artistico.
 - **Sera**: Godetevi **Changgyeonggung** di notte, quando le luci creano un’atmosfera magica.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1709916475/Articoli/Corea/Seoul/seoul-notte_viv9c5.jpg">}} 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Corea/Seoul/seoul-notte_viv9c5.jpg">}} 
 
 ##### Giorno 2: storia e modernità
 - **Mattina**: Scoprite **Namsangol Hanok Village**, immergendovi nella Corea tradizionale. Continuate con **Deoksugung**, un palazzo più intimo ma altrettanto affascinante.

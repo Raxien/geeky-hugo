@@ -1,12 +1,12 @@
 ---
 title: 'Armenia paese numero 31!'
 description: 'Alla scoperta delle ultime donne al mondo a celebrare questo rituale'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione19/ushguli-dall-alto_hzhbkm.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione19/ushguli-dall-alto_hzhbkm.jpg
 date: 2024-07-01T7:00:00+01:00
 categories: [ "Direzione Giappone", "Camper"]
 type: featured  
 country: Armenia 
-draft: false
+draft: true
 ---
 
 La valle di Pankisi, situata nel Caucaso meridionale, rappresenta un luogo unico e speciale per la sua profonda tradizione spirituale. È qui infatti che si svolge un'antica cerimonia, lo Zikr, che vede protagoniste esclusivamente le donne.

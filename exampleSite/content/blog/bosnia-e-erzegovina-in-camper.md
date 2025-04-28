@@ -1,7 +1,7 @@
 ---
 title: 'Bosnia ed Erzegovina in camper: tour di 7 giorni'
 description: "Itinerario di viaggio alla scoperta della Bosnia ed Erzegovina, tra cascate, natura, villaggi persi nel tempo e città storiche."
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1689874010/Articoli/Bosnia/bosnia-in-camper_tnretz
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689874010/Articoli/Bosnia/bosnia-in-camper_tnretz
 date: 2023-11-30T00:00:00.000
 categories: ["Europa", "Itinerari", "Balcani", "Camper"]
 country: Bosnia
@@ -31,7 +31,7 @@ Noi abbiamo raggiunto le mura della vecchia fortezza medievale, da dove si ha un
 Non troppo distanti si trovano **le terme di Vrucica**, vere e proprie sorgenti con acqua calda, immerse in un piccolo canyon naturale. 
 A metà strada verso la tappa successiva ci siamo fermati **al monastero ortodosso di Krupa**, del quale vi consigliamo di visionare gli interni. A pochissimi chilometri di distanza potete ammirare alcuni **mulini ad acqua ancora funzionanti** e d'estate acquistare la farina prodotta in loco.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1689094780/Articoli/Bosnia/banja-luka-chiesa_kzws4c">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Bosnia/banja-luka-chiesa_kzws4c">}}
 
 ###### Jajce
 
@@ -59,7 +59,7 @@ Il tunnel fu scavato in gran segreto a mano, da valorosi volontari attivi su 4 t
 Questo tunnel, denominato anche **"tunnel della speranza"**, è stato il motivo grazie al quale la città è riuscita a mantenersi viva: 700 metri di galleria sotterranea (oggi ne sono visitabili 25) per consentire di far arrivare in città cibo, acqua, medicinali, gasolio e tutto ciò che serviva per far sopravvivere la popolazione.
 Consigliamo veramente di visitarlo per capire di più la tensione di quegli anni. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1689094780/Articoli/Bosnia/tunnel-sarajevo_ocfnn1.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Bosnia/tunnel-sarajevo_ocfnn1.jpg">}}
 
 Da qui ci siamo diretti verso le montagne alle spalle di Sarajevo, per raggiungere la vecchia **pista da bob** utilizzata durante le Olimpiadi invernali del 1984 e poi diventata tristemente famosa come postazione dei cecchini e mortai serbi durante la guerra. 
 Il luogo può sembrare un po' tetro dato che è totalmente in disuso, ma i numerosi segni di mortaio e proiettili sono stati un po' mascherati da graffiti e opere di street-art.
@@ -74,27 +74,27 @@ Interessante è “**la linea che divide oriente da occidente**” lungo la Basc
 Qui si mescolano di nuovo non solo architettura, ma anche religioni e culture. 
 In ultimo abbiamo approfittato di un negozietto per rifocillarci con burek (la tipica sfoglia ripiena dei Balcani) e yogurt e siamo tornati al camper per raggiungere la cittadina di Konjic.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1689094780/Articoli/Bosnia/sarajevo-bazar_zjk3tm.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Bosnia/sarajevo-bazar_zjk3tm.jpg">}}
 
 ###### Konjic
 Questa cittadina è attorniata da colline bellissime e se amate gli sport estivi come il canottaggio potrebbe davvero fare al caso vostro. 
 Noi abbiamo passeggiato per le sue viuzze e attraversato lo storico ponte, ma se avete interesse ed occasione potreste visitare il Bunker di Tito. Si tratta di un grande segreto della ex Jugoslavia, un vero e proprio bunker adibito alla salvaguardia dell'ex presidente e del suo entourage, oggi totalmente restaurato e divenuto museo: si narra che Tito non l'abbia nemmeno mai visto ultimato. La visita è possibile solo con guida in orari prestabiliti, in caso vi conviene informarvi sul {{<extLink "sito web" "https://www.bunker.ba">}} o al centro informazioni. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1689094780/Articoli/Bosnia/konjic-ponte-vecchio_uxrz6a.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Bosnia/konjic-ponte-vecchio_uxrz6a.jpg">}}
 
 ###### Mostar
 Mostar è forse la meta più turistica di tutta la Bosnia ed Erzegovina, il cui simbolo è il ponte **Stari most** (ponte vecchio), distrutto nel 1993 durante la guerra e ricostruito nel 2004. Oggigiorno non è raro vedere ragazzi che in cambio di offerte si tuffano dall’alto dei 20 metri del ponte.
 Per arrivarsi basta camminare lungo le vie del piccolo centro storico che pullula di ristoranti e bancarelle, arrivare alla moschea Koski Mehmed-Pasha (dove è possibile salire sul minareto per avere una vista panoramica sulla città) e percorrere i ciottoli che costeggiano il fiume Neretva fino al ponte. 
 Da qui si può scendere verso sinistra e ritrovarsi sulla sponda per ammirare lo Stari Most dal basso oppure terminare il giro cittadino addentrandosi di nuovo tra vicoli e ristoranti fino a raggiungere un secondo ponticello, anch'esso però molto scenografico. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1689094780/Articoli/Bosnia/mostar_zhmpfg.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Bosnia/mostar_zhmpfg.jpg">}}
 
 ###### Blagaj
 Blagaj è un piccolo villaggio incastonato fra vigneti e montagne, non troppo distante da Mostar, che deve la sua importanza al monastero **Blagaj Tekija**, un monastero derviscio risalente al 1500.
 Ricostruito di recente e abbandonato dai dervisci durante la Seconda Guerra Mondiale per ordine dei nazisti, resta tutt'oggi particolare per essere incastonato nella montagna sulla sorgente del fiume Buna.
 Arrivando ci si ritrova in un luogo un po' snaturato poiché sono stati creati numerosi ristoranti lungo il letto del fiume, e anche trovare la giusta strada per raggiungere il punto panoramico non è semplicissimo (a proposito, spieghiamo come fare nel nostro video in merito). 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1689094780/Articoli/Bosnia/blagaj-monastero_kjqdbg.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Bosnia/blagaj-monastero_kjqdbg.jpg">}}
 
 ###### Počitelj
 
@@ -104,7 +104,7 @@ Questo villaggio è stato disabitato per tantissimi anni ed è solo grazie alla 
 ###### Trebigne
 Trebigne è la città più a sud, a un'ora dal confine con il Montenegro. La città di per sé non ha granché da offrire. Degni di visita sono invece il monastero ortodosso Tvrdos, a 10 minuti dalla città, che contiene affreschi a dir poco splendidi, in un ambiente circondato da vigneti, e il monastero ortodosso che si trova sulla sommità della collina, dove è possibile godere di un panorama mozzafiato. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1689094780/Articoli/Bosnia/trebigne_nqkliz.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Bosnia/trebigne_nqkliz.jpg">}}
 
 ##### Informazioni utili e considerazioni
 Noi abbiamo sempre effettuato sosta in libera e utilizzato due parcheggi a pagamento centrali per la visita diurna nelle cittadine di Sarajevo e Mostar. 

@@ -1,7 +1,7 @@
 ---
 title: 'E'' uscito il Travel Book per seguire il nostro viaggio!'
 description: "Scopri le nostre avventure in tempo reale con post, foto e racconti esclusivi di quest''epico viaggio verso il Giappone"
-image:  https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1657123237/Articoli/Blog/travel-book-jp_avasf5.png
+image:  https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1657123237/Articoli/Blog/travel-book-jp_avasf5.png
 date: 2024-09-22T00:00:00.000
 categories: ["Blog"]
 type: featured
@@ -17,17 +17,17 @@ Se sei abbonato al nostro {{<extLink "canale Instagram" "https://www.instagram.c
 Non perdere neanche un istante! **Avrai accesso alla nostra posizione in tempo reale** di dove siamo nel mondo e di cosa stiamo visitando in anteprima!
 Ogni giorno pubblichiamo nuovi contenuti che ti porteranno con noi, facendoti vivere ogni tappa del nostro viaggio.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1726625950/Articoli/travelbook/jp-travel-book-mondo_ofwjhf.png">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1726625950/Articoli/travelbook/jp-travel-book-mondo_ofwjhf.png">}}
 
 ##### Esplora in anteprima
 Potrai vedere le nostre avventure prima di chiunque altro. Scopri luoghi nascosti, cultura e gastronomia attraverso i nostri occhi! **Oltre 150 post esclusivi e ogni giorno uno nuovo!**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1726625950/Articoli/travelbook/jp-testo_eiscjw.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1726625950/Articoli/travelbook/jp-testo_eiscjw.jpg">}}
 
 ##### Foto e racconti esclusivi
 Ogni post è arricchito da **foto scattate da Paolo e racconti scritti da Sara**, che condividono tutto ciò che accade durante il nostro viaggio!
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1726625950/Articoli/travelbook/jp-foto_mrpuhe.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1726625950/Articoli/travelbook/jp-foto_mrpuhe.jpg">}}
 
 ##### Non perdere l'occasione di vivere il nostro viaggio insieme!
 

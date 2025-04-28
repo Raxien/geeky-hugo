@@ -1,7 +1,7 @@
 ---
 title: 'Road Trip in Portogallo: l''Alentejo'
 description: "Alla scoperta del Portogallo affacciato sull'oceano da vivere on the road!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1683730729/IMG_0723_n3ptpi.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683730729/IMG_0723_n3ptpi.jpg
 date: 2023-04-10T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Portogallo 
@@ -21,7 +21,7 @@ Alcácer do Sal si trova su una dolce collina affacciata sulla sponda destra del
   
 Sines è un antico borgo di pescatori, trasformatosi con il turismo e l'industria. Rimangono tuttavia i resti e le mura di un castello medievale, dal quale si può ammirare tutta la baia. Pare che la città abbia dato i natali a Vasco da Gama (1468-1524). Poco distante da Sines ti consigliamo la spiaggia di Porto Covo: c'è qualche rifiuto (noi abbiamo cercato di pulirla il più possibile) ma regala scorci davvero mozzafiato!
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1683730703/IMG_0486_tdfzfo.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683730703/IMG_0486_tdfzfo.jpg">}}
 
 - **{{< underline "Giorno 3 - Vila Nova de Milfontes">}}**:  
   
@@ -31,14 +31,14 @@ Vila Nova de Milfontes ha un vivace centro storico e splendide spiagge nelle vic
   
   Zambujeira do Mar è un piccolo borgo di pescatori. In inverno appare solitaria e malinconica, mentre si anima d'estate soprattutto per il turismo legato agli sport acquatici. 
 
-  {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1683730625/IMG_0571_qmmtdr.jpg">}}
+  {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683730625/IMG_0571_qmmtdr.jpg">}}
 
 - **{{< underline "Giorno 5 - Bordeira">}}**: 
   
   Bordeira è vicinissima al villaggio di Carrapateira, da dove si accede alla spiaggia mediante una strada asfaltata. Poco distante trovi anche il paesino di Aljezur, con casette colorate e meravigliose passeggiate sulle scogliere.
 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1683730690/IMG_0658_kxmcto.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683730690/IMG_0658_kxmcto.jpg">}}
 
 
 ##### Curiosità

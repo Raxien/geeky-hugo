@@ -1,7 +1,7 @@
 ---
 title: Grazie per l'acquisto!
 description: La storia di com'è un gatto europeo è entrato nella leggenda
-image:  https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1657123237/Articoli/Blog/travel-book-jp_avasf5.png
+image:  https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1657123237/Articoli/Blog/travel-book-jp_avasf5.png
 layout: travel-book
 ---
 

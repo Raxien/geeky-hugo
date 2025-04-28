@@ -1,7 +1,7 @@
 ---
 title: 'Coibentazione: come abbiamo reso il nostro van pronto per le quattro stagioni'
 description: "Prima di ripartire verso est a bordo del van abbiamo deciso di effettuare qualche piccolo upgrade, scopri con noi dove abbiamo messo mano"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
 date: 2023-10-07T08:00:00.000
 categories: ["Blog", "Camper"]
 type: featured
@@ -91,4 +91,4 @@ Sempre con Cris abbiamo fissato la canalina del tendalino in modo che rimanesse 
 Insomma, con un po' di migliorie tecniche e tanta voglia di scoprire il mondo non ci restava che partire... destinazione? 
 Lo scopriremo insieme giorno per giorno!
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}

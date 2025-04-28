@@ -1,7 +1,7 @@
 ---
 title: 'Jeonju: Un viaggio nella cultura e nei sapori della Corea del Sud'
 description: "Jeonju, cuore culturale della regione di Jeollabuk-do, è una destinazione imperdibile per chi desidera immergersi nelle tradizioni, nell’architettura e nella gastronomia della Corea del Sud. Famosa per il suo incantevole Villaggio Hanok e il rinomato bibimbap, Jeonju offre un’esperienza autentica che unisce storia, artigianato e sapori indimenticabili."
-image:  https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1657123237/Articoli/Corea/jeonju-hanok-village_zdu1a1.jpg
+image:  https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1657123237/Articoli/Corea/jeonju-hanok-village_zdu1a1.jpg
 date: 2025-04-15T00:00:00.000
 categories: ["Viaggi in Coreaa"]
 type: regular

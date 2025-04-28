@@ -1,7 +1,7 @@
 ---
 title: 'Anello d''Oro: alla scoperta delle città storiche della Russia'
 description: "Scopri l'Anello d'Oro russo in camper! Un itinerario completo attraverso 8 città storiche, tra cui Suzdal, Vladimir e Yaroslavl. Un viaggio avventuroso e autentico alla scoperta della Russia più autentica."
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1731636403/Articoli/Russia/anello-d-oro/anello-doro-sergiev-posad_tqzdjx.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1731636403/Articoli/Russia/anello-d-oro/anello-doro-sergiev-posad_tqzdjx.jpg
 date: 2024-12-12T10:00:00+01:00
 categories: ["Guida", "Russia"]
 country: "Russia"
@@ -27,7 +27,7 @@ Noi, che amiamo fare un po’ di testa nostra, abbiamo fatto il giro al contrari
 
 La prima città che abbiamo visitato è stata Sergeiev Posad, che si trova a soli 70 km dalla capitale, vicinanza che fa sì che qui i turisti siano tantissimi, e orde di pellegrini affollino i cortili interni del convento. “Posàd” in russo significa “sobborgo”, “borgata”, in questo caso edificata attorno alla figura di San Sergio, e secondo la leggenda, **finché al mondo ci sarà il Monastero della Trinità di San Sergio, il Paese non cadrà.** Tra gli edifici storici più importanti ricordiamo il monastero della Trinità di San Sergio, uno dei più importanti di tutta la Russia, e la Cattedrale della Dormizione, che venne fatta costruire da Ivan il Terribile in persona, riconoscibile grazie alle cupole blu con stelle dorate.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1727247897/Articoli/Russia/anello-d-oro/anello-doro-sergiev-posad_1_hxdnpm.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1727247897/Articoli/Russia/anello-d-oro/anello-doro-sergiev-posad_1_hxdnpm.jpg">}}
 
 
 ###### Pereslavl-Zalessky
@@ -38,7 +38,7 @@ In posizione scenografica lungo le sponde del lago Pleshcheevo, la città di Per
 
 Rostov Velikij, la città più antica del tour Anello d’Oro Russia, **è anche conosciuta come Rostov la Grande.** Fin dalle sue origini fu un centro commerciale di primaria importanza, dove confluirono etnie diverse di provenienza slava, vichinga e sciita. Il suo Cremlino, che ospita fra le imponenti mura bianche la Cattedrale dell’Assunzione e un campanile a vela, **sembra quasi una cattedrale nel deserto che domina la piazza di un paesino anonimo** e agricolo, in un forte contrasto con le vite quotidiane racchiuse fra le pareti colorate delle isbe, le tipiche case in legno. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1727247897/Articoli/Russia/anello-d-oro/rostov-on-don-chiesa_qkgtkm.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1727247897/Articoli/Russia/anello-d-oro/rostov-on-don-chiesa_qkgtkm.jpg">}}
 
 ###### Yaroslavl
 
@@ -49,7 +49,7 @@ Yaroslav è una delle città più antiche della Russia ed è un centro artistico
 Data la posizione elevata sulla riva sinistra del fiume Volga, **Kostroma venne utilizzata negli anni come rifugio dei principi di Mosca.** La città è anche famosa per essere il luogo in cui fu proclamato zar il primo monarca della dinastia Romanov, Mikhail.
 Kostroma è anche, tra le città dell’Anello d’Oro, quella più distante da Mosca: 340 chilometri a nord della capitale russa. Il Monastero di Ipatiev è l’edificio più celebre della città, famosa anche per la lavorazione del lino, con il quale si confezionano caratteristici calzini in lino. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1727247897/Articoli/Russia/anello-d-oro/kostroma-piazza_uwwz4l.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1727247897/Articoli/Russia/anello-d-oro/kostroma-piazza_uwwz4l.jpg">}}
 
 ###### Ivanovo
 
@@ -66,7 +66,7 @@ Suzdal è a tutti gli effetti la città più bella e suggestiva dell’Anello d�
 Vladimir, dista 180 km da Mosca e **vanta un glorioso passato come capitale dell’antica Russia e sede del Metropolita**, luogo dove i Gran Principi russi venivano incoronati. La città, famosa anche per il passaggio della transiberiana sulle sue linee ferroviarie, perse importanza solo nel XVI sec., in coincidenza dell’ascesa di Mosca. 
 La Cattedrale della Dormizione, la Cattedrale di San Demetrio e la Porta d’Oro, realizzate nella seconda metà del XII secolo, esprimono con le loro singolari forme lo stile artistico unico sviluppato nella città di Vladimir a partire dal Medioevo.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1727247897/Articoli/Russia/anello-d-oro/vladimir-citta-anello-d-oro_zmajdo.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1727247897/Articoli/Russia/anello-d-oro/vladimir-citta-anello-d-oro_zmajdo.jpg">}}
 
 ##### Informazioni utili
 

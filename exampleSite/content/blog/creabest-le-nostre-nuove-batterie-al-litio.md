@@ -1,7 +1,7 @@
 ---
 title: 'Creabest: le nostre nuove batterie al litio'
 description: "Oggi vi raccontiamo perché abbiamo installato una nuova batteria al litio a bordo del nostro van"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1689874010/Articoli/Blog/creabest-batteria-litio_d5gxaf.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689874010/Articoli/Blog/creabest-batteria-litio_d5gxaf.jpg
 date: 2023-09-26T08:00:00.000
 categories: ["Camper"]
 type: featured
@@ -18,7 +18,7 @@ Ogni giorno o quasi finora ci siamo ritrovati a dover caricare non solo il frigo
 Per chi non ci conoscesse e si stesse chiedendo perché non ci siamo appoggiati alle colonnine dei campeggi in queste situazioni risponderemo semplicemente per scelta personale ed economica. 
 Detto ciò, quando ci si è presentata l’occasione di poter collaborare con un’azienda tedesca, {{<extLink "la Creabest" "http://creabest.it">}}, produttrice di batterie per camper al litio, non ci siamo tirati indietro. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1689094780/Articoli/Blog/batteria-al-litio-con-van_iqstfb.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/batteria-al-litio-con-van_iqstfb.jpg">}}
 
 ##### La batteria installata
 
@@ -26,14 +26,14 @@ La batteria che ci offrivano, una **LiFePO4 12V da 200Ah**, avrebbe sostituito d
 
 Non vi scriveremo un articolo tecnico sui componenti delle batterie né vi faremo una lezione di fisica perché non siamo minimamente le persone adatte. Vogliamo però raccontarvi quali sono i punti che ci hanno convinti una volta per tutte ad installare una batteria al litio:
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1689094780/Articoli/Blog/installazione-batterial-al-litio_abknzw.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/installazione-batterial-al-litio_abknzw.jpg">}}
 
 1. **Capacità reale**: la batteria è utilizzabile fino all'ultimo ampere rispetto al 50/60% della batteria a Gel! Non esiste effetto memoria quindi la batteria può esser usata in qualsiasi momento senza alterarne la capacità.
 2. **Tempo di vita più lungo**: **Creabest** garantisce 3000 cicli profondi.
 3. **Leggerissima**: pesa la metà rispetto alle nostre precedenti batterie al piombo a parità di stessa capacità.
 4. **Applicazione sul cellulare**: permette **in tempo reale** di monitorare lo stato della batteria con affidabilità. Basta connettere il proprio smartphone via bluetooth alla batteria tramite l'applicazione dedicata per sapere con precisione la percentuale della batteria rimanente, il che ci farà vivere molto meglio.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1689094780/Articoli/Blog/app-controllo-batteria_no03jt.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/app-controllo-batteria_no03jt.jpg">}}
 
 5. **Sicurezza tramite controllo BMS**: il sistema di gestione della batteria (**battery managment system** o BMS) monitora e si adatta alle condizioni della batteria per massimizzare le prestazioni e garantire massima sicurezza. Quando la tensione e la corrente sono anormali il BMS spegne la batteria evitando problemi.
 

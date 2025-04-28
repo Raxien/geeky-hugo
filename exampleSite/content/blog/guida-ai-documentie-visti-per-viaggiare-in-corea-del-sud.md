@@ -1,7 +1,7 @@
 ---
 title: 'Guida ai documenti e visti per viaggiare in Corea del Sud'
 description: 'Scopri tutto ciò che devi sapere sui documenti, visti e requisiti per entrare in Corea del Sud. Dalla validità del passaporto al K-ETA, dalla patente internazionale all’assicurazione sanitaria, questa guida ti accompagna passo dopo passo per un viaggio senza intoppi.'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1709916475/Articoli/Corea/Seoul/palazzo-reale-esterno_jbfkw1.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Corea/Seoul/palazzo-reale-esterno_jbfkw1.jpg
 date: 2025-04-13T7:00:00+01:00
 categories: ["Viaggi in Corea"]
 type: regular  
