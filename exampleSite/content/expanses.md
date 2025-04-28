@@ -12,7 +12,7 @@ Se volete scoprire come facciamo a spendere cosi poco per tutto questo viaggio v
 Nei calcoli non sono inclusi il costo del van e dei suoi accessori che potete trovare [**qui**](https://vandipety.it/van).
 <!-- section break -->
 
-##### Video
+#### Video
 
 _**{{<extLink "Quanto abbiamo speso dopo 6 mesi" "https://youtu.be/CYJHHkg3_3s">}}**_: dopo 6 mesi in viaggio in Europa raccontiamo nel dettaglio le nostre spese.
 

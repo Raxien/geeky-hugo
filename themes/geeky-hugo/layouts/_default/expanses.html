@@ -67,13 +67,19 @@
               <h3 id="dailyCost" class="mb-5 h5 "></h3>
             </div>
           </div>
-          <div class="row" id="yearlyCost">
-            <!-- Il contenuto verrà generato dinamicamente via JavaScript -->
+          <div class="row" id="yearlyCost"> 
+            <div class="years-scrollable">
+              <!-- Il contenuto verrà generato dinamicamente via JavaScript -->
+            </div>
           </div>
-          <h6 class="mb-6 h6 ">Nota:</h6> Essendo un investimento che verra ammortizzato in un anno <b>momentaneamente abbiamo escluso dai conteggi le navi</b>:<br>
-          <b>- Russia (Vladivostok) -> Corea (Donghae)</b> ammonta a <b><a id="travelingSumCostFerry1"></a> euro</b> <br>
-          <b>- Corea (Busan) <-> Giappone (Fukuoka)</b> ammonta a <b><a id="travelingSumCostFerry2"></a> euro</b> <br>
-          Per correttezza se tenessimo conto anche di questo costo la nostra spesa totale sarebbe <b><a id="yearlyCostFerry"></a></b>  e quella giornaliera di <b><a id="dailyCostFerry"></a></b>.
+          <div class="note-section">
+            <p class="mb-3"><b>Nota:</b> Essendo un investimento che verra ammortizzato in un anno <b>momentaneamente abbiamo escluso dai conteggi le navi</b>:</p>
+            <ul class="mb-3">
+              <li><b>Russia (Vladivostok) -> Corea (Donghae)</b> ammonta a <b><a id="travelingSumCostFerry1"></a> euro</b></li>
+              <li><b>Corea (Busan) <-> Giappone (Fukuoka)</b> ammonta a <b><a id="travelingSumCostFerry2"></a> euro</b></li>
+            </ul>
+            <p>Per correttezza se tenessimo conto anche di questo costo la nostra spesa totale sarebbe <b><a id="yearlyCostFerry"></a></b> e quella giornaliera di <b><a id="dailyCostFerry"></a></b>.</p>
+          </div>
         </div>
       </div>
     </div>
@@ -97,17 +103,17 @@
       <div class="col-md-6">
          <div class="border rounded p-4">
            <h2 class="mb-5 h4 title-border">Categoria</h2>
-           <ul class="list-styled" style="columns:2">
+           <div class="chart-container">
              <canvas id="catergory" width="400" height="400"></canvas>
-           </ul>
+           </div>
          </div>
       </div>
       <div class="col-md-6">
          <div class="border rounded p-4">
            <h2 class="mb-5 h4 title-border">Mensile</h2>
-           <ul class="list-styled" style="columns:2">
+           <div class="chart-container">
              <canvas id="monthly" width="400" height="400"></canvas>
-           </ul>
+           </div>
          </div>
       </div>
     </div>
