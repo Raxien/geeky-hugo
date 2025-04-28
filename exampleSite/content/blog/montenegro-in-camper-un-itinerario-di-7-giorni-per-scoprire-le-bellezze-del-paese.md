@@ -1,7 +1,7 @@
 ---
 title: 'Montenegro in camper: un itinerario di 7 giorni per scoprire le bellezze del paese'
 description: "Itinerario di viaggio alla scoperta del Montenegro, tra spiagge affacciate sul fiordo e percorsi escursionistici in bellissimi parchi nazionali"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
 date: 2023-12-17T08:00:00.000
 categories: ["Europa", "Itinerari", "Balcani", "Camper"]
 country: Montenegro
@@ -33,7 +33,7 @@ Successivamente abbiao deciso di avventurarci lungo la **"Kotor Serpentine"**, u
 La strada è molto stretta e ripida, con curve cieche che possono essere pericolose, motivo per cui vi consigliamo di guidare con prudenza. 
 Gli scorci però, in prossimità di alcuni spiazzi più larghi, sono a dir poco meravigliosi e permettono di ammirare la baia a 360 gradi. 
 <!-- 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}} -->
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}} -->
 
 Per via del forte maltempo abbiamo deciso di non visitare il parco di Lovcen, dove volendo si può visitare il famoso Mausoleo Njegos, dato che non avremmo potuto godere delle meraviglie naturali del luogo immerso purtroppo nella nebbia ma abbiamo **proseguito verso Cettigne, l'antica capitale del Montenegro.**
 
@@ -46,7 +46,7 @@ Da qui, dato che continuava a diluviare, abbiamo deciso di spostarci nuovamente 
 **Sveti Stefan** rappresenta un luogo da cartolina ed è caratterizzata da una piccola lingua di terra che collega la terraferma con un isolotto, oggi purtroppo proprietà privata dell’Aman Resort, una struttura impressionante con persiane bianche sempre tutte chiuse e un po' impressionanti. 
 Si può comunque camminare lungo la costa da dove si possono ammirare molti scorci interessanti e volendo mettere mano al portafogli per usufruire dei servizi delle spiagge private. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 Da qui ci siamo spostati alla vicina **Budva**, la perla della costa montenegrina, il cui centro storico racchiuso fra le mura è un dedalo di viuzze con negozi di artigiani, di souvenir, ristoranti e pub. 
 Interessante è la statua della ballerina rivolta verso il suo amato pescatore che non tornerà dal mare. Si trova lungo la baia, fate solo molta attenzione alle onde che potrebbero impedirvi come è successo a noi di arrivarci vicino. 
@@ -70,7 +70,7 @@ Incastonato in una parete rocciosa, il **Monastero di Ostrog** è il luogo di cu
 La strada per arrivarci è decisamente stretta e in salita oltre a essere percorsa da numerosi pullman e il parcheggio e l’ingresso al monastero sono gratuiti.
 Noi l'abbiamo visitato al mattino presto, dopo una notte quasi insonne perché molte persone ubriache pensavano che fossimo un taxi e continuavano a bussare sulla portiera. L'atmosfera secondo noi è un po' rovinata dalle numerose macchinette che dispensano bevande e cibo mono porzione, con il risultato che il piazzale si trasforma più in un luogo da picnic che di culto. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 Avendolo visitato in poco tempo abbiamo deciso di spostarci verso Zabljak, borgo di montagna che da accesso al Parco Nazionale del Durmitor, percorrendo un tratto di strada davvero meraviglioso. 
 
@@ -81,12 +81,12 @@ Il ticket per accedervi è di 2 euro per il parcheggio e di 5 euro a testa per i
 Dal paesino di Zabljak abbiamo raggiunto in una decina di minuti di strada il parcheggio in prossimità del Lago Nero (Crno Jezero), dove abbiamo trovato il botteghino per poter pagare il ticket al ranger di turno. Da qui inizia un percorso a piedi in mezzo al bosco molto suggestivo, che conduce direttamente alla sponda del lago. 
 Potete prendere in considerazione di passeggiarvi attorno come abbiamo fatto noi oppure di imboccare dei trail più impegnativi che richiedono una giornata intera di cammino.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 Avendo solo una giornata di sole a disposizione abbiamo preferito proseguire lungo la P1, una delle strade panoramiche, avventurarci un po' in cima per una pausa pranzo immersi nella natura, e poi dirigerci al Durdevica Tara Bridge, un magnifico ponte ad arco in cemento contornato dalla vallata. 
 Il ponte è stato abbattuto dagli stessi costruttori durante la Seconda Guerra Mondiale per bloccare l'avanzata nazista, ma oggi si può percorrere a piedi o in auto o "volargli" vicino tramite la zipline. Temerari, fatevi avanti!
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 {{< underline "Giorno 7">}}: Mojkovac e uscita dal paese 
 
@@ -94,7 +94,7 @@ Il paese di **Mojkovac** ci è oggi noto solo grazie al fatto che l'abbiamo sfru
 Degni di nota sono il monumento ai caduti, la chiesa ortodossa e un vecchio hotel dall’architettura niente male. 
 Di questa zona del paese ricorderemo però le strade, alcune fra le più belle e panoramiche che abbiamo mai percorso. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 Speriamo che questo itinerario vi sia stato di aiuto e di ispirazione e se avete curiosità o domande vi aspettiamo nei commenti!
 Per tutti gli altri itinerari relativi ai Balcani vi rimandiamo alla sezione apposita, mentre se volete rivivere le nostre avventure un po' dal vivo sul canale Youtube trovate i video dedicati al Montenegro. 
@@ -136,6 +136,6 @@ _Riflettiamo sul perché bisogna andare in Montenegro._
 
 
 **Tappe**: come sempre al fondo dei nostri articoli di trova la mappa con tutti i puntalini relativi ai luoghi di interesse e ai posti in libera dove siamo riusciti a dormire, tenendo conto che abbiamo pernottato con un mezzo 5.40 fuori stagione e non assicurando la validità dei luoghi per sempre. 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 {{< youtube2 RsTGZQ0ZxDI>}}

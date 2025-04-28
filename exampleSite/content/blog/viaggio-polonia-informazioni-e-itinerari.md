@@ -1,7 +1,7 @@
 ---
 title: 'Viaggio in Polonia: tutto quello da sapere e itinerari' 
 description: "Tutto quello che ti serve sapere per andare in Polonia"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682605728/Articoli/Polonia/cracovia_piazza_cizq4y.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1682605728/Articoli/Polonia/cracovia_piazza_cizq4y.jpg
 date: 2022-07-26T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari"]
 country: Polonia
@@ -44,7 +44,7 @@ In inverno puoi visitare alcuni festival e i famosi mercatini di Natale, tuttavi
 
 In generale, il periodo migliore per visitare la Polonia è durante l'estate, quando il clima è mite e ci sono molte attività e eventi culturali in corso. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682607595/Articoli/Polonia/monti_tatra_zakopane_yjhz3h.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1682607595/Articoli/Polonia/monti_tatra_zakopane_yjhz3h.jpg">}}
 
 ##### Come pagare
 La moneta ufficiale è lo zloty polacco (PLN). Le banconote polacche vanno dai 10 PLN ai 200 PLN, mentre le monete variano dai 1 groszy ai 5 zloty.
@@ -78,7 +78,7 @@ Molte compagnie aeree offrono voli nazionali ed internazionali dall'aeroporto Ch
 
 Infine, il servizio di taxi è disponibile in tutto il paese e molti taxi accettano pagamenti con carta di credito o debito.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682606595/Articoli/Polonia/bratislava_gnomo_cuore_lpycxw.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1682606595/Articoli/Polonia/bratislava_gnomo_cuore_lpycxw.jpg">}}
 
 ##### Cosa mangiare 
 I piatti tipici polacchi sono i pierogi, la zuppa di barbabietole, le kielbasa (salsicce), la zurek (zuppa con farina di segale fermentata, legumi, patate, uova sode, funghi, cipolle, pancetta e salsiccia servita dentro a una pagnotta privata della mollica) e per quanto riguarda lo street food noi abbiamo provato la zapiekanka, una sorta di baguette servita come una bruschetta e condita con formaggio, pomodoro, funghi trifolati e spesso anche ketchup o maionese.
@@ -88,7 +88,7 @@ Noi abbiamo avuto la fortuna di assaggiare i pierogi in più occasioni, sia nell
 La zuppa di barbabietola può essere calda e brodosa (Barszcz) servita con gnocchi o tortellini e condita con aceto oppure fredda e guarnita con uova sode (Chlodnik).
 
 Tra le bevande citiamo ovviamente la vodka, ma anche la tradizione delle birre non è da sottovalutare.
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682698131/IMG_1200_nw9rez.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1682698131/IMG_1200_nw9rez.jpg">}}
 
 ##### Dove dormire
 In Polonia ci sono molte opzioni di alloggio, per tutti i budget, tra cui hotel, appartamenti, ostelli e agriturismi.
@@ -116,7 +116,7 @@ Ecco un possibile itinerario di 7 giorni in Polonia con partenza dall'aeroporto 
 **{{< underline "Giorno 4">}}** Visita di Katowice in particolare della Chiesa di San Michele Arcangelo, la 
 Cattedrale di Cristo Re e del quartiere storico Nikiszowiec.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682606369/Articoli/Polonia/cracovia_chiesa_b0br6o.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1682606369/Articoli/Polonia/cracovia_chiesa_b0br6o.jpg">}}
 
 **{{< underline "Giorno 5">}}** Visita in mattinata della città vecchia di Opole. Spostamento nel pomeriggio a Wrocław (Bratislava).
 
@@ -131,17 +131,17 @@ Noi abbiamo avuto la fortuna di visitare i Monti Tatra e il parco di Slowinski (
 
 Il Parco Nazionale dei Monti Tatra è un'importante destinazione per gli amanti della natura e degli sport all'aperto. Situato al confine tra la Polonia e la Slovacchia, ospita la più alta catena montuosa dei Carpazi, con vette che raggiungono i 2.500 metri. Offre una grande varietà di attività all'aperto, tra cui trekking, sci, arrampicata e mountain bike. D'estate la temperatura è mite e piacevole, ma può essere minata da temporali (noi siamo dovuti fuggire a causa di un fastidioso acquazzone).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682607673/Articoli/Polonia/monti_tatra_vista_rjhahp.jpg ">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1682607673/Articoli/Polonia/monti_tatra_vista_rjhahp.jpg ">}}
 
 Il Parco Nazionale di Slowinski, situato sulla costa del Mar Baltico, è famoso per le sue dune di sabbia mobili che si estendono per oltre 40 chilometri lungo la costa. La più famosa è la duna di Lebka. Il parco offre numerose attività all'aperto, tra cui escursioni, camminate sulla spiaggia, e visite ai villaggi di pescatori locali e ai carboni fossili. 
 Per maggiori informazioni relative al parco ti rimandiamo {{<extLink "qui" "https://slowinskipn.pl/en/about-the-park">}}, mentre per quanto riguarda i prezzi sia dell'ingresso al parco che del parcheggio trovi tutto {{<extLink "qui" "https://slowinskipn.pl/en/en-price-list2.html">}}.
 Attenzione: i cani non sono ammessi nel parco ed è vietato campeggiare.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682607523/Articoli/Polonia/Deserto_di_B%C5%82%C4%99d%C3%B3w_vista_pzxfoh.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1682607523/Articoli/Polonia/Deserto_di_B%C5%82%C4%99d%C3%B3w_vista_pzxfoh.jpg">}}
 
 Uno dei parchi nazionali più famosi che per il momento non abbiamo avuto il piacere di visitare è il Parco Nazionale di Białowieża, situato nella parte orientale della Polonia. Al suo interno ospita l'ultima foresta primaria della pianura europea, dove è possibile ammirare specie animali uniche, tra cui il bisonte europeo.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1682607068/Articoli/Polonia/zakopane_pyhsla.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1682607068/Articoli/Polonia/zakopane_pyhsla.jpg">}}
 
 Infine, il Parco Nazionale di Kampinos è situato a pochi chilometri a ovest di Varsavia, è il parco nazionale più vicino alla capitale. Ospita una grande varietà di flora e fauna, tra cui cervi, cinghiali, lontre e numerose specie di uccelli e offre numerose attività all'aperto, tra cui escursioni a piedi, in bicicletta e in canoa.
 

@@ -1,7 +1,7 @@
 ---
 title: 'Esplorare Seoul: Street Food e shopping nei mercati tradizionali'
 description: "Scopri i migliori mercati di Seoul per street food e shopping: Gwangjang, Namdaemun e Myeongdong. Immergiti nella cultura coreana con piatti tradizionali, noodle, bibimbap e prodotti unici, tra mercati aperti h24 e quartieri trendy."
-image:  https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1657123237/Articoli/Corea/Seoul/street-food-seoul_uqmwhq.jpg
+image:  https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1657123237/Articoli/Corea/Seoul/street-food-seoul_uqmwhq.jpg
 date: 2025-04-16T00:00:00.000
 categories: ["Viaggi in Coreaa"]
 type: regular

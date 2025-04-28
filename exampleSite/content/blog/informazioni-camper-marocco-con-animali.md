@@ -1,7 +1,7 @@
 ---
 title: "Marocco in camper con cane e gatto: i documenti necessari"
 description: Quali documenti servono per entrare in Marocco in camper con cane e gatto? 
-image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1675350430/Articoli/IMG_6364_ekk5cx_veifcj.jpg"
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1675350430/Articoli/IMG_6364_ekk5cx_veifcj.jpg"
 date: 2023-03-15T10:00:00Z
 categories: ["Africa", "Guida", "Animali", "Camper"]
 country: Marocco
@@ -95,7 +95,7 @@ In generale, la primavera e l'autunno sono i periodi migliori per viaggiare in M
 
 Se prevedete di visitare le zone vicino a Merzouga e le imponenti dune di sabbia durante la primavera, consigliamo di cercare un campeggio con delle palme: già da inizio Aprile le temperature in questa regione superano i 30/35° di giorno!
 
-![animali](https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1675350434/Articoli/IMG_6024_kswhoo_s8ygtc.jpg)
+![animali](https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1675350434/Articoli/IMG_6024_kswhoo_s8ygtc.jpg)
 
 #### In camper
 Se prevedete di entrare in Marocco con il vostro mezzo non esistono particolari limitazioni. I documenti da avere sono:

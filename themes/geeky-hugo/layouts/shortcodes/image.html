@@ -2,10 +2,10 @@
 <!-- set quality image -->
 {{ if .Get "skip_quality" }}
   {{ .Scratch.Set "src" (.Get "src") }}
-{{ else if strings.Contains (.Get "src") "f_webp,q_auto:good,w_800,c_scale,dpr_auto"  }}
+{{ else if strings.Contains (.Get "src") "f_webp,q_auto,w_800,dpr_auto"  }}
   {{ .Scratch.Set "src" (.Get "src") }}
 {{ else }}
-  {{ .Scratch.Set "src" (replace (.Get "src") "upload/" "upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/") }}
+  {{ .Scratch.Set "src" (replace (.Get "src") "upload/" "upload/f_webp,q_auto,w_800,dpr_auto/") }}
 {{ end }}
 
 <!-- get image path -->

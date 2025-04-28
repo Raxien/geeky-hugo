@@ -1,7 +1,7 @@
 ---
 title: 'Maisan: La montagna Sacra della Corea del Sud'
 description: "Scopri le Montagne Maisan, un gioiello naturale e spirituale della Corea del Sud. Esplora i sentieri, i templi buddisti storici come Tapsa ed Eunsusa, e lasciati affascinare dalle leggende e dai nomi stagionali di questa montagna unica."
-image:  https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1657123237/Articoli/Corea/maisan-tempio-principale_o52hts.jpg
+image:  https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1657123237/Articoli/Corea/maisan-tempio-principale_o52hts.jpg
 date: 2025-04-14T00:00:00.000
 categories: ["Viaggi in Coreaa"]
 type: regular
@@ -25,7 +25,7 @@ La montagna cambia nome con il mutare delle stagioni, riflettendo la sua conness
 ##### Esplorare Maisan: Il sentiero principale
 Il sentiero principale di Maisan **è di difficoltà moderata e richiede circa 3 ore per raggiungere la vetta e tornare indietro.** Sebbene alcuni tratti siano ripidi, le ringhiere di sicurezza lungo il percorso garantiscono un’esperienza accessibile anche per gli escursionisti meno esperti. Durante la salita, potrai ammirare panorami spettacolari e immergerti nella quiete della natura, interrotta solo dal suono del vento e dal canto degli uccelli.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1684676730/Articoli/Corea/maisan-buddah_znrlxr.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1684676730/Articoli/Corea/maisan-buddah_znrlxr.jpg">}}
 
 ##### I Templi di Maisan: Oasi di spiritualità
 Maisan è famosa anche per i suoi templi buddisti, che arricchiscono l’esperienza con la loro storia e atmosfera sacra. Ecco i tre principali:
@@ -41,7 +41,7 @@ Questo tempio **ospita un ritratto di Buddha vecchio di 300 anni** ed è amato d
 
 Tutti i templi sono raggiungibili in meno di 1 ora dal parcheggio pubblico gratuito.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1684676730/Articoli/Corea/maisan-monaco_k9un1t.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1684676730/Articoli/Corea/maisan-monaco_k9un1t.jpg">}}
 
 ##### Perché Visitare Maisan?
 Maisan non è solo una meta per escursionisti, **ma un’esperienza che unisce natura, spiritualità e cultura.** Che tu sia attratto dai sentieri panoramici, dai templi storici o dalle leggende che avvolgono la montagna, questo luogo offre qualcosa di unico in ogni stagione. Porta con te scarpe comode, una mente aperta e preparati a scoprire uno dei tesori più affascinanti della Corea del Sud.

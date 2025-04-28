@@ -1,7 +1,7 @@
 ---
 title: 'Abbiamo pubblicato un libro!'
 description: Vivere in camper senza spendere una fortuna è possibile? Scopri qui come!
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1657123237/Articoli/Blog/guida-al-risparmio_dnepgn.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1657123237/Articoli/Blog/guida-al-risparmio_dnepgn.png
 date: 2024-03-23T00:00:00+01:00
 categories: ["Blog"]
 type: featured   

@@ -1,7 +1,7 @@
 ---
 title: "Empanada spagnola: un piatto unico delizioso!"
 description: "Quando abbiamo attraversato la Spagna in camper abbiamo fatto scorta di empanadas, scopri le nostre preferite"
-image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094771/Articoli/empanada/IMG_9897_doklnq.jpg"
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689094771/Articoli/empanada/IMG_9897_doklnq.jpg"
 date: 2023-07-16T10:00:00Z
 categories: ["Cucina"]
 country: Spagna
@@ -12,7 +12,7 @@ draft: false
 Tra i piatti spagnoli a bordo del nostro van, oltre alla [tortilla che ti abbiamo presentato qui](/blog/tortilla-de-patatas-spagnola-scoprila-insieme-a-noi), non poteva di certo mancare **l’empanada!**
 Diciamo che all’italiana si potrebbe paragonare all’amata torta salata salva cena e in effetti così è anche in questo paese, l’empanada salva tutto e placa **la tristezza delle papille gustative.**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094775/Articoli/empanada/IMG_3098_j6rtcg.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689094775/Articoli/empanada/IMG_3098_j6rtcg.jpg">}}
 
 ##### Empanada: cosa, come e dove?
 
@@ -26,7 +26,7 @@ Ora potresti dirmi: **perché nelle città ho visto negozi di empanadas argentin
 Tranquilla/o, siamo tutti confusi e affamati.
 Ma come direbbero in casa mia, butta giù che poi in pancia tutto si sistema! 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094764/Articoli/empanada/IMG_4229_h60vsi.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689094764/Articoli/empanada/IMG_4229_h60vsi.jpg">}}
 
 ###### La storia, ma sarò breve promesso! 
 
@@ -40,7 +40,7 @@ Ma non preoccuparti, perché in ogni paesino troverai una piccola panetteria in 
 
 In base ai tuoi gusti comunque puoi trovarle anche ripiene di carne o di sole verdure o di formaggio, te l’avevo detto che accontentano chiunque! 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689094748/Articoli/empanada/IMG_3100_gawwoe.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689094748/Articoli/empanada/IMG_3100_gawwoe.jpg">}}
 
 ###### Quali sono gli ingredienti principali dell’empanada? 
 

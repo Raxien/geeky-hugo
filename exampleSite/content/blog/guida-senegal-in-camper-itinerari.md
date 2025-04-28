@@ -1,7 +1,7 @@
 ---
 title: 'Senegal in camper: itinerario, consigli e informazioni utili' 
 description: "Itinerario di viaggio in camper alla scoperta del Senegal - Informazioni, mappe e spot"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1681839060/Articoli/Copertine/Senegal_in_Van_nbfqyv.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1681839060/Articoli/Copertine/Senegal_in_Van_nbfqyv.jpg
 date: 2023-03-26T17:00:00.000
 categories: ["Africa", "Itinerari", "Camper"]
 country: Senegal
@@ -36,7 +36,7 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 **{{< underline "Giorno 2">}}**: ne abbiamo approfittato per visitare il {{<extLink "museo di fotografia di Saint Louis" "https://web.facebook.com/MuseedelaPhotographiedeStLouis/?_rdc=1&_rdr" "museo di fotografia di Saint Louis">}}. La visita si divide in 7 unità dislocate e la vera attrattiva a parer nostro sono proprio le location, vecchie case abbandonate, popolate da arte e natura incolta. Prezzo del biglietto 2000 F (3 euro) a persona, tempo di visita 1,30 h. Sosta in libera sull'isola dei pescatori (puoi usare i pullman cittadini per spostarti o come noi andare a piedi).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1681854068/Articoli/Senegal/Senegal_Museo_SaintLouis_hpmo7k.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1681854068/Articoli/Senegal/Senegal_Museo_SaintLouis_hpmo7k.jpg">}}
 
 **{{< underline "Giorno 3">}}**: abbiamo approfittato del tempo necessario per sbrigare un paio di problematiche legate al passavant del veicolo (in merito trovi tutto [capitolo dedicato](#Dogane)) per visitare una realtà di Saint Louis che si occupa di salvare dalla strada i bambini talibè (piccoli mandati dalle famiglie più povere a studiare il corano presso figure che dovrebbero occuparsi della loro istruzione, i Marabut, e che invece lucrano sul loro vagabondare, facendoli vivere in condizioni penose senza toilette e cibo sufficiente, malmenandoli senza dar loro assistenza medica in caso di infezioni). Nella struttura della {{<extLink "Maison de la Gare" "https://www.mdgsl.com" "Maison de la Gare">}} ci ha accolti Issa, il direttore, con gioia mista a commozione nel raccontarci quanto sia difficile ogni giorno operare in qualità di associazione che vive principalmente di donazioni. Nel pomeriggio ci siamo spostati allo Zebrabar, famoso camping affacciato sull'oceano.
 
@@ -44,7 +44,7 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 **{{< underline "Giorno 5">}}**: abbiamo raggiunto il Lago Retba o maggiormente noto come Lago Rosa, Patrimonio Mondiale dell’UNESCO, che ha perso la peculiarità della sua pigmentazione a causa di piogge torrenziali che a fine 2022 hanno portato via i cumuli di sale e fatto sì che l'alga responsabile del pigmento non riuscisse più a ricreare la magia del luogo. Tant'è, ci ha accolti un lago blu, con acqua schiumosa a riva, pattumiera qua e là e un alone di desolazione, legato ad alcune strutture in decadimento. Sosta in libera in riva al lago.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1681854059/Articoli/Senegal/Senegal_Artisti_qbm10j.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1681854059/Articoli/Senegal/Senegal_Artisti_qbm10j.jpg">}}
 
 ###### Dakar e la Petit Cotè
 **{{< underline "Giorno 6">}}**: guidare nella capitale, Dakar, non è una delle esperienze più semplici, motivo per cui studiando la cartina abbiamo circumnavigato la città dall'esterno, approfittando di un appuntamento nel quartiere periferico di Guediawaye. Qui abbiamo visitato una scuola che insegna alle ragazze a cucire, trovando per loro alcuni stage di inserimento nel lavoro (per informazioni progetto {{<extLink "Sunugal" "https://www.sunugal.it/progetti-sunugal.html">}} e associazione {{<extLink "Gis Gis" "https://web.facebook.com/gisgisdakar/?locale=it_IT&_rdc=1&_rdr">}}, che vende in Italia nei punti di ecomercato). Nel primo pomeriggio abbiamo proseguito lungo la "route de la corniche ovest" per visitare la gigantesca statua in bronzo alta 49 metri raffigurante una donna e un uomo con bambino che troneggia sui tetti della città e sull'Atlantico (Monument de la Reinassance Africane, visitabile anche all'interno a pagamento). Abbiamo sostato in una vietta laterale tranquilla e ombreggiata per dirigerci in piazza dell'Indipendenza e ottenere il primo timbro di proroga sul passavant del mezzo che concede i primi 15 giorni di permesso. Siamo arrivati 15 minuti prima della chiusura e l'operazione è stata rapida! Abbiamo approfittato della vicinanza al porto per visitare un mercato locale: aspettatevi di essere invitati a fermarvi davanti a ogni bancarella per comprare qualcosa e armatevi di pazienza e fermezza laddove necessario!. Abbiamo sostato in un viale alberato nella zona delle ambasciate, ma in città trovi anche un campeggio.
@@ -53,13 +53,13 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 **{{< underline "Giorno 8">}}**: percorrendo la N1, in condizioni migliori rispetto alle strade del nord, abbiamo raggiunto La Somone, villaggio affacciato sulla laguna, visitabile a bordo delle famose piroghe. Noi ne abbiamo approfittato per fare due passi nel mercato del paese, comprare frutta e verdura e passeggiare sulla spiaggia. Il contrasto fra la pulizia in prossimità dei resort e i cumuli di pattumiera nelle strade periferiche è davvero impattante. In questo tratto di costa abbiamo visto molti turisti praticare surf. Abbiamo dormito nel parcheggio custodito vicino alla spiaggia.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1681854055/Articoli/Senegal/Senegal_Saint_Louis_ckexth.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1681854055/Articoli/Senegal/Senegal_Saint_Louis_ckexth.jpg">}}
 
 **{{< underline "Giorno 9">}}**: abbiamo raggiunto la non troppo distante M'Bour per visitare in mattinata un'associazione italiana che offre supporto ai bambini talibè della zona ({{<extLink "Maison des Enfantes" "https://www.lamaisondesenfants.it">}}. Insieme ad altri volontari abbiamo preparato panini per i piccoli e poi giocato con loro intrattenendoli in modo molto semplice, mentre era attiva l'infermeria. Lasciata la struttura con l'amaro in bocca, chiedendoci se avesse avuto un senso il nostro aiuto, abbiamo abbandonato l'idea di visitare il mercato del pesce per il troppo caldo a bordo che avrebbe messo a dura prova i nostri animali e ci siamo diretti a Joel-Fadiouth. Abbiamo dormito sulla spiaggia molto sporca di fronte all'isola, ma notte tranquilla.
 
 **{{< underline "Giorno 10">}}**: sul web si trovano informazioni relative alla visita dell'isola delle conchiglie possibile solamente con una guida. Quando noi siamo arrivati all'imbocco del ponte però non abbiamo trovato nessuno a cui chiedere informazioni, motivo per cui abbiamo passeggiato in solitaria calpestando le numerose conchiglie che coprono tutto il suolo e raggiungendo il cimitero che ospita musulmani e cristiani all'ombra di qualche baobab. Non ci siamo soffermati troppo in zona perché tutto il paesaggio è costellato di pattume che rende la passeggiata non troppo piacevole. Abbiamo quindi velocemente raggiunto il vicino paese Fadial, che ospita il Baobab sacro, maestoso e osservabile al suo interno tramite una fessura dalla quale proveniva però un odore acre che ci ha fatti resistere dall'entrare. Se volete vederlo nel pieno della fioritura dovere recarvi durante la stagione delle piogge.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1681854070/Articoli/Senegal/Senegal_Fadial_Baobab_utzizh.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1681854070/Articoli/Senegal/Senegal_Fadial_Baobab_utzizh.jpg">}}
 
 ###### Direzione Casamance
 Da qui in poi avremmo potuto scegliere fra due possibilità: attraversare la Gambia e la relativa dogana o circumnavigarla allungandoci verso le zone più interne del paese per raggiungere la Casamance (per tutte le alternative vi rimandiamo al paragrafo dedicato). Visto che avevamo già avuto problemi entrando in paese e avendo incontrato più persone che ci avevano raccontato aneddoti vari su posti di blocco corrotti, abbiamo deciso di percorrere più chilometri raggiungendo la città di Tambacounda. L'unico problema che abbiamo riscontrato prendendo questa decisione è stato il caldo, che ha fatto impazzire il cicalino dello scalino del van, impedendoci di proseguire per un paio di ore. Questa disavventura ci ha obbligati a fermarci in città per la notte, con 37 gradi a bordo e un rumore di traffico assordante. Presente un solo "hotel" che chiede 11000 F (16 euro) per poter sostare in una piazzola, abbiamo deciso di spostarci poco più avanti presso un benzinaio (notte infernale).
@@ -68,7 +68,7 @@ Da qui in poi avremmo potuto scegliere fra due possibilità: attraversare la Gam
 
 **{{< underline "Giorno 12">}}**: stanchi per le disavventure e la lunga tratta percorsa abbiamo deciso di goderci questo piccolo angolo di paradiso, camminando sulla sabbia bianca di una spiaggia decisamente più pulita di quelle del nord e salutando cordialmente ogni persona che passava al nostro fianco. Per pranzo abbiamo deciso di provare il piatto tipico del paese, il thieboudienne, riso con pesce e verdure, qui proposto a 1000 F (1,50 euro a piatto). Nel pomeriggio abbiamo raggiunto a piedi la vicina Kabrousse, ultima cittadina prima del confine con la Guinea Bissau, in cui si teneva una festicciola di paese. Siamo stati accolti calorosamente, fra abiti coloratissimi e bambini intenti a correre e ballare. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1681854103/Articoli/Senegal/Senegal_Tiebuden_3_r5nhff.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1681854103/Articoli/Senegal/Senegal_Tiebuden_3_r5nhff.jpg">}}
 
 **{{< underline "Giorno 13">}}**: abbiamo approfittato del ritmo lento della vita nel villaggio per comprare il pane locale, chiamato tapalapa, al costo di 200 F per pezzo, preparato con un mix di farine e prodotto in un forno di fango. Non fatevi ingannare dalle dimensioni, è nettamente più piccolo delle baguette ma decisamente più pesante! Abbiamo inoltre ricaricato la nostra schedina Orange (trovi più sotto le informazioni in merito), pranzato in un altro piccolo bar e passeggiato fra mucche, maialini, caprette libere sulla spiaggia. 
 
@@ -80,7 +80,7 @@ Da qui in poi avremmo potuto scegliere fra due possibilità: attraversare la Gam
 
 **{{< underline "Giorno 17">}}**: salutata anche Elizabeth, la nostra cuoca del cuore dello Chez Marie, ci siamo diretti prima a Elikine, un piccolo villaggio da cui si può ammirare e raggiungere l'isola di Carabane (escursione che vi consigliamo se avete la possibilità di pernottare in loco sfruttando gli orari della piroga pubblica che costa decisamente meno di quella privata), poi a Oussoye, famosa per il bosco sacro e per la diffusione dell'animismo, per poi raggiungere la dogana di Ziguinchor e ottenere il secondo rinnovo di 15 giorni di permesso per il veicolo. Da qui, con 45 gradi a bordo, ci siamo messi in moto direzione Tambacounda, per circumnavigare di nuovo la Gambia e ammirare i villaggetti che ci avevano affascinati all'andata. Non siamo riusciti a raggiungere la città ma ci siamo fermati a 2 ore, dormendo in una delle piazzole ai lati della strada.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1681854098/Articoli/Senegal/Senegal_Tramonto_yhjjck.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1681854098/Articoli/Senegal/Senegal_Tramonto_yhjjck.jpg">}}
 
 **{{< underline "Giorno 18">}}**: percorsi tutti i chilometri dell'entroterra siamo arrivati a Palmarin, piccolo villaggio di pescatori situato in una zona naturalistica. Visto il caldo insopportabile (più di 40 gradi) abbiamo sostato in un campeggio che offriva piazzole ombreggiate. 
 Pulito, con servizi e docce a disposizione, carico dell'acqua limitato, Wi-Fi utile solo per qualche messaggio con Whatsapp, piscina e possibilità di accedere direttamente alla spiaggia (purtroppo le acque erano invase da meduse).
@@ -99,7 +99,7 @@ Pulito, con servizi e docce a disposizione, carico dell'acqua limitato, Wi-Fi ut
 
 **{{< underline "Giorno 25">}}**: abbiamo raggiunto la dogana di Diama alle 16.30, svolgendo le pratiche di uscita in modo rapido e senza problemi. Tenete con voi i franchi senegalesi giusti per pagare sbarre e dogane in quanto non accettano euro (possibilità di cambiare i sefa residui alla frontiera con il Marocco). Abbiamo dormito nel parco nazionale di Dwailing avvantaggiandoci per attraversare la Mauritania in un giorno solo. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1681854092/Articoli/Senegal/Senegal_Bandiera_runzga.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1681854092/Articoli/Senegal/Senegal_Bandiera_runzga.jpg">}}
 
 ##### In Breve
 Di seguito l'itinerario in breve. Abbiamo sempre dormito in libera tranne dove non espressamente indicato

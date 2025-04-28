@@ -1,7 +1,7 @@
 ---
 title: 'Perché Revolut è la migliore carta per viaggiare all’estero e risparmiare in viaggio'
 description: 'Scopri perché Revolut è la carta ideale per viaggiare fuori dall’UE: zero commissioni (tranne il weekend), tasso di cambio interbancario e vantaggi Premium. Risparmia con la nostra esperienza!'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475//Articoli/Blog/revolut-la-carte-per-chi-viaggia_urz27d.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1709916475//Articoli/Blog/revolut-la-carte-per-chi-viaggia_urz27d.png
 date: 2025-04-22T7:00:00+01:00
 categories: ["Viaggi", "Risparmiare in Viaggio"]
 type: regular  
@@ -18,7 +18,7 @@ L’unica eccezione è il weekend (dalle 17:00 di venerdì alle 18:00 di domenic
 #### Tasso di cambio super favorevole
 Il secondo grande vantaggio di Revolut è il suo **tasso di cambio**, tra i più competitivi sul mercato. A differenza delle banche tradizionali o degli exchange, che applicano margini nascosti, Revolut offre tassi trasparenti e vicini al valore reale. **Questo è particolarmente utile fuori dall’UE**, dove i tassi di cambio possono incidere pesantemente sul budget.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1684677033/Articoli/Blog/revolut-commisioni-zerop_l7dg5u.png" title="La prova del 9. Revolut ha effettuato un cambio più favorevole rispetto a quello attuale.">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1684677033/Articoli/Blog/revolut-commisioni-zerop_l7dg5u.png" title="La prova del 9. Revolut ha effettuato un cambio più favorevole rispetto a quello attuale.">}}
 
 Durante [il nostro viaggio verso il Giappone](/blog/dall-italia-al-giappone-in-van), ad esempio, abbiamo pagato al supermercato, ristoranti e benzina sempre con Revolut. Grazie al tasso favorevole, **abbiamo speso meno rispetto a un cambio in contanti o alle nostre altre carte**. L’app di Revolut ci permette di monitorare le spese e vedere in tempo reale il cambio applicato.
 
@@ -27,7 +27,7 @@ Un aspetto che rende Revolut ancora più “figo” per viaggiare è la possibil
 
 La personalizzazione non è solo estetica: avere una carta riconoscibile ci aiuta a distinguerla rapidamente nel portafoglio, soprattutto quando siamo in viaggio e dobbiamo agire in fretta. Con il piano Premium, possiamo accedere a design ancora più esclusivi, perfetti per i viaggiatori che vogliono unire funzionalità e stile.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1684677033/Articoli/Blog/personalizzazione-estrema_udeaqw.png" title="Ne abbiamo una per ogni evenienza.">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1684677033/Articoli/Blog/personalizzazione-estrema_udeaqw.png" title="Ne abbiamo una per ogni evenienza.">}}
 
 #### Perché è ideale per i viaggi extra-UE
 

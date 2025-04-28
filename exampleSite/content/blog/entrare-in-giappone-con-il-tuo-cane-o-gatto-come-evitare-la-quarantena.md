@@ -1,7 +1,7 @@
 ---
 title: "Entrare in Giappone con il tuo cane o gatto: come evitare la Quarantena"
 description: "Scopri come viaggiare con il tuo animale domestico in Giappone evitando la quarantena. Leggi la nostra guida completa sulle procedure e normative."
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1739789765/Articoli/Giappone/giappone-quarantena_mau6pb.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1739789765/Articoli/Giappone/giappone-quarantena_mau6pb.jpg
 date: 2025-02-10T10:00:00+01:00
 categories: [ "Animali", "Guida"]
 type: featured
@@ -62,7 +62,7 @@ I funzionari giapponesi del Maff ti risponderanno valutando la tua documentazion
 A meno di 10 giorni dal viaggio, il tuo animale dovrà essere sottoposto a una visita clinica da parte di un veterinario, che ti rilascerà **un certificato di buona salute e compilerà il Modulo AC.**
 Una volta compilato, il modulo deve essere inviato ai funzionari giapponesi, per verificare che sia corretto. Questo passaggio è molto importante, perché **un piccolo errore potrebbe impedire al tuo animale domestico di entrare in Giappone.**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1739789925/Articoli/Giappone/giappone-certificato-esportazione_c2c1uz.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1739789925/Articoli/Giappone/giappone-certificato-esportazione_c2c1uz.jpg">}}
 
 Dopo la visita clinica, bisogna recarsi presso gli uffici veterinari governativi del paese di provenienza (solitamente ogni veterinario locale fornisce il contatto dell’ufficio più vicino) con il certificato di buona salute e il Modulo AC; qui ti verrà rilasciato **il certificato di esportazione.** Anche questo documento va inviato al Maff per ottenere l'approvazione finale.
 
@@ -76,7 +76,7 @@ Una volta arrivato in Giappone, l’animale sarà sottoposto a un'ulteriore ispe
 Il tuo cane o gatto dovrà essere sempre all'interno del trasportino durante tutta l'ispezione. In genere, l'ispezione dura circa 30 minuti a qualche ora, a seconda della completezza dei documenti e del numero di animali in arrivo.
 A proposito, {{<extLink "ecco il trasportino preferito di Sakè!" "https://www.mrpeanutspetcarriers.com/?rfsn=8379397.59709d&utm_source=refersion&utm_medium=affiliate&utm_campaign=8379397.59709d">}} ed è anche estendibile, e garantisce a Sakè di muoversi liberamente al suo interno. In più ha mille tasche per poterlo rendere il più areato possibile e al suo interno si può sistemare una comoda traversina. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1739789925/Articoli/Giappone/giappone-trasportino_vlzuiu.png">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1739789925/Articoli/Giappone/giappone-trasportino_vlzuiu.png">}}
 
 ###### 5. Procedura Post-Ispezione
 

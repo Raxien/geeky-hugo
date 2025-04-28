@@ -1,7 +1,7 @@
 ---
 title: 'Itinerario di 7 giorni in Kurdistan iracheno in camper: celebrando il Nawruz'
 description: 'Esplora il Kurdistan iracheno in camper con un itinerario di 7 giorni! Celebra il Nawruz, visita Erbil, Lalish, Sulaymaniyah e vivi un’avventura unica.'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/iraq/erbil-la-capitale_pj3ogq.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1709916475/iraq/erbil-la-capitale_pj3ogq.jpg
 date: 2025-04-22T7:00:00+01:00
 categories: ["Viaggio in Iraq", "Itinerari"]
 type: featured  
@@ -32,7 +32,7 @@ Prosegui verso **Aqrah** (~1,5 ore da Lalish), una città che esplode di vita du
 ##### Giorno 4: Hamilton Road verso Erbil
 Guida lungo la spettacolare **Hamilton Road**, una strada panoramica che attraversa gole e montagne, costruita negli anni ‘30. Il tragitto (~3 ore) ti porterà a **Erbil**, la capitale del Kurdistan. Parcheggia in un’area sicura (es. vicino a Sami Abdulrahman Park). Dedica il pomeriggio a rilassarti dopo il viaggio, magari passeggiando nel vivace centro di Erbil.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/iraq/iraq-souvenir_g7eupf.jpg" title="Il souvenir tipico che troverete a Erbil.">}} 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1709916475/iraq/iraq-souvenir_g7eupf.jpg" title="Il souvenir tipico che troverete a Erbil.">}} 
 
 ##### Giorno 5: Esplorare Erbil
 Esplora **Erbil**, iniziando dalla **Cittadella di Erbil**, Patrimonio UNESCO, con viste panoramiche sulla città. Passeggia nel **Qaysari Bazar**, dove troverai souvenir e dolci come **baklava**. La sera, visita il **Parco Shanidar** per osservare la vita locale. Durante il Nawruz, Erbil ospita eventi culturali con danze e musica.

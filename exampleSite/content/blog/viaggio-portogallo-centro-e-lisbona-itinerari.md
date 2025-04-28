@@ -1,7 +1,7 @@
 ---
 title: 'Da Aveiro a Lisbona: 10 giorni on the road'
 description: "Alla scoperta del centro del Portogallo, in un viaggio on the road tra città e onde dell'oceano atlantico"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683737113/IMG_1457_qal72d.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1683737113/IMG_1457_qal72d.jpg
 date: 2023-04-10T17:00:00.000
 categories: ["Europa", "Guida", "Itinerari", "Camper"]
 country: Portogallo 
@@ -20,7 +20,7 @@ Se invece hai intenzione di visitare anche altre zone del paese ti rimandiamo [a
  Aveiro si trova posizionata tra il mare e la laguna ed è attraversata da canali – da qui l'appellativo di _Venezia del Portogallo_ – che un tempo venivano solcati dai coloratissimi moliceiros, barche tradizionali dalla forma affusolata usate per la raccolta delle alghe e del sargasso. Oggi i moliceiros sono la principale attrazione turistica della città, usati per turistiche crociere sul fiume. Nel centro città si trovano edifici in stile art nouveau oltre a un modernissimo polo universitario.
  La città di Aveiro non si affaccia sull’oceano ma le due spiagge più belle nei dintorni di Aveiro sono Costa Nova, famosa per le sue caratteristiche casette di legno a righe colorate, e Praia de Barra, dove è possibile ammirare il faro più alto di tutto il Portogallo. Si trovano a soli 10 km dal centro città e nei mesi estivi si possono raggiungere con un bus diretto.
 
- {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683737087/IMG_0884_wbzgzm.jpg">}}
+ {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1683737087/IMG_0884_wbzgzm.jpg">}}
 
 - **{{< underline "Giorno 2 - Coimbra">}}**:
   
@@ -30,7 +30,7 @@ Se invece hai intenzione di visitare anche altre zone del paese ti rimandiamo [a
   
   Tomar, antica sede dell’Ordine dei Templari, ospita su di una collina sopra la città il Convento de Cristo, una delle più importanti opere rinascimentali in Portogallo. È un edificio davvero affascinante, con numerose cappelle, chiostri e cori, oltre a contenere al suo interno la Charola, l’originaria chiesa romanica costruita su imitazione del Sacro Sepolcro a Gerusalemme. Il prezzo del biglietto è di 6 €, comprensivi anche dei giardini che si affaciano sulla città. .Vi consigliamo di prendervi un paio d'ore per ammirare il {{<extLink "convento" "http://www.conventocristo.gov.pt/pt/index.php">}}.
 
-  {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683737118/IMG_1146_ektdmk.jpg">}}
+  {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1683737118/IMG_1146_ektdmk.jpg">}}
 
 - **{{< underline "Giorno 4 - Nazarè">}}**:
   
@@ -56,7 +56,7 @@ Se invece hai intenzione di visitare anche altre zone del paese ti rimandiamo [a
   
   Cabo da Roca è il punto più a ovest dell’Europa continentale e uno dei promontori portoghesi più suggestivi da visitare. Un tempo creduto la fine del "mondo", è circondato da natura selvaggia e offre passeggiate sulle scogliere, oltre a tramonti davvero spettacolari. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683749567/IMG_1672_afuapz.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1683749567/IMG_1672_afuapz.jpg">}}
 
 
 - **{{< underline "Giorno 9 - Sintra">}}**:
@@ -73,7 +73,7 @@ Se invece hai intenzione di visitare anche altre zone del paese ti rimandiamo [a
   Poco distanti dal centro trovi la Torre di Belém, bastione alto 30 metri e circondato da quattro torrette. che è uno dei monumenti più rappresentativi di Lisbona e il Monastero dos Jeronimos.
   Noi abbiamo amato passeggiare per la città senza fretta, ammirandola ancor di più in orario di tramonto quando la luce del sole la rende davvero raggiante. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683737134/IMG_2021_kbejtx.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1683737134/IMG_2021_kbejtx.jpg">}}
 
 
 ##### Curiosità
@@ -81,7 +81,7 @@ A Lisbona abbiamo comprato (e divorato!) il Pastel de nata, o Pastéis de Belém
 Non temere di non vedere i tipici tram gialli simbolo della città! Quando meno te lo aspetti "sfrecceranno" al tuo fianco e potrai scattare loro una fotografia o salirci al volo!
 Se ti avanza un po' di tempo potresti raggiungere la vicina Cascais, cittadina molto carina e con una bella passeggiata sulla costa. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1683737077/IMG_1704_a1vehj.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1683737077/IMG_1704_a1vehj.jpg">}}
 
 
 ##### Il nostro Vlog 

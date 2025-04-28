@@ -1,7 +1,7 @@
 ---
 title: 'La DMZ: un viaggio nella storia e nella divisione della Corea'
 description: 'Scopri la DMZ, la Zona Demilitarizzata tra Corea del Sud e Corea del Nord. Esplora la sua storia, siti iconici come Imjingak e JSA, e gemme nascoste come l’Osservatorio di Goseong. Pianifica il tuo viaggio con i nostri consigli!'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/Articoli/Corea/DMZ/dmz-zona-di-guerra_hhztbh.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1709916475/Articoli/Corea/DMZ/dmz-zona-di-guerra_hhztbh.jpg
 date: 2025-04-11T7:00:00+01:00
 categories: ["Viaggi in Corea"]
 type: featured  
@@ -52,6 +52,6 @@ I tour organizzati sono il modo più semplice per esplorare la DMZ. Partono da S
 ##### Un’esperienza oltre il confine
 La DMZ non è solo un luogo di divisione, ma anche di speranza e memoria. Ogni monumento, tunnel o osservatorio racconta una storia di resilienza e desiderio di pace. A Seoul, il War Memorial Museum approfondisce ulteriormente la storia del conflitto, offrendo un complemento perfetto a questa visita (leggi il nostro articolo correlato sul museo). Un viaggio alla DMZ è un’occasione per comprendere la complessità della penisola coreana, lasciando un’impronta profonda in chi la esplora.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1727247897/Articoli/Corea/DMZ/dmz-la-corea-del-nord_jpnwnm.jpg" title="Osservare da lontano la Corea del Nord è molto emozionante." >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1727247897/Articoli/Corea/DMZ/dmz-la-corea-del-nord_jpnwnm.jpg" title="Osservare da lontano la Corea del Nord è molto emozionante." >}}
 
  

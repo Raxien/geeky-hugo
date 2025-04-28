@@ -1,7 +1,7 @@
 ---
 title: 'Come entrare nel Kurdistan iracheno: Guida completa per viaggiatori'
 description: 'Scopri come entrare nel Kurdistan iracheno: guida su visti, voli, sicurezza e attrazioni per Erbil e Sulaymaniyah.'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475//iraq/iraq-kurdistan-iracheno_avgjtc.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1709916475//iraq/iraq-kurdistan-iracheno_avgjtc.jpg
 date: 2025-04-20T7:00:00+01:00
 categories: ["Viaggio in Iraq"]
 type: featured  
@@ -107,7 +107,7 @@ Prima di partire, assicurati di avere:
 
 {{< assicurazione >}}
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1709916475/iraq/venditore-di-tappeti-a-erbil_yjfzeu.jpg" title="Un venditore di tappeti a Erbil.">}} 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1709916475/iraq/venditore-di-tappeti-a-erbil_yjfzeu.jpg" title="Un venditore di tappeti a Erbil.">}} 
 
 #### Consigli pratici per il tuo viaggio
 - **Periodo migliore**: Primavera (marzo-maggio) e autunno (settembre-novembre) offrono temperature ideali. L’estate è molto calda, l’inverno freddo in montagna.

@@ -1,7 +1,7 @@
 ---
 title: 'Madrid in 1 giorno a costo 0'
 description: Vuoi visitare Madrid in poco tempo e senza spendere un capitale? Scopri con noi il tour perfetto in 10 tappe. 
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689672144/Articoli/empanada/madrid/IMG_3501_p1al70.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689672144/Articoli/empanada/madrid/IMG_3501_p1al70.jpg
 date: 2023-07-17T10:00:00+01:00
 categories: [ "Europa", "Guida"]
 country: Spagna
@@ -19,7 +19,7 @@ In base alla nostra esperienza ti consigliamo di [parcheggiare qui](#le-nostre-m
 ###### 1. Passeggiare nel Parco del Buen Ritiro
 In questo polmone verde cittadino ci si può letteralmente perdere a passeggio. Troverai zone in ombra dove riposarti o leggere un libro, alcuni servizi per consumare un pasto veloce, il Palazzo di Cristallo (quando siamo stati noi non si poteva accedere nella famosa struttura, ma solitamente l’ingresso è gratuito), alcuni musei, un lago che puoi ammirare anche a bordo di numerose imbarcazioni da affittare in loco. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689672144/Articoli/empanada/madrid/IMG_3460_q4q0kq.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689672144/Articoli/empanada/madrid/IMG_3460_q4q0kq.jpg">}}
 
 ###### 2. Passeggiare lungo l’elegantissima Gran Vía
 Si tratta di una delle strade più famose di Madrid, dove ci si può perdere fra le vetrine di negozi di marca e ristoranti, oltre a imbattersi negli edifici più iconici della città. Piccola curiosità, nel suo momento d'oro era chiamata **"la broadway madrilegna".**
@@ -33,7 +33,7 @@ Per un attimo ti verrà voglia di chiudere gli occhi e immaginarti a **New York 
 ###### 5. Ammirare il panorama della città dall’alto
 Esistono molti punti panoramici per vedere Madrid dall'alto ma solo uno ti permetterà di farlo gratuitamente! Salendo al 9° piano del centro commerciale **{{<extLink "El Corte Inglés" "https://goo.gl/maps/zXx18ArPCsHwcoKz8">}}** troverai una bellissima terrazza con vista **sull'elegantissima Gran Vía!**. Potrai anche fare colazione o uno spuntino o aperitivo seduto su uno degli sgabelli del bar/ristorante.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689672120/Articoli/empanada/madrid/IMG_3566_qnqhwy.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689672120/Articoli/empanada/madrid/IMG_3566_qnqhwy.jpg">}}
 
 ###### 6. Visitare i musei
 Madrid è famosa anche per i suoi musei in particolare il **Prado** e il museo di arte contemporanea **Reina Sofia**! Noi abbiamo abbandonato l’idea perché le code di ingresso erano infinite ma questi musei sono visitabili **gratuitamente** nei seguenti orari:
@@ -53,7 +53,7 @@ Madrid è famosa anche per i suoi musei in particolare il **Prado** e il museo d
 ###### 7. Ammirare gli interni della stazione di Atocha
 Inaugurata il 9 febbraio 1851 oggi ospita un giardino tropicale che regala un angolo di pace e freschezza in città. Noi ci siamo andati per mangiare il boccadilo tipico di Madrid. Di cosa si tratta? Continua a leggere o, se non riesci a resistere, [clicca qui per scoprirlo](#ti-è-venuta-fame)!
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689672145/Articoli/empanada/madrid/IMG_3480_vjxda0.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689672145/Articoli/empanada/madrid/IMG_3480_vjxda0.jpg">}}
 
 ###### 8 Ammirare Plaza Mayor 
 E' una delle piazze più famose di Madrid e ti consigliamo vivamente di visitarla al mattino presto: non ci sarà nessuno e ti regalerà un'atmosfera surreale.
@@ -64,7 +64,7 @@ L'ingresso alla **Cattedrale dell'Almudena** non è proprio gratuito bensì a "o
 ###### 10. Ammirare la Piazza del Palazzo Reale
 A due passi dalla cattedrale ci si può concedere una passeggiata nei giardini dai quali ammirare il Palazzo Reale da più angolazioni.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1689672151/Articoli/empanada/madrid/IMG_3554_y73s7x.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1689672151/Articoli/empanada/madrid/IMG_3554_y73s7x.jpg">}}
 
 ##### Ti è venuta fame? 
 In ogni angolo troverai un locale dove consumare tapas, ma ti consigliamo di non perderti il famoso boccadillo della città: **El Bocadillo de Calamares**, ovvero il panino con i calamari fritti! Fa strano che nel centro della Spagna, a ben 350 km dalla costa, il piatto tipico siano i calamari. Il motivo? **Nessuno lo sa**, ma così è. Buon appetito 😂

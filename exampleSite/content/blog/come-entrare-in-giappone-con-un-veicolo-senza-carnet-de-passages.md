@@ -1,7 +1,7 @@
 ---
 title: "Ecco come entrare in Giappone con un veicolo senza Carnet de Passages"
 description: "Scopri come entrare in Giappone con il tuo veicolo senza spendere inutili soldi per il Carnet de Passages en Douane. Segui la nostra guida per richiedere il Permesso di Importazione Temporanea, un'alternativa gratuita e semplice, basata sulla nostra esperienza personale"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1739789765/Articoli/camper/camper-tori_nxvehm.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1739789765/Articoli/camper/camper-tori_nxvehm.jpg
 date: 2025-02-10T10:00:00+01:00
 categories: [ "Camper", "Guida"]
 type: featured
@@ -86,7 +86,7 @@ Il TIP permette anche di spedire il tuo mezzo dal Giappone in qualsiasi altro pa
 
 Se fosse troppo compleso ricordati che puoi sempre andare nella vicina Corea del Sud dove non è richiesto il CPD ed è più facile ed economico spedire il proprio mezzo.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto:good,w_800,c_scale,dpr_auto/v1739789925/Articoli/camper/camper-giappone_bknmu4.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1739789925/Articoli/camper/camper-giappone_bknmu4.jpg">}}
 
 ##### Assicurazione: obbligatoria per guidare in Giappone
 
