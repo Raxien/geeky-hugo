@@ -339,23 +339,185 @@ function initIndependentCode() {
   });
 }
 
-// Inizializzazione
-window.addEventListener('load', function() {
-  // Inizializza il codice indipendente da Bootstrap
-  initIndependentCode();
+//=================== Cache Management ===================
+const CACHE_EXPIRATION = 24 * 60 * 60 * 1000; // 24 ore in millisecondi
 
-  // Inizializza il codice dipendente da Bootstrap
-  if (typeof bootstrap !== 'undefined') {
-    initBootstrapDependentCode();
-  } else {
-    // Se Bootstrap non è ancora caricato, aspettiamo che lo sia
-    const checkBootstrap = setInterval(() => {
-      if (typeof bootstrap !== 'undefined') {
-        clearInterval(checkBootstrap);
+function getCachedData(key) {
+    const cached = localStorage.getItem(key);
+    if (!cached) return null;
+    
+    const { data, timestamp } = JSON.parse(cached);
+    if (Date.now() - timestamp > CACHE_EXPIRATION) {
+        localStorage.removeItem(key);
+        return null;
+    }
+    return data;
+}
+
+function setCachedData(key, data) {
+    const cacheData = {
+        data,
+        timestamp: Date.now()
+    };
+    localStorage.setItem(key, JSON.stringify(cacheData));
+}
+
+// Funzione per precaricare tutti i dati necessari
+async function preloadAllData() {
+    const endpoints = [
+        { key: 'expenses', url: `${rpcUrl}/sw/getSpeseAnno` },
+        { key: 'category', url: `${rpcUrl}/sw/getSpesePerCategoria` },
+        { key: 'monthly', url: `${rpcUrl}/sw/getSpesePerMese` },
+        { key: 'grid', url: `${rpcUrl}/sw/getSpese` },
+        { key: 'trip', url: `${rpcUrl}/data/trip` },
+        { key: 'map', url: `${rpcUrl}/data/map` },
+        { key: 'cities', url: `${rpcUrl}/data/ru_it` },
+        { key: 'press', url: `${rpcUrl}/data/press` }
+    ];
+
+    // Carica i dati solo se non sono già in cache
+    for (const endpoint of endpoints) {
+        if (!getCachedData(endpoint.key)) {
+            try {
+                const response = await fetch(endpoint.url);
+                const data = await response.json();
+                setCachedData(endpoint.key, data);
+            } catch (error) {
+                console.error(`Errore nel precaricamento dei dati per ${endpoint.key}:`, error);
+            }
+        }
+    }
+}
+
+// Modifica delle funzioni di fetch esistenti
+async function fecthExpenseData() {
+    const cached = getCachedData('expenses');
+    if (cached) {
+        processExpenseData(cached.json);
+        return cached;
+    }
+    
+    try {
+        const response = await fetch(`${rpcUrl}/sw/getSpeseAnno`);
+        const data = await response.json();
+        setCachedData('expenses', data);
+        processExpenseData(data.json);
+        return data;
+    } catch (error) {
+        console.error('Error fetching SW data:', error);
+    }
+}
+
+async function fecthChartCategoryData() {
+    const cached = getCachedData('category');
+    if (cached) {
+        setChartCategory(cached);
+        return cached;
+    }
+    
+    try {
+        const response = await fetch(`${rpcUrl}/sw/getSpesePerCategoria`);
+        const data = await response.json();
+        setCachedData('category', data);
+        setChartCategory(data);
+        return data;
+    } catch (error) {
+        console.error('Error fetching SW data:', error);
+    }
+}
+
+async function fecthChartMonthlyData() {
+    const cached = getCachedData('monthly');
+    if (cached) {
+        setChartMonthly(cached);
+        return cached;
+    }
+    
+    try {
+        const response = await fetch(`${rpcUrl}/sw/getSpesePerMese`);
+        const data = await response.json();
+        setCachedData('monthly', data);
+        setChartMonthly(data);
+        return data;
+    } catch (error) {
+        console.error('Error fetching SW data:', error);
+    }
+}
+
+async function fecthGridData() {
+    const cached = getCachedData('grid');
+    if (cached) {
+        setGrid(cached);
+        return cached;
+    }
+    
+    try {
+        const response = await fetch(`${rpcUrl}/sw/getSpese`);
+        const data = await response.json();
+        setCachedData('grid', data);
+        setGrid(data);
+        return data;
+    } catch (error) {
+        console.error('Error fetching SW data:', error);
+    }
+}
+
+async function getTripData() {
+    const cached = getCachedData('trip');
+    if (cached) {
+        setTripData(cached);
+        return cached;
+    }
+    
+    try {
+        const response = await fetch(`${rpcUrl}/data/trip`);
+        const data = await response.json();
+        setCachedData('trip', data);
+        setTripData(data);
+        return data;
+    } catch (error) {
+        console.error('Error fetching trip data:', error);
+    }
+}
+
+async function getMapData() {
+    const cached = getCachedData('map');
+    if (cached) {
+        setMap(cached.json);
+        return cached;
+    }
+    
+    try {
+        const response = await fetch(`${rpcUrl}/data/map`);
+        const data = await response.json();
+        setCachedData('map', data);
+        setMap(data.json);
+        return data;
+    } catch (error) {
+        console.error('Error fetching map data:', error);
+    }
+}
+
+// Modifica della funzione di inizializzazione
+document.addEventListener('DOMContentLoaded', function() {
+    // Precarga i dati in background
+    preloadAllData();
+    
+    // Inizializza il codice indipendente da Bootstrap
+    initIndependentCode();
+
+    // Inizializza il codice dipendente da Bootstrap
+    if (typeof bootstrap !== 'undefined') {
         initBootstrapDependentCode();
-      }
-    }, 100);
-  }
+    } else {
+        // Se Bootstrap non è ancora caricato, aspettiamo che lo sia
+        const checkBootstrap = setInterval(() => {
+            if (typeof bootstrap !== 'undefined') {
+                clearInterval(checkBootstrap);
+                initBootstrapDependentCode();
+            }
+        }, 100);
+    }
 });
 
 // Load more posts
@@ -413,50 +575,6 @@ const color = [ 'rgba(255, 99, 132, 1)',
                 'rgba(204, 255, 204, 1)',
                 'rgba(255, 153, 153, 1)'
 ]
-
-async function fecthExpenseData() {
-    try {
-        const response = await fetch(`${rpcUrl}/sw/getSpeseAnno`);
-        const data = await response.json();
-        processExpenseData(data.json);
-        return data;
-    } catch (error) {
-        console.error('Error fetching SW data:', error);
-    }
-}
-
-async function fecthChartCategoryData() {
-    try {
-        const response = await fetch(`${rpcUrl}/sw/getSpesePerCategoria`);
-        const data = await response.json();
-        setChartCategory(data);
-        return data;
-    } catch (error) {
-        console.error('Error fetching SW data:', error);
-    }
-}
-
-async function fecthChartMonthlyData() {
-    try {
-        const response = await fetch(`${rpcUrl}/sw/getSpesePerMese`);
-        const data = await response.json();
-        setChartMonthly(data);
-        return data;
-    } catch (error) {
-        console.error('Error fetching SW data:', error);
-    }
-}
-
-async function fecthGridData() {
-    try {
-        const response = await fetch(`${rpcUrl}/sw/getSpese`);
-        const data = await response.json();
-        setGrid(data);
-        return data;
-    } catch (error) {
-        console.error('Error fetching SW data:', error);
-    }
-}
 
 function processExpenseData(data) {
     updateUIElements({
@@ -605,9 +723,18 @@ async function buildPressList() {
         const pressElement = document.getElementById('press');
         if (!loader || !pressElement) return;
 
-        const response = await fetch(`${rpcUrl}/data/press`);
-        const data = await response.json();
-        const pressItems = data.json;
+        // Controlla prima la cache
+        const cached = getCachedData('press');
+        let pressItems;
+        
+        if (cached) {
+            pressItems = cached.json;
+        } else {
+            const response = await fetch(`${rpcUrl}/data/press`);
+            const data = await response.json();
+            pressItems = data.json;
+            setCachedData('press', data);
+        }
         
         pressItems.sort(sortByDate);
 
@@ -681,17 +808,6 @@ function setVanCost(initialCost, accessoryCost) {
     }
 }
 
-async function getTripData() {
-    try {
-        const response = await fetch(`${rpcUrl}/data/trip`);
-        const data = await response.json();
-        setTripData(data);
-        return data;
-    } catch (error) {
-        console.error('Error fetching trip data:', error);
-    }
-}
-
 // Funzione di inizializzazione per la pagina van
 function initVanPage() {
     if (!document.getElementById('travelingKm')) return;
@@ -760,6 +876,9 @@ function setMap(mapJson) {
 
     mapboxgl.accessToken = 'pk.eyJ1IjoicmF4aWVuIiwiYSI6ImNscHA1cDBkNjExMjQybW1zdDdwN2tydmYifQ.dWypGWy2wcMCPjDv5yKGsQ';
 
+    // Disabilita l'uso dei worker
+    mapboxgl.supportsWorker = false;
+
     const map = new mapboxgl.Map({
         container: "map",
         style: "mapbox://styles/mapbox/light-v10",
@@ -768,7 +887,9 @@ function setMap(mapJson) {
         pitch: 60,
         maxZoom: 13,
         minZoom: 4,
-        center: [lat, long]
+        center: [lat, long],
+        // Disabilita l'uso dei worker
+        workerCount: 0
     });
 
     map.scrollZoom.disable();
@@ -890,17 +1011,6 @@ function setMap(mapJson) {
 
     map.on('mouseenter', 'places', () => map.getCanvas().style.cursor = 'pointer');
     map.on('mouseleave', 'places', () => map.getCanvas().style.cursor = '');
-}
-
-async function getMapData() {
-    try {
-        const response = await fetch(`${rpcUrl}/data/map`);
-        const data = await response.json();
-        setMap(data.json);
-        return data;
-    } catch (error) {
-        console.error('Error fetching map data:', error);
-    }
 }
 
 // Funzione di inizializzazione per la pagina trip
