@@ -1,7 +1,7 @@
 ---
 title: 'Kazan: Guida completa alla scoperta della capitale del Tatarstan'
 description: "Meta descrizione: Scopri le meraviglie di Kazan, la perla del Tatarstan. Dal Cremlino patrimonio UNESCO alla moschea Qol Šärif, passando per la Torre Siuyumbike e la cucina tartara, un viaggio indimenticabile tra storia e cultura."
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1731636403/Articoli/Russia/Kazan/kazan-cremlino_g3zepr.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1731636403/Articoli/Russia/Kazan/kazan-cremlino_g3zepr.jpg
 date: 2024-12-14T10:00:00+01:00
 categories: [ "Guida", "Russia"]
 country: "Russia"
@@ -25,17 +25,17 @@ _Scopri se la storia è vera o falsa_
 ##### La moschea Qol Šärif
 Situata nel cuore del Cremlino di Kazan, questa imponente moschea è la seconda più grande della Russia. Purtroppo, fu distrutta nel XVI secolo durante l'assedio della città, ma è stata magnificamente ricostruita nel 2005. Oggi, la Qol Šärif **è un luogo di culto e un punto di riferimento per la comunità musulmana del Tatarstan**, un simbolo di rinascita e di tolleranza religiosa.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1735468637/Articoli/Russia/Kazan/kazan-moschea_ftzj8j.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1735468637/Articoli/Russia/Kazan/kazan-moschea_ftzj8j.jpg">}}
 
 ##### Il Palazzo degli Agricoltori
 Questo palazzo, al cui interno si trova la sede del Ministero dell’Agricoltura, attira l’attenzione dei visitatori per la sua porta d’ingresso, **che ricorda l’albero della vita**. La sua costruzione causò non pochi problemi al governo cittadino in quanto parte della popolazione non lo riteneva un progetto adatto. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1735468637/Articoli/Russia/Kazan/kazan-albero-della-vita_sbqzyt.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1735468637/Articoli/Russia/Kazan/kazan-albero-della-vita_sbqzyt.jpg">}}
 
 ##### Il lungofiume Kremliovskaya
 Un'oasi di pace nel cuore della città. Passeggiare lungo il lungofiume Kremliovskaya è un'esperienza indimenticabile. Ammira la splendida vista sul Cremlino di Kazan illuminato, mentre ti rilassi in uno dei numerosi caffè all'aperto. **Nelle sere d'estate, l'atmosfera è magica, con le luci che si riflettono sull'acqua e il suono della musica che accompagna le passeggiate.** Un luogo perfetto per godersi la vita all'aria aperta e assaporare l'atmosfera unica di Kazan.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1735468637/Articoli/Russia/Kazan/kazan-lungo-fiume_gikuqc.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1735468637/Articoli/Russia/Kazan/kazan-lungo-fiume_gikuqc.jpg">}}
 
 ###### La cucina tartara
 La cucina tartara è ricca di sapori e tradizioni. **Assolutamente da provare è il chak-chak, un dolce a base di pasta fritta imbevuta di miele**, un vero e proprio must per chi visita Kazan. Ma la gastronomia tartara offre molto altro: piatti a base di carne, zuppe, e dolci deliziosi. Non perdere l'opportunità di assaggiare le specialità locali e scoprire una nuova dimensione del gusto.

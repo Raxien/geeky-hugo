@@ -1,7 +1,7 @@
 ---
 title: 'Viaggio in Giappone 2025: Itinerari e Info Utili' 
 description: "Scopri itinerari e informazioni utili per il tuo viaggio in Giappone: costi, stagioni e consigli pratici dal blog di Vandipety!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1687279327/Articoli/Giappone/tori-in-acqua_gzscgp.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1687279327/Articoli/Giappone/tori-in-acqua_gzscgp.jpg
 date: 2023-06-19T17:00:00.000
 categories: ["Giappone", "Guida", "Itinerari"]
 country: Giappone
@@ -37,7 +37,7 @@ Il Giappone ha un clima vario a seconda della stagione e della regione. In gener
 L'estate (giugno-agosto) può essere calda e umida, specialmente nelle regioni costiere, mentre l'inverno (dicembre-febbraio) è freddo, ma ideale per chi vuole praticare sport invernali come lo sci. 
 Inoltre, conviene prestare attenzione nella pianificazione del viaggio in base ad alcuni eventi stagionali, come la Golden Week, in cui molti degli esercizi potrebbero essere chiusi per festa nazionale. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1687279325/Articoli/Giappone/tempio-notte-tokyo-asakusa_frbfcb.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1687279325/Articoli/Giappone/tempio-notte-tokyo-asakusa_frbfcb.jpg">}}
 
 ### Come pagare
 In Giappone la moneta ufficiale è lo yen ( ¥, pronunciato "en"). 
@@ -55,7 +55,7 @@ La soluzione migliore per avere internet è quella di acquistare una SIM dati. N
 
 Nel caso di viaggio in 2 o più persone consigliamo di prendere l'opzione con il Pocket Wifi.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1687279276/Articoli/Giappone/cervi-cibo-myajima_sm51ks.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1687279276/Articoli/Giappone/cervi-cibo-myajima_sm51ks.jpg">}}
 
 ##### Vaccini e assicurazione sanitaria
 

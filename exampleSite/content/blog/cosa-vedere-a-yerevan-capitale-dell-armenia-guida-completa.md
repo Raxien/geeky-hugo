@@ -1,7 +1,7 @@
 ---
 title: 'Cosa vedere a Yerevan, capitale dell''Armenia: guida completa per un viaggio indimenticabile'
 description: 'Alla scoperta della sottovalutata capitale dell''Armenia. Yerevan, la città dai mille volti.'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione19/ushguli-dall-alto_hzhbkm.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione19/ushguli-dall-alto_hzhbkm.jpg
 date: 2024-08-01T7:00:00+01:00
 categories: [ "Guida", "Itinerari"]
 type: featured  

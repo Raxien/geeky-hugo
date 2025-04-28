@@ -1,7 +1,7 @@
 ---
 title: 'Sakè, il gatto viaggiatore da record mondiale'
 description: 'Preparati a conoscere Sakè, il gatto che ha conquistato il mondo, raggiungendo il record di gatto più viaggiatore al mondo! Ha esplorato 37 paesi ed è il primo felino a completare la Transiberiana, raggiungendo il Giappone via terra. Dove lo porterà il prossimo viaggio? Scoprilo in questa storia epica!'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1709916475/Articoli/Blog/il-gatto-che-ha-visitato-piu-paesi-al-mondo_vzvuii.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1709916475/Articoli/Blog/il-gatto-che-ha-visitato-piu-paesi-al-mondo_vzvuii.png
 date: 2025-04-23T7:00:00+01:00
 categories: ["Blog", "Animali", "Record mondiale"]
 type: featured  
@@ -36,7 +36,7 @@ Nemmeno un gatto con decine di prove, timbri, video e testimoni a favore è rius
 Ma va bene così: perché il nostro record non ha bisogno di un certificato.
 Sakè ha già conquistato il cuore di migliaia di persone e **le sue avventure continuano**, pronte a ispirare chiunque ami viaggiare in compagnia o no del proprio animale. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1684676730/Articoli/Blog/gatto-da-record-mondiale_a1euce.jpg" >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1684676730/Articoli/Blog/gatto-da-record-mondiale_a1euce.jpg" >}}
 
 ##### E ora?
 Mentre esploriamo il Giappone, Sakè continua a farci meravigliare ogni giorno, con la sua curiosità e il suo coraggio. Ma quale sarà la sua prossima avventura? **Sarà il primo gatto a completare il giro del mondo?** 

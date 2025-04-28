@@ -1,7 +1,7 @@
 ---
 title: "Pain au Chocolat o Chocolatine..? Per noi il fagottino al cioccolato è la miglior colazione"
 description: "Che differenza c'è fra Pain au Chocolat e Chocolatine? Scoprilo con noi!"
-image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1688826166/Articoli/Cibo/pain-au-chocolat_kuar6y.jpg"
+image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1688826166/Articoli/Cibo/pain-au-chocolat_kuar6y.jpg"
 date: 2023-07-07T10:00:00Z
 categories: ["Cucina"]
 country: Francia
@@ -35,7 +35,7 @@ Per non parlare delle pieghe dell’impasto, praticamente meno delicate delle ac
 
 Cuocerli, giusto. In forno. **Quale forno?** Il van intero, che domande! Quello che si surriscalda quando siamo tutti e quattro a bordo e accendiamo il fornello del gas da 4 cm di diametro e preghiamo che il caffè venga su in fretta! Sto ancora sognando o siamo travestiti da 4 pain au chocolat? 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1688827045/Articoli/Cibo/pain-au-chocolat-gatto_zf8ens.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1688827045/Articoli/Cibo/pain-au-chocolat-gatto_zf8ens.jpg">}}
 
 ##### Ecco la miglior ricetta!  
 

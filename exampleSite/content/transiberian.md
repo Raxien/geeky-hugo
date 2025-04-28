@@ -1,7 +1,7 @@
 ---
 title: Calcolatore per la Transiberiana
 description: Stai pianificando il tuo viaggio lungo la transiberiana? Ecco il calcolatore definitivo per calcolare i chilometri e tempi!
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-san-basilico_h5kt2c.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-san-basilico_h5kt2c.jpg
 layout: transiberian
 ---
 

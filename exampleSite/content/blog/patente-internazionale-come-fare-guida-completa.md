@@ -1,7 +1,7 @@
 ---
 title: 'Come fare la Patente Internazionale? Guida completa'
 description: Guida completa su come ottenere la patente internazionale in Italia e dall'estero
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1727940279/Articoli/Blog/patente-internazionla-come-fare_kzdx44.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1727940279/Articoli/Blog/patente-internazionla-come-fare_kzdx44.png
 date: 2024-10-01T10:00:00+01:00
 categories: [ "Guida"]
 type: featured

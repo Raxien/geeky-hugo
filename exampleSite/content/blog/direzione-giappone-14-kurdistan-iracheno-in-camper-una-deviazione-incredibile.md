@@ -1,7 +1,7 @@
 ---
 title: 'Kurdistan Iracheno in camper: una deviazione incredibile'
 description: 'Vi portiamo alla scoperta della nazione che non esiste: il kurdistan Iracheno'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione14/iraq-bandiera_asuu7j.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione14/iraq-bandiera_asuu7j.jpg
 date: 2024-05-18T7:00:00+01:00
 categories: [ "Direzione Giappone", "Viaggio in Iraq"]
 type: featured  

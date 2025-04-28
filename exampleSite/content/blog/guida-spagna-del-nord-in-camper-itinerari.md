@@ -1,7 +1,7 @@
 ---
 title: 'Spagna del Nord in camper | Guida completa e itinerario'
 description: "Itinerario di viaggio in camper alla scoperta del Nord della Spagna - alla scoperta dei Paesi Baschi, Cantabria, Asturie e Galizia"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1683223914/IMG_9010_x6hrvl.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1683223914/IMG_9010_x6hrvl.jpg
 date: 2023-05-03T17:00:00.000
 categories: ["Europa", "Itinerari", "Camper"]
 country: Spagna
@@ -35,7 +35,7 @@ Di seguito troverai il nostro diario giornaliero, ma se vuoi leggere l'itinerari
 
 **{{< underline "Giorno 5">}}**: sveglia presto per raggiungere a piedi la scalinata che conduce alla chiesa di San Juan. L'accesso al sito è gratuito ma è necessario ottenere un ticket prenotando online dato l'ingresso contingentato (trovi tutte le informazioni utili {{<extLink "qui" "https://turismo.euskadi.eus/es/san-juan-de-gaztelugatxe/aa30-12376/es/">}}). La camminata dal punto dove abbiamo parcheggiato noi può essere un po' impegnativa, ecco perché ti segnaliamo che puoi trovare un parcheggio più vicino. Inoltre, ti consigliamo un abbigliamento con scarpe adatte per evitare soprattutto di scivolare sui 241 scalini. Per il resto, prenditi il tempo per lasciarti meravigliare da questo luogo spettacolare (di prima mattina c'erano pochissimi turisti!). Nel pomeriggio, dopo aver fatto amicizia con altri camperisti mangiando panini vista oceano, abbiamo raggiunto l'area camper gratuita vicina all'aeroporto di Bilbao.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1683223893/IMG_9044_t9frgd.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1683223893/IMG_9044_t9frgd.jpg">}}
 
 **{{< underline "Giorno 6">}}**: abbiamo raggiunto comodamente il centro città con il treno che impiega 30 minuti (1,80 euro a/r) lasciando gli animali a bordo del van dato che diluviava abbondantemente. Una volta arrivati abbiamo passeggiato per il Casco viejo raggiungendo il mercato del La Ribera (peccato fosse chiuso nel pomeriggio), acquistando un delizioso Pastel Vasco presso la {{<extLink "pasticceria Arrese" "https://www.arrese.biz/">}}, attraversando il ponte di Calatrava, fino ad arrivare al Museo Guggenheim che abbiamo visitato in un paio d'ore (puoi risparmiare 1 euro sul biglietto prenotando in anticipo {{<extLink "sul sito ufficiale" "https://www.guggenheim-bilbao.eus/">}}).
 
@@ -48,7 +48,7 @@ Vuoi vedere le nostre avventure fino a qui? Trovi tutto in questo video!
 
 **{{< underline "Giorno 9">}}**: a Gijon abbiamo fatto due passi lungo tutta la passeggiata che sorge parallela alla costa, fino a perderci per le viuzze de lquartiere dei pescatori. Ci siamo poi rimessi in strada per raggiungere Cudillero, un piccolo borgo colorato letteralmente incastonato fra le scogliere. Pochi chilometri dopo Cudillero, seguendo la strada lungo la costa, ci siamo fermati per caso ad ammirare la meravigliosa Playa del Silencio: un luogo magico! Notte in libera presso la Playa de las Catedrales (zona di Ribadeo).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1683223945/IMG_9784_useo2h.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1683223945/IMG_9784_useo2h.jpg">}}
 
 **{{< underline "Giorno 10">}}**: in questo luogo fai molta attenzione alle maree: noi al mattino presto abbiamo avuto la fortuna di passeggiare fra le rocce altissime che creano delle vere e proprie grotte all'interno delle quali ci si può affacciare quando la marea è bassa. Davvero suggestivo! Sempre in questo parcheggio si ha la fortuna che un paio di volte al mattino arriva un simpatico carretto di un signore che porta pane e empanadas ripiene (noi abbiamo provato quella con i membrillos da lui consigliataci, ed era deliziosa)! Notte il libera presso l'area camper gratuita di Betanzos.
 
@@ -58,7 +58,7 @@ Vuoi vedere le nostre avventure fino a qui? Trovi tutto in questo video!
 
 **{{< underline "Giorno 14">}}**: lasciata Muxia, ci siamo diretti verso Combarro, approfittando di un paesino lungo la strada per fare spesa, carico e scarico e pranzare con un'empanada al tonno. Il paesino è un tipico villaggio galiziano di pescatori, costellato di horreos, gli antichi granai. Sosta libera per camper 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1683223845/IMG_0183_gwedzw.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1683223845/IMG_0183_gwedzw.jpg">}}
 
 ##### In Breve
 Di seguito le sole tappe della nostra avventura. Abbiamo sempre dormito in libera o in aree sosta gratuite. 
@@ -89,7 +89,7 @@ Di seguito le sole tappe della nostra avventura. Abbiamo sempre dormito in liber
 
 **{{< underline "Giorno 14">}}**: Combarro
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1683223945/IMG_9784_useo2h.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1683223945/IMG_9784_useo2h.jpg">}}
 
 ##### Strade 
 In tutte e quattro le regioni che abbiamo attraversato in Spagna del Nord abbiamo trovato le strade in condizioni perfette. L'autostrada è a pagamento, mentre è gratuita l'autopista.
@@ -101,7 +101,7 @@ Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio, sopr
 
 {{< card>}}
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1683223905/IMG_8866_dea0c1.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1683223905/IMG_8866_dea0c1.jpg">}}
 
 ##### Viaggiare con il proprio animale
 {{< animali>}}
@@ -118,7 +118,7 @@ In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "Playa de las Catedrales">}}**: sarà solo una spiaggia per molti, ma affacciarsi e fare due passi fra le rocce qui ha un suo perché!
 -   **{{< bold "Muxia">}}**: luogo magico soprattutto per i pellegrini, merita una sosta al tramonto! 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1683223926/IMG_9550_uxwttl.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1683223926/IMG_9550_uxwttl.jpg">}}
 
 ##### Il nostro Vlog 
 

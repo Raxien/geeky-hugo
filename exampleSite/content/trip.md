@@ -1,7 +1,7 @@
 ---
 title: Il viaggio
 description: Tutte le tappe del nostro viaggio
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1701795049/asset/trip_wlwlcy.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1701795049/asset/trip_wlwlcy.jpg
 layout: trip
 Focus_Keyword: "trip"
 ---

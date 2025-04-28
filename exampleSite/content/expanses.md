@@ -1,7 +1,7 @@
 ---
 title: Le nostre spese
 description: Tutte le spese sostenute fino ad oggi per il nostro viaggio
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_1000,c_scale,dpr_auto/v1709916475/Articoli/Blog/spese-in-viaggio_nsvy8m.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_1000,c_scale,dpr_auto/v1709916475/Articoli/Blog/spese-in-viaggio_nsvy8m.jpg
 layout: expanses
 ---
 

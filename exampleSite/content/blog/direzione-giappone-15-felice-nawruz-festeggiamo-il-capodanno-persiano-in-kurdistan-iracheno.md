@@ -1,7 +1,7 @@
 ---
 title: 'Felice Nawruz! Festeggiamo il capodanno persiano in Kurdistan Iracheno'
 description: 'Andiamo alla scoperta del Nawruz, il capodanno persiano in Kurdistan Iracheno! Poi visiteremo Arbil con la sua cittadella'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione15/iraq-nawruz-fiaccolata-sotto-la-pioggia_lqdoig.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione15/iraq-nawruz-fiaccolata-sotto-la-pioggia_lqdoig.jpg
 date: 2024-05-20T7:00:00+01:00
 categories: [ "Direzione Giappone", "Viaggio in Iraq"]
 type: featured  
@@ -44,7 +44,7 @@ Ci siamo seduti con i piedi a penzoloni, come si faceva da ragazzi sui muretti, 
 
 A quel punto è stato lo strano trio straniero ad attirare l’attenzione di mezza Erbil, finché il nostro nuovo amico dal nome **“drago portatore di pace”** ci ha proposto di acquistare la cena d’asporto in un chioschetto e mangiare al camper. Entusiasti, ci siamo fermati di fronte a una bancarella presa letteralmente d’assalto e ci siamo allontanati con un’abbondante porzione di riso, zuppa di fagioli, zuppa di lenticchie, verdure e pane, due pezzi di pollo e meno di 10 euro da pagare in totale. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione15/iraq-erbil-banconote-saddam_lcqlpn.jpg" title="Un souvenir tipico che potete acquistare in capitale: i dinari con il volto di Saddam" >}} 
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione15/iraq-erbil-banconote-saddam_lcqlpn.jpg" title="Un souvenir tipico che potete acquistare in capitale: i dinari con il volto di Saddam" >}} 
 
 ##### La moschea più bella che abbiamo mai visto
 

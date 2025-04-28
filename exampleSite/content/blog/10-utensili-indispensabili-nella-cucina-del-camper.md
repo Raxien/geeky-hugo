@@ -1,7 +1,7 @@
 ---
 title: '10 utensili indispensabili nella cucina in camper!'
 description: Scopri le 10 cose essenziali da avere nella cucina del camper che ci fanno risparmiare tempo e gas!
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1690377961/Articoli/Viaggio/cucina-attrezzi_gxutzz.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1690377961/Articoli/Viaggio/cucina-attrezzi_gxutzz.jpg
 date: 2023-07-22T10:00:00+01:00
 categories: [ "Cucina", "Camper"]
 type: regular

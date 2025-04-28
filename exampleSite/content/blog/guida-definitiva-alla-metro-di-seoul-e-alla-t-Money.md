@@ -1,7 +1,7 @@
 ---
 title: 'Guida Definitiva alla Metro di Seoul e alla T-Money'
 description: 'Guida definitiva alla metro di Seoul e alla T-Money: trucchi e consigli su come muoversi facilmente'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1709916475/Articoli/Corea/Seoul/metro-seoul_j4pwod.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1709916475/Articoli/Corea/Seoul/metro-seoul_j4pwod.jpg
 date: 2025-04-11T7:00:00+01:00
 categories: ["Viaggi in Corea"]
 type: regular  
@@ -15,7 +15,7 @@ La metropolitana di Seoul **è una delle più moderne ed efficienti al mondo**, 
 
 Con oltre 20 linee che coprono la città e le aree circostanti, la metro di Seoul è il mezzo perfetto per esplorare ogni angolo, [dal vivace quartiere di Gangnam  ai mercati tradizionali di Insadong](/blog/seoul-cosa-vedere-4-giorni-itinerario-completo). I treni sono puntuali, puliti e dotati di Wi-Fi gratuito, mentre le stazioni offrono mappe multilingue e schermi con orari in tempo reale. Le tariffe variano in base alla distanza, ma sono economiche, **soprattutto se usi una T-Money.**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1684676821/Articoli/Corea/Seoul/tmoney-opzioni_a0jmle.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1684676821/Articoli/Corea/Seoul/tmoney-opzioni_a0jmle.jpg">}}
 
 #### Cos’è la T-Money e perché usarla
 
@@ -33,13 +33,13 @@ Ora vedremo insieme come acquistare e usare la T-Money, con consigli utili per s
 
 Le carte sono disponibili nei convenience store (7-Eleven, GS25, CU, emart24) allo sportello dell'aeroporto. Il costo è di circa 3.000-5.000 won (circa 2-3 euro), a seconda del design scelto, e può esser acquistata sia in contanti che con la carta di credito.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1684676821/Articoli/Corea/Seoul/tmoney-scelta_ym0gb2.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1684676821/Articoli/Corea/Seoul/tmoney-scelta_ym0gb2.jpg">}}
 
 ##### Ricarica in contanti 
  
 Puoi ricaricare la T-Money **solo in contanti presso le macchinette automatiche nelle stazioni della metropolitana**. Basta selezionare l’importo desiderato (multipli di 1.000 won) e inserire il denaro. Il saldo è visibile ogni volta che usi la carta sui lettori. Tutte le macchinette offrono l’opzione per selezionare la lingua inglese.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1684676821/Articoli/Corea/Seoul/come-ricaricare-tmoney_ldavmz.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1684676821/Articoli/Corea/Seoul/come-ricaricare-tmoney_ldavmz.jpg">}}
 
 ##### Come Usarla
 
@@ -50,7 +50,7 @@ Usare la T-Money è intuitivo:
 
 Puoi controllare il saldo residuo sia sui lettori ogni volta che usi la carta sia andando alle macchinette. Se il credito è basso, ricarica in pochi secondi.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1684676821/Articoli/Corea/Seoul/tmoney-come-usarla_zpkoea.jpg" title="In alto viene visualizzato il costo della corsa, in basso il saldo.">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1684676821/Articoli/Corea/Seoul/tmoney-come-usarla_zpkoea.jpg" title="In alto viene visualizzato il costo della corsa, in basso il saldo.">}}
 
 ##### Consigli Utili
 

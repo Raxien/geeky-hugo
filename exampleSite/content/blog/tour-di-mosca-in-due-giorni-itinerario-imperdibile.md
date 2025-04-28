@@ -1,7 +1,7 @@
 ---
 title: 'Tour di Mosca in 2 giorni: un itinerario imperdibile'
 description: 'Scopri Mosca in due giorni: una guida completa per visitare la capitale Russa'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-russia-piazza-rossa_ifxgbj.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-russia-piazza-rossa_ifxgbj.png
 date: 2024-09-24T10:00:00+01:00
 categories: ["Guida", "Russia"]
 type: featured
@@ -23,7 +23,7 @@ Questo è il nostro itinerario se si ha poco tempo per visitare la capitale.
 
 Piazza Rossa **è il cuore pulsante del centro città e la piazza più bella**, dove si trovano gli edifici simbolo della capitale: il Cremlino (che ospita il Palazzo del Presidente e il museo principale della Russia), il Mausoleo di Lenin (dove si trovano i resti mummificati del leader bolscevico), le cattedrali di San Basilio e di Kazan, il Museo Statale di Storia russa e i Grandi Magazzini GUM (gallerie commerciali di lusso).
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-piazza-rossa_icjreg.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-piazza-rossa_icjreg.jpg">}}
 
 ###### Il Cremlino di Mosca
 
@@ -32,20 +32,20 @@ I biglietti si possono acquistare online o in loco (in questo momento storico gl
 **Il tempo di visitare per le Cattedrali è di circa un’ora.** 
 Volendo si possono può visitare anche l’Armenia e il Fondo dei Diamanti, con un biglietto aggiuntivo.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-cremlino_ztwj0u.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-cremlino_ztwj0u.jpg">}}
 
 ###### La Cattedrale di San Basilio
 
 È il simbolo della città e le sue suggestive cupole policrome, i cui colori vivaci spiccano da diversi punti del centro urbano, **la rendono quasi un bizzarro cartone animato (ingresso a pagamento).**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-san-basilico_h5kt2c.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-san-basilico_h5kt2c.jpg">}}
     
 ###### La Cattedrale di Kazan
 
 **Riconoscibile per le mura color rosa pastello**, il triste passato di questa chiesa ne include la demolizione su ordine di Stalin per fare spazio a pompose parate militari.
 L’ingresso è gratuito. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-kazan_nm8r6r.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-kazan_nm8r6r.jpg">}}
 
 ###### I Grandi Magazzini GUM
 
@@ -53,7 +53,7 @@ Si tratta del centro commerciale più conosciuto della Russia e il più visitato
 
 Curiosità: al primo piano trovi numerosi banchetti dove comprare un gelato, **un must have per i cittadini, grandi e piccini.** 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-gum_uayvmg.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-gum_uayvmg.jpg">}}
 
 ###### Parco Zaryadye
 
@@ -64,7 +64,7 @@ Si trova a pochi passi da Piazza Rossa e venne inaugurato nel 2017. Il pezzo for
 Vale la pena passeggiare dalla Piazza Rossa fino alla Piazza della Rivoluzione, passando per la Piazza Teatralnaya fino ad arrivare al Teatro Bolshoi per ammirare dall’esterno la bellezza di questo famoso edificio.
 Se sei un amante delle opere o dei balletti **puoi decidere di comprare il biglietto per assistere a uno spettacolo.**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-fiabe-central-kids-store_rqp5y3.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-fiabe-central-kids-store_rqp5y3.jpg">}}
 
 Nella stessa piazza di trova il Central Kids Store, un centro commerciale per bambini disposto su sette piani, con le vetrine che raffigurano scene di fiabe popolari e all’interno **uno degli orologi meccanici ricoperto d’oro più grandi del mondo**, e un razzo alto 18,5 metri e composto da due milioni di pezzi di Lego. 
 
@@ -86,13 +86,13 @@ Chiamata anche **“Palazzo del Popolo”**, è una delle metropolitane più tra
 
 Questa via è una strada pedonale molto commerciale e turistica lunga circa un chilometro, che si trova nel centro storico di Mosca ed è circondata da edifici storici. Nel XVIII secolo **era considerata dalla nobiltà russa come il luogo più prestigioso in cui vivere.**
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-fiume_whbdeq.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-fiume_whbdeq.jpg">}}
 
 ###### Moscow City
 
 Il Centro internazionale di affari di Mosca, conosciuto come Moscow City, **rappresenta il futuro della città**. Si tratta di un progetto ideato dal Governo di Mosca nel 1992 per creare una zona di attività di negozi, spazi abitabili e di svago.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-moscow-city_oi6si1.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-moscow-city_oi6si1.jpg">}}
 
 ##### Consigli utili:
 

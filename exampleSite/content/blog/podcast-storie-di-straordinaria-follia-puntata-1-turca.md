@@ -1,7 +1,7 @@
 ---
 title: 'Storie di straordinaria follia: Puntata Turca'
 description: 'Storie di straordinaria follia: un podcast che parla di vita vera. Oggi vi portiamo alla scopera della Turchia'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1716102319/Articoli/Blog/podcast-1_hnxu71.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1716102319/Articoli/Blog/podcast-1_hnxu71.png
 date: 2024-05-18T7:00:00+01:00
 categories: [ "Podcast"]
 type: featured  

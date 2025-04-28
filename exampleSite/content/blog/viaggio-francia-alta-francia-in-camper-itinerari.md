@@ -1,7 +1,7 @@
 ---
 title: 'Alta Francia in camper con cane e gatto: itinerario, consigli e informazioni utili'
 description: "Alla scoperta della Francia del Nord in camper. Un viaggio on the road fantastico!"
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1682804019/Articoli/francia/IMG_2771_ldmfwi.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1682804019/Articoli/francia/IMG_2771_ldmfwi.jpg
 date: 2023-04-17T17:00:00.000
 categories: ["Europa", "Itinerari", "Camper"]
 country: Francia
@@ -28,7 +28,7 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 **{{< underline "Giorno 2">}}**: paesino medievale di 4000 abitanti, attorniato dalle mura, duramente bombardato e privato del suo fascino primitivo, **{{< bold "Bergues">}}** ci ha accolti con un bel sole. Abbiamo deciso di iniziare la nostra passeggiata percorrendo il corridoio di alberi sulle mura delle città, dai quali si intravedono i tetti da un lato e i giardini che circondano il paese dall’altro. Dopo pranzo e dopo aver chiacchierato con tante persone del posto davvero gentili, abbiamo deciso di rimetterci in strada, deviando verso la frazione di Mannequebeurre, in cui un uomo anziano crea sculture di fiori nel giardino di casa, a disposizione per la gioia degli occhi di ogni passante. Scambiato due parole e complimenti con il simpatico artista, ci siamo spostati a Gravelines, dove si può visitare un bel parco vicino al museo del disegno e della stampa, oltre a passeggiare lungo le mura perimetrali del paesino. Notte in libera in un viale tranquillo affacciato sul fiume che sfocia nel mare del Nord.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1682803997/Articoli/francia/IMG_2688_zhtixi.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1682803997/Articoli/francia/IMG_2688_zhtixi.jpg">}}
 
 **{{< underline "Giorno 3">}}**: comprati pane fresco e croissant e approfittato di un'ottima lavanderia a gettone nella piazza centrale, dopo aver passeggiato lungo la banchina abbiamo deciso di dirigerci verso **{{< bold "Calais">}}**. Raggiunta la città però abbiamo scoperto che era in corso una manifestazione che bloccava l’arteria centrale, per cui abbiamo deciso di fare retromarcia e rimetterci in strada. La campagna che poco dopo è apparsa ai nostri occhi era una meraviglia. Sembrava di entrare in un quadro di impressionisti. Cielo azzurro, nuvole bianche, prati verdi o arati, il mare sullo sfondo. E poi d’un tratto eccola, in tutto il suo splendore, la costa inglese in corrispondenza di **{{< bold "Dover">}}**. Purtroppo tutta la zona è puntellata di sbarre con limite di altezza a due metri, per cui abbiamo ammirato un faro e la spiaggia attorno a distanza e abbiamo raggiunto un comodo parcheggio diurno e gratuito a "gris nez": il faro non è dei più belli, ma tutt’attorno la natura la fa da padrona. Piccoli villaggi si stagliano a sinistra e destra. La scogliera permette di sentire solo il rumore delle onde al di sotto della sua altezza. Con le prime luci del tramonto abbiamo deciso di spostarci verso **{{< bold "Boulonge">}}**. Sosta in libera poco prima del centro di Wimereux.
 
@@ -38,7 +38,7 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 **{{< underline "Giorno 6">}}**: dopo una notte cullati dalle onde del mare, abbiamo fatto due passi in questo paesino un po' abbandonato: pareti delle case colorate, tetti spioventi, sulle porte simpatiche insegne citavano nomi di luoghi o di artisti. Alle nostre spalle il mare, con la bassa marea e le scogliere bianche a fare da cornice. Al fondo, dove terminava la spiaggia e iniziavano gli scogli impraticabili, c'era un maestro intento a far lezione ai suoi alunni. Lasciato questo posticino magico, ci siamo diretti verso il primo paesino della Normandia, Le Treport. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1682803930/Articoli/francia/IMG_2988_aiozxy.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1682803930/Articoli/francia/IMG_2988_aiozxy.jpg">}}
 
 ##### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera. 
@@ -55,7 +55,7 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
  
 **{{< underline "Giorno 6">}}**: Ault - Le Treport
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1682803939/Articoli/francia/IMG_7056_adovjs.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1682803939/Articoli/francia/IMG_7056_adovjs.jpg">}}
 
 ##### Strade 
 In Alta Francia la situazione relativa alle strade è perfetta.
@@ -76,7 +76,7 @@ In camper, auto o moto le mete secondo noi imperdibili di questa regione sono:
 -   **{{< bold "Spiaggia di Berck">}}**: lo ammettiamo, a noi ha emozionato parecchio ammirare le foche nel loro habitat naturale
 -   **{{< bold "Saint-Valery-Sur-Somme">}}**: architettura, viuzze inconfondibili, ristorantini, panorami. Anche questo paesino davvero ha un suo perché. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_webp,q_auto,w_800,dpr_auto/v1682804005/Articoli/francia/IMG_2878_mauocu.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_600,dpr_auto/v1682804005/Articoli/francia/IMG_2878_mauocu.jpg">}}
 
 ##### Il nostro Vlog
 Nel video qui sotto puoi rivedere il nostro ingresso in Francia oppure trovi la serie completa sul paese {{<extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8">}}.
