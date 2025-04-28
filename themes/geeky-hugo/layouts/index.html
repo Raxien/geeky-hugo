@@ -137,6 +137,7 @@
                     src="{{ $imagePath | safeURL }}" 
                     srcset="{{ $imagePath | safeURL }} 1x, {{ $imagePath | safeURL }} 2x"
                     alt="{{ .Title }}"
+                    fetchpriority="high"
                     class="img-fluid rounded-4">
                 </div>
               </a>
@@ -152,6 +153,7 @@
                   <img decoding="async" 
                     src="{{$imageWebp.RelPermalink}}" 
                     alt="{{ .Title }}" 
+                    fetchpriority="high"
                     class="img-fluid rounded-4"
                     onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
                 </div>
