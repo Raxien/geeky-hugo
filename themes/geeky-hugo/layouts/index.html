@@ -28,6 +28,7 @@
                       <img decoding="async" 
                         src="{{ $imagePath | safeURL }}" 
                         srcset="{{ $imagePath | safeURL }} 1x, {{ $imagePath | safeURL }} 2x"
+                        sizes="(max-width: 600px) 100vw, 600px"
                         alt="{{ .Title }}"
                         class="img-fluid rounded-4">
                     </div>
@@ -43,6 +44,8 @@
                     <div class="image-container">
                       <img decoding="async" 
                         src="{{$imageWebp.RelPermalink}}" 
+                        srcset="{{$imageWebp.RelPermalink}} 1x, {{$imageWebp.RelPermalink}} 2x"
+                        sizes="(max-width: 600px) 100vw, 600px"
                         alt="{{ .Title }}" 
                         class="img-fluid rounded-4"
                         onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
@@ -136,6 +139,7 @@
                   <img decoding="async" 
                     src="{{ $imagePath | safeURL }}" 
                     srcset="{{ $imagePath | safeURL }} 1x, {{ $imagePath | safeURL }} 2x"
+                    sizes="(max-width: 600px) 100vw, 600px"
                     alt="{{ .Title }}"
                     fetchpriority="high"
                     class="img-fluid rounded-4">
@@ -152,6 +156,8 @@
                 <div class="image-container">
                   <img decoding="async" 
                     src="{{$imageWebp.RelPermalink}}" 
+                    srcset="{{$imageWebp.RelPermalink}} 1x, {{$imageWebp.RelPermalink}} 2x"
+                    sizes="(max-width: 600px) 100vw, 600px"
                     alt="{{ .Title }}" 
                     fetchpriority="high"
                     class="img-fluid rounded-4"
@@ -207,6 +213,7 @@
                         <img decoding="async" 
                           src="{{ $imagePath | safeURL }}" 
                           srcset="{{ $imagePath | safeURL }} 1x, {{ $imagePath | safeURL }} 2x"
+                          sizes="(max-width: 600px) 100vw, 600px"
                           alt="{{ .Title }}"
                           class="img-fluid rounded-4">
                       </div>
@@ -221,6 +228,8 @@
                       <div class="image-container">
                         <img decoding="async" 
                           src="{{$imageWebp.RelPermalink}}" 
+                          srcset="{{$imageWebp.RelPermalink}} 1x, {{$imageWebp.RelPermalink}} 2x"
+                          sizes="(max-width: 600px) 100vw, 600px"
                           alt="{{ .Title }}" 
                           class="img-fluid rounded-4"
                           width="400"

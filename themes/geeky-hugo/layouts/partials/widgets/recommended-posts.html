@@ -34,6 +34,7 @@
             <img loading="lazy" decoding="async" 
               src="{{ $imagePath | safeURL }}" 
               alt="{{ .Title }}"
+              sizes="60px"
               class="img-fluid">
           {{ else }}
             {{ if fileExists (add `assets/` $imagePath) }}
@@ -42,6 +43,7 @@
               <img loading="lazy" decoding="async" 
                 src="{{ $imageWebp.RelPermalink }}" 
                 alt="{{ .Title }}"
+                sizes="60px"
                 class="img-fluid">
             {{ end }}
           {{ end }}
