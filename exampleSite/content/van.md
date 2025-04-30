@@ -35,7 +35,7 @@ Abbiamo deciso di optare per un van perché risulta più indiscreto e non voleva
 Abbiamo puntato a un entry level, e con il tempo abbiamo scoperto quanto "entry", con consegna per i primi di Maggio. Disponibile sia con la motorizzazione da 120cv che da 140cv, abbiamo scelto quest'ultima per avere un po' più di spunto in salita!
 Abbiamo chiuso il contratto per 40.000 € tondi.
 
-E' finita qui? Ovviamente no, è iniziata la parte più complessa: quali accessori montare?
+È finita qui? Ovviamente no, è iniziata la parte più complessa: quali accessori montare?
 
 **{{< underline "Marzo-Maggio 2021">}}**: mentre aspettavamo la consegna abbiamo iniziato a rivoltare l'internet per cercare cosa far montare e cosa no.
 Essendo un entry level non aveva molti accessori a bordo ma a noi andava bene così:

@@ -90,7 +90,7 @@ Dopo aver visto e vissuto il Marocco per quasi due mesi Marrakech **ci è sembra
 
 **{{< underline "Giorno 27-29">}}**: su consiglio di amici abbiamo deciso di avventurarci nuovamente verso le montagne e raggiungere, dopo aver fatto scorta di frutta e verdura e altri beni alimentari, la particolare montagna chiamata **"Cattedrale di Amsfrane"**. Anche qui siamo rimasti un paio di giorni, ad ammirare la natura incontaminata. Sulla via del ritorno, prima di raggiungere il lado di Bin El Ouidane, abbiamo assaggiato una [pizza deliziosa](/blog/le-migliori-pizze-in-marocco).
 
-E' andato tutto bene in questi luoghi? Scoprilo nel video ⤵️
+È andato tutto bene in questi luoghi? Scoprilo nel video ⤵️
 {{< youtube2 bRRphPHpGZ0>}}
 
 **{{< underline "Giorno 30-31">}}**: sempre per rimanere in tema natura, che è ciò che più abbiamo amato in Marocco, abbiamo raggiunto il **Lago di Ouiouane**, lungo il cui perimetro si può passeggiare ammirando anche le scimmie libere nel loro habitat. 
@@ -147,11 +147,11 @@ Da questo punto in poi le nostre avventure in Marocco sono proseguite verso Fes,
 
 ##### Considerazioni 
 In tutta questa zona del Marocco sono due gli aspetti che abbiamo apprezzato maggiormente: le persone e la loro ospitalità (tranne nei casi di chi era interessato solo a ottenere denaro, come ad esempio i finti guardiani dei parcheggi) e i luoghi naturali. 
-E' stato emozionante scoprire montagne dall'aspetto diverso rispetto alle alpi piemontesi alle quali i nostri occhi erano abituati da trent'anni, assaggiare i piatti cucinati in famiglia per il periodo del Ramadan, vivere un Marocco della tradizione e non solo quello turistico. 
+È stato emozionante scoprire montagne dall'aspetto diverso rispetto alle alpi piemontesi alle quali i nostri occhi erano abituati da trent'anni, assaggiare i piatti cucinati in famiglia per il periodo del Ramadan, vivere un Marocco della tradizione e non solo quello turistico. 
 
-E' davvero difficile stilare una classifica di preferenza fra tutte queste mete, motivo per cui ci sentiamo solo di sottolineare il fatto che ciò che ci è piaciuto di meno è stato visitare la grande e caotica città di Marrakech. 
+È davvero difficile stilare una classifica di preferenza fra tutte queste mete, motivo per cui ci sentiamo solo di sottolineare il fatto che ciò che ci è piaciuto di meno è stato visitare la grande e caotica città di Marrakech. 
 
-E' stato bello vivere a fianco di chi abita queste terre da decine e decine di anni, scoprirne il passato e i rischi sul futuro legati alla siccità.
+È stato bello vivere a fianco di chi abita queste terre da decine e decine di anni, scoprirne il passato e i rischi sul futuro legati alla siccità.
 
 Forse, dovendo tirare le somme, questi luoghi e le emozioni che qui abbiamo vissuto sono quelli che più ricorderemo di tutta la permanenza in Marocco.
 

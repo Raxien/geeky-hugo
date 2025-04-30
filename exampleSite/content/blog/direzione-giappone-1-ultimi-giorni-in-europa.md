@@ -70,7 +70,7 @@ Francamente siamo usciti sentendoci quasi dei ladri dato che avevamo fra le mani
 
 L'unico modo per usare le autostrade e i ponti a pagamento in Turchia è tramite HGS ovvero la versione turca del Telepass. Per farlo, ricaricare o verificare se ci sono dei caselli da pagare, bisogna recarsi in uno dei tanti uffici delle poste (PTT). L'unico consiglio che ci sentiamo di darvi è di recarvi al mattino presto. 
 
-E' obbligatorio effettuarlo? No, ma se doveste imbattervi in un tratto di strada a pagamento o ad attraversare un ponte è meglio averlo (costa 13 euro e parte del denaro è già predisposta per il pagamento di alcune tratte).
+È obbligatorio effettuarlo? No, ma se doveste imbattervi in un tratto di strada a pagamento o ad attraversare un ponte è meglio averlo (costa 13 euro e parte del denaro è già predisposta per il pagamento di alcune tratte).
 
 E per questo primo appuntamento di **[Direzione Giappone](/categories/direzione-giappone/)** è tutto. Arigatou, alla prossima puntata!
 

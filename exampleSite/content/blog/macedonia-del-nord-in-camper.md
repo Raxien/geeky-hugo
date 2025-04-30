@@ -13,7 +13,7 @@ La Bosnia ed Erzegovina è un paese ancora non troppo preso d'assalto dal turism
 
 Noi, nonostante Sara fosse già stata a Sarajevo e a Mostar, abbiamo deciso di scoprire la nazione più lentamente, on the road, ed è stato addentrandoci nei suoi luoghi che abbiamo scoperto una terra serena, nonostante sia in vigore un sistema di governo altalentante che provoca continui cambi di pensiero. 
 
-Abbiamo attraversato via terra la frontiera a nord est del paese, entrando dalla [Croazia](/blog/). E' bastato esibire la carta d'identità e il libretto del mezzo e in una manciata di minuti eravamo in un nuovo paese, dove il rintocco delle campane si alterna al canto del muezzin, e dove coesistono la Republika Srpska (Repubblica Serba) e la Federazione di Bosnia ed Erzegovina, divisa a sua volta in 10 cantoni. 
+Abbiamo attraversato via terra la frontiera a nord est del paese, entrando dalla [Croazia](/blog/). È bastato esibire la carta d'identità e il libretto del mezzo e in una manciata di minuti eravamo in un nuovo paese, dove il rintocco delle campane si alterna al canto del muezzin, e dove coesistono la Republika Srpska (Repubblica Serba) e la Federazione di Bosnia ed Erzegovina, divisa a sua volta in 10 cantoni. 
 
 Questa soluzione politica adottata nel 1995 ha permesso di far coesistere non solo diversi gruppi etnico-culturali della Bosnia (serbi, croati e bosniaci), ma anche diverse fedi religiose (cristiana, musulmana, ortodossa ed ebraica).
 
@@ -88,7 +88,7 @@ Arrivando ci si ritrova in un luogo un po' snaturato poichè sono stati creati n
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
 ##### Počitelj
-Počitelj è un antico villaggio arroccato tra le mura. E' impossibile non ammirarlo già dal basso, ma è camminando fra le sue viuzze acciottolate, inerpicandosi fino in cima alla torre e raggiungendo la fortezza, che sembra di essere catapultati in un passato lontano. 
+Počitelj è un antico villaggio arroccato tra le mura. È impossibile non ammirarlo già dal basso, ma è camminando fra le sue viuzze acciottolate, inerpicandosi fino in cima alla torre e raggiungendo la fortezza, che sembra di essere catapultati in un passato lontano. 
 Questo villaggio è stato disabitato per tantissimi anni ed è solo grazie alla costruzione della nuova statale che ha potuto acquisire vigore.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}

@@ -39,7 +39,7 @@ Il cimitero di Rabat si trova su una collina affacciata verso la spiaggia e il f
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690129339/Articoli/rabat/rabat_nennaa.jpg">}}
 
 ##### Palazzo Reale
-E' la residenza ufficiale del re del Marocco e della sua famiglia e non è possibile visitarlo all’interno. 
+È la residenza ufficiale del re del Marocco e della sua famiglia e non è possibile visitarlo all’interno. 
 In moltissime altre città i reali hanno a disposizione una residenza privata.
 
 ##### Museo Archeologico

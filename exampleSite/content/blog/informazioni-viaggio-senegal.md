@@ -50,7 +50,7 @@ In Senegal il clima è sempre caldo ed è caratterizzato da due stagioni: la sta
 
 La stagione secca va da novembre a maggio e in questo periodo non piove praticamente mai. In particolare tra dicembre e febbraio, nell’area del Senegal settentrionale, può soffiare l’harmattan, un vento fresco carico di sabbia.
 
-La stagione delle piogge va da giugno a ottobre. In questo periodo possono esserci temporali molto forti che rendono difficili gli spostamenti. E' il periodo migliore sia per la vegetazione, in particolare per i baobab che si riempiono di foglie verdi, sia per i frutti, come il mango che si trova in questa stagione. 
+La stagione delle piogge va da giugno a ottobre. In questo periodo possono esserci temporali molto forti che rendono difficili gli spostamenti. È il periodo migliore sia per la vegetazione, in particolare per i baobab che si riempiono di foglie verdi, sia per i frutti, come il mango che si trova in questa stagione. 
 
 Noi siamo rimasti in paese dal 22 febbraio al 18 marzo. La temperatura ha raggiunto picchi di 43 gradi sulla costa della Casamance e 45 gradi nella zona di Tambacounda.
 

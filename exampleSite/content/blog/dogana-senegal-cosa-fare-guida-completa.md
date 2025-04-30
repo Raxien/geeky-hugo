@@ -93,10 +93,10 @@ Se come noi hai deciso di andare verso la dogana di Diama, una volta lasciata la
 4. fare l'assicurazione
 5. entrare finalmente nel paese!
 
-E' tutto molto semplice dato che sono presenti solo due edifici dove fare tutta la documentazione necessaria per entrare, ma per completezza ti spieghiamo i passaggi di seguito.
+È tutto molto semplice dato che sono presenti solo due edifici dove fare tutta la documentazione necessaria per entrare, ma per completezza ti spieghiamo i passaggi di seguito.
 
 ###### Dove fare il visto
-Lasciandoti la Mauritania alle spalle procedi verso **l'edificio di destra** con il passaporto ben stretto in mano. E' un passaggio abbastanza veloce. Giusto il tempo di prendere le impronte e scattare una fotografia con una webcam.
+Lasciandoti la Mauritania alle spalle procedi verso **l'edificio di destra** con il passaporto ben stretto in mano. È un passaggio abbastanza veloce. Giusto il tempo di prendere le impronte e scattare una fotografia con una webcam.
 
 La durata del visto di permanenza in Senegal, in qualità di turista, è di **90 giorni**.
 

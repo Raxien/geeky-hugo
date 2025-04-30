@@ -37,7 +37,7 @@ La regione della Castiglia-La Mancia, **nonostante abbia davvero molto da offrir
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690125052/Articoli/Spagna/mulini_ovvehe.jpg">}}
 
 ##### La nostra Ruta de Don Quijote da Cordoba verso Toledo
-Per incrementare il turismo è stata istituita la **{{< underline "Ruta de Don Quijote">}}**: un percorso decisamente lungo che permette di seguire le avventure (e sopratutto disavventure) di Don Chisciotte e del suo fido Sancio Panza. E' composto da 13 tappe località e sono necessari almeno 7 giorni per vederle tutte, motivo per cui consigliamo di scegliere in partenza le tappe che si vogliono effettuare.
+Per incrementare il turismo è stata istituita la **{{< underline "Ruta de Don Quijote">}}**: un percorso decisamente lungo che permette di seguire le avventure (e sopratutto disavventure) di Don Chisciotte e del suo fido Sancio Panza. È composto da 13 tappe località e sono necessari almeno 7 giorni per vederle tutte, motivo per cui consigliamo di scegliere in partenza le tappe che si vogliono effettuare.
 
 Noi abbiamo visto solo una parte della rotta, ovvero quella che va da **Cordoba** (il nostro itinerario è a [una portata di click](/blog/cordoba-in-camper-cosa-vedere-e%20quale-tapas-scegliere)) a **Toledo**, ma è bastato per ammirare un Spagna sorprendente, diversa e fantastica!
 
@@ -53,7 +53,7 @@ Prezzo: 4€ a persona pagabili **solo in contante.**
 ###### Almagro
 Città famosa per la tradizione teatrale, offre una piazza dall’aspetto molto caratteristico oltre a qualche bottega autentica in cui comprare il tipico formaggio della zona **davvero consigliato!**
 
-> "E' il miglior formaggio che abbia mai mangiato in vita mia e ho **90 anni**."
+> "È il miglior formaggio che abbia mai mangiato in vita mia e ho **90 anni**."
 
 Dopo aver letto questa recensione su google relativa al negozio {{<extLink "Oro Siglo XVII , Queso de Oveja"  "https://goo.gl/maps/2CmvvttoCrFKvQWXA">}} potevamo non concederci un assaggio? Ovviamente ci siamo fiondati **subito!** e ne siamo rimasti entusiasti.
 

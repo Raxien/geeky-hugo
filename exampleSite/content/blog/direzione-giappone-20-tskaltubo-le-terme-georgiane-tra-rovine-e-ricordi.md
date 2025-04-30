@@ -42,7 +42,7 @@ In attesa della guida completa sulla Georgia e sui sanatori lasciamo di seguito 
 
 ###### Sanatorio Medea
 
-Il primo che abbiamo visitato e forse quello che più abbiamo amato. Iconico e maestoso, il Sanatorio Medea si distingue per la sua facciata fatta di colonne e archi curvi assolutamente spettacolare. E' immenso e c'è da perdersi soprattutto perché offre ad ogni angolo scorci da fotografare.
+Il primo che abbiamo visitato e forse quello che più abbiamo amato. Iconico e maestoso, il Sanatorio Medea si distingue per la sua facciata fatta di colonne e archi curvi assolutamente spettacolare. È immenso e c'è da perdersi soprattutto perché offre ad ogni angolo scorci da fotografare.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione20/tskaltubo-sanatorio-mereda_w6sag1.jpg">}} 
 

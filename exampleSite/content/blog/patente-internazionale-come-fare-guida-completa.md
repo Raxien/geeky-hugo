@@ -90,7 +90,7 @@ Nel dettaglio i passi da seguire sono:
 4. **Richiedere la Patente Internazionale** tramite [Motorizzazione civile](#patente-internazionale-con-motorizzazione-civile) o tramite [ACI](#patente-internazionale-tramite-aci)
 5. **Spedire tutti i documenti** nel Paese Estero in cui si è
 
-E' una procedura più lunga e dispendiosa però è l'unica possibile se si vuole ottenere la Patente Internazionale da un Paese Estero.
+È una procedura più lunga e dispendiosa però è l'unica possibile se si vuole ottenere la Patente Internazionale da un Paese Estero.
 
 ##### Tempi
 I tempi di rilascio della patente internazionale possono variare. Generalmente, il tempo medio è di circa 10-15 giorni lavorativi dalla presentazione della richiesta presso la Motorizzazione Civile o l'ACI.

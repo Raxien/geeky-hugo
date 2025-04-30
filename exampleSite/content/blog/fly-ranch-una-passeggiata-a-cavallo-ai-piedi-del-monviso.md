@@ -7,7 +7,7 @@ categories: ["Blog"]
 type: featured
 draft: false
 ---
-Da amanti della natura e degli animali, quando Mattia **ci ha proposto una passeggiata insieme a lui e ai suoi cavalli** non abbiamo saputo dire di no. E' stato davvero un modo [meraviglioso per concludere i festeggiamenti](/blog/matrimonio-alternativo-30-giorni-per-organizzarlo-in-un-van) del nostro matrimonio dopo esser [scesi dal rifugio di Pian Munè](/blog/pian-mune-il-rifugio-perfetto-per-il-nostro-matrimonio-on-the-road) ed è stato un momento che ci ha resi veramente felici. 
+Da amanti della natura e degli animali, quando Mattia **ci ha proposto una passeggiata insieme a lui e ai suoi cavalli** non abbiamo saputo dire di no. È stato davvero un modo [meraviglioso per concludere i festeggiamenti](/blog/matrimonio-alternativo-30-giorni-per-organizzarlo-in-un-van) del nostro matrimonio dopo esser [scesi dal rifugio di Pian Munè](/blog/pian-mune-il-rifugio-perfetto-per-il-nostro-matrimonio-on-the-road) ed è stato un momento che ci ha resi veramente felici. 
 
 ##### A cavallo ai piedi del Monviso 
 

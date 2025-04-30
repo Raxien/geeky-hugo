@@ -9,7 +9,7 @@ country: Iraq
 draft: false
 ---
 
-Siamo andati in camper in Kurdistan Iracheno **ed è stato meraviglioso!** E' scelta dell’ultimo minuto, taciuta per evitare inutili ansie, della quale non ci pentiremo mai e poi mai. **Lasciati da parte giudizi e paure sul paese**, abbiamo lasciato che fossero le persone del posto a guidarci, a permetterci di fidarci di loro, a farci emozionare e a farci scoprire cultura, religioni e tradizioni. Siamo rimasti 15 giorni, **godendoci ogni attimo di stupore e facendo nostri tutti gli insegnamenti.**
+Siamo andati in camper in Kurdistan Iracheno **ed è stato meraviglioso!** È scelta dell’ultimo minuto, taciuta per evitare inutili ansie, della quale non ci pentiremo mai e poi mai. **Lasciati da parte giudizi e paure sul paese**, abbiamo lasciato che fossero le persone del posto a guidarci, a permetterci di fidarci di loro, a farci emozionare e a farci scoprire cultura, religioni e tradizioni. Siamo rimasti 15 giorni, **godendoci ogni attimo di stupore e facendo nostri tutti gli insegnamenti.**
 
 ##### Visto in 5 minuti
 

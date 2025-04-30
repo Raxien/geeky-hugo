@@ -26,11 +26,11 @@ Oggi il nostro canale conta 3257 iscritti, 263 video e in 86 di questi **raccont
 
 **Quattrocentodieci giorni** della nostra vita sono nero su bianco (in realtà solo i bloopers il resto è a colori 😂) su {{<extLink "YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1">}}. Visibili 24 ore su 24 ore da chiunque.
 
-E' stato bello, è stato tosto. 
+È stato bello, è stato tosto. 
 
 Abbiamo dato il massimo? Sì. 
 Possiamo fare di meglio? Sì. 
-E' ora di prenderci una pausa? Sì.
+È ora di prenderci una pausa? Sì.
 
 #### Premiamo "pause"
 > Registriamo fino a fine mese **poi pausa.** 
@@ -61,7 +61,7 @@ Una pausa che ci ha permesso di schiarire quella nebbia che alleggiava sul nostr
 Abbiamo fissato un obbiettivo, che scoprirete presto.
 Abbiamo riesumato un sogno, che non sveliamo perché già una volta è dovuto rimanere tale. 
 
-<!-- E' ancora incerto ma quest'anno in giro per il mondo ci ha permesso di capire molto e  -->
+<!-- È ancora incerto ma quest'anno in giro per il mondo ci ha permesso di capire molto e  -->
 Tutto bello ma quindi il canale YouTube?
 Non sappiamo ancora quando torneremo "online" ma sappiamo che da oggi ci attendono mesi di fuoco, oltre che per il caldo estivo. 
 Abbiamo una lista infinita di cose da fare e all'ultimo si è aggiunto un impegno che avevamo ormai depennato. 

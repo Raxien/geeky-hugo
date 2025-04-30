@@ -16,10 +16,10 @@ Quando abbiamo pensato a un luogo semplice e accogliente in cui riunire i pochi 
 
 ##### Il luogo perfetto 
 
-E' così che ci siamo ritrovati a ballare sulle giostre dei bambini, a cadere dallo **scivolo e sporcarci il vestito senza vergogna**, a ripararci dalla pioggia sotto al porticato osservando la nebbia salire da valle. 
-E' così che, quando le nuvole sono scomparse, siamo corsi tutti fuori a ringraziare il re di pietra, il Monviso, per aver fatto capolino. 
+È così che ci siamo ritrovati a ballare sulle giostre dei bambini, a cadere dallo **scivolo e sporcarci il vestito senza vergogna**, a ripararci dalla pioggia sotto al porticato osservando la nebbia salire da valle. 
+È così che, quando le nuvole sono scomparse, siamo corsi tutti fuori a ringraziare il re di pietra, il Monviso, per aver fatto capolino. 
 
-E' così che siamo andati a scattare qualche foto **nel bosco della Trebulina** e abbiamo corso sotto al diluvio protetti dalle foglie degli alberi che tintinnavano i loro migliori auguri a ogni folata di vento.
+È così che siamo andati a scattare qualche foto **nel bosco della Trebulina** e abbiamo corso sotto al diluvio protetti dalle foglie degli alberi che tintinnavano i loro migliori auguri a ogni folata di vento.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/sposi_bosco_tribulina_ehra7w.jpg">}}
 

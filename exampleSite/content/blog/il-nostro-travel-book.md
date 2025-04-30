@@ -1,5 +1,5 @@
 ---
-title: 'E'' uscito il Travel Book per seguire il nostro viaggio!'
+title: 'È uscito il Travel Book per seguire il nostro viaggio!'
 description: "Scopri le nostre avventure in tempo reale con post, foto e racconti esclusivi di quest''epico viaggio verso il Giappone"
 image:  https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1657123237/Articoli/Blog/travel-book-jp_avasf5.png
 date: 2024-09-22T00:00:00.000
@@ -8,7 +8,7 @@ type: featured
 draft: false
 ---
 
-E' uscito **il nostro Travel Book di questo epico viaggio** che ci sta portando dall'Italia al Giappone! Unisciti a noi in quest'avventura unica, seguendo in tempo reale il nostro viaggio attraverso oltre 150 post ricchi di foto, racconti e curiosità. 
+È uscito **il nostro Travel Book di questo epico viaggio** che ci sta portando dall'Italia al Giappone! Unisciti a noi in quest'avventura unica, seguendo in tempo reale il nostro viaggio attraverso oltre 150 post ricchi di foto, racconti e curiosità. 
 
 `Attenzione`  
 Se sei abbonato al nostro {{<extLink "canale Instagram" "https://www.instagram.com/vandipety/">}} riceverai gratuitamente questo link oltre **a molti altri contenuti esclusivi** al terzo mese di abbonamento!

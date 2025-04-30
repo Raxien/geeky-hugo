@@ -28,7 +28,7 @@ Vuoi fare anche un bagno o camminare a riva? Ti basta fare qualche chilometro di
 
 **_Coordinate_**: {{<extLink "29.424653, -10.13807" "https://www.google.com/maps/place/29%C2%B025'28.8%22N+10%C2%B008'17.1%22W/@29.424653,-10.1406449,17z/data=!3m1!4b1!4m4!3m3!8m2!3d29.424653!4d-10.13807">}}
 
-L'unico problema di questo luogo è che essendo in cima alle scogliere può essere pericoloso in caso di forte vento. E' proprio per questo motivo che abbiamo deciso di spostarci ed evitare di metterci in pericolo.
+L'unico problema di questo luogo è che essendo in cima alle scogliere può essere pericoloso in caso di forte vento. È proprio per questo motivo che abbiamo deciso di spostarci ed evitare di metterci in pericolo.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1684676730/IMG_7082_o1umiy.jpg">}}
 
@@ -36,7 +36,7 @@ L'unico problema di questo luogo è che essendo in cima alle scogliere può esse
 Hai mai immaginato di dormire in mezzo a un palmeto? Per noi è stata una prima volta davvero emozionante.
 In questo luogo tra l'altro pui concederti numerose escursioni, sia a piedi sulle montagnole circostanti che a bordo del tuo mezzo per raggiungere ad esempio le vicine rocce colorate. 
 
-**_Accessibilità_**: La strada per arrivarci è asfaltata, per poi tramutarsi in sterrato e prato nella zona adibita a parcheggio. E' fattibile per qualsiasi mezzo. 
+**_Accessibilità_**: La strada per arrivarci è asfaltata, per poi tramutarsi in sterrato e prato nella zona adibita a parcheggio. È fattibile per qualsiasi mezzo. 
 
 **_Servizi_**: Il paese di Tafraout offre numerosi negozi e ristoranti ed è comodamente raggiungibile a piedi. Ogni giorno passa un panettiere in bicicletta nel parcheggio e una volta a settimana un camioncino per il rifornimento dell'acqua.
 

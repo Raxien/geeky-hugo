@@ -833,3 +833,31 @@
   height: 400px;
   margin: 0 auto;
 }
+
+.language-switcher {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 1rem 0;
+  padding: 0.5rem;
+  background-color: var(--light);
+  border-radius: 4px;
+
+  .language-label {
+      font-weight: 600;
+      color: var(--text-dark);
+  }
+
+  .language-link {
+      color: var(--color-primary);
+      text-decoration: none;
+      padding: 0.25rem 0.5rem;
+      border-radius: 3px;
+      transition: all 0.3s ease;
+
+      &:hover {
+          background-color: var(--color-primary);
+          color: var(--white);
+      }
+  }
+}

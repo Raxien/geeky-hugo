@@ -1,6 +1,6 @@
 ---
 title: 'Innsbruck in 1 giorno con cane e gatto' 
-description: "E' possibile scoprire Innsbruck in un giorno insieme al proprio animale? Scoprilo con noi!"
+description: "È possibile scoprire Innsbruck in un giorno insieme al proprio animale? Scoprilo con noi!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1657706817/Articoli/Innsbruck_a_passeggio.jpg
 date: 2022-07-26T17:00:00.000
 categories: ["Europa", "Animali", "Itinerari"]

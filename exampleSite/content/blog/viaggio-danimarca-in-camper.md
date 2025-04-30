@@ -12,7 +12,7 @@ draft: false
 Il viaggio in Danimarca in camper è stato il nostro **primo viaggio lungo** dopo pochi weekend trascorsi in giro per il Piemonte. Alcuni hanno pensato che fossimo folli, mentre noi ci siamo divertiti un sacco. Abbiamo dormito **29 notti in libera**, caricato e scaricato le acque senza problemi in soste apposite trovate quasi sempre in autostrada oppure vicino alle cittadine.
 
 <!-- Di seguito trovi anche i dettagli e le informazioni sui posti dove abbiamo pernottato. -->
-E' un viaggio che abbiamo amato per tanti motivi: era la nostra prima avventura "lunga", le persone del luogo si sono rivelate gentilissime, i luoghi da visitare sono spettacolari. 
+È un viaggio che abbiamo amato per tanti motivi: era la nostra prima avventura "lunga", le persone del luogo si sono rivelate gentilissime, i luoghi da visitare sono spettacolari. 
 Abbiamo speso 2000 euro in totale, comprensivi di qualsiasi uscita, per un mese in camper in Danimarca. 
 Partiamo, o meglio se parti dopo aver letto questo articolo mandaci una foto che ci farebbe davvero piacere!
 

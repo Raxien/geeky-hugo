@@ -32,14 +32,14 @@ In ultimo noi abbiamo raggiunto nuovamente Tanger Med, da dove ci siamo imbarcat
 
 **{{< underline "Giorno 2-6">}}**: che sia impronunciabile è proprio vero, ma **Nzala el Oudaïa** è stata la nostra casa per 5 giorni. Un luogo magico tanto da rientrare nel podio dei nostri spot preferiti (gli altri? [li trovi qui](/blog/5-spot-in-marocco)).
 5 giorni che abbiamo trascorso immersi nella natura, **senza incontrare nessuno**, finendo le provviste e cucinando del simil pane a bordo del camper, rimanendo con un litro d'acqua per 2 adulti e 2 animali. 
-E' stato surreale, è stato bello, è stato purificante tanto da meritarsi {{<extLink "un video ad hoc" "https://youtu.be/6elKW_OV-98">}} per raccontare le nostre impressioni.
+È stato surreale, è stato bello, è stato purificante tanto da meritarsi {{<extLink "un video ad hoc" "https://youtu.be/6elKW_OV-98">}} per raccontare le nostre impressioni.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690636794/Articoli/Marocco/marocco%203/marocco_in_camper_in_libera_rabwg4.jpg" title="Un van, due persone, un cane, un gatto e nessun altro." >}}
 
 **{{< underline "Giorno 7">}}**: tra le città imperiali che ci mancavano all'appello abbiamo deciso di visitare solo **Fes** dal momento che quando eravamo **il paese Meknes era quasi totalmente in ristrutturazione**. La nostra visita è durata una mattinata intera: abbiamo deciso di passeggiare per le vie del quartiere ebraico alle 7 di mattina, **scelta perfetta per non trovare troppo turismo** e raggiungere le zone delle concerie di pelle, per le quali è famosa la città. 
 Affacciarsi su questi siti è gratuito, anche se numerose persone si proporranno di farvi da guida. L'odore di pelle trattata è veramente forte, ecco perché all'ingresso vi daranno un rametto di menta: non buttatelo! Vi aiuterà a non dover trattenere il respiro tutto il tempo!
 
-**{{< underline "Giorno 8">}}**: lasciata Fes abbiamo deciso, come anticipato, di non dirigerci direttamente a nord bensì di visitare tutta la costa mediterranea del Marocco, raggiungendo il confine purtroppo **invalicabile con l'Algeria** a **Saidia**. E' stato toccante salutare con la mano le persone al di là di un semplice fossato riempito di filo spinato. A posteriori, questa è stata una delle cose più interessanti e particolari da ammirare lungo la costa, **se non l'unica.** 
+**{{< underline "Giorno 8">}}**: lasciata Fes abbiamo deciso, come anticipato, di non dirigerci direttamente a nord bensì di visitare tutta la costa mediterranea del Marocco, raggiungendo il confine purtroppo **invalicabile con l'Algeria** a **Saidia**. È stato toccante salutare con la mano le persone al di là di un semplice fossato riempito di filo spinato. A posteriori, questa è stata una delle cose più interessanti e particolari da ammirare lungo la costa, **se non l'unica.** 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690636796/Articoli/Marocco/marocco%203/camper_saidia_confine_algeria_marocco_y2y25m.jpg" title="Sarebbe stato bellissimo visitare l'Algeria e la Tunisia per rientrare in Italia dalla Sicilia.." >}}
 
@@ -82,7 +82,7 @@ Affacciarsi su questi siti è gratuito, anche se numerose persone si proporranno
 ##### Considerazioni
 Come anticipato **le tappe lungo la costa mediterranea non ci sono piaciute granchè**, soprattutto per il grande accumulo di immondizia ovunque e alcuni episodi personali spiacevoli. In un paio di occasioni abbiamo richiesto l'intervento della gendarmerie per essere lasciati in pace dai locali.
 
-E' stato però giusto vedere con i nostri occhi un confine chiuso, in un mondo che noi speriamo in futuro libero da barriere. Volendo riconsiderare un itinerario più breve forse si potrebbero prendere in considerazione solo le seguenti tappe in una settimana di viaggio: 
+È stato però giusto vedere con i nostri occhi un confine chiuso, in un mondo che noi speriamo in futuro libero da barriere. Volendo riconsiderare un itinerario più breve forse si potrebbero prendere in considerazione solo le seguenti tappe in una settimana di viaggio: 
 
 - Volubilis: da Italiani non possiamo non visitare un sito romano poi visto il posto fa effetto! 
 

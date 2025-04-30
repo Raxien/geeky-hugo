@@ -56,7 +56,7 @@ Inaugurata il 9 febbraio 1851 oggi ospita un giardino tropicale che regala un an
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689672145/Articoli/empanada/madrid/IMG_3480_vjxda0.jpg">}}
 
 ###### 8 Ammirare Plaza Mayor 
-E' una delle piazze più famose di Madrid e ti consigliamo vivamente di visitarla al mattino presto: non ci sarà nessuno e ti regalerà un'atmosfera surreale.
+È una delle piazze più famose di Madrid e ti consigliamo vivamente di visitarla al mattino presto: non ci sarà nessuno e ti regalerà un'atmosfera surreale.
 
 ###### 9. Visitare la Cattedrale 
 L'ingresso alla **Cattedrale dell'Almudena** non è proprio gratuito bensì a "offerta libera", ma merita sicuramente una visita per gli affreschi meravigliosi che racchiude al suo interno.

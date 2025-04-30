@@ -65,7 +65,7 @@ Le principali compagnie di telefonia mobile in Polonia sono Orange, T-Mobile, Pl
 Essendo la Polonia parte dell'Unione Europea puoi usare la tua promozione italiana su tutto il territorio senza costi aggiuntivi.
 
 ##### Vaccini e assicurazione sanitaria
-L'Italia ha un accordo bilaterale con la Polonia, che prevede che i cittadini italiani che visitano la Polonia abbiano diritto all'assistenza sanitaria pubblica gratuita in caso di emergenza o malattia improvvisa. E' necessario presentare la Tessera Sanitaria.
+L'Italia ha un accordo bilaterale con la Polonia, che prevede che i cittadini italiani che visitano la Polonia abbiano diritto all'assistenza sanitaria pubblica gratuita in caso di emergenza o malattia improvvisa. È necessario presentare la Tessera Sanitaria.
  
 {{< assicurazione>}}
 

@@ -183,11 +183,9 @@ Le nostre spese ammontano a:
 
 {{< underline "Totale: 798 euro">}}
 
-
-
 ##### Considerazioni e tappe imperdibili
 Il nostro approccio iniziale al Senegal non è stato dei migliori: i problemi avuti in dogana, la troppa pattumiera ovunque, i problemi di corruzione e gestione della povertà nel paese ci hanno decisamente scossi.
-E' stato solo pensando a se e quando saremmo tornati in queste zone in van che abbiamo deciso di provare a raggiungere il sud, la Casamance, zona che ha decisamente risollevato il nostro morale, sia per i luoghi visitati sia per l'accoglienza da parte delle persone. 
+È stato solo pensando a se e quando saremmo tornati in queste zone in van che abbiamo deciso di provare a raggiungere il sud, la Casamance, zona che ha decisamente risollevato il nostro morale, sia per i luoghi visitati sia per l'accoglienza da parte delle persone. 
 Tutta la magia che ci hanno regalato i 7 giorni vissuti in questa zona del Senegal non è stata intaccata neppure dai fatti sgradevoli accaduti nell'uscita dal paese. 
 Torneremmo quindi? Forse un domani sì. Sicuramente non nell'immediato.
 Consigliamo di visitare il paese? Sì. Anche solo per vivere davvero un'esperienza diversa, per capire una cultura diversa, per provare a ritrovare ritmi legati al sole e non alle lancette di un orologio. 

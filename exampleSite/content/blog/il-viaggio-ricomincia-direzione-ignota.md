@@ -8,7 +8,7 @@ type: featured
 draft: false
 ---
 
-E' passato poco più di un mese da quando abbiamo annunciato che ci saremmo presi **una pausa su YouTube**, per poi fare lo stesso anche sugli altri social e qui sul sito. Abbiamo [raccontato qui](/blog/e-tempo-di-una-pausa-da-youtube) il motivo di questo stop forzato e ora è tempo di spiegare cosa intendevamo con la frase "ci attende un periodo di fuoco".
+È passato poco più di un mese da quando abbiamo annunciato che ci saremmo presi **una pausa su YouTube**, per poi fare lo stesso anche sugli altri social e qui sul sito. Abbiamo [raccontato qui](/blog/e-tempo-di-una-pausa-da-youtube) il motivo di questo stop forzato e ora è tempo di spiegare cosa intendevamo con la frase "ci attende un periodo di fuoco".
 
 ##### Ci siamo spostati e.. ci siamo sposati!
 

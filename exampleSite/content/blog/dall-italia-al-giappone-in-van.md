@@ -7,8 +7,7 @@ categories: [ "Direzione Giappone", "Giappone", "Blog"]
 type: featured   
 draft: false
 ---
-
-E' giunto il momento di svelarvi la nostra prossima avventura: **stiamo andando in Giappone!**  
+È giunto il momento di svelarvi la nostra prossima avventura: **stiamo andando in Giappone!**  
 In van? Sì! Idea folle? No!
 
 Sogniamo questo viaggio da anni e finalmente è arrivato il momento di trasformarlo in realtà e raccontarvi tutti i dettagli, i retroscena e anche qualche segreto!
@@ -109,7 +108,7 @@ E una volta nel paese del Sol Levante cosa succederà? Restate con noi per scopr
 
 {{< youtube2 "IpjFo4TCBc0">}}
 
-##### E' tempo di svelare qualche segreto
+##### È tempo di svelare qualche segreto
 
 Abbiamo detto che vi avremmo svelato qualche segreto e vogliamo essere di parola. 
 Il primo è che la nostra meta e il nostro amore per il Giappone sono sempre stati davanti ai vostri occhi!

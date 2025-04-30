@@ -1,6 +1,6 @@
 ---
 title: 'Matrimonio alternativo: 30 giorni per organizzarlo in un van'
-description: "E' possibile organizzare un matrimonio in 30 giorni on the road? Vieni a scoprire se e come ci siamo divertiti!"
+description: "È possibile organizzare un matrimonio in 30 giorni on the road? Vieni a scoprire se e come ci siamo divertiti!"
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689874010/Articoli/Blog/sposi_abbraccio_a_ssatir.jpg"
 date: 2023-10-03T8:00:00+01:00
 categories: ["Blog"] 

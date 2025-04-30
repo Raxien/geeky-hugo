@@ -51,10 +51,10 @@ Situate a 3 min a piedi dalla Lotrsack Tower, vi faranno immergere nel cuore del
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Croazia/zagabria-chiesa-mark-gdqnlk.jpg">}}
 
 ###### 6. Parco di Maksimir
-E' un vero e proprio polmone verde della capitale, al cui interno si trova anche lo Zoo. L'accesso è gratuito (tranne allo zoo) e si ha l'imbarazzo della scelta per passeggiare tra laghetti e alberi secolari: questo parco era un tempo un bosco poi risistemato dal Vescovo cittadino nel 18° secolo. 
+È un vero e proprio polmone verde della capitale, al cui interno si trova anche lo Zoo. L'accesso è gratuito (tranne allo zoo) e si ha l'imbarazzo della scelta per passeggiare tra laghetti e alberi secolari: questo parco era un tempo un bosco poi risistemato dal Vescovo cittadino nel 18° secolo. 
 
 ###### 7. Cimitero di Mirogoj
-E' uno dei cimiteri più belli d'Europa, completamente immerso nel verde, con al suo interno numerose cappelle e veri e propri monumenti. Si trova a 3 km da Piazza Markov. 
+È uno dei cimiteri più belli d'Europa, completamente immerso nel verde, con al suo interno numerose cappelle e veri e propri monumenti. Si trova a 3 km da Piazza Markov. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Croazia/zagabria-cimitero-monumentale-chiesa-ovjmeo.jpg">}}
 

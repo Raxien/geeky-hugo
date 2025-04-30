@@ -1,6 +1,6 @@
 ---
 title: 'Nemrut dağı: con i piedi nella neve in Turchia '
-description: E' ora di scalare il famoso monte Nemrut e scoprire le imponenti statue del Nemrut Dagi
+description: È ora di scalare il famoso monte Nemrut e scoprire le imponenti statue del Nemrut Dagi
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione12/nemrut-dagi-statue-intere.jpg
 date: 2024-05-14T7:00:00+01:00
 categories: [ "Direzione Giappone", "Turchia"]

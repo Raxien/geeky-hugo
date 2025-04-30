@@ -222,7 +222,7 @@ Noi utilizziamo principalmente:
 
 ##### 5. Film, libri e musica offline
 Prima di partire noi scarichiamo sempre film o libri o playlist musicali ai quali ci sappiamo che ci farebbe piacere avere accesso nei momenti si svago o durante la guida. 
-Vuoi mettere ascoltare solo la radio in lingua locale? E' pur vero che è un ottimo esercizio linguistico!
+Vuoi mettere ascoltare solo la radio in lingua locale? È pur vero che è un ottimo esercizio linguistico!
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1702369025/Articoli/Blog/leggere-ovunque-senza-problemi_lkk6t4.jpg">}}
 

@@ -1,5 +1,5 @@
 ---
-title: 'Tour di Mosca in 2 giorni: un itinerario imperdibile'
+title: 'Tour di Mosca in 2 giorni: un itinerario imperdibilÈ
 description: 'Scopri Mosca in due giorni: una guida completa per visitare la capitale Russa'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-russia-piazza-rossa_ifxgbj.png
 date: 2024-09-24T10:00:00+01:00
@@ -68,7 +68,7 @@ Se sei un amante delle opere o dei balletti **puoi decidere di comprare il bigli
 
 Nella stessa piazza di trova il Central Kids Store, un centro commerciale per bambini disposto su sette piani, con le vetrine che raffigurano scene di fiabe popolari e all’interno **uno degli orologi meccanici ricoperto d’oro più grandi del mondo**, e un razzo alto 18,5 metri e composto da due milioni di pezzi di Lego. 
 
-> E' uscito il nostro **Travel Book**! Segui la nostra avventura fino in Giappone in tempo reale [cliccando qui!](/blog/il-nostro-travel-book/)
+> È uscito il nostro **Travel Book**! Segui la nostra avventura fino in Giappone in tempo reale [cliccando qui!](/blog/il-nostro-travel-book/)
 
 ##### Giorno 2: da sottoterra ai grattacieli 
  

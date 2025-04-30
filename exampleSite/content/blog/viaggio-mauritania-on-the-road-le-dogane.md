@@ -63,7 +63,7 @@ Per viaggiare in Mauritania è necessario il passaporto con validità residua di
 ###### Come pagare
 La moneta corrente è l' **Ouguiya mauritana** (MAU). 
 Il cambio è 40,37 Mau per 1 euro.
-E' possibile prelevare ai bancomat in città e cambiare in dogana (non consigliato).
+È possibile prelevare ai bancomat in città e cambiare in dogana (non consigliato).
 
 {{< card>}}
 
