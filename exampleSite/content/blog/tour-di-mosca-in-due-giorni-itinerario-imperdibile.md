@@ -1,5 +1,5 @@
 ---
-title: 'Tour di Mosca in 2 giorni: un itinerario imperdibilÈ
+title: 'Tour di Mosca in 2 giorni: un itinerario imperdibile'
 description: 'Scopri Mosca in due giorni: una guida completa per visitare la capitale Russa'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1727247897/Articoli/Russia/Mosca/mosca-russia-piazza-rossa_ifxgbj.png
 date: 2024-09-24T10:00:00+01:00
