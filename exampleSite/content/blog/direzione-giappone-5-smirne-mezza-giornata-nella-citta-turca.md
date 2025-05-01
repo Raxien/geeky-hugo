@@ -3,7 +3,7 @@ title: 'Smirne: mezza giornata nella terza città più grande della Turchia'
 description: Alla scoperta della terza città più grande della Turchia. Smirne, la metropoli che non ti aspetti
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione5/smirne_ykcryb.jpg
 date: 2024-05-02T7:00:00+01:00
-categories: [ "Direzione Giappone", "Turchia"]
+categories: [ "Direzione Giappone", "Viaggio in Turchia"]
 type: featured  
 country: Turchia 
 draft: false

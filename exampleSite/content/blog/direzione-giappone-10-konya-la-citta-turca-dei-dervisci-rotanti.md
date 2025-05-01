@@ -3,7 +3,7 @@ title: 'Konya: la città turca dei dervisci rotanti'
 description: Arriviamo nella città dei dervisci rotanti. Cosa sono? Scoprilo qui
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione10/dervisci-rotanti-capo_aofl3e.jpg
 date: 2024-05-11T7:00:00+01:00
-categories: [ "Direzione Giappone", "Turchia"]
+categories: [ "Direzione Giappone", "Viaggio in Turchia"]
 type: featured  
 country: Turchia 
 draft: false

@@ -3,7 +3,7 @@ title: 'Tempo di upgrade!'
 description: E\' giunta l\'ora di fare un aggiornamento molto importante al nostro van. Scopri cliccando qui
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione9/upgrade-al-van_vpnjk8.jpg
 date: 2024-05-09T7:00:00+01:00
-categories: [ "Direzione Giappone", "Turchia"]
+categories: [ "Direzione Giappone", "Viaggio in Turchia"]
 type: featured  
 country: Turchia 
 draft: false

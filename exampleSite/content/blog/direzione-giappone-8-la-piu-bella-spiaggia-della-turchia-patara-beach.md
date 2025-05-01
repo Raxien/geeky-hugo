@@ -3,7 +3,7 @@ title: 'La più bella spiaggia della Turchia: Patara Beach'
 description: Lo sapevi che lungo la costa turchese della Turchia si trovano alcune spiagge spettacolari? Patara Beach è una di queste.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione8/patara-beach_e1t5ol.jpg
 date: 2024-05-06T7:00:00+01:00
-categories: [ "Direzione Giappone", "Turchia"]
+categories: [ "Direzione Giappone", "Viaggio in Turchia"]
 type: featured  
 country: Turchia 
 draft: false

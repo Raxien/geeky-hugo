@@ -3,7 +3,7 @@ title: 'Pamukkale: Tra rovine e bellezza nascosta, vale la pena visitarla?'
 description: Oggi andiamo alla scoperta di Pamukkale ovvero il famoso "Castello di Cotone", merita una sosta?
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione7/pamukkale-vasche-drone_otbpse.jpg
 date: 2024-05-04T7:00:00+01:00
-categories: [ "Direzione Giappone", "Turchia"]
+categories: [ "Direzione Giappone", "Viaggio in Turchia"]
 type: featured  
 country: Turchia 
 draft: false

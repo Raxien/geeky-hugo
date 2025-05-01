@@ -3,7 +3,7 @@ title: 'Cappadocia in Mongolfiera: il periodo migliore'
 description: È tempo di volare e non c'è cosa migliore che farlo in mongolfiera sulla Cappadocia in Turchia! Scopri questa esperienza fantastica
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione11/cappadocia-le-mongolfiere_wbatfp.jpg
 date: 2024-05-12T7:00:00+01:00
-categories: [ "Direzione Giappone", "Turchia"]
+categories: [ "Direzione Giappone", "Viaggio in Turchia"]
 type: featured  
 country: Turchia 
 draft: false

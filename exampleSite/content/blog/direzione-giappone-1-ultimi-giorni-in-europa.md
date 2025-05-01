@@ -3,7 +3,7 @@ title: 'Ultimi giorni in Europa'
 description: 
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/moschea-edirne_x4ke3x.jpg
 date: 2024-03-28T10:00:00+01:00
-categories: [ "Direzione Giappone", "Turchia"]
+categories: [ "Direzione Giappone", "Viaggio in Turchia"]
 type: featured   
 country: Turchia
 draft: false

@@ -3,7 +3,7 @@ title: 'Lago di Van: un tesoro nascosto da scoprire in Anatolia orientale'
 description: 'Immergiti nella bellezza incontaminata del Lago di Van, il più grande lago salato della Turchia. Scopri paesaggi mozzafiato, antiche chiese e la deliziosa cucina locale. Un''avventura indimenticabile ti attende!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione17/turchia-lago-van_xbub4s.jpg
 date: 2024-05-30T7:00:00+01:00
-categories: [ "Direzione Giappone", "Turchia"]
+categories: [ "Direzione Giappone", "Viaggio in Turchia"]
 type: featured  
 country: Turchia 
 draft: false
