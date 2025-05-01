@@ -30,7 +30,7 @@
                         srcset="{{ $imagePath | safeURL }} 1x, {{ $imagePath | safeURL }} 2x"
                         sizes="(max-width: 600px) 100vw, 600px"
                         alt="{{ .Title }}"
-                        class="img-fluid rounded-4">
+                        class="img-fluid rounded-4 post-featured-image">
                     </div>
                   </a>
                   {{ else }}
@@ -47,7 +47,7 @@
                         srcset="{{$imageWebp.RelPermalink}} 1x, {{$imageWebp.RelPermalink}} 2x"
                         sizes="(max-width: 600px) 100vw, 600px"
                         alt="{{ .Title }}" 
-                        class="img-fluid rounded-4"
+                        class="img-fluid rounded-4 post-featured-image"
                         onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
                     </div>
                   </a>
