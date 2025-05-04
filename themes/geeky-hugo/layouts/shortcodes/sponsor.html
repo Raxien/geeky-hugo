@@ -1,0 +1,30 @@
+{{ $url := .Get "url" }}
+{{ $title := .Get "title" }}
+{{ $description := .Get "description" }}
+{{ $type := .Get "type" }}
+
+{{ $screenshotUrl := printf "https://api.microlink.io/?url=%s&screenshot=true&meta=false&embed=screenshot.url" $url }}
+
+{{ $disclaimerText := "" }}
+{{ if eq $type "link affiliato" }}
+  {{ $disclaimerText = "Disclaimer: Questo è un link affiliato, il che significa che potremmo ricevere una piccola commissione, senza costi aggiuntivi per te." }}
+{{ else }}
+  {{ $disclaimerText = "Disclaimer: Questo è un contenuto sponsorizzato. Abbiamo testato personalmente questo servizio/prodotto e lo consigliamo perché riteniamo possa essere utile per i nostri lettori." }}
+{{ end }}
+
+<div class="article__body__leggi-anche">
+  <a href="{{ $url }}" target="_blank" rel="nofollow noopener" title="{{ $title }}">
+    <div class="leggi-anche-content">
+      <span class="leggi-anche-label">{{ $type }}</span>
+      <span class="leggi-anche-title">{{ $title }}</span>
+      {{ if $description }}
+        <span class="leggi-anche-description">{{ $description }}</span>
+      {{ end }}
+    </div>
+    <img src="{{ $screenshotUrl }}" alt="{{ $title }}" loading="lazy" onerror="this.src='/images/sponsor-fallback.jpg'">
+  </a>
+</div>
+
+<div class="sponsor-disclaimer">
+  <small><em>{{ $disclaimerText }}</em></small>
+</div> 
