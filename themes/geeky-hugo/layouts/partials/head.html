@@ -155,7 +155,7 @@
 {{ template "_internal/twitter_cards.html" . }}
 
 <!-- Google Tag Manager - Ottimizzato -->
-<script>
+<!-- <script>
   // Funzione per caricare GTM in modo asincrono
   function loadGTM() {
     var gtmScript = document.createElement('script');
@@ -180,26 +180,7 @@
     loadGTM();
   }
 </script>
-
-<!-- Google Ads - Ottimizzato -->
-<script>
-  // Funzione per caricare Ads in modo asincrono
-  function loadGoogleAds() {
-    var adsScript = document.createElement('script');
-    adsScript.async = true;
-    adsScript.crossOrigin = 'anonymous';
-    adsScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7348628013126614';
-    document.head.appendChild(adsScript);
-  }
-
-  // Carica Ads dopo il caricamento della pagina
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', loadGoogleAds);
-  } else {
-    loadGoogleAds();
-  }
-</script>
-
+ -->
 <!-- preload immagini articolo -->
 {{ if .Params.image }}
   {{ $image := .Resources.GetMatch .Params.image }}
