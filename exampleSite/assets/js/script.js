@@ -1,31 +1,3 @@
-// Passive event listeners
-document.addEventListener('touchstart', function(e) {
-  'use strict';
-  // Permetti il comportamento predefinito per tutti gli elementi
-  return;
-}, { passive: true });
-
-document.addEventListener('touchmove', function(e) {
-  'use strict';
-  // Permetti il comportamento predefinito per tutti gli elementi
-  return;
-}, { passive: true });
-
-document.addEventListener('wheel', function(e) {
-  'use strict';
-  // Permetti il comportamento predefinito per tutti gli elementi
-  return;
-}, { passive: true });
-
-// Preloader js
-window.addEventListener('load', function() {
-  'use strict';
-  const preloader = document.querySelector('.preloader');
-  if (preloader) {
-    preloader.style.display = 'none';
-  }
-});
-
 // Guide Slider
 function initGuidesSlider() {
   const guidesWrapper = document.querySelector('.guides-wrapper');
