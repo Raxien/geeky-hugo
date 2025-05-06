@@ -1653,9 +1653,9 @@ function handleVideoClick(facade, iframeContainer, iframe, videoId, isPlaylist) 
   iframeContainer.style.pointerEvents = 'auto';
   
   if (isPlaylist) {
-    iframe.src = `https://www.youtube-nocookie.com/embed/videoseries?list=${videoId}&autoplay=1`;
+    iframe.src = `https://www.youtube-nocookie.com/embed/videoseries?list=${videoId}&autoplay=1&fs=0`;
   } else {
-    iframe.src = `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1`;
+    iframe.src = `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&fs=0`;
   }
   
   setTimeout(() => {
