@@ -1,5 +1,5 @@
 ---
-title: 'Senegal on the road: dogane e strade!' 
+title: "Viaggio in Senegal in camper: Guida a dogana e informazioni Utili"
 description: "Tutto quello che devi sapere se vuoi entrare in Senegal in moto, auto o camper!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1681839060/Articoli/Copertine/Senegal_in_Van_nbfqyv.jpg
 date: 2023-03-26T17:00:00.000
@@ -8,7 +8,6 @@ country: Senegal
 type: regular
 draft: false
 ---
-
 Se vuoi arrivare in Senegal a bordo del tuo mezzo che sia moto, auto o camper e non sai come fare, **sei nel posto giusto**! 
 Entrare in Senegal con il proprio mezzo è fattibile con le dovute accortezze e armandosi di pazienza.
 Il nostro ingresso nel paese non è stato dei migliori quindi nel corso della nostra permanenza abbiamo **deciso di raccogliere varie informazioni che ti mettiamo a disposizione** se fossi intenzionato a intraprendere la stessa avventura. 
