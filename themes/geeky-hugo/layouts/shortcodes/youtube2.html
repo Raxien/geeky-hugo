@@ -64,9 +64,9 @@
       iframeContainer.style.pointerEvents = 'auto';
       
       {{ if $isPlaylist }}
-      iframe.src = `https://www.youtube-nocookie.com/embed/videoseries?list={{ $videoID }}&autoplay=1`;
+      iframe.src = `https://www.youtube-nocookie.com/embed/videoseries?list={{ $videoID }}&autoplay=1&fs=0`;
       {{ else }}
-      iframe.src = `https://www.youtube-nocookie.com/embed/{{ $videoID }}?autoplay=1`;
+      iframe.src = `https://www.youtube-nocookie.com/embed/{{ $videoID }}?autoplay=1&fs=0`;
       {{ end }}
       
       setTimeout(() => {
