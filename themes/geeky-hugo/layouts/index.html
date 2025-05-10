@@ -10,13 +10,13 @@
           <div class="d-none d-lg-flex w-100">
             <!-- big featured post -->
             <div class="col-lg-6 me-lg-4 mb-5 mb-lg-0">
-              {{ range first 1 (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true) }}
+              {{ range first 1 (where (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true) "Lang" .Lang) }}
               {{ .Render "post-featured" }}
               {{ end }}
             </div>
             <!-- small featured post -->
             <div class="col-lg-6 pe-4 blog-card-list">
-              {{ range first 4 (after 1 (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true)) }}
+              {{ range first 4 (after 1 (where (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true) "Lang" .Lang)) }}
               <div class="card rounded-0 mb-3">
                 <div class="d-flex flex-column flex-sm-row">
                   <!-- image path -->
@@ -128,7 +128,7 @@
           <!-- Versione mobile -->
           <div class="d-lg-none">
             <!-- Post principale -->
-            {{ range first 1 (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true) }}
+            {{ range first 1 (where (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true) "Lang" .Lang) }}
             <div class="featured-post-main mb-4">
               <!-- image path -->
               {{ $imagePath:= .Params.image }}
@@ -201,7 +201,7 @@
             <!-- Post secondari -->
             <div class="featured-posts-secondary">
               <div class="row g-3 flex-nowrap overflow-auto pb-3">
-                {{ range first 4 (after 1 (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true)) }}
+                {{ range first 4 (after 1 (where (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true) "Lang" .Lang)) }}
                 <div class="col-auto">
                   <div class="card h-100 border-0">
                     <!-- image path -->
@@ -275,8 +275,14 @@
         <div class="border pt-4 mb-5 rounded">
           <div class="row mx-0 g-5">
             <!-- recent post -->
-            {{ $featuredPosts := where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true }}
-            {{ $paginator:= .Paginate (where (where (where site.RegularPages "Section" "in" site.Params.mainSections) "Params.draft" "!=" true) "Type" "!=" "featured") }}
+            {{ $featuredPosts := where (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true) "Lang" .Lang }}
+            {{ $firstFiveFeatured := first 5 $featuredPosts }}
+            {{ $excludedPermalinks := slice }}
+            {{ range $firstFiveFeatured }}
+              {{ $excludedPermalinks = $excludedPermalinks | append .RelPermalink }}
+            {{ end }}
+            {{ $remainingPosts := where (where (where (where site.RegularPages "Section" "in" site.Params.mainSections) "Params.draft" "!=" true) "Lang" .Lang) "RelPermalink" "not in" $excludedPermalinks }}
+            {{ $paginator := .Paginate $remainingPosts }}
             {{ range $paginator.Pages }}
             <div class="col-md-6 mb-4">
               {{ .Render "post" }}
