@@ -18,7 +18,7 @@ Ti lasceremo <!-- la mappa con --> le coordinate, ma ricordati che si tratta di 
 
 Torniamo però insieme in quei luoghi insieme e **leggi fino al fondo per scoprire il nostro preferito!**
 
-#### 1 - Mirleft-Sidi Ifni
+## 1 - Mirleft-Sidi Ifni
 Siamo arrivati in questo luogo affacciato sulla costa atlantica un pomeriggio intorno alle 18, giusto in tempo per conoscere i vicini di van (altri due mezzi stranieri) e ammirare ognuno appoggiato alla propria casa mobile un tramonto a dir poco meraviglioso in cima alle scogliere.
 
 **_Accessibilità_**: La strada per arrivarci è sterrata, fattibile con un mezzo come il nostro (un van 5.40), forse più difficile con un mezzo più lungo e soprattutto **sconsigliata se nei giorni precedenti dovesse aver piovuto**.
@@ -32,7 +32,7 @@ L'unico problema di questo luogo è che essendo in cima alle scogliere può esse
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1684676730/IMG_7082_o1umiy.jpg">}}
 
-#### 2 - Tafraout
+## 2 - Tafraout
 Hai mai immaginato di dormire in mezzo a un palmeto? Per noi è stata una prima volta davvero emozionante.
 In questo luogo tra l'altro pui concederti numerose escursioni, sia a piedi sulle montagnole circostanti che a bordo del tuo mezzo per raggiungere ad esempio le vicine rocce colorate. 
 
@@ -48,7 +48,7 @@ Vuoi vedere le nostre avventure in questo luogo fra trekking e rocce colorate?
 
 {{< youtube2 VUcb9JEbnME>}}
 
-#### 3 - Cattedrale di Amsfrane
+## 3 - Cattedrale di Amsfrane
 Non immaginarti una sosta religiosa, perché di una Cattedrale in questo luogo troverai solo la forma di una montagna imponente. Tutto attorno **la natura regna sovrana, con alberi e il letto del fiume.**
 
 **_Accessibilità_**: La strada per arrivarci è tutta in salita e piena di curve, un po' stretta in alcuni punti e quasi totalmente asfaltata, tranne l'ultimo tratto in cui occorre attraversare il letto del fiume. 
@@ -62,7 +62,7 @@ Nei weekend e nei giorni di festa la zona si anima di persone per lo più del po
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1684676821/IMG_1460_ifsrm1.jpg">}}
 
-#### 4 - Lago El Ouidane
+## 4 - Lago El Ouidane
 Non appena superata la diga e un paio di resort turistici ci si ritrova davanti una spianata di terra secca, dove un tempo questo lago era decisamente più rigoglioso. Puoi decidere di parcheggiare all'inizio all'ombra di qualche albero o in riva in pieno sole e in compagnia di qualche pescatore.
 
 **_Accessibilità_**: La strada per arrivare alla zona ombreggiata è semplice e asfaltata, solo l'ultimo tratto è un facile sterrato. Se decidi di andare in riva al lago devi seguire le piste e scollinare prestando attenzione a pietra e buche.
@@ -75,7 +75,7 @@ Se ti venisse voglia di pizza non temere: da {{<extLink "Snack Pizzeria Slimane"
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1684676852/IMG_1300_uvyhzx.jpg">}}
 
-#### 5 - Lago El Sidi Chahede
+## 5 - Lago El Sidi Chahede
 Questo è il nostro spot del cuore ed è **il luogo che più abbiamo forse amato di tutto il Marocco**. Siamo rimasti 5 giorni immersi nel nulla, senza che ci mancasse alcunché. Attorno a noi le montagne rosse, verdi, bianche. Qualche campo di grano. Il letto di quello che un tempo era un lago, oggi totalmente prosciugato. 
 Potrebbe intimorire alcuni, noi abbiamo apprezzato tutto: il silenzio, il cielo stellato, la possibilità di camminare in qualsiasi direzione.
 Non esistono zone d'ombra ma dalle 11 del mattino si alza una brezza davvero piacevole. 

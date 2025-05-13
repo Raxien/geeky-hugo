@@ -16,8 +16,8 @@ Ti sei adattata al caos di Torino, **ti sei trasformata in mamma per quel gattin
 
 **Rimane il vuoto ora, in un van che sembra d’un tratto enorme**. Rimane il silenzio, perché tu abbaiavi spesso e ti piaceva farti sentire da tutti. Ora siamo a pezzi, eppure tu farai sempre parte di quel puzzle sconfusionato che è la nostra famiglia. Corri Oli, corri insieme ai tuoi fratellini Miao e Miele, al tuo fidanzato Boogie. Salutaceli e scodinzola felice insieme a loro. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1716102319/Articoli/Blog/cane-gatto-zampa_upgaod.heic">}}
-
 **Ti ameremo per sempre, PiccOlimpia.**
 
 Grazie per tutto. Paolo, Sara e Sakè. 
+
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1716102319/Articoli/Blog/cane-gatto-zampa_upgaod.heic">}}

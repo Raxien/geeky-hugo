@@ -37,8 +37,6 @@ button_link = "about/"
 content = "Siamo Paolo, Sara, Olimpia e Sakè e giriamo per il mondo raccontando qui le nostre avventure."
 enable = true
 image = "images/banner.png"
-title_large = "Benvenuti **!**"
-title_small = "nel Blog di Vandipety"
 [cookies]
 button = "Accetto"
 content = "Questo sito utilizza i cookie. Continuando a utilizzare questo sito Web, acconsenti al loro utilizzo."

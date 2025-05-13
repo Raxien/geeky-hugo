@@ -11,24 +11,21 @@ draft: false
 
 Ci sarebbero così tante cose da raccontare sul Kurdistan iracheno, così tante emozioni che abbiamo vissuto e per le quali **non so se troveremo mai le parole giuste.** In questa puntata di **[Direzione Giappone](/categories/direzione-giappone)** vogliamo soffermarci più sulle persone che sui luoghi, che potete invece vedere nel video in calce. Speriamo che parte delle nostre emozioni e dell'affetto ricevuto da questo popolo possa arrivare anche a voi tramite le nostre parole.
 
-##### Partiamo dal principio
-
+## Partiamo dal principio
 In primis **mai ci saremmo aspettati di festeggiare il Nawruz**, ovvero il capodanno persiano, una delle feste più antiche del mondo. Era il 20 marzo, diluviava senza sosta, ma per le vie di Aqrah, **una delle città più antiche del mondo sorta 5000 anni fa**, c’erano tantissime persone intente ad allestire il cibo che si sarebbe potuto mangiare dalle 18.30, per via del Ramadan che ha limitato tantissimo la festa, altrimenti protratta per giorni e giorni.
 
 **Insieme a Tonino, un italiano che vive in paese da 14 anni** e che abbiamo conosciuto più per fortuna che per caso, abbiamo assaggiato un succo tipico del paese, un mix di gelsi e menta. 
 
 {{< leggi-anche >}}
 
-##### Inizia la magia
-
+## Inizia la magia
 D’un tratto la collina di fronte a noi si è trasformata. Il verde brillante della montagna che potevamo osservare dal parcheggio era avvolto nel buio, **illuminato da centinaia di fiaccole che si muovevano a passo d’uomo** a formare quasi delle figure geometriche. 
 
 E poi i fuochi d’artificio, e ancora persone che suonavano tamburi e flauti, e ci siamo ritroviamo con un tè caldo fra le mani e poi una banana, **senza poter dire di no**, e ancora un altro tè caldo mentre intorno a noi una folla incredibile era intenta a ballare per strada, incrociando i mignoli e accennando passi di danza con i piedi. 
 
 {{< carousel images="Articoli/Direzione%20giappone/Direzione15/iraq-nawruz-in-attesa_kd2ckq.jpg,Articoli/Direzione%20giappone/Direzione15/iraq-nawruz-ragazza-vende-dolci_byt5om.jpg,Articoli/Direzione%20giappone/Direzione15/iraq-nawruz-fiaccolata_rbmxew.jpg,Articoli/Direzione%20giappone/Direzione15/iraq-nawruz-festa_jsrdvn.jpg">}}
 
-##### Verso la capitale Erbil
-
+## Verso la capitale Erbil
 Abbiamo lasciato Aqrah con la promessa di tornare nel parcheggio vista montagna e abbiamo raggiunto Erbil, **la capitale del paese che sembra non esistere e che invece lascia il segno addosso.**
 
 Già a distanza ci hanno accolti palazzi e grattacieli, per poi ritrovarci a passeggiare in parchi moderni e curati con statue gigantesche, e abbiamo raggiunto a piedi l’antico bazar, tra gli occhi curiosi della gente del posto. 
@@ -46,8 +43,7 @@ A quel punto è stato lo strano trio straniero ad attirare l’attenzione di mez
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione15/iraq-erbil-banconote-saddam_lcqlpn.jpg" title="Un souvenir tipico che potete acquistare in capitale: i dinari con il volto di Saddam" >}} 
 
-##### La moschea più bella che abbiamo mai visto
-
+## La moschea più bella che abbiamo mai visto
 L’indomani abbiamo visitato **la Moschea Grande, la più bella mai vista,** un tripudio di decorazioni interne che sembrava le luci giocassero a farci l’occhiolino. 
 
 E poi di nuovo siamo stati accolti, **ci è stata offerta la cena, le persone si sono fermate per parlare con noi**, mostrandoci un’accoglienza senza eguali. 

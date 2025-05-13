@@ -8,7 +8,6 @@ type: featured
 country: Turchia 
 draft: false
 ---
-
 Tra tutti gli ["upgrade"](/van) realizzati sul nostro van 540 uno dei più emozionanti **è stato appiccicare l’adesivo con la scritta “Road to Japan”.** 
 Abbiamo atteso tanto per realizzarlo, fino a quando non abbiamo avuto un po’ di certezze necessarie, come quelle relative all’ottenimento dei visti per la Russia.
 
@@ -22,8 +21,7 @@ Così abbiamo cercato un’officina e fra passanti e poliziotti curiosi, **mentr
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione9/sake-controlla-i-lavori_ew5slp.jpg">}} 
 
-#### Ma non solo
-
+## Ma non solo
 Su consiglio di Franco, {{<extLink "un caro amico \"malato di viaggi\"" "https://www.instagram.com/bicosisgud/">}}, abbiamo anche fatto stampare la scritta Italia. 
 **“Italiani gente buona”** pare si dica nel mondo, e dato che nessuno riconosce quella I sulla targa, anzi a volte viene confusa con quella dell’Iran, tanto valeva tentare. 
 Noi in ogni caso continueremo a scendere dal van con il sorriso, il nostro miglior passe-partout là fuori nel mondo.

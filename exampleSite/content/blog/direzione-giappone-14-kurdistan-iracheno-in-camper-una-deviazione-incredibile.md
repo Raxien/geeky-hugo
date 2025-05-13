@@ -11,18 +11,15 @@ draft: false
 
 Siamo andati in camper in Kurdistan Iracheno **ed è stato meraviglioso!** È scelta dell’ultimo minuto, taciuta per evitare inutili ansie, della quale non ci pentiremo mai e poi mai. **Lasciati da parte giudizi e paure sul paese**, abbiamo lasciato che fossero le persone del posto a guidarci, a permetterci di fidarci di loro, a farci emozionare e a farci scoprire cultura, religioni e tradizioni. Siamo rimasti 15 giorni, **godendoci ogni attimo di stupore e facendo nostri tutti gli insegnamenti.**
 
-##### Visto in 5 minuti
-
+## Visto in 5 minuti
 Richiedere il visto elettronico per entrare nello stato autonomo del Kurdistan nell’Iraq del nord **è stata una delle procedure più semplici mai eseguite**: si va sul {{<extLink "sito ufficiale" "https://gov.krd/english/">}}, una fotografia del passaporto, una nostra con sfondo bianco scattata sfruttando la lamiera non troppo pulita del van, i soliti dati personali ed ecco **una mail di risposta immediata con l’approvazione.**
 
-##### E si entra in un attimo
-
+## E si entra in un attimo
 Erano le 8 di mattina quando ci siamo presentati davanti alla frontiera fra Turchia e Iraq entrando dal checkpoint di Habur\Zakho. Oltre noi solo qualche altra automobile che lentamente avanzava in attesa di intravedere sventolare una nuova bandiera. **Negli uffici curdi tutti parlavano un po’ di inglese**, il che ha reso semplice comprendere i passaggi da seguire: controllo visti, **timbro sul passaporto**, controllo del libretto del mezzo, **pagamento della tassa temporanea di importazione** (35 dollari). 
 
 {{< leggi-anche >}}
 
-##### Prima tappa Alqosh: la città cristiana
-
+## Prima tappa Alqosh: la città cristiana
 Tutto il resto è stato spirito di adattamento: le scritte erano incomprensibili ma in qualche modo ce l’avremmo fatta. **Ci siamo diretti ad Alqosh, una cittadina cristiana che mai avremmo immaginato di trovare** in un paese che reputavamo quasi totalmente mussulmano. 
 Ad ogni check point militare abbiamo dovuto fermarci, non tanto per un controllo quanto per un saluto o per dare un’occhiata curiosa dentro la nostra casa ambulante. 
 
@@ -30,8 +27,7 @@ Poi davanti a noi è apparso **in tutta la sua maestosità il Monastero di Rabba
 
 {{< carousel images="Articoli/Direzione%20giappone/Direzione14/iraq-alqosh_fy41i3.jpg,Articoli/Direzione%20giappone/Direzione14/iraq-akre-bandiera_mqbnh3.jpg,Articoli/Direzione%20giappone/Direzione14/iraq-monastero-ortodosso_unkbqh.jpg">}} 
 
-##### Dal vaticano Yazida al monastero ortodosso
-
+## Dal vaticano Yazida al monastero ortodosso
 Lasciata Alqosh dopo una notte nel piazzale della chiesa **con il benestare del prete abbiamo raggiunto Lalish**, in una piccola valle di montagna situata nel nord del Kurdistan, dove si trova la tomba di una **figura principale della fede Yazidi.**
 Il fatto che poi abbiamo sbagliato strada per colpa del navigatore, che ci siamo ritrovati fermi a un check point dove non capivamo cosa stesse succedendo per poi realizzare di essere alle porte dell’Iraq Federale nel quale non potevamo assolutamente entrare, non è stato un grosso problema: con la calma **abbiamo risolto tutto e percorrendo una strada di montagna immersa nel nulla**, anzi in una tavolozza di colori, ci siamo ritrovati al cospetto del **Mar Mattai**, un monastero ortodosso fondato nel 363 durante il periodo delle persecuzioni in cima al monte Alfaf. Lo abbiamo visitato in totale silenzio, immersi nella nebbia, circondati da pezzi di storia.
 

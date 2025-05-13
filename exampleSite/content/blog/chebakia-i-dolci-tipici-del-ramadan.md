@@ -11,14 +11,12 @@ draft: false
 
 Li abbiamo scoperti, li abbiamo amati, ne abbiamo fatto indigestione. Poi ne abbiamo comprato un ultimo pacchettino come ricordo, che non è durato molto! D’altronde ... **un ricordo è un ricordo!** 
 
-##### Ma cosa sono?
-
+## Ma cosa sono?
 Si tratta di dolci fritti, come la maggior parte dei dolci mediorientali, e il loro aspetto ricorda molto le cartellate pugliesi. La loro forma varia in base alla regione in cui vengono preparati, così come le spezie utilizzate, che vanno dai semi di sesamo a quelli di finocchio.
 
 Sono i dolci tipici del Ramadan e durante tutto il periodo ci è capitato di vedere un banchetto che vendesse questi dolcetti tipici, sia lungo le vie cittadine sia nei luoghi più remoti. Inoltre ogni famiglia ne prepara solitamente **una bella scorta** per tutto il mese di durata del Ramadan. 
 
-##### Non sono tutti uguali
-
+## Non sono tutti uguali
 Inutile girarci intorno ma quelli più buoni che abbiamo assaggiato sono stati proprio quelli preparati in casa quando siamo stati ospiti della famiglia di Med. Non potevamo credere ai nostri occhi quando abbiamo visto che un intero tavolo della cucina era occupato da una montagna di Chebakia. Per l’occasione abbiamo banchettato insieme, in quel pasto che per loro era la colazione e per noi la cena (trovi tutto {{<extLink "in questo video" "https://youtu.be/vgNL4cK-aJY">}}).
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690465505/Articoli/Cibo/Chebakia-varie-versioni_yrmuwk.jpg">}}
@@ -36,8 +34,7 @@ Se sei molto golosa/o, fai due passi in più e ricordati di **lavarti bene i den
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690465517/Articoli/Cibo/Chebakia-ramadan_eruc0v.jpg">}}
 
-##### Vuoi la ricetta?
-
+## Vuoi la ricetta?
 Non posso dartela. Non saprei cucinarli e soprattutto non li cucinerei per non averne troppi a disposizione.
 Se spulci un po’ sul web la trovi facilmente. 
 

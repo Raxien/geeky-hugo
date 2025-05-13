@@ -11,8 +11,7 @@ draft: false
 
 Continuano le nostre avventure e in quest'episodio di **[Direzione Giappone](/categories/direzione-giappone)**, sempre dalla Turchia, siamo arrivati **in una delle località più turistiche del paese ovvero Efeso**! Ma varrà il caro prezzo oppure conviene puntare **a qualcosa di meglio** li vicino?
 
-##### Efeso e l'imponente biblioteca di Celso
-
+## Efeso e l'imponente biblioteca di Celso
 Poter varcare la soglia di Efeso di prima mattina, ammirare la biblioteca di Celso, immaginarne i 12000 volumi in pergamene, sedere sugli spalti che un tempo permettevano l’accesso a 24000 persone, camminare lungo la via all’epoca costellata di negozi e sentir risuonare solo l’eco dei nostri passi non ha avuto prezzo, se non quello del biglietto ovviamente, **un po’ troppo caro secondo noi per gli standard turchi.**
 
 Oggi giorno abbiamo scoperto che qualsiasi attrazione o museo in Turchia si paga, e anche tanto. 
@@ -24,8 +23,7 @@ Scopri nel video le nostre emozioni a caldo!
 
 E ricorda che abbiamo sfruttato una giornata con pochi turisti e lasciato il camper a un chilometro circa di distanza per non dover pagare anche il biglietto del parcheggio.
 
-##### C'è di meglio?
-
+## C'è di meglio?
 Non ti interessano le rovine? 
 Eccoti allora 3 cose da fare nei dintorni di Efeso senza spendere un euro.
 

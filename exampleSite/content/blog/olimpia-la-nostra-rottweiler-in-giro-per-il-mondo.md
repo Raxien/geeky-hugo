@@ -14,7 +14,7 @@ Ci riteniamo immensamente *fortunati* perché si adatta a tutte le nostre idee s
 
 Fino a un anno fa viaggiavamo con lei in una Fiat Grande Punto e cercavamo solitamente Airbnb che accettassero animali, comunicando sempre in anticipo agli host la sua taglia.
 
-##### Il primo viaggio con la nostra rottweiler
+## Il primo viaggio con la nostra rottweiler
 Il primo grande viaggio vissuto insieme ad Olimpia si è svolto in Camargue e Provenza. Quattro adulti, quattro borsoni, due cappelli di paglia, due borse della spesa colme di provviste e lei accucciata nel bagagliaio. Chiunque possa pensare che abbia sofferto dovrà ricredersi, perché tutte le soste lungo la strada erano pensate esattamente in modo da non farla affaticare. E non abbiamo parole per spiegare *quanto siano stati belli quei giorni in sua compagnia*. 
 
 Visitare l’arena di Arles, attraversare il ponte di Avignone, mettere *zampe e piedi a mollo nell’oceano*, sporcarsi con la terra rossa di Roussillon. 

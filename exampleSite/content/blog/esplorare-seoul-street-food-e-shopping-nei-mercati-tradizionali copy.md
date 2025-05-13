@@ -10,14 +10,14 @@ draft: false
 ---
 Situata nel cuore della Corea del Sud, Jeonju è una città che incanta i visitatori con il suo patrimonio culturale e la sua cucina straordinaria. Conosciuta come una delle capitali culturali del paese, Jeonju è la culla di tradizioni secolari, dal suo iconico Villaggio Hanok alle specialità gastronomiche come il bibimbap. Questa guida ti accompagnerà alla scoperta di una città dove passato e presente si fondono in un’esperienza unica, perfetta per chi cerca autenticità e bellezza.
 
-#### Il villaggio Hanok di Jeonju: Un tuffo nella tradizione
+## Il villaggio Hanok di Jeonju: Un tuffo nella tradizione
 Il **Jeonju Hanok Village** è uno dei tesori meglio conservati della Corea, **con circa 800 case tradizionali (hanok)** che trasportano i visitatori indietro nel tempo. Le stradine acciottolate del villaggio sono un invito a scoprire l’artigianato coreano: dai tappeti di carta Hanji alle ceramiche, fino agli eleganti abiti hanbok. Ogni angolo racconta una storia, tra botteghe di artigiani e ristoranti che servono piatti della tradizione.
 
 Per un’esperienza dolce, fermatevi da **PNB**, una storica panetteria locale celebre per la sua **Choco Pie**, un delizioso dolce ripieno di crema al latte e marmellata di fragole che conquista al primo morso.
 
 {{< leggi-anche >}}
 
-#### Bibimbap di Jeonju: Il re della cucina coreana
+## Bibimbap di Jeonju: Il re della cucina coreana
 Jeonju è sinonimo di **bibimbap**, il piatto iconico della cucina coreana che qui raggiunge l’apice della perfezione. Preparato con riso, carne, verdure fresche, un uovo crudo (una peculiarità locale rispetto alla versione fritta diffusa altrove), gochujang (pasta di peperoncino fermentato) e olio di sesamo, **il bibimbap di Jeonju si distingue per la qualità e la varietà degli ingredienti.** La presentazione raffinata rende ogni boccone un’esperienza unica.
 
 {{< youtube2 RkC1nNuiOWk >}}

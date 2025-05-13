@@ -11,22 +11,19 @@ draft: false
 
 Dopo una breve parentesi nello stato che non esiste del Kurdistan Iracheno è tempo di tornare in Turchia in quest'ultima avventura che ci porterà al prossimo paese. Bentornati in Turchia e benvenuti al Lago di Van.
 
-##### Un viaggio indimenticabile tra natura, storia e sapori
-
+## Un viaggio indimenticabile tra natura, storia e sapori
 Il Lago di Van, situato nell'est dell'Anatolia, **è un vero gioiello nascosto**. Con le sue acque turchesi circondate da montagne innevate, questo lago salato offre paesaggi mozzafiato e un'atmosfera unica. Che tu sia un appassionato di natura, un amante della storia o un buongustaio, il Lago di Van ha qualcosa da offrire a tutti.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione17/turchia-lago-van-spot_hsy8a3.jpg">}} 
 _Vince a mani basse come spot più bello mai visto_
 
-##### Un itinerario ricco di esperienze
-
+## Un itinerario ricco di esperienze
 Il nostro viaggio al Lago di Van è iniziato ad aprile, quando le temperature erano ancora piacevoli e le cime circostanti innevate. **La prima tappa è stata la cittadina di Artvan**, dove si trovano tutti i servizi necessari. Purtroppo, a causa di alcune sommosse in periodo di elezioni politiche, non abbiamo potuto visitare la città di Van, famosa per le sue tipiche colazioni turche a base di prodotti a km 0.
 Nonostante questo imprevisto, **il nostro itinerario è stato ricco di esperienze indimenticabili**. Una delle scoperte più emozionanti è stata la visita alla Chiesa di San Tommaso, adagiata sulle rive del lago. Immersa in un paesaggio suggestivo, con una distesa infinita di abeti e mucche al pascolo, la chiesa sembrava quasi trasportata in un ambiente alpino.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione17/turchia-lago-van-monastero_izshzi.jpg">}}
 
-##### Tra natura incontaminata e cultura autentica
-
+## Tra natura incontaminata e cultura autentica
 Lasciato il lago di Van, ci siamo avventurati nuovamente verso l'entroterra, **tralasciando il confine iraniano per la presenza di neve in quota**. Abbiamo visitato Mus, immersa nelle placide campagne, e poi Erzurum, dove abbiamo gustato un'ultima cena turca in compagnia di due viaggiatori belgi in una tipica locanda. La cuoca, con la sua energia travolgente, ci ha deliziato con un assortimento di piatti tipici, dai sapori semplici e autentici.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione17/turchia-colazione_uxkopr.jpg">}} 

@@ -13,8 +13,7 @@ Mtskheta, antica capitale della Georgia e centro nevralgico del Cristianesimo or
 Conosciuta come la **"Seconda Gerusalemme"**, Mtskheta offre un tuffo nel passato, tra monasteri arroccati su colline, cattedrali imponenti e resti archeologici che raccontano storie di regni gloriosi e fede profonda.
 In questa guida vi accompagneremo** alla scoperta delle tappe imperdibili di Mtskheta**, svelando i segreti di questa città santa e offrendovi consigli pratici per un'esperienza indimenticabile.
 
-##### La Cattedrale di Svetitskhoveli: il cuore spirituale di Mtskheta
-
+## La Cattedrale di Svetitskhoveli: il cuore spirituale di Mtskheta
 La Cattedrale di Svetitskhoveli, **capolavoro architettonico e patrimonio UNESCO**, domina il panorama di Mtskheta. Costruita nel XI secolo sui resti di una chiesa in legno del IV secolo, è considerata il luogo più sacro della Georgia, custodendo la venerata reliquia della tunica di Cristo.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione23/mtskheta-svetitskhoveli_idcuih.jpg">}} 
@@ -27,28 +26,24 @@ Una delle particolarità al suo interno è **un’insolita rappresentazione dei�
 La pietra con cui è costruita la cattedrale cambia colore a seconda della luce e può apparire giallo oro, rosata o verdognola. 
 L’ingresso ai visitatori è gratuito, **ma vietato durante l’orario di preghiera**. 
 
-##### Il Monastero di Jvari: un gioiello architettonico sulla collina
-
+## Il Monastero di Jvari: un gioiello architettonico sulla collina
 Il Monastero di Jvari, arroccato su una collina che domina Mtskheta, **è un simbolo iconico della Georgia**. Fondato nel VI secolo, questo monastero patrimonio UNESCO vanta una chiesa dall'architettura semplice ma elegante, a forma di croce greca. 
 Unica pecca, l**a vista rovinata dall’autostrada sottostante.**
 Si raggiunge in 10 minuti di automobile dal centro città (vi sconsigliamo di tentare di raggiungerlo a piedi, ma di preferire piuttosto uno dei numerosi taxi). 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione23/mtskheta-monastero-jvari_kv3f5d.jpg">}} 
 
-##### Il Monastero di Samtavro: un'oasi di pace e spiritualità
-
+## Il Monastero di Samtavro: un'oasi di pace e spiritualità
 Il Monastero di Samtavro, situato ai piedi della collina di Jvari, **è un complesso monastico femminile** più recente rispetto a Svetitskhoveli e Jvari, ma non per questo meno affascinante. Fondato nel IV secolo, il monastero **ospita le tombe di re Mirian III e della regina Nana**, i sovrani che convertirono la Georgia al Cristianesimo, e un giardino curato. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione23/mtskheta-campanella_nlss5a.jpg">}} 
 
-##### Il mosaico dell'albero della vita: un capolavoro artistico in centro città
-
+## Il mosaico dell'albero della vita: un capolavoro artistico in centro città
 Proprio nel cuore di Mtskheta, sulla facciata del Museo d'Arte Nazionale della Georgia, si trova **un magnifico mosaico raffigurante l’albero della vita**. Questa opera d'arte contemporanea, realizzata nel 2004, rappresenta un'esplosione di colori e simboli che riprendono la ricca tradizione artistica georgiana.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione23/mtskheta-murales_ji7bds.jpg">}} 
 
-##### Le vie del centro a caccia di sapori autentici 
-
+## Le vie del centro a caccia di sapori autentici 
 Nel centro storico di Mtskheta si trova un mercato quotidiano, con numerose bancarelle presso le quali scoprire alcuni prodotti tipici oltre che lavori di artigianato locale. 
 
 {{< youtube2 "SS_-p6F3NrA">}}

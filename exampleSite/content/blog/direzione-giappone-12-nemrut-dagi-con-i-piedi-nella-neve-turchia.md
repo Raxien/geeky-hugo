@@ -11,14 +11,12 @@ draft: false
 
 Sapevi che in Turchia si trova un monte **sulla cui sommità sono state erette alcune statue più alte di noi umani?** Scopriamolo insieme il monte Nemrut con le sue famose statue Nemrut Dagi e calpestando, niente meno, che la neve!
 
-##### Una strada spettacolare
-
+## Una strada spettacolare
 La strada per raggiungere **il monte Nemrut è spettacolare**, immersa fra campi e colline, fino a raggiungere le rocce e quei tratti più in pendenza nei quali non abbiamo incontrato anima viva. Al parcheggio abbiamo scoperto che il sito era a pagamento e si poteva raggiungere in auto la prima terrazza, dove la neve si era quasi del tutto sciolta mentre gli scorsi inverni durava fino a maggio. **Impotenti di fronte ai dubbi sul futuro di questi luoghi** ci siamo incamminati lungo gli ultimi 600 metri, percorribili invece solo a piedi. Il panorama attorno era magnifico: **una vista a 360° sul circondario.** 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione12/nemrut-dagi-vista.jpg">}} 
 
-##### Inizia la scalata
-
+## Inizia la scalata
 Abbiamo iniziato a percorrere fiduciosi gli scalini posti sul lato est, convinti che al ritorno avremmo percorso il versante ovest. **D’altronde non c’era nessuno a cui chiedere informazioni**, eravamo soli in mezzo alla natura. Intanto gli scalini in muratura hanno lasciato spazio alle rocce, finché anche queste sono state sostituite dalla neve: uno strato sottile, ghiaccio al di sotto, manto morbido al di sopra. La parete era abbastanza scoscesa, **sotto di noi nessun parapetto, solo il burrone** dritto per dritto. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione12/nemrut-dagi-burrone.jpg">}} 

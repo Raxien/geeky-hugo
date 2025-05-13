@@ -14,18 +14,16 @@ Abbiamo anche optato per una deviazione in Germania dato che da anni volevamo ve
 
 Vuoi scoprire tutto il nostro itinerario? Le tappe che ti elenchiamo sono state raggiunte a bordo del nostro piccolo van ma puoi effettuarle anche in moto, auto o con un mezzo più grande. 
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Itinerario](#itinerario)
 >   - [In breve](#in-breve)
-> - [Strade](#strade)
-> - [Servizi e soste](#servizi-e-soste)
-> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Viaggiare con il proprio animale](#Animali)
+> [Informazioni utili](#informazioni-utili)
+>    - [Strade](#strade)
+>   - [Servizi e soste](#servizi-e-soste)
+>   - [Viaggiare con il proprio animale](#Animali)
 > - [Considerazioni](#considerazioni)
-> - [Il nostro vlog](#il-nostro-vlog)
- <!-- - [Le nostre mappe](#le-nostre-mappe)  -->
 
-##### Itinerario
+## Itinerario
 
 Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#considerazioni).
 
@@ -37,6 +35,8 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 Nel primo pomeriggio ci siamo spostati presso un piccolo laghetto, a **Rieden am Forggensee** per una passeggiata sulla riva, tra acque cristalline e costruzioni che sembrano totem indiani. Sosta in libera in un prato nelle vicinanze.
 
 **{{< underline "Giorno 4-5">}}**: la prima tappa di rientro verso l’Austria è stata **Murnau am Staffelsee**. Prima di raggiungere il villaggio abbiamo fatto una tappa lungo la sponda di un laghetto trovato per caso (**Seehausen am Staffelsee**), con tanto di altalena panoramica in legno fissata ad un albero. Sosta in area libera in città in una zona con supermercati e negozi e vicini giardini curati. Da qui ci siamo spostati nei pressi di un vicino lago balneabile attorniato da un bosco. Qui trovi un molo e un bar vicinissimi al parcheggio, se invece vuoi addentrarti in natura basta seguire la passeggiata ben segnalata. Sosta notturna non consentita per cui ci siamo spostati a Rosenheim.
+
+{{< leggi-anche >}}
 
 **{{< underline "Giorno 6">}}**: **Rosenheim** è ultima città tedesca prima di rientrare in Austria. Il centro città è pulito e ordinato (il sabato mattina si svolge anche un mercato interessante!), nell'immediata periferia puoi passeggiare in un bellissimo parco sulla riva del fiume. Purtroppo nei pressi dei laghi limitrofi è vietato l'accesso agli animali, quindi abbiamo optato per spostarci nelle campagne di **Teisendorf**. Sosta in libera. 
 
@@ -51,17 +51,14 @@ Non in tutta l'Austria è consentito pernottare il libera, motivo per cui per la
 
 **{{< underline "Giorno 10-11">}}**: ci siamo spostati in riva al **lago di Atter**. Anche in questa zona non è permesso sostare la notte in libera, né far fare il bagno agli animali e purtroppo neppure farli passeggiare sulla sponda in erba! Per la notte ci siamo spostati in un parcheggio lungo la strada sulla collina poco distante che si affaccia sul lago (poco male, la visuale dall'alto era davvero bella!).
 
-
 **{{< underline "Giorno 12">}}**: ci siamo spostati per cercare un'area di servizio e ci siamo fermati di fronte a un paesino delizioso trovato per caso curva dopo curva: **Traunkirchen**. Il panorama che viene offerto dalle acque del lago su cui sorge è dir poco meraviglioso. Anche qui vige il divieto di balneazione per i cani. 
 Per la notte ci siamo spostati a Gmunden.
-
-{{< youtube2 5On2kJVs7Hk>}} 
 
 **{{< underline "Giorno 13-14">}}**: **Gmunden** è un altro paesino affacciato su di un lago che riporta l'ennesimo divieto di balneazione per cani. Si possono però fare delle belle passeggiate sul molo, picnic sull'erba insieme alle persone del posto, visitare il giardino del castello affacciato sul molo, e le viuzze strette del centro storico. In città si trova anche {{<extLink "un'ottima pizzeria" "http://www.hacklpizza.at/">}} che permette l'asporto (noi abbiamo gustato due pizze ottime in riva al lago!). Sosta in libera in un parcheggio vicino al lago. 
 
 **{{< underline "Giorno 15">}}**: abbiamo visitato le bellissime **cascate di Traun** raggiungibili tramite una passerella in legno, fatto il bagno in un fiume nelle immediate vicinanze e abbiamo dormito nella foresta al riparo dal diluvio.  
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1684674600/IMG_4118_eu3zva.jpg">}}
+{{< youtube2 5On2kJVs7Hk>}} 
 
 **{{< underline "Giorno 16-17">}}**: ci siamo spostati nella deliziosa cittadina di **Linz** parcheggiando in un viale in una zona residenziale dalla quale si raggiunge facilmente a piedi il centro città con le sue stradine con palazzi dalle facciate colorate. Dato il maltempo del secondo giorno ne abbiamo approfittato per visitare un museo, l’ARS ELECTRONICA, che si è rivelato una scoperta molto interessante (animali non ammessi): il modo interattivo in cui viene spiegato come sfruttare l’intelligenza artificiale in svariati ambiti, dalla musica alla creazione di nuovi materiali è davvero coinvolgente, per adulti e bambini. Se hai bisogno di più informazioni in merito le trovi {{<extLink "qui" "https://ars.electronica.art">}}.
 
@@ -77,9 +74,9 @@ Per la notte ci siamo spostati a Gmunden.
 
 Da questa zona dell'Austria le nostre avventure sono proseguite verso Est, in [Slovacchia](/blog/viaggio-slovacchia-in-camper) prima e in [Polonia](/blog/viaggio-polonia-in-camper-itinerari/) subito dopo. 
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1684674595/IMG_3781_d6m78n.jpg">}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1684674600/IMG_4118_eu3zva.jpg">}}
 
-###### In Breve
+### In Breve
 Di seguito le sole tappe della nostra avventura. Abbiamo sempre dormito in libera o in aree sosta gratuite. 
 
 **{{< underline "Giorno 1">}}**: Innsbruck
@@ -119,31 +116,23 @@ Di seguito le sole tappe della nostra avventura. Abbiamo sempre dormito in liber
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1684674599/IMG_5064_loyaic.jpg">}}
 
-##### Strade 
+## Informazioni utili
+
+### Strade 
 In tutta l'Austria la situazione delle strade è in condizioni impeccabili. L'autostrada è a pagamento con vignetta (con varie formule di durata e costi relativi), noi però abbiamo preferito percorrere le strade statali. 
 
-##### Servizi e soste
+### Servizi e soste
 La sosta in libera non è tollerata su tutto il suolo austriaco.
 Per quanto riguarda i servizi, a noi è successo in alcune occasioni che ci venissero negati nei campeggi senza la sosta (nonostante fossimo disposti a pagare per utilizzarli).
 Si trovano comunque aree gratuite a disposizione.
 
-##### Viaggiare con il proprio animale
+### Viaggiare con il proprio animale
 {{< animali "EU">}}
 
 Come abbiamo scritto più volte l'Austria non è un paese del tutto pet friendly. In moltissimi casi gli animali non sono ammessi neppure nelle zone limitrofe ai laghi balneabili e la stessa cosa vale nella capitale nei parchi cittadini, oltre che nei musei.
 Se stai valutando un viaggio in paese con il tuo amico a quattro zampe tieni a mente queste limitazioni per non vivere avventure spiacevoli. 
 
-##### Considerazioni
+## Considerazioni
 In termini di natura e paesaggi l'Austria ci ha rubato il cuore.
 Abbiamo però trovato una popolazione non troppo amichevole e restrizioni non solo legate alla vanlife ma anche nei confronti degli animali che hanno reso il nostro viaggio non piacevole al 100%.
 Torneremmo e torneremo in ogni caso perché si tratta di un paese pulito, ordinato e sicuro.
-
-
-##### Il nostro Vlog 
-
-{{<extLink "A questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ9M2bL8Cgqg8a_9vxRXWftV">}} puoi trovare la playlist completa con i video delle nostre avventure in Austria. 
-
-<!-- ##### Le nostre mappe -->
-<!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=11GfW4gwkFqTBJcnrv5FV-ak3qVS4jws&ehbc=2E312F">}} -->
-
- 

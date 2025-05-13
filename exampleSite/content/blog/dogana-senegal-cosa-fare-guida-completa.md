@@ -13,7 +13,7 @@ Entrare in Senegal con il proprio mezzo è fattibile con le dovute accortezze e 
 Il nostro ingresso nel paese non è stato dei migliori quindi nel corso della nostra permanenza abbiamo **deciso di raccogliere varie informazioni che ti mettiamo a disposizione** se fossi intenzionato a intraprendere la stessa avventura. 
 Mettiti comodo e buona lettura.
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Premessa](#premessa)
 > - [Rosso o Diama?](#rosso-o-diama)
 >   - [Rosso](#rosso)
@@ -34,7 +34,7 @@ Mettiti comodo e buona lettura.
 > - [I nostri Vlog](#il-nostro-vlog)
 > - [Articoli consigliati](#articoli-consigliati)
 
-##### `Aggiornamento 2024` 
+`Aggiornamento 2024` 
 A seguito delle elezioni presidenziali tenutesi in Senegal a marzo 2024 la situazione nella dogana di Rosso sembra essere cambiata.
 
 Inoltre gli amici di {{<extLink "@R4 Team Piemonte" "https://www.instagram.com/r4teampiemonte/">}} sono andati da Saluzzo fino a Dakar ad agosto 2024 passando proprio presso questa dogana e grazie all'aiuto di un passeur hanno pagato circa 200 euro impiegando 4 ore a uscire dalla Mauritania e entrare in Senegal senza alcun problema. 
@@ -45,10 +45,10 @@ Lasciamo di seguito i contatti:
 
 Consigliamo comunque di **proseguire la lettura dell'articolo** e di verificare su iOverlander ({{<extLink "qui" "https://www.ioverlander.com/places/98598-rosso">}} e {{<extLink "qui" "https://www.ioverlander.com/places/100969-border-rosso-mauretanie-to-senegal">}}) la situazione aggiornata.
 
-##### Premessa
+## Premessa
 Prima di iniziare una piccola premessa: per arrivare al confine senegalese dal nord bisogna attraversare prima **il Marocco** (guarda {{<extLink "qui la nostra avventura" "https://www.youtube.com/watch?v=9fsV_nTm9bg">}}) e poi **la Mauritania** ([clicca qui se vuoi avere informazioni in merito](/blog/viaggio-mauritania-on-the-road-le-dogane/)). Se vuoi intraprendere quest'avventura ti consigliamo vivamente di leggere i precedenti articoli per conoscere la condizione delle strade e i costi da sostenere per arrivare a destinazione!
 
-##### Rosso o Diama?
+## Rosso o Diama?
 Per entrare in Senegal esistono due dogane:
 -   **Rosso**
 -   **Diama**
@@ -58,15 +58,13 @@ Entrambe hanno i loro **pro** e soprattutto **contro** e la scelta dipende essen
 2. in che periodo decidi di andare 
 3. che mezzo possiedi
 
-###### Rosso
+### Rosso
 {{< procontro pro1="Facilmente raggiungibile con qualsiasi mezzo" pro2="Raggiungibile in qualsiasi stagione" contro1="Estremamente corrotta" contro2="Costi esorbitanti per entrare (e uscire)">}}
 
 La strada è molto facile da percorrere, tutta asfaltata e facilmente raggiungibile a bordi di qualsiasi mezzo.
 Il vero problema è l'estrema corruzione che si riflette in costi esorbitanti se si vuole passare da questa dogana. Quando eravamo al famoso [Zebrabar](/blog/guida-senegal-in-camper-itinerari/), abbiamo sentito di persone che hanno sborsato addirittura 1000 euro per entrare (e immaginiamo lo stesso per uscire dal Senegal)!
 
-
-
-###### Diama
+### Diama
 {{< procontro pro1="Economica" pro2="Poco frequentata" contro1="Meno facile da raggiungere" contro2="Durante la stagione delle piogge raggiungibile solo con un 4x4">}}
 
 L'unico problema di questa dogana è la strada in quanto dall'ultima "città" della Mauritania al confine ci sono 48 chilometri di strada sterrata **in pessime condizioni** il cui tempo di percorrenza è di circa 2 ore e mezza. Questa strada diventa **impraticabile per i mezzi non 4x4** durante la stagione delle piogge. Ha di positivo che si trova all'interno del **parco del Dwailing** e permette di avvistare numerosi animali selvatici, soprattutto facoceri e uccelli di tutti i colori che migrano verso il vicino [parco del Djoudj](/blog/informazioni_viaggio_senegal/).
@@ -75,7 +73,7 @@ Prestando attenzione, la strada si riesce a percorrere anche con un camper mansa
 
 I costi sono relativamente più bassi rispetto a Rosso, al netto di tutte le tasse da pagare lungo la strada in Mauritania e poco prima di entrare, [che vedremo fra poco](#ma-quanto-mi-costa).
 
-###### Quindi quale scegliere? 
+### Quindi quale scegliere? 
 Il vincitore è, rullo di tamburi 🥁: 
 
 {{< citazione "Diama">}}
@@ -84,7 +82,9 @@ Questa è la scelta che abbiamo fatto noi e che **consigliamo caldamente a tutti
 
 La dogana di Rosso è **{{< underline "da evitare assolutamente">}}** in tutti i casi, a meno che tu non abbia problemi a spendere tanti soldi. A quel punto però conviene forse viaggiare in aereo.
 
-##### La dogana di Diama
+{{< leggi-anche >}}
+
+## La dogana di Diama
 Se come noi hai deciso di andare verso la dogana di Diama, una volta lasciata la Mauritania, ecco cosa devi fare:
 1. pagare il "pedaggio" per far alzare la sbarra del ponte
 2. fare il visto
@@ -94,15 +94,15 @@ Se come noi hai deciso di andare verso la dogana di Diama, una volta lasciata la
 
 È tutto molto semplice dato che sono presenti solo due edifici dove fare tutta la documentazione necessaria per entrare, ma per completezza ti spieghiamo i passaggi di seguito.
 
-###### Dove fare il visto
+### Dove fare il visto
 Lasciandoti la Mauritania alle spalle procedi verso **l'edificio di destra** con il passaporto ben stretto in mano. È un passaggio abbastanza veloce. Giusto il tempo di prendere le impronte e scattare una fotografia con una webcam.
 
 La durata del visto di permanenza in Senegal, in qualità di turista, è di **90 giorni**.
 
-###### Dove fare le pratiche del mezzo
+### Dove fare le pratiche del mezzo
 Una volta ottenuto il visto, sempre con la Mauritania alle spalle procedi verso **l'edificio di sinistra** con il libretto di circolazione (o una fotocopia, non si sa mai) per sbrigare tutte le faccende relative al mezzo. Qui esistono varie possibilità che dipendono dall'età del mezzo o dal fatto che tu abbia o meno il **Carnet de passages** (CdP da ora in poi).
 
-###### Carnet de Passages: serve?
+### Carnet de Passages: serve?
 Per entrare in Senegal non è richiesto il CdP (se non sai di cosa si tratta trovi maggiori informazioni in merito a questo documento sul sito dell'{{<extLink "ACI" "https://www.aci.it/il-club/soci-in-viaggio/per-chi-va-allestero/carnet-de-passages-en-douane.html">}}) ma è consigliato in quanto:
 - non avrai problemi burocratici
 - non avrai costi aggiuntivi 
@@ -117,7 +117,7 @@ Nel caso in cui non avessi il CdP potrai comunque entrare ottenendo un documento
   
 A prescindere dal fatto che si abbia il CdP o meno vengono permessi dai 3 ai 10 giorni per raggiungere la prima dogana e procedere con il rinnovo.
 
-###### Dove si rinnova
+### Dove si rinnova
 Entro lo scadere dei giorni che ti sono stati dati dovrai assolutamente dirigerti alla prima dogana per rinnovare il documento.
 Se si ha il CdP bisogna rinnovarlo solo una volta presso la dogana di Dakar.
 
@@ -130,13 +130,13 @@ Se si ha il Passavant si può rinnovare al massimo due volte ogni 15 giorni pres
 
 {{< underline Attenzione>}}: Il rinnovo **è gratuito** ma ogni tanto, a Saint Louis e Dakar in particolare, provano a chiedere soldi!
 
-###### E l'assicurazione?
+### E l'assicurazione?
 L'assicurazione del mezzo si fa dopo aver svolto le pratiche del mezzo.
 Non c'è un luogo ben preciso all'interno della dogana quindi dovrai chiedere. Nel nostro caso è stata fatta da un vecchietto seduto su una sediolina.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1681854073/Articoli/Senegal/Senegal_Van_nql3tl.jpg">}}
 
-###### Ma quanto mi costa?
+### Ma quanto mi costa?
 Se hai deciso di andare verso la dogana di Diama, prima di poterla raggiungere e in uscita dalla Mauritania, ti aspettano alcune "tasse" obbligatorie da pagare: le trovi tutte nel [dettaglio nell'articolo dedicato](/blog/viaggio-mauritania-on-the-road-le-dogane/#quanto-abbiamo-speso).
 
 Sia arrivando dalla dogana della Mauritania che per uscire da quella Senegalese bisogna attraversare un semplice ponte alla cui fine è presente una sbarra che per può esser alzata alla modica cifra di 800 oug (moneta della Mauritania) o 8 euro.
@@ -156,13 +156,13 @@ Riassumendo:
 -   con CdP: totale 38 euro
 -   senza CdP: totale 288 euro
  
-##### Passavant: i problemi!
+## Passavant: i problemi!
 Tutto quello che ti abbiamo detto finora sul Passavant funziona se i doganieri sono onesti e seguendo la legge scrivono su tale documento la dicitura _"per Turismo”_.
 
 Se come a noi e altri viaggiatori ti viene scritto _“a Declarer”_, cioè da dichiarare il motivo della permanenza, **inizia una trafila di problemi**. Questo succede a prescindere dall'età del mezzo: abbiamo raccolto più informazioni in merito grazie ad altri viaggiatori incontrati di persona. Il nostro consiglio è quello di mantenere sempre la calma e controllare questa scritta quando viene compilato il foglio, sottolineando fermamente che sei in paese per turismo (noi non sapevamo questo dettaglio e abbiamo scoperto dopo che sarebbero iniziati i problemi).
 Avendo il mezzo con meno di 8 anni abbiamo pagato 10 euro e siamo entrati, con 5 giorni di permesso, ma con la scritta errata.
 
-###### Racconti di altri viaggiatori
+### Racconti di altri viaggiatori
 Una volta arrivati a Saint Louis abbiamo scoperto la storia di alcuni camperisti (e non):
 
 - {{< underline "caso 1">}}: mezzo con più di 8 anni. Il proprietario ha pagato 250 euro in dogana, gli hanno scritto "a declarer", a Dakar gli hanno detto che quel passavant gli dava diritto a 3 mesi ma che avrebbe dovuto tornare l'indomani. Ha atteso 8 giorni andando ogni mattina in taxi in dogana, gli hanno dato un nuovo documento che concedeva 3 mesi ma richiedeva di contattare un funzionario entro 15 giorni, da pagare a sue spese. Alla richiesta di ulteriori 250 euro, pena il blocco del mezzo, ha deciso di rimanere fino alla scadenza dei 15 giorni e poi è uscito dal paese.
@@ -188,7 +188,7 @@ Nel caso si voglia stare di più in Senegal con il proprio mezzo o nel caso in c
 In Gambia il visto costa 5000 F a persona più 5000 F per il mezzo e in uscita si ha diritto a un nuovo passavant pagando 2500 F. Questo avviene se si sta più di un giorno. Nel caso del solo attraversamento pare non venga rilasciato un nuovo passavant.
 Entrando dalla Guinea Bisseau il passavant per il Senegal costa 4 euro.
 
-##### Trucchi e consigli
+## Trucchi e consigli
 Un po' di consigli utili e due trucchi da usare se vuoi procedere in autonomia senza passeur. 
 
 _Non dare i passaporti a nessuno_: tranne che ai doganieri. Alla frontiera è pieno di persone che cercheranno di prendere i tuoi preziosi documenti per occuparsi di tutte le pratiche. Se non fai attenzione (e non contratti subito) alla fine ti chiederanno un sacco di soldi.
@@ -201,9 +201,7 @@ _Mantieni la calma...!_; non avere fretta, mantieni la calma e agisci come se fo
 
 E ora un piccolo trucco per avere più giorni sul passavant! Se entri di mercoledì, essendoci il weekend di mezzo, ti verranno dati **5 giorni!** Questo è ottimo perché ti permette di non correre a Dakar! Attenzione: è possibile anche ottenere 10 giorni, ma abbiamo notato che vengono concessi solo pagando l'agenzia privata.
 
-<!-- Se invece dovessi avere problemi con il  -->
-
-###### Cosa non fare in dogana
+## Cosa non fare in dogana
 Ci sono alcune cose da non fare **assolutamente** in dogana e altre che **sconsigliamo**:
 
 - _fare riprese_: è il modo più veloce per far arrabbiare polizia, doganieri e tutte le persone che gravitano in zona! 
@@ -211,7 +209,7 @@ Ci sono alcune cose da non fare **assolutamente** in dogana e altre che **sconsi
 - _comprare le sim_: come sopra, cercheranno di fregarti vendendoti sim soprapprezzate.
 Consigliamo di fare tutti questi passaggi a Saint Louis, che si raggiunge in meno di un'ora di strada.
 
-##### Il nostro Vlog
+## Il nostro Vlog
 Se vuoi vedere i nostri vlog o vuoi sentire le nostre considerazioni in merito al paese ti lasciamo di seguito i video: 
 
 - {{< underline "vlog">}}
@@ -222,7 +220,7 @@ Se vuoi vedere i nostri vlog o vuoi sentire le nostre considerazioni in merito a
 
 {{< youtube2 avKZAgEAd0Q>}}
 
-##### Articoli consigliati
+## Articoli consigliati
 Per altre informazioni, itinerari e mappe sul Senegal e sui paesi da attraversare per arrivarci ti lasciamo di seguito alcuni link:
 - [Senegal: guida completa](/blog/guida-senegal-in-camper-itinerari/)
 - [Senegal: il nostro itinerario e le mappe](/blog/informazioni-viaggio-senegal/)

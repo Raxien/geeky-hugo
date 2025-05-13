@@ -13,7 +13,7 @@ Sinceramente queste parole non ci sono venute in mente quando ci abbiamo provato
 
 ![A passeggio per la Danimarca](https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1658859422/Articoli/gatto_guinzaglio_2_v7bb9k.jpg)
 
-##### 10 consigli per abituare un gatto al guinzaglio
+## 10 consigli per abituare un gatto al guinzaglio
 
 1. **{{< underline "provare poco per volta">}}**: noi abbiamo iniziato con brevi passeggiate di 10-15 minuti, nelle sere settimanali in cui si trovava meno traffico per le vie della città
 
@@ -40,11 +40,7 @@ In caso contrario lui ti insegnerà il valore del tempo: annusare un fiore, cont
 
 10.   **{{< underline "zainetto apposito?">}}**: spesso noi camminiamo con Sakè in braccio o sulle spalle. Lui non ha apprezzato lo zainetto che avevamo provato a usare, ma esistono tanti modelli sul mercato, in stoffa con retine per far passare l'aria o simili a degli oblò. Magari tu avrete più fortuna così!
 
-
-<!-- link -->
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0B1WHMV1Z&linkId=365487f0fbb28f123d7df73efd10498a"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07Q1BQMRN&linkId=c6ccd05866a210053e18e29a304d60b5"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B084ZHWM3V&linkId=c55444b93c6c5cf179c64e14de7a854d"></iframe>
+{{< leggi-anche >}}
 
 Siamo convinti che la presenza della nostra cagnolona Olimpia abbia contribuito, **almeno all'inizio**, a far sentire Sakè sicuro di poterci seguire o che comunque abbia acceso in lui la curiosità di seguirla. In ogni caso avere Olimpia con noi è un bel deterrente quando si rischia di incontrare un cane libero nelle vicinanze.
 Per concludere, non abbiamo nessuna abilità particolare. 

@@ -11,8 +11,7 @@ draft: false
 
 In kurdistan Iracheno ci è successo di tutto, **ma sono stati attimi indimenticabili che porteremo nel cuore per sempre**. Dopo aver scoperto un po’ di più sul paese e aver [visitato la capitale](/blog/direzione-giappone-15-felice-nawruz-festeggiamo-il-capodanno-persiano-in-kurdistan-iracheno) abbiamo deciso di avventurarci **lungo la Hamilton road**.
 
-##### Su strade leggendarie
-
+## Su strade leggendarie
 Costruita tra il 1928 e il 1932, questa strada prende il nome dall'ingegnere capo Hamilton, un neozelandese che lavorava per gli inglesi quando presero il controllo dell'Iraq in seguito al crollo dell'Impero Ottomano alla fine della Prima Guerra Mondiale. Si estende per 185 km da Erbil attraverso gli imponenti Monti Zagros fino al confine tra Kurdistan Iracheno e Iran ed **è considerata uno dei percorsi più spettacolari dell'Asia occidentale**.
 
 Hamilton stesso nel suo libro di memorie ha descritto il tracciato come **"uno zigzag infinito con una superficie incompiuta di rocce taglienti”**, dove seguì le tracce di stambecchi e capre per tracciare il percorso più breve possibile. Lungo la Hamilton Road oggi giorno si trovano qualche ristorante, qualche cascata che si getta a picco sul ciglio della strada, alcuni villaggi e qualche raro spiazzo panoramico. 
@@ -21,8 +20,7 @@ Abbiamo optato per il percorso ad anello, trovando sulla via del ritorno un vend
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione16/iraq-hamilton-road-van_hzjddx.jpg" title="Portiamo alto l'onore italiano">}} 
 
-##### Un popolo meraviglioso
-
+## Un popolo meraviglioso
 Quello che non sapevamo era che il comitato di accoglienza italiano, costituito da Tonino in primis e dall’ambasciatore Yazida italiano e la sua famiglia, aveva in serbo per noi ancora qualche cartuccia per farci letteralmente innamorare del Kurdistan Iracheno.
 In Kurdistan è norma comune essere invitati da tutti, ecco perché ci siamo ritrovati a un matrimonio: **loro in giacca e cravatta e abiti adornati da dettagli d’oro e noi in jeans e felpa**, tanto che altrove ci avrebbero squadrati per l’abbigliamento poco consono. Siamo stati invece accerchiati con strette di mano, tre baci sulla guancia fra donne, frasi di benvenuto e le parole **“mangiate che siete sciupati”**.
 
@@ -33,8 +31,7 @@ Tra 900 persone in una sala nella quale rimbombava tutto a suon di musica, con p
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione16/iraq-matrimonio-sposa_o9zope.jpg">}} 
 
-##### Stesso posto, diversa esperienza
-
+## Stesso posto, diversa esperienza
 Se avevamo [visitato Lalish e il mausoleo comprendendo pochi dettagli](/blog/direzione-giappone-14-kurdistan-iracheno-in-camper-una-deviazione-incredibile), ci siamo tornati di mercoledì, **giorno di festa per gli Yazidi**, insieme all’ambasciatore Gazi. Abbiamo così **incontrato i due Papi**, baciato loro la mano imitando gesti altrui, e come bambini al catechismo abbiamo cercato di comprendere gli aspetti più intriganti di questa religione, le strutture a forma piramidale che rappresentano il sole, i nodi di tessuto che racchiudono una speranza per il futuro, e quel basamento nel quale vi sono prima gli angeli poi tutti gli esseri umani. 
 
 Gli Yazidi negli ultimi anni **sono stati additati come adoratori del diavolo e perseguitati brutalmente dall’Isis**. Gli uomini sono stati uccisi, le donne stuprate e private di identità, i bambini drogati, convertiti all’Islam o uccisi. 

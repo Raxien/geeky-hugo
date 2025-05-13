@@ -8,14 +8,12 @@ country: Spagna
 type: featured
 draft: false
 ---
-
 Tra i piatti spagnoli a bordo del nostro van, oltre alla [tortilla che ti abbiamo presentato qui](/blog/tortilla-de-patatas-spagnola-scoprila-insieme-a-noi), non poteva di certo mancare **l’empanada!**
 Diciamo che all’italiana si potrebbe paragonare all’amata torta salata salva cena e in effetti così è anche in questo paese, l’empanada salva tutto e placa **la tristezza delle papille gustative.**
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094775/Articoli/empanada/IMG_3098_j6rtcg.jpg">}}
 
-##### Empanada: cosa, come e dove?
-
+## Empanada: cosa, come e dove?
 L’empanada è una pasta "sfoglia" salata cotta al forno e ripiena di numerosi ingredienti, che solitamente tendono a cambiare a seconda della regione in cui si prepara.
 
 D’altronde **"empanar"** significa "avvolgere qualcosa con pane o pasta per cuocerlo”.
@@ -28,12 +26,10 @@ Ma come direbbero in casa mia, butta giù che poi in pancia tutto si sistema!
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094764/Articoli/empanada/IMG_4229_h60vsi.jpg">}}
 
-###### La storia, ma sarò breve promesso! 
-
+### La storia, ma sarò breve promesso! 
 Umorismo a parte, come ti dicevo prima le empanadas sono comparse nei libri di cucina catalani nel 1500, apprese probabilmente dalle ricette dei nomadi arabi e tramandate poi in America dopo la scoperta del continente. Anno dopo anno, secondo dopo secolo, ricetta dopo ricetta sono diventate uno dei piatti tipici della cucina peruviana, cilena, argentina e latinoamericana in generale.
 
-###### È un piatto semplice, conteso e talmente buono che non è difficile chiedersi il perché!
-
+### È un piatto semplice, conteso e talmente buono che non è difficile chiedersi il perché!
 Quindi in questi **negozi di franchising** troverai un numero variegato di empanadas monoporzione, da mangiare passeggiando. 
 Ma non preoccuparti, perché in ogni paesino troverai una piccola panetteria in cui comprare empanadas e se guardi bene anche nei supermercati! 
 È così che noi abbiamo riempito la nostra dispensa a base di empanadas rettangolari e in formato familiare (che meraviglia portare a bordo quei vassoi!) ripiene di tonno o baccalà e verdure.
@@ -42,8 +38,7 @@ In base ai tuoi gusti comunque puoi trovarle anche ripiene di carne o di sole ve
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094748/Articoli/empanada/IMG_3100_gawwoe.jpg">}}
 
-###### Quali sono gli ingredienti principali dell’empanada? 
-
+### Quali sono gli ingredienti principali dell’empanada? 
 Per la pasta la ricetta originale prevede: 
 1. **farina di grano**
 2. **acqua** 

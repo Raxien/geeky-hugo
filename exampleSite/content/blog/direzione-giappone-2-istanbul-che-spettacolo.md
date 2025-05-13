@@ -14,8 +14,7 @@ Secondo appuntamento di **[Direzione Giappone](/categories/direzione-giappone)**
 Se avete [letto la scorsa puntata](/blog/direzione-giappone-1-ultimi-giorni-in-europa) saprete che siamo arrivati via terra a Istanbul parcheggiando presso il camping comunale, poco fuori dal centro città ma vicinissimo a tutte le attrazioni grazie alla comodissima e velocissima metropolitana. 
 Saliamo allora su per le scale mobili, mescoliamoci fra le persone del posto, leggiamo i nomi delle fermate e indichiamo con le dita come bambini curiosi quelle moschee che svettano al di là del fiume. 
 
-##### Attraversiamo il Bosforo
-
+## Attraversiamo il Bosforo
 Attraversare il Bosforo significa ritrovarsi in piazza Topkaki, **il cuore della città**, oltre la quale si staglia lei, l’Asia.
 Ben presto scopriamo con i nostri occhi che i minareti fanno a gara con i grattacieli. E ci perdiamo, di proposito. Fra palazzi alti e colorati, fra persone che parlano lingue diverse dalla nostra. Finiamo in un quartiere il cui nome ha a che fare con la curcuma. Attorno a noi piccole botteghe di antiquariato, persone serene, gatti. Poi un viale enorme, sul quale si affacciano hotel per ogni tasca. Da qui l’orizzonte di perde lungo i tetti cittadini. 
 
@@ -23,20 +22,16 @@ E ritorniamo indietro, inglobati nella rete di una Istanbul che sembra quasi ric
 
 {{< leggi-anche >}}
 
-##### Street food di Istanbul: i panini ripieni di sgombro 
-
+## Street food di Istanbul: i panini ripieni di sgombro 
 Ci ritroviamo in men che non si dica con in mano un **panino fumante ripieno di sgombro**. È la salsa, speziata, che regala un momento di gloria. Mentre il palato ancora ringrazia, osserviamo lo stuolo di pescatori affacciati sul Bosforo. 
 Questo è uno dei tipici alimenti da street food di Istanbul, anche se {{< extLink "la versione migliore l'abbiamo assaggiata qui." "https://balikcimurat.com/en/" >}}
 
 Qualche alternativa? Un sacchetto di caldarroste, una pannocchia, un simit (la tipica ciambella ricoperta di semi di sesamo).
 
-
-##### I mercati di Istanbul
-
+## I mercati di Istanbul
 Spezie, dolci, abiti, gioielli. Un pezzo di baklava fra i denti, una tazzina di te in mano. Questi sono i tipici benvenuti nei mercati di Istanbul. I più famosi sono ovviamente il Gran Bazar, **con i suoi innumerevoli negozi tristemente noti per i falsi d'autore**, e quello Egiziano, che mantiene ancora un po' di autenticità. Ovunque troverete qualcuno disposto a farvi accomodare e comprare qualcosa e ci sarà sempre un cugino di un amico del fratello disposto a provare a comunicare in italiano. 
 
-##### Mille e una moschee
-
+## Mille e una moschee
 Saturi dei rumori cittadini è nelle moschee, a piedi scalzi, in silenzio, che ritroviamo un istante di pace. 
 Come non nominare la Moschea Blu, meravigliosa già dall'esterno, con le cinque cupole perfettamente allineate. L'interno non è da meno, un gioco di luci dirette in ogni angolo. 
 Non è da meno Santa Sofia, ex chiesa ortodossa. I suoi dipinti all’interno sono stati purtroppo ricoperti da veli, in ottemperanza al suo nuovo compito di moschea. 
@@ -47,23 +42,19 @@ Istanbul è così, caos e pace. Luce e ombra. Ovunque.
 
 {{< youtube2 "jCh6m8fchHI">}}
 
-##### Istanbul turistica 
-
+## Istanbul turistica 
 Decidere di visitare ogni singola attrazione di Istanbul è una scelta, che preclude **il dover mettere mano al portafogli in modo considerevole**. Per soffermarsi in Palazzo Topkaki, nella Basilica della Cisterna e così via bisognerà tenere in conto di spendere tempo e denaro, **molto denaro**. 
 
-##### Benvenuti in Asia 
-
+### Benvenuti in Asia 
 Una volta scelto di visitare la città in modo alternarivo ed essere saliti su un traghetto che trasportava gente del posto è Uskudar il quartiere che cattura di più la nostra attenzione, con i suoi toni allegri e casette colorate in fila indiana. Uno di quei posti che troviamo per caso e che invece sembrano lì pronti solo per noi. **Un arcobaleno tutto da fotografare**.
 Il tutto arricchito da più e più negozi, dove trovare dal cibo agli oggetti di artigianato, mentre lungo le sponde del Bosforo persone di ogni età si soffermano a pescare. 
 
-##### Istanbul by night
-
+### Istanbul by night
 Mentre il sole scende rivela Istanbul sotto una nuova luce: quella dei profili delle moschee illuminati, del fuoco per scaldare le castagne e le pannocchie. Tutto il resto è un andirivieni di persone, tram che si fermano e ripartono, porte che si aprono e si chiudono. 
 
 {{< carousel images="Articoli/Direzione%20giappone/Istanbul/istanbul_vista_bosforo_c4he1i.jpg,Articoli/Direzione%20giappone/Istanbul/istanbul_panino_pf9dkr.jpg,Articoli/Direzione%20giappone/Istanbul/istanbul_bazar_rsjetf.jpg,Articoli/Direzione%20giappone/Istanbul/istanbul_moschea_volta_vrfxl1.jpg,Articoli/Direzione%20giappone/Istanbul/istanbul_Galata_pvderi.jpg,Articoli/Direzione%20giappone/Istanbul/istanbul_ayasofia_notte_rnhr6p,Articoli/Direzione%20giappone/Istanbul/istanbul_quartiere_asiatico_e0vsyu.jpg,Articoli/Direzione%20giappone/Istanbul/istanbul_tram_rosso_owrg0t.jpg,Articoli/Direzione%20giappone/Istanbul/istanbul_gatto_in_attesa_barca_c3z4pn.jpg">}}
 
-##### Come muoversi a Istanbul
-
+### Come muoversi a Istanbul
 Il modo più veloce per muoversi a Istanbul è tramite la fitta rete di trasporti pubblici con cui si può raggiungere qualsiasi punto della città in un attimo!
 
 Non abbiate timore perché troverete ovunque dove acquistare la pratica card (a proposito ve ne basta una per famiglia e potete ricaricarla ovunque, talvolta anche con la carta di credito) e qualsiasi persona del posto sarà pronta ad aiutarvi a comprende fermate e direzioni.

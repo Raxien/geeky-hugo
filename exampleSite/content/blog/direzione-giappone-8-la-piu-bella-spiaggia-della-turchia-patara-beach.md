@@ -12,8 +12,7 @@ draft: false
 Lo sapevi che lungo la costa turchese della Turchia si trovano alcune spiagge spettacolari? Patara Beach è una di queste. 
 Ma andiamo con ordine!
 
-##### Alla ricerca del deserto Turco
-
+## Alla ricerca del deserto Turco
 Un mattino ci siamo ritrovati lungo una strada che si stringeva sempre di più, dove l’asfalto lasciava spazio a terreno e pietre, **fino a trovare il piazzale perfetto**, affacciato sulle dune di Patara. Davanti a noi il deserto, di nuovo, ancora. Una costante del nostro viaggio. Come il cielo, la terra, il mare. 
 
 Abbiamo raggiunto la prima duna, la seconda, la terza, in un sali e scendi in cui arrancare, in cui ogni passo era conquista verso la costa. Finché le mani non hanno trovato l’acqua, finché un’onda prepotente non ha invaso le nostre scarpe e la nostra risata creava un’eco, mentre tornavamo indietro ritrovando la via attraverso granelli di sabbia dorati, gli stessi che d’estate ospitano il nido di migliaia di tartarughe. 
@@ -27,8 +26,7 @@ Si può sostare con il camper a Patara Beach?
 
 Sì, e anche gratuitamente, **tranne in estate**, periodo nel quale nidificano migliaia di tartarughe marittime. 
 
-##### E i dintorni?
-
+## E i dintorni?
 Se vuoi visitare anche i dintorni di Patara Beach eccoti alcuni consigli:
 
 - **Fethiye**: con le sue tombe scavate nella roccia. Uno spettacolo a cielo aperto. A pochi chilometri si può raggiungere la spiaggia di **Oludeniz**.

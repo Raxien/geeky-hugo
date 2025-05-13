@@ -17,7 +17,7 @@ Carcassonne è una delle cinque città più turistiche della Francia, motivo per
 
 Se come noi arrivi in camper non temere, [al fondo ti lasciamo un paio di siti sicuri in cui parcheggiare](#dove-parcheggiare-con-il-camper). Purtroppo la città è penalizzata dai parecchi episodi di furto ma siamo riusciti a trovare dei posti sicuri dove poter dormire o sostare in tranquillità per visitare la città!
 
-##### Un salto indietro nel tempo
+## Un salto indietro nel tempo
 
 **Carcassonne** è una tipica città medievale con una doppia cinta muraria, 4 porte e 52 torri che si intravedono da lontano e fanno volare la mente indietro nel tempo. Lungo tutto il percorso che conduce in città lo sguardo si perde fra terreni vinicoli, lasciando intendere la sua posizione strategica. 
 
@@ -25,11 +25,11 @@ Una volta entrati in città sembra di fare un tuffo nel passato in quell'era ani
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689177691/Articoli/carcassonne/R0001115_gkxr0v.jpg">}}
 
-##### Carcassonne: una città tutta da scoprire
+### Carcassonne: una città tutta da scoprire
 
 La città si snoda fra **la parte medievale** arroccata in cima e protetta dalle mura e **quella più moderna** che si trova nella piana del fiume Aude.
 
-###### La città medievale
+### La città medievale
 
 La città medievale di Carcassonne è un esempio unico in Europa, sia per le dimensioni che per lo stato di conservazione. Si può raggiungere tramite due porte, **Porte Narbonnaise** e **Porte d’Aude**, dalle quali si può passeggiare in un dedalo di stradine che pullulano di bar, ristoranti e botteghe. 
 Purtroppo sia nelle viuzze che nelle piazzette si trovano tantissime insegne, sedie e tavolini che lasciano lo spazio solo all’immaginazione per rivivere l’atmosfera medievale autentica. 
@@ -42,7 +42,7 @@ Nella città medievale si possono visitare:
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689176386/Articoli/carcassonne/IMG_4621_i0mm6o.jpg">}}
 
-###### La città bassa: Bastide Saint-Louis
+### La città bassa: Bastide Saint-Louis
 
 Dalla città medievale puoi raggiungere **in 15 minuti a piedi la città bassa**, attraversando lo splendido **Pont Vieux**, lungo 210 metri e costruito nel Medioevo. Da qui puoi anche ammirare la città medievale in tutta la sua bellezza.
 
@@ -54,7 +54,7 @@ Sei amante delle crociere? A Carcassonne puoi concedertene una alla scoperta del
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689176393/Articoli/carcassonne/IMG_4609_t2htt3.jpg">}}
 
-##### Una città festaiola
+## Una città festaiola
 
 **Carcassonne** non è solo una bellissima città ricca di storia ma tutto l'anno vanta la presenza di moltissimi eventi!
 
@@ -75,7 +75,7 @@ Più volte ci è capitato di invitare qualche viaggiatore a giocare a bordo con 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689176389/Articoli/carcassonne/IMG_3593_g16t2b.jpg">}}
 
-##### Dove parcheggiare con il camper? 
+## Dove parcheggiare con il camper? 
 In città puoi trovare un campeggio e un'area sosta attrezzata a pagamento. 
 Noi abbiamo preferito sostare in libera **nella vicina cittadina di Cazilhac** poi parcheggiare a 2 chilometri dalla città e raggiungerla tranquillamente a piedi in 10 minuti. 
 

@@ -14,7 +14,7 @@ Con una risata iniziava invece il nostro {{<extLink "primo video lungo" "https:/
 
 **Duecentosessantatre** video dopo, tra contenuti lunghi e corti, abbiamo tirato le somme e preso una decisione: è ora di prendere una pausa.
 
-#### Duecentosessantatre (263)
+## Duecentosessantatre (263)
 Ricordo bene quando abbiamo registrato il nostro primo video tra Rosenheim in Germania e Salisburgo in Austria. 
 Da quel momento è iniziata una **corsa** continua per registrare e montare video da poter pubblicare costantemente sul nostro canale. Avere zero esperienza nel video making non ha reso il tutto facile ma:
 
@@ -32,7 +32,7 @@ Abbiamo dato il massimo? Sì.
 Possiamo fare di meglio? Sì. 
 È ora di prenderci una pausa? Sì.
 
-#### Premiamo "pause"
+## Premiamo "pause"
 > Registriamo fino a fine mese **poi pausa.** 
 
 Questo è quello che ho detto a Sara rientrando dal Marocco il primo giugno. Una scelta nata per non andare in burn-out e iniziare ad odiare qualcosa che amiamo e ora **definiamo lavoro**.
@@ -51,7 +51,7 @@ Era giusto però fermarci, dare ossigeno al cervello e **"disintossicarci"** da 
 
 Poi, che Sara non sappia proprio stare ferma e abbia voluto raccontare **questi fantastici posti** in cui siamo ora sul blog è un'altra storia, e la [puoi leggere qui](/blog/l-ariege-in-camper-tour-di-9-giorni-in-una-regione-francese-meravigliosa).
 
-#### E ora?
+## E ora?
 Abbiamo detto tasto pausa, **non stop.**
 
 Abbiamo solo staccato la spina mandandoci in ferie, interrompendo quel loop. 

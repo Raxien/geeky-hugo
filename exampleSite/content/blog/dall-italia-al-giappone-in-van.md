@@ -12,8 +12,7 @@ In van? Sì! Idea folle? No!
 
 Sogniamo questo viaggio da anni e finalmente è arrivato il momento di trasformarlo in realtà e raccontarvi tutti i dettagli, i retroscena e anche qualche segreto!
 
-##### Un progetto nato tre anni fa
-
+## Un progetto nato tre anni fa
 Era marzo 2021 e mentre aspettavamo l'arrivo [del nostro van](/van) tracciavamo percorsi con le dita su di una grande cartina appesa in cucina. Era il periodo [dell'Hanami in Giappone](/blog/viaggio-giappone-informazioni-e-itinerari), le fotografie sul web colme di boccioli in fiore ci avevano fatto venire voglia di tornare nel paese del Sol Levante e ci siamo detti scherzando: 
 > **Perché non ci andiamo in van?**
 
@@ -35,8 +34,7 @@ Un po' fuori rotta, penserete voi, ma questa avventura non prevista ci è servit
 
 {{< image src="images/mappamondo-da-torino-tokyo-pin.png" title="Sembrava più vicino con una cartina in mano! Solo 8 fusi orari." >}}
 
-##### Buone notizie
-
+## Buone notizie
 Finita la nostra avventura in Africa (che puoi rivivere [con la mappa interattiva qui](/trip/)), mentre stavamo tornando [in Italia per sposarci](/blog/matrimonio-alternativo-30-giorni-per-organizzarlo-in-un-van/), sistemare il van e riorganizzare le idee sulla strada da intraprendere, abbiamo ricevuto un messaggio dal nostro carissimo amico Franco di {{<extLink "@bicosisgud" "https://www.instagram.com/bicosisgud/">}}: **"ragazzi la nave per il Giappone riparte!".**
 
 Potete provare a immaginare il nostro stato d'animo. Avevamo mille e più cose da organizzare, ma la priorità era diventata scrivere una email al nostro contatto in Russia. Poche ore di fuso orario dopo abbiamo ricevuto la risposta più importante di tutte:
@@ -48,8 +46,7 @@ Potete provare a immaginare il nostro stato d'animo. Avevamo mille e più cose d
 
 Ci siamo guardati negli occhi e ci siamo detti: **"andiamo in Giappone in van, questa volta per davvero!"**
 
-##### Un nuovo itinerario
-
+## Un nuovo itinerario
 Seppur non ci fossero più grossi ostacoli davanti a noi, rimaneva un piccolo problema da aggirare: era settembre e a breve sarebbe arrivato l'inverno in Russia, il che non ci avrebbe di certo **permesso di attraversare le strade del paese fino all'estate.**
 
 Era il caso di rinviare ancora una volta il nostro progetto? Certo che no! 
@@ -60,23 +57,19 @@ Potevamo puntare dritto e accorciare le distanze? Certo che no! Eccovi quindi un
 `Aggiornamento` 
 A differenza di quanto avevemo preventivato abbiamo deciso di modificare alcune parti del nostro viaggio. Abbiamo deciso di rimandare [la visita del Kirghizistan](#4-kazakistan-e-Kirghizistan) ma di aggiungere [la visita di San Pietroburgo](#3-russia). Trovi le motivazioni nei paragrafi dedicati.
 
-###### 1. Turchia
-
+### 1. Turchia
 Sarà il primo paese da attraversare, **partendo da Edirne per raggiungete Istanbul**, attraversare il Bosforo ed entrare ufficialmente in Asia, terzo continente visitato on the road! Prima punteremo verso sud per visitare la costa mediterranea, **poi andremo verso la Cappadocia** e l'interno della Turchia, fino a spingerci **nel profondo est del paese a un passo dall'Iraq e Iran.**
 
-###### 2. Georgia e Armenia
-
+### 2. Georgia e Armenia
 Ecco due paesi sui quali abbiamo grandi aspettative! **Entreremo in Georgia da Batumi** per poi procedere fino alla capitale, **Tbilisi**, visitando mille e più meraviglie lungo il percorso. Dopodiché scenderemo ed entreremo in **Armenia**, visitando luoghi come il **lago Gegharkunik fino alla capitale Yerevan**, tornando poi in Georgia.
 
-###### 3. Russia
-
+### 3. Russia
 Dal confine con la Georgia andremo dritti verso Mosca, per poi andare **alla scoperta dell'anello d'oro**, un gruppo di città storiche situate a nordest della città. Inizieremo poi a percorrere una parte della Transiberiana fino al confine con il Kazakistan e interromperemo brevemente la nostra visita. ~~per entrare nel primo dei due paesi "stan"!~~
 
 `Aggiornamento` 
 "Sapete che a San Pietroburgo ci sono le notti bianche?" è bastata una frase per convincerci a fare una deviazione di circa 700 km da Mosca per andare a visitare la città che non dorme mai d'estate, soprattutto in questo periodo! Avremmo fatto bene?
 
-###### 4. Kazakistan e Kirghizistan
-
+### 4. Kazakistan e Kirghizistan
 Entreremo in Kazakistan da nord, per dirigerci alla capitale **Astana** ~~e successivamente andremo fino a sud, ad Almaty, **la "Cortina" del Kazakistan**. Vista la vicinanza con il Kirghizistan abbiamo deciso di non tralasciare la visita di questo paese selvaggio, partendo dalla capitale **Bishkek** per poi spingerci fino al **lago Issyk Kul**.~~
 
 ~~Non sarà una visita troppo duratura in quanto il resto del paese è difficile da raggiungere senza un mezzo 4x4.~~ 
@@ -84,32 +77,26 @@ Entreremo in Kazakistan da nord, per dirigerci alla capitale **Astana** ~~e succ
 `Aggiornamento` 
 Dopo aver scoperto [che Olimpia aveva un tumore](/blog/addio-olimpia/) abbiamo deciso di evitare di fare una deviazione di più di 3000km verso sud ma dopo aver visitato Astana di rientrare direttamente in Russia. Rimanderemo la visita del Kirghizistan a un futuro viaggio.
 
-###### 5. Russia, di nuovo
-
+### 5. Russia, di nuovo
 Il rientro in Russia sarà breve e avverrà **nella zona dei Monti Altaj**, zona poco nota ai turisti ma naturalisticamente parlando molto bella! Percorreremo delle strade stupende che ci condurrà subito al paese successivo.
 
-###### 6. Mongolia
-
+### 6. Mongolia
 Questo paese selvaggio, magnetico e incontaminato è da sempre nei piani originali **e finalmente riusciremo a visitarlo**. Non vediamo l'ora di mettere piede nella terra di Gengis Khan! Se tutto andrà secondo i piani proprio davanti alla statua di questo grande condottiero il nostro gatto Sakè festeggerà il suo quarto compleanno!
 
-###### 7. Russia, ultimo ingresso
-
+### 7. Russia, ultimo ingresso
 Ultimo ingresso in Russia, promesso. Entreremo dalla **zona del lago Baikal**, per poi ripercorrere la transiberiana in direzione fino alla fine arrivando a **Vladivostok**, ultima tappa, da dove prenderemo il traghetto che porterà tutti in Corea: noi, i nostri animali e il van!
 
-###### 8. Corea
-
+### 8. Corea del Sud
 Finalmente arrivati in Corea inizierà una lunga visita di questo paese in quanto vogliamo visitarlo in lungo e largo, anche se non è enorme! E diciamocela tutta, anche per ammortizzare un po' i costi del traghetto.
 
-###### 9. Giappone!
-
+### 9. Giappone!
 Probabilmente piangeremo a dirotto dalla commozione il giorno in cui riusciremo finalmente a mettere piedi, zampe e ruote in Giappone. Sarà un sogno che si avvera, sarà un grande traguardo, sarà un momento indimenticabile. 
 
 E una volta nel paese del Sol Levante cosa succederà? Restate con noi per scoprirlo, perché non sarà una fine ma solo un nuovo entusiasmante punto di partenza. 
 
 {{< youtube2 "IpjFo4TCBc0">}}
 
-##### È tempo di svelare qualche segreto
-
+## È tempo di svelare qualche segreto
 Abbiamo detto che vi avremmo svelato qualche segreto e vogliamo essere di parola. 
 Il primo è che la nostra meta e il nostro amore per il Giappone sono sempre stati davanti ai vostri occhi!
 
@@ -128,20 +115,16 @@ Ora è giunto il momento di rivelarvi che il vero nome del nostro van è:
 Le iniziali di due città, quella di partenza e quella di arrivo. 
 In mezzo noi, i cambi di direzione, ogni singola emozione vissuta. 
 
-##### Ultimi cambiamenti
-
+## Ultimi cambiamenti
 Ultima notizia per festeggiare questo grande viaggio! Vogliamo accontentare tutti!
 
-###### Vlog
-
+### Vlog
 Per tutto Aprile usciranno due vlog a settimana sul nostro canale ({{<extLink "iscriviti per non perderteli!" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1">}}) **ogni martedì e giovedì ore 18:00!**
 
-###### Mini vlog
-
+### Mini vlog
 Insieme ai vlog usciranno dei "mini vlog da 60 secondi" sia su {{<extLink "YouTube come short" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1">}} che su {{<extLink "Instagram come reel " "https://www.instagram.com/vandipety/">}}, per raccontare un po' più "brevemente" questa grande avventura!
 
-###### Blog
-
+### Blog
 Apre ufficialmente la rubrica **[Direzione Giappone](/categories/direzione-giappone)**, una serie di articoli in cui vi racconteremo aneddoti e informazioni utili su questo grande viaggio!
 
 Cosa ne dici, viaggerai con noi in questa folle avventura? 

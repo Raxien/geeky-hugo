@@ -11,7 +11,7 @@ draft: false
 
 Viaggiare in Corea del Sud è un'esperienza unica, [tra città futuristiche, templi antichi e una cultura vibrante](/blog/seoul-cosa-vedere-4-giorni-itinerario-completo). Tuttavia, per muoverti senza problemi in un paese dove la lingua e le abitudini possono sembrare un po' ostiche, **alcune app sono indispensabili**. Ecco una guida alle applicazioni da scaricare prima di partire, per navigare, comunicare e gestire le spese con facilità.
 
-#### Fondamentali per muoversi
+## Fondamentali per muoversi
 
 **Dimentica Google Maps:** in Corea del Sud non è la scelta migliore per la navigazione ({{< extLink "anzi non funziona proprio" "https://it.wikipedia.org/wiki/Google_Maps#Google_Maps_e_la_Corea_del_Sud" >}}). Le mappe locali offrono dettagli più precisi e informazioni in tempo reale, specialmente per i trasporti pubblici. Ecco le due app da avere:
 
@@ -21,7 +21,7 @@ Viaggiare in Corea del Sud è un'esperienza unica, [tra città futuristiche, tem
 
 Entrambe le app ti guideranno senza problemi, ma ti consigliamo di scaricare entrambe per avere un piano B in caso di necessità.
 
-#### Messaggistica: resta connesso
+## Messaggistica: resta connesso
 
 In Corea del Sud, WhatsApp non è molto usato. Per comunicare con i locali o accedere a servizi che richiedono un'app di messaggistica, scarica una di queste:
 
@@ -30,7 +30,7 @@ In Corea del Sud, WhatsApp non è molto usato. Per comunicare con i locali o acc
 
 - **LINE** ({{< extLink "iOS" "https://apps.apple.com/us/app/line/id443904275">}} - {{< extLink "Android" "https://play.google.com/store/apps/details?id=jp.naver.line.android" >}}): meno diffusa di KakaoTalk, ma comunque popolare, soprattutto tra i giovani. È un'ottima alternativa se hai già familiarità con questa piattaforma.
 
-#### Traduzioni: supera la barriera linguistica
+## Traduzioni: supera la barriera linguistica
 L'hangul, l'alfabeto coreano, può sembrare intimidatorio all'inizio, ma con le giuste app di traduzione non avrai problemi a decifrare cartelli, menu o conversazioni.
 
 - **Google Translate**: un classico intramontabile, **perfetto per tradurre testi, voce e immagini.** Puoi scattare una foto a un testo in hangul (ad esempio un cartello o un menu) e ottenere una traduzione istantanea. La funzione di traduzione offline è un salvavita quando non hai una connessione stabile, mentre la modalità conversazione ti aiuta a dialogare in tempo reale. Prima di partire ricordati di scaricare le lingue offline, sia il pacchetto coreano che quello italiano.
@@ -39,14 +39,14 @@ L'hangul, l'alfabeto coreano, può sembrare intimidatorio all'inizio, ma con le 
 
 Sebbene Papago sia spesso utilizzato dai coreani per comunicare, dai nostri test abbiamo constatato che **Google Translate offre traduzioni più accurate e affidabili.**
 
-#### Pagamenti: gestisci le spese senza sorprese
+## Pagamenti: gestisci le spese senza sorprese
 Pagare in Corea del Sud è generalmente semplice, grazie alla diffusione di carte e pagamenti digitali. Per evitare commissioni e semplificare le transazioni noi che consigliamo vivamente di usare **Revolut**. Più che un app questa è una vera e propria banca fondamentale per chi viaggia in quanto ti permette di cambiare valuta senza commissioni (tranne nei weekend dove si paga 1%) e di pagare direttamente con la tua carta Revolut nei negozi e ristoranti. 
 
 È facile da usare e ti aiuta a tenere sotto controllo le spese. Puoi registrarti tramite {{< revolut text="il nostro link" >}}.
 
 *Disclaimer: Questo è un link affiliate, il che significa che potremmo ricevere una piccola commissione se ti registri, senza costi aggiuntivi per te.*
 
-#### Consigli utili per usare queste app
+## Consigli utili per usare queste app
 - **Connessione internet**: molte di queste app richiedono una connessione. Procurati una SIM locale o un pocket Wi-Fi per essere sempre online.
 - **Lingua**: familiarizza con le funzioni in inglese delle app prima di partire, così da usarle con sicurezza sul posto.
 - **Spazio sul telefono**: assicurati di avere abbastanza memoria per scaricare tutte le app e i pacchetti offline, come le lingue per Google Translate.

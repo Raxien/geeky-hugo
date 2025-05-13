@@ -12,8 +12,7 @@ draft: false
 Sapevate che in Turchia la colazione **è un vero e proprio rituale?** È per questo che abbiamo deciso di provarla in un luogo lontano dalle rotte turistiche, uno di quei posto dove chi cucina sa il fatto suo e chi si siede a tavola va a colpo sicuro. 
 Mettetevi comodi e buon appetito! 
 
-##### Parola d'ordine: Kahvaltı
-
+## Parola d'ordine: Kahvaltı
 Dopo aver lasciato vagare l’immaginazione in un tempo perduto **fra le rovine di Atandros** abbiamo deciso di assaggiare la colazione turca in un locale trovato lungo la strada, entrando attraverso pareti realizzate con tendoni di plastica e ritrovandoci in quello che sembrava un salotto con annessa cucina di casa. 
 
 Una stufa al centro, un unico tavolo, un calcio balilla, un vecchio divano, un dondolo. Ci hanno accolti sorridendo un uomo e una donna, mentre tentavamo di ordinare:
@@ -26,6 +25,7 @@ Si fa così qui, si beve tè nell’attesa.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione4/cay-il-te-turco_veafsf.jpg">}}
 
+## Non sappiamo stare fermi
 Non siamo riusciti a rimanere con le mani in mano, incuriositi dalla danza che iniziava nella stanza alle nostre spalle. 
 **Sul tavolo centrale sono apparsi pomodori, peperoni, olive, contenitori in vetro dai colori più disparati,** un salame, uova, fettine di patata da rosolare in un padellino, il pane da tagliare a fette. È comparso anche un rotolo di carta igienica e mentre spalancavo gli occhi incredula ho scoperto che sarebbe servito per pulire le lame dei coltelli. Siamo tornati a bere il tè, senza rovinare un ritmo che non ci competeva, scaldandoci vicino alla stufa. 
 In meno di mezz’ora il tavolo si è riempito di ogni ben di dio!

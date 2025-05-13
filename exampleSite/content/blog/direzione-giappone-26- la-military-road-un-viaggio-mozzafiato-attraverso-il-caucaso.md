@@ -11,40 +11,33 @@ draft: false
 
 La Military Road, conosciuta anche come Autostrada E117, **è uno dei percorsi più spettacolari al mondo**, che si snoda per 200 km attraverso il Grande Caucaso, collegando **la capitale georgiana Tbilisi con la Russia.** Negli anni fu definita da alcuni la “strada per il paradiso”, per via degli scenari che offre lungo il percorso. 
 
-##### Un viaggio nella storia
-
+## Un viaggio nella storia
 Scavata nel I secolo a.C. da commercianti e invasori, la Military Road **ha assunto nei secoli il ruolo di vitale ponte terrestre tra Europa e Asia**. Nel 1780, circa 1.000 soldati furono incaricati di trasformare lo stretto sentiero in un'autostrada adatta alle carrozze. Decenni dopo, con l'annessione della Georgia all'Impero Russo, la strada fu ulteriormente migliorata, con l'aggiunta di ponti in ferro.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione26/military-road-valle-del-diavolo_ih65ow.jpg">}} 
 
-##### Un panorama mozzafiato
-
+## Un panorama mozzafiato
 Oggi la Military Road **è un'esperienza imperdibile per gli amanti del viaggio e della natura.** Lungo il percorso, si susseguono panorami mozzafiato, monasteri antichi e affascinanti villaggi. Tra i punti di interesse imperdibili vi consigliamo:
 
-###### Fortezza di Ananuri
-
+### Fortezza di Ananuri
 Un complesso del XIII secolo con due castelli difensivi e la Chiesa della Madre di Dio, famosa per i suoi affreschi e intagli di angeli con occhi a mandorla. Poco dopo, proseguendo lungo la strada, vi è un punto in cui si incontrano due rami del fiume Aragvi, "nero" e “bianco”, **un fenomeno naturale impressionante** in cui le acque scure e chiare si fondono in una sola.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione26/military-road-fortezza-ananuri_rdcbtw.jpg">}} 
 
-######  Monumento all'amicizia russo-georgiana
-
+###  Monumento all'amicizia russo-georgiana
 Situato al passo Jvari, **il punto più alto della strada** (2.395 metri sul livello del mare), offre una vista spettacolare sulla Valle del Diavolo e su un lago alpino che sembra una lacrima incastonata nella roccia. Il monumento è stato costruito nel 1983 per commemorare il 200° anniversario del Trattato di Georgievsk e celebrare le relazioni diplomatiche tra la Georgia e la Russia. Il murales interno è un panorama astratto di diverse scene della storia georgiana e russa, con immagini di una madre e un figlio che si abbracciano, una chiesa ortodossa georgiana da un lato e una chiesa ortodossa russa dall’altro. **È proprio da qui che si può ammirare la grandiosità del Grande Caucaso**, a tratti coperto dalla neve, altri avvolto in una coltre di foglie verde smeraldo.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione26/military-road-vista_oj4ykf.jpg">}} 
 
-###### Gigantic Sculptures
-
+### Gigantic Sculptures
 Dodici teste di pietra giganti che rappresentano i poeti nazionali più amati della Georgia, situate nel villaggio di Sno.
 
-######  Chiesa della Trinità di Gergeti
-
+###  Chiesa della Trinità di Gergeti
 Un'affascinante chiesa del XIV secolo situata sulle montagne del Caucaso, con una vista panoramica a 360 gradi sulla valle e sulle montagne. Da qui in poi potete decidere di ritornare indietro oppure di proseguire qualche chilometro fino a ritrovarvi di fronte alla frontiera georgiana. Poco prima si trova ancora un monastero incorniciato dalle montagne, **un degno finale per quella che viene definita la “strada per il paradiso”.**
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione26/military-road-chiesa-trinita_yltis1.jpg">}} 
 
-##### Consigli utili per un viaggio indimenticabile
-
+### Consigli utili per un viaggio indimenticabile
 Pianificate il vostro itinerario: La Military Road è lunga e ricca di cose da vedere, quindi è importante pianificare l’itinerario in base al tempo a vostra disposizione e ai vostri interessi.
 
 Il modo migliore per esplorare la Military Road è tramite un'auto o in camper, che vi darà la libertà di fermarvi dove e quando volete.

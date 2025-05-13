@@ -24,8 +24,7 @@ Se invece avete voglia di divertirvi in cucina, e lo prometto prima o poi lo far
 A questo punto l’impasto dovrebbe riposare in frigorifero coperto con la pellicola per 24 ore.. dai almeno 4-5 ore andranno bene se ho tradotto correttamente cosa mi ha detto Adeline! 
 La farina di grano saraceno non ha glutine al suo interno quindi le serve il tempo come collante: se avete fretta preparate altro e non rovinatevi il pranzo o la cena perché in tal caso vi verrà un pasticcio di impasto. 
 
-##### Ma le dosi? 
-
+## Ma le dosi? 
 Tranquilli, per 4 persone serviranno:
 
 - 150 gr di farina di grano saraceno
@@ -49,8 +48,6 @@ Lasciate cuocere a fuoco medio per qualche minuto ancora fino a quando il fondo 
 Servite la galette facendo attenzione a rovesciarla nel piatto e non sul pavimento e se proprio volete dare quel tocco da ristorante potete guarnire con a fianco un po’ di patatine fritte o dell’insalata fresca.
 
 Vi vedo che siete virtuosi.. tirate fuori i calici e servitevi quel vino bianco fresco che vi piace tanto, io non ho visto nulla, vino..ah no, acqua in bocca!
-
-
 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094775/Articoli/empanada/IMG_3098_j6rtcg.jpg">}}

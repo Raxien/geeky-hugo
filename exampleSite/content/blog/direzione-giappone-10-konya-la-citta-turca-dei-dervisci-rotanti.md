@@ -11,8 +11,7 @@ draft: false
 
 Hai mai sentito parlare dei dervisci rotanti **se non nella famosa canzone italiana?** Siamo andati a scoprirli a Konya, che **si è rivelata una città turca in continua evoluzione**, con tram, palazzi moderni e negozi in cui trovare di tutto, un bazar elegante e ordinato, moschee incredibili e dove non si può non fare un salto al Mausoleo di Rumi, fondatore dell’ordine dei dervisci rotanti, anche se non si è religiosi. Non è solo una meta di pellegrinaggio ma anche un luogo in cui l’architettura è impreziosita da maioliche e oggetti di un tempo lontano. 
 
-#### Un spettacolo ipnotico
-
+## Un spettacolo ipnotico
 Non perderti lo spettacolo delle ore 19 del venerdì sera!
 
 Ogni settimana infatti, **al “Mevlana Cultural Center”**, si può assistere all’ufficiale spettacolo dei dervisci rotanti, coloro che ancora oggi portano avanti una pratica di meditazione profonda, che mira a raggiungere la purificazione allontanandosi dall’ego. 

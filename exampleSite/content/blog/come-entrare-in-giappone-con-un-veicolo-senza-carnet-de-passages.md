@@ -16,14 +16,14 @@ A dicembre 2024 noi siamo entrati in Giappone con il nostro camper italiano, **s
 
 In questa guida ti spiegheremo cosa sono il Carnet de Passages en Douane (CPD d'ora in poi) e il Permesso di Importazione Temporanea (TIP),le procedure per entrare in paese con l'uno o l'altro e come evitare di spendere soldi inutilmente. 
 
-##### Carnet de Passages en Douane: cos'è 
+## Carnet de Passages en Douane: cos'è 
 
 Il CPD è un documento simile a un passaporto per veicoli, che garantisce che il tuo mezzo non venga venduto o abbandonato nel paese visitato. Alcuni paesi lo richiedono come garanzia, e per ottenerlo dovrai depositare **una somma più o meno ingente presso una compagnia emittente.** 
 In Italia il CPD si ottiene con l'ACI è il costo dipende dal valore e l'età del mezzo. Non entreremo nei dettagli per l'ottenimento e consigliamo di {{<extLink "contattare l'ACI" "https://www.aci.it/">}} più vicina a te. Per rendere l'idea per il nostro mezzo acquistato 4 anni fa con un valore commerciale 65,000 euro, ci fu chiesto 5,000 euro!
 
 Una volta ottenuto, il CPD viene timbrato ogni volta che entri ed esci da un paese, garantendo così che il tuo veicolo è entrato solo temporaneamente in quel paese. Sebbene la procedura sia semplice, non è né economica né veloce. 
 
-##### Procedura con il CPD
+## Procedura con il CPD
 
 Se decidi di entrare in Giappone con il CPD, sappi che prima di poter utilizzare il tuo veicolo **dovrai obbligatoriamente far autenticare tale documento.** Ecco i passaggi da seguire:
 
@@ -40,7 +40,7 @@ Dai racconti di altri viaggiatori l'importazione del mezzo tramite CPD può dura
 
 {{< leggi-anche >}}
 
-##### TIP: cos'è?
+## TIP: cos'è?
 
 L'alternativa più semplice e soprattutto gratuita rispetto al CPD è, come dicevamo prima, il TIP, noto in Giappone {{<extLink "come modulo C5014" "https://www.customs.go.jp/kaisei/zeikantsutatsu/kobetsu/TU-S46k0849a.pdf">}}. Se arrivi in Giappone da un paese che non richiede il CPD (come per esempio la Corea del Sud), questa opzione è perfetta per te.
 Con il TIP, il tuo veicolo può rimanere in Giappone fino a un massimo di un anno. Se superi tale periodo, dovrai pagare le tasse di importazione. 
@@ -51,7 +51,7 @@ In uscita dal paese consegni il TIP ai funzionari doganali che si occuperanno di
 
 {{< youtube2 DIFfBxk0JBA>}}
 
-##### Procedura per l'Importazione Temporanea
+## Procedura per l'Importazione Temporanea
 
 Il TIP è disponibile in tutti i porti per traghetti internazionali (ad esempio Hakata, a Fukuoka, e Shimonoseki). Ecco cosa devi fare:
 
@@ -60,7 +60,7 @@ Il TIP è disponibile in tutti i porti per traghetti internazionali (ad esempio 
 
 L'intera procedura nel nostro caso, comprensiva dei controlli passaporti, controllo quarantena animale, disinfezione delle ruote e ispezione del mezzo **è durata 2 ore.**
 
-##### I problemi che abbiamo riscontrato
+## I problemi che abbiamo riscontrato
 
 Nonostante il TIP sia assolutamente riconosciuto e legale per entrare in Giappone, convincere la compagnia navale (Camellia Line nel nostro caso) a farci prenotare il biglietto del traghetto senza CPD è stato complicato in quanto non erano a conoscenza di questo modulo. 
 
@@ -77,7 +77,7 @@ Di seguito la mail della dogana di Fukuoka e il sito web dove cercare il contatt
 
 Consigliamo **di contattarli in anticipo** sia per avere una mail di conferma, sia se ti ritrovi in casi particolari, ad esempio se devi spedire con un container da altri paesi. Tra i vari distretti possono esserci regole leggermente diverse e quindi potrebbero non permetterti l'ingresso con il TIP.
 
-##### CPD vs TIP: Quale scegliere in definitiva?
+## CPD vs TIP: Quale scegliere in definitiva?
 
 La scelta ricade sul CPD qualora tu abbia già dovuto richiedere tale documento per entrare in un paese in cui è richiesto (ad esempio l'Iran). In tal caso sarebbe folle non sfruttarlo, vista la spesa sostenuta per ottenerlo. 
 
@@ -88,7 +88,7 @@ Se fosse troppo compleso ricordati che puoi sempre andare nella vicina Corea del
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1739789925/Articoli/camper/camper-giappone_bknmu4.jpg">}}
 
-##### Assicurazione: obbligatoria per guidare in Giappone
+## Assicurazione: obbligatoria per guidare in Giappone
 
 Indipendentemente dal CPD o TIP, ricordati che per guidare in Giappone è obbligatorio, oltre alla patente internazionale di Ginevra, avere l'assicurazione. 
 Ne esistono due:
@@ -98,7 +98,7 @@ Ne esistono due:
 
 A noi è stata fornita dalla Camellia Line (e abbiamo dovuto pagare in yen in contanti al nostro arrivo), ma se la tua compagnia non dovesse fornirtela alcuni viaggiatori hanno provveduto in autonomia {{<extLink "tramite questo Broker" "https://apexmoto.jp/products/">}} pagando via PayPal.
 
-##### Conclusioni
+## Conclusioni
 
 Se segui la procedura corretta, il TIP ti permette di evitare il CPD e risparmiare denaro. Se invece usi il CPD, assicurati di completare correttamente tutte le formalità per evitare problemi in fase di ingresso e uscita del tuo veicolo dal Giappone.
 

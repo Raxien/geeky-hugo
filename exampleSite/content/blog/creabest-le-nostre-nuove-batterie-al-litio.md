@@ -11,7 +11,7 @@ draft: false
 
 Quando abbiamo acquistato [il nostro Roadcar 540](/van) immaginavamo di utilizzarlo solo per le vacanze estive e per **fuggire ogni weekend possibile** anche solo a pochi km da Torino per vivere circondati dal verde delle colline e delle montagne piemontesi, motivo per cui un paio di batterie a gel ci sembravano più che sufficienti per le nostre necessità energetiche. Nel momento in cui però il van è diventato a tutti gli effetti la nostra casa ci siamo resi conto che la capacità energetica che avevamo a bordo non era così ottimale e questo è il motivo per cui abbiamo deciso di installare la batteria al litio della Creabest.
 
-##### Un cambiamento importante
+## Un cambiamento importante
 
 Ogni giorno o quasi finora ci siamo ritrovati a dover caricare non solo il frigorifero a compressore, che seppur di ridotte dimensioni ha un assorbimento importante, ma anche due computer, due smartphone e una macchina fotografica e se mancava il sole per un giorno intero potevamo esser certi di andare a dormire con una minacciosa spia arancione, oltre a sperare di non svegliarci con le batterie del tutto scariche. Più di una volta ci è successo di svegliarci alle 6 del mattino e accendere subito il motore per evitare di buttar via le batterie a gel in quanto se la tensione va sotto gli 11.6V si rischia di rovinarle irrimediabilmente! 
 
@@ -20,7 +20,7 @@ Detto ciò, quando ci si è presentata l’occasione di poter collaborare con un
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/batteria-al-litio-con-van_iqstfb.jpg">}}
 
-##### La batteria installata
+## La batteria installata
 
 La batteria che ci offrivano, una **LiFePO4 12V da 200Ah**, avrebbe sostituito degnamente le nostre due batterie al gel da 95Ah l'una, donandoci notevoli benefici. 
 
@@ -37,7 +37,7 @@ Non vi scriveremo un articolo tecnico sui componenti delle batterie né vi farem
 
 5. **Sicurezza tramite controllo BMS**: il sistema di gestione della batteria (**battery managment system** o BMS) monitora e si adatta alle condizioni della batteria per massimizzare le prestazioni e garantire massima sicurezza. Quando la tensione e la corrente sono anormali il BMS spegne la batteria evitando problemi.
 
-##### Un mese e più dopo
+## Un mese e più dopo
 
 Il 6 Agosto 2023 abbiamo installato la nuova batteria al litio **della Creabest** e a un mese e mezzo dalla sua installazione (a proposito, trovi al fondo di questo articolo il video relativo all'installazione), non possiamo che esserne felici. 
 Al netto di tutti i benefici che abbiamo elencato poco fa non abbiamo però ancora detto quanto e come è migliorata **la qualità della vita a bordo.** 

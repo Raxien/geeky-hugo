@@ -21,13 +21,11 @@ Poi però quel file era lì, veniva voglia di aprirlo e crederci come non mai.
 E allora eccolo qui il nostro libro. 
 **Firmato Vandipety.**
 
-##### Vivere e viaggiare in camper senza spendere una fortuna
-
+## Vivere e viaggiare in camper senza spendere una fortuna
 Perché abbiamo scritto questo libro? 
 Perché una delle domande che spesso ci vengono poste è: ma come fate a mantenere questo stile di vita? 
 Abbiamo deciso allora di partire dall’inizio, da come risparmiavamo e gestivamo le nostre finanze a casa, trasformando poi il processo in base alle nuove entrate e uscite vivendo sul camper.
 Al suo interno si trovano tutti i nostri consigli, alcuni esercizi da svolgere insieme, tutto il nostro metodo punto per punto, utili non solo a chi vuole vivere a bordo ma anche a chi pensa che per viaggiare serva possedere una fortuna. 
 
-##### Lo voglio!
-
+## Lo voglio!
 Il nostro libro "Vivere e viaggiare in camper senza spendere una fortuna" si trova su Amazon sia in versione cartacea che in versione ebook e puoi acquistarlo {{<extLink "cliccando qui!" "https://www.amazon.it/dp/B0CW1FVQQT">}}

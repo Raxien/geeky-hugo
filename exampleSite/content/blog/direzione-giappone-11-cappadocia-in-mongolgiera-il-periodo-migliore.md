@@ -14,8 +14,7 @@ Hai mai desiderato salire su una mongolfiera? **Magari anche in Cappadocia**, so
 Noi abbiamo realizzato il nostro sogno, nel periodo migliore dell’anno. 
 Scopriamo insieme qualche segreto per non spendere troppi soldi e vivere una fantastica esperienza!
 
-##### Quando andare?
-
+## Quando andare?
 Era il 28 febbraio e ci siamo svegliati a bordo del nostro camper nella cittadina di Goreme alle 5 del mattino. 
 Alle 5.35 eravamo pronti nel piazzale dove è venuto a prenderci come da accordi un pulmino per turisti.
 Ci siamo vestiti a strati come se avessimo dovuto andare a sciare, per fronteggiare il freddo in quota. Il cielo era buio, pieno di stelle. Gli occhi ancora socchiusi, le palpebre gonfie, segno di ore di sonno mancate. 
@@ -36,8 +35,7 @@ A bordo con noi una ventina di turisti, con i quali abbiamo brindato una volta s
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/Direzione11/cappadocia-mongolfiere-nel-cielo.jpg">}} 
 
-##### Ma quindi quanto costa?
-
+## Ma quindi quanto costa?
 Bando alle emozioni, veniamo alle informazioni tecniche.
 
 - **Quanto abbiamo speso?** 55 euro a testa. Tieni presente che dal mese di marzo i prezzi si alzano notevolmente e d’estate la domanda può arrivare anche a 300 euro a testa. 

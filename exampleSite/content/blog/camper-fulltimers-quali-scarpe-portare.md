@@ -3,9 +3,8 @@ title: "Vivere un anno in giro per l'Europa: quante scarpe portiamo con noi?"
 description: Scarpe comode per tutti i giorni, scarpe per la pioggia, scarponcini da trekking, scarpe per la sera.. sì ma quali scegliere davvero?
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1660666972/Articoli/IMG_7726_pyyb9f.jpg
 date: 2022-08-15T09:00:00.000+02:00
-categories: ["Blog"]
+categories: ["Vivere in camper"]
 type: regular
-
 ---
 Dopo aver deciso gli abiti da inserire in valigia, era arrivato il momento di effettuare lo stesso lavoro con la scelta delle scarpe da portare a bordo per vivere a bordo del nostro van.
 Parole d'ordine praticità e comodità. Non avevamo in mente serate di gala in cui ci servissero i tacchi, piuttosto ci immaginavamo con ai piedi un paio di scarpe comode, quando non fossimo stati scalzi a contatto con il terreno. 
@@ -16,7 +15,8 @@ Valutando il clima in base alle stagioni avremmo trovato:
 -autunno: come in primavera, decisamente variabile.
 -inverno: necessità di scarpe impermeabili, calde e resistenti.
 
-#### Quindi, per "quattro stagioni", quali scarpe portare sul van?
+{{< leggi-anche >}}
+## Quindi, per "quattro stagioni", quali scarpe portare sul van?
 Dopo aver deciso di vivere in camper per un anno, la nostra scelta sulle scarpe da portare con noi è stata la seguente:
 * un paio di infradito
 * un paio di scarpe leggere, da tutti i giorni, utilizzabili d'estate in città e nelle passeggiate meno impegnative

@@ -11,16 +11,16 @@ draft: false
 
 Avendo vissuto 3 mesi [in Marocco](/blog/marocco-in-camper-alla-scoperta-della-costa-atlantica) a bordo del nostro van abbiamo cercato di onorare anche un po’ la tradizione culinaria del paese, quindi il venerdì in casa nostra **si mangiava il cous cous.** Che fosse preparato da noi o dalle mani di qualche esperto cuoco marocchino, il famoso piatto unico riempiva noi e le nostre pance di soddisfazione.
 
-##### La tradizione
-
+## La tradizione
 Il **{{< underline "Cous cous">}}** è un piatto che pesca le proprie origini nella tradizione berbera: si tratta di chicchi di semola di grano duro cotti al vapore e mescolati con carne, verdure e spezie. Solitamente in casa viene condiviso tra tutti i commensali **in un unico grande piatto**, insieme a salse di accompagnamento. 
 
 Noi per praticità ne prepariamo sempre un po’ di più e lo conserviamo in frigorifero per un massimo di due giorni (ma ti assicuro che dura meno!).
 
 Consumato caldo o fresco è un piatto davvero versatile e a bordo del camper aiuta anche a consumare poco gas per la velocità di cottura.
 
-##### La ricetta
+{{< leggi-anche >}}
 
+## La ricetta
 In base ai gusti e alla zona in cui viene preparato di solito contiene vari tipi di carne (agnello, manzo o pollo), verdure di stagione (pomodori, zucchine, carote, cipolle e peperoni), pesce (gamberi, orata, sardine), legumi (ceci, piselli, lenticchie).
 
 E quali spezie scegliere? Il mix perfetto consiste in una **miscela di cumino, coriandolo, paprika e zafferano** ma in base ai gusti di ognuno si può preferire uno o l’altro ingrediente (noi ad esempio usiamo il prezzemolo fresco al posto del coriandolo).
@@ -30,9 +30,7 @@ La ricetta originale prevede di cuocere i chicchi di semola per **una ventina di
 Errore irrecuperabile? In realtà no, tutte le confezioni sul loro retro danno ragione ai tempi di cottura da me scelti. 
 Perdiamo un po’ nel gusto, perché ammetto di non cuocerlo con il brodo. Ma se spadelli due verdure con un trito di cipolle, le sali per benino e ci aggiungi un po’ di amore ti assicuro **che verrà fuori un buon piatto.** 
 
-{{< youtube2 Xp3Y62pB96U>}} 
-
-##### Ricette alternative 
+## Ricette alternative 
 
 Ecco gli abbinamenti che di solito propongo nella cucina della nostra casa a quattro ruote:
 - Cous cous tonno e pomodori
