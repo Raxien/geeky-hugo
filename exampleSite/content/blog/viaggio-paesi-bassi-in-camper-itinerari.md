@@ -11,7 +11,7 @@ draft: false
 
 Abbiamo visitato e vissuto nei Paesi Bassi a bordo del nostro van, con cane e gatto come compagni di viaggio, nel mese di agosto 2022. Siamo rimasti affascinati dai paesaggi e dalla gentilezza delle persone, oltre che dalla bellezza di alcuni siti turistici e non. Sicuramente è un viaggio che consiglieremmo a chiunque, non solo a bordo di un van ma anche arrivando in aereo e sfruttando l'ottima rete di trasporti pubblici. 
 
-> #### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Itinerario](#itinerario)
 >   - [In breve](#in-breve)
 > - [Clima](#clima)
@@ -23,7 +23,7 @@ Abbiamo visitato e vissuto nei Paesi Bassi a bordo del nostro van, con cane e ga
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
-##### Itinerario
+## Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, ricreando un piccolo diario giornaliero e rimandandoti a una sezione dedicata per quanto riguarda la visita della capitale, Amsterdam.
 Noi siamo arrivati nei Paesi Bassi dalla Germania del Nord e abbiamo attraversato tutto il paese da nord a sud, dirigendoci poi in Belgio.
 
@@ -80,7 +80,7 @@ Lasciata Utrecht siamo tornati verso Gouda, direzione Belgio.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683208292/IMG_1442_y8i7v3.jpg">}}
 
-###### In Breve
+### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera, tranne dove specificato. 
 
 **{{< underline "Giorno 1">}}**: Bourtange - Appingendam - Groninga
@@ -125,17 +125,17 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera, tranne dove specific
 
 <div id="Clima"></div>
 
-##### Clima e quando andare
+## Clima e quando andare
 Nei Paesi Bassi il clima è sovente piovoso, con inverni che possono essere molto rigidi.
 
 La primavera può essere la stagione ideale per ammirare i numerosi campi di tulipani in fiore, ma potresti trovare ancora giornate fredde e ventose oltre che piovose.
 
 L'estate del 2022 è stata decisamente buona, con giornate molto calde e soleggiate. Essendo il paese a nord, ricorda che il sole tramonta più tardi che in Italia, quindi aspettati giornate che ti sembreranno più lunghe. 
 
-##### Strade 
+## Strade 
 La condizione delle strade nei Paesi Bassi è in ottimo stato. Le autostrade sono gratuite e non è richiesta alcuna vignetta. 
 
-##### Servizi e soste
+## Servizi e soste
 In tutto il paese la sosta in libera non è contemplata. 
 Ci sono numerosi luoghi in natura dove noi abbiamo dormito in sicurezza.
 Si trovano numerosi campeggi, a prezzi non economici, che non sempre permettono il solo utilizzo dei servizi camper. Trovare tali servizi non è sempre facilissimo, si possono trovare a volte in aree cittadine adibite o in prossimità dei centri commerciali o stazioni di servizio.  
@@ -145,10 +145,10 @@ In prossimità dell'isola di Texel non siamo riusciti a sostare in libera di not
 
 {{< leggi-anche >}}
 
-##### Mezzi di trasporto pubblici 
+## Mezzi di trasporto pubblici 
 I mezzi di trasporto pubblici sono davvero efficienti in tutto il paese. Bus, treni, tram, traghetti, biciclette: noi non abbiamo mai avuto problemi né con i pagamenti né con gli orari. 
 
-##### Considerazioni e tappe imperdibili
+## Considerazioni e tappe imperdibili
 Non conoscevamo la Nuova Aquitania e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
 
 In camper o auto, le mete imperdibili secondo noi sono :
@@ -161,13 +161,13 @@ In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "Rotterdam">}}**: città particolare, con i grattacieli che si specchiano nei canali e le famose case cubiche.
 -   **{{< bold "Utrecht">}}**: ti verrà voglia di affittare una bici e sfrecciare a fianco alla gente del posto, sederti su di una panchina e osservare il sole tramontare.. Utrecht è una cittadina a misura d'uomo, bella da visitare e vivere!
 
-##### Viaggiare con il proprio animale
+## Viaggiare con il proprio animale
 {{< animali>}}
 
-##### Il nostro Vlog 
+## Il nostro Vlog 
 Nel video qui sotto puoi fare un po' il turista insieme a noi oppure trovi la serie completa sul paese {{<extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ9CusTey8eX6KaVHeVOKXGL">}}.
 
 {{< youtube2 GZQ6wqNHkYo>}}
 
-##### Le nostre mappe
+## Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=18RnPYKLcA6PMTXjiw1tkFTP3i2_ni1s&ehbc=2E312F">}}

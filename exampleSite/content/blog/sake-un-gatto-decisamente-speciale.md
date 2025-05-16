@@ -14,7 +14,7 @@ Raggiungemmo un accordo: saremmo andati a vedere un cucciolo quel sabato. Solo a
 
 ![Sakè appena arrivato](https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1656068388/Articoli/Sak%C3%A8_un_gatto_decisamente_speciale_1.1_eb3dy2.jpg)
 
-##### L'attimo in cui ci siamo scelti a vicenda
+## L'attimo in cui ci siamo scelti a vicenda
 La linguetta rugosa di quel gattino speciale iniziò a leccare le nostre dita e il signore ci disse che potevamo caricarla in auto, che era una femminuccia di quasi 3 mesi e si alimentava già da sola. Ma come, i patti erano solo vederlo! Non sarebbe arrivato a fine sera, ci disse voltandosi dall’altra parte. Guardammo lui con odio e il piccolo gattino con amore. Così *salimmo in auto in tre, senza pensarci due volte*. 
 
 Eravamo destinati ad incontrarci? Forse sì. Iniziammo a ridere, a pensare ai possibili nomi, alla reazione di Olimpia. Trovammo subito un veterinario aperto. Scoprimmo che era un maschietto e non aveva nemmeno due mesi di vita. Cominciava così una nuova ricerca del nome perfetto. Perché non Sakè? La sua presenza nelle nostre vite era stata discussa al ristorante giapponese e ci aveva fatti *ubriacare di amore* non appena lo avevamo visto. Era deciso. 

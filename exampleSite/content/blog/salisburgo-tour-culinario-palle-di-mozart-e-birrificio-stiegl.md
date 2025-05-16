@@ -16,13 +16,13 @@ Prepara le valigie, prendi il pupazzo preferito del tuo amico a quattro zampe e 
 
 `Fonti ufficiali: Le informazioni complete sono disponibili sul sito del Ministero dell'Agricoltura, delle Foreste e della Pesca giapponese: {{<extLink "MAFF" "https://www.maff.go.jp/aqs/english/animal/dog/import-other.html">}}` 
 
-##### Burocrazia Giapponese per Importare Animali Domestici
+## Burocrazia Giapponese per Importare Animali Domestici
 Il Giappone adotta rigide misure per proteggere la sua fauna locale da malattie infettive, in particolare dalla rabbia. 
 Tali procedure di importazione, consultabili sul sito di competenza giapponese, variano a seconda del paese o della regione di esportazione. 
  
 Per importare cani e gatti da regioni non designate (tra cui l’Italia), segui con **attenzione** questo procedimento.
 
-###### 1. Preparazione Pre-viaggio: minimo almeno 180 giorni prima dell’ingresso
+### 1. Preparazione Pre-viaggio: minimo almeno 180 giorni prima dell’ingresso
 
 Per importare un animale in Giappone, segui un processo che inizia almeno 180 giorni prima dell'ingresso nel paese e che diventano 270 giorni nel caso viaggi con un cucciolo. Questo periodo di tempo serve per garantire che il tuo animale soddisfi tutti i requisiti di salute. Prima di tutto assicurati di avere:
 
@@ -39,7 +39,7 @@ Il veterinario esegue un prelievo del sangue e spedisce il campione presso un la
 
 `Nota Il test avviene almeno 180 giorni prima dell’ingresso per evitare la quarantena ed è valido per 24 mesi, purché le vaccinazioni successive siano aggiornate.`
 
-###### 2. Pre-Notifica all'Animal Quarantine Service
+### 2. Pre-Notifica all'Animal Quarantine Service
 
 Una volta completati tutti i documenti richiesti **e 40 giorni prima dell’arrivo notifica l'ingresso del tuo animale domestico**, inviando una email agli indirizzi specifici dell’aeroporto o del porto giapponese in cui arrivi (trovi tutte le informazioni {{<extLink "a questo link" "https://www.maff.go.jp/aqs/english/attach/pdf/aqs_contact_list_en.pdf">}}).
 In allegato inserisci i seguenti documenti:
@@ -55,7 +55,7 @@ I funzionari giapponesi del MAFF valutano la tua documentazione e, se è tutto c
 - **Modulo di richiesta di ispezione:** contiene informazioni sul proprietario, il nome e la data/scadenza della vaccinazione dell'animale, il numero del microchip e altro ancora. Le domande sono semplici e trovi le istruzioni su come compilarle sul loro sito Web ufficiale. Invialo via mail non appena lo completi. 
 - **Il Modulo AC**: lo compila e firma il veterinario del tuo paese di origine o del paese in cui ti trovi prima di entrare in Giappone.
 
-###### 3. Ispezione Pre-viaggio da un Veterinario Ufficiale
+### 3. Ispezione Pre-viaggio da un Veterinario Ufficiale
 
 A meno di 10 giorni dal viaggio, un veterinario sottopone il tuo animale a una visita clinica e rilascia **un certificato di buona salute e compila il Modulo AC.**
 Invia il modulo ai funzionari giapponesi, che verificano la sua correttezza. Questo passaggio è molto importante, perché **un piccolo errore può impedire al tuo animale domestico di entrare in Giappone.**
@@ -67,7 +67,7 @@ Dopo la visita clinica recati presso gli uffici veterinari governativi del paese
 `Nota Importante: Prendi appuntamento per tempo, sia dal veterinario che presso l’ufficio veterinario governativo.
 Invia il certificato di esportazione via mail al MAFF, che ti trasmette in risposta un documento di approvazione finale, da portare con te in Giappone insieme a tutto il resto della documentazione.`
 
-###### 4. Ispezione all’Aeroporto\Porto di Arrivo
+### 4. Ispezione all’Aeroporto\Porto di Arrivo
 
 Una volta arrivato in Giappone, il servizio di quarantena sottopone l’animale a un'ulteriore ispezione, controlla i documenti e scansiona il microchip.  
 
@@ -78,7 +78,7 @@ A proposito, scopri {{<extLink "il trasportino preferito di Sakè!" "https://www
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1739789925/Articoli/Giappone/giappone-trasportino_vlzuiu.png">}}
 
-###### 5. Procedura Post-Ispezione
+### 5. Procedura Post-Ispezione
 
 Se tutta la documentazione è corretta e l'ispezione ha esito positivo, il tuo animale entra senza necessità di quarantena. In caso contrario, il tuo animale rischia una quarantena che dura fino a 180 giorni. Calcola i giorni di quarantena nella seguente maniera:
 
@@ -87,7 +87,7 @@ Se tutta la documentazione è corretta e l'ispezione ha esito positivo, il tuo a
 La quarantena avviene in apposite strutture il cui costo è a tuo carico. A seconda dei risultati della quarantena, il cane o il gatto può comunque non essere ammesso in Giappone.
 
 <!-- 
-##### Trasporti Pet-Friendly in Giappone
+## Trasporti Pet-Friendly in Giappone
 
 Il Giappone offre un sistema di trasporti pubblico molto efficiente, ma non tutti i mezzi sono adatti a viaggiare con animali domestici. Ecco come affrontare i vari mezzi di trasporto:
 
@@ -95,18 +95,18 @@ Il Giappone offre un sistema di trasporti pubblico molto efficiente, ma non tutt
 * **Biglietto per Animali:** oltre al tuo biglietto, in alcuni casi acquisti un biglietto separato per il tuo animale domestico.
 * **Carrozze Designate:** alcuni treni hanno carrozze speciali dove gli animali sono ammessi. Verifica le compagnie ferroviarie per dettagli aggiuntivi.
 
-##### Sistemazioni Pet-Friendly in Giappone
+## Sistemazioni Pet-Friendly in Giappone
 
 Trovare un alloggio pet-friendly in Giappone non è semplice e richiede un po' di ricerca. Alcuni hotel offrono camere specifiche per chi viaggia con animali, mentre altri hanno aree comuni dove gli animali sono ammessi.
 Cerca anche case vacanza o appartamenti che permettono di portare con sé gli animali, usando piattaforme come Airbnb. Conferma sempre in anticipo per evitare sorprese.
 
-##### Consigli Essenziali per la Valigia del Tuo Animale Domestico
+## Consigli Essenziali per la Valigia del Tuo Animale Domestico
 Quando prepari la valigia per il tuo animale domestico, porta tutto il necessario per garantirgli un viaggio comodo e sicuro:
 * Ciotole per Cibo e Acqua: Includile sempre, anche quelle pieghevoli per risparmiare spazio. Queste non mancano mai nei nostri viaggi!
 * Guinzaglio e Collare/Imbracatura: Sono essenziali per il controllo del tuo animale durante le passeggiate. Ecco la pettorina che usiamo con Sakè!
 * Medicinali e Cibo: Se il tuo animale ha bisogno di medicinali o di una dieta particolare, porta abbastanza scorte per tutta la durata del viaggio. Verifica in anticipo con le autorità giapponesi che tutti i farmaci o gli integratori che porti siano ammessi nel paese.
 
-##### Etichetta e Comportamento in Giappone: Come Comportarsi in Pubblico con il Tuo Animale
+## Etichetta e Comportamento in Giappone: Come Comportarsi in Pubblico con il Tuo Animale
 In Giappone è essenziale rispettare le usanze locali e l'etichetta riguardo gli animali domestici. Ecco alcuni consigli:
 * Tieni il Tuo Animale al Guinzaglio: In tutti gli spazi pubblici è obbligatorio tenere il tuo animale al guinzaglio.
 * Raccogli gli Escrementi: Porta sempre con te sacchetti per raccogliere i bisogni del tuo animale, ma sappi che in Giappone le aree per lo smaltimento dei rifiuti sono per lo più inesistenti e devi attrezzarti al meglio in merito, portando i rifiuti in hotel/casa. 

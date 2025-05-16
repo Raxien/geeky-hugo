@@ -14,13 +14,13 @@ Bando alle ciance, parcheggiamo e ripercorriamo insieme le tappe per visitare Po
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689674772/Articoli/empanada/madrid/cordoba/IMG_3019_ueuyqx.jpg">}}
 
-##### Dove parcheggiare il camper a Porto
+## Dove parcheggiare il camper a Porto
 
 Per sostare in libera noi abbiamo approfittato di {{<extLink "questo" "https://youtube.com/shorts/GYjcTmBTlbQ?feature=share">}}parcheggio, dal quale il centro cittadino si raggiunge in una quarantina di minuti a piedi.
 <!-- to do mettere maps parcheggio  -->
 Se preferisci puoi invece sostare in un campeggio fuori città e muoverti facilmente con i mezzi. 
 
-##### Porto: cosa vedere in 1 giorno 
+## Porto: cosa vedere in 1 giorno 
 
 - ***Il Quartiere della Ribeira***
 Dal luogo in cui abbiamo parcheggiato ci siamo incamminati sotto al diluvio fino al ponte in ferro “Dom Luis I” sul fiume Douro, lasciandoci Vila Nova de Gaia alle spalle e raggiungendo la **Ribeira**. 
@@ -40,7 +40,7 @@ Lasciandoci questa zona della città alle spalle abbiamo percorso **Rua dos Merc
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689674772/Articoli/empanada/madrid/cordoba/IMG_3019_ueuyqx.jpg">}}
 
-##### Porto, ci hai fatto venir fame!
+## Porto, ci hai fatto venir fame!
 Dopo aver camminato 40 minuti per raggiungere la città e aver iniziato a perderci per le sue vie in salita, non potevamo non assaggiare un piatto tipico della città.
 Il podio se lo contendono la trippa, il baccalà, che viene cucinato in ogni modo, e la franchesina, il toast più richiesto in città.
 Noi abbiamo deciso di optare per un assaggio da street food, il pasteis de bacalhau: una crocchetta fritta di baccalà, patate e formaggio. 

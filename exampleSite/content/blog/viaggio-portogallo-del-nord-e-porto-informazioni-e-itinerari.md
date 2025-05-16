@@ -12,7 +12,7 @@ draft: false
 In questo articolo ti portiamo con noi alla scoperta di Porto e di altre tre cittadine del Portogallo del Nord, che noi abbiamo raggiunto a bordo del nostro van. Puoi prendere in considerazione questo itinerario anche se decidi di affittare un'automobile arrivando a Porto in aereo. 
 Se invece hai intenzione di visitare o aggiungere nel tuo viaggio altre zone del paese ti rimandiamo [all'articolo generale](/blog/viaggio-portogallo-in-camper-itinerari/).
 
-##### Itinerario
+## Itinerario
 
 - **{{< underline "Giorno 1 - Valenca">}}**:
   
@@ -43,11 +43,11 @@ Se invece hai intenzione di visitare o aggiungere nel tuo viaggio altre zone del
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683730690/IMG_0658_kxmcto.jpg">}}
 
 
-##### Curiosità
+## Curiosità
 A Porto abbiamo assaggiato il Pastéis de bacalhau, una tipica crocchetta di baccalà, che a piacere viene servita da un bicchierino di Porto. 
 Al di là del ponte puoi trovare numerose cantine in cui puoi assaggiare il tipico liquore locale. 
 
-##### Il nostro Vlog 
+## Il nostro Vlog 
 
 Nel video qui sotto puoi vedere le nostre avventure nel Portogallo del Nord!
 
@@ -56,7 +56,7 @@ Nel video qui sotto puoi vedere le nostre avventure nel Portogallo del Nord!
 
 <!-- <div id="Mappe"></div> -->
 
-<!-- ##### Le nostre mappe -->
+<!-- ## Le nostre mappe -->
 <!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F">}} -->
 
  

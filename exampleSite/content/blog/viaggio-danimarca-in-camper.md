@@ -16,7 +16,7 @@ Il viaggio in Danimarca in camper è stato il nostro **primo viaggio lungo** dop
 Abbiamo speso 2000 euro in totale, comprensivi di qualsiasi uscita, per un mese in camper in Danimarca. 
 Partiamo, o meglio se parti dopo aver letto questo articolo mandaci una foto che ci farebbe davvero piacere!
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Itinerario](#itinerario)
 >   - [Dall'Italia alla Danimarca](#dallitalia-alla-danimarca)
 >   - [Itinerario della Danimarca](#itinerario-della-danimarca)
@@ -29,14 +29,14 @@ Partiamo, o meglio se parti dopo aver letto questo articolo mandaci una foto che
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe)
 
-##### Itinerario
+## Itinerario
 
 L'itinerario è diviso in tre parti: 
 1. [Dall'Italia alla Danimarca](#dallitalia-alla-danimarca) attraverso la Svizzera e la Germania [Durata 4 giorni]
 2. Il nostro [itinerario della Danimarca](#itinerario-della-danimarca) [Durata 21 giorni]
 3. Rientro a casa [attraverso la Foresta Nera](#ritorno-a-casa-attraverso-la-foresta-nera) [Durata 4 giorni]
 
-###### Dall'Italia alla Danimarca
+### Dall'Italia alla Danimarca
 
 **{{< underline "Giorno 1">}}**: siamo partiti da Torino in direzione Chiasso. Abbiamo trovato traffico intenso in zona Como per alluvioni e lavori in autostrada, cenato velocemente in area sosta verso le 21 prima di passare il San Gottardo, sfruttato la luce estiva per superare la Svizzera e arrivare dritti a **Friburgo in Brisgovia** all'una di notte! Fortunatamente abbiamo pernottato vicino ad altri van in una tranquilla zona residenziale.
 
@@ -55,7 +55,7 @@ La vista dall’alto della città è veramente sorprendente, soprattutto pensand
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1688671503/Articoli/Danimarca/danimarca-casette_cv5ng5.jpg">}}
 
-###### Itinerario della Danimarca
+### Itinerario della Danimarca
 
 **{{< underline "Giorno 5">}}**: siamo ripartiti in direzione **Flensburg** per fare spesa e benzina, abbiamo raggiunto una vicina area di carico e scarico e poi abbiamo attraversato il confine, senza essere fermati alla dogana. Prima tappa danese: **Tonder**! Qui abbiamo subito ammirato le casette colorate e ordinate, con nessuna tenda alle finestre ma candele e oggetti di decoro. Ci siamo poi spostati a **Mogeltonder** in area sosta, in un paesino che ci ha accolti con un viale in ciottoli tutto alberato e casette con tetto in paglia e mattoni a vista. Davvero un piccolo gioiellino. Butta un occhio davanti alle abitazioni, potresti trovare delle piccole cassettine in cui prendere delle marmellate fatte in casa.
 
@@ -127,7 +127,7 @@ Abbiamo incontrato alcuni lavori per strada, attraversato il famoso ponte sospes
 
 **{{< underline "Giorno 24">}}**: ci siamo spostati verso **Rodby**, comprando del pane fresco e una fetta {{<extLink "di pizza in una bakery italiana" "https://goo.gl/maps/ehPCs7HhD1Xgppsx6">}}. Qui ci siamo goduti l’ultimo tramonto danese sulla spiaggia e siamo fuggiti l’indomani mattina da un’invasione di zanzare e moscerini.
 
-###### Ritorno a casa attraverso la Foresta Nera
+### Ritorno a casa attraverso la Foresta Nera
 
 **{{< underline "Giorno 25">}}**: abbiamo raggiunto **Rødbyhavn** per prendere {{<extLink "il traghetto e sbarcare in Germania" "https://www.scandlines.com/prices/puttgarden-rodby/">}} a **Puttgarden**. Abbiamo sostato sulla costa tedesca per pausa pranzo poi siamo arrivati a **Lubecca**: bella, accogliente, pulita con i suoi bellissimi palazzi colorati lungo il fiume e i numerosi cortili interni. Ci siamo spostati a **Luneburgo** per la notte.
 
@@ -141,7 +141,7 @@ Abbiamo incontrato alcuni lavori per strada, attraversato il famoso ponte sospes
 
 {{< carousel images="Articoli/Danimarca/danimarca_case_kvasbu,Articoli/Danimarca/danimarca-aaron-museo_ecryxw,Articoli/Danimarca/danimarca-arte-contemporanea_sfqee6,Articoli/Danimarca/danimarca-arte-contemporanea-2_ogygpo,Articoli/Danimarca/danimarca-case-tipiche-utnvfk,Articoli/Danimarca/danimarca-castello-luccbf,Articoli/Danimarca/danimarca-drone_h0otxp,Articoli/Danimarca/danimarca-pescatore_ub6rnc" >}}
 
-###### In Breve
+### In Breve
 
 **{{< underline "Giorno 1-2">}}**: Friburgo in Brisgovia e Rottweil
 
@@ -191,19 +191,19 @@ Abbiamo incontrato alcuni lavori per strada, attraversato il famoso ponte sospes
 
 **{{< underline "Giorno 29">}}**: lago Titisee, Berna
 
-##### Strade 
+## Strade 
 In tutta la Danimarca abbiamo trovato le strade in condizioni perfette e l’autostrada non si paga. Sono a pagamento invece i traghetti e i ponti, questi ultimi a seconda della lunghezza e dimensione del mezzo. 
 
-##### Servizi e soste
+## Servizi e soste
 Noi non abbiamo avuto alcun problema per la sosta in libera, rispettando sempre le regole di ogni luogo. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1688671503/Articoli/Danimarca/danimarca-deserto_emz2j6.jpg">}}
 
-##### Viaggiare con il proprio animale
+## Viaggiare con il proprio animale
 {{< animali "EU">}}
 
 Una cosa che renderà felici i tuoi fidi animali è la presenza di enormi aree cani! A differenza di quelle italiane che sono dei piccoli fazzoletti di terra spesso maltrattati e sterrati qua sono enormi prati verdi con cespugli, alberi e sentieri da percorrere!
 <!-- TODO rivedere -->
 
-##### Le nostre mappe
+## Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1Tri498j53ZDXSbjahbC5bOtpKCwuq1I&ehbc=2E312F">}}

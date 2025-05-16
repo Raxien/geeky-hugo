@@ -13,7 +13,7 @@ In questo articolo ti porteremo con noi alla scoperta della Normandia, regione f
 Se la tua idea è quella di visitare la Normandia insieme alla Bretagna, ti rimandiamo all'[articolo](/blog/viaggio-francia-bretagna-in-camper-itinerari/) in merito così da poter unire i due itinerari. 
 Ti consigliamo di anche dare un'occhiata anche a un paio di mete nell'[Alta Francia](/blog/viaggio-francia-alta-francia-in-camper-itinerari/)!
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Itinerario](#itinerario)
 >   - [In breve](#in-breve)
 > - [Strade](#strade)
@@ -24,7 +24,7 @@ Ti consigliamo di anche dare un'occhiata anche a un paio di mete nell'[Alta Fran
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
-##### Itinerario
+## Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, ricreando un piccolo diario giornaliero. 
 Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), se invece vuoi sapere cosa consigliamo come tappe **{{< bold "imperdibili">}}** puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
 
@@ -67,7 +67,7 @@ Puoi tranquillamente dedicare una sola giornata alla loro visita, scegliendo mag
 **{{< underline "Giorno 11">}}**: siamo arrivati di prima mattina al parcheggio di un chioschetto non distante da Mont Saint Michel, dove consumando colazione si può parcheggiare per un paio di ore. Acquistati caffè e Madeleine al cioccolato ci siamo gustati sia i dolci che la vista. Poi, assicurati gli animali in van per evitare loro la bolgia di gente che avremmo incontrato, ci siamo incamminati per un'oretta di passeggiata. Se non te la senti di camminare puoi fare la coda per salire sul trenino a pagamento. Avendo già visitato l'Abbazia anni prima, abbiamo solo camminato per le viuzze, a parer nostro rovinate un po' dalle troppe insegne turistiche, per poi dirigerci in un parcheggio a Cherrueix, in riva al mare. 
 
 
-###### In Breve
+### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera. 
 
 **{{< underline "Giorno 1">}}**: Le Treport - Dieppe
@@ -94,20 +94,20 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682805540/Articoli/francia/IMG_3844_ikkvde.jpg">}}
 
-##### Strade 
+## Strade 
 Tutte le strade percorse in Normandia sono in buono stato e regalano scorci davvero mozzafiato. 
 
-##### Servizi e soste
+## Servizi e soste
 In Francia è molto semplice trovare aree di servizio attrezzate e gratuite per carico e scarico.
 Per le soste in libera noi non abbiamo avuto problemi dato che ci siamo recati in un periodo di bassa stagione. L'unica limitazione è derivata dalle sbarre che negavano l'accesso a mezzi più alti di 1.90 mt in prossimità delle spiagge. 
 Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio. 
 
 {{< leggi-anche >}}
 
-##### Viaggiare con il proprio animale
+## Viaggiare con il proprio animale
 {{< animali "EU">}}
 
-##### Considerazioni e tappe imperdibili
+## Considerazioni e tappe imperdibili
 A noi la Francia è rimasta nel cuore, due volte sue due. I paesini sono ordinati e puliti, con un'architettura armonica. Sovente l'odore di pane e burro ti inviterà a entrare in una boulangerie e difficilmente ne rimarrai deluso. 
 
 In camper o auto, mete imperdibili:
@@ -120,10 +120,10 @@ In camper o auto, mete imperdibili:
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682804701/Articoli/francia/IMG_3908_molbfa.jpg">}}
 
-##### Il nostro Vlog
+## Il nostro Vlog
 Nel video qui sotto puoi rivedere il nostro Vlog in Normandia oppure trovi la serie completa sul paese {{<extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8">}}.
 
 {{< youtube2 GYiGS6j605c>}}
 
-##### Le nostre mappe
+## Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1k7WeDnRorbC4wtUu2AybAgNgaNgSjNo&ehbc=2E312F" "1">}}

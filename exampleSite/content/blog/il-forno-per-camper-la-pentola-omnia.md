@@ -19,7 +19,7 @@ Ecco, ammetto che in un anno e mezzo di vita a bordo del van mi sono mancate a v
 Mi piaceva passare davanti al forno e osservare i lievitati crescere, le crosticine rosolare appena. 
 Mi piaceva tornare in cucina e inspirare a narici ben aperte i profumi che si sprigionavano, scostare la tendina a cuoricini con quel taschino in cui infilavo i post-it con le ultime ricette scarabocchiate nonostante Paolo mi guardasse torvo per il disordine che creavo ma sorridesse nel vedermi arrossire come se stessi nascondendo un bottino rubato. 
 
-##### Nuovi spazi in van
+## Nuovi spazi in van
 
 A bordo del van, oltre ad avere una dispensa limitata, un mini frigorifero e uno spazio per le pentole decisamente ridotto, non abbiamo il forno ma solo due bombole a gas. 
 
@@ -31,7 +31,7 @@ Ammetto di aver tentato di preparare una galette farcita con marmellata in padel
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/forno-omnia-camper_g459yh">}}
 
-##### La pentola fornetto Omnia
+## La pentola fornetto Omnia
 
 Avevamo visto questa pentola fornetto tedesca, simile al fornetto versilia nella versione italiana, nel van di una coppia di due ragazzi tedeschi incontrati on the road. Ne siamo rimasti piacevolmente incuriositi e siamo felicissimi di averla portata a bordo con noi da quando siamo ripartiti per vivere da fulltimers sul van. 
 
@@ -50,7 +50,7 @@ L'utilizzo è veramente semplice, basta mettere insieme gli ingredienti e contro
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/forno-omnia-torta_wedtjw">}}
 
-##### La prima ricetta a bordo
+## La prima ricetta a bordo
 
 La prima ricetta che abbiamo voluto preparare è un cavallo di battaglia della nostra famiglia: **la galette salata**.
 

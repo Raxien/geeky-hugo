@@ -17,7 +17,7 @@ Quasi che forse era meglio passare direttamente al caffè.
 
 Doveva in ogni caso essere un dolce che avrebbe lasciato tutti **con il sorriso stampato sulle labbra.**
 
-##### La scoperta
+## La scoperta
 
 Quando abbiamo contattato Marco della {{<extLink "Pasticceria Luciano di Barge" "http://lucianobarge.it">}} ci siamo detti che se la sua gentilezza al telefono era anche solo lontanamente paragonabile alla bontà che avremmo ritrovato nel dolce, **avevamo fatto la scelta giusta.**
 
@@ -25,7 +25,7 @@ La conferma ci è arrivata quando ci siamo recati in negozio e abbiamo conosciut
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
-##### Sua maestà: la torta
+## Sua maestà: la torta
 
 La torta Leonardo è un soffice pan di Spagna cacao e nocciole, farcito con crema chantilly e lamponi freschi, il tutto ricoperto con scaglie di cioccolato gianduia e granella di nocciole.
 
@@ -40,7 +40,7 @@ Ecco, noi abbiamo davvero detto quel Wow, oltre al sì lo voglio, **voglio quest
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/dolci-luciano-barge_kspefv.jpg">}}
 
-##### Un'esperienza unica
+## Un'esperienza unica
 
 Ad ogni cucchiaiata **ci siamo immaginati le mani attente di chi sa fare il proprio lavoro con amore**, di chi ha montato le uova con tanta cura quasi da poterci scrivere con quel composto, di chi ha scelto nocciole e cacao di qualità, di chi ha controllato che la panna fosse ben fredda, di chi ha inciso con cura la bacca di vaniglia, di chi ha amalgamato con attenzione i lamponi del territorio e composto poi gli strati, aggiungendo un pizzico di gioia in ogni passaggio. 
 
@@ -50,7 +50,7 @@ Quando abbiamo chiesto a Marco la ricetta, ci ha svelato che contiene **un ingre
 
 Non vogliamo saperlo, perché suona come un tocco di magia che ha reso non solo quella fetta di prova ma tutta la nostra torta davvero speciale.
 
-##### La conferma  
+## La conferma  
 
 Vedere i nostri familiari e amici mettersi in fila per chiedere il bis, sussurrare quanto delicata fosse la crema, lasciare i piatti senza briciola alcuna è stata la conferma di aver scelto con cura un dettaglio che fa la differenza. 
 

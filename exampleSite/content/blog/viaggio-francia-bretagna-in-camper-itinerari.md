@@ -12,7 +12,7 @@ draft: false
 Visitare la Bretagna in camper, van o auto vuol dire ammirare panorami mozzafiato e per noi è diventata una meta che consideriamo **{{< bold "imperdibile">}}**. Vuoi qualche consiglio su come visitare questa regione francese on the road? In questo articolo ti racconteremo la nostra esperienza vissuta nel settembre 2022. 
 Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tappe [qui](/blog/viaggio-francia-normandia-in-camper-itinerari/).
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Itinerario](#itinerario)
 >   - [In Breve](#in-breve)
 > - [Strade](#strade)
@@ -24,7 +24,7 @@ Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tapp
 
  {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682806020/Articoli/francia/IMG_5510_df3poq.jpg">}}
 
-##### Itinerario
+## Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura.
 Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
 
@@ -61,7 +61,7 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 Da qui in poi le nostre avventure sono proseguite verso sud, sempre seguendo la costa atlantica. Abbiamo attraversato la regione che si chiama Pays de la Loira, facendo solo un paio di tappe: una a Moidson-la-Riviere (bellissimo e minuscolo borgo circondato da natura rigogliosa, a sud di Chateaubriant) e l'altra a Nantes (purtroppo diluviava ma siamo comunque riusciti a vedere la statua dell'elefante, ispirato a Jules Verne e Leonardo, che barrisce e sputa acqua in movimento ) e rimandando al futuro invece la visita dei castelli della Loira. 
 Infine ci siamo diretti in [Nuova Aquitania](/blog/guida-nuova-aquitania-in-camper-itinerari/), fino a raggiungere il capoluogo Bordeaux e da lì la Spagna del Nord (a breve l'articolo in merito)
 
-###### In Breve
+### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera. 
 
 **{{< underline "Giorno 1">}}**: Mont Saint Michel - Cherrueix
@@ -90,19 +90,19 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682805540/Articoli/francia/IMG_3844_ikkvde.jpg">}}
 
-##### Strade 
+## Strade 
 Come nel resto del paese non abbiamo trovato strade in condizioni pericolose. Tutte le zone in prossimità dei fari regalano scorci davvero mozzafiato.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682806085/Articoli/francia/IMG_4801_mof0mc.jpg">}}
 
-##### Servizi e soste
+## Servizi e soste
 In Francia è molto semplice trovare aree di servizio attrezzate e gratuite per carico e scarico.
 Per le soste in libera noi non abbiamo avuto problemi dato che ci siamo recati in un periodo di bassa stagione. L'unica attenzione che ti consigliamo è di prestare attenzione a luoghi in cui il vento potrebbe essere fastidioso o addirittura pericoloso. 
 Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio. >
 
 {{< leggi-anche >}}
 
-##### Considerazioni e tappe imperdibili
+## Considerazioni e tappe imperdibili
 Questa è stata la nostra prima esperienza in Bretagna e abbiamo davvero amato questa regione. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera magica e di altri tempi. 
 
 In camper o auto, le mete imperdibili secondo noi sono :
@@ -117,13 +117,13 @@ In camper o auto, le mete imperdibili secondo noi sono :
 
 <div id="Animali"></div>
 
-##### Viaggiare con il proprio animale
+## Viaggiare con il proprio animale
 {{< animali "EU">}}
 
-##### Il nostro Vlog 
+## Il nostro Vlog 
 Nel video qui sotto puoi rivedere la nostra meraviglia di fronte ai fari oppure trovi la serie completa sul paese {{<extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8">}}.
 
 {{< youtube2 QW8a24Bg_co>}}
 
-##### Le nostre mappe
+## Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1Qe2J5JEntbQu5hEZpfvyuq6Z-gGc4S0&ehbc=2E312F" "1">}}

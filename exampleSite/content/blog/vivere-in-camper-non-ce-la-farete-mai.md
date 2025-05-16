@@ -18,7 +18,7 @@ Sono state due frasi che **ci sono state dette per davvero**, una da un (ex) col
 
 Le abbiamo apprezzate però, perché ci sono state rivolte senza sconti e hanno ottenuto risposta dai fatti prima ancora che potessimo darla noi con un sorriso. 
 
-##### Pensavo che sareste tornati
+## Pensavo che sareste tornati
 La prima frase ci è stata detta quando siamo tornati dalla nostra prima lunga avventura (che puoi rivivere [qui](/blog/viaggio-danimarca-in-camper)). 
 Avevamo ritirato il van a inizio giugno, **senza esperienza alcuna**. Ci eravamo saliti a bordo subito, per un weekend a base di pizza d’asporto nel primo prato verde che ci potesse accogliere. Ok, era vicino ad un cimitero e il fattorino era incredulo, ma le pizze erano buone, il cielo stellato **e i vicini silenziosissimi!**
 
@@ -28,12 +28,12 @@ E così ad agosto siamo partiti per un mese intero in Danimarca a bordo della no
 
 Anzi, la **conferma** era che che avevamo preso insieme una delle **decisioni migliori** che potessimo.
 
-##### I soliti che ci provano e poi mollano
+## I soliti che ci provano e poi mollano
 La seconda frase ci è stata scritta alla pubblicazione del video relativo a "{{<extLink "un anno di vanlife" "https://youtu.be/0NrXpFEY6Wc">}}", con un riassunto sulle spese sostenute, su cosa si è rotto a bordo, sulle nostre impressioni. 
 
 Quel contenuto era ed è un video al quale teniamo molto. Perché è pieno di verità, è sincero e sottolinea il nostro percorso dall’inizio. Ci fa piacere che sia stato apprezzato da chi ci aveva immaginati come *i soliti che ci provano e poi mollano*.
 
-##### Ce l'abbiamo fatta!
+## Ce l'abbiamo fatta!
 Insomma abbiamo superato il **test iniziale** e anche quello **intermedio**.
 Probabilmente c’è chi ancora si chiede perché, come facciamo a farci andare bene questa vita, cosa ci sia di tanto affascinante.
 

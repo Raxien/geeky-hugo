@@ -11,7 +11,7 @@ draft: false
 
 Se stai cercando una destinazione che ti offra un'esperienza di viaggio unica, il Giappone è il posto giusto per te. Con una cultura millenaria, una cucina deliziosa e una perfetta armonia tra il passato e futuro, questo paese asiatico ha molto da offrire ai viaggiatori di ogni tipo. In questo articolo esploreremo le ragioni per cui dovresti visitare il Giappone e ti proporremo alcuni itinerari imperdibili per il tuo viaggio, nati dopo svariate visite nel paese.
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Il Paese](#il-paese) 
 > - [Clima e quando andare](#clima-e-quando-andare)
 > - [Come pagare](#come-pagare)
@@ -57,24 +57,24 @@ Nel caso di viaggio in 2 o più persone consigliamo di prendere l'opzione con il
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1687279276/Articoli/Giappone/cervi-cibo-myajima_sm51ks.jpg">}}
 
-##### Vaccini e assicurazione sanitaria
+## Vaccini e assicurazione sanitaria
 
 {{< assicurazione>}}
  
 Per maggiori informazioni vi rimandiamo al sito di {{<extLink "viaggiare sicuri" "https://www.viaggiaresicuri.it/find-country/country/JPN" "Stay safe!!">}}.
 
-##### Mezzi di trasporto pubblici 
+## Mezzi di trasporto pubblici 
 Il Giappone ha un'eccellente rete di trasporti pubblici. Ci si può spostare in tutto il paese usando autobus, treni e tram. Di contro questi mezzi sono molto cari quindi consigliamo di acquistare dei pass:
 -  {{<extLink "Pass per la metro di Tokyo" "https://www.tokyometro.jp/en/ticket/travel/">}}: potete accedere gratuitamente per 24/46/72 ore a tutte le linee della metro di Tokyo Metro e le linee Toei.
 -  {{<extLink "JR Pass" "https://www.jrpass.com/it/buy-the-japan-rail-pass-online">}}: potete usare gratuitamente tutte le linee JR che comprendono i famosi treni proiettile **shinkansen**, alcuni traghetti e pullman. Prima di procedere con l'acquisto consultate {{<extLink "le linee valide qui" "https://japanrailpass.net/en/about_jrp.html#anchor04">}}.
 
 {{< youtube2 DIFfBxk0JBA >}}
 
-##### Itinerari
+## Itinerari
 In questa sezione vi proponiamo due itinerari che potete seguire utilizzando i mezzi pubblici e che si basano su due viaggi effettuati proprio da noi (aprile 2017 e fine marzo-inizio aprile 2019). 
 In un capitolo finale troverete i luoghi che secondo noi meritano maggiormente!
 
-###### 8 Giorni
+### 8 Giorni
 L'itinerario **classico**. Permette di assaporare il Giappone in 8 giorni e vedere le principali attrazioni dalla futuristica **Tokyo** all'antica capitale di **Kyoto**, passando per **Kamakura** e **Nara**.
 Partenza dall'aeroporto di Narita e rientro dall'Aeroporto Internazionale di Osaka.
 
@@ -97,7 +97,7 @@ In serata passeggiata presso il **{{< bold "Golden Gai">}}**.
 
 {{< carousel images="Articoli/Giappone/capotreno-stazione-nara_jmli6n.jpg,Articoli/Giappone/tori-isola-in-acqua_sd0h8g.jpg,Articoli/Giappone/kamakura-budda_yn79uf.jpg,Articoli/Giappone/tori-fujiminari_cgbiwn.jpg" >}}
 
-###### 14 Giorni
+### 14 Giorni
 L'itinerario **Vandipety** permette di calarsi appieno nella cultura Giapponese partendo dalla futuristica Tokyo fino a ricalcare mete ricche di cultura passando dalle alpi giapponesi.
 Per ragioni economiche siamo partiti dall'aeroporto di Narita e rientrati dall'Aeroporto Internazionale di Tokyo. Se disponibile consigliamo di rientrare dall'Aeroporto Internazionale di Osaka così da visitare anche questa città.
 

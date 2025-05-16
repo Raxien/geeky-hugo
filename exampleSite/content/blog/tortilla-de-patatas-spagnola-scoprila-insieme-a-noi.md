@@ -14,12 +14,12 @@ Appena abbiamo messo piedi, zampe e ruote del van in Spagna e abbiamo fatto la s
 La Tortilla non ha orari! Va bene a colazione, pranzo, merenda e cena. Si può mangiare calda o fredda e la si trova ovunque, nei locali come tapas e nel banco frigo di qualsiasi supermercato.
 Dimenticavo, in questo momento ne abbiamo due anche nel frigorifero del nostro camper :) 
 
-##### Ma cos’è la Tortilla Espanola?
+## Ma cos’è la Tortilla Espanola?
 
 La tortilla spagnola è uno dei piatti nazionali del paese. 
 La ricetta è semplice: uova, patate e cipolle, che unite all’olio extravergine di oliva (e non parliamo solo di un cucchiaino a favore della dieta!) garantiscono un piatto finale veramente delizioso.
 
-###### I 5 ingredienti della Tortilla spagnola
+### I 5 ingredienti della Tortilla spagnola
 
 > Ingredienti:
 > - Patate: 1,2,4 patate..basta che siano di media grandezza
@@ -34,7 +34,7 @@ A proposito, sai quale sarebbe la sostanziale differenza fra tortilla e frittata
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/tortilla/IMG_4633_xzjp8j.jpg">}}
 
-###### Ed ecco qui la ricetta!
+### Ed ecco qui la ricetta!
 
 Eccoti la ricetta in 10 semplici passaggi:
 

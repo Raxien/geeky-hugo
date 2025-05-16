@@ -12,7 +12,7 @@ Conoscete qualcuno che abbia organizzato il proprio matrimonio in un mese e ne s
 
 ***Benvenuti in un’altra delle nostre follie!***
 
-##### Un passo indietro
+## Un passo indietro
 
 Se ripenso a quando avevo 10 anni e su una **vecchia agenda della Cassa di Risparmio** scrivevo quasi un tema da maturità su come si sarebbe svolto il “mio” giorno, con tanto di dettagli sull’abito da principessa, mi viene proprio da sorridere in modo beffardo. 
 Cenerentola ha vinto in tante altre occasioni e nella stanzetta di tante altre bambine. 
@@ -25,7 +25,7 @@ Ma facciamo un salto indietro di qualche mese per riuscire a capire come una ser
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/gioco_sposi_qhzalj.jpg">}}
 
-##### Cosa ci è venuto in mente? 
+## Cosa ci è venuto in mente? 
 
 Era il 31 dicembre 2022 quando, forse per un colpo di sole improvviso o per una sindrome di Stendhal di fronte all’Alcazar di Siviglia, **Paolo mi chiedeva sorridendo di sposarlo.** 
 
@@ -39,7 +39,7 @@ La risposta da parte degli uffici è stata celere quanto negativa: il tempo a di
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/mi-vuoi-sposare_smcsfk.jpg" title="Se vuoi vedere il video completo lo trovi in fondo all'articolo." >}}
 
-##### Non s'ha da fare
+## Non s'ha da fare
 
 Ah il tempo, quel compare **che abbiamo imparato a gestire in tutt’altro modo da quando siamo partiti** (ne abbiamo parlato {{<extLink "qui" "https://www.youtube.com/watch?v=6elKW_OV-98">}}). Che nemico beffardo.
 Dopo un quarto d’ora di disappunto e silenzio e di millemila cose imparate sul web sulla burocrazia necessaria per organizzare le nozze, abbiamo deciso di tentare una via secondaria: richiedere le pubblicazioni a Torino, nostro comune di residenza, e sposarci in un altro comune. 
@@ -51,7 +51,7 @@ A quel punto l’unica mail che è arrivata in risposta citava le seguenti parol
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/pubblicazioni-di-matrimonio_wivmah.jpg">}}
 
-##### Succedeva di nuovo
+## Succedeva di nuovo
 
 ***Avevamo appena lanciato in aria un progetto e le cose sarebbero andate come dovevano andare.*** 
 
@@ -63,7 +63,7 @@ Sposarsi non avrebbe cambiato nulla fra di noi, ma ci avrebbe aiutati a sentirci
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/matrimonio-vandipety-bosco_owuhph.jpg">}}
 
-##### Sogno o.. mi sposo!
+## Sogno o.. mi sposo!
 
 Era **il 22 luglio 2023** quando, mentre inoltravo la mail per la richiesta del rinnovo della carta di identità e fuori diluviava dopo giorni di calura insopportabile, è arrivata una strana risposta che ci convocava nel comune di Torino il 27 luglio per **ufficializzare le pubblicazioni di Matrimonio.** 
 Bene, eravamo oltralpe, avevamo davanti al naso un [pain au chocolat](/blog/pain-au-chocolat-o-chocolatine-la-miglior-colazione) e le lacrime sgorgavano a ritmo della pioggia. Alla stessa velocità abbiamo impostato le dita delle mani. Urgeva chiamare i nostri genitori per dar loro la notizia e trovare qualcuno da delegare in comune, rispondere alla mail e avvisare che avremmo delegato qualcuno, trovare un comune che avesse una data disponibile, stabilire gli invitati e capire dove raggrupparli per vivere un momento unico nel nostro stile.
@@ -87,7 +87,7 @@ Dei tavoli in legno addobbati con fiori di campo e dei piatti cucinati con amore
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/ballo_sposa_wp60in.jpg">}}
 
-##### Vivete una vita in cui potete riconoscervi
+## Vivete una vita in cui potete riconoscervi
 
 Era il 25 agosto quando ci parcheggiavamo nel cortile di casa dei genitori di Paolo, pulivamo a fondo il van che mi avrebbe condotta in comune e che ci avrebbe fatto da casa la prima notte di matrimonio. 
 Ricordo ogni istante con gioia, con un’emozione che mi porterò nel cuore per sempre. 

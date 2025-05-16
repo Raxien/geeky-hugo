@@ -16,7 +16,7 @@ Una delle regole prima di partire per vivere a bordo del nostro van è stata pro
 
 O meglio, per poter gestire con più tranquillità anche eventuali imprevisti. 
 
-#### Il nostro budget mensile 
+## Il nostro budget mensile 
 
 **1000 euro al mese**, comprensivi di tutto, anche delle spese per i nostri animali, cane e gatto, escluso solo assicurazione e bollo. **500 euro a testa.**
 
@@ -25,7 +25,7 @@ Mi sono concessa 10 euro in più per vivere ogni giorno in un angolo diverso del
 
 Abbiamo fatto di meglio, in itinere. Le due voci escluse sono rientrate nel totale.
 
-#### Quindi, quanto abbiamo speso? 
+## Quindi, quanto abbiamo speso? 
 
 Per vivere **un anno a bordo del nostro van**, insieme a cane e gatto, abbiamo speso:
 {{< citazione "10417,41 €">}}
@@ -38,7 +38,7 @@ Tutto ciò che ci ha portati a visitare **2 continenti, 13 paesi, percorrere 300
 
 {{< youtube2 avKZAgEAd0Q>}}
 
-#### Avremmo potuto fare di meglio?
+## Avremmo potuto fare di meglio?
 
 Abbiamo usato **con parsimonia quei soldi risparmiati negli anni**, che hanno acquisito un senso per noi ancora più pieno di valore.
 
@@ -60,7 +60,7 @@ Non siamo andati molte volte al ristorante. Asociali? No, **ci piace cucinare me
 
 Ci sono tanti non che però leggiamo al contrario, rilanciando la questione a nostro favore.
 
-#### Possiamo e vogliamo continuare? 
+## Possiamo e vogliamo continuare? 
 
 A conti fatti siamo **molto contenti della cifra spesa**, che ci permette di sapere perfettamente dove possiamo migliorare (in primis sul carburante, quindi sulla velocità del viaggio) e di continuare a vivere a bordo di casa nostra, sistemando giusto qualche danno qua e là prima di ripartire.
 

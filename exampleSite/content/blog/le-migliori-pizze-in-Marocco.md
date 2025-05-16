@@ -21,7 +21,7 @@ Abbiamo volutamente ordinato la classica margherita e vi lasceremo recensione, f
 
 Siete pronti a scoprire con noi 4 pizze in Marocco davvero deliziose? Noi abbiamo l’acquolina in bocca al solo ricordo.
 
-#### 🍕 Le Rital, Tetouan: 
+## 🍕 Le Rital, Tetouan: 
 
 **Servizio**: ottimo! Tutto lo staff è gentile e cordiale e parla un po' di inglese, francese o spagnolo. 
 
@@ -39,7 +39,7 @@ Che dire, siamo ritornati due sere dopo tanto ci è piaciuta! E ci torneremmo an
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1685394819/IMG_2528_ybbk2y.jpg">}}
 
-#### 🍕 Positano, Fez: 
+## 🍕 Positano, Fez: 
 
 **Servizio**: il cameriere all'accoglienza è molto gentile e parla bene inglese.  
 
@@ -55,7 +55,7 @@ Che dire, siamo ritornati due sere dopo tanto ci è piaciuta! E ci torneremmo an
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1685384689/IMG_2082_hiurs5.jpg">}}
 
-#### 🍕 Snack pizzeria slimane, Ouaouizeght: 
+## 🍕 Snack pizzeria slimane, Ouaouizeght: 
 
 **Servizio**: il cameriere all'accoglienza è molto gentile, il capo del locale parla anche inglese.  
 
@@ -71,7 +71,7 @@ Che dire, siamo ritornati due sere dopo tanto ci è piaciuta! E ci torneremmo an
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1685384776/IMG_1470_mogkpx.jpg">}}
 
-#### 🍕 Portorico, Dakhla:
+## 🍕 Portorico, Dakhla:
 
 **Servizio**: tutto lo staff è molto gentile, parlano anche francese.  
 

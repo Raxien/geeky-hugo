@@ -16,7 +16,7 @@ Noi siamo arrivati in città in camper e abbiamo **{{< bold "sostato">}}** gratu
 Se vuoi sostare solo di giorno puoi spostarti nei parcheggi direttamente affacciati sul canale, se invece vuoi pernottare è consentito solo nelle vie limitrofe. Da questa zona il centro città è facilmente raggiungibile [con traghetti gratuiti](#mezzi-di-trasporto-pubblici) che partono ogni 10 minuti circa (durata tragitto 15 minuti, animali ammessi!).
 In ogni caso, anche se arrivassi in aereo, le mete che ti consigliamo sono sempre le stesse! ✈️
 
-##### 3 tappe imperdibili
+## 3 tappe imperdibili
 Questi luoghi ci sono stati consigliati da Davide, e ci sentiamo di consigliarteli proprio in amicizia, per una visita della città anche un po' più divertente. 
 
 **{{< underline "Quartiere Jordaan">}}**: è secondo noi il quartiere più autentico, con i suoi palazzi affacciati sui canali. Sbircia dietro alle finestre, troverai sempre un particolare degno di attirare la tua attenzione. Presta attenzione di sera, potresti trovarti all'improvviso di fronte a un concerto sull'acqua, evento davvero emozionante. 
@@ -30,7 +30,7 @@ Il quartiere è raggiungibile {{<extLink "https://reisinfo.gvb.nl/en/lijnen/F4/d
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683208301/IMG_1447_qfofcr.jpg">}}
 
-##### Itinerario completo
+## Itinerario completo
 Vuoi leggere ogni attimo della nostra avventura vissuta in città insieme a Olimpia e Sakè? Qui trovi il nostro diario giornaliero.
 
 **{{< underline "Giorno 1">}}**: avendo parcheggiato e dormito nella zona nord della città abbiamo preso uno dei primi traghetti gratuito e una volta scesi ci siamo diretti immediatamente verso il tranquillo quartiere Jordaan. Davanti ai nostri occhi canali, palazzi non troppo alti affacciati da un lato e dall’altro, negozietti vintage, localini interessanti, un piccolo mercato del sabato mattina. Il Jordaan è veramente un quartiere a misura d’uomo, con persone che siedono sui gradini di casa a sorseggiare un tazzone di caffè o leggere un libro. Ci siamo sentiti in parte turisti, in parte spettatori. Raggiunto un parco cittadino, abbiamo pranzato con un paio di panini preparati a bordo per poi tornare al van, date le temperature abbastanza calde, tralasciando il cuore della città che avremmo rivisto nel tardo pomeriggio senza Olimpia e Sakè. Intorno alle 17 abbiamo ripreso il traghetto e abbiamo camminato da nord a sud e da est a ovest, spiluccando le tipiche patatine fritte (must have dello streetfood del posto) per poi ritrovarci vicino al mercato dei tulipani, nel quartiere a luci rosse e infine di nuovo al Jordaan, in mezzo a una platea di gente intenta ad ascoltare un concerto di musica classica sul canale. Spettacolo meraviglioso trovato per caso e per fortuna. Richiamati dai morsi della fame ci siamo spostati verso la stazione, dove abbiamo mangiato una pizza da asporto seduti con gambe a penzoloni sul canale, per poi rientrare al quartiere nord.
@@ -40,20 +40,20 @@ Vuoi leggere ogni attimo della nostra avventura vissuta in città insieme a Olim
 Se vuoi sapere di più sulle nostre avventure in tutto il paese trovi l'articolo dedicato [qui](/blog/viaggio-paesi-bassi-in-camper-itinerari/).
 
 
-##### Mezzi di trasporto pubblici 
+## Mezzi di trasporto pubblici 
 Noi abbiamo girato per tutto il centro città a piedi, ma se dovessi aver bisogno i mezzi di trasporto funzionano benissimo (vedi il traghetto che noi abbiamo preso 8 volte gratuitamente dal nostro parcheggio).
 E ricorda, in città devi prestare più attenzione alle biciclette che a qualsiasi altro mezzo, sbucano da ogni angolo!
 
-##### Le nostre considerazioni
+## Le nostre considerazioni
 Dobbiamo essere sinceri, Amsterdam è stata forse una delle mete che ci è piaciuta meno di tutti i Paesi Bassi. Forse avessimo visto solo la città ci sarebbe piaciuta parecchio, ma avendo scoperto anche i piccoli villaggi ne siamo rimasti colpiti maggiormente. Merita in ogni caso una visita, e se dovesse capitarti di raggiungerla in primavera ti consigliamo una visita al parco Keukenhof per ammirare le distese di tulipani in fiore. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683208306/IMG_1446_krr9fi.jpg">}}
 
-##### Viaggiare con il proprio animale
+## Viaggiare con il proprio animale
 In città ci sono numerose fontane, ma se la visiti in estate con il tuo amico a quattro zampe, ti consigliamo di portare con te una ciotola (noi usiamo questa che attacchiamo allo zaino con il pratico moschettone) e una borraccia. 
 Ti consigliamo di tenere il tuo animale al guinzaglio per evitare problemi, soprattutto con le numerose biciclette che sfrecciano a destra e sinistra. 
 
-##### Il nostro Vlog 
+## Il nostro Vlog 
 Nel video qui sotto puoi camminare per le vie di Amsterdam insieme a noi oppure trovi la serie completa sul paese {{<extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ9CusTey8eX6KaVHeVOKXGL">}}.
 
 {{< youtube2 dDNv8ZuuvEU>}}

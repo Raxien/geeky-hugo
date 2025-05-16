@@ -12,7 +12,7 @@ draft: false
 L'Alentejo solitamente non è una delle mete di prima scelta quando si pensa al Portogallo. Eppure questa zona è costellata di piccoli paesini e ricca di natura, ideale per chi cerca un po' più di pace rispetto alla più turistica regione dell'Algarve. In questo articolo ti elenchiamo le mete che abbiamo raggiunto seguendo solamente la costa atlantica a bordo del nostro van.
 Se invece hai intenzione di visitare Porto o Lisbona o l'Algarve ti rimandiamo [all'articolo generale](/blog/viaggio-portogallo-in-camper-itinerari/).
 
-##### Itinerario
+## Itinerario
 - **{{< underline "Giorno 1 - Alcacer do sal">}}**: 
   
 Alcácer do Sal si trova su una dolce collina affacciata sulla sponda destra del fiume Sado e le sue viuzze a tratti malinconiche salgono fino al castello. Se la trovi libera, dondolati sulla gigantesca altalena che ti permette di volare in un panorama aperto a 360°.
@@ -41,17 +41,17 @@ Vila Nova de Milfontes ha un vivace centro storico e splendide spiagge nelle vic
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683730690/IMG_0658_kxmcto.jpg">}}
 
 
-##### Curiosità
+## Curiosità
 In queste zone ti consigliamo di viaggiare senza mete e senza fretta. Noi abbiamo seguito la costa parcheggiando in punti dove il tramonto ci ha regalato immagini degne di un quadro. 
 
-##### Il nostro Vlog 
+## Il nostro Vlog 
 
 Puoi trovare la serie completa delle nostre avventure in Portogallo {{<extLink "a questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ9fxLqD_0GFKVZBwnHQiM4I">}}.
 
 
 <!-- <div id="Mappe"></div> -->
 
-<!-- ##### Le nostre mappe -->
+<!-- ## Le nostre mappe -->
 <!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F">}} -->
 
  

@@ -11,7 +11,7 @@ draft: false
 
 In questo articolo ti porteremo con noi alla scoperta della Polonia, terra che ci ha conquistati dal primo giorno. L'abbiamo visitata a bordo del nostro van e ci siamo concentrati sulla parte est del paese, scoprendola da sud a nord, nel luglio del 2022. Potrai seguire questo itinerario anche in auto oppure sfruttarne una parte se deciderai di viaggiare in aereo: in tal caso trovi le informazioni dettagliate in merito al paese e un itinerario breve nell'articolo dedicato che trovi [qui](/blog/viaggio-polonia-informazioni-e-itinerari/).
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Itinerario](#itinerario)
 >   - [In breve](#in-breve)
 > - [Strade](#strade)
@@ -20,7 +20,7 @@ In questo articolo ti porteremo con noi alla scoperta della Polonia, terra che c
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 > 
-##### Itinerario
+## Itinerario
 In questa sezione troverai un diario giornaliero con tutte le tappe della nostra avventura.
 Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni in merito al paese e soprattutto le tappe imperdibili puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
 
@@ -89,7 +89,7 @@ Al momento della nostra visita il centro storico di Poznan era in ristrutturazio
 
 **{{< underline "Giorno 28-29">}}**: abbiamo visitato Stettino, ammirando tutta la città seguendo la linea rossa sull'asfalto che segnala tutti i maggiori luoghi di interesse. Sosta in libera vicino al porto, al di là del Danubio. L'indomani abbiamo abbandonato questo ({{<extLink "meraviglioso paese" "https://youtu.be/F33QgFoQgTE">}})!
 
-###### In Breve
+### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera. 
 
 **{{< underline "Giorno 1">}}**: Zakopane 
@@ -130,12 +130,12 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682607500/Articoli/Polonia/danzica_case_bbp71v.jpg">}}
 
-##### Strade 
+## Strade 
 La Polonia ha una vasta rete stradale, che comprende autostrade, strade nazionali e locali in stato a dir poco **"perfetto"**. Noi abbiamo percorso sempre le strade nazionali e locali senza problemi, anche nelle zone più di campagna.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682607673/Articoli/Polonia/polona_strade_kruucp.jpg">}}
 
-##### Servizi e soste
+## Servizi e soste
 A differenza di altri paesi europei non è facilissimo trovare aree sosta attrezzate, in particolar modo è difficile trovare il carico dell'acqua. Si trovano invece molte fontanelle pubbliche per caricare borracce e bottiglie. 
 In alternativa si può richiedere nei campeggi di effettuare solo i servizi a pagamento.
 
@@ -143,7 +143,7 @@ Il campeggio libero in Polonia non è consentito, ma è permessa la sosta in aut
 
 {{< leggi-anche >}}}
 
-##### Considerazioni e tappe imperdibili
+## Considerazioni e tappe imperdibili
 Sin dal primo momento abbiamo apprezzato la Polonia, motivo per cui ci sentiamo veramente di consigliarti di prendere in considerazione questo paese per le tue vacanze, in camper, auto o sfruttando le strutture e i mezzi pubblici. 
 
 Le mete secondo noi imperdibili, per quanto riguarda la parte ovest del paese, sono: 
@@ -158,12 +158,12 @@ Le mete secondo noi imperdibili, per quanto riguarda la parte ovest del paese, s
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682607673/Articoli/Polonia/monti_tatra_vista_rjhahp.jpg">}}
 
-##### Il nostro Vlog
+## Il nostro Vlog
 Nel video qui sotto puoi rivedere il nostro ingresso in Polonia oppure trovi la serie completa {{<extLink "a questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV">}}.
 
 {{< youtube2 d5blVGXVJ08>}}
 
-##### Le nostre mappe
+## Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=14RYfqDoFR3i5zzqunEXiLMo-wXOZGrU&ehbc=2E312F">}}
 
  

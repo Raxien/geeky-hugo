@@ -14,7 +14,7 @@ Abbiamo visitato il Portogallo in camper con cane e gatto a dicembre 2022, in un
 Abbiamo deciso di suddividere gli itinerari in 4 regioni: il nord e Porto, il centro e Lisbona, la costa dell'Alentejo e il sud con l'Algarve. In questo articolo ti proponiamo le tappe e i consigli utili per visitare il paese anche in compagnia del tuo animale domestico, rimandandoti agli articoli specifici per i dettagli di ogni città o luogo da visitare.
 **Vamos!**
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Itinerari](#itinerari)
 >    - [Il nord e Porto](#il-nord-e-porto)
 >    - [Da Aveiro a Lisbona](#da-aveiro-a-lisbona)
@@ -27,10 +27,10 @@ Abbiamo deciso di suddividere gli itinerari in 4 regioni: il nord e Porto, il ce
 > - [Il nostro vlog](#Vlog)
      <!-- - [Le nostre mappe](#Mappe) -->
 
-##### Itinerari
+## Itinerari
 Le tappe che ti elenchiamo sono state tutte raggiunte a bordo del nostro piccolo van, ma puoi effettuarle anche a bordo di una moto, un'automobile o con un mezzo più grande. 
 
-###### Il Nord e Porto
+### Il Nord e Porto
 Alla scoperta di Porto e di altre tre cittadine del Portogallo del Nord:
 
 - Valenca
@@ -42,7 +42,7 @@ Trovi [l'itinerario completo qui](/blog/viaggio-portogallo-del-nord-e-porto-info
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683816072/IMG_2056_wv38d1.jpg">}}
 
-###### Da Aveiro a Lisbona
+### Da Aveiro a Lisbona
 Città con case dalle pareti colorate e onde dell'oceano indimenticabili. Alla scoperta di Lisbona e di tante altre piccole realtà del centro del Portogallo:
 
 - Aveiro 
@@ -62,7 +62,7 @@ Trovi [l'itinerario completo qui](/blog/viaggio-portogallo-centro-e-lisbona-itin
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683816075/IMG_2026_ir5z9v.jpg">}}
 
-###### L'alentejo
+### L'alentejo
 
 - Alcacer do sal 
 - Sines 
@@ -73,7 +73,7 @@ Trovi [l'itinerario completo qui](/blog/viaggio-portogallo-centro-e-lisbona-itin
 
 Trovi [l'itinerario completo qui](/blog/viaggio-portogallo-e-alentejo-itinerari/).
 
-###### L'Algarve
+### L'Algarve
 Una delle mete più rinomate del turismo portoghese: spiagge stupende, scogliere fantastiche, surf!
 
 - Sagres 
@@ -89,7 +89,7 @@ Trovi [l'itinerario completo qui](/blog/viaggio-portogallo-algarve-itinerari/).
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683816124/IMG_3301_o9zgqv.jpg">}}
 
-##### Strade 
+## Strade 
 In Portogallo trovi autostrade (AE), le superstrade, suddivise in ‘Itinerários Principais’ (IP) e ‘Itinerários Complementares’ (IC), le strade nazionali (EN) e le strade comunali.
 
 Per circolare nelle autostrade si paga il pedaggio che può essere riscosso al casello, qualora sia presente, oppure soltanto in modo elettronico.
@@ -99,7 +99,7 @@ Il sistema Via Verde è disponibile anche per i veicoli con targa straniera graz
 
 Noi abbiamo percorso solo strade comunali e nazionali, anche se in alcune tratte il loro stato non era ben mantenuto. 
 
-##### Servizi e soste
+## Servizi e soste
 A differenza di altri paesi europei non è facilissimo trovare aree sosta attrezzate (soprattutto nel sud), in particolar modo è difficile trovare il carico dell'acqua. Si trovano invece molte fontanelle pubbliche per caricare borracce e bottiglie. 
 In alternativa si può richiedere nei campeggi di effettuare solo i servizi a pagamento.
 
@@ -107,10 +107,10 @@ Dal 2021 la sosta libera è severamente vietata. Durante l'autunno e l'inverno v
 
 {{< leggi-anche >}}
 
-##### Viaggiare con il proprio animale
+## Viaggiare con il proprio animale
 {{< animali "EU">}}
 
-##### Considerazioni e tappe imperdibili
+## Considerazioni e tappe imperdibili
 In camper o auto, le mete imperdibili secondo noi sono :
 -   **{{< bold "Viana do Castelo">}}**: è davvero una cittadina deliziosa. Con il maltempo perde parte del suo fascino ma se ti è possibile passeggia per le sue stradine senza fretta. 
 -   **{{< bold "Porto">}}**: noi abbiamo visto Porto con tantissimi cantieri in corso. Incarna decisamente lo spirito di saudade portoghese. 
@@ -122,13 +122,13 @@ In camper o auto, le mete imperdibili secondo noi sono :
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683816045/IMG_1739_fzeeir.jpg">}}
 
-##### Il nostro Vlog 
+## Il nostro Vlog 
 Puoi trovare la serie completa delle nostre avventure in Portogallo {{<extLink "a questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ9fxLqD_0GFKVZBwnHQiM4I">}}.
 
 
 <!-- <div id="Mappe"></div> -->
 
-<!-- ##### Le nostre mappe -->
+<!-- ## Le nostre mappe -->
 <!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F">}} -->
 
  

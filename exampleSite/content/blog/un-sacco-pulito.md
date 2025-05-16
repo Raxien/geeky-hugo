@@ -11,11 +11,11 @@ draft: false
 Oggi vi vogliamo parlare di un progetto a cui teniamo molto e di cui siamo entrati a far parte. Un progetto che ci permetterà di tenere il mondo **"Un Sacco Pulito".**
 <!-- In questo articolo, vi parlerò brevemente dell’iniziativa "Un Sacco Pulito", degli obiettivi del progetto, di come supportare l’iniziativa se siete un’azienda o di come unirvi alla crescente community di viaggiatori responsabili se siete dei semplici cittadini che hanno a cuore la nostra casa comune chiamata Pianeta Terra 🙂 -->
 
-##### Un mondo migliore
+## Un mondo migliore
 
 **"Un Sacco Pulito"** è una società benefit con una missione improntata alla tutela dell'ambiente. L'obiettivo è quello di ripulire le aree naturali, **riducendo l'impatto dell'inquinamento e sensibilizzando la società sull'importanza della conservazione della natura**. Questa missione andrebbe oltre la semplice pulizia, includendo programmi di educazione ambientale, sensibilizzazione e attività di riciclaggio.campagna di sensibilizzazione sul tema rifiuti promossa da un **variegato gruppo di content creators** (o "youtubers" come li chiamarebbe la stampa) ed aziende che credono nel potere "sociale" dei social, non solo come mezzo per condividere foto di cani, gatti e colazioni, ma anche come piattaforme d’aggregazione per promuovere comportamenti civili virtuosi.
 
-##### Ci si sente soli e impotenti
+## Ci si sente soli e impotenti
 
 Noi vivendo in camper e spostandoci di posto in posto quasi ogni giorno, lo vediamo in prima persona ogni volta che parcheggiamo. A volte più, a volte meno, **ma il problema dei rifiuti ancora è presente** in quasi tutte le regioni d’Italia e all’estero non si può dire che il mondo in generale sia messo meglio!
 
@@ -31,13 +31,13 @@ A volte fare "il nostro piccolo" sembra davvero "troppo piccolo"!
 
 Gocce sole nell’oceano.
 
-##### Non siamo soli
+## Non siamo soli
 
 L’iniziativa di "Un Sacco Pulito", mira proprio a sconfiggere questo determinismo e questa sensazione di impotenza sfruttando il potere dei social in maniera sana, per mettere insieme le tante gocce che si sentono sole e creare una marea di cambiamento attivo.
 
 Ora vi spiego in che cosa consiste, e perché anche noi abbiamo deciso di prenderne parte!
 
-###### Nato dagli Appassionati di Viaggi
+### Nato dagli Appassionati di Viaggi
 
 Il progetto di **"Un Sacco Pulito"** è nato nella primavera del 2023 da un’idea lanciata da {{<extLink "Armando del Canale Youtube di Vivere in Camper: Macchitelofaffa?" "https://www.youtube.com/@VivereInCamperMacchitelofaffa">}}.
 
@@ -46,7 +46,7 @@ L’idea assurda e geniale, era quella di raggruppare **quanti più canali youtu
 <!-- fix -->
 Partirà inizialmente da alcuni "ambasadors" che hanno preso parte al progetto fino ad oggi, per fare alcuni esempi troviamo "BreatheFreedom", "SenzaCap", "StoryHuntersTV", "TheNirvan", "ComeDueVagabondi", "Tickets for Life", "Farovers" e, ovviamente noi! Viaggiatori che si sono presi l'impegno regolare di ripulire i luoghi che visitano!
 
-###### Un obiettivo semplice
+### Un obiettivo semplice
 
 Ispirare quante più persone possibile ad attivarsi a prendere in mano un sacchetto e pulire il posto in cui si trovano. "Normalizzare" la pulizia e far capire a quante più persone possibili che non dobbiamo tenere pulita solo casa nostra ma ovunque, che un piccolo gesto si che può fare la differenza! Ovviamente non si parla di pulire interi quartieri o città, ma semplicemente la piazzola dove si parcheggia, la stradina di fronte a casa o l’area pic-nic dove si sosta. **Un semplice sacchetto a testa ogni tanto, moltiplicato per quanti siamo, può davvero fare la differenza!**
 
@@ -177,7 +177,7 @@ Ci vediamo nel prossimo articolo! 🙂
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1694595899/Articoli/Blog/matrimonio.jpg">}}
 
 
-#### 41 giorni dopo: tutto uguale, tutto diverso 
+# 41 giorni dopo: tutto uguale, tutto diverso 
 
 _Un van messo a nuovo_
 
@@ -191,7 +191,7 @@ Anche di questo vi racconteremo tutto, con una serie di video che speriamo vi in
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1694595873/Articoli/Blog/lavori_al_van.jpg">}}
 
 
-#### 41 giorni dopo: tutto uguale, tutto diverso 
+# 41 giorni dopo: tutto uguale, tutto diverso 
 
 _Si riparte, ma per dove?_
 

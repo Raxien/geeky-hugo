@@ -12,13 +12,13 @@ draft: false
 Oggi ti portiamo con noi in Sicilia, in quello che è stato il secondo viaggio a bordo del nostro camper ([il primo lungo viaggio invece lo trovi qui](/blog/)).
 Abbiamo letteralmente amato questa regione italiana sia per i luoghi fantastici sia per le delizie culinarie: sono stati 14 giorni nel sud-est della Sicilia vissuti fra cannoli e spiagge paradisiache! Mettiti comodo e buona lettura!
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Itinerario](#itinerario)
 >   - [In breve](#in-breve)
 > - [Viva i dolci siciliani!](#viva-i-dolci-siciliani)
 > - [Le nostre mappe](#le-nostre-mappe)
 
-##### Itinerario
+## Itinerario
 
 **{{< underline "Giorno 1">}}**: siamo arrivati a **Messina** prendendo il traghetto da **{{<extLink "Villa San Giovanni" "https://carontetourist.it/it/caronte/traghetti-messina-villa-san-giovanni">}}** in tarda serata. Abbiamo visitato brevemente la città per poi dirigerci verso il {{<extLink "campeggio Tiscella" "https://linktr.ee/TriscellAreaCamping">}} a Sant'Alessio Siculo, un'area sosta aperta tutto l'anno a 40 minuti da Messina, dove siamo statai accolti calorosamente oltre a ricevere in omaggio un sacchetto di limoni freschi (grazie Capitano!).
 
@@ -69,7 +69,7 @@ In serata ci siamo spostati verso **Agnone bagni** per sostare in uno spot vista
 
 {{< carousel images="Articoli/Sicilia/catania_rozbo6,Articoli/Sicilia/ragusa-ibla_wt30zc,Articoli/Sicilia/sicilia-barca_qb32bd,Articoli/Sicilia/sicilia-caletta_kugzko,Articoli/Sicilia/sicilia-spiaggia_x4pj4a,Articoli/Sicilia/valle-dei-templi_z6rvux,Articoli/Sicilia/valle-dei-templi-tempio-blackandwhite_xrx6va" >}}        
 
-###### In Breve
+### In Breve
 
 **{{< underline "Giorno 1">}}**: Messina
 
@@ -99,25 +99,25 @@ In serata ci siamo spostati verso **Agnone bagni** per sostare in uno spot vista
 
 {{< youtube2 pwsXaymLF0k>}}
 
-##### Viva i dolci siciliani!
+## Viva i dolci siciliani!
 Quando si parla di Sicilia non si può non parlare **della sua cucina!**. Da buoni golosoni la nostra attenzione si è focalizzata di più sui dolci ed eccoti quindi 4 consigli che ci fanno ancora venire l'acquolina in bocca pensando alla Sicilia, oltre a un posticino dove gustare pesce cucinato a regola d'arte. 
 
-###### 1 Granita siciliana 
+### 1 Granita siciliana 
 Al {{<extLink "bar Kennedy" "https://goo.gl/maps/oupP99bMWv5g5YzBA">}} ad **Acireale** abbiamo assaggiato una delle granite siciliane più buone!
 
-###### 2 Brioche pistacchio
+### 2 Brioche pistacchio
 Se passi da **Siracusa** devi assolutamente provare la brioche al pistacchio della {{<extLink "Pasticceria Artale" "http://www.pasticceriaartale.it/">}} per una colazione bella carica! 
 
-###### 3 Il cannolo caldo di Cannolia
+### 3 Il cannolo caldo di Cannolia
 Se passi da **Sicli** devi assolutamente provare il **{{<extLink "cannolo caldo numero 1 della Sicilia" "http://www.cannolia.it/">}}**: delizioso! 
 
-###### 4 Il miglior cannolo della Sicilia
+### 4 Il miglior cannolo della Sicilia
 Nel 2023 ha vinto il premio per il miglior cannolo siciliano e se lo merita tutto! Il cannolo del {{<extLink "Caffè Sicilia" "http://www.caffesicilia.it/">}} a Noto è veramente meritevole!
 
-###### 5 Lo street food di Catania
+### 5 Lo street food di Catania
 Proprio a due passi dal mercato cittadino è possibile gustare dell'ottimo street food, cucinato dalla brigata dello {{<extLink "Scirocco" "http://sciroccolab.com/">}}! Noi abbiamo ordinato un fritto di pesce: veramente delizioso, tanto da tornare indietro per fare il bis. 
 
 {{< carousel images="Articoli/Sicilia/cannolo-con-pistacchio_ebpi8f,Articoli/Sicilia/cannolo-di-cannolia_sqlfnb,Articoli/Sicilia/cannolo-siciliano_svlfuv,Articoli/Sicilia/tuppo-siracusa_yhquuq" >}}
 
-##### Le nostre mappe
+## Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ipZq4GlS3cmXzPHI37WSbMO2POBhJUY&ehbc=2E312F">}}

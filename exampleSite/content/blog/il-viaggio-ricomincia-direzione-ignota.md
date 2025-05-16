@@ -10,8 +10,7 @@ draft: false
 
 È passato poco più di un mese da quando abbiamo annunciato che ci saremmo presi **una pausa su YouTube**, per poi fare lo stesso anche sugli altri social e qui sul sito. Abbiamo [raccontato qui](/blog/e-tempo-di-una-pausa-da-youtube) il motivo di questo stop forzato e ora è tempo di spiegare cosa intendevamo con la frase "ci attende un periodo di fuoco".
 
-##### Ci siamo spostati e.. ci siamo sposati!
-
+## Ci siamo spostati e.. ci siamo sposati!
 Abbiamo tentato di rimanere del tutto lontano dai riflettori, per riuscire a dedicarci totalmente a noi e alle nostre famiglie, poi ci siamo guardati negli occhi e ci siamo detti "questo attimo di gioia lo condividiamo": **il 26 Agosto 2023 abbiamo detto sì lo voglio!**
 
 In un mese abbiamo organizzato il matrimonio più folle che potessimo immaginare. 
@@ -24,8 +23,7 @@ Abbiamo condiviso qualche foto sul nostro profilo {{<extLink "Instagram" "https:
 
 {{< carousel images="Articoli/Blog/matrimonio-vandipety-abbraccio_dhgzil,Articoli/Blog/matrimonio-vandipety-van_hcztmw.jpg,Articoli/Blog/matrimonio-vandipety-van-sposa_q9mapl.jpg,Articoli/Blog/matrimonio-vandipety-bosco_owuhph,Articoli/Blog/matrimonio-vandipety-van-animali.jpg" >}}
 
-##### Un van messo a nuovo
-
+## Un van messo a nuovo
 La community l'ha soprannominato **"Scricchiolo"** ma il nostro van ora non scricchiola più, o almeno, molto meno 😂 
 
 Uno dei motivi per cui ci siamo fermati è stato proprio questo: **risistemare la nostra casa a quattro ruote.**
@@ -35,8 +33,7 @@ Anche di questo vi racconteremo tutto, con una serie di video che speriamo vi in
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1694595873/Articoli/Blog/lavori_al_van.jpg" title="Abbiamo smontato mezzo van ma siamo riusciti a rimontarlo meglio di prima!" >}}
 
-##### Si riparte, ma per dove?
-
+## Si riparte, ma per dove?
 Lo sapete, siamo due folli sognatori. 
 Tempo fa, in un pomeriggio di metà marzo del 2021, entravamo in una libreria di Torino e ne uscivamo con 4 cartine stradali. Non siamo mai riusciti a raggiungere quei luoghi, per motivi che non dipendono da noi. 
 

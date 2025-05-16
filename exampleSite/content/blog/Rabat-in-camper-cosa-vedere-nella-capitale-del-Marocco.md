@@ -17,36 +17,36 @@ Prima di scoprire cosa vedere sappi che al fondo troverai anche l’indicazione 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690129841/Articoli/rabat/rabat_vicolo_dxi8xd.jpg">}}
 
-#### Cosa vedere a Rabat 
+## Cosa vedere a Rabat 
 
-##### Kasba degli Oudaia
+### Kasba degli Oudaia
 La nostra passeggiata per le vie di Rabat ha avuto inizio dalla Kasba degli Oudaia, un antico quartiere fortificato, caratterizzato dalla presenza di case con le facciate in calce bianca e blu, che regala scorci meravigliosi.
 
-##### Medina
+### Medina
 Attraversato il viale che la divide dalla Kasba, abbiamo raggiunto la Medina di Rabat , che permette di passeggiare tra antichi edifici e perdersi letteralmente nel souk cittadino: partendo da Rue Souiqa e Rue es-Sebat si trovano il quartiere dei pellettieri, dei commercianti di tessuto e numerosi bazaar.fino ad arrivare nella zona dei ferrai e dei tessitori. La zona più famosa della Medina è Rue des Consuls dove il giovedì mattina si svolge l’asta dei Tappeti.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690129340/Articoli/rabat/rabat_medina_ye8prd.jpg">}}
 
-##### Torre di Hassan
+### Torre di Hassan
 Simbolo della città, faceva parte di una grande moschea distrutta dal terremoto del 1755, i cui ruderi di 360 colonne sono ancora visibili nella piazza. Se ami le vedute dall’alto ti consigliamo si salire fino in cima alla torre.
 
-##### Mausoleo di Mohammed V
+### Mausoleo di Mohammed V
 Un vero capolavoro di arte e architettura marocchina, ospita le spoglie di alcuni re del paese. 
 
-##### Cimitero Mussulmano
+### Cimitero Mussulmano
 Il cimitero di Rabat si trova su una collina affacciata verso la spiaggia e il faro cittadini. Tutte le lapidi sono direzionate verso la Mecca, tranne quelle di coloro che sono morti lontano da Rabat. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690129339/Articoli/rabat/rabat_nennaa.jpg">}}
 
-##### Palazzo Reale
+### Palazzo Reale
 È la residenza ufficiale del re del Marocco e della sua famiglia e non è possibile visitarlo all’interno. 
 In moltissime altre città i reali hanno a disposizione una residenza privata.
 
-##### Museo Archeologico
+### Museo Archeologico
 Se sei un amante dei musei e dei reperti storici allora dovresti prendere in considerazione il Museo Archeologico, uno dei musei più grandi ed importanti di tutto il Marocco, che vanta la presenza di alcuni mosaici ritrovati a Volubilis. 
 
 
-#### Cosa visitare nei dintorni
+## Cosa visitare nei dintorni
 
 Salè è la città gemella di Rabat, separata dalla capitale dal corso del fiume. Un tempo teatro di pirateria, permette di passeggiare in un luogo che regala ancora scorci di autenticità. Ben diversa dalla città moderna, con un souk più raccolto, nessuna infrastruttura ma strade cittadine sterrate, merita secondo noi una visita per capire un po’ di più il vero ritmo di vita marocchino. 
 

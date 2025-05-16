@@ -38,14 +38,14 @@ I nostri cervelli hanno iniziato a mettere in moto idee a più non posso. Era un
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_auto,q_auto,w_800,dpr_auto/v1689180926/Articoli/quando%20tornate/IMG_8600_utjbt5.jpg">}}
 
 
-##### Tutto bello, ma quando tornate? 
+## Tutto bello, ma quando tornate? 
 
 Siamo appena partiti, poteva essere la risposta nei primi 3 mesi.  
 Stiamo appena capendoci qualcosa, la risposta a 6 mesi.  
 Siamo in un altro continente, è la nostra occasione per scoprirlo. Risposta a 9 mesi.  
 Su questa **"avventura" ci stiamo costruendo due lavori**, o forse più. Risposta ad 1 anno.  
 
-##### Ma tornate? Quando? 
+## Ma tornate? Quando? 
 
 È difficile a volte rispondere.  
 
@@ -61,7 +61,7 @@ Una settimana fa siamo arrivati in Francia in un borgo di 30 abitanti. Siamo sta
 Un anno fa accadeva la stessa cosa nei Paesi Bassi, quando ci siamo ritrovati per caso a costruire gondole in fiore, seduti vicino a un gruppo di persone che brindavano a noi e che ci rincorrevano in paese per salutare quegli “italiani pazzerelli con cane e gatto” (a proposito, {{<extLink "eccoti qui quegli attimi" "https://youtu.be/-TqHygqTneo">}}!). 
 Sono solo due delle tante altre situazioni, che definiremmo più **{{< underline "occasioni fortunate">}}**, che ci sono successe un po’ ovunque sia in Europa che in Africa, in un mondo che chiamiamo Casa, con persone che chiamiamo Famiglia.
 
-##### Non possiamo tornare. 
+## Non possiamo tornare. 
 
 Non ci riusciamo. Abbiamo investito molto, stiamo raccogliendo i primi frutti. 
 Sentiamo di esser parte di un disegno più grande, di avere ancora troppi colori e sfumature da scoprire.  

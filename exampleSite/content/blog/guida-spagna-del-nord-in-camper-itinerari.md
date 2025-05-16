@@ -12,7 +12,7 @@ draft: false
 Spagna del Nord in 15 giorni affacciati sulla costa? Per noi è stato un viaggio bellissimo, attraversando 4 regioni (Paesi Baschi, Cantabria, Asturie e Galizia), panorami mozzafiato e alcune mete davvero imperdibili! Arrivavamo direttamente dalla [Francia](/blog/viaggio-francia-nuova-aquitania-in-camper-itinerari/) e nonostante un primo impatto con le persone non troppo accoglienti come in altre zone spagnole, abbiamo trovato un clima abbastanza favorevole nonostante fosse novembre e luoghi che ci sono rimasti nel cuore. 
 Ti va di leggere cosa abbiamo da consigliare? Promettiamo mete meravigliose! 
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Itinerario](#itinerario)
 > - [In breve](#in-breve)
 > - [Strade](#strade)
@@ -22,7 +22,7 @@ Ti va di leggere cosa abbiamo da consigliare? Promettiamo mete meravigliose!
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
-##### Itinerario
+## Itinerario
 Di seguito troverai il nostro diario giornaliero, ma se vuoi leggere l'itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
 
 **{{< underline "Giorno 1">}}**: La nostra prima meta spagnola dopo aver lasciato la Francia e aver fatto spesa al Mercadona è stata Pasaia. Qui abbiamo passeggiato per le vie del borgo, in un'atmosfera un po' più cupa rispetto ai paesini francesi, raggiungendo la casa di Victor Hugo, il piccolo porto e un promontorio dal quale si può ammirare la costa. Tornando al van non abbiamo resistito a una fetta di tipica torta al formaggio e, soddisfatta anche la voglia di dolce, dopo pranzo ci siamo spostati a San Sebastian. Passeggiando lungo la costa siamo arrivati al Mirador, palazzo imperiale con splendida vista sulla baia, e poi nelle vie del centro, per ammirare la parte veja, piazza della Constitution e assaggiare le prime tapas al bar sport. Abbiamo scoperto una città davvero viva, animata da numerosi artisti di strada. Per la notte ci siamo spostati nella vicina Orio. 
@@ -60,7 +60,7 @@ Vuoi vedere le nostre avventure fino a qui? Trovi tutto in questo video!
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683223845/IMG_0183_gwedzw.jpg">}}
 
-##### In Breve
+## In Breve
 Di seguito le sole tappe della nostra avventura. Abbiamo sempre dormito in libera o in aree sosta gratuite. 
 
 **{{< underline "Giorno 1">}}**: Pasaia - San Sebastian - Orio
@@ -91,10 +91,10 @@ Di seguito le sole tappe della nostra avventura. Abbiamo sempre dormito in liber
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683223945/IMG_9784_useo2h.jpg">}}
 
-##### Strade 
+## Strade 
 In tutte e quattro le regioni che abbiamo attraversato in Spagna del Nord abbiamo trovato le strade in condizioni perfette. L'autostrada è a pagamento, mentre è gratuita l'autopista.
 
-##### Servizi e soste
+## Servizi e soste
 In Spagna del Nord è semplice trovare aree di servizio attrezzate e gratuite per carico e scarico.
 Per le soste in libera noi non abbiamo avuto problemi dato che ci siamo recati in un periodo di bassa stagione. 
 Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio, soprattutto nelle zone affacciate sulla costa. 
@@ -103,10 +103,10 @@ Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio, sopr
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683223905/IMG_8866_dea0c1.jpg">}}
 
-##### Viaggiare con il proprio animale
+## Viaggiare con il proprio animale
 {{< animali>}}
 
-##### Considerazioni e tappe imperdibili
+## Considerazioni e tappe imperdibili
 **Non conoscevamo il nord della Spagna** e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
 
 In camper o auto, le mete imperdibili secondo noi sono :
@@ -120,11 +120,11 @@ In camper o auto, le mete imperdibili secondo noi sono :
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683223926/IMG_9550_uxwttl.jpg">}}
 
-##### Il nostro Vlog 
+## Il nostro Vlog 
 
 Nel video qui sotto puoi scoprire insieme a noi alcuni dei luoghi che ci sono rimasti nel cuore.
 
 {{< youtube2 CkCwT4rboXI>}} 
 
-##### Le nostre mappe
+## Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=11GfW4gwkFqTBJcnrv5FV-ak3qVS4jws&ehbc=2E312F">}}

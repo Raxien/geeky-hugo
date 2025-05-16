@@ -15,7 +15,7 @@ Sicuramente sulla nostra decisione hanno molto influito i racconti più che posi
 
 A fine gennaio 2023 abbiamo quindi comprato i biglietti per il traghetto da Algeciras a Tanger Med e ci siamo imbarcati insieme a Olimpia e Sakè, i nostri cane e gatto ([qui per i documenti necessari](/blog/informazioni-camper-marocco-con-animali)) e siamo partiti all'avventura!
  
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Premessa](#premessa)
 > - [Itinerario](#itinerario)
 >   - [In breve](#in-breve)
@@ -26,11 +26,11 @@ A fine gennaio 2023 abbiamo quindi comprato i biglietti per il traghetto da Alge
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe)
 
-##### Premessa
+## Premessa
 
 Siamo rimasti 4 mesi in Africa, di cui 3 in Marocco, usando tutti i giorni disponibili dal visto per fare un Gran Tour del paese e lo abbiamo visistato in lungo e in largo questo paese godendo anche di qualche [sosta lunga in posti magnifici](/blog/5-spot-in-marocco). Visto l'enorme tempo speso nel paese abbiamo deciso di mettere nero su bianco i nostro itinerario creando tre articoli: in questo primo articolo troverete tutte le tappe che abbiamo effettuato lungo la costa atlantica (interrotto poi per proseguire in [Mauritania](/blog/viaggio-mauritania-on-the-road-le-dogane) e [Senegal](/blog/guida-senegal-in-camper-itinerari)), nel secondo l'itinerario relativo all'[entroterra](/blog/marocco-in-camper-dalla-costa-al-deserto-a-marrakech) e nell'ultimo quello lungo la [costa mediterranea](/blog/marocco-in-camper-alla-scoperta-della-costa-mediterranea) per poi tornare in Europa. 
 
-##### Itinerario
+## Itinerario
 
 In questa sezione vi elencheremo tutte le tappe della nostra avventura, portandovi con noi da nord a sud del Marocco, rimanendo sempre lungo la costa atlantica: da **Tangeri** arriveremo insieme ad **Agadir**. Da qui puoi girare verso [l'entroterra e leggere l'articolo dedicato](/blog/marocco-in-camper-dalla-costa-al-deserto-a-marrakech) o continuare fino giù, attraverso **il territorio conteso del Sahara occidentale** (che detto così fa paura ma nella realtà è sicurissimo!) fino a **Dakhla** e al confine con la **Mauritania**! 
 
@@ -124,7 +124,7 @@ Questa però è un'altra storia che puoi [seguire qui](/blog/guida-senegal-in-ca
 Se invece vuoi leggere come continua la nostra avventura in Marocco puoi farlo cliccando [qui](/blog/marocco-in-camper-dalla-costa-al-deserto-a-marrakech)!
 
 
-###### In breve
+### In breve
 
 **{{< underline "Giorno 1">}}**: Assilah
 
@@ -166,7 +166,7 @@ Se invece vuoi leggere come continua la nostra avventura in Marocco puoi farlo c
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690623787/Articoli/marocco%201/marocco_bw1rx3.jpg">}}
 
-##### Finte Guardie
+## Finte Guardie
 
 Abbiamo letto per la prima volta queste parole mentre cercavamo uno spot sulle varie applicazioni che usiamo per viaggiamo ([le trovi tutte qui](/blog/camper-le-applicazioni-da-avere-per-viaggiare)). Una recensione recitava:
 
@@ -181,11 +181,11 @@ Inoltre i parcheggi sono pieni di spazzatura, se ti pago almeno potresti tenerlo
 {{< youtube2 bRRphPHpGZ0>}}
 _Si è presentato come guardiano dell'intera area: un lago._
 
-###### Tutti i parcheggi sono abusivi?
+### Tutti i parcheggi sono abusivi?
 
 Buona parte dei parcheggiatori sono abusivi sopratutto nei pressi siti turiscitici ma non tutti. In alcune grandi città come Marrakech o sulla costa mediterranea sono presenti parcheggi a pagamento e custoditi per davvero. Vicino a Tetuan vista mare il guardiano è rimasto tutta la notte a controllare noi e altri camperisti.
 
-###### Come comportarsi?
+### Come comportarsi?
 
 Con il tempo, vivendo il paese e parlando con altri camperisti abbiamo capito come funziona e come evitare.
 Noi fin da subito abbiamo deciso di non alimentare troppo questo giro di parcheggiatori abusivi adottando una semplici regole, o meglio frase (in francese) da dire sorridendo:
@@ -202,17 +202,17 @@ Consigliamo comunque di andare via se diventano aggressivi.
 {{< youtube2 0xRbcDv93xE>}}
 _Si è presentato come guardiano del parcheggio ma siamo stati presi a pallonate e qualche pietra dai bambini. Il giorno successivo mi sono opposto e non ho pagato._
 
-###### Esistono veri guardiani?
+### Esistono veri guardiani?
 
 Non tutti i parcheggi sono così. Qualche volta ci è capitato di vedere dei veri parcheggi custoditi con esposti i prezzi. Ad esempio a Cabo Negro non sapevamo dove dormire è abbiamo sostato in uno spot trovato su Park4Night con vista mare, segnato come custodito ed infatti così è stato! La guardia è stata seduta tutta la notte sulla sua sedia a controllare noi è altri tre camper! 
 
 Abbiamo pagato anche nel palmeto a Tafrout, posto incantevole, con guardiani che per 15dh passavano la notte con le torce a controllare l'area.
 
-##### Considerazioni
+## Considerazioni
 
 Il nostro approccio iniziale al Marocco, entrando da Tanger Med, non è stato dei migliori. Siamo subito stati condizionati dalla troppa pattumiera presente ovunque: **intere discariche a cielo aperto**, popolate da animali intenti a mangiare la plastica e bambini a correre e giocare fra le macerie. Ci siamo risollevati il morale passeggiando per le stradine di Assilah, per poi apprezzare la piacevole Rabat, Essaouira, la costa di Legzira e le sue scogliere fino ad arrivare a Dakhla. La strada per raggiungere Daklha e da Daklha al border della Mauritania può risultare **eterna e noiosa**, ma alcuni scorci di questi paesaggi ci hanno lasciati davvero senza fiato!
 
-###### Tappe imperdibili
+### Tappe imperdibili
 
 In un viaggio 
 - **{{< underline "Assilah">}}**: una città colorata, allegra e bella da vedere che da un caldo benvenuto appena entrati in Marocco
@@ -221,7 +221,7 @@ In un viaggio
 - **{{< underline "Had Draa">}}**: andare al mercato di Had Draa è come fare un tuffo nel passato. Fai attenzione perché alcune sezioni sono da stomaci forti!
 - **{{< underline "Oued Karaam e Barbate">}}**: due luoghi di pace dove fermarsi e godere di pace e tranquillità.
 
-###### Tappe che si possono evitare
+### Tappe che si possono evitare
 
 Noi abbiamo deciso di vedere tutto il Marocco ma se tornassimo indietro, queste tappe le eviteremmo volentieri. 
 
@@ -229,12 +229,12 @@ Noi abbiamo deciso di vedere tutto il Marocco ma se tornassimo indietro, queste 
 - **{{< underline "Boudjour">}}**: ottima come tappa per fare una pausa ma nulla di più.
 - **{{< underline "Agadir">}}**: tutto quello che non vorresti vedere in Marocco: l'opulenza Europea.
 
-##### Il nostro Vlog
+## Il nostro Vlog
 Se vuoi rivivere le nostre avventure puoi farlo qui sotto oppure trovi la serie completa {{<extLink "cliccando qui" "https://www.youtube.com/watch?v=GJfq6pROYlE&list=PLHaclq_J5PZ-DcbT3dit1HikQ3ha-vXEk">}}:
 
 {{< youtube2 VBb-Zza0oUs>}}
 
-##### Le nostre mappe
+## Le nostre mappe
 Questa mappe è completa di tutti i posti visitati, le soste ([qui trovi i 5 migliori](/blog/5-spot-in-marocco)), campeggi, negozi, pizzerie ([scopri le migliori](/blog/le-migliori-pizze-in-marocco)) fatte **in tutto il Marocco**. Non aver paura di cliccare sul tasto nell'angolo in alto a sinistra per abilitare\disabilitare quelli che vi interessano!
 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ECqhZ8xnaxMc-PBZKLGmML-epe56eek&ehbc=2E312F">}}

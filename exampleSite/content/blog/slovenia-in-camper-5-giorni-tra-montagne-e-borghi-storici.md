@@ -14,7 +14,7 @@ Appena varcato il confine da Gorizia in direzione Nova Goritza davanti a noi si 
 
 Abbiamo fin da subito deciso di non acquistare la vignetta, **obbligatoria se decideste di percorrere invece la rete autostradale**, e di imboccare viuzze un po' impervie ma fattibili con un mezzo come il nostro ([un van di 5.40 metri](/van)) e decisamente appaganti per la vista. 
 
-##### Itinerario 
+## Itinerario 
 
 In questo tour abbiamo deciso di non puntare alle mete turistiche sul mare che offre la Slovenia, ma di attraversare il paese godendo delle montagne, visitando la capitale e altri borghi ricchi di storia. Ecco di seguito le nostre tappe:
 
@@ -30,7 +30,7 @@ In questo tour abbiamo deciso di non puntare alle mete turistiche sul mare che o
 
 A questo punto potete proseguire il vostro viaggio nei Balcani come noi, verso l'interno della Croazia, oppure ripiegare sulla costa per ritornare in Italia. A voi la scelta!
 
-##### Kranji
+## Kranji
 
 Questa cittadina è stata per noi la prima piacevole scoperta della Slovenia. Spesso dimenticata o sfruttata solo di passaggio per chi si reca al famoso **lago di Bled**, sorge tra due fiumi ed è incastonata fra le montagne. 
 
@@ -44,47 +44,47 @@ Tutta la cittadina è percorribile a piedi o in bici ma se doveste averne bisogn
 
 Come accennavamo all'inizio di questo articolo, abbiamo scelto di percorrere solamente le strade statali. Partendo da Nova Goritza il navigatore ci dava due opzioni: passare da Lubiana oppure passare attraverso le montagne. Abbiamo optato per quest'ultima ignari del fatto che ci avrebbe fatto percorrere un tratto di strada, la 608, spettacolare ma non asfaltato, attraverso un canyon di roccia che potrebbe farvi sudare non poco, regalandovi però scorci in montagna davvero suggestivi. Se volete anche voi cimentarvi in questa impresa **prestando particolare attenzione alla lunghezza del vostro mezzo**!
 
-###### Dove dormire a Kranji
+### Dove dormire a Kranji
 
 Noi abbiamo trascorso una notte tranquilla in libera vicino al centro sportivo. Il centro è raggiungibile a piedi in 20 minuti e da questo parcheggio partono bellissime passeggiate, ottimo se si viaggia con animali. Poossibilità di accedere a un Wi-Fi.
 
 {{< youtube2 "QUvrEk-H5Dc">}}
 
-##### Lubiana
+## Lubiana
 
 Della pittoresca capitale a ridosso del fiume Ljubljanica ve ne parliamo in un articolo dedicato ([che trovi qui](/blog/lubiana-in-un-giorno-la-capitale-slovenia)). Merita **assolutamente** un visita!
 
-###### Dove dormire a Lubiana
+### Dove dormire a Lubiana
 
 Per visitare la città abbiamo parcheggiato in centro (per la modica cifra di 0.50 cent l'ora) mentre per dormire abbiamo pernottato in libera poco fuori dalla città vicino ad una scuola. Notte tranquilla, Wi-Fi disponibile alla stazione dei bus. L'unico problema di questo parcheggio è che si rischia di rimanere bloccati {{<extLink "perché parcheggiano ovunque!" "https://youtu.be/u5h_S4c1aRw">}}.
 
-##### Celje
+## Celje
 
 Soprannominata **la città dei principi**, per questioni storiche, a Celje potrete ammirare il **Palazzo del principe** che sorge al centro della Piazza dei signori di Celje, oggi diventato museo per raccontare la storia della città.
 Da qui potete raggiungere comodamente **piazzetta Slomškov Trg** che ospita anche la **Chiesa abbaziale di San Daniele**, il museo per bambini con 300 giocattoli, la statua di **Josip Pelikan**, pioniere della fotografia e quella di **Alma Karlin**, scrittrice e viaggiatrice di inizio 900, che si trova nei pressi della stazione. 
 
 Sul lungofiume invece troverete la Biblioteca Centrale e la statua dello zatteriere, per commemorare la via fluviale della quale gli zatterieri si servivano per trasportare il legname da e verso Celje. Da qui si può ammirare **il castello** che sorge in posizione panoramica, raggiungibile sia in auto sia con una passeggiata di mezz’oretta di cammino dal centro di Celje.
 
-###### Dove dormire a Celje
+### Dove dormire a Celje
 
 La città offre vari posti per dormire sia in libera che in aree camper. Noi abbiamo deciso di spostarci in un'area camper gratuita a pochi chilometri immersa nelle colline. 
 
 {{< carousel images="Articoli/Slovenia/celje-slovenia-duomo_s5ww8h.jpg,Articoli/Slovenia/celje-slovenia-duomo-da-finestra_rszmdb.jpg,Articoli/Slovenia/celje-slovenia-statua-fotografo_epo8mz.jpg,Articoli/Slovenia/celje-slovenia-vista-fortezza_yuhkyq.jpg,Articoli/Slovenia/celje-slovenia-statua_wf8plw.jpg,Articoli/Slovenia/celje-slovenia-vista-parco_jwpntc.jpg,Articoli/Slovenia/celje-slovenia-piazza_bhjamf.jpg" >}}
 
-##### Maribor
+## Maribor
 
 Anche Maribor vanta un **imponente castello**, situato però in pieno centro storico e decisamente meno scenografico di altri che svettano sulle colline del paese.
 Noi abbiamo preferito perderci fra le stradine pittoresche e arrivare al **quartiere Lent**, dove si trova la **"vite più longeva al mondo"**: da oltre 4 secoli questa vite, **Patrimonio Unesco**, produce un’uva utilizzata per creare dell’ottimo vino rosso la cui produzione è limitata e riservata a pochi eletti (speriamo un giorno di rientrare fra di essi!).
 
 Da non perdere uno sguardo alla facciata **del palazzo postale** che sorge nei pressi della enorme Cattedrale vicino a cui si trova una viuzza di locali che spaziano dalla cucina locale a quella bosniaca a quella irlandese per ritrovare anche il classico trancio di pizza. 
 
-###### Dove dormire a Maribor
+### Dove dormire a Maribor
 
 Poco distante dal centro cittadino, a circa una quindicina di chilometri, si trova una comoda area sosta camper con servizia gratuiti, immersa nella natura e vicina a numerose passeggiate. 
 
 {{< carousel images="Articoli/Slovenia/maribor-posta_vwkbc6.jpg,Articoli/Slovenia/maribor-posta-edificio_jwyzr4.jpg,Articoli/Slovenia/maribor-piazza-centrale_wm8oj2.jpg,Articoli/Slovenia/maribor-locomotiva_q1x9uc.jpg,Articoli/Slovenia/maribor-chiesa_zfbgbu.jpg,Articoli/Slovenia/maribor-cattedrale_xb54cu.jpg,Articoli/Slovenia/maribo-posta-dettaglio_eyjrt3.jpg" >}}
        
-##### Ptuj 
+## Ptuj 
 
 La città di Ptuj sorge lungo il fiume Drava nella parte nord-orientale del paese **ed è nota per essere una delle città più antiche della Slovenia.** 
 
@@ -92,14 +92,14 @@ Non potete non ammirare il castello cittadino, il **Ptujski grad**, risalente al
 
 Il centro storico di Ptuj è molto piacevole, costellato di casette ed edifici molto particolari, dove potrete ammirare anche la cattedrale di San Giorgio e il Monumento a Orfeo.
 
-###### Dove dormire a Ptuj
+### Dove dormire a Ptuj
 
 Noi abbiamo dormito in libera in un parcheggio insieme ad altri camperisti. Il centro è raggiungibile a piedi in 10 minuti. Non sono presenti servizi ma in città è presente il Wi-Fi gratuito.
 
 
 {{< carousel images="Articoli/Slovenia/ptuji-via-centrale_sjxpb3.jpg,Articoli/Slovenia/ptuji-tramonto_zqzlek.jpg,Articoli/Slovenia/ptuji-notte_usm76w.jpg,Articoli/Slovenia/ptuji-fiori_h0phvd.jpg,Articoli/Slovenia/ptuji-cattedrale_l9rzab.jpg,Articoli/Slovenia/ptuji-barbiere_m1g8zy.jpg" >}}
 
-##### Considerazioni sulla Slovenia
+## Considerazioni sulla Slovenia
 
 Il nostro viaggio in Slovenia a bordo del van **è stato breve ma intenso** e ricco di meraviglie per gli occhi.
 Ci siamo sempre sentiti al sicuro, accolti con piacere dai saluti (**"Dober dan"**) dei locali, in un paese che può sembrare rurale ma che è ampiamente all'avanguardia in termini di rispetto del territorio: ben organizzato, costellato di piste ciclabili, con strade ben percorribili e davvero davvero pulito. 

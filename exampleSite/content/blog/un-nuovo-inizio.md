@@ -23,43 +23,43 @@ Sono stati quegli incontri con altri viaggiatori, quelle chiacchierate durate se
 
 Ecco che quindi, proprio appoggiati su quel tavolino che ha sentito i nostri racconti e ha visto prender forma la nostra idea, abbiamo iniziato a scrivere:
 
-##### Guide
+## Guide
 Trovi al loro interno **consigli in generale** su alcuni paesi, come i documenti necessari per arrivarci, la situazione delle strade, le dogane e così via. 
 
-##### Itinerari in camper (e non)
+## Itinerari in camper (e non)
 Puoi leggere delle mete che abbiamo raggiunto in questi anni, sia in camper che non, con alcuni consigli su quelle che per noi **risultano "imperdibili" e il perché**, corredati di fotografie scattate da noi. 
 
-##### Le mappe 
+## Le mappe 
 Mettiamo le mani avanti: non siamo proprietari del suolo pubblico! Ecco perché le nostre mappe sono **gratuite**! 
 Le troverai al fondo dei nostri articoli con tutti i posti visitati e le soste che abbiamo effettuato. Abbiamo deciso di condividerle gratuitamente in quanto non possiamo promettere al 100% che gli spot rimangano valide nel tempo.
 
-##### Articoli "redazionali"
+## Articoli "redazionali"
 Non vogliamo limitarci a parlarti di città, soste, musei e cibi tipici. Vogliamo raccontarti anche di qualche dettaglio che ci ha colpiti, di qualcosa che ci ha fatti crescere o ragionare... insomma farti viaggiare un po' al nostro fianco!
 
-##### Il van!
+## Il van!
 Non gli abbiamo dato un nome (anche se la community ha votato per **Scricchiolo**) ma il nostro van ci accompagna ogni giorno nei luoghi che desideriamo raggiungere, quindi [nella sezione a lui dedicata](/van/) troverai:
 - le spese sostenute per acquiesto e manuntenzione
 - gli accessori montati a bordo
 - la sua storia e gli errori commessi
 - una check-list infinita di cose da sistemare 😅
 
-##### Gli animali 
+## Gli animali 
 A Olimpia e Sakè manca davvero solo la parola quindi scriveremo noi per loro i consigli utili e i documenti necessari per viaggiare con animali al seguito in ogni angolo del mondo!
 
-##### Le spese
+## Le spese
 Avevamo l'abitudine di tener traccia delle nostre spese già quando abitavamo a Torino e abbiamo deciso di continuare a farlo anche viaggiando, sia per essere consapevoli di come stiamo conducendo questo stile di vita, sia per poter essere utili a chi voglia intraprendere un'esperienza simile e abbia il piacere di fare un confronto.
 Trovi i dettagli grafici [in questa sezione](/expanses/) oppure puoi vedere il nostro video relativo alle spese dopo sei mesi a bordo del van:
 
 {{< youtube2 CYJHHkg3_3s>}}
 
-##### Newsletter
+## Newsletter
 Trovare il tempo di leggere qualcosa in più sappiamo bene che può essere impegnativo, ma ci fa piacere scrivere e inviare ogni settimana una piccola newsletter da qualsiasi parte nel mondo ci troviamo.
 9 metri quadrati arriva via mail ogni mercoledì in pausa pranzo e dura il tempo di bere un caffè!
 Se hai piacere di iscriverti puoi farlo comodamente qui sotto 👇
 
 <div style="text-align: center;"><iframe title="newsletter" src="https://vandipety.substack.com/embed" height="150" style=" background:white;" frameborder="0" scrolling="no" class="ow g-3 mb-3"></iframe></div>
 
-##### Varie
+## Varie
 Si tratta di cose da nerd, per lo più. Migliorie di design del sito che però speriamo aiutino a rendere questo contenitore virtuale lo spazio migliore per i nostri appunti di viaggio. 
 
 > _Stiamo creando le fondamenta di una grande scatola dei ricordi, un nuovo inizio per un'avventura che speriamo non abbia fine._

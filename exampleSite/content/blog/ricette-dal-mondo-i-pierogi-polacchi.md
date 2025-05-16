@@ -13,7 +13,7 @@ Girovagando un mese in [Polonia](/blog/viaggio-polonia-in-camper-itinerari) a bo
 
 Un piatto in particolare ha attirato la nostra attenzione, i ***pierogi***, che abbiamo scoperto e assaggiato in varie versioni, anche una dolce a casa di un’amica conosciuta on the road.
 
-##### Cosa sono i pierogi 
+## Cosa sono i pierogi 
 
 I pierogi (che si legge ‘pieroghi’) sono tipici ravioli **a forma di mezzaluna** della cucina polacca e di altri paesi dell'est Europa. In ogni nazione assumono nomi e sapori diversi e vengono serviti come piatto salato o dolce a seconda della guarnizione. 
 
@@ -25,7 +25,7 @@ Ho fatto un po’ di ricerche, chiesto conferma a Kalina e quindi ecco qui per v
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_1200/f_auto,q_auto,w_800,dpr_auto/v1689676110/Articoli/empanada/madrid/cordoba/images_jlds9z.jpg">}}
 
-##### La ricetta segreta
+## La ricetta segreta
 Ingredienti per 35-40 pierogi:
 - 350 g di farina
 - 1 uovo
@@ -50,7 +50,7 @@ E ora che si fa? Te lo spieghiamo in 10 passaggi:
     
 ***Il tocco speciale che abbiamo amato?*** La panna acida con un trito di erba cipollina tritata, abbinata a quelli ripieni di patate e ricotta abbrustoliti leggermente in padella. 
 
-##### Pierogi come dolci
+## Pierogi come dolci
 
 In un incontro fortuito nato grazie alla simpatia del nostro gatto Saké **abbiamo conosciuto Kalina** che ci ha invitati ad assaggiare sia una versione casalinga che nella versione **{{< underline "dolce">}}**. Grazie a un abbinamento di una salsina a base di panna acida e marmellata di fragole, **non vi dico che bontà.**
 <!-- 

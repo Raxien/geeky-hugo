@@ -10,7 +10,7 @@ type: regular
 
 Noale, un piccolo borgo a pochi chilometri da Venezia, era in realtà una tappa obbligatoria del nostro viaggio. Ci siamo dovuti fermare un paio di giorni per questioni lavorative, ma siamo riusciti a godere appieno della sua atmosfera. Ovviamente abbiamo fatto i turisti insieme a Sakè e Olimpia, che hanno attirato i sorrisi di numerosi passanti. Proprio la sera in cui siamo arrivati abbiamo avuto la fortuna di fermarci a chiacchierare con una signora del posto, che ci ha consigliato un tour delle cose imperdibili da vedere in questo piccolo borgo a pochi chilometri da Venezia. In pieno centro si trova una comoda area sosta camper, non utilizzabile il giovedì mattina per stallo mercatale. L'area è segnalata come a pagamento con una sbarra che si abbassa automaticamente la sera: quando siamo arrivati noi l'addetto al pagamento non si è mai presentato nonostante avessimo comunicato la nostra presenza telefonando al numero affisso. Sono presenti i servizi di carico e scarico acque. Di seguito il link di Park4night che puoi scaricare {{<extLink "**qui se hai un iPhone**" "https://apps.apple.com/it/app/park4night-com/id430946556">}} o {{<extLink "**qui se hai Android**" "https://play.google.com/store/apps/details?id=fr.tramb.park4night&hl=it&gl=US">}}.
 
-##### In gita a Noale
+## In gita a Noale
 Lungo la strada principale che attraversa il borgo si trovano i portici gotici e antichi palazzi, delimitati da un lato dalla Torre dell’Orologio e dall’altro dalla Torre delle Campane. Ci sono poi il Palazzo della Loggia dove hanno sede il Municipio, il Museo Civico e la Pinacoteca 'Egisto Lancerotto' e la parrocchia dei Ss. Felice e Fortunato.
 
 ![A passeggio per le vie di Noale](https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1657705492/Articoli/a_passeggio_per_le_vie_di_Noale.jpg)
@@ -21,7 +21,7 @@ Il giovedì mattina lungo le vie del paese si svolge un mercato molto ricco che 
 
 Poco lontano dal centro abitato si trova {{<extLink "**l’oasi WWF Cave di Noale**" "http://www.oasicavedinoale.it">}}: una delle mete preferite dai fotografi naturalisti della regione per la presenza di numerose specie animali e vegetali. 
 
-##### Dove mangiare a Noale 
+## Dove mangiare a Noale 
 In questo borgo a pochi chilometri da Venezia abbiamo pranzato e cenato in due posti differenti, trovandoci molto bene in entrambi. 
 
 Per il pranzo ci siamo fermati da {{<extLink "**"CORTIVO 2.0"**" "https://www.cortivonoale.it">}}. Qui si trova un menù con una scelta giornaliera sempre diversa e abbinamenti molto interessanti. Paolo ha optato per un hamburger con contorno, Sara per una pasta con pesto di pistacchi davvero gustosa. Piacevolmente stravagante il locale, con un tavolo appeso al soffitto e altri dettagli davvero divertenti. Molto gentile il personale, con un servizio veloce e cortese. Ci sentiamo davvero di consigliartelo.
@@ -30,12 +30,12 @@ Per quanto riguarda la cena abbiamo optato per la {{<extLink "**"Trattoria Dal F
 
 ![La rocca di Noale](https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1657705148/Articoli/La_Rocca_di_Noale.jpg)
 
-##### Cosa visitare con cane e gatto
+## Cosa visitare con cane e gatto
 Con Sakè e Olimpia abbiamo camminato per tutte le vie del paese e lungo l'argine del fiume. Qui ti raccomandiamo un po' di accortezza dato che ci sono numerosi animali, tra cui anatre e galli, liberi di girovagare. Per quanto riguarda l'area naturalistica del WWF, il sito internet cita "cani non ammessi", per cui ci siamo limitati a una passeggiata nella zona subito accanto, in aperta campagna.
 
 ![Turisti a Noale](https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1657705037/Articoli/turisti_a_Noale.jpg)
 
-##### Un piccolo borgo a pochi chilometri da Venezia 
+## Un piccolo borgo a pochi chilometri da Venezia 
 Ebbene sì, la Serenissima si trova davvero a pochi chilometri da Noale, tant'è che è raggiungibile comodamente con il treno. Noi abbiamo preferito avvicinarci con il camper per avere una base più comoda e vicina in caso di necessità con gli animali, ma se decidessi di fare sosta qui, il tragitto in treno ti richiederà una quarantina di minuti (costo del biglietto 1,90 € in seconda classe). 
 
 Ti lasciamo il link al {{<extLink "**reel sulla città di Noale**" "https://www.instagram.com/reel/CeBBXTyjZMy/">}} mentre se vuoi saperne di più sul nostro viaggio a Venezia {{<extLink "**clicca qui**" "https://vandipety.it/blog/venezia-cane-gatto">}}.

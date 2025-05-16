@@ -12,16 +12,16 @@ Hai mai pensato di regalare una piccola storia personalizzata la posto di quei b
 
 {{< citazione "Oggi ti presentiamo i SUMI-ME.">}}
 
-##### Cosa sono?
+## Cosa sono?
 Lettere, storie o poesie personalizzate da regalarsi o da regalare.
 
-##### Come funzionano? 
+## Come funzionano? 
 Tu ci scrivi qualche dettaglio che rimanda al soggetto, che indichi qualcosa circa la personalità o le sue passioni, oppure ci parli di un locale, di un progetto, di un evento, di qualsiasi cosa vuoi che parli la storia e al resto pensiamo tutto noi.
 
-##### Perchè SUMI-ME?
+## Perchè SUMI-ME?
 Sumi in Giapponese è l’inchiostro. Me è quel soggetto del quale poco a volte ci si prende cura. Io ci metterò tutta l’attenzione e la gentilezza possibile a mettere nero su bianco le parole, come se fossi un Monaco buddista di fronte a un foglio di carta di riso. 
 
-##### Eccoti un esempio di SUMI-ME
+## Eccoti un esempio di SUMI-ME
 Questo è il Sumi-me che ho dedicato a Paolo, appassionato di Giappone e fumetti, immaginandomelo nel suo primo viaggio nel paese. 
 
 <div style="text-align: center; color: #222; line-height: 32px; margin-bottom: 15px; position: relative; background-color: #f2f2f2; border-radius: 5px; padding: 30px 105px; margin: 3em 0;">
@@ -56,7 +56,7 @@ Presi le bacchette e le affondai nella ciotola. Fu un’esplosione di sapori. Nu
 Anche quel piatto sembrava darmi il suo benvenuto. **Ero davvero arrivato a Tokyo.**
 </div>
 
-##### Ne voglio uno!
+## Ne voglio uno!
 Ti piacerebbe ricevere come regalo di Natale o di compleanno o qualsiasi altra occasione speciale un **Sumi-me**? 
 O ti piacerebbe come regalo da far realizzare per qualcuno a cui vuoi bene? 
 

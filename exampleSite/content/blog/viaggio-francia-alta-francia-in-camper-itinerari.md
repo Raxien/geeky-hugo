@@ -11,7 +11,7 @@ draft: false
 
 In questo articolo ti porteremo con noi alla scoperta della Francia del Nord. Abbiamo visitato questa regione a bordo del nostro van dal 10 settembre al 15 settembre 2022, ma potrai seguire questo itinerario anche in auto. Il clima non è stato dei migliori come di consueto in queste zone, anche se alcuni attimi di sole ci hanno regalato panorami incredibili. Potresti valutare di aggiungere alcune di queste tappe a un viaggio in Normandia, in tal caso ti rimandiamo [all'articolo](/blog/viaggio-francia-normandia-in-camper-itinerari/) dedicato in merito.
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Itinerario](#itinerario)
 > - [Strade](#strade)
 > - [Servizi e soste](#servizi-e-soste)
@@ -20,7 +20,7 @@ In questo articolo ti porteremo con noi alla scoperta della Francia del Nord. Ab
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
-##### Itinerario
+## Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, con un piccolo diario giornaliero. 
 Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni in merito a questa regione e soprattutto le tappe **{{< bold "imperdibili">}}** puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
 
@@ -40,7 +40,7 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682803930/Articoli/francia/IMG_2988_aiozxy.jpg">}}
 
-##### In Breve
+## In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera. 
 
 **{{< underline "Giorno 1">}}**: Dunkerque
@@ -57,17 +57,17 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682803939/Articoli/francia/IMG_7056_adovjs.jpg">}}
 
-##### Strade 
+## Strade 
 In Alta Francia la situazione relativa alle strade è perfetta.
 
-##### Servizi e soste
+## Servizi e soste
 Non abbiamo avuto alcun problema a trovare i servizi di carico e scarico per il van. 
 Abbiamo potuto dormire sempre in libera, nonostante parecchie limitazioni a mezzi superiori ai 2 metri di altezza (a volte anche 1.90), soprattutto nelle vicinanze delle spiagge. 
 
-##### Viaggiare con il proprio animale
+## Viaggiare con il proprio animale
 {{< animali>}}
 
-##### Considerazioni e itinerario ideale
+## Considerazioni e itinerario ideale
 Negli anni abbiamo imparato ad apprezzare molti lati della Francia, ecco perché anche in questa zona, nonostante il maltempo, abbiamo trovato luoghi che ci sono rimasti nel cuore.  
 
 In camper, auto o moto le mete secondo noi imperdibili di questa regione sono:
@@ -78,10 +78,10 @@ In camper, auto o moto le mete secondo noi imperdibili di questa regione sono:
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682804005/Articoli/francia/IMG_2878_mauocu.jpg">}}
 
-##### Il nostro Vlog
+## Il nostro Vlog
 Nel video qui sotto puoi rivedere il nostro ingresso in Francia oppure trovi la serie completa sul paese {{<extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8">}}.
 
 {{< youtube2 haPUPL6dgpI>}}
 
-##### Le nostre mappe
+## Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1h_zkHyaexgfCRWw0ZEwkRLa7MfW243o&ehbc=2E312F">}}

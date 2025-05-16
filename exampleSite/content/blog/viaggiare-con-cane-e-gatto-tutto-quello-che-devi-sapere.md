@@ -14,13 +14,13 @@ Speriamo ti possano essere utili per evitare di vivere spiacevoli inconvenienti 
 Premessa: se viaggi all'estero ti consigliamo di controllare le informazioni relative ai documenti necessari contattando l’ambasciata del Paese in cui vuoi recarti oppure rivolgendoti direttamente al servizio veterinario della tua Asl di competenza dato che le leggi sono sempre in continuo aggiornamento.
 Ti consigliamo vivamente di svolgere tutta la burocrazia anche con 6 mesi di anticipo!
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Viaggi in Italia](#viaggi-in-italia) 
 > - [Viaggi in Unione Europea](#viaggi-in-unione-europea)
 > - [Viaggi in Paesi Extra UE](#viaggi-in-paesi-extra-ue)
 >   - [Titolazione anticorpale](#titolazione-anticorpale)
 
-#### Viaggi in Italia 
+## Viaggi in Italia 
 Viaggiare in Italia con cane e gatto è molto semplice e servono **solo due cose**:
 
 * il microchip o tatuaggio chiaramente leggibile
@@ -28,7 +28,7 @@ Viaggiare in Italia con cane e gatto è molto semplice e servono **solo due cose
 * il libretto relativo alle vaccinazioni e dati anagrafici
 
 
-#### Viaggi in Unione Europea
+## Viaggi in Unione Europea
 Per viaggiare con cane e gatto dall’Italia **verso gli altri Paesi dell’Unione Europea** servono:
 
 * il microchip o tatuaggio chiaramente leggibile
@@ -47,7 +47,7 @@ vaccino
 Alcuni paesi UE applicano delle regole più restrittive per l'introduzione di cani e gatti sul proprio territorio. 
 Irlanda, Svezia e Malta richiedono la titolazione anticorpale ([vedi paragrafo sotto](#titolazione-anticorpale)) e in tali paesi vige il divieto assoluto di introdurre cani di età inferiore ai 3 mesi. 
 
-#### Viaggi in Paesi Extra UE
+## Viaggi in Paesi Extra UE
 Per chi vuole viaggiare **in Andorra, Svizzera, Islanda, Liechtenstein, Monaco, Norvegia, San Marino, Città del Vaticano** valgono le stesse disposizioni che regolamentano l'ingresso di animali dei Paesi aderenti alla UE. 
 
 In tutti gli altri Paesi Extra Europei possono essere richiesti ulteriori documenti, che possono variare a seconda della destinazione. 
@@ -68,7 +68,7 @@ vaccino
 
 Se stai pianificando di andare in **Marocco** con il tuo fido compagno a quattro zampe trovi [maggiori informazioni su come entrare nel paese nell'articolo dedicato.](/blog/informazioni-camper-marocco-con-animali)
 
-##### Titolazione anticorpale
+### Titolazione anticorpale
 La titolazione anticorpale è un test di verifica degli anticorpi per il virus della rabbia che si effettua tramite un prelievo del sangue dopo la vaccinazione e che viene inviato a un centro specializzato e riconosciuto, il quale rilascia un documento ufficiale. 
 
 Tale documento rimane valido a vita, a patto che la vaccinazione antirabbica **venga sempre rinnovata nei tempi previsti** (da 1 a 3 anni a seconda del vaccino effettuato), ma in alcuni Paesi (es. Giappone) viene richiesto un aggiornamento. 

@@ -15,7 +15,7 @@ In questo articolo, vi proponiamo un itinerario di 7 giorni per scoprire le bell
 
 Seguici in questo viaggio in camper alla scoperta del Montenegro!
 
-##### Itinerario di 7 giorni
+## Itinerario di 7 giorni
 
 Il nostro itinerario ci ha visti partire dalla costa al confine con la Bosnia ed Erzegovina, fino ad arrivare alla dogana **con il Kosovo** ([paese che abbiamo amato](/blog/viaggio-kosovo-in-camper-itinerari)).
 
@@ -99,7 +99,7 @@ Di questa zona del paese ricorderemo però le strade, alcune fra le più belle e
 Speriamo che questo itinerario vi sia stato di aiuto e di ispirazione e se avete curiosità o domande vi aspettiamo nei commenti!
 Per tutti gli altri itinerari relativi ai Balcani vi rimandiamo alla sezione apposita, mentre se volete rivivere le nostre avventure un po' dal vivo sul canale Youtube trovate i video dedicati al Montenegro. 
 
-##### Informazioni utili
+## Informazioni utili
 
 Il Montenegro, piccolo paese incastonato nella regione dei Balcani, offre mete per ogni esigenze: dalle spiagge affacciate sul fiordo di Cattaro ai percorsi escursionistici che si diramano nei parchi nazionali, diventa un paese accattivante da visitare in ogni stagione.
 Noi abbiamo deciso di visitare il Montenegro in autunno a bordo del nostro van, sia per godere di un clima ancora mite (sarà stato davvero così clemente?) ma senza folla di turisti riversata nei paesini lungo la costa, sia per poter passeggiare nei boschi e sulle montagne immersi nei colori del foliage. 
@@ -107,27 +107,27 @@ Così, dopo aver visitato la [Bosnia ed Erzegovina](/blog/)abbiamo attraversato 
 
 Partiamo subito con le informazioni utili **per entrare nel paese via terra e per visitare il Montenegro**.
 
-###### Dogana
+### Dogana
 Arrivando dalla [Bosnia ed Erzegovina](/blog/bosnia-e-erzegovina-in-camper) abbiamo attraversato la dogana di Sitnica: posto di blocco semplice e veloce, posto a metà strada sulla sommità di un passo di montagna, tra Trebigne e Castelnuovo. Tempo impiegato (in bassa stagione): 4 minuti, giusti giusti per esibire semplicemente la carta d'identità e il libretto del van.
 
-###### Assicurazione del mezzo
+### Assicurazione del mezzo
 I veicoli immatricolati in Italia possono entrare e circolare senza carta verde poiché la polizza di assicurazione comprende l’estensione della garanzia in Montenegro.
 
-###### Assicurazione sanitaria
+### Assicurazione sanitaria
 Come sempre noi ci siamo affidati a **{{<extLink "Genki" "https://www.genki.world/with/vandipety">}}** per la nostra assicurazione che ha coperto tutto il nostro viaggio nei [Balcani](/categories/balcani/).
 
-###### Moneta locale
+### Moneta locale
 La moneta locale è l'Euro e ovunque viene accettata la carta di credito, quindi non abbiate timore di dover andare a cambiare soldi o prelevare e pagare commissioni. 
 
-###### Lingua parlata
+### Lingua parlata
 In Montenegro si parla il Serbo-croato. Pochi parlano in inglese ma solitamente tutti provano in qualche modo ad aiutare i turisti. 
 Se proprio hai timore di non riuscire in nessun modo a comunicare puoi scaricare Google Translate ([e queste altre app](/blog/camper-le-applicazioni-da-avere-per-viaggiare)) per evitare attimi di panico. 
 
-###### Internet
+### Internet
 Ci sono varie offerte di SIM locali che permettono di avere molti giga per 7, 15 o 30 giorni. Noi abbiamo acquistato una sim dell'operatore M-Tel che ci ha garantito 400 giga, 500 minuti e 500 sms per 7 giorni a 10 euro. 
 Ricordati di disattivare il roaming perché in questo paese il tuo piano italiano non funzionerebbe.
 
-###### Strade
+### Strade
 In Montenegro ci sono 4 strade **cosiddette panoramiche** che attraversano il paese in lungo e in largo e ognuna di esse ha ulteriori diramazioni. Alcuni tratti, come la Kotor Serpentine (ne parliamo più avanti) sono davvero molto suggestivi, ma essendo strade spesso strette e con curve a gomito o pendenze abbastanza rigide occorre sempre guidare con molta prudenza. 
 L'unico tratto che abbiamo percorso a pagamento è stato il tunnel per raggiungere il lago di Scutari (5 euro) dalla costa.
 

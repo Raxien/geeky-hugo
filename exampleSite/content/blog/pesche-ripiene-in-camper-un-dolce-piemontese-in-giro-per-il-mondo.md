@@ -12,7 +12,7 @@ draft: false
 Le pesche ripiene sono da sempre tra i piatti preferiti delle nostre famiglie piemontesi. 
 Preparate **con amore dalle nostre nonne** per le merende estive, potevamo non provare anche noi a cucinare le pesche ripiene a bordo del camper in giro per il mondo? 
 
-##### Le origini dei persi pien 
+## Le origini dei persi pien 
 
 Quando ero bambina pensavo che la ricetta delle pesche ripiene fosse stata inventata da mia nonna. 
 Poi un giorno, quando le chiesi di cucinarle per tutto il paese, lei mi disse che ogni nonna del quartiere sapeva prepararle e che tutti probabilmente avevano già assaggiato i deliziosi scrigni ripieni di amaretti e cioccolato. 
@@ -22,7 +22,7 @@ A quanto pare quindi già durante Medioevo e Rinascimento i persi pien erano un 
 
 Immaginate un banchetto a base di pane, salame, formaggio e un goccio di vino rosso, con a termine le pesche nettarine addolcite da amaretti, zucchero e cacao: ingredienti del territorio, trasformati in un tradizione che regna ancora sulle nostre tavole. 
 
-##### Chi rese pubblica la ricetta?
+## Chi rese pubblica la ricetta?
 
 Ada Boni fu la prima donna a citare i Persi Pien nel suo libro {{<extLink "“Il talismano della felicità”" "https://amzn.to/3KbVviY">}} del 1929, consigliando di grattugiare del cioccolato fondente sul finale e di servire le pesche ripiene fredde. 
 
@@ -35,7 +35,7 @@ A casa nostra si usava far le cose in grande: *grandi porzioni per grandi sorris
 Clicca nel video qui sotto se vuoi vederci impazzire felicemente nella cucina del camper per preparare i persi pien!
 {{< youtube2 f8yDEwQbMFs>}} 
 
-##### Ingredienti per la classica ricetta 
+## Ingredienti per la classica ricetta 
 
 - 6 pesche con pasta gialla (belle sode)
 - 2 tuorli
@@ -47,7 +47,7 @@ Clicca nel video qui sotto se vuoi vederci impazzire felicemente nella cucina de
 - q.b. scaglie di cioccolato fondente 
 
 
-###### Preparazione
+### Preparazione
 
 Se non hai mai preparato le pesche ripiene non preoccuparti perché la ricetta è facilissima e io ho imparato a cucinarle da bambina. 
 
@@ -61,7 +61,7 @@ Se non hai mai preparato le pesche ripiene non preoccuparti perché la ricetta �
 
 A fine cottura puoi guarnire con qualche scaglia di cioccolato fondente. 
 
-###### Ingredienti per la ricetta senza forno e/o in camper 
+### Ingredienti per la ricetta senza forno e/o in camper 
 Vivendo in camper e non avendo il forno ho dovuto trovare un modo alternativo per creare il mio dolce preferito. Ne è uscita una versione della quale non so se nonna Teie sarebbe orgogliosa, ma che noi abbiamo parecchio apprezzato. 
 
 **Ingredienti**

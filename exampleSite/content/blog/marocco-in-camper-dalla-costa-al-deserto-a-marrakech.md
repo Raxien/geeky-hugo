@@ -18,14 +18,14 @@ Insomma, è stata una grande avventura!
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632612/Articoli/Marocco/marocco%202/lago_marocco_rfurhv.jpg">}}
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Itinerario](#itineario)
 >   - [In breve](#in-breve)
 > - [Considerazioni](#considerazioni)
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe)
 
-##### Itinerario
+## Itinerario
 
 Tornati indietro da quella che viene chiamata **"l'Africa nera"**, ci siamo ritrovati in pieno periodo di **"Ramadan"**, che significa strutture e servizi chiusi di giorno e aperti di sera quasi ovunque. Oltre a ciò significa per chi professa la religione Musulmana adattarsi a un ritmo alimentare differente, ed è così che ci siamo ritrovati a cenare in orario di colazione a casa di amici (scopri {{<extLink "qui" "https://youtu.be/vgNL4cK-aJY">}} che banchetto!), ad assaggiare i [dolci tipici](/blog/chebakia-i-dolci-tipici-del-ramadan), per poi attraversare il paese verso il deserto al confine con l'Algeria (che raccontiamo [nella terza parte di questo viaggio](/blog/marocco-in-camper-alla-scoperta-della-costa-mediterranea)), riuscendo anche ad ammirare le scogliere di Legzira, graziati questa volta dalla {{<extLink "bufera di sabbia." "https://youtu.be/cYasYm2JoHU">}}
 
@@ -101,7 +101,7 @@ Da questo punto in poi le nostre avventure in Marocco sono proseguite verso Fes,
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632615/Articoli/Marocco/marocco%202/cattedrale_amsfrane_c9kumt.jpg">}}
 
-###### In breve
+### In breve
 
 **{{< underline "Giorno 1">}}**: Tafraout
 
@@ -145,7 +145,7 @@ Da questo punto in poi le nostre avventure in Marocco sono proseguite verso Fes,
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632611/Articoli/Marocco/marocco%202/merzouga_axjqnd.jpg">}}
 
-##### Considerazioni 
+## Considerazioni 
 In tutta questa zona del Marocco sono due gli aspetti che abbiamo apprezzato maggiormente: le persone e la loro ospitalità (tranne nei casi di chi era interessato solo a ottenere denaro, come ad esempio i finti guardiani dei parcheggi) e i luoghi naturali. 
 È stato emozionante scoprire montagne dall'aspetto diverso rispetto alle alpi piemontesi alle quali i nostri occhi erano abituati da trent'anni, assaggiare i piatti cucinati in famiglia per il periodo del Ramadan, vivere un Marocco della tradizione e non solo quello turistico. 
 
@@ -157,13 +157,13 @@ Forse, dovendo tirare le somme, questi luoghi e le emozioni che qui abbiamo viss
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632614/Articoli/Marocco/marocco%202/imlil_z01isf.jpg">}}
 
-##### Il nostro Vlog
+## Il nostro Vlog
 
 Cliccando qui puoi vedere tutte le nostre avventure in Marocco:
 
 {{< youtube2 vgNL4cK-aJY>}}
 
-##### Le nostre mappe
+## Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ECqhZ8xnaxMc-PBZKLGmML-epe56eek&ehbc=2E312F">}}
 
  

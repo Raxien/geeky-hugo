@@ -23,17 +23,17 @@ Questa soluzione politica adottata nel 1995 ha permesso di far coesistere non so
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
-##### Cosa vedere in Bosnia ed Erzegovina
+## Cosa vedere in Bosnia ed Erzegovina
 Il nostro itinerario prevede di attraversare il Paese con un viaggio on the road da nord a sud, dato che successivamente abbiamo proseguito verso il Montenegro. 
 
-##### Banja Luka
+## Banja Luka
 Banja Luka è la seconda città più grande del Paese ed è la capitale amministrativa della Repubblica Serba. 
 La via centrale è un continuo interfacciarsi di chiese e moschee, ristorantini e locali, in un'atmosfera giovanile e conviviale. 
 Noi abbiamo raggiunto le mura della vecchia fortezza medievale, da dove si ha una bella visuale sul fiume che divide la città. 
 Non troppo distanti si trovano le terme di Vrucica, vere e proprie sorgenti con acqua calda, immerse in un piccolo canyon naturale. 
 A metà strada verso la tappa successiva ci siamo fermati al monastero ortodosso di Krupa, del quale vi consigliamo di visionare gli interni, e a pochissimi chilometri di distanza potete ammirare alcuni mulini ad acqua ancora funzionanti e d'estate acquistare la farina prodotta in loco. 
 
-##### Jajce
+## Jajce
 Seguendo la valle del fiume Vrbas si arriva a Jajce, meta famosa per le omonime cascate alte 17 metri e poste proprio nel centro cittadino. Per accedervi occorre pagare un ticket, ma seguendo i locali che passeggiano tranquilli per le strade del paese e i parchi cittadini si riesce ad ammirarle dall'alto anche senza pagare. 
 Dal centro cittadino, che pullula di bar e negozietti, si può salire in cima alla collina che conduce al forte (attenzione: qui accettano solo moneta locale per l'ingresso).
 A 10 minuti di strada da Jaice si trovano invece i mulini, cosiddetti Mlincici, e il lago Pliva. 
@@ -41,10 +41,10 @@ Ad oggi i mulini non sono più attivi ma una comoda passerella permette di cammi
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
-##### Visoko e le piramidi bosniache
+## Visoko e le piramidi bosniache
 Questa meta non era prevista nel nostro itinerario, ma dovendo cercare un posto per spezzare il viaggio abbiamo tentato di approfittarne per visitare un altra meta "degna di attenzione". Purtroppo le "**piramidi**" a noi non sono piaciute particolarmente e occorre un po' di fantasia per chiamare in tal modo le colline del posto. Sicuramente la natura qui è piacevolmente rigogliosa, ma è valsa la pena fermarsi proprio solo come tappa per pranzare prima di raggiungere la capitale Sarajevo. 
 
-##### Sarajevo
+## Sarajevo
 Visitare Sarajevo senza che la mente torni ai giorni della guerra è pressochè difficile: i segni del conflitto sono ovunque, sui muri, nei monumenti e nelle lapidi, nei musei e nelle mostre. 
 Nonostante ciò **Sarajevo** è una città piccola ma piena di vita. 
 Qui, come nel resto del paese, si mescolano 4 religioni diverse e culture diverse, per cui ci si ritrova a passeggiare fra chiese, cattedrali ortodosse, moschee e sinagoghe.
@@ -69,34 +69,34 @@ Interessante è “**la linea che divide oriente da occidente**” lungo la Basc
 Qui si mescolano di nuovo non solo architettura, ma anche religioni e culture. 
 In ultimo abbiamo approfittato di un negozietto per rifocillarci con burek (la tipica sfoglia ripiena dei balcani) e yogurt e siamo tornati al camper per raggiungere la cittadina di Konjic.
 
-##### Konjic
+## Konjic
 Questa cittadina è attorniata da colline bellissime e se amate gli sport estivi come il canottaggio potrebbe davvero fare al caso vostro. 
 Noi abbiamo passeggiato per le sue viuzze e attraversato lo storico ponte, ma se avete interesse ed occasione potreste visitare il Bunker di Tito. Si tratta di un grande segreto della ex Jugoslavia, un vero e proprio bunker adibito alla salvaguardia dell'ex presidente e del suo entourage, oggi totalmente restaurato e divenuto museo: si narra che Tito non l'abbia nemmeno mai visto ultimato. La visita è possibile solo con guida in orari prestabiliti, in caso vi conviene informarvi sul {{<extLink "**sito web**" "http://linkesterno.it">}} o al centro informazioni. 
 
-##### Mostar
+## Mostar
 Mostar è forse la meta più turistica di tutta la Bosnia ed Erzegovina, il cui simbolo è il ponte **Stari most** (ponte vecchio), distrutto nel 1993 durante la guerra e ricostruito nel 2004. Oggigiorno non è raro vedere ragazzi che in cambio di offerte si tuffano dall’alto dei 20 metri del ponte.
 Per arrivarsi basta camminare lungo le vie del piccolo centro storico che pullula di ristoranti e bancarelle, arrivare alla moschea Koski Mehmed-Pasha (dove è possibilesalire sul minareto per avere una vista panoramica sulla città) e percorrere i ciottoli che costeggiano il fiume Neretva fino al ponte. 
 Da qui si può scendere verso sinistra e ritrovarsi sulla sponda per ammirare lo Stari Most dal basso oppure terminare il giro cittadino addentrandosi di nuovo tra vicoli e ristoranti fino a raggiungere un secondo ponticello, anch'esso però molto scenografico. 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
-##### Blagaj
+## Blagaj
 Blagaj è un piccolo villaggio incastonato fra vigneti e montagne, non troppo distante da Mostar, che deve la sua importanza al monastero **Blagaj Tekija**, un monastero derviscio risalente al 1500.
 Ricostruito di recente e abbandonato dai dervisci durante la Seconda Guerra Mondiale per ordine dei nazisti, resta tutt'oggi particolare per essere incastonato nella montagna sulla sorgente del fiume Buna.
 Arrivando ci si ritrova in un luogo un po' snaturato poichè sono stati creati numerosi ristoranti lungo il letto del fiume, e anche trovare la giusta strada per raggiungere il punto panoramico non è semplicissimo (a proposito, spieghiamo come fare nel nostro video in merito). 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
-##### Počitelj
+## Počitelj
 Počitelj è un antico villaggio arroccato tra le mura. È impossibile non ammirarlo già dal basso, ma è camminando fra le sue viuzze acciottolate, inerpicandosi fino in cima alla torre e raggiungendo la fortezza, che sembra di essere catapultati in un passato lontano. 
 Questo villaggio è stato disabitato per tantissimi anni ed è solo grazie alla costruzione della nuova statale che ha potuto acquisire vigore.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 
-##### Trebigne
+## Trebigne
 Trebigne è la città più a sud, a un'ora dal confine con il Montenegro. La città di per sè non ha granchè da offrire. Degni di visita sono invece il monastero ortodosso Tvrdos, a 10 minuti dalla città, che contiene affreschi a dir poco splendidi, in un ambiente circondato da vigneti, e il monastero ortodosso che si trova sulla sommità della collina, dove è possibile godere di un panorama mozzafiato. 
 
-##### Informazioni utili e considerazioni
+## Informazioni utili e considerazioni
 Noi abbiamo sempre effettuato sosta in libera e utilizzato due parcheggi a pagamento centrali per la visita diurna nelle cittadine di Sarajevo e Mostar. 
 La Bosnia ed Erzegovina si è rivelata un paese davvero sicuro.
 Si trovano numerosi campeggi, forse un po' cari per il paese, mentre non si trovano aree di carico e scarico. 

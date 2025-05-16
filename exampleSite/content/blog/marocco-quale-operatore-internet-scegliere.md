@@ -12,19 +12,19 @@ draft: false
 Al giorno d'oggi siamo abituati ad avere facilmente l'accesso a Internet, che ci sembra ancor più essenziale quando si viaggia, consentendoci di rimanere in contatto con amici e familiari, **condividere esperienze sui social**, ottenere informazioni su luoghi da visitare e molto altro. 
 Se stai pianificando **un viaggio in Marocco** e desideri rimanere connesso durante la tua avventura, abbiamo preparato una guida pratica su come ottenere Internet: essendo rimasti in paese 3 mesi a bordo del nostro camper abbiamo raccolto il maggior numero di informazioni possibili per aiutarti a non andare in panico.  
 
-#### Punti di accesso Wi-Fi
+## Punti di accesso Wi-Fi
 I punti di accesso Wi-Fi sono ampiamente disponibili **nelle città più turistiche e nelle strutture ricettive del Marocco**. Hotel, ristoranti, campeggi, caffè e centri commerciali spesso offrono connessioni Wi-Fi gratuite ai loro clienti. 
 Tuttavia, tieni presente che la qualità e la velocità della connessione potrebbero variare. 
 
 I punti di accesso Wi-Fi possono essere una soluzione comoda per caricare qualche foto sui social o la ricerca di informazioni, ma potrebbero non essere affidabili per attività che richiedono una connessione stabile, come lo streaming di video o il download di grandi file.
 
-#### Scheda SIM locale
+## Scheda SIM locale
 Un'opzione **altamente consigliata** per ottenere Internet durante il tuo viaggio in Marocco è l'acquisto di una scheda SIM locale. Sul territorio sono presenti tre operatori:
 - Maroc Telecom
 - Inwi
 - Orange
 
-##### Maroc Telecom 
+### Maroc Telecom 
 **{{<extLink "Maroc Telecom" "https://www.iam.ma/">}}** è la scelta migliore se si vuole avere internet sempre disponibile, **anche in mezzo al deserto del Sahara!**
 Puoi acquistare la SIM facilmente nei negozi autorizzati, nelle stazioni e negli aeroporti. 
 Inoltre è **l'unica opzione disponibile se si prevede un soggiorno breve** (meno di un mese).
@@ -39,7 +39,7 @@ Maroc Telecom offre anche alcune promozioni per avere internet illimitato, che p
 
 {{< procontro pro1="Si trova facilmente" pro2="Prende anche nel Sahara" contro1="Caro">}}
 
-##### Inwi
+### Inwi
 Durante i tre mesi in cui siamo stati in Marocco noi ci siamo sempre affidati a **{{<extLink "Inwi" "https://www.inwi.ma/">}}** e complessivamente ci siamo trovati bene, anche al netto di alcuni problemi di connessione.
 
 Il vantaggio di quest'operatore riguarda non tanto le offerte ricaricabili (che costano come Maroc Telecom) ma quelle relative ai **servizi in abbonamento**m, che spaziano fra varie offerte. 
@@ -56,7 +56,7 @@ Dopo l'attivazione, l'abbonamento si rinnova ogni 18 del mese per il mese succes
 - nei negozi Cash Plus
 - tramite l'app ufficiale ({{<extLink "iOS" "https://apps.apple.com/us/app/my-inwi/id988012514">}} - {{<extLink "Android" "https://play.google.com/store/apps/details?id=ma.inwi.selfcaremobile&hl=en_US">}}), che però potrebbe non accettare la carta di credito.
 
-###### Come disdire
+#### Come disdire
 Per **disdire l'abbonamento** bisogna:
 - chiamare il servizio clienti Inwi 
 - fare domanda di **"resiliation"**, ovvero recessione del contratto
@@ -74,7 +74,7 @@ Cosa significa? Facciamo un esempio per rendere tutto più chiaro, ipotizzando c
   - entro il 18 Febbraio pagare 199dh per il mese successivo (cioè marzo, in modo da avere internet fino al 1 aprile)
 - potete uscire dal paese in tranquillità e internet funzionerà fino a fine mese (Marzo)
 
-###### Cosa rischio se non chiudo correttamente l'abbonamento?
+#### Cosa rischio se non chiudo correttamente l'abbonamento?
 
 All'uscita del paese, al controllo doganale, potrebbero fermarti mandandoti in un centro Inwi a saldare il debito del mese corrente. 
 Ci teniamo a darti tutte le informazioni che abbiamo ottenuto perché nel nostro caso due operatori ci avevano dato due informazioni diverse quindi noi abbiamo ritardato a chiudere il contratto pagando il mese successivo senza usufruirne e probabilmente se dovessimo tornare in Marocco dovremmo pagare ancora una mensilità..
@@ -84,7 +84,7 @@ In questo video raccontiamo live cosa è successo.
 
 {{< procontro pro1="Internet illimitato" pro2="Costa poco" contro1="Disponibile solo in abbonamento ..." contro2="... che non è facile da rinnovare e ..." contro3="... non è facile da disdire!">}}
  
-##### Orange
+### Orange
 Non abbiamo provato personalmente questo operatore del quale ci hanno parlato altri viaggiatori e riportiamo quindi la loro esperienza.
 
 {{<extLink "Orange" "orange.ma">}} non offre piani con internet illimitato, ma un'ottima SIM ricarcabile a prezzi ragionevoli (circa 0.50 euro al giga). Inoltre **poche persone usano Orange nel paese** e quindi la rete funziona abbastanza bene senza sovraccarico.

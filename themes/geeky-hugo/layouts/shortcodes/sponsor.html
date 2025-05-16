@@ -2,6 +2,7 @@
 {{ $title := .Get "title" }}
 {{ $description := .Get "description" }}
 {{ $type := .Get "type" }}
+{{ $disclaimer := .Get "disclaimer" | default "true" }}
 
 {{ $screenshotUrl := printf "https://api.microlink.io/?url=%s&screenshot=true&meta=false&embed=screenshot.url" $url }}
 
@@ -25,6 +26,8 @@
   </a>
 </div>
 
+{{ if ne $disclaimer "false" }}
 <div class="sponsor-disclaimer">
   <small><em>{{ $disclaimerText }}</em></small>
-</div> 
+</div>
+{{ end }} 

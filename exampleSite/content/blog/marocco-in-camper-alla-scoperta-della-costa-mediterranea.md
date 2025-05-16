@@ -19,14 +19,14 @@ In ultimo noi abbiamo raggiunto nuovamente Tanger Med, da dove ci siamo imbarcat
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690636799/Articoli/Marocco/marocco%203/marocco_citta_blu_bdom8u.jpg">}}
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Itinerario](#itineario)
 >   - [In breve](#in-breve)
 > - [Considerazioni](#considerazioni)
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe)
 
-##### Itinerario
+## Itinerario
 
 **{{< underline "Giorno 1">}}**: la prima meta di questo articolo ci vede protagonisti in un sito storico e archeologico del Marocco, **Volubilis**. La strada per arrivarci è magica, così come lo è il panorama attorno e l'atmosfera che si respira in un luogo che trasuda secoli di storia. Ci vuole circa un'oretta per visitare il sito alla modica cifra di 7 euro a persona.
 
@@ -57,7 +57,7 @@ Affacciarsi su questi siti è gratuito, anche se numerose persone si proporranno
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690636799/Articoli/Marocco/marocco%203/citta_blu_marocco_yt0xwg.jpg">}}
 
-###### In breve
+### In breve
 
 **{{< underline "Giorno 1">}}**: Volubilis 
 
@@ -79,7 +79,7 @@ Affacciarsi su questi siti è gratuito, anche se numerose persone si proporranno
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690636792/Articoli/Marocco/marocco%203/marocco_costa_mediterranea_qcofuq.jpg" title="Vista in foto sembra pulita, sembra." >}}
 
-##### Considerazioni
+## Considerazioni
 Come anticipato **le tappe lungo la costa mediterranea non ci sono piaciute granchè**, soprattutto per il grande accumulo di immondizia ovunque e alcuni episodi personali spiacevoli. In un paio di occasioni abbiamo richiesto l'intervento della gendarmerie per essere lasciati in pace dai locali.
 
 È stato però giusto vedere con i nostri occhi un confine chiuso, in un mondo che noi speriamo in futuro libero da barriere. Volendo riconsiderare un itinerario più breve forse si potrebbero prendere in considerazione solo le seguenti tappe in una settimana di viaggio: 
@@ -94,7 +94,7 @@ Come anticipato **le tappe lungo la costa mediterranea non ci sono piaciute gran
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690636793/Articoli/Marocco/marocco%203/volubilis_marocco_h2xi1o.jpg">}}
 
-##### Il nostro Vlog
+## Il nostro Vlog
 Di seguito vi lasciamo il video nel quale rivivere insieme a noi le avventure in questi luoghi e un video in cui abbiamo riassunto alcuni consigli per visitare il Marocco. 
 
 - Vlog
@@ -105,7 +105,7 @@ Di seguito vi lasciamo il video nel quale rivivere insieme a noi le avventure in
 
 {{< youtube2 n0Y9ev5EEIk>}} 
 
-##### Le nostre mappe
+## Le nostre mappe
 Questa è la mappa completa del nostro tour di tre mesi in Marocco comprensiva di tutti i posti visitat, gli spot in cui abbiamo dormito e altre informazioni utili. Cliccando in alto a sinistra puoi attivare o disattivare i vari livelli in modo da vedere solo le informazioni di cui ti interessa. Buona navigazione 🗺️
 
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ECqhZ8xnaxMc-PBZKLGmML-epe56eek&ehbc=2E312F">}}

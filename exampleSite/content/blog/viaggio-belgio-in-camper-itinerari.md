@@ -13,7 +13,7 @@ In questo articolo ti portiamo alla scoperta di **3 cittadine in Belgio** che ab
 
 Siamo entrati nel paese da  dai [Paesi Bassi](/blog/viaggio-paesi-bassi-in-camper-itinerari/) ed eravamo diretti in [Francia](/blog/viaggio-francia-alta-francia-in-camper-itinerari/), motivo per cui abbiamo solo attraversato questo stato mantenendo la rotta lungo la costa atlantica.
 
-##### Gand: La città più bella del Belgio
+## Gand: La città più bella del Belgio
 
 Abbiamo parcheggiato a venti minuti a piedi dal centro. Ponti lungo il canale, arriviamo alla piazza centrale. Imbocchiamo i 120 metri di porticato dedicato alla **street art**, costellato di murales fin verso le finestre delle abitazioni. Siamo affamati. Decidiamo di prendere un cono di patatine fritte. Da settimane ormai **è questo lo snack da passeggio più visto**. E noi che eravamo abituati ai tranci di pizza. 
 
@@ -25,7 +25,7 @@ Lasciamo la città, {{<extLink "torniamo in campagna" "https://goo.gl/maps/2xAkD
 
 {{< carousel images="Articoli/Belgio/damme_k8sqmj,Articoli/Belgio/damme-albero-libri_ljs8iy,Articoli/Belgio/damme-citta_h7u2zb,Articoli/Belgio/damme-gatto_qizder,Articoli/Belgio/damme-libri_imnb2i,Articoli/Belgio/gand_gzuyki,Articoli/Belgio/gand-case_jmdlzp,Articoli/Belgio/gand-cattedrale_rjsuj8,Articoli/Belgio/gand-ristorante_hsgxzb,Articoli/Belgio/gand-ristorante-interno_mjhnoz,Articoli/Belgio/IMG_2309_tzp7iq" >}}
 
-##### Bruges: la capitale delle Fiandre Occidentali
+## Bruges: la capitale delle Fiandre Occidentali
 
 Piove. Ma spunta un arcobaleno bellissimo sulla nostra destra. {{<extLink "Parcheggiamo" "https://goo.gl/maps/xP3SqFr2gwmrxiJf8">}} e diamo cena agli animali, per poi decidere di recarci in centro. Il vento è freddo. Le prime case iniziano subito a catturare la nostra attenzione. Abbiamo una meta: **{{<extLink "un piccolo locale inaugurato nel 1515" "https://goo.gl/maps/1qRnuSifgfAXsXsY8">}}** e ancora aperto!
 
@@ -41,7 +41,7 @@ Cerchiamo un posto dove riposare tranquilli, probabilmente cullati dal suono del
 
 {{< carousel images="Articoli/Belgio/belgio-notte_ohjrxs,Articoli/Belgio/belgio-cattedrale_lppvyi,Articoli/Belgio/bruges_blyzox,Articoli/Belgio/bruges-case_cj1clx,Articoli/Belgio/gand-casa-rossa_b0xpx4,Articoli/Belgio/gand-di-notte_c8lz8o,Articoli/Belgio/tramonto-beglio_ei2elt" >}}
 
-##### Damme: il paese più romantico e famoso delle Fiandre Occidentali
+## Damme: il paese più romantico e famoso delle Fiandre Occidentali
 
 Una piccola frazione a 6 km da Bruges. **Un borgo minuscolo**, che si estende su di una via principale e quattro laterali. Decidiamo di tirare su i cappucci e fare due passi con i nostri animali. Appena scendiamo dal van un signore parcheggiato poco oltre si sbraccia per catturare la nostra attenzione. Ci avviciniamo. È francese. Riusciamo a intendere che adora vederci tutti e quattro insieme e che gli spiace che il tempo oggi non sia dalla nostra parte. Lo ringraziamo e salutiamo, diretti a camminare veloci. 
 
@@ -49,7 +49,7 @@ Il vento entra attraverso ogni centimetro di tessuto. Arriviamo nella piazza cen
 
 Già, il tempo. E come sfuggirli. Ciao destino, bentornato a trovarmi. Quanto mi vuoi sfidare? A fianco all’albero una chiesa. Di cui una parte del tetto diroccata. Si vede il cielo fra le pareti delle navate. Lui trova sempre un modo per farsi vedere. **Oggi è un dipinto di nuvole.** 
 
-##### Considerazioni 
+## Considerazioni 
 
 Siamo stati davvero troppo poco in Belgio per poter dare un parere costruttivo. Quel poco che abbiamo visto però ci ha fatto una buona impressione: le cittadine sono pulite, le campagne curate, le persone estremamente gentili.
 

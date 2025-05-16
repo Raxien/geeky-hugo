@@ -14,7 +14,7 @@ Non ce ne vogliano gli amanti del croissant, per noi vince **senza dubbio alcuno
 
 Ebbene sì, e amiamo un dolce che **“letteralmente” vale meno**. La ricetta del pain au chocolat infatti non ha una storia antica come il pain aux raisins o la tradizionalissima brioche e non esistono documenti che ne attestino l’effettiva invenzione. 
 
-##### Premio nobel al cioccolato a chi l'ha inventato
+## Premio nobel al cioccolato a chi l'ha inventato
 
 Anche se a me pare strano che **a nessun vecchio boulanger sia apparso in sogno un pan au chocolat**, sembrerebbe proprio che il famoso dolce sia semplicemente un'evoluzione del croissant, nella forma e nel contenuto. Addirittura il nome potrebbe derivare da **“Schokoladencroissant”**, un dolce a forma di mezzaluna importato **da August Zang, ex militare dell'esercito imperiale austriaco**, quando questi aprì una pasticceria a Parigi. Se così fosse si potrebbe dare ragione alle regioni occitane e al nome chocolatine, ma la discussione in tutta la Francia rimane aperta e tesa. 
 
@@ -26,7 +26,7 @@ Seriamente, come fare a resistere al classico saccottino sfogliato farcito con s
 
 Non abbiamo trovato risposta, solo briciole a farci da complici. 
 
-##### Prepariamo i pain au chocolat a bordo del camper
+## Prepariamo i pain au chocolat a bordo del camper
 
 **Follia!**
 
@@ -37,7 +37,7 @@ Cuocerli, giusto. In forno. **Quale forno?** Il van intero, che domande! Quello 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1688827045/Articoli/Cibo/pain-au-chocolat-gatto_zf8ens.jpg">}}
 
-##### Ecco la miglior ricetta!  
+## Ecco la miglior ricetta!  
 
 **Bugia**. Avrei potuto copiare brutalmente la ricetta da qualcuno che li ha cucinati per davvero. O che almeno ci ha provato.
 O che potrebbe averla copiata a sua volta! **Che problema c’è, suvvia!** Non credo che un pain au chocolat a questo punto possa rimanergli sullo stomaco!

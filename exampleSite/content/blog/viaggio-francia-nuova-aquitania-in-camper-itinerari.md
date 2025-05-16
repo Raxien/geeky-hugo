@@ -11,7 +11,7 @@ draft: false
 
 Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati sulla costa atlantica del sud della Francia. Siamo arrivati in questa regione dopo aver visitato la [Normandia](/blog/viaggio-francia-normandia-in-camper-itinerari/) e la [Bretagna](/blog/viaggio-francia-bretagna-in-camper-itinerari/) e siamo stati felicissimi di scoprire queste zone fino a raggiungere il capoluogo Bordeaux per poi dirigerci a Bayonne e Biarritz. 
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Itinerario](#itinerario)
 >   - [In breve](#in-breve)
 > - [Strade](#strade)
@@ -21,7 +21,7 @@ Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati s
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe) 
 
-##### Itinerario
+## Itinerario
 Vuoi visitare questa regione giorno dopo giorno insieme a noi? Abbiamo ricreato un piccolo diario giornaliero. 
 Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
 
@@ -53,7 +53,7 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682862725/Articoli/francia/IMG_8318_i0b77u.jpg">}}
 
-###### In Breve
+### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera, in parcheggi in cui non erano presenti divieti o in aree camper gratuite. 
 
 **{{< underline "Giorno 1-2">}}**: La Rochelle - Saint-Thomas-de-Conac
@@ -78,10 +78,10 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera, in parcheggi in cui 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682862720/Articoli/francia/IMG_8478_icsos7.jpg">}}
 
-##### Strade 
+## Strade 
 Come nel resto del paese non abbiamo trovato strade in condizioni pericolose. 
 
-##### Servizi e soste
+## Servizi e soste
 In Francia è molto semplice trovare aree di servizio attrezzate e gratuite per carico e scarico.
 Per le soste in libera noi non abbiamo avuto problemi dato che ci siamo recati in un periodo di bassa stagione. 
 Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio. 
@@ -90,10 +90,10 @@ Se ti rechi in estate potresti avere più difficoltà a trovare parcheggio.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682862708/Articoli/francia/IMG_7194_rumhcv.jpg">}}
 
-##### Viaggiare con il proprio animale
+## Viaggiare con il proprio animale
 {{< animali "EU">}}
 
-##### Considerazioni e tappe imperdibili
+## Considerazioni e tappe imperdibili
 Non conoscevamo la Nuova Aquitania e dobbiamo essere sinceri, certe sue caratteristiche ci hanno piacevolmente colpiti. Nonostante il clima non sia dei più favorevoli si respira un'atmosfera serena e pacifica.
 
 In camper o auto, le mete imperdibili secondo noi sono :
@@ -105,10 +105,10 @@ In camper o auto, le mete imperdibili secondo noi sono :
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682863464/Articoli/francia/A11AE756-B3B1-4867-AB22-DC1B3797A139_2_qys5ua.jpg">}}
 
-##### Il nostro Vlog 
+## Il nostro Vlog 
 Nel video qui sotto puoi sentire le nostre considerazioni su queste zone oppure trovi la serie completa sul paese {{<extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8">}}.
 
 {{< youtube2 3BQKTpHqFP4>}}
 
-##### Le nostre mappe
+## Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1MHF6Cy2vwWikjALaqs5u8QAf2PibH1Y&ehbc=2E312F" "1">}}

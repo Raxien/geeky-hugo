@@ -13,5 +13,4 @@ Nuovo appuntamento con **"Storie di straordinaria follia"** sempre in collaboraz
 
 Mettetevi comodi e buon ascolto!
 
-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/316ZmN0D8EJpPW5tbfc0pt?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

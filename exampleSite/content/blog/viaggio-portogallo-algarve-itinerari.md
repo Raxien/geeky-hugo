@@ -13,7 +13,7 @@ L'Algarve è una delle mete più rinomate del turismo portoghese: questa regione
 Le sue spiagge e scogliere sono davvero meravigliose e meritano una sosta in qualsiasi stagione. 
 Se vuoi visitare insieme a noi tutto il resto del paese ti rimandiamo [all'articolo generale](/blog/viaggio-portogallo-in-camper-itinerari/).
 
-##### Itinerario
+## Itinerario
 
 - **{{< underline "Giorno 1 - Sagres">}}**:
 
@@ -60,14 +60,14 @@ Se vuoi visitare insieme a noi tutto il resto del paese ti rimandiamo [all'artic
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683757805/IMG_3702_pmpukm.jpg">}}
 
-##### Curiosità
+## Curiosità
 L'Algarve è una regione che, se vissuta on the road, secondo noi offre scorci decisamente degni di una sosta. Anche i piccoli paesini si prestano per piacevoli passeggiate. Visitare questi luoghi fuori stagione può far assaporare un po' di saudade, ma li rende certamente più autentici rispetto all'estate, periodo in cui vengono presi d'assalto dal turismo. 
 
-##### Il nostro Vlog 
+## Il nostro Vlog 
 
 Vuoi rivivere le nostre avventure on the road in Portogallo? Trovi tutta la playlist {{<extLink "a questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ9fxLqD_0GFKVZBwnHQiM4I">}}.
 
-<!-- ##### Le nostre mappe -->
+<!-- ## Le nostre mappe -->
 <!-- {< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F">}} -->
 
  

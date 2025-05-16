@@ -14,7 +14,7 @@ Quando abbiamo pensato a un luogo semplice e accogliente in cui riunire i pochi 
 
 *Volevamo poter ridere di gusto senza sentirci fuori luogo, senza dover indossare la maschera di principini delle favole.*
 
-##### Il luogo perfetto 
+## Il luogo perfetto 
 
 È così che ci siamo ritrovati a ballare sulle giostre dei bambini, a cadere dallo **scivolo e sporcarci il vestito senza vergogna**, a ripararci dalla pioggia sotto al porticato osservando la nebbia salire da valle. 
 È così che, quando le nuvole sono scomparse, siamo corsi tutti fuori a ringraziare il re di pietra, il Monviso, per aver fatto capolino. 
@@ -27,7 +27,7 @@ Volevamo che la natura fosse al nostro fianco, volevamo poter rimanere a dormire
 
 Purtroppo come avrete capito il meteo non è stato un degno compare per tutta la giornata, motivo per cui abbiamo dovuto rinunciare a salire in seggiovia e scattare qualche foto ricordo ben più panoramica.
 
-##### Non solo un rifugio
+## Non solo un rifugio
 
 Pian Munè infatti non è soltanto un luogo dove passeggiare e dove trovare ben due rifugi in cui rifocillarsi con buon cibo della tradizione. 
 
@@ -38,7 +38,7 @@ Per noi invece c'è racchiuso tutto: qui Sara ha imparato a sciare, qui abbiamo 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/brindisi_sposa_lnenuy.jpg">}}
 
-##### Un team eccezionale 
+## Un team eccezionale 
 
 Nei rifugi di Pian Munè Marta e il suo team sanno accogliere e ascoltare, oltre a proporre non solo menù sempre accativanti e a tema, ma soprattutto eventi di ogni genere. 
 Per noi hanno curato ogni dettaglio, **allestendo il tavolo con fiori di campo e rametti di rosmarino**, semplici e delicati. 
@@ -49,7 +49,7 @@ Che sia per una tappa nel rifugio a valle a 1535 m o per una gita a passeggio o 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/la_tavolata_bvn0ws.jpg">}}
 
-##### Wild life
+## Wild life
 
 Se come noi siete vanlifers o camperisti vi aspetta un comodo parcheggio con vista cucuzzolo del Monviso, ma potete anche pernottare in tenda in un'area apposita su prato oppure scegliere una struttura nel paese di Paesana, a 15 km.  
 

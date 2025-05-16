@@ -14,7 +14,7 @@ Sicuramente, se leggete le disposizioni della {{<extLink "Farnesina" "https://ww
 Proprio per questo motivo e dato che noi abbiamo solo attraversato il paese per andare in Senegal (che puoi trovare [qui](/blog/guida-senegal-in-camper-itinerari-informazioni/)), non possiamo scrivere una guida dettagliata del posto.
 Vi riportiamo comunque tutte le informazioni relative alle pratiche doganali, ai costi e alla situazione delle strade. Vi lasciamo anche alcune escursioni che potete fare nel caso vogliate visitare più a fondo il paese.
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Il Paese](#il-paese)
 > - [Itinerario](#itinerario)
 >   - [Andata](#andata)
@@ -86,7 +86,7 @@ Avendo perso tempo in Marocco per problemi con la linea internet, abbiamo deciso
 
 {{< youtube2 9fsV_nTm9bg >}}
 
-#### Frontiera con il Marocco
+# Frontiera con il Marocco
 
 **{{< underline "Ingresso dal Marocco">}}**
 
@@ -104,7 +104,7 @@ Molto più semplice dell'ingresso. Noi abbiamo dormito di fronte alla frontiera.
 3. bisogna andare a consegnare il passavant del mezzo all'uscita doganale 
 4. bisogna andare con i passaporti al controllo militare (penultimo edificio sulla destra prima di entrare in terra di nessuno, a fianco della Moschea)
 
-#### Frontiera con il Senegal (Diama)
+# Frontiera con il Senegal (Diama)
 
 Sulla strada che conduce a Diama si trova l'ingresso al parco del Dwailing, dove viene richiesta la fiche de police e in base all'orario si deve pagare una tassa per l'attraversamento della riserva. Noi abbiamo pagato all'andata mentre al ritorno, essendo mattino molto presto, non abbiamo trovato nessuno. Alcuni viaggiatori **ci hanno detto che non si deve pagare nel caso in cui si attraversi solo il parco per raggiungere la dogana,** provate a chiedere (l'abbiamo scoperto dopo).
 

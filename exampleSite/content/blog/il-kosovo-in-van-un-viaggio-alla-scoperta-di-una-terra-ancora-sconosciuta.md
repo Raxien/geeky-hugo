@@ -13,7 +13,7 @@ Il Kosovo è una terra ricca di storia, cultura e natura, ma è ancora relativam
 
 Il Kosovo è un paese sicuro e accogliente. Vuoi saperne di più? **Continua a leggere per scoprire tutto** quello che devi sapere per organizzare il tuo viaggio.
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Cosa vedere](#cosa-vedere)
 >   - [Pejë: un monastero, una birra e del buon formaggio](#pejë-un-monastero-una-birra-e-del-buon-formaggio)
 >   - [Monastero di Visoki Dečani: da fotografare con gli occhi](#monastero-di-visoki-dečani-da-fotografare-con-gli-occhi)
@@ -35,14 +35,14 @@ Il Kosovo è un paese sicuro e accogliente. Vuoi saperne di più? **Continua a l
 > - [Il nostro vlog](#il-nostro-vlog)
 > - [Le nostre mappe](#le-nostre-mappe)
 
-##### Cosa vedere
+## Cosa vedere
 
 Il Kosovo si trova nei Balcani ed è la destinazione meno conosciuta e visitata di questa zona, tant'è che è difficile trovare in rete informazioni in merito a cosa visitare. In questo articolo speriamo di riuscire a condividervi **non solo informazioni utili ma anche le emozioni vissute** in questo paese meraviglioso, invogliandovi magari a partire per scoprire luoghi che meritano davvero un grande riscatto. 
 
 Vi elencheremo le nostre tappe in ordine di visita, partendo da nord dato che abbiamo attraversato la frontiera tra Kosovo e [Montenegro](/blog/viaggio-montenegro-in-camper-itinerario) per poi terminare le nostre avventure e proseguire in Macedonia del Nord.
  <!-- [Macedonia del Nord](/blog/viaggio-macedonia-del-nord-in-camper-itinerario). -->
 
-###### Pejë: un monastero, una birra e del buon formaggio
+### Pejë: un monastero, una birra e del buon formaggio
 
 Pejë (o Peć) è stata la prima città che abbiamo visitato e merita una visita sia per ragioni culturali che culinarie.
 
@@ -61,7 +61,7 @@ I maggiori punti di interesse della città secondo noi sono:
 Se prima citavamo alcune ragioni culinarie per visitare questi luoghi è perché Pejë è famosa perché da i natali **alla omonima, e buonissima, birra nazionale** mentre il prodotto tipico della vallata di Rugova è il famoso **formaggio di Rugova**, simile alla feta come consistenza, dal gusto molto salato. 
 Entrambi questi prodotti potete gustarli nei numerosi bar o ristoranti oppure acquistarli al supermercato.
 
-###### Monastero di Visoki Dečani: da fotografare con gli occhi
+### Monastero di Visoki Dečani: da fotografare con gli occhi
 
 A soli 12 km dalla città di Pejë si trova **il Monastero di Visoki Dečani**, che racchiude la più grande chiesa medievale dei Balcani con la più vasta collezione di affreschi. 
 Perché "da fotografare con gli occhi"? Oggigiorno il monastero è sotto la protezione delle Nazioni Unite e della KFOR ed è severamente vietato fare riprese o foto.
@@ -70,14 +70,14 @@ Sulla strada sono presenti dei check-point presidiati dalle forze armate del KFO
 
 Anche in questo caso non avete nulla da temere: varcato il portone d'ingresso vi ritroverete in una bolla di silenzio e pace.
 
-###### Gjakova: Un gioiellino inaspettato
+### Gjakova: Un gioiellino inaspettato
 
 Online si trovano poche informazioni circa la città di Gjakova (in italiano Giacovizza) e proprio per questo motivo avevamo previsto di sfruttarla solo come sosta per la notte. Sede un tempo di un aeroporto militare gestito dall'Aeronautica Militare Italiana, questo luogo ci ha fatti ben presto ricredere. 
 Gjakova è una città con un centro caratterizzato da un enorme bazar con case in legno che a tratti ci hanno ricordato alcuni luoghi visitati [in Giappone](/blog/viaggio-giappone-informazioni-e-itinerari). Camminando tra le viuzze che pullulano di caffè, ristoranti e piccole botteghe si possono ammirare numerosi artigiani intenti a intagliare le tipiche culle realizzate in legno.
 Meritano una visita anche una casa in stile albanese, la prima guesthouse nel paese, e il lungo fiume che presenta una serie di murales veramente belli, ancora più suggestivi da ammirare di sera.
 
 
-###### Cascate di Mirusha: un'escursione inaspettata
+### Cascate di Mirusha: un'escursione inaspettata
 
 Anche questo luogo non era in programma, dato che non ne avevamo trovato traccia in nessun blog spulciato sul web, ma abbiamo deciso all'ultimo di fare questa deviazione verso il parco di Mirusha.
 Situato a soli 20 minuti di strada da Gjakova, questo parco vi permetterà di ammirare **un canyon caratterizzato da 13 laghi e relative cascate.**
@@ -91,7 +91,7 @@ Se doveste recarvici salutate da parte nostra il custode del giardino, che parla
 {{< youtube2 QS-N-wQvHq0>}}
 _Scopri con noi la ferrata alle cascatate di Mirusha!_
 
-###### Prizren: "There's a lot to see"
+### Prizren: "There's a lot to see"
 
 Questo è quello che ci hanno detto due turisti inglesi non appena siamo arrivati **nella capitale culturale di Prizren**: "There's a lot to see! Lot to see!" cioè "c'è tanto da vedere"! Ed effettivamente nel centro storico della città, **il quartiere Shattērvan** , si trovano tantissime cose interessanti! 
 
@@ -103,7 +103,7 @@ Una volta raggiunta la sommità potrete sedervi sotto l'imponente scritta UCK e 
 
 {{< carousel images="Articoli/kosovo/prizren-mopschea_dbet6w,Articoli/kosovo/prizre-chiesa-piccola_nd9ybe,Articoli/kosovo/prizren-canali_ctqb6h,Articoli/kosovo/prizren-chiesa_njbuxu,Articoli/kosovo/prizren-chiesa-scoperchiata_vsy2si,Articoli/kosovo/prizren-moschea_ddufaw,Articoli/kosovo/prizren-persona_ixqnpq,Articoli/kosovo/prizren-porta_ctncte,Articoli/kosovo/prizren-sarto_pcrlwl" >}}
 
-###### Il santuario degli orsi
+### Il santuario degli orsi
 
 Il santuario degli orsi di Pristina merita sicuramente una visita ma per capire il perché bisogna fare un salto indietro nel tempo. 
 In Kosovo non era insolito imbattersi in orsi esposti in gabbie molto piccole, talvolta senza una tettoia come riparo dal sole, al di fuori dei ristoranti con il solo fine di attirare turisti e clienti. Solo nel 2010 il governo decise di metter fine a questa barbarie è di li a poco, nel 2013, è nato il santuario degli orsi il cui scopo è stato quello di salvare e creare un luogo che permettesse a questi orsi nati in cattività di poter condurre una vita in semilibertà.
@@ -116,14 +116,14 @@ Nota di merito: è disponibile un parcheggio gratuito per i camper, con fontana 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682862720/Articoli/kosovo/kosovo-bear-sancturay-orso_kbzugk.jpg">}}
 
-###### Il monastero di Gračanica
+### Il monastero di Gračanica
 
 Sempre nei dintorni della capitale si trova il monastero serbo-ortodosso di Gračanica, situato nella omonima città. Costruito nel XIV secolo, fa parte del patrimonio culturale serbo-ortodosso del Kosovo ed è famoso sia per i suoi affreschi medievali ben conservati che raccontano la storia della Bibbia, sia per essere un capolavoro dell'architettura serba medievale. Il monastero è stato dichiarato patrimonio dell'umanità dall'UNESCO nel 2004.
 
 A differenza degli altri monasteri non vengono richiesti i documenti ma permane il divieto di scattare fotografie all'interno.
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682862720/Articoli/kosovo/kosovo-gracanica-monastero_xatboe.jpg">}}
 
-###### Pristina: Newborn!
+### Pristina: Newborn!
 
 Non sapevamo minimamente cosa aspettarci da Pristina, la capitale dello stato più giovane d’Europa, ma ne siamo rimasti piacevolmente stupiti. 
 Patria di due delle cantanti più famose degli ultimi tempi, Dua Lipa e Rita Ora, è una città viva, vivace, moderna e spensierata, forse per dimenticare gli orrori successi in Kosovo 20 anni fa. 
@@ -142,14 +142,14 @@ Merita uno sguardo anche al suo interno, dove si trovano alcune sale davvero par
 
 {{< carousel images="Articoli/kosovo/pristina-bibblioteca-notte_vywud3,Articoli/kosovo/pristina-chiesa_sx3ewr,Articoli/kosovo/pristina-chiesa-abbandonata_c9ljbp,Articoli/kosovo/pristina-chiesa-notte_nlxpsb,Articoli/kosovo/pristina-di-notte-newborn_jsgy26,Articoli/kosovo/pristina-interno-chiesa_wn7ywi,Articoli/kosovo/pristina-interno-organo_coik9z,Articoli/kosovo/pristina-murales_duroat,Articoli/kosovo/pristina-murales-2_gjhaa5,Articoli/kosovo/pristina-opara-millo_lpbnsi,Articoli/kosovo/pristina-orologio_juh6fs" >}}
 
-###### Grotte di Gadime: che spettacolo della natura
+### Grotte di Gadime: che spettacolo della natura
 
 Le Grotte di Gadime, scoperte per caso nel 1969 da un contadino del luogo (e scoperte da noi per caso cercando un punto dove sostare), permettono alla modica cifra di 2€, di ammirare stalattiti e stalagmiti davvero particolari in un cunicolo di grotte lungo un paio di chilometri. 
 La visita dura circa mezz'ora e nel nostro caso un ragazzo gentilissimo anche se non parlava inglese ha provato a spiegarsi al meglio per farci ammirare alcune figure create dalle rocce.
 
 {{< youtube2 tBHoCNmERUk>}}
 
-##### Itinerario
+## Itinerario
 
 Come vi scrivevamo nella sezione precedente, le mete che vi abbiamo elencato sono in ordine di visita entrando dal Montenegro e uscendo verso la Macedonia. Se doveste visitare il paese arrivando direttamente a Pristina potreste valutare anche questo itinerario: 
 
@@ -163,7 +163,7 @@ Come vi scrivevamo nella sezione precedente, le mete che vi abbiamo elencato son
 
 **{{< underline "Giorno 6">}}**: Monastero di Decan, Peje e il santuario patriarcale
 
-##### Tour culinario
+## Tour culinario
 In questo viaggio alla scoperta del Kosovo non potevamo non assaggiare alcuni piatti e prodotti tipici del paese. Purtroppo molte ricette prevedono l'utilizzo della carne che noi non mangiamo, per cui abbiamo ristretto un po' il cerchio rimanendo però piacevolmente stupiti. 
 
 **{{< underline "Formaggio Rugova">}}**: è un formaggio che ricorda sia nella forma che nella consistenza e nel gusto la molto più rinomata feta.
@@ -185,13 +185,13 @@ Viene prodotto a nord del paese, nella Rugova valley, e si trova sia nei ristora
 
 **{{< underline "La pizza">}}**: la pizza sì, hai letto bene! Nel nostro tour culinario in questo paese abbiamo voluto magiare una buona pizza! Non è raro trovare pizzerie in Kosovo, nel nostro caso abbiamo scelto con cura assaggiando i buonissimi prodotti della pizzeria "La Napoletana".
 
-##### Informazioni
+## Informazioni
 Di seguito alcune informazioni utili per visitare il paese in auto o camper in tutta tranquillità.
 
-###### Assicurazione sanitaria
+### Assicurazione sanitaria
 {{< assicurazione>}}
 
-###### Strade 
+### Strade 
 Le strade sul territorio del Kosovo sono in buono stato e non abbiamo trovato grosse difficoltà nel muoverci attraverso il paese, anche percorrendo strade secondarie. 
 Sono presenti anche alcuni tratti di autostrada: noi abbiamo percorso quella che va da Prizren a Pristina e quella che va da Pristina al confine con la Macedonia ed erano in ottimo stato. 
 
@@ -199,11 +199,11 @@ Nel momento in cui scriviamo sono totalmente gratuite ma non sappiamo ancora per
 
 Segnaliamo che il tratto di strada tra il border del Montenegro e il Kosovo, detto [no man's land](/blog/dogana-mauritania), è stupendo! Una strada in ottimo stato immersa nella natura. 
 
-###### Servizi e soste
+### Servizi e soste
 Noi non abbiamo avuto alcun problema nè parcheggiandoci di giorno nè dormendo in libera tutte le notti.
 Segnaliamo che non si trovano aree soste gratuite attrezzate per carico e scarico e sono presenti pochissime fontane con acqua potabile, quindi valutate bene le vostre necessità. Si trovano comunque alcuni campeggi. 
 
-###### Dogana
+### Dogana
 Il Kosovo ha stretto alcuni accordi con l'Italia che permettono l'ingresso nel paese **esibendo semplicemente la propria carta d'identità**. Se si vuole entrare nel paese con il proprio mezzo bisogna stipulare un'assicurazione del mezzo alla frontiera in quanto in Kosovo non vale la carta verde.
 
 I costi variano in base al mezzo e secondo noi anche un po' all'assicuratore che trovate in loco:
@@ -215,14 +215,14 @@ Quando siamo arrivati alla frontiera l'assicuratore voleva farci pagare 138 euro
 
 Noi siamo entrati dall'unica frontiera aperta {{<extLink "fra Montenegro e Kosovo" "https://maps.app.goo.gl/LwB4EZ1RsvikkMP38">}} e {{<extLink "usciti verso la frontiera Macedone" "https://maps.app.goo.gl/nCdxWHAiLZxZGoxw5">}} e in nessuna delle due abbiamo avuto problemi, anzi. Per la prima volta abbiamo trovato dei doganieri simpatici e felici di incontrarci!
 
-###### Viaggiare con il proprio animale
+### Viaggiare con il proprio animale
 {{< animali "EX">}}
 
-##### Il nostro Vlog 
+## Il nostro Vlog 
 Se vuoi rivivere le nostre avventure trovi la **{{<extLink "playlist completa qui" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-7swbxxVk-IMXnyrJLuH04">}}** oppure premi play qui sotto:
 
 {{< youtube2 -AWumnDAAI0>}}
 _Ovviamente il titolo è provocativo!_
 
-##### Le nostre mappe
+## Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1fuaGW8i4r5isH2s5RpLgJl3ZJXeNN8s&ehbc=2E312F">}}

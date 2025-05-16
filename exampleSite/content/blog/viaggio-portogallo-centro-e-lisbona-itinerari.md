@@ -13,7 +13,7 @@ Città con case dalle pareti colorate e onde dell'oceano indimenticabili anche s
 Vieni con noi alla scoperta di Lisbona e di tante altre piccole realtà del centro del Portogallo, in un roadtrip di 10 giorni da vivere in automobile o in campervan. 
 Se invece hai intenzione di visitare anche altre zone del paese ti rimandiamo [all'articolo generale](/blog/viaggio-portogallo-in-camper-itinerari/).
 
-##### Itinerario
+## Itinerario
 
 - **{{< underline "Giorno 1 - Aveiro">}}**:
 
@@ -76,7 +76,7 @@ Se invece hai intenzione di visitare anche altre zone del paese ti rimandiamo [a
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683737134/IMG_2021_kbejtx.jpg">}}
 
 
-##### Curiosità
+## Curiosità
 A Lisbona abbiamo comprato (e divorato!) il Pastel de nata, o Pastéis de Belém, in quella che si ritiene essere la {{<extLink "pasticceria" "https://pasteisdebelem.pt/?gclid=CjwKCAjwge2iBhBBEiwAfXDBRyxeU-RJpv47O3tW7Pw6yuVuask50_8hFjV5bje0cpvd90aHLtUp_RoCZScQAvD_BwE">}} più antica (e secondo noi più buona) della città. Si tratta del tipico tortino dolce ripieno di crema, che noi ti consigliamo di spolverare di cannella!
 Non temere di non vedere i tipici tram gialli simbolo della città! Quando meno te lo aspetti "sfrecceranno" al tuo fianco e potrai scattare loro una fotografia o salirci al volo!
 Se ti avanza un po' di tempo potresti raggiungere la vicina Cascais, cittadina molto carina e con una bella passeggiata sulla costa. 
@@ -84,14 +84,14 @@ Se ti avanza un po' di tempo potresti raggiungere la vicina Cascais, cittadina m
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683737077/IMG_1704_a1vehj.jpg">}}
 
 
-##### Il nostro Vlog 
+## Il nostro Vlog 
 
 Vuoi salire a bordo del van con noi? 
 Puoi trovare la serie completa delle nostre avventure in Portogallo {{<extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8">}}.
 
 <!-- <div id="Mappe"></div> -->
 
-<!-- ##### Le nostre mappe -->
+<!-- ## Le nostre mappe -->
 <!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F">}} -->
 
  

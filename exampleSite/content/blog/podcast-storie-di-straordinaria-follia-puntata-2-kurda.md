@@ -13,5 +13,4 @@ Nuovo appuntamento con **"Storie di straordinaria follia"** sempre in collaboraz
 
 Sarà pericoloso come si crede? Mettetevi comodi che vi raccontiamo **le due settimane più pazze del nostro viaggio!**
 
-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1kukW33FCd9f8yTfDO5FxH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

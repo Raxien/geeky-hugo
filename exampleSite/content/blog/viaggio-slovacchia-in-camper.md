@@ -12,7 +12,7 @@ draft: false
 Il nostro tour della Slovacchia a bordo del van è durato purtroppo pochissimi giorni, un po' perché [avevamo un appuntamento in Polonia ](/blog/viaggio-polonia-in-camper-itinerari)  un po' perché non ci aspettavamo di trovare una temperatura di **40 gradi a inizio luglio.**
 Vi lasciamo comunque il racconto delle nostre tappe e un paio di spunti per alcune mete che purtroppo in questo giro non siamo riusciti a raggiungere.
 
-> ##### Tabella dei contenuti
+> ## Tabella dei contenuti
 > - [Itinerario](#itinerario)
 >   - [In breve](#in-breve)
 > - [Viaggiare con il proprio animale](#Animali)
@@ -20,7 +20,7 @@ Vi lasciamo comunque il racconto delle nostre tappe e un paio di spunti per alcu
 > - [Il nostro vlog](#Vlog)
 > - [Le nostre mappe](#Mappe)
 
-##### Itinerario
+## Itinerario
 Come dicevamo il nostro è stato un itinerario creato ad hoc per sfruttare il paese e le sue strade come ponte per arrivare nella zona dei **Monti Tatra a sud della Polonia**. Siamo entrati in Slovacchia il 29 giugno sera e siamo usciti il 3 luglio. Giusto una toccata e fuga, che potrebbe essere presa in considerazione per chi ha pochi giorni ma vuole farsi un'idea del paese vivendolo on the road. 
 
 **{{< underline "Giorno 1: Bratislava">}}**: abbiamo [lasciato l'Austria](/blog/austria-in-camper-con-cane-e-gatto) raggiungendo la vicinissima capitale della Slovacchia, **Bratislava**, intorno alle 21. Abbiamo parcheggiato sul lungo Danubio, in una zona con localini popolati da giovani che erano intenti a godersi la serata seduti a riva e data l’aria fresca abbiamo deciso di approfittarne per fare una bella passeggiata con i nostri animali e di concederci anche noi una birra al rientro, ascoltando un po’ di buona musica. Notte in libera affacciati sul Danubio.
@@ -44,7 +44,7 @@ Vuoi scoprire le nostre avventure in Polonia? [Qui](/blog/viaggio-polonia-in-cam
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1684676270/IMG_5553_pujghy.jpg">}}
 
-###### In Breve
+### In Breve
 Di seguito le sole tappe. Abbiamo sempre dormito in libera, in parcheggi in cui non erano presenti divieti o in aree camper gratuite. 
 
 **{{< underline "Giorno 1-2">}}**: Bratislava
@@ -57,22 +57,22 @@ Di seguito le sole tappe. Abbiamo sempre dormito in libera, in parcheggi in cui 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1684676272/IMG_5441_apebh6.jpg">}}
 
-##### Strade 
+## Strade 
 In tutto il paese abbiamo percorso strade statali ma anche strade in zone di campagna e montagna senza avere alcun problema. 
 
-##### Sicurezza nel paese
+## Sicurezza nel paese
 La Slovacchia è generalmente considerata un paese sicuro per i turisti e i visitatori stranieri. Anche a Bratislava, sia di giorno che di notte, ci siamo sentiti al sicuro. 
 Abbiamo pernottato in luoghi remoti e in mezzo alla natura senza alcuna sensazione di timore. 
 
-##### Viaggiare con il proprio animale
+## Viaggiare con il proprio animale
 {{< animali "EU">}}
 
-##### Considerazioni
+## Considerazioni
 I pochi giorni trascorsi in Slovacchia ci hanno fatto apprezzare tantissime cose del paese, motivo per cui speriamo di tornarci un giorno per poter visitare altre zone di interesse, come ad esempio {{<extLink "le grotte di Škocjan" "https://www.park-skocjanske-jame.si/it/leggi/grotte-di-skocjan/limportanza-delle-grotte">}}.
 
-##### Il nostro Vlog 
+## Il nostro Vlog 
 
 {{<extLink "A questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ8fmhz_NqsXYjcWhUql566x">}} puoi trovare la playlist completa con i video delle nostre avventure in Slovacchia. 
 
-<!-- ##### Le nostre mappe -->
+<!-- ## Le nostre mappe -->
 <!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=11GfW4gwkFqTBJcnrv5FV-ak3qVS4jws&ehbc=2E312F">}} -->

@@ -21,6 +21,8 @@ In questa prima puntata abbiamo cercato di raccontare come abbiamo affrontato il
 
 Per quanto riguarda il cambiamento lavorativo, a entrambi piaceva il proprio lavoro, ma sentivamo dei limiti di ritorno a noi stessi.
 
+{{< leggi-anche >}}
+
 Ci mancava il poter fare un lavoro creato da noi, costruito sulle persone che siamo oggi. Sentivamo entrambi la necessità di imparare altro e di metterci in gioco per non arenarci.
 
 Per quanto riguarda il cambiamento relativo agli affetti, stiamo imparando ogni giorno che non è la distanza fisica ad essere importante, quanto quella mentale. E se si è vicini con mente e cuore con familiari e amici, si è al loro fianco giorno per giorno, molto più che vivere sullo stesso pianerottolo e sperare di non incontrarsi per le scale!

@@ -15,7 +15,7 @@ Il suo entusiasmo è stato incredibile: da una semplice intervista ha deciso di 
 
 Abbiamo accettato con gioia, onorati e curiosi di vedere cosa ne sarebbe uscito. 
 
-##### Di che si parla? 
+## Di che si parla? 
 
 La prima puntata racconta **i nostri 2 mesi e mezzo in Turchia, il nostro approccio con l’Asia**, l’emozione di un volo in mongolfiera e di un sogno avveratosi senza spendere una fortuna, di luoghi che mai avremmo pensato di visitare in paese. 
 
