@@ -20,7 +20,7 @@
 {{ $recommended := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.type" "eq" "featured") | complement $related | shuffle | first 9 }}
 
 {{ if gt (len $recommended) 0 }}
-<div class="widget">
+<div class="widget sticky">
   <div class="widget-title">
     <h3 class="h5 title-border">Articoli consigliati</h3>
   </div>

@@ -11,7 +11,8 @@
       </div>
       {{ with $article.Params.image }}
         {{ if hasPrefix . "http" }}
-          <img alt="{{ $article.Title }}" src="{{ . }}">
+          <img alt="{{ $article.Title }}" src="{{ . }}" 
+          class="poligon">
         {{ else }}
           {{ if fileExists (add `assets/` .) }}
             {{ $imageResource := resources.Get . }}
@@ -19,7 +20,8 @@
             {{ $imageFallback := $imageResource.Fill "220x110 Center" }}
             <img alt="{{ $article.Title }}" 
                  src="{{ $imageWebp.RelPermalink }}"
-                 onerror="this.onerror=null;this.src='{{ $imageFallback.RelPermalink }}'">
+                 onerror="this.onerror=null;this.src='{{ $imageFallback.RelPermalink }}'"
+                 class="poligon">
           {{ end }}
         {{ end }}
       {{ end }}
@@ -80,7 +82,8 @@
         </div>
         {{ with .Params.image }}
           {{ if hasPrefix . "http" }}
-            <img alt="{{ $.Page.Title }}" src="{{ . }}">
+            <img alt="{{ $.Page.Title }}" src="{{ . }}" 
+            class="poligon">
           {{ else }}
             {{ if fileExists (add `assets/` .) }}
               {{ $imageResource := resources.Get . }}
@@ -88,7 +91,8 @@
               {{ $imageFallback := $imageResource.Fill "220x110 Center" }}
               <img alt="{{ $.Page.Title }}" 
                    src="{{ $imageWebp.RelPermalink }}"
-                   onerror="this.onerror=null;this.src='{{ $imageFallback.RelPermalink }}'">
+                   onerror="this.onerror=null;this.src='{{ $imageFallback.RelPermalink }}'" 
+                   class="poligon">
             {{ end }}
           {{ end }}
         {{ end }}

@@ -3,11 +3,10 @@ title: 'Come fare la Patente Internazionale? Guida completa'
 description: Guida completa su come ottenere la patente internazionale in Italia e dall'estero
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1727940279/Articoli/Blog/patente-internazionla-come-fare_kzdx44.png
 date: 2024-10-01T10:00:00+01:00
-categories: [ "Guida"]
+categories: [ "Patente internazionale", "Guidare all'estero"]
 type: featured
 draft: false 
 ---
-
 Se stai pianificando di guidare all'estero, è probabile che ti venga richiesto di ottenere **una patente di guida internazionale (IDP, International Driving Permit).** Questo documento è un'estensione della tua patente nazionale e ti consente di guidare legalmente in molti Paesi. In questo articolo vedremo i due modelli di patente internazionale, le differenze tra di essi, la procedura per ottenerla in Italia e all'estero, oltre ai tempi e ai costi associati.
 
 <details>

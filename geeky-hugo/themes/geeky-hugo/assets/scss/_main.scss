@@ -1020,3 +1020,14 @@
   background-color: rgba(21, 129, 127, 0.05);
   border-radius: 0 4px 4px 0;
 }
+/* Widget Sticky */
+.widget {
+  &.sticky {
+    position: sticky;
+    top: 2rem;
+  }
+}
+
+.poligon{
+  clip-path: polygon(5% 0, 100% 0, 100% 100%, 5% 100%, 0 50%);
+}
