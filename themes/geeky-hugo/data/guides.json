@@ -1,6 +1,14 @@
 {
   "guides": [
     {
+      "id": "verso-l-isola-che-ce",
+      "title": "Verso l'isola che c'è",
+      "description": "Il libro del nostro viaggio dall'Italia al Giappone",
+      "image": "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713007643/Articoli/Blog/verso-l-isola-che-ce-libro_gujton.jpg",
+      "link": "https://www.kickstarter.com/projects/versolisolachece/verso-lisola-che-ce",
+      "isExternal": true
+    },
+    {
       "id": "transiberiana",
       "title": "Transiberiana on the road",
       "description": "Guida definitiva alla leggendaria Transiberiana",
