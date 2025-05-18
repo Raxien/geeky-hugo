@@ -1,6 +1,25 @@
 {{ $videoID := .Get 0 }}
 {{ $title := .Get 1 }}
 {{ $apiKey := "AIzaSyB-m8BmXqPNdNSyTanaww8Uv51TzXKzsqU" }}
+
+{{/* Gestione dei parametri dell'URL */}}
+{{ $videoParams := "" }}
+{{ $startTime := "" }}
+{{ if strings.Contains $videoID "?" }}
+  {{ $parts := split $videoID "?" }}
+  {{ $videoID = index $parts 0 }}
+  {{ $params := index $parts 1 }}
+  {{ $paramPairs := split $params "&" }}
+  {{ range $paramPair := $paramPairs }}
+    {{ $keyValue := split $paramPair "=" }}
+    {{ if eq (index $keyValue 0) "t" }}
+      {{ $startTime = printf "&start=%s" (index $keyValue 1) }}
+    {{ else }}
+      {{ $videoParams = printf "%s&%s" $videoParams $paramPair }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
 {{ $uniqueID := printf "vid-%s" $videoID }}
 {{ $isPlaylist := hasPrefix $videoID "PL" }}
 
@@ -66,7 +85,7 @@
       {{ if $isPlaylist }}
       iframe.src = `https://www.youtube-nocookie.com/embed/videoseries?list={{ $videoID }}&autoplay=1&fs=0`;
       {{ else }}
-      iframe.src = `https://www.youtube-nocookie.com/embed/{{ $videoID }}?autoplay=1&fs=0`;
+      iframe.src = `https://www.youtube-nocookie.com/embed/{{ $videoID }}?autoplay=1&fs=0{{ $videoParams }}{{ $startTime }}`;
       {{ end }}
       
       setTimeout(() => {
