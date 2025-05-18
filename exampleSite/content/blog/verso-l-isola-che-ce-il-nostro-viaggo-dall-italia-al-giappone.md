@@ -2,7 +2,7 @@
 title: 'Verso l’isola che c’è: il nostro viaggio dall’Italia al Giappone con cane e gatto in camper diventa un libro'
 description: 'Verso l’isola che c’è”: libro del viaggio in camper dall’Italia al Giappone con cane e gatto. 100.000 km, 37 paesi. Preordina ora!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713007643/Articoli/Blog/verso-l-isola-che-ce-libro_gujton.jpg
-date: 2025-05-18T12:00:00+01:00
+date: 2025-05-18T11:00:00+01:00
 categories: ["Blog"]
 language: it
 type: featured   
