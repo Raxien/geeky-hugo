@@ -11,6 +11,15 @@ AUTHOR WEBSITE: https://gethugothemes.com
 <html lang="{{ site.LanguageCode | default `it-IT` }}">
 
 <head>
+	<script type="text/javascript">
+		var _iub = _iub || [];
+		_iub.csConfiguration = {"siteId":4140667,"cookiePolicyId":94471131,"lang":"it","storage":{"useSiteId":true}};
+	</script>
+	<script type="text/javascript" src="https://cs.iubenda.com/autoblocking/4140667.js"></script>
+	<script type="text/javascript" src="//cdn.iubenda.com/cs/tcf/stub-v2.js"></script>
+	<script type="text/javascript" src="//cdn.iubenda.com/cs/tcf/safe-tcf-v2.js"></script>
+	<script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
+
 	<meta name="msvalidate.01" content="AA5AD9A294B927E40422220E351666C2" />
 	<meta name="p:domain_verify" content="9bb6ced0805bf9c7edbd4a6ca2077f43"/>
 	<meta name="google-adsense-account" content="ca-pub-7348628013126614">
@@ -64,7 +73,8 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	{{ partialCached "footer.html" . }}
 	{{ else }}
 	{{ partial "script.html" . }}
-	{{ partial "consent.html" . }}
+<!-- 	{{ partial "consent.html" . }} -->
+
 	{{ partial "footer.html" . }}
 	{{ end }}
 </body>
