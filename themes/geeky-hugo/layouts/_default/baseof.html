@@ -75,7 +75,7 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	<!-- cache partial only in production -->
 	{{ if hugo.IsProduction }}
 	{{ partialCached "script.html" . }}
-	{{ partialCached "consent.html" . }}
+
 	{{ partialCached "footer.html" . }}
 	{{ else }}
 	{{ partial "script.html" . }}
