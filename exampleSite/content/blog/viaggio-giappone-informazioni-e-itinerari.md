@@ -29,7 +29,7 @@ Il Giappone è una delle nazioni più affascinanti e influenti del mondo. La sua
 
 La natura del Giappone è altrettanto spettacolare, con montagne imponenti, fiori di ciliegio che sbocciano in primavera e spiagge di sabbia bianca che si affacciano sul Pacifico. 
 
-La lingua ufficiale è il giapponese ed è difficile trovare qualcuno che parli inglese. Per ovviare a questo problema vi consigliamo di scaricare un traduttore offline sul vostro telefono, nel nostro caso abbiamo scelto Google Translate ({{<extLink "Ios" "https://apps.apple.com/us/app/google-translate/id414706506">}}, {{<extLink "Android" "https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en_US&pli=1">}}).
+La lingua ufficiale è il giapponese ed è difficile trovare qualcuno che parli inglese. Per ovviare a questo problema vi consigliamo di scaricare un traduttore offline sul vostro telefono, nel nostro caso abbiamo scelto Google Translate ({{<extLink "iOS" "https://apps.apple.com/us/app/google-translate/id414706506">}}, {{<extLink "Android" "https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en_US&pli=1">}}).
 
 ### Clima e quando andare
 Il Giappone ha un clima vario a seconda della stagione e della regione. In generale, **{{< underline "la migliore stagione">}}** per visitare il paese è la primavera (marzo-maggio) quando i ciliegi in fiore offrono uno spettacolo mozzafiato, seguita dall'autunno (settembre-novembre) grazie agli splendidi colori autunnali. 
@@ -75,7 +75,7 @@ In questa sezione vi proponiamo due itinerari che potete seguire utilizzando i m
 In un capitolo finale troverete i luoghi che secondo noi meritano maggiormente!
 
 ### 8 Giorni
-L'itinerario **classico**. Permette di assaporare il Giappone in 8 giorni e vedere le principali attrazioni dalla futuristica **Tokyo** all'antica capitale di **Kyoto**, passando per **Kamakura** e **Nara**.
+L'itinerario **classico**. Permette di assaporare il Giappone in 8 giorni e vedere le principali attrazioni dalla futuristica **Tokyo** all'antica capitale di **Kyoto**, passando per **Kamakura** e **[Nara](/blog/nara-in-un-giorno-tra-templi-cervi-curiosi-e-foreste-silenziose)**.
 Partenza dall'aeroporto di Narita e rientro dall'Aeroporto Internazionale di Osaka.
 
 **{{< underline "Giorno 1">}}** arrivo all'aeroporto di Narita e trasferimento a Tokyo tramite treno. Visita del parco di **{{< bold "Ueno">}}** e spostamento in serata al quartiere di **{{< bold "Akihabara">}}**.
@@ -87,11 +87,13 @@ Partenza dall'aeroporto di Narita e rientro dall'Aeroporto Internazionale di Osa
 **{{< underline "Giorno 4">}}** sveglia presto per andare a prendere il treno in direzione **{{< bold "Kamakura">}}** (circa 1 ora). Rientro nel primo pomeriggio con visita del quartiere governativo di **{{< bold "Shinjuku">}}** per ammirare Tokyo dall'alto _gratuitamente_ dal palazzo del governo metropolitano.
 In serata passeggiata presso il **{{< bold "Golden Gai">}}**.
 
+{{< leggi-anche >}}
+
 **{{< underline "Giorno 5">}}** sveglia presto per prendere lo shinkansen direzione **Kyoto**, l'antica capitale Kyoto (2 ore e 40 minuti). Visita al **{{< bold "castello Nijo">}}**, passando per il **{{< bold "mercato di Nishiki">}}**, per poi camminare nel **{{< bold "parco di Maruyama">}}** e finendo per visitare il **{{< bold "santuario Yasaka">}}**. Nel pomeriggio direzione **{{< bold "tempio Kiyomizudera">}}** per poi fare un tuffo nel passato passeggiando lungo le due stradine **{{< bold "Ninenzaka">}}** e **{{< bold "Sannenzaka">}}**. In serata visita del quartiere di **{{< bold "Pontocho">}}** e dintorni.
 
 **{{< underline "Giorno 6">}}** visita del **{{< bold "tempio d'oro (Kinkakuji)">}}** e del giardino roccioso nel **{{< bold "tempio Ryōan-ji">}}**. Spostamento nel quartiere di **{{< bold "Arashiyama">}}** per vedere la **{{< bold "foresta di bambù">}}** e il **{{< bold "tempio Tenryū-ji">}}**. In ultimo visita del **{{< bold "Saga Toriimoto">}}**, un delizioso vialetto costeggiato da diverse case in legno.
 
-**{{< underline "Giorno 7">}}** sveglia presto per andare a camminare al **{{< bold "Fushimi Inari">}}**. Nel pomeriggio spostamento a Nara e visita del **{{< bold "tempio Toda-ji">}}** (attenzione ai cerbiatti affamati!).
+**{{< underline "Giorno 7">}}** sveglia presto per andare a camminare al **{{< bold "Fushimi Inari">}}**. Nel pomeriggio spostamento a **[Nara](/blog/nara-in-un-giorno-tra-templi-cervi-curiosi-e-foreste-silenziose)** e visita del **{{< bold "tempio Toda-ji">}}** (attenzione ai cerbiatti affamati!).
 
 **{{< underline "Giorno 8">}}** mattina dedicata alla **{{< bold "passeggiata del filoso">}}** e visita dei suoi numerosi santuari. Nel primo pomeriggio trasferimento a **Osaka** tramite shinkansen (14 minuti da Kyoto) per visitare il suo iconico (anche se ora è una replica) Castello e il **quartiere Minami**. In serata transfer verso l'Aeroporto Internazionale di Osaka.
 
@@ -124,7 +126,7 @@ In serata passeggiata presso il **{{< bold "Golden Gai">}}**.
 
 {{< carousel images="Articoli/Giappone/bar-tokyo-ragazza_xgfakr.jpg,Articoli/Giappone/Shirakawa-Go-case_vwrlka.jpg,Articoli/Giappone/antiche-case-giapponesi_c1toth.jpg,Articoli/Giappone/ostriche-myashima_by6pix.jpg">}}
 
-**{{< underline "Giorno 11">}}** sveglia presto per andare a camminare al **{{< bold "Fushimi Inari">}}**. Nel pomeriggio spostamento a Nara e visita del **{{< bold "tempio Toda-ji">}}** (attenzione ai numerosi cerbiatti affamati).
+**{{< underline "Giorno 11">}}** sveglia presto per andare a camminare al **{{< bold "Fushimi Inari">}}**. Nel pomeriggio spostamento a **[Nara](/blog/nara-in-un-giorno-tra-templi-cervi-curiosi-e-foreste-silenziose)** e visita del **{{< bold "tempio Toda-ji">}}** (attenzione ai numerosi cerbiatti affamati).
 
 **{{< underline "Giorno 12">}}** direzione **{{< bold "Hiroshima">}}** tramite _Shinkansen_ in 2 ore. Giornata dedicata alla visita del suggestivo parco Shukkeien, il memoriale della pace e la città. Nel pomeriggio visita dell'isola di **{{< bold "Miyajima">}}** e del suggestivo Torii nell'acqua raggiungibile con un treno (30 minuti) e poi in traghetto (15 minuti).
 
