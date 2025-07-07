@@ -33,7 +33,7 @@ Ma non è tutto: ci siamo presi del tempo per **scrivere un messaggio** al perso
 
 📍 **Bear Paw Café**  
 🕙 Mar, Mer, Gio, Dom: 11:00–18:30. Ven, Sab, Festivi: 11:00–19:30. Chiuso il lunedì  
-🔗 {{< extLink "Mappa Google" "https://goo.gl/maps/7UJyz4hSGGVGdUQC6" >}}
+🔗 {{< extLink "Mappa Google" "https://maps.app.goo.gl/5STvtJc56NQY9A8d6" >}}
 
 ---
 
