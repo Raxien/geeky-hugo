@@ -11,7 +11,7 @@ draft: false
 
 Viaggiare in Corea del Sud **è un’esperienza entusiasmante**, ma richiede una preparazione adeguata per quanto riguarda documenti e autorizzazioni. I requisiti variano in base alla nazionalità, alla durata del soggiorno e allo scopo del viaggio. Ecco una panoramica completa per aiutarti a pianificare il tuo viaggio in tutta serenità.
 
-## Passaporto: Il Primo Requisito
+## Passaporto: Il primo requisito
 Per entrare in Corea del Sud è sempre necessario un **passaporto valido**. Assicurati che:
 - Abbia una validità residua di almeno **3 mesi** dalla data di arrivo per soggiorni turistici.
 - Abbia una validità residua di almeno **6 mesi** per soggiorni di lunga durata (es. studio o lavoro).
@@ -23,7 +23,7 @@ I cittadini di molti paesi possono entrare in Corea del Sud **senza visto** per 
 
 Dal 1° aprile 2023 al 31 dicembre 2025, **l’obbligo del K-ETA è sospeso per soggiorni inferiori a 90 giorni**. Verifica sempre gli aggiornamenti ufficiali prima di partire.
 
-### Come Funziona il K-ETA
+### Come funziona il K-ETA
 - **Richiesta online**: Completa la domanda sul sito ufficiale del K-ETA.
 - **Costo**: Circa 10.000 KRW (7-8 USD).
 - **Validità**: Una volta approvata, è collegata al passaporto e valida per ingressi multipli entro 2 anni.
@@ -45,7 +45,7 @@ Se intendi guidare durante il tuo soggiorno, avrai bisogno di:
 
 Per noleggiare un’auto o un camper, potrebbe essere richiesta una **carta di credito** come garanzia.
 
-## Assicurazione Sanitaria: Un Must per i Viaggiatori
+## Assicurazione Sanitaria: Un must per i viaggiatori
 La Corea del Sud offre un sistema sanitario di alta qualità, ma i turisti stranieri non sono coperti dal Servizio Sanitario Nazionale coreano. È quindi **essenziale** stipulare un’**assicurazione sanitaria privata** che copra:
 - **Spese mediche** per malattie o incidenti (minimo 50.000 USD consigliati).
 - **Emergenze mediche** con assistenza 24/7.
@@ -55,7 +55,7 @@ Come sempre noi consigliamo l'assicurazione sanitaria **{{<extLink "Genki" "http
 
 *Disclaimer: Questo è un link affiliate, il che significa che potremmo ricevere una piccola commissione se ti registri, senza costi aggiuntivi per te.*
 
-### Come Scegliere l’Assicurazione Giusta
+### Come Scegliere l’Assicurazione giusta
 1. **Durata**: Assicurati che la polizza copra l’intero soggiorno.
 2. **Attività specifiche**: Se pratichi sport estremi o attività particolari (es. trekking, sport acquatici), verifica che siano inclusi.
 3. **Assistenza 24/7**: Scegli un’assicurazione con supporto continuo.
