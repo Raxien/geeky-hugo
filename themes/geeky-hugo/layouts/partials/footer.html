@@ -23,7 +23,9 @@
           </li>
           {{ end }}
         </ul>
-        {{ partial "consent_iubenda.html" . }}
+        <ul class="list-unstyled">
+          <li>{{ partial "consent_iubenda.html" . }}</li>
+        </ul>
         <p class="text-light mb-4">{{ site.Params.copyright | markdownify }}</p>
       </div>
     </div>

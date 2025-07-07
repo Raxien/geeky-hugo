@@ -41,6 +41,8 @@ Per aiutarti a iniziare il tuo viaggio con il piede giusto, **puoi usufruire di 
 ## Scopri Japan Wireless
 Per rendere il tuo viaggio in Giappone ancora più semplice, scopri le soluzioni di Japan Wireless per una connessione veloce e affidabile **cliccando sul banner qui sotto.** Non perdere l'opportunità di vivere un'esperienza di viaggio senza interruzioni!
 
+Per aiutarti a iniziare il tuo viaggio con il piede giusto, **puoi usufruire di un codice sconto del 10% su tutte le soluzioni di Japan Wireless.** Utilizza il codice "VANDIPETY10" al momento dell'acquisto per ottenere il tuo sconto. Non perdere l'opportunità di vivere un'esperienza di viaggio senza interruzioni in Giappone!
+
 {{< sponsor 
     url="https://www.japan-wireless.com/esim?via=vandipety"
     title="Japan Wireless eSIM"
