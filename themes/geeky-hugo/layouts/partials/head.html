@@ -1,6 +1,7 @@
 <meta charset="utf-8">
 
 <title>{{ .Site.Params.title }}</title>
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
 <!-- Start iubenda -->
 <script async type="text/javascript">
@@ -29,7 +30,30 @@
 			});
 		}
 </script>
-<!-- <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}"> -->
+
+<!-- Google tag (gtag.js) -->
+{{ if hugo.IsProduction }}
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  (function(){
+    var gtmScript = document.createElement('script');
+    gtmScript.async = true;
+    gtmScript.src = "https://www.googletagmanager.com/gtag/js?id=G-E9L2CG2NZ6";
+    document.head.appendChild(gtmScript);
+    gtmScript.onload = function() {
+      gtag('js', new Date());
+      gtag('config', 'G-E9L2CG2NZ6', {
+        'anonymize_ip': true,
+        'allow_google_signals': true,
+        'allow_ad_personalization_signals': true
+      });
+    }
+  })();
+</script>
+{{ end }}
+
+
 
 <!-- base url -->
 {{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://localhost:1313/") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://examplesite.com/")}}{{else}}
@@ -184,35 +208,6 @@
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
 
-<!-- Google Tag Manager - Ottimizzato -->
-<script>
-  // Funzione per caricare GTM in modo asincrono
-  var tag = {{ .Site.Config.Services.GoogleAnalytics.ID }};
-  console.log("Google Tag Manager ID:", tag);
-
-  function loadGTM() {
-    var gtmScript = document.createElement('script');
-    gtmScript.async = true;
-    gtmScript.src = 'https://www.googletagmanager.com/gtag/js?id='+ tag;
-    document.head.appendChild(gtmScript);
-    
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', tag, {
-      'send_page_view': false,
-      'anonymize_ip': true,
-      'optimize_id': 'OPT-XXXXXXX'
-    });
-  }
-
-  // Carica GTM dopo il caricamento della pagina
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', loadGTM);
-  } else {
-    loadGTM();
-  }
-</script>
 
 <!-- preload immagini articolo -->
 {{ if .Params.image }}
