@@ -1,5 +1,35 @@
 <meta charset="utf-8">
-<title>{{.Title | default site.Title}}</title>
+
+<title>{{ .Site.Params.title }}</title>
+
+<!-- Start iubenda -->
+<script async type="text/javascript">
+	var _iub = _iub || [];
+	_iub.csConfiguration = {"siteId":4140667,"cookiePolicyId":94471131,"lang":"it","floatingPreferencesButtonDisplay": false,"storage":{"useSiteId":true},};
+</script>
+<script async type="text/javascript" src="https://cs.iubenda.com/autoblocking/4140667.js"></script>
+<script async type="text/javascript" src="//cdn.iubenda.com/cs/tcf/stub-v2.js"></script>
+<script async type="text/javascript" src="//cdn.iubenda.com/cs/tcf/safe-tcf-v2.js"></script>
+<script async type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script> 
+<!-- End iubenda -->
+
+<meta name="msvalidate.01" content="AA5AD9A294B927E40422220E351666C2" />
+<meta name="p:domain_verify" content="9bb6ced0805bf9c7edbd4a6ca2077f43"/>
+<meta name="google-adsense-account" content="ca-pub-7348628013126614">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7348628013126614"
+        crossorigin="anonymous"></script>
+<!-- Trusted Types Policy -->
+<meta http-equiv="Content-Security-Policy" content="require-trusted-types-for 'script'">
+<script>
+		if (window.trustedTypes && trustedTypes.createPolicy) {
+			trustedTypes.createPolicy('default', {
+				createHTML: (string) => string,
+				createScriptURL: (string) => string,
+				createScript: (string) => string
+			});
+		}
+</script>
+<!-- <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}"> -->
 
 <!-- base url -->
 {{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://localhost:1313/") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://examplesite.com/")}}{{else}}
@@ -155,18 +185,21 @@
 {{ template "_internal/twitter_cards.html" . }}
 
 <!-- Google Tag Manager - Ottimizzato -->
-<!-- <script>
+<script>
   // Funzione per caricare GTM in modo asincrono
+  var tag = {{ .Site.Config.Services.GoogleAnalytics.ID }};
+  console.log("Google Tag Manager ID:", tag);
+
   function loadGTM() {
     var gtmScript = document.createElement('script');
     gtmScript.async = true;
-    gtmScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-E9L2CG2NZ6';
+    gtmScript.src = 'https://www.googletagmanager.com/gtag/js?id='+ tag;
     document.head.appendChild(gtmScript);
     
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', 'G-E9L2CG2NZ6', {
+    gtag('config', tag, {
       'send_page_view': false,
       'anonymize_ip': true,
       'optimize_id': 'OPT-XXXXXXX'
@@ -180,7 +213,7 @@
     loadGTM();
   }
 </script>
- -->
+
 <!-- preload immagini articolo -->
 {{ if .Params.image }}
   {{ $image := .Resources.GetMatch .Params.image }}

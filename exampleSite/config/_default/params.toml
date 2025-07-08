@@ -9,7 +9,6 @@ title = "Vandipety | Esplora il Mondo in Camper insieme a noi"
 email = "info@vandipety.it"
 emailSponsor = "sponsor@vandipety.it"
 disqusShortname = "vandipety-it"
-googleAnalytics = "G-E9L2CG2NZ6"
 favicon = "images/favicon.png"
 featured_post_title = "In primo piano"
 footer_content = "Se sentite ridere in lontananza potremmo essere noi."
@@ -75,3 +74,9 @@ title = "Negozio"
   changefreq = 'weekly'
   filename = 'sitemap.xml'
   priority = 0.5
+
+[services]
+  [services.googleAnalytics]
+    id = "G-E9L2CG2NZ6"
+    respectDoNotTrack = true
+    anonymizeIP = true

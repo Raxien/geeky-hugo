@@ -11,43 +11,6 @@ AUTHOR WEBSITE: https://gethugothemes.com
 <html lang="{{ site.LanguageCode | default `it-IT` }}">
 
 <head>
-	<!-- Start cookieyes banner -->
-<!-- 	<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/1ecfea78bcbe950cf95fc6a5/script.js"></script> -->
-	<!-- End cookieyes banner -->
-	
-	<!-- Start iubenda -->
-	<script async type="text/javascript">
-		var _iub = _iub || [];
-		_iub.csConfiguration = {"siteId":4140667,"cookiePolicyId":94471131,"lang":"it","floatingPreferencesButtonDisplay": false,"storage":{"useSiteId":true},};
-	</script>
-	<script async type="text/javascript" src="https://cs.iubenda.com/autoblocking/4140667.js"></script>
-	<script async type="text/javascript" src="//cdn.iubenda.com/cs/tcf/stub-v2.js"></script>
-	<script async type="text/javascript" src="//cdn.iubenda.com/cs/tcf/safe-tcf-v2.js"></script>
-	<script async type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script> 
-	<!-- End iubenda -->
-
-	<meta name="msvalidate.01" content="AA5AD9A294B927E40422220E351666C2" />
-	<meta name="p:domain_verify" content="9bb6ced0805bf9c7edbd4a6ca2077f43"/>
-	<meta name="google-adsense-account" content="ca-pub-7348628013126614">
-	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7348628013126614"
-     crossorigin="anonymous"></script>
-	<!-- Trusted Types Policy -->
-	<meta http-equiv="Content-Security-Policy" content="require-trusted-types-for 'script'">
-	<script>
-		if (window.trustedTypes && trustedTypes.createPolicy) {
-			trustedTypes.createPolicy('default', {
-				createHTML: (string) => string,
-				createScriptURL: (string) => string,
-				createScript: (string) => string
-			});
-		}
-	</script>
-	<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-	<title>{{ .Site.Params.title }}</title>
-	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/money.js/0.2.0/money.min.js"></script>  -->
-	<!-- <script type="text/javascript" src="https://raw.githubusercontent.com/jhvanderschee/hugocodex/main/static/js/carousel.js"></script>
-	<link rel="stylesheet" href="https://raw.githubusercontent.com/jhvanderschee/hugocodex/main/static/css/carousel.css"> -->
-
 	{{ partial "head.html" . }}
 
 	<!-- cache partial only in production -->
