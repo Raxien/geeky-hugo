@@ -32,7 +32,19 @@
 </script>
 
 <!-- Google tag (gtag.js) -->
-{{ if hugo.IsProduction }}
+ {{ if hugo.IsProduction }}
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E9L2CG2NZ6"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-E9L2CG2NZ6', {
+        'anonymize_ip': true,
+        'allow_google_signals': true,
+        'allow_ad_personalization_signals': true
+    });
+</script>
+ <!-- 
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -50,7 +62,8 @@
       });
     }
   })();
-</script>
+</script> -->
+
 {{ end }}
 
 
