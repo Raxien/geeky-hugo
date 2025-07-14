@@ -431,7 +431,8 @@ select {
 
   p {
     color: $black;
-    font-weight: 300;
+    font-weight: 300; 
+    font-size: 1.15rem;
   }
 
   blockquote {
@@ -446,7 +447,7 @@ select {
 
     p {
       font-family: $font-primary;
-      font-size: 18px;
+      font-size: 1.10em;
       color: $text-dark;
       line-height: 32px;
       margin-bottom: 15px;
@@ -470,7 +471,7 @@ select {
 
       &::after {
         content: '\f10e';
-        bottom: 0;
+        bottom: -120px;
         right: -35px;
       }
 

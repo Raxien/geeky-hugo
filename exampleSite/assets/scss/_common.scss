@@ -428,6 +428,7 @@ select {
   p {
     color: $black;
     font-weight: 300;
+    font-size: 1.15rem;
   }
 
   blockquote {
@@ -440,9 +441,15 @@ select {
       padding: 30px 50px;
     }
 
-    p {
+    ul,li {
       font-family: $font-primary;
       font-size: 18px;
+      color: $text-dark;
+    }
+
+    p {
+      font-family: $font-primary;
+      font-size: 1.10em;
       color: $text-dark;
       line-height: 32px;
       margin-bottom: 15px;
@@ -456,18 +463,6 @@ select {
         position: absolute;
         font-size: 32px;
         color: $color-primary;
-      }
-
-      &::before {
-        content: '\f10d';
-        top: 0;
-        left: -70px;
-      }
-
-      &::after {
-        content: '\f10e';
-        bottom: 0;
-        right: -35px;
       }
 
       @include tablet {
