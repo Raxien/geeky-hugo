@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 
-<title>{{ .Site.Params.title }}</title>
+<title>{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Params.title }}{{ end }}</title>
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
 <!-- Start iubenda -->
