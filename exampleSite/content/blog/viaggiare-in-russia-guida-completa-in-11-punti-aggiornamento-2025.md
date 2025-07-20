@@ -39,6 +39,8 @@ Cominciamo subito a pianificare il tuo viaggio in Russia!
 `Importante` 
 Le informazioni contenute in questa guida sono aggiornate **a settembre 2024**. Si consiglia di consultare sempre i siti web ufficiali e le fonti di informazione pertinenti per le ultime novità e gli aggiornamenti.
 
+{{< leggi-anche url="/blog/transiberiana-on-the-road">}}
+
 ## 1. Tipi di visto e come ottenerli 
 
 Per visitare la Russia è sempre necessario ottenere un visto di ingresso. 
@@ -227,5 +229,3 @@ Tieni a mente che il certificato di buona salute puoi effettuarlo presso qualsia
 Se come noi poi vuoi uscire dalla Russia e entrare in Corea la questione ancora una volta si complica, perché dovrai recarti presso più uffici e compilare dei documenti specifici per l’espatrio e **per non rischiare la quarantena**. 
 
 {{< youtube2 8CSdiBuj-k4>}}
-
- 

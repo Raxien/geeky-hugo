@@ -3,6 +3,7 @@
 <title>{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Params.title }}{{ end }}</title>
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
+ {{ if hugo.IsProduction }}
 <!-- Start iubenda -->
 <script async type="text/javascript">
 	var _iub = _iub || [];
@@ -13,6 +14,7 @@
 <script async type="text/javascript" src="//cdn.iubenda.com/cs/tcf/safe-tcf-v2.js"></script>
 <script async type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script> 
 <!-- End iubenda -->
+{{ end }}
 
 <meta name="msvalidate.01" content="AA5AD9A294B927E40422220E351666C2" />
 <meta name="p:domain_verify" content="9bb6ced0805bf9c7edbd4a6ca2077f43"/>
@@ -63,7 +65,6 @@
     }
   })();
 </script> -->
-
 {{ end }}
 
 

@@ -23,9 +23,11 @@
           </li>
           {{ end }}
         </ul>
+        {{ if hugo.IsProduction }}
         <ul class="list-unstyled">
           <li>{{ partial "consent_iubenda.html" . }}</li>
         </ul>
+        {{ end }}
         <p class="text-light mb-4">{{ site.Params.copyright | markdownify }}</p>
       </div>
     </div>

@@ -14,12 +14,6 @@ Speriamo ti possano essere utili per evitare di vivere spiacevoli inconvenienti 
 Premessa: se viaggi all'estero ti consigliamo di controllare le informazioni relative ai documenti necessari contattando l’ambasciata del Paese in cui vuoi recarti oppure rivolgendoti direttamente al servizio veterinario della tua Asl di competenza dato che le leggi sono sempre in continuo aggiornamento.
 Ti consigliamo vivamente di svolgere tutta la burocrazia anche con 6 mesi di anticipo!
 
-> ## Tabella dei contenuti
-> - [Viaggi in Italia](#viaggi-in-italia) 
-> - [Viaggi in Unione Europea](#viaggi-in-unione-europea)
-> - [Viaggi in Paesi Extra UE](#viaggi-in-paesi-extra-ue)
->   - [Titolazione anticorpale](#titolazione-anticorpale)
-
 ## Viaggi in Italia 
 Viaggiare in Italia con cane e gatto è molto semplice e servono **solo due cose**:
 
@@ -47,6 +41,8 @@ vaccino
 Alcuni paesi UE applicano delle regole più restrittive per l'introduzione di cani e gatti sul proprio territorio. 
 Irlanda, Svezia e Malta richiedono la titolazione anticorpale ([vedi paragrafo sotto](#titolazione-anticorpale)) e in tali paesi vige il divieto assoluto di introdurre cani di età inferiore ai 3 mesi. 
 
+{{< leggi-anche >}}
+
 ## Viaggi in Paesi Extra UE
 Per chi vuole viaggiare **in Andorra, Svizzera, Islanda, Liechtenstein, Monaco, Norvegia, San Marino, Città del Vaticano** valgono le stesse disposizioni che regolamentano l'ingresso di animali dei Paesi aderenti alla UE. 
 
@@ -63,7 +59,7 @@ vaccino
    - viene compilato e **emesso dal Servizio Veterinario dell’Azienda sanitaria locale**
    - riporta il codice alfanumerico del microchip o del tatuaggio 
    - attesta l’esecuzione della vaccinazione contro la rabbia in corso di validità
-* Titolazione antirabbica: un documento molto importante che vediamo nel dettaglio [nel paragrafo dedicato qua sotto](#titolazione-anitcorpale)
+* Titolazione antirabbica: un documento molto importante che vediamo nel dettaglio [nel paragrafo dedicato qua sotto](#titolazione-anticorpale)
 * Trattamento contro l’echinococco multilocularis (o sverminazione) a seconda del Paese di destinazione.
 
 Se stai pianificando di andare in **Marocco** con il tuo fido compagno a quattro zampe trovi [maggiori informazioni su come entrare nel paese nell'articolo dedicato.](/blog/informazioni-camper-marocco-con-animali)
@@ -71,17 +67,8 @@ Se stai pianificando di andare in **Marocco** con il tuo fido compagno a quattro
 ### Titolazione anticorpale
 La titolazione anticorpale è un test di verifica degli anticorpi per il virus della rabbia che si effettua tramite un prelievo del sangue dopo la vaccinazione e che viene inviato a un centro specializzato e riconosciuto, il quale rilascia un documento ufficiale. 
 
-Tale documento rimane valido a vita, a patto che la vaccinazione antirabbica **venga sempre rinnovata nei tempi previsti** (da 1 a 3 anni a seconda del vaccino effettuato), ma in alcuni Paesi (es. Giappone) viene richiesto un aggiornamento. 
+Tale documento rimane valido a vita, a patto che la vaccinazione antirabbica **venga sempre rinnovata nei tempi previsti** (da 1 a 3 anni a seconda del vaccino effettuato), ma in alcuni Paesi [(es. Giappone)](/blog/entrare-in-giappone-con-il-tuo-cane-o-gatto-come-evitare-la-quarantena/) viene richiesto un aggiornamento. 
 - **Certificato internazionale di origine e salute per l’espatrio:** per ottenerlo occorre presentarsi, con passaporto e libretto delle vaccinazioni regolarmente certificate, da una veterinario competente, il quale visiterà il cane e dovrà certificare il suo stato di salute. Tale documento ha una durata di validità variabile.
 - **vaccinazione contro l’echinococco multilocularis** a seconda del Paese di destinazione.
 
-
-
-<!-- link youtube -->
-<!-- se viaggi in marocco link -->
-<!-- 
-E una volta che si hanno tutti i documenti in regola? 
-Ricordati di avere con te guinzaglio e museruola e tutto l'occorente per far sì che il viaggio con il tuo animale sia il più confortevole possibile per lui. 
-
-Qui trovi ????? -->
 {{< youtube2 tlzeuxt-6yY>}}
