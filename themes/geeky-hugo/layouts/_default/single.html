@@ -180,25 +180,35 @@
           {{ $content := .Content | safeHTML }}
           {{ $paragraphs := split $content "<p>" }}
           {{ $totalParagraphs := len $paragraphs }}
-          {{ $midPoint := div $totalParagraphs 2 }}
-          {{ $count := 0 }}
+          {{ $maxAds := 1 }}
+          {{ if ge $totalParagraphs 10 }}
+            {{ $maxAds = 2 }}
+          {{ end }}
+          {{ if ge $totalParagraphs 20 }}
+            {{ $maxAds = 3 }}
+          {{ end }}
+          {{ $adCount := 0 }}
           {{ range $index, $element := $paragraphs }}
             {{ if gt $index 0 }}
-              {{ $count = add $count 1 }}
-              {{ if eq $count $midPoint }}
-                {{ if hugo.IsProduction }}
-                <div class="adsense-inarticle">
-                  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7348628013126614" crossorigin="anonymous"></script>
-                  <ins class="adsbygoogle"
-                       style="display:block; text-align:center;"
-                       data-ad-layout="in-article"
-                       data-ad-format="fluid"
-                       data-ad-client="ca-pub-7348628013126614"
-                       data-ad-slot="9819760015"></ins>
-                  <script>
-                       (adsbygoogle = window.adsbygoogle || []).push({});
-                  </script>
-                </div>
+              {{ $nextIndex := add $index 1 }}
+              {{ if and (lt $adCount $maxAds) (lt $nextIndex $totalParagraphs) }}
+                {{ $nextElement := index $paragraphs $nextIndex }}
+                {{ if or (hasPrefix $nextElement "<h2") (hasPrefix $nextElement "<h3") (hasPrefix $nextElement "<h4") }}
+                  {{ if hugo.IsProduction }}
+                    <div class="adsense-inarticle">
+                      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7348628013126614" crossorigin="anonymous"></script>
+                      <ins class="adsbygoogle"
+                           style="display:block; text-align:center;"
+                           data-ad-layout="in-article"
+                           data-ad-format="fluid"
+                           data-ad-client="ca-pub-7348628013126614"
+                           data-ad-slot="9819760015"></ins>
+                      <script>
+                           (adsbygoogle = window.adsbygoogle || []).push({});
+                      </script>
+                    </div>
+                    {{ $adCount = add $adCount 1 }}
+                  {{ end }}
                 {{ end }}
               {{ end }}
             {{ end }}
