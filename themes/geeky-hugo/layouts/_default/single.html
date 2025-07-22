@@ -3,20 +3,6 @@
 <!-- checking blog -->
 {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
 
-{{ if hugo.IsProduction }}
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7348628013126614"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7348628013126614"
-     data-ad-slot="9819760015"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-{{ end }}
-
 <!--=================== section start ===================-->
 <section class="section-sm section-sm-mobile">
   <div class="container">
@@ -190,7 +176,39 @@
           </li>
           {{end}}
         </ul>
-        <div class="content drop-cap">{{.Content}}</div>
+        <div class="content drop-cap">
+          {{ $content := .Content | safeHTML }}
+          {{ $paragraphs := split $content "<p>" }}
+          {{ $totalParagraphs := len $paragraphs }}
+          {{ $midPoint := div $totalParagraphs 2 }}
+          {{ $count := 0 }}
+          {{ range $index, $element := $paragraphs }}
+            {{ if gt $index 0 }}
+              {{ $count = add $count 1 }}
+              {{ if eq $count $midPoint }}
+                {{ if hugo.IsProduction }}
+                <div class="adsense-inarticle">
+                  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7348628013126614" crossorigin="anonymous"></script>
+                  <ins class="adsbygoogle"
+                       style="display:block; text-align:center;"
+                       data-ad-layout="in-article"
+                       data-ad-format="fluid"
+                       data-ad-client="ca-pub-7348628013126614"
+                       data-ad-slot="9819760015"></ins>
+                  <script>
+                       (adsbygoogle = window.adsbygoogle || []).push({});
+                  </script>
+                </div>
+                {{ end }}
+              {{ end }}
+            {{ end }}
+            {{ if eq $index 0 }}
+              {{ printf "<p>%s" $element | safeHTML }}
+            {{ else }}
+              {{ printf "<p>%s" $element | safeHTML }}
+            {{ end }}
+          {{ end }}
+        </div>
         {{ partial "blog-footer.html" (dict "country" "" "payPal" "1" "consult" "0" ) }}
         <!-- articoli correlati mobile -->
         <div class="d-lg-none">
