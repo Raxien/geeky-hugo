@@ -41,7 +41,7 @@ Una frittella croccante all’esterno e soffice dentro, fatta con fagioli mung m
 {{< leggi-anche url="/blog/esplorare-seoul-street-food-e-shopping-nei-mercati-tradizionali" >}}
 
 ## 5. Gimbap vegetariano (야채김밥) – Il rotolo coreano da passeggio 
-Rotolini di riso e alghe con spinaci, carote, cetrioli e ravanelli. **Cerca yachae gimbap (야채김밥)** ([ricodati che Google Maps non funziona!](/blog/corea-del-sud-le-app-da-avere-per-viaggiare-senza-problemi)) e chiedi conferma che non ci sia prosciutto né uovo, se vuoi una versione vegana.
+Rotolini di riso e alghe con spinaci, carote, cetrioli e ravanelli. **Cerca yachae gimbap (야채김밥)** ([ricodati che Google Maps non funziona come navigatore!](/blog/corea-del-sud-le-app-da-avere-per-viaggiare-senza-problemi)) e chiedi conferma che non ci sia prosciutto né uovo, se vuoi una versione vegana.
 
 📍 Ideale da portare nei lunghi tragitti in treno o nei picnic.
 
@@ -89,8 +89,16 @@ Piccole porzioni di piatti freddi o caldi da condividere. Alcuni sono vegetarian
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1753337836/Articoli/Corea/il-dolcino-hotteok_ef0u5j.png" >}}
 
-## E quando non si trova nulla?
+## Mi consigliate un locale dove mangiare vegetariano in Corea del Sud?
+Purtroppo i ristoranti coreani non rimangono aperti per sempre, per questo motivo non ce la sentiamo di consigliare qualche luogo che potreste presto trovare chiuso! Questo accade per due motivi: spesso in Corea del Sud si seguono nuove mode (abbinamenti particolari, locali "Instagrammabili" e piatti che vanno “virali sui social”) **che però dopo un po’ stufano tutti,** anche perché decine di ristoranti tutti uguali vengono aperti all’improvviso uno vicino all’altro 
+
+### La cultura coreana si basa sul fatturato
+Se un locale funziona bene deve fatturare tanto. Ecco che allora un piccolo locale che magari potrebbe essere uno dei vostri preferiti, dopo pochi mesi chiude perché letteralmente non è sostenibile per gli investitori.
+
+### Quindi che fare? 
 [Seoul è una città sorprendentemente accessibile](/blog/seoul-cosa-vedere-4-giorni-itinerario-completo/) per chi non mangia carne o pesce: molti locali offrono già varianti vegetariane, anche se non sempre chiaramente indicate. **Basta chiedere, e una soluzione salta fuori.** E se proprio ti trovi spiazzata – magari sotto la pioggia o in un villaggio senza opzioni – sappi che **nei convenience store puoi sempre trovare un ramen istantaneo vegetariano.** Lo so, non è il massimo … ma nei momenti bui, un po’ di zuppa calda può fare miracoli (soprattutto d'inverno!).
+
+Oppure puoi provare a inserire il nome del piatto su Google Maps o [Naver Maps](/blog/corea-del-sud-le-app-da-avere-per-viaggiare-senza-problemi) per scoprire i locali in torno a te che li servono.
 
 {{< leggi-anche url="/blog/cose-utili-da-sapere-prima-di-partire-per-la-corea-del-sud/" >}}
 
