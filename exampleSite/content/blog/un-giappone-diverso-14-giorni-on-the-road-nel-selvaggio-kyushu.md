@@ -28,6 +28,8 @@ Ritira l’auto e fai subito tappa al gigantesco Buddha sdraiato di Nanzoin. Poi
 **{{< underline "Giorno 3">}}**: **Nagasaki**  
 Giornata piena attraverso i punti salienti di una città ricca di storia e cultura: Parco della Pace, Torii spezzato a metà, quartiere olandese e cinese, ponte Meganebashi e il tramonto sulla baia.Consiglio: scarpe comode o sfrutta i tram e la funicolare!
 
+{{< leggi-anche url="/blog/un-giorno-a-nagasaki-e-giro-extra-all-isola-fantasma-di-hashima/" >}}
+
 **{{< underline "Giorno 4">}}**: **Hashima (isola fantasma) + Unzen Jigoku**  
 Se il mare lo permette, parti per l’escursione a Gunkanjima, la città mineraria abbandonata.Poi rilassati tra i fumi infernali di Unzen Jigoku.
 
