@@ -6,6 +6,7 @@ date: 2025-05-15T7:00:00+01:00
 categories: ["Giappone in Camper"]
 language: it
 type: regular   
+continent: Asia
 country: Giappone
 ---
 Viaggiare in camper in Giappone è un’esperienza che sorprende ogni giorno. Non solo per le strade ordinate, i panorami che cambiano a ogni curva o la puntualità quasi poetica della vita quotidiana. Ma soprattutto per **le soste**.

@@ -4,6 +4,7 @@ description: "Le pesche ripiene sono da sempre tra i piatti preferiti delle nost
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690377897/Articoli/rabat/gateau/persi_pien_uzkza9.jpg"
 date: 2023-09-02T10:00:00Z
 categories: ["Cucina"]
+continent: Europa
 country: Italia
 type: regular
 draft: false

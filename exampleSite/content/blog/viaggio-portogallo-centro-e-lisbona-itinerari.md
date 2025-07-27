@@ -3,7 +3,8 @@ title: 'Da Aveiro a Lisbona: 10 giorni on the road'
 description: "Alla scoperta del centro del Portogallo, in un viaggio on the road tra città e onde dell'oceano atlantico"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683737113/IMG_1457_qal72d.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Europa", "Guida", "Itinerari", "Camper"]
+categories: ["Portogallo in Camper", "Itinerari"]
+continent: Europa
 country: Portogallo 
 type: regular
 draft: false

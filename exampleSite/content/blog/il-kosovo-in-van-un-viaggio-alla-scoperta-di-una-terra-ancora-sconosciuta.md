@@ -3,7 +3,8 @@ title: "Il Kosovo in van: un viaggio alla scoperta di una terra ancora sconosciu
 description: "Alla scoperta del Kosovo in camper, un viaggio on the road nel paese più nuovo e bello dei balacani!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1703333917/Articoli/kosovo/pristina-newborn_kh4duq.jpg
 date: 2023-12-16T00:00:00.000
-categories: ["Europa", "Itinerari", "Balcani", "Camper"]
+categories: ["Balcani in Camper"]
+continent: Europa
 country: Kosovo
 type: featured
 draft: false 

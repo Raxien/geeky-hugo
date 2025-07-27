@@ -3,7 +3,8 @@ title: 'Lubiana in un giorno: 8 cose da fare per scoprire al meglio la capitale 
 description: Hai mai visitato la capitale slovena? Scoprila insieme a noi!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689874010/Articoli/Slovenia/lubiana-canale-chiesa-rossa_mr4v7r.jpg
 date: 2023-10-23T08:00:00.000
-categories: ["Europa", "Itinerari", "Balcani"]
+categories: ["Balcani in Camper", "Itinerari"]
+continent: Europa
 country: Slovenia
 type: featured
 draft: false

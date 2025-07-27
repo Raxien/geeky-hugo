@@ -3,7 +3,9 @@ title: 'Porto in un giorno: cosa non perdere'
 description: "Siamo arrivati a Porto a bordo del nostro van e abbiamo girovagato un giorno per la città scoprendo tra i suoi vicoli la malinconia del fado portoghese" 
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689674761/Articoli/empanada/madrid/cordoba/IMG_2986_mpur3w.jpg
 date: 2023-06-01T10:00:00+01:00
-categories: [ "Camper", "Guida", "Itinerari"]
+categories: [ "Portogallo in Camper", "Itinerari"]
+continent: Europa
+country: Portogallo
 type: featured
 draft: true 
 ---

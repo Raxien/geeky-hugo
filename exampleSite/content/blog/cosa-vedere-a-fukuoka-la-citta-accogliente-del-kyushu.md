@@ -6,8 +6,8 @@ date: 2025-05-15T7:00:00+01:00
 categories: ["Viaggiare in Giappone", "Giappone alternativo"]
 language: it
 type: regular   
+continent: Asia
 country: Giappone
-draft: true
 ---
 Fukuoka è la porta d’ingresso del Giappone meridionale: si trova nell’isola di **Kyushu**, la più a sud tra le quattro principali del Paese.  
 Affacciata sul mare, Fukuoka unisce modernità, spazi verdi, cibo di strada e spiritualità in un mix sorprendentemente rilassato.  

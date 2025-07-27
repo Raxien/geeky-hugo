@@ -3,7 +3,8 @@ title: 'Paesi Bassi in camper con cane e gatto: itinerari, consigli e informazio
 description: "Alla scoperta dei Paesi Bassi on the road, verso mete turistiche e non "
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683208302/IMG_0407_xg5wru.jpg
 date: 2022-07-26T17:00:00.000
-categories: ["Europa", "Guida", "Itinerari"]
+categories: ["Europa in Camper", "Itinerari"]
+continent: Europa
 country: Paesi Bassi
 type: regular
 draft: false

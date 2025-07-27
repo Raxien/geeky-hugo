@@ -5,7 +5,8 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w
 date: 2025-06-05T7:00:00+01:00
 categories: ["Viaggio in Giappone", "Nara in un giorno"]
 language: it
-type: regular   
+type: regular
+continent: Asia   
 country: Giappone
 ---
 Hai solo un giorno per scoprire Nara? Nessun problema: **ecco un itinerario perfetto per respirare l’atmosfera antica della città**, salutare il Buddha gigante e magari farsi rubare un biscotto da un cervo (spoiler: meglio non darli, ma ne parliamo dopo!).

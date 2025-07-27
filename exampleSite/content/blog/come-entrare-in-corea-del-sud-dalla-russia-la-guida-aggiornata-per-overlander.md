@@ -3,8 +3,10 @@ title: 'Come entrare in Corea del Sud dalla Russia: la guida aggiornata per over
 description: 'Guida completa per entrare in Corea del Sud dalla Russia in camper: traghetto DuWon, documenti e consigli per overlander!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1752301060/Articoli/Russia/vladivostok/guida-traghetto-russia-corea_bhgfz5.png
 date: 2025-07-09T7:00:00+01:00
-categories: ["Guida", "Overlanding Asia"]
+categories: ["Overlanding Asia"]
 language: it
+continent: Asia
+nation: Corea del Sud
 type: regular  
 ---
 Viaggiare in camper attraverso l’Asia è un’avventura entusiasmante e **raggiungere la Corea del Sud partendo dalla Russia è un’esperienza unica**, ma richiede attenzione e una buona organizzazione. In questa guida aggiornata ti spieghiamo passo dopo passo come organizzarti, cosa aspettarti e quali documenti preparare per affrontare questo passaggio **senza intoppi**.

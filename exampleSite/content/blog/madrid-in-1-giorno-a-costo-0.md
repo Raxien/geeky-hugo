@@ -3,7 +3,8 @@ title: 'Madrid in 1 giorno a costo 0'
 description: Vuoi visitare Madrid in poco tempo e senza spendere un capitale? Scopri con noi il tour perfetto in 10 tappe. 
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689672144/Articoli/empanada/madrid/IMG_3501_p1al70.jpg
 date: 2023-07-17T10:00:00+01:00
-categories: [ "Europa", "Guida"]
+categories: [ "Spagna in Camper", "Guida"]
+continent: Europa
 country: Spagna
 type: featured
 draft: false 

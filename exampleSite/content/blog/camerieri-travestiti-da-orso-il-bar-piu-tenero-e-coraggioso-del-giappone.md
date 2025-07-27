@@ -6,6 +6,7 @@ date: 2025-06-01T7:00:00+01:00
 categories: ["Osaka", "Giappone Culinario"]
 language: it
 type: regular   
+continent: Asia
 country: Giappone
 ---
 

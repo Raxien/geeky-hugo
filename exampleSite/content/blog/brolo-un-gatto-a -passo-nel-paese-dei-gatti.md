@@ -4,14 +4,14 @@ description: "Siamo partiti da Torino, città in cui sono iniziate le nostre avv
 image: "images/post/il_paese_dei_gatti_1_1.jpg"
 date: 2022-06-19T09:00:25+01:00
 categories: ["Borghi Italiani", "Animali in camper"]
-type: "regular" # available types: [featured/regular]
+continent: Europa
 country: Italia
 draft: false
 ---
 
 Brolo è una piccola frazione di Nonio, di 357 abitanti, che si affaccia sul Lago d’Orta in Piemonte, in provincia di Verbania. Passeggiando per le sue vie ti verrà voglia di guardare in tutte le direzioni, come se stessi giocando a una caccia al tesoro. Noi ci siamo divertiti a cercare se qualcuno dei gatti raffigurati sui muretti, sulle facciate o sulle mattonelle dei numeri civici assomigliasse al nostro gatto viaggiatore. 
 
-## Tra leggenda e realtà, la frazione di Brolo conserva la sua storia 
+## Tra leggenda e realtà, la frazione di Brolo conserva la sua storia 
 Era il 10 ottobre 1756 quando la città di Brolo chiese al paese di Nonio la separazione a livello ecclesiastico dalla Parrocchia di San Biagio: in origine i brolesi dovevano recarsi a Nonio per tutte le funzioni e attraversare un fiume soggetto a piene, il “Rio veloce”.
 Grazie a questa motivazione riuscirono a ottenere lo statuto di Parrocchia autonoma e promisero che avrebbero provveduto ad arredare e mantenere la chiesa di Sant’Antonio d’Abate, e che avrebbero saldato tutti i debiti con Nonio.
 Furono però scherniti dagli abitanti di Nonio che non credevano nella riuscita dell’impresa: “Quand al vien parrocchia Brol, al ratta metrà su ul friol” che in italiano significa “quando a Brolo ci sarà la parrocchia il topo si metterà il mantello”.

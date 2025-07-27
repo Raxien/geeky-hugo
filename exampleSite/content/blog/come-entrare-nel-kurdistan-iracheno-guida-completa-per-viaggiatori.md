@@ -4,7 +4,8 @@ description: 'Scopri come entrare nel Kurdistan iracheno: guida su visti, voli, 
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475//iraq/iraq-kurdistan-iracheno_avgjtc.jpg
 date: 2025-04-20T7:00:00+01:00
 categories: ["Viaggio in Iraq"]
-type: featured  
+type: featured
+continent: Asia  
 country: Iraq
 draft: false
 ---

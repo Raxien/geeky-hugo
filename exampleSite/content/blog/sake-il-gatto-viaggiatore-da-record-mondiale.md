@@ -3,7 +3,7 @@ title: 'Sakè, il gatto viaggiatore da record mondiale'
 description: 'Preparati a conoscere Sakè, il gatto che ha conquistato il mondo, raggiungendo il record di gatto più viaggiatore al mondo! Ha esplorato 37 paesi ed è il primo felino a completare la Transiberiana, raggiungendo il Giappone via terra. Dove lo porterà il prossimo viaggio? Scoprilo in questa storia epica!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Blog/il-gatto-che-ha-visitato-piu-paesi-al-mondo_vzvuii.png
 date: 2025-04-23T7:00:00+01:00
-categories: ["Blog", "Animali", "Record mondiale"]
+categories: ["Blog", "Record mondiale"]
 type: featured  
 country: Mondo
 draft: false

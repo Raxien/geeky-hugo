@@ -3,7 +3,8 @@ title: 'Slovenia in camper: 5 giorni tra montagne e borghi storici'
 description: "Alla scoperta di un paese europeo meraviglioso tra strade mozzafiato e tanta cultura"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689874010/Articoli/Slovenia/ptuji-vista_jtgyag.jpg
 date: 2023-10-23T08:00:00.000
-categories: ["Europa", "Itinerari", "Balcani", "Camper"]
+categories: ["Balcani in Camper", "Itinerari"]
+continent: Europa
 country: Slovenia
 type: featured
 draft: false

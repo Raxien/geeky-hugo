@@ -5,6 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w
 date: 2025-02-10T10:00:00+01:00
 categories: [ "Animali", "Guida"]
 type: featured
+continent: Asia
 country: Giappone
 draft: false
 ---

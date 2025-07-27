@@ -3,8 +3,9 @@ title: 'Marocco in camper: alla scoperta della costa atlantica'
 description: "Scopri con noi le tappe che più ci hanno emozionati lungo la costa atlantica del Marocco e fin dove ci siamo spinti a bordo del nostro camper in Africa"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1690623790/Articoli/marocco%201/tropico_cancro_marocco_uizmq6.jpg
 date: 2023-10-10T17:00:00.000
-categories: ["Africa", "Itinerari", "Camper"]
+categories: ["Marocco in Camper", "Itinerari"]
 type: regular
+continent: Africa
 country: Marocco
 draft: false
 ---

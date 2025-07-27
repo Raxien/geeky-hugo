@@ -5,7 +5,8 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w
 date: 2025-06-03T7:00:00+01:00
 categories: ["Viaggio in Giappone"]
 language: it
-type: regular   
+type: regular
+continent: Asia   
 country: Giappone
 ---
 Stai pianificando un viaggio in Giappone e vuoi esplorare **le meraviglie del paese a bordo dei famosi treni Shinkansen?** {{< extLink "Japan Bullet Train" "https://www.japan-bullettrain.com/?via=vandipety">}} è la soluzione ideale per prenotare i tuoi biglietti in modo semplice, veloce e senza stress,  combinando l'efficienza dei treni giapponesi con la comodità di una prenotazione online senza problemi.

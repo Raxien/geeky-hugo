@@ -4,6 +4,7 @@ description: 5 parcheggi, tutti gratuiti tranne uno, immersi nella natura in cui
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1684676753/IMG_9525_hvzska.jpg
 date: 2023-05-18T10:00:00+01:00
 categories: [ "Africa","Camper"]
+continent: Africa
 country: Marocco
 type: regular
 draft: false 

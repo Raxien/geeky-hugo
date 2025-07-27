@@ -4,6 +4,7 @@ description: "Meta descrizione: Scopri le meraviglie di Kazan, la perla del Tata
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1731636403/Articoli/Russia/Kazan/kazan-cremlino_g3zepr.jpg
 date: 2024-12-14T10:00:00+01:00
 categories: [ "Guida", "Russia"]
+continent: Europa
 country: "Russia"
 type: regular
 ---

@@ -6,6 +6,7 @@ date: 2025-05-15T7:00:00+01:00
 categories: ["Guidare in Giappone"]
 language: it
 type: regular   
+continent: Asia
 country: Giappone
 ---
 Guidare in Giappone può sembrare complicato, ma con le giuste informazioni diventa un'esperienza entusiasmante, comoda e spesso l'unico modo per esplorare le aree più remote. Dalle montagne dello Shikoku ai piccoli villaggi del Kyushu, avere un mezzo proprio può fare la differenza. Ecco tutto ciò che c'è da sapere prima di mettersi al volante.

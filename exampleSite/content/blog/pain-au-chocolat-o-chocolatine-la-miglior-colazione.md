@@ -4,6 +4,7 @@ description: "Che differenza c'è fra Pain au Chocolat e Chocolatine? Scoprilo c
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1688826166/Articoli/Cibo/pain-au-chocolat_kuar6y.jpg"
 date: 2023-07-07T10:00:00Z
 categories: ["Cucina"]
+continent: Europa
 country: Francia
 type: featured
 draft: false

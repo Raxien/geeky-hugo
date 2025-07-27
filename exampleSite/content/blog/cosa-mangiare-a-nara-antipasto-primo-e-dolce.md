@@ -6,6 +6,7 @@ date: 2025-06-05T7:00:00+01:00
 categories: ["Giappone Culinario"]
 language: it
 type: regular   
+continent: Asia
 country: Giappone
 ---
 Nara è celebre per i suoi cervi sacri, i templi millenari e la quiete che si respira tra le foreste di lanterne. Ma se ti fermi ad ascoltare anche con il palato, scoprirai che questa antica capitale giapponese ha molto da raccontare.  

@@ -3,8 +3,8 @@ title: 'Nuova Aquitania in camper con cane e gatto: itinerario, consigli e infor
 description: "Alla scoperta della Nuova Aquitania in camper, lungo tutta la nosta atlantica del sud della Francia!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Europa", "Animali", "Itinerari", "Camper"]
-country: Francia
+categories: ["Francia in Camper", "Itinerari"]
+continent: Europa
 type: regular
 draft: false
 ---

@@ -3,8 +3,10 @@ title: 'Viaggio in Polonia: tutto quello da sapere e itinerari'
 description: "Tutto quello che ti serve sapere per andare in Polonia"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682605728/Articoli/Polonia/cracovia_piazza_cizq4y.jpg
 date: 2022-07-26T17:00:00.000
-categories: ["Europa", "Guida", "Itinerari"]
+categories: ["Polonia in Camper", "Guida"]
+continent: Europa
 country: Polonia
+camper: true
 type: regular
 draft: false
 ---

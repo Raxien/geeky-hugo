@@ -3,7 +3,8 @@ title: 'Amsterdam con cane e gatto: 3 tappe imperdibili'
 description: "Due gorni alla scoperta di una Amsterdam decisamente insolita "
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683208317/IMG_0701_2_icitnu.jpg
 date: 2023-04-26T17:00:00.000
-categories: ["Europa", "Itinerari", "Animali"]
+categories: ["Guida a Amsterdam", "Itinerari"]
+continent: Europa
 country: Paesi Bassi
 type: regular
 draft: false

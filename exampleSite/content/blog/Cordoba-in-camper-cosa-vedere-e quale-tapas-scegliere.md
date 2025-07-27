@@ -3,7 +3,9 @@ title: 'Cordoba in camper: cosa vedere e quale tapas scegliere'
 description: Stai pensando di raggiungere Cordoba in camper? Non te ne pentirai, è una meta meravigliosa! Scoprila con noi!  
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689674761/Articoli/empanada/madrid/cordoba/IMG_2986_mpur3w.jpg
 date: 2023-07-24T10:00:00+01:00
-categories: [ "Europa", "Guida"]
+categories: [ "Spagna in camper"]
+continent: Europa
+country: Spagna
 type: regular
 draft: false 
 ---

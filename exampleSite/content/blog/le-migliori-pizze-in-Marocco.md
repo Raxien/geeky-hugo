@@ -3,7 +3,8 @@ title: 'Le migliori pizze in Marocco'
 description: Sei in Marocco è hai  voglia di pizza? Ecco 4 posti in Marocco dove rimarrai davvero soddisfatto!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1685384737/IMG_2577_lxtqoc.jpg
 date: 2023-05-27T10:00:00+01:00
-categories: [ "Cucina", "Consigli"]
+categories: [ "Cucina marocchina"]
+continent: Africa
 country: Marocco
 type: regular
 draft: false

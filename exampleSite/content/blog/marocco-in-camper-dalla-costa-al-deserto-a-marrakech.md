@@ -3,8 +3,9 @@ title: 'Marocco in camper: dalla costa al deserto a Marrakech'
 description: "Scopri con noi il Marocco attraverso montagne, deserto e natura incontaminata"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1690632616/Articoli/Marocco/marocco%202/palmeto_marocco_hf2sjh.jpg
 date: 2023-10-11T17:00:00.000
-categories: ["Africa", "Itinerari", "Camper"]
+categories: ["Marocco in Camper", "Itinerari"]
 type: regular
+continent: Africa
 country: Marocco
 draft: false
 ---

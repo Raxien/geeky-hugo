@@ -5,6 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w
 date: 2024-07-01T7:00:00+01:00
 categories: [ "Direzione Giappone", "Camper"]
 type: featured  
+continent: Asia
 country: Armenia 
 draft: true
 ---

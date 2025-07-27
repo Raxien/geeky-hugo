@@ -5,6 +5,8 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w
 date: 2025-07-10T7:00:00+01:00
 categories: ["Animali", "Overlanding Asia"]
 language: it
+continent: Asia
+country: Corea del Sud
 type: regular  
 ---
 Se stai viaggiando [via terra lungo la Transiberiana](/blog/transiberiana-on-the-road) e desideri [entrare in Corea del Sud a bordo del traghetto](/blog/come-entrare-in-corea-del-sud-dalla-russia-la-guida-aggiornata-per-overlander) con il tuo animale domestico (cane o gatto), **è fondamentale pianificare attentamente ogni passaggio.** 

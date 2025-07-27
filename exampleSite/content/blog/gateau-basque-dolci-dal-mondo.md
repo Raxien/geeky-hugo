@@ -4,7 +4,8 @@ description: "Hai mai assaggiato il Gateau Basco, lo scrigno di burro, zucchero,
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690376117/Articoli/rabat/gateau/gateau_fiktyd.jpg"
 date: 2023-07-24T10:00:00Z
 categories: ["Cucina"]
-country: Paesi Baschi
+continent: Europa
+country: Spagna
 type: featured
 draft: true
 ---

@@ -1,17 +1,16 @@
 ---
 title: 'Viaggio in Senegal: tutto quello da sapere e itinerari' 
-description: ""
+description: "Sogni di andare in Senegal ma non sai da dove iniziare? Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese. Sono informazioni scoperte sul luogo nel periodo in cui abbiamo transitato, cioè marzo 2023. "
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1681839215/Articoli/Copertine/Senegal_Informazioni_Viaggio_tg3jnb.png
 date: 2023-03-26T17:00:00.000
-categories: ["Africa", "Guida", "Itinerari"]
+categories: ["Tour del Senegal"]
+continent: Africa
 country: Senegal
 type: regular
 draft: false
 ---
-
 Sogni di andare in Senegal ma non sai da dove iniziare?
 Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese. Sono informazioni scoperte sul luogo nel periodo in cui abbiamo transitato, cioè marzo 2023. 
-
 
 <details>
   <summary>Tabella dei contenuti</summary>

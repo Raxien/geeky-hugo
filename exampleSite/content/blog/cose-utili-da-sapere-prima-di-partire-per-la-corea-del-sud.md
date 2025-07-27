@@ -6,6 +6,7 @@ date: 2025-05-17T7:00:00+01:00
 categories: ["Viaggi in Corea"]
 language: it
 type: regular   
+continent: Asia
 country: Corea del Sud
 ---
 

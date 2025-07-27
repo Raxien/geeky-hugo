@@ -6,6 +6,7 @@ date: 2025-05-16T7:00:00+01:00
 categories: ["Viaggiare in Giappone", "Kyushu"]
 language: it
 type: featured   
+continent: Asia
 country: Giappone
 ---
 Tutti vanno a Tokyo.Tutti vanno a Kyoto.Tutti fanno le stesse foto davanti agli stessi templi.

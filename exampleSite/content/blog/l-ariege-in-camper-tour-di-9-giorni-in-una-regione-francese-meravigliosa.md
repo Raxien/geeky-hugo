@@ -3,7 +3,8 @@ title: 'L’Ariège in camper: tour di 9 giorni in una regione francese meravigl
 description: Hai mai preso in considerazione di visitare l'Ariege? Scopri con noi perché non dovresti perderti questa regione francese!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1690117438/Articoli/ariege/ariege_klsruv.jpg
 date: 2023-07-30T9:00:00+01:00
-categories: [ "Camper", "Itinerari"]
+categories: [ "Francia in Camper"]
+continent: Europa
 country: Francia
 type: featured
 draft: false

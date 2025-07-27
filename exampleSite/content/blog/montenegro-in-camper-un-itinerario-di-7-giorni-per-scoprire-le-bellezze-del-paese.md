@@ -3,7 +3,8 @@ title: 'Montenegro in camper: un itinerario di 7 giorni per scoprire le bellezze
 description: "Itinerario di viaggio alla scoperta del Montenegro, tra spiagge affacciate sul fiordo e percorsi escursionistici in bellissimi parchi nazionali"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
 date: 2023-12-17T08:00:00.000
-categories: ["Europa", "Itinerari", "Balcani", "Camper"]
+categories: ["Balcani in Camper", "Itinerari"]
+continent: Europa
 country: Montenegro
 type: featured
 draft: true

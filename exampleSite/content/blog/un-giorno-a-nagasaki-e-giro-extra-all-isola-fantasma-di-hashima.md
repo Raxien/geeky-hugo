@@ -6,6 +6,7 @@ date: 2025-06-04T7:00:00+01:00
 categories: ["Viaggio in Giappone", "Kyushu"]
 language: it
 type: featured   
+continent: Asia
 country: Giappone
 ---
 

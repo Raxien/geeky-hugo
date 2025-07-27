@@ -5,6 +5,7 @@ image:  https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,
 date: 2025-04-14T00:00:00.000
 categories: ["Viaggi in Coreaa"]
 type: regular
+continent: Asia
 country: Corea del Sud
 draft: false
 ---

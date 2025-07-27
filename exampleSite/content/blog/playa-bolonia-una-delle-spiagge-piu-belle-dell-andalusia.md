@@ -3,7 +3,8 @@ title: "Playa Bolonia: una delle spiagge più belle dell’Andalusia"
 description: "Una spiaggia vista Marocco, con alle spalle meravigliose rovine romane"
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1673425578/Articoli/bologna_1_odyxzg.jpg"
 date: 2023-01-09T23:00:00Z
-categories: ["Europa", "Itinerari"]
+categories: ["Spagna in Camper", "Itinerari"]
+continent: Europa
 country: Spagna
 type: "regular"
 ---

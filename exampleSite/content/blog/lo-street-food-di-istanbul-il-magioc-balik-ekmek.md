@@ -6,6 +6,7 @@ date: 2025-04-27T7:00:00+01:00
 categories: ["Istanbul", "Viaggio in Turchia", "Street Food"]
 language: it
 type: regular   
+continent: Asia
 country: Turchia
 draft: false
 ---

@@ -4,6 +4,7 @@ description: La storia emozionante dell’adozione di Genepì, cucciolo mameshib
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1751165796/Articoli/Blog/genepi-nuovo-mebro-shiba-inu_t6zv0e.jpg
 date: 2025-06-28T10:00:00+01:00
 categories: ["Blog"]
+continent: Asia
 country: Giappone
 type: featured
 draft: false 

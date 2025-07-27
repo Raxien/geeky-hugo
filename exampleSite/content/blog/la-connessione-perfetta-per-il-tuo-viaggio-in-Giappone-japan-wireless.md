@@ -5,6 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w
 date: 2025-04-30T7:00:00+01:00
 categories: ["Viaggi in Giappone", "Internet"]
 type: regular  
+continent: Asia
 country: Giappone
 draft: false
 ---

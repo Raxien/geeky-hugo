@@ -7,6 +7,7 @@ categories: ["Viaggio in Giappone", "Kyushu"]
 language: it
 draft: true 
 type: featured   
+continent: Asia
 country: Giappone
 ---
 Fukuoka è una città vivace, moderna e piena di sapori, ma basta spingersi un po’ oltre i suoi confini per scoprire un mondo fatto di **templi antichi, spiagge poetiche, paesaggi rurali e cittadine dal fascino retrò**.  

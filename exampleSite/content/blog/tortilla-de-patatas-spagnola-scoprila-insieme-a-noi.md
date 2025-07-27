@@ -4,6 +4,7 @@ description: "Hai mai assaggiato la tortilla di patate? Nel nostro viaggio in Sp
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094778/Articoli/tortilla/IMG_4634_itmojb.jpg
 date: 2023-07-14T17:00:00.000
 categories: ["Cucina"]
+continent: Europa
 country: Spagna
 type: regular
 draft: false

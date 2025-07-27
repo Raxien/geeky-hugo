@@ -3,7 +3,9 @@ title: 'Viaggio nel cuore di San Pietroburgo: esplora la metropolitana più prof
 description: "Scopri la meraviglia delle stazioni della metropolitana di San Pietroburgo, tra le più profonde al mondo. Ammira le decorazioni artistiche, i mosaici e l'architettura unica di queste stazioni sotterranee. Un viaggio indimenticabile nel cuore della città."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1728354508/Articoli/Russia/San%20Pietroburgo/metro-san-pietroburgo_e5okzp.jpg
 date: 2024-10-05T08:00:00.000
-categories: ["Guida", "Russia"]
+categories: ["Viaggio in Russia", "Tour di San Pietroburgo"]
+continent: Europa
+country: Russia
 type: featured
 draft: false
 ---

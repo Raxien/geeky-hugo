@@ -3,8 +3,9 @@ title: 'Tbilisi: 9 luoghi da non perdere e 1 consiglio su dove mangiare'
 description: 'Guida completa alla visita della capitale della Georgia tra storia, cultura e modernità'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Tblisi/tblisi-dall-alto_lmr79p.jpg
 date: 2024-06-30T7:00:00+01:00
-categories: [ "Georgia"]
+categories: [ "Georgia in Camper", "Tbilisi"]
 type: featured  
+continent: Europa
 country: Georgia 
 draft: false
 ---

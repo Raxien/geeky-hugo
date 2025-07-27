@@ -3,7 +3,8 @@ title: 'Portogallo on the road con animali | Guida e itinerari'
 description: "Alla scoperta del Portogallo, un viaggio on the road attraverso Porto e Lisbona fino a raggiungere le scogliere l'Algarve. Itinerari completi per tutti i gusti"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683816018/IMG_1491_f1hx1p.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Europa", "Guida", "Itinerari", "Camper"]
+categories: ["Portogallo in Camper", "Itinerari"]
+continent: Europa
 country: Portogallo 
 type: regular
 draft: false

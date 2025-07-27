@@ -5,6 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w
 date: 2024-05-01T7:00:00+01:00
 categories: [ "Direzione Giappone", "Viaggio in Turchia"]
 type: featured  
+continent: Asia
 country: Turchia 
 draft: false
 ---

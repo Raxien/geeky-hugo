@@ -3,7 +3,8 @@ title: "Slovacchia in camper con cane e gatto: tour di 5 giorni"
 description: "Luoghi inaspettati in un paese che merita una sosta in più"
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1680475409/Articoli/chickmani_slovacchia_paajn5.jpg"
 date: 2023-02-01T10:00:00Z
-categories: ["Europa", "Itinerari", "Animali", "Camper"]
+categories: ["Slovacchia in Camper", "Itinerari"]
+continent: Europa
 country: Slovacchia
 type: regular
 draft: false

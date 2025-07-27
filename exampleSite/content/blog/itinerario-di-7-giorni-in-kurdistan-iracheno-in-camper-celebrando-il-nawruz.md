@@ -5,6 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w
 date: 2025-04-22T7:00:00+01:00
 categories: ["Viaggio in Iraq", "Itinerari"]
 type: featured  
+continent: Asia
 country: Iraq
 draft: false
 ---

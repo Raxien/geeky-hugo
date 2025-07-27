@@ -3,7 +3,8 @@ title: "Empanada spagnola: un piatto unico delizioso!"
 description: "Quando abbiamo attraversato la Spagna in camper abbiamo fatto scorta di empanadas, scopri le nostre preferite"
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094771/Articoli/empanada/IMG_9897_doklnq.jpg"
 date: 2023-07-16T10:00:00Z
-categories: ["Cucina"]
+categories: ["Cucina spagnola"]
+continent: Europa
 country: Spagna
 type: featured
 draft: false

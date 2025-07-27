@@ -3,7 +3,8 @@ title: "Viaggio in Mauritania in camper: Guida a dogana e informazioni Utili"
 description: "Scopri come viaggiare in Mauritania in camper: guida completa a documenti, dogana e passavant. Scopri come pianificare al meglio il tuo viaggio!"
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1681930891/Articoli/Copertine/Mauritania_Camper_ofxmtr.jpg"
 date: 2023-03-06T17:00:00.000
-categories: ["Africa", "Guida", "Dogana", "Camper"]
+categories: ["Africa in Camper", "Guida", "Dogana"]
+continent: Africa
 country: Mauritania
 type: regular
 draft: false

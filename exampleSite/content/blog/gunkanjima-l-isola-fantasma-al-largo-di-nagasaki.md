@@ -6,6 +6,7 @@ date: 2025-06-03T7:00:00+01:00
 categories: ["Tour di Nagasaki"]
 language: it
 type: regular   
+continent: Asia
 country: Giappone
 ---
 A circa 20 km [dalla costa di Nagasaki](/blog/un-giorno-a-nagasaki-e-giro-extra-all-isola-fantasma-di-hashima/), emerge dal mare la sagoma inquietante e affascinante di **Hashima**, meglio conosciuta come **Gunkanjima**, l’“**isola nave da guerra**”. Il soprannome non è casuale: la sua forma massiccia e i suoi edifici in cemento armato sembrano il relitto di una città alla deriva, uno spettro del passato industriale del Giappone.

@@ -3,7 +3,8 @@ title: 'Spagna del Nord in camper | Guida completa e itinerario'
 description: "Itinerario di viaggio in camper alla scoperta del Nord della Spagna - alla scoperta dei Paesi Baschi, Cantabria, Asturie e Galizia"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683223914/IMG_9010_x6hrvl.jpg
 date: 2023-05-03T17:00:00.000
-categories: ["Europa", "Itinerari", "Camper"]
+categories: ["Europa in Camper"]
+continent: Europa
 country: Spagna
 type: regular
 draft: false

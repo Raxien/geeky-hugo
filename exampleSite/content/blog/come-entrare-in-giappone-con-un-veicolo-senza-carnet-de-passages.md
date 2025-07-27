@@ -3,8 +3,9 @@ title: "Ecco come entrare in Giappone con un veicolo senza Carnet de Passages"
 description: "Scopri come entrare in Giappone con il tuo veicolo senza spendere inutili soldi per il Carnet de Passages en Douane. Segui la nostra guida per richiedere il Permesso di Importazione Temporanea, un'alternativa gratuita e semplice, basata sulla nostra esperienza personale"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1739789765/Articoli/camper/camper-tori_nxvehm.jpg
 date: 2025-02-10T10:00:00+01:00
-categories: [ "Camper", "Guida"]
+categories: [ "Overlanding Asia"]
 type: featured
+continent: Asia
 country: Giappone
 draft: false
 ---

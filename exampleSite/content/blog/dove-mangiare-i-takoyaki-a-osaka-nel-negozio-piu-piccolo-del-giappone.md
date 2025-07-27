@@ -5,6 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w
 date: 2025-06-04T7:00:00+01:00
 categories: ["Viaggiare in Giappone", "Giappone culinario"]
 type: regular
+continent: Asia
 country: Giappone
 draft: false
 ---

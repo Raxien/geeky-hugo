@@ -6,8 +6,9 @@ date: 2025-04-27T7:00:00+01:00
 categories: ["Viaggio in Turchia", "Istanbul", "Viaggi Low-Cost"]
 language: it
 type: featured   
+continent: Asia
 country: Turchia
-draft: true
+draft: false
 ---
 Istanbul, città sospesa tra due continenti, **è un mosaico di storia, cultura e bellezza senza tempo.** Qui, le cupole delle moschee si mescolano ai grattacieli moderni, i profumi dei bazar si fondono con la brezza del Bosforo, e ogni vicolo racconta storie di imperi passati. Esplorare questa metropoli **non richiede un budget elevato:** con il nostro itinerario low-cost, potrai scoprire il meglio di Istanbul senza spendere un centesimo. Dalle icone come la Moschea Blu ai quartieri autentici come Üsküdar, dai panorami mozzafiato sul Corno d’Oro ai sapori dello street food, questo viaggio ti porterà nel cuore della città. Preparati a perderti tra colori, suoni e tradizioni: ecco le tappe gratuite che renderanno la tua esperienza indimenticabile!
 

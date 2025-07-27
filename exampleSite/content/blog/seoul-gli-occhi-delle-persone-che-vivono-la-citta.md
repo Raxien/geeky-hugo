@@ -5,6 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w
 date: 2025-04-11T7:00:00+01:00
 categories: ["Blog", "Seoul"]
 type: featured  
+continent: Asia
 country: Corea del Sud 
 draft: false
 ---

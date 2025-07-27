@@ -6,6 +6,7 @@ date: 2025-05-17T7:00:00+01:00
 categories: ["Viaggi in Corea"]
 language: it
 type: regular   
+continent: Asia
 country: Corea del Sud
 ---
 Se stai pensando di esplorare la Corea del Sud in libertà, **noleggiare un’auto** può essere una scelta eccellente, soprattutto se vuoi visitare zone meno battute o l’isola di **Jeju**, dove i mezzi pubblici sono più limitati.  
