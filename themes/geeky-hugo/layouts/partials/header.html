@@ -43,11 +43,63 @@
               {{ range .Children }}
               {{ $childURL := .URL | absLangURL }}
               {{ $active := eq $childURL $pageURL }}
-              {{ if $active }}active{{ end }}
               {{ end }}">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button"
                   data-bs-toggle="dropdown" aria-expanded="false">{{ .Name }}
                 </a>
+                {{ if eq .Name "Destinazioni" }}
+                <!-- Menu Destinazioni con layout a colonne -->
+                <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-center" aria-labelledby="navbarScrollingDropdown" style="left: 50%; transform: translateX(-50%); min-width: 800px;">
+                  <li>
+                    <div class="row g-0">
+                      {{ range $index, $continent := .Children }}
+                      {{ if .HasChildren }}
+                        {{ $continentChildren := len .Children }}
+                        {{ if and (eq .Name "Europa") (gt $continentChildren 8) }}
+                        <!-- Europa con più di 8 paesi: usa due colonne -->
+                        <div class="col-md-4">
+                          <div class="dropdown-header fw-bold text-primary">{{ .Name }}</div>
+                          <div class="row">
+                            <div class="col-6">
+                              {{ range first 9 .Children }}
+                              {{ $childURL := .URL | absLangURL }}
+                              {{ $active := eq $childURL $pageURL }}
+                              <a class="dropdown-item {{ if $active }}active{{ end }}" {{if findRE `^http` .URL}}target="_blank"
+                                  rel="noopener" {{end}}
+                                  href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+                              {{ end }}
+                            </div>
+                            <div class="col-6">
+                              {{ range after 9 .Children }}
+                              {{ $childURL := .URL | absLangURL }}
+                              {{ $active := eq $childURL $pageURL }}
+                              <a class="dropdown-item {{ if $active }}active{{ end }}" {{if findRE `^http` .URL}}target="_blank"
+                                  rel="noopener" {{end}}
+                                  href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+                              {{ end }}
+                            </div>
+                          </div>
+                        </div>
+                        {{ else }}
+                        <!-- Altri continenti: colonna singola -->
+                        <div class="col-md-4">
+                          <div class="dropdown-header fw-bold text-primary">{{ .Name }}</div>
+                          {{ range .Children }}
+                          {{ $childURL := .URL | absLangURL }}
+                          {{ $active := eq $childURL $pageURL }}
+                          <a class="dropdown-item {{ if $active }}active{{ end }}" {{if findRE `^http` .URL}}target="_blank"
+                              rel="noopener" {{end}}
+                              href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+                          {{ end }}
+                        </div>
+                        {{ end }}
+                      {{ end }}
+                      {{ end }}
+                    </div>
+                  </li>
+                </ul>
+                {{ else }}
+                <!-- Menu normale per altri elementi -->
                 <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
                   {{ range .Children }}
                   {{ $childURL := .URL | absLangURL }}
@@ -58,6 +110,7 @@
                   </li>
                   {{ end }}
                 </ul>
+                {{ end }}
               </li>
               {{ else }}
               <li class="nav-item {{ if $active }}active{{ end }}">
@@ -115,18 +168,40 @@
             <ul class="navbar-nav my-4 my-lg-0 me-3 w-100">
               {{ range site.Menus.main }}
               {{ if .HasChildren }}
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                  aria-haspopup="true" aria-expanded="false">
-                  {{ .Name }}
-                </a>
-                <div class="dropdown-menu">
+                {{ if eq .Name "Destinazioni" }}
+                <!-- Menu Destinazioni espanso in mobile -->
+                <li class="nav-item">
                   {{ range .Children }}
-                  <a class="dropdown-item" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
+                  {{ if .HasChildren }}
+                  <!-- Continenti -->
+                  <div class="dropdown-header fw-bold text-secondary ps-3">{{ .Name }}</div>
+                  {{ range .Children }}
+                  <!-- Paesi -->
+                  <a class="nav-link ps-5 py-1" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
                     href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
                   {{ end }}
-                </div>
-              </li>
+                  {{ else }}
+                  <!-- Menu normale -->
+                  <a class="nav-link ps-3" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
+                    href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+                  {{ end }}
+                  {{ end }}
+                </li>
+                {{ else }}
+                <!-- Altri menu con dropdown normale -->
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false">
+                    {{ .Name }}
+                  </a>
+                  <div class="dropdown-menu">
+                    {{ range .Children }}
+                    <a class="dropdown-item" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
+                      href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+                    {{ end }}
+                  </div>
+                </li>
+                {{ end }}
               {{ else }}
               <li class="nav-item">
                 <a class="nav-link" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}

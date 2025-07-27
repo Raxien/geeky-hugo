@@ -1781,3 +1781,136 @@ body.offcanvas-open {
 .poligon{
   clip-path: polygon(5% 0, 100% 0, 100% 100%, 5% 100%, 0 50%);
 }
+
+/* Menu a colonne per Destinazioni */
+.dropdown-menu-lg {
+  min-width: 650px;
+  width: 650px;
+  padding: 1rem 0;
+  
+  li {
+    padding: 0;
+  }
+  
+  .row {
+    margin: 0;
+  }
+  
+  .col-md-4 {
+    padding: 0 1rem;
+    border-right: 1px solid #e9ecef;
+    
+    &:last-child {
+      border-right: none;
+    }
+  }
+  
+  .dropdown-header {
+    padding: 0.5rem 0;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  
+  .dropdown-item {
+    padding: 0.4rem 0;
+    font-size: 0.85rem;
+    border-radius: 0;
+    
+    &:hover {
+      background-color: #f8f9fa;
+      color: #007bff;
+    }
+    
+    &.active {
+      background-color: #007bff;
+      color: white;
+    }
+  }
+}
+
+/* Responsive per menu mobile */
+@media (max-width: 991px) {
+  .dropdown-menu-lg {
+    min-width: auto;
+    
+    .row {
+      flex-direction: column;
+    }
+    
+    .col-md-4 {
+      border-right: none;
+      border-bottom: 1px solid #e9ecef;
+      padding: 0.5rem 0;
+      
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+    
+    .dropdown-header {
+      margin-bottom: 0.25rem;
+      font-size: 0.8rem;
+    }
+    
+    .dropdown-item {
+      padding: 0.3rem 0;
+      font-size: 0.8rem;
+    }
+  }
+  
+  /* Stili specifici per menu mobile */
+  .offcanvas .dropdown-menu {
+    border: none;
+    box-shadow: none;
+    padding: 0.5rem 0;
+    
+    .dropdown-header {
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: #007bff;
+      padding: 0.5rem 1rem;
+      margin-bottom: 0.25rem;
+      border-bottom: 1px solid #e9ecef;
+    }
+    
+    .dropdown-item {
+      padding: 0.4rem 1rem;
+      font-size: 0.85rem;
+      
+      &.ps-4 {
+        padding-left: 2rem !important;
+      }
+    }
+  }
+  
+  /* Menu mobile espanso per Destinazioni */
+  .offcanvas .nav-item .nav-link {
+    &.fw-bold.text-primary {
+      font-size: 1.1rem;
+      padding: 0.75rem 1rem;
+      border-bottom: 2px solid #007bff;
+      margin-bottom: 0.5rem;
+    }
+    
+    &.fw-bold.text-secondary {
+      font-size: 0.9rem;
+      padding: 0.5rem 1rem;
+      margin-top: 0.5rem;
+      color: #6c757d !important;
+      border-left: 3px solid #007bff;
+    }
+    
+    &.ps-5 {
+      font-size: 0.85rem;
+      padding: 0.3rem 1rem 0.3rem 3rem;
+      color: #495057;
+      
+      &:hover {
+        color: #007bff;
+        background-color: #f8f9fa;
+      }
+    }
+  }
+}

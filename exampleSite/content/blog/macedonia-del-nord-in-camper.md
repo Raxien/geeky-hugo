@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w
 date: 2023-09-23T08:00:00.000
 categories: ["Balcani in Camper", "Itinerari"]
 continent: Europa
-country: Macedonia del Nord
+country: Macedonia
 type: featured
 draft: true
 ---

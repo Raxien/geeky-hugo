@@ -6,7 +6,7 @@ date: 2025-07-09T7:00:00+01:00
 categories: ["Overlanding Asia"]
 language: it
 continent: Asia
-nation: Corea del Sud
+country: Corea del Sud
 type: regular  
 ---
 Viaggiare in camper attraverso l’Asia è un’avventura entusiasmante e **raggiungere la Corea del Sud partendo dalla Russia è un’esperienza unica**, ma richiede attenzione e una buona organizzazione. In questa guida aggiornata ti spieghiamo passo dopo passo come organizzarti, cosa aspettarti e quali documenti preparare per affrontare questo passaggio **senza intoppi**.

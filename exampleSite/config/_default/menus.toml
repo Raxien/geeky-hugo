@@ -7,9 +7,9 @@ url = ""
 weight = 1
 
 # [[main]]
-# name = "Attrezzature"
+# name = "Attrezzature"
 # url = "gears/"
-# weight = 2
+# weight = 2
 
 [[main]]
 name = "Il viaggio"
@@ -25,6 +25,189 @@ weight = 2
 name = "Il van"
 url = "van/"
 weight = 3
+
+[[main]]
+name = "Destinazioni"
+url = "#"
+weight = 4
+hasChildren = true
+
+  [[main]]
+  parent = "Destinazioni"
+  name = "Europa"
+  url = "#"
+  weight = 1
+  hasChildren = true
+
+    [[main]]
+    parent = "Europa"
+    name = "Andorra"
+    url = "search/?s=Andorra"
+    weight = 1
+
+    [[main]]
+    parent = "Europa"
+    name = "Austria"
+    url = "search/?s=Austria"
+    weight = 2
+
+    [[main]]
+    parent = "Europa"
+    name = "Belgio"
+    url = "search/?s=Belgio"
+    weight = 3
+
+    [[main]]
+    parent = "Europa"
+    name = "Bosnia"
+    url = "search/?s=Bosnia"
+    weight = 4
+
+    [[main]]
+    parent = "Europa"
+    name = "Croazia"
+    url = "search/?s=Croazia"
+    weight = 5
+
+    [[main]]
+    parent = "Europa"
+    name = "Danimarca"
+    url = "search/?s=Danimarca"
+    weight = 6
+
+    [[main]]
+    parent = "Europa"
+    name = "Francia"
+    url = "search/?s=Francia"
+    weight = 7
+
+    [[main]]
+    parent = "Europa"
+    name = "Georgia"
+    url = "search/?s=Georgia"
+    weight = 8
+
+    [[main]]
+    parent = "Europa"
+    name = "Italia"
+    url = "search/?s=Italia"
+    weight = 9
+
+    [[main]]
+    parent = "Europa"
+    name = "Kosovo"
+    url = "search/?s=Kosovo"
+    weight = 10
+
+    [[main]]
+    parent = "Europa"
+    name = "Macedonia"
+    url = "search/?s=Macedonia"
+    weight = 11
+
+    [[main]]
+    parent = "Europa"
+    name = "Montenegro"
+    url = "search/?s=Montenegro"
+    weight = 12
+
+    [[main]]
+    parent = "Europa"
+    name = "Paesi Bassi"
+    url = "search/?s=Paesi Bassi"
+    weight = 13
+
+    [[main]]
+    parent = "Europa"
+    name = "Polonia"
+    url = "search/?s=Polonia"
+    weight = 14
+
+    [[main]]
+    parent = "Europa"
+    name = "Portogallo"
+    url = "search/?s=Portogallo"
+    weight = 15
+
+    [[main]]
+    parent = "Europa"
+    name = "Russia"
+    url = "search/?s=Russia"
+    weight = 16
+
+    [[main]]
+    parent = "Europa"
+    name = "Slovenia"
+    url = "search/?s=Slovenia"
+    weight = 17
+
+    [[main]]
+    parent = "Europa"
+    name = "Spagna"
+    url = "search/?s=Spagna"
+    weight = 18
+
+  [[main]]
+  parent = "Destinazioni"
+  name = "Asia"
+  url = "#"
+  weight = 2
+  hasChildren = true
+
+    [[main]]
+    parent = "Asia"
+    name = "Armenia"
+    url = "search/?s=Armenia"
+    weight = 1
+
+    [[main]]
+    parent = "Asia"
+    name = "Corea del Sud"
+    url = "search/?s=Corea del Sud"
+    weight = 2
+
+    [[main]]
+    parent = "Asia"
+    name = "Giappone"
+    url = "search/?s=Giappone"
+    weight = 3
+
+    [[main]]
+    parent = "Asia"
+    name = "Iraq"
+    url = "search/?s=Iraq"
+    weight = 4
+
+    [[main]]
+    parent = "Asia"
+    name = "Turchia"
+    url = "search/?s=Turchia"
+    weight = 5
+
+  [[main]]
+  parent = "Destinazioni"
+  name = "Africa"
+  url = "#"
+  weight = 3
+  hasChildren = true
+
+    [[main]]
+    parent = "Africa"
+    name = "Marocco"
+    url = "search/?s=Marocco"
+    weight = 1
+
+    [[main]]
+    parent = "Africa"
+    name = "Mauritania"
+    url = "search/?s=Mauritania"
+    weight = 2
+
+    [[main]]
+    parent = "Africa"
+    name = "Senegal"
+    url = "search/?s=Senegal"
+    weight = 3
 
 # [[main]]
 # name = "Diamo i numeri"
@@ -50,10 +233,10 @@ weight = 3
 #   url = "van/"
 #   weight = 3
 
-# [[main]]
-# name = "Libri"
-# url = "books/"
-# weight = 4
+# [[main]]
+# name = "Libri"
+# url = "books/"
+# weight = 4
 
 # [[main]]
 # name = "Il Record"
