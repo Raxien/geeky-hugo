@@ -21,7 +21,9 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	{{ end }}
 </head>
 
-<body>
+<body style="padding: 0px, 0px, 0px, 0px !important;">
+
+	{{ partial "preloader.html" . }}
 	<!-- cache partial only in production -->
 	{{ if hugo.IsProduction }}
 	{{ partialCached "preloader.html" . }}
