@@ -105,11 +105,11 @@ hasChildren = true
     url = "search/?s=Macedonia"
     weight = 11
 
-    [[main]]
-    parent = "Europa"
-    name = "Montenegro"
-    url = "search/?s=Montenegro"
-    weight = 12
+    # [[main]]
+    # parent = "Europa"
+    # name = "Montenegro"
+    # url = "search/?s=Montenegro"
+    # weight = 12
 
     [[main]]
     parent = "Europa"
