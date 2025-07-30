@@ -52,6 +52,9 @@ Il grande vantaggio del visto elettronico è che **non è necessario recarsi al 
 
 Ad esempio se vuoi entrare in Russia dalla Georgia e uscire in Kazakistan come fanno tanti viaggiatori tale visto non è riconosciuto, per cui potremmo consigliarlo **a chi vuole rimanere intorno a [Mosca](/blog/tour-di-mosca-in-due-giorni-itinerario-imperdibile) e [San Pietroburgo](/blog/tour-di-san-pietroburgo-scopri-la-venezia-del-nord-in-2-giorni)**, anche se ci sono persone che l’hanno sfruttato per raggiungere direttamente la Mongolia, **a proprio rischio e pericolo** perché può sempre succedere un imprevisto lungo la strada. 
 
+`Aggiornamento` 
+A partire dal 23 Agosto 2025, la validità del visto elettronico (e-Visa) verrà incrementato da 60 a 120 giorni, mentre **la durata massima di permanenza sul territorio da 16 a 30 giorni.** [{{< extLink "Fonte." "https://visasnews.com/en/russia-extends-validity-of-electronic-visa/" >}}] 
+
 ### Visto Standard
 Tale visto può essere di tipo turistico, d’affari, per visite private, ecc., e **consente soggiorni più lunghi rispetto al visto elettronico.** Per poter presentare la domanda per questo visto puoi recarti presso gli uffici consolari russi in Italia che si trovano a Roma, Milano, Genova e Palermo. oppure puoi affidarti a un’agenzia online, e puoi richiedere un visto turistico di ingresso singolo o doppio per un periodo massimo di 3 mesi, o un visto turistico multiplo per un periodo massimo di 6 mesi
 
