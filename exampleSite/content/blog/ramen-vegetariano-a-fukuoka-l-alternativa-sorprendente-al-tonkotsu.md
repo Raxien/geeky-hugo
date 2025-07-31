@@ -3,7 +3,7 @@ title: 'Ramen vegetariano a Fukuoka: l’alternativa sorprendente al tonkotsu'
 description: 'Scopri il ramen vegetariano a Fukuoka da Marutan: Hakata Ratanmen con brodo vegetale e pasta di sesamo. Sapore unico a 500 yen, aperto fino alle 4!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713007643/Articoli/Giappone/ramen-vegetale-fukuoka_lzr9t6.jpg
 date: 2025-05-14T7:00:00+01:00
-categories: ["Viaggiare in Giappone", "Vegetariani"]
+categories: ["Kyushu", "Vegetariani"]
 language: it
 type: regular   
 continent: Asia

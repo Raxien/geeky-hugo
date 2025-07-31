@@ -20,30 +20,32 @@ Ed è perfetta se hai la possibilità di noleggiare un’auto o un camper, perch
 ## Giorno per giorno: 14 tappe per innamorarsi del Kyushu
 
 **{{< underline "Giorno 1">}}**: **Fukuoka**  
-Atterraggio a Fukuoka. Perché? Perché quasi nessuno ci pensa, ed è una scelta da veri ninja del viaggio.Fukuoka è ben collegata all’Italia (spesso con un solo scalo) e i voli costano meno rispetto a Tokyo o Osaka.
-Prenditi un po’ di tempo per ambientarti, sgranchirti le gambe e assaggiare il celebre tonkotsu ramen (o se preferisci un’alternativa vegetariana scoprila qui). 
+Atterraggio a Fukuoka. Perché? Perché quasi nessuno ci pensa, ed è una scelta da veri ninja del viaggio. Fukuoka è ben collegata all’Italia (spesso con un solo scalo) e i **voli costano meno rispetto a Tokyo o Osaka.**
+Prenditi un po’ di tempo per ambientarti, sgranchirti le gambe e assaggiare il celebre tonkotsu ramen (o se preferisci un’alternativa [vegetariana scoprila qui](/blog/ramen-vegetariano-a-fukuoka-l-alternativa-sorprendente-al-tonkotsu/)). 
+
+{{< leggi-anche url="/blog/cosa-vedere-a-fukuoka-la-citta-accogliente-del-kyushu/">}}
 
 **{{< underline "Giorno 2">}}**: **Buddha di Nanzoin, Dazaifu e arrivo a Nagasaki**  
-Ritira l’auto e fai subito tappa al gigantesco Buddha sdraiato di Nanzoin. Poi dirigiti a Dazaifu (scopri di più su questi luoghi qui). Nel pomeriggio arrivo a Nagasaki.
+Ritira l’auto e fai subito tappa al gigantesco **Buddha sdraiato di Nanzoin**. Poi dirigiti a Dazaifu. Nel pomeriggio arrivo a Nagasaki.
 
 **{{< underline "Giorno 3">}}**: **Nagasaki**  
-Giornata piena attraverso i punti salienti di una città ricca di storia e cultura: Parco della Pace, Torii spezzato a metà, quartiere olandese e cinese, ponte Meganebashi e il tramonto sulla baia.Consiglio: scarpe comode o sfrutta i tram e la funicolare!
+Giornata piena attraverso i punti salienti di una città ricca di storia e cultura: Parco della Pace, Torii spezzato a metà, quartiere olandese e cinese, ponte Meganebashi e il tramonto sulla baia. **Consiglio: scarpe comode o sfrutta i tram e la funicolare!**
 
 {{< leggi-anche url="/blog/un-giorno-a-nagasaki-e-giro-extra-all-isola-fantasma-di-hashima/" >}}
 
 **{{< underline "Giorno 4">}}**: **Hashima (isola fantasma) + Unzen Jigoku**  
-Se il mare lo permette, parti per l’escursione a Gunkanjima, la città mineraria abbandonata.Poi rilassati tra i fumi infernali di Unzen Jigoku.
+Se il mare lo permette, [parti per l’escursione a Gunkanjima](/blog/gunkanjima-l-isola-fantasma-al-largo-di-nagasaki/), la città mineraria abbandonata.Poi rilassati tra i fumi infernali di Unzen Jigoku.
 
 **{{< underline "Giorno 5">}}**: **Shimabara + traghetto per Kumamoto**  
-Una passeggiata nella città dei samurai, tra case in stile Edo e il castello.Poi traghetto verso Kumamoto. 
+Una passeggiata nella città dei samurai, **tra case in stile Edo e il castello.** Poi traghetto verso Kumamoto. 
 
 **{{< underline "Giorno 6">}}**: **Kagoshima**  
-Scendi verso sud ascoltando “Rotolando verso Sud”! Esplora Kagoshima, la Napoli giapponese affacciata sul vulcano Sakurajima.Se riesci, prosegui verso Ibusuki o il lago Ikeda.
+Scendi verso sud ascoltando “Rotolando verso Sud”! Esplora Kagoshima, **la Napoli giapponese affacciata sul vulcano Sakurajima.** Se riesci, prosegui verso Ibusuki o il lago Ikeda.
 
 {{< youtube2 1KkVKbI3esI >}}
 
 **{{< underline "Giorno 7">}}**: **Sakurajima + Miyazaki**  
-Traghetto di 10 minuti per il Sakurajima, con la sua footbath lunghissima e il paesaggio quasi lunare.Poi rotta verso Miyazaki.
+Traghetto di 10 minuti per il Sakurajima, con la sua footbath lunghissima e il paesaggio quasi lunare. Poi rotta verso Miyazaki.
 
 **{{< underline "Giorno 8">}}**: **Aoshima, Udo Jingu, Obi**  
 Inspira a pieni polmoni l’aria salmastra tra coste meravigliose, il santuario scavato nella scogliera, pietre portafortuna e l’antica Obi, detta la piccola Kyoto del Kyushu.
@@ -55,7 +57,9 @@ Oggi giornata magica: a spasso o a nuoto (scherziamo! Ma puoi affittare una barc
 Crateri, paesaggi lunari e pascoli infiniti attraverso una caldera enorme e un vulcano che ancora borbotta.Poi relax a Kurokawa Onsen, uno dei villaggi termali più belli del Giappone.
 
 **{{< underline "Giorno 11">}}**: **Beppu**  
-Capitale degli onsen: visita gli “inferni” colorati, rilassati nei bagni locali e prova le uova cotte nel vapore geotermico.
+Capitale degli onsen: [visita gli “inferni” colorati](/blog/guida-agli-inferni-di-beppu-cosa-sono-quanto-costano-e-quali-vale-la-pena-vedere/), rilassati nei bagni locali e prova le uova cotte nel vapore geotermico.
+
+{{< leggi-anche url="/blog/guida-agli-inferni-di-beppu-cosa-sono-quanto-costano-e-quali-vale-la-pena-vedere/" >}}
 
 **{{< underline "Giorno 12">}}**: **Itoshima**  
 Ritorno verso nord con sosta a Itoshima, una spiaggia perfetta per chiudere il viaggio tra onde e tori rossi sul mare.
@@ -66,7 +70,7 @@ Relax, ultimi acquisti e… un’altra ciotola di ramen, che non guasta mai.
 **{{< underline "Giorno 14">}}**: **Partenza**  
 Tempo di saluti. Ma siamo sicuri: questo angolo di Giappone ti sarà rimasto nel cuore.
 
-{{< leggi-anche >}}
+{{< leggi-anche url="/blog/viaggio-giappone-informazioni-e-itinerari/" >}}
 
 ## Itineario in breve
 
@@ -99,6 +103,7 @@ Tempo di saluti. Ma siamo sicuri: questo angolo di Giappone ti sarà rimasto nel
 **{{< underline "Giorno 14">}}** Partenza
 
 <br>
+
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713007643/Articoli//Giappone/torri-kyushu-da-vedere_akclnd.jpg" >}}
 
 ## Qualche consiglio in più
@@ -111,3 +116,5 @@ Tempo di saluti. Ma siamo sicuri: questo angolo di Giappone ti sarà rimasto nel
 {{< extLink "Sul nostro canale YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}} trovi i video tappa per tappa! E se ti serve ancora più supporto, sul nostro sito trovi articoli pratici e dritte per organizzare tutto senza stress.
 
 E ricorda: Il Giappone può essere poesia. Basta saperla cercare nei luoghi giusti.
+
+{{< youtube2 rR4q7IHWRh0 >}}

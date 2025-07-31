@@ -1,5 +1,5 @@
 ---
-title: 'Prenota i Tuoi Treni Giapponesi con Japan Bullet Train e Viaggia Senza Stress'
+title: 'Prenota i tuoi treni giapponesi con Japan Bullet Train e viaggia senza stress'
 description: 'Stai pianificando un viaggio in Giappone e vuoi esplorare le meraviglie del paese a bordo dei famosi treni Shinkansen? Japan Bullet Train è la soluzione ideale per prenotare i tuoi biglietti in modo semplice, veloce e senza stress, evitando le lunghe code alle biglietterie e le difficoltà linguistiche.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1751869459/Articoli/Giappone/japan-shinkansen_uovshc.jpg
 date: 2025-06-03T7:00:00+01:00
