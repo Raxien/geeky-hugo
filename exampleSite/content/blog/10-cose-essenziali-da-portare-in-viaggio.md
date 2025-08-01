@@ -11,25 +11,7 @@ draft: false
 Stai per partire per un viaggio e sei in panico perché non sai cosa mettere in valigia? **Non ti preoccupare**, ci siamo qui noi!
 Ecco una comoda lista di 10 cose che dovresti assolutamente portare con te, con anche qualche consiglio per rendere il tuo viaggio indimenticabile! 
 
-<details>
-  <summary>Tabella dei contenuti</summary>
-
-> ##### Tabella dei contenuti
-> - [Le 10 cose da avere](#le-10-cose-da-avere)
-> 1. [Documenti](#1-documenti)
-> 1. [Kit di medicinali](#2-kit-di-medicinali)
-> 1. [Mantella anti-pioggia](#3-mantella-anti-pioggia)
-> 1. [Fotocamera](#4-fotocamera)  
-> 1. [Acqua](#5-acqua)  
-> 1. [Zaino](#6-zaino)
-> 1. [Igiene orale](#7-igiene-orale)
-> 1. [Igiene intimo](#8-igiene-intimo)
-> 1. [Intrattenimento: serie TV, film e libri](#9-intrattenimento-serie-tv-film-e-libri)
-> 1. [Varie: adattatore universale e sicurezza](#10-varie-adattatore-universale-e-sicurezza)
-> - [Ultimi consigli prima di partire](#ultimi-consigli-prima-di-partire)
-> - [Check List](#check-list)
-> 
-</details>
+{{< indice >}}
 
 ## Le 10 cose da avere
 

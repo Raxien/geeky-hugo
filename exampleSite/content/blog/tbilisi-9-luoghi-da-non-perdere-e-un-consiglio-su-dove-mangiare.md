@@ -9,7 +9,6 @@ continent: Europa
 country: Georgia 
 draft: false
 ---
-
 Tbilisi, capitale della Georgia, vanta una storia millenaria che si intreccia con culture diverse, **offrendo un'esperienza unica e indimenticabile**. Fondata 6000 anni fa in una posizione strategica lungo le antiche rotte commerciali tra Asia ed Europa, **Tbilisi è oggi una città vivace e dinamica che unisce passato e presente in modo armonioso, e cattura lo sguardo in ogni dove.** 
 Il centro storico, ai piedi della fortezza, conserva l’impronta di quel crocevia euroasiatico tra terme, dedali di stradine, botteghe artigiane, caffè, chiese, case in rovina, scale a chiocciola e i cortili cosiddetti “all’italiana”. 
 

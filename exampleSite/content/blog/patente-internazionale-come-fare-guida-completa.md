@@ -9,24 +9,7 @@ draft: false
 ---
 Se stai pianificando di guidare all'estero, è probabile che ti venga richiesto di ottenere **una patente di guida internazionale (IDP, International Driving Permit).** Questo documento è un'estensione della tua patente nazionale e ti consente di guidare legalmente in molti Paesi. In questo articolo vedremo i due modelli di patente internazionale, le differenze tra di essi, la procedura per ottenerla in Italia e all'estero, oltre ai tempi e ai costi associati.
 
-<details>
-  <summary>Tabella dei contenuti</summary>
-
-> ## Tabella dei contenuti
-> 
-> - [Due modelli di Patente Internazionale: quale scegliere?](#due-modelli-di-patente-internazionale-quale-scegliere)
-> - [Procedura per ottenere la patente internazionale in Italia](#procedura-per-ottenere-la-patente-internazionale-in-italia)
->   - [Patente Internazionale con Motorizzazione Civile](#patente-internazionale-con-motorizzazione-civile)
->   - [Patente Internazionale tramite ACI](#patente-internazionale-tramite-aci)
->   - [Come autenticare una fotografica](#come-autenticare-una-fotografica)
-> - [Documenti necessari](#documenti-necessari)
-> - [Come ottenere la patente internazionale all'estero](#come-ottenere-la-patente-internazionale-allestero)
-> - [Tempi](#tempi)
-> - [Costi](#costi)
-> - [Patente Internazionale online: è legale?](#patente-internazionale-online-è-legale)
-> - [Conclusione](#conclusione)
-> 
-</details>
+{{< indice >}}
 
 ## Due modelli di Patente Internazionale: quale scegliere?
 

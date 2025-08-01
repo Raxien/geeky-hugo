@@ -13,22 +13,7 @@ draft: false
 La **Castiglia-La Mancia** è una splendida regione centrale della Spagna, terra di avventure narrate da Cervantes, in cui il **Don Chisciotte** si destreggia fra mulini a vento.
 Noi abbiamo visitato queste zone arrivando [dall'Andalusia](/blog/viaggio-andalusia-in-camper-itinerari) per poi raggiungere Madrid.
 
-<details>
-  <summary>Tabella dei contenuti</summary>
-
-> ## Tabella dei contenuti
-> - [Prima un po' di cultura](#prima-un-po-di-cultura)
-> - [La nostra Ruta de Don Quijote da Cordoba verso Toledo](#la-nostra-ruta-de-don-quijote-da-cordoba-verso-toledo)
->   - [Sacro Convento y Castillo de Calatrava La Nueva](#sacro-convento-y-castillo-de-calatrava-la-nueva)
->   - [Almagro](#almagro)
->   - [Campo de Criptana](#campo-de-criptana)
->   - [Alcazar De San Juan](#alcazar-de-san-juan)
->   - [Consuegra](#consuegra)
->   - [Toledo](#toledo)
-> - [Piatti tipici della Castiglia-La Mancia](#piatti-tipici-della-castiglia-la-mancia)
-> - [In camper è fattibile?](#in-camper-è-fattibile)
-> - [Le nostre mappe](#le-nostre-mappe)
-</details>
+{{< indice >}}
 
 ## Prima un po' di cultura
 Il termine **"La Mancia"** sembra derivare dall’arabo "al Mansha" che significa "il deserto", che qui indicava non tanto una distesa di sabbia ma lo spopolamento di un’area compromessa anche da un clima decisamente più arido rispetto ad altre regioni spagnole.
