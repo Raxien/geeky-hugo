@@ -3,7 +3,7 @@ title: 'Viaggiare in Georgia in Camper: Guida completa - 2025'
 description: 'Scopri come viaggiare in Georgia in camper da italiano: requisiti visto, assicurazione TPL, patente internazionale, dogane, strade, campeggi e aree sosta. Consigli pratici per risparmiare con Revolut e app essenziali per un viaggio sicuro.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1754036785/Articoli/Blog/guida-georgia-in-camper-2025_tvalhb.png
 date: 2025-07-31T7:00:00+01:00
-categories: ["Georgia in Giappone", "Requisiti ingresso Georgia 2025"]
+categories: ["Georgia in camper", "Guida"]
 language: it
 type: featured   
 continent: Europa
