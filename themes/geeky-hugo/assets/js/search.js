@@ -171,7 +171,7 @@ function setupRealTimeSearch() {
           </div>
           ${results.length > maxResults ? `
             <div class="search-more-results">
-              <a href="/search/?s=${encodeURIComponent(query)}">Mostra altri ${results.length - maxResults} risultati</a>
+              <a href="/search/??s=${encodeURIComponent(query)}">Mostra altri ${results.length - maxResults} risultati</a>
             </div>
           ` : ''}
         `;

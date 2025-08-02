@@ -882,7 +882,7 @@ function setMap(mapJson) {
                         </a>
                         <div class="feature__body boxed boxed--border bg--secondary" style="margin-bottom: 0px;">
                             <h6>${item.title}</h6>
-                            <p>📍 Scopri gli itinerari <a href="/search/?s=${item.blog}"><span>${item.blog}</span></a></p>
+                            <p>📍 Scopri gli itinerari <a href="/search/??s=${item.blog}"><span>${item.blog}</span></a></p>
                         </div>
                     </article>`
                 },
