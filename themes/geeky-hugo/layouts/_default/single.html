@@ -73,14 +73,14 @@
             <i class="fas fa-user me-2"></i>
             <a href="{{`about` | relLangURL}}">{{site.Params.author}}</a>
           </li>
-          {{ if .Params.country}}
-          <li class="list-inline-item d-flex align-items-center">
-            <i class="fas fa-map-pin me-2"></i>
-            {{ $country := .Params.country}}
-            {{ $link:= add "search/?s=" $country }}
-            <a class="a-country" href="{{$link | relLangURL}}">{{.Params.country | title}}</a>
-          </li>
-          {{end}}
+                {{ if .Params.country}}
+      <li class="list-inline-item d-flex align-items-center">
+        <i class="fas fa-map-pin me-2"></i>
+        {{ $country := .Params.country}}
+        {{ $link:= add "search/?s=" $country }}
+        <a class="a-country" href="{{$link | relLangURL}}">{{.Params.country | title}}</a>
+      </li>
+      {{end}}
           <li class="list-inline-item d-flex align-items-center">
             <i class="fas fa-calendar me-2"></i>
             <!-- data di pubblicazione formattata Mese, gg aaaa -->
