@@ -42,109 +42,109 @@ hasChildren = true
     [[main]]
     parent = "Europa"
     name = "Andorra"
-    url = "destinations/?s=Andorra"
+    url = "search/?s=Andorra"
     weight = 1
 
     [[main]]
     parent = "Europa"
     name = "Austria"
-    url = "destinations/?s=Austria"
+    url = "search/?s=Austria"
     weight = 2
 
     [[main]]
     parent = "Europa"
     name = "Belgio"
-    url = "destinations/?s=Belgio"
+    url = "search/?s=Belgio"
     weight = 3
 
     [[main]]
     parent = "Europa"
     name = "Bosnia"
-    url = "destinations/?s=Bosnia"
+    url = "search/?s=Bosnia"
     weight = 4
 
     [[main]]
     parent = "Europa"
     name = "Croazia"
-    url = "destinations/?s=Croazia"
+    url = "search/?s=Croazia"
     weight = 5
 
     [[main]]
     parent = "Europa"
     name = "Danimarca"
-    url = "destinations/?s=Danimarca"
+    url = "search/?s=Danimarca"
     weight = 6
 
     [[main]]
     parent = "Europa"
     name = "Francia"
-    url = "destinations/?s=Francia"
+    url = "search/?s=Francia"
     weight = 7
 
     [[main]]
     parent = "Europa"
     name = "Georgia"
-    url = "destinations/?s=Georgia"
+    url = "search/?s=Georgia"
     weight = 8
 
     [[main]]
     parent = "Europa"
     name = "Italia"
-    url = "destinations/?s=Italia"
+    url = "search/?s=Italia"
     weight = 9
 
     [[main]]
     parent = "Europa"
     name = "Kosovo"
-    url = "destinations/?s=Kosovo"
+    url = "search/?s=Kosovo"
     weight = 10
 
     [[main]]
     parent = "Europa"
     name = "Macedonia"
-    url = "destinations/?s=Macedonia"
+    url = "search/?s=Macedonia"
     weight = 11
 
     # [[main]]
     # parent = "Europa"
     # name = "Montenegro"
-    # url = "destinations/?s=Montenegro"
+    # url = "search/?s=Montenegro"
     # weight = 12
 
     [[main]]
     parent = "Europa"
     name = "Paesi Bassi"
-    url = "destinations/?s=Paesi Bassi"
+    url = "search/?s=Paesi Bassi"
     weight = 13
 
     [[main]]
     parent = "Europa"
     name = "Polonia"
-    url = "destinations/?s=Polonia"
+    url = "search/?s=Polonia"
     weight = 14
 
     [[main]]
     parent = "Europa"
     name = "Portogallo"
-    url = "destinations/?s=Portogallo"
+    url = "search/?s=Portogallo"
     weight = 15
 
     [[main]]
     parent = "Europa"
     name = "Russia"
-    url = "destinations/?s=Russia"
+    url = "search/?s=Russia"
     weight = 16
 
     [[main]]
     parent = "Europa"
     name = "Slovenia"
-    url = "destinations/?s=Slovenia"
+    url = "search/?s=Slovenia"
     weight = 17
 
     [[main]]
     parent = "Europa"
     name = "Spagna"
-    url = "destinations/?s=Spagna"
+    url = "search/?s=Spagna"
     weight = 18
 
   [[main]]
@@ -157,31 +157,31 @@ hasChildren = true
     [[main]]
     parent = "Asia"
     name = "Armenia"
-    url = "destinations/?s=Armenia"
+    url = "search/?s=Armenia"
     weight = 1
 
     [[main]]
     parent = "Asia"
     name = "Corea del Sud"
-    url = "destinations/?s=Corea del Sud"
+    url = "search/?s=Corea del Sud"
     weight = 2
 
     [[main]]
     parent = "Asia"
     name = "Giappone"
-    url = "destinations/?s=Giappone"
+    url = "search/?s=Giappone"
     weight = 3
 
     [[main]]
     parent = "Asia"
     name = "Iraq"
-    url = "destinations/?s=Iraq"
+    url = "search/?s=Iraq"
     weight = 4
 
     [[main]]
     parent = "Asia"
     name = "Turchia"
-    url = "destinations/?s=Turchia"
+    url = "search/?s=Turchia"
     weight = 5
 
   [[main]]
@@ -194,19 +194,19 @@ hasChildren = true
     [[main]]
     parent = "Africa"
     name = "Marocco"
-    url = "destinations/?s=Marocco"
+    url = "search/?s=Marocco"
     weight = 1
 
     [[main]]
     parent = "Africa"
     name = "Mauritania"
-    url = "destinations/?s=Mauritania"
+    url = "search/?s=Mauritania"
     weight = 2
 
     [[main]]
     parent = "Africa"
     name = "Senegal"
-    url = "destinations/?s=Senegal"
+    url = "search/?s=Senegal"
     weight = 3
 
 # [[main]]
