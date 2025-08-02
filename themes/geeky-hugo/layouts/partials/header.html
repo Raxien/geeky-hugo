@@ -39,11 +39,7 @@
               {{ $pageURL:= $currentPage.Permalink | absLangURL }}
               {{ $active := eq $menuURL $pageURL }}
               {{ if .HasChildren }}
-              <li class="nav-item dropdown 
-              {{ range .Children }}
-              {{ $childURL := .URL | absLangURL }}
-              {{ $active := eq $childURL $pageURL }}
-              {{ end }}">
+              <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button"
                   data-bs-toggle="dropdown" aria-expanded="false">{{ .Name }}
                 </a>
@@ -146,7 +142,7 @@
         <!-- search -->
         {{ if site.Params.search }}
         <div class="search-wrap" id="search-wrap">
-          <form action="{{ `search/`| relLangURL }}" method="GET" class="search-bar d-flex align-items-center justify-content-center" id="search-form">
+          <form action="{{ `search/?`| relLangURL }}" method="GET" class="search-bar d-flex align-items-center justify-content-center" id="search-form">
             <input class="search-input w-100 border-0 h-100" id="search-query" name="s" type="search" placeholder="Cerca..." autocomplete="off" aria-label="Cerca nel sito"/>
             <span class="close-search toggle-search" data-target="#search-wrap" aria-label="Chiudi la ricerca">
               <i class="fas fa-times"></i>
