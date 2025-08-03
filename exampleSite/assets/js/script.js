@@ -670,6 +670,7 @@ function formatSummaryText(text) {
   // Dividi il testo in righe
   const lines = text.split('\n').filter(line => line.trim());
   let formattedHtml = '';
+  let hasLinks = false;
   
   lines.forEach(line => {
     const trimmedLine = line.trim();
@@ -677,6 +678,14 @@ function formatSummaryText(text) {
     // Se la riga inizia con "- ", è un punto elenco
     if (trimmedLine.startsWith('- ')) {
       const content = trimmedLine.substring(2); // Rimuovi "- "
+      
+      // Controlla se contiene link
+      const hasInternalLinks = /\[([^\]]+)\]\(([^)]+)\)/g.test(content);
+      const hasExternalLinks = /\{\{< extLink "([^"]+)" "([^"]+)" >\}\}/g.test(content);
+      
+      if (hasInternalLinks || hasExternalLinks) {
+        hasLinks = true;
+      }
       
       // Gestisci i link interni [testo](link)
       const internalLinkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
@@ -694,7 +703,7 @@ function formatSummaryText(text) {
     } else {
       // Se non è un punto elenco, crea un paragrafo
       if (trimmedLine) {
-        formattedHtml += `<p>${trimmedLine}</p>`;
+        formattedHtml += `<p style="color: white;">${trimmedLine}</p>`;
       }
     }
   });
@@ -702,6 +711,11 @@ function formatSummaryText(text) {
   // Se abbiamo punti elenco, avvolgili in <ul>
   if (formattedHtml.includes('<li>')) {
     formattedHtml = `<ul class="ai-summary-list">${formattedHtml}</ul>`;
+  }
+  
+  // Se ci sono link, aggiungi il testo "Link:" prima della lista
+  if (hasLinks) {
+    formattedHtml = formattedHtml.replace('<ul class="ai-summary-list">', '<p style="color: white; font-weight: 600; margin-bottom: 10px;">Link:</p><ul class="ai-summary-list">');
   }
   
   console.log('HTML formattato:', formattedHtml);
