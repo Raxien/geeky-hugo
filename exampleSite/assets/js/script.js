@@ -762,34 +762,20 @@ async function handleArticleSummary() {
   const currentUrl = window.location.href;
   const title = document.querySelector('h1.mb-4')?.textContent || document.title;
   
-  // Crea una chiave di cache unica
-  const cacheKey = `summary_${btoa(currentUrl).replace(/[^a-zA-Z0-9]/g, '')}`;
+  // Avvia l'animazione di caricamento
+  startSummaryAnimation(summaryContent);
   
-  // Controlla se esiste in cache
-  const cachedSummary = getCachedData(cacheKey);
+  // Simula un delay di 1.5 secondi per dare l'illusione che l'AI stia ragionando
+  await new Promise(resolve => setTimeout(resolve, 1500));
   
-  if (cachedSummary) {
-    // Mostra il riassunto dalla cache
-    await typeWriter(summaryContent, cachedSummary);
-  } else {
-    // Avvia l'animazione di caricamento
-    startSummaryAnimation(summaryContent);
-    
-    // Simula un delay di 1.5 secondi per dare l'illusione che l'AI stia ragionando
-    await new Promise(resolve => setTimeout(resolve, 1500));
-    
-    // Ferma l'animazione
-    stopSummaryAnimation();
-    
-    // Ottieni il riassunto dall'API
-    const summary = await getSummaryFromAPI(currentUrl, title);
-    
-    // Salva in cache
-    setCachedData(cacheKey, summary);
-    
-    // Mostra il riassunto con l'effetto di scrittura
-    await typeWriter(summaryContent, summary);
-  }
+  // Ferma l'animazione
+  stopSummaryAnimation();
+  
+  // Ottieni il riassunto dall'API
+  const summary = await getSummaryFromAPI(currentUrl, title);
+  
+  // Mostra il riassunto con l'effetto di scrittura
+  await typeWriter(summaryContent, summary);
 
   // Gestione del pulsante toggle per comprimere/espandere
   let isExpanded = true;
