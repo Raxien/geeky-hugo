@@ -663,6 +663,8 @@ function typeWriter(element, html, speed = 15) {
 
 // Funzione per formattare il riassunto AI
 function formatSummaryText(text) {
+  console.log('Formattazione testo originale:', text);
+  
   if (!text) return '';
   
   // Dividi il testo in righe
@@ -702,6 +704,7 @@ function formatSummaryText(text) {
     formattedHtml = `<ul class="ai-summary-list">${formattedHtml}</ul>`;
   }
   
+  console.log('HTML formattato:', formattedHtml);
   return formattedHtml;
 }
 
@@ -725,6 +728,7 @@ async function getSummaryFromAPI(url, title) {
 
     const data = await response.json();
     const rawText = data.summary || data.text || 'Riassunto non disponibile';
+    console.log('Testo ricevuto dall\'API:', rawText);
     return formatSummaryText(rawText);
   } catch (error) {
     console.error('Errore nel recupero del riassunto:', error);
