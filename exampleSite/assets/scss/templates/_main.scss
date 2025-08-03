@@ -2805,6 +2805,62 @@ p a {
     animation: blink 1s infinite;
     font-weight: bold;
   }
+  
+  // Stili per la lista del riassunto
+  .ai-summary-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 15px 0;
+    
+    li {
+      margin-bottom: 12px;
+      padding-left: 20px;
+      position: relative;
+      
+      &::before {
+        content: '•';
+        color: #15817f;
+        font-weight: bold;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+    }
+  }
+  
+  // Stili per i link
+  .ai-summary-link {
+    color: #15817f;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      color: #0a4a48;
+      text-decoration: underline;
+    }
+    
+    &.external {
+      i {
+        font-size: 12px;
+        margin-left: 4px;
+        opacity: 0.7;
+      }
+      
+      &:hover i {
+        opacity: 1;
+      }
+    }
+  }
+  
+  // Stili per i paragrafi
+  p {
+    margin-bottom: 12px;
+    
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
 }
 
 .ai-summary-toggle {

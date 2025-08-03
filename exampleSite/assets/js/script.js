@@ -632,25 +632,77 @@ function stopSummaryAnimation() {
 }
 
 // Funzione per la scrittura in tempo reale
-function typeWriter(element, text, speed = 15) {
+function typeWriter(element, html, speed = 15) {
   return new Promise((resolve) => {
-    let i = 0;
-    element.innerHTML = '';
-    element.classList.add('typing');
+    // Se il contenuto contiene HTML, inseriscilo direttamente
+    if (html.includes('<') && html.includes('>')) {
+      element.innerHTML = html;
+      element.classList.remove('typing');
+      resolve();
+    } else {
+      // Altrimenti usa l'effetto di scrittura carattere per carattere
+      let i = 0;
+      element.innerHTML = '';
+      element.classList.add('typing');
+      
+      function type() {
+        if (i < html.length) {
+          element.innerHTML += html.charAt(i);
+          i++;
+          setTimeout(type, speed);
+        } else {
+          element.classList.remove('typing');
+          resolve();
+        }
+      }
+      
+      type();
+    }
+  });
+}
+
+// Funzione per formattare il riassunto AI
+function formatSummaryText(text) {
+  if (!text) return '';
+  
+  // Dividi il testo in righe
+  const lines = text.split('\n').filter(line => line.trim());
+  let formattedHtml = '';
+  
+  lines.forEach(line => {
+    const trimmedLine = line.trim();
     
-    function type() {
-      if (i < text.length) {
-        element.innerHTML += text.charAt(i);
-        i++;
-        setTimeout(type, speed);
-      } else {
-        element.classList.remove('typing');
-        resolve();
+    // Se la riga inizia con "- ", è un punto elenco
+    if (trimmedLine.startsWith('- ')) {
+      const content = trimmedLine.substring(2); // Rimuovi "- "
+      
+      // Gestisci i link interni [testo](link)
+      const internalLinkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
+      let processedContent = content.replace(internalLinkRegex, (match, text, link) => {
+        return `<a href="${link}" class="ai-summary-link">${text}</a>`;
+      });
+      
+      // Gestisci i link esterni {{< extLink "testo" "link" >}}
+      const externalLinkRegex = /\{\{< extLink "([^"]+)" "([^"]+)" >\}\}/g;
+      processedContent = processedContent.replace(externalLinkRegex, (match, text, link) => {
+        return `<a href="${link}" target="_blank" rel="nofollow noopener noreferrer" class="ai-summary-link external">${text} <i class="fas fa-external-link-alt"></i></a>`;
+      });
+      
+      formattedHtml += `<li>${processedContent}</li>`;
+    } else {
+      // Se non è un punto elenco, crea un paragrafo
+      if (trimmedLine) {
+        formattedHtml += `<p>${trimmedLine}</p>`;
       }
     }
-    
-    type();
   });
+  
+  // Se abbiamo punti elenco, avvolgili in <ul>
+  if (formattedHtml.includes('<li>')) {
+    formattedHtml = `<ul class="ai-summary-list">${formattedHtml}</ul>`;
+  }
+  
+  return formattedHtml;
 }
 
 // Funzione per ottenere il riassunto dall'API
@@ -672,10 +724,11 @@ async function getSummaryFromAPI(url, title) {
     }
 
     const data = await response.json();
-    return data.summary || data.text || 'Riassunto non disponibile';
+    const rawText = data.summary || data.text || 'Riassunto non disponibile';
+    return formatSummaryText(rawText);
   } catch (error) {
     console.error('Errore nel recupero del riassunto:', error);
-    return 'Errore nel generare il riassunto. Riprova più tardi.';
+    return '<p>Errore nel generare il riassunto. Riprova più tardi.</p>';
   }
 }
 
