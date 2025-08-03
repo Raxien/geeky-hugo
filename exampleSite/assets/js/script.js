@@ -1999,18 +1999,67 @@ function handleEscape(e) {
 
 // Funzionalità per la tabella dei contenuti
 function initTableOfContents() {
-  const toggleButton = document.querySelector('.table-of-contents-toggle');
-  const blockquote = document.querySelector('.table-of-contents-blockquote');
+  const toggleButton = document.getElementById('table-of-contents-toggle');
+  const blockquote = document.getElementById('table-of-contents-content');
   
   if (toggleButton && blockquote) {
-    toggleButton.addEventListener('click', function() {
-      blockquote.classList.toggle('collapsed');
+    // Rimuovi eventuali event listener esistenti per evitare duplicati
+    const newToggleButton = toggleButton.cloneNode(true);
+    toggleButton.parentNode.replaceChild(newToggleButton, toggleButton);
+    
+    // Inizializza la freccia nella posizione corretta
+    const arrow = newToggleButton.querySelector('.toggle-arrow');
+    if (arrow && blockquote.classList.contains('collapsed')) {
+      arrow.classList.remove('rotated');
+    } else if (arrow && !blockquote.classList.contains('collapsed')) {
+      arrow.classList.add('rotated');
+    }
+    
+    // Aggiungi event listener con ID specifico
+    newToggleButton.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      
+      // Toggle della classe collapsed
+      if (blockquote.classList.contains('collapsed')) {
+        blockquote.classList.remove('collapsed');
+        // Ruota la freccia
+        const arrow = newToggleButton.querySelector('.toggle-arrow');
+        if (arrow) arrow.classList.add('rotated');
+      } else {
+        blockquote.classList.add('collapsed');
+        // Ruota la freccia
+        const arrow = newToggleButton.querySelector('.toggle-arrow');
+        if (arrow) arrow.classList.remove('rotated');
+      }
+    });
+    
+    // Aggiungi anche event listener per touch per dispositivi mobili
+    newToggleButton.addEventListener('touchstart', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      
+      // Toggle della classe collapsed
+      if (blockquote.classList.contains('collapsed')) {
+        blockquote.classList.remove('collapsed');
+        // Ruota la freccia
+        const arrow = newToggleButton.querySelector('.toggle-arrow');
+        if (arrow) arrow.classList.add('rotated');
+      } else {
+        blockquote.classList.add('collapsed');
+        // Ruota la freccia
+        const arrow = newToggleButton.querySelector('.toggle-arrow');
+        if (arrow) arrow.classList.remove('rotated');
+      }
     });
   }
 }
 
 // Inizializza la tabella dei contenuti quando il DOM è caricato
 document.addEventListener('DOMContentLoaded', function() {
-  initTableOfContents();
+  // Delay per assicurarsi che tutti gli elementi siano caricati
+  setTimeout(function() {
+    initTableOfContents();
+  }, 100);
 });
   
