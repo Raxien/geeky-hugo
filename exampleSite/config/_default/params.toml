@@ -25,6 +25,7 @@ mobile = ""
 navbar_fixed = false
 recent_post_title = "Ultimi Post"
 search = true
+ai_summary_enabled = false
 revolut = " https://revolut.com/referral/?referral-code=paolot2jp!JUL1-25-AR-L1&geo-redirect"
 [advertisement]
 image = ""

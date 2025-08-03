@@ -548,6 +548,210 @@ const color = [ 'rgba(255, 99, 132, 1)',
                 'rgba(255, 153, 153, 1)'
 ]
 
+//=================== AI Summary script start ===================
+let summaryAnimationInterval;
+
+// Funzione per creare l'elemento di riassunto
+function createSummaryElement() {
+  const articleContent = document.querySelector('.content.drop-cap');
+  if (!articleContent) return null;
+
+  // Controlla se l'articolo ha più di 1000 caratteri
+  const textContent = articleContent.textContent || articleContent.innerText;
+  if (textContent.length < 1500) return null;
+
+  // Controlla se esiste già un riassunto
+  const existingSummary = document.querySelector('.ai-summary-container');
+  if (existingSummary) return existingSummary;
+
+  // Crea il container del riassunto
+  const summaryContainer = document.createElement('div');
+  summaryContainer.className = 'ai-summary-container';
+
+  // Crea l'header del riassunto
+  const summaryHeader = document.createElement('div');
+  summaryHeader.className = 'ai-summary-header';
+  summaryHeader.innerHTML = `
+    <i class="fas fa-cat"></i>
+    <span>Riassunto AI</span>
+  `;
+
+  // Crea il contenuto del riassunto
+  const summaryContent = document.createElement('div');
+  summaryContent.className = 'ai-summary-content';
+
+  // Crea il pulsante per comprimere/espandere
+  const toggleButton = document.createElement('button');
+  toggleButton.className = 'ai-summary-toggle';
+  toggleButton.innerHTML = '<i class="fas fa-chevron-up"></i> Comprimi riassunto';
+
+  // Assembla il container
+  summaryContainer.appendChild(summaryHeader);
+  summaryContainer.appendChild(summaryContent);
+  summaryContainer.appendChild(toggleButton);
+
+  // Inserisci il riassunto dopo i metadati dell'articolo
+  const cardMeta = document.querySelector('ul.list-inline.card-meta');
+  if (cardMeta) {
+    cardMeta.parentNode.insertBefore(summaryContainer, cardMeta.nextSibling);
+  } else {
+    // Fallback: inserisci dopo il titolo se i metadati non esistono
+    const title = document.querySelector('h1.mb-4');
+    if (title) {
+      title.parentNode.insertBefore(summaryContainer, title.nextSibling);
+    } else {
+      articleContent.parentNode.insertBefore(summaryContainer, articleContent);
+    }
+  }
+
+  return summaryContainer;
+}
+
+// Funzione per l'animazione "sto riassumendo..."
+function startSummaryAnimation(summaryContent) {
+  const messages = [
+    'Sto riassumendo',
+    'Sto riassumendo .',
+    'Sto riassumendo ..',
+    'Sto riassumendo ...'
+  ];
+  let currentIndex = 0;
+
+  summaryAnimationInterval = setInterval(() => {
+    summaryContent.innerHTML = `<i class="fas fa-spinner fa-spin"></i> ${messages[currentIndex]}`;
+    currentIndex = (currentIndex + 1) % messages.length;
+  }, 500);
+}
+
+// Funzione per fermare l'animazione
+function stopSummaryAnimation() {
+  if (summaryAnimationInterval) {
+    clearInterval(summaryAnimationInterval);
+    summaryAnimationInterval = null;
+  }
+}
+
+// Funzione per la scrittura in tempo reale
+function typeWriter(element, text, speed = 15) {
+  return new Promise((resolve) => {
+    let i = 0;
+    element.innerHTML = '';
+    element.classList.add('typing');
+    
+    function type() {
+      if (i < text.length) {
+        element.innerHTML += text.charAt(i);
+        i++;
+        setTimeout(type, speed);
+      } else {
+        element.classList.remove('typing');
+        resolve();
+      }
+    }
+    
+    type();
+  });
+}
+
+// Funzione per ottenere il riassunto dall'API
+async function getSummaryFromAPI(url, title) {
+  try {
+    const response = await fetch(`${rpcUrl}/data/summary`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        url: url,
+        title: title
+      })
+    });
+
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+
+    const data = await response.json();
+    return data.summary || data.text || 'Riassunto non disponibile';
+  } catch (error) {
+    console.error('Errore nel recupero del riassunto:', error);
+    return 'Errore nel generare il riassunto. Riprova più tardi.';
+  }
+}
+
+// Funzione principale per gestire il riassunto
+async function handleArticleSummary() {
+  const summaryContainer = createSummaryElement();
+  if (!summaryContainer) return;
+
+  const summaryContent = summaryContainer.querySelector('.ai-summary-content');
+  const toggleButton = summaryContainer.querySelector('.ai-summary-toggle');
+  
+  // Ottieni URL e titolo
+  const currentUrl = window.location.href;
+  const title = document.querySelector('h1.mb-4')?.textContent || document.title;
+  
+  // Crea una chiave di cache unica
+  const cacheKey = `summary_${btoa(currentUrl).replace(/[^a-zA-Z0-9]/g, '')}`;
+  
+  // Controlla se esiste in cache
+  const cachedSummary = getCachedData(cacheKey);
+  
+  if (cachedSummary) {
+    // Mostra il riassunto dalla cache
+    await typeWriter(summaryContent, cachedSummary);
+  } else {
+    // Avvia l'animazione di caricamento
+    startSummaryAnimation(summaryContent);
+    
+    // Simula un delay di 1.5 secondi per dare l'illusione che l'AI stia ragionando
+    await new Promise(resolve => setTimeout(resolve, 1500));
+    
+    // Ferma l'animazione
+    stopSummaryAnimation();
+    
+    // Ottieni il riassunto dall'API
+    const summary = await getSummaryFromAPI(currentUrl, title);
+    
+    // Salva in cache
+    setCachedData(cacheKey, summary);
+    
+    // Mostra il riassunto con l'effetto di scrittura
+    await typeWriter(summaryContent, summary);
+  }
+
+  // Gestione del pulsante toggle per comprimere/espandere
+  let isExpanded = true;
+  toggleButton.addEventListener('click', () => {
+    if (isExpanded) {
+      summaryContent.style.display = 'none';
+      summaryContainer.style.padding = '10px 20px';
+      toggleButton.innerHTML = '<i class="fas fa-chevron-down"></i> Espandi riassunto';
+    } else {
+      summaryContent.style.display = 'block';
+      summaryContainer.style.padding = '20px';
+      toggleButton.innerHTML = '<i class="fas fa-chevron-up"></i> Comprimi riassunto';
+    }
+    isExpanded = !isExpanded;
+  });
+}
+
+// Inizializza il riassunto quando la pagina è caricata
+document.addEventListener('DOMContentLoaded', () => {
+  // Controlla se siamo in una pagina di articolo e se l'AI è abilitato
+  if (document.querySelector('.content.drop-cap')) {
+    // Controlla se l'AI summary è abilitato tramite meta tag o variabile globale
+    const aiEnabled = document.querySelector('meta[name="ai-summary-enabled"]')?.getAttribute('content') === 'true' || 
+                     window.aiSummaryEnabled === true;
+    
+    if (aiEnabled !== false) { // Default a true se non specificato
+      handleArticleSummary();
+    }
+  }
+});
+
+//=================== AI Summary script end ===================
+
 function processExpenseData(data) {
     updateUIElements({
         totalCost: data.totalCost,

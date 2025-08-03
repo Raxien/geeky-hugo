@@ -13,6 +13,8 @@ Fukuoka è la porta d’ingresso del Giappone meridionale: si trova nell’isola
 
 Se stai viaggiando nel sud del Giappone o atterri qui con un volo internazionale, ti consigliamo di fermarti almeno un giorno per esplorare la città. Ecco **cosa vedere a Fukuoka** in una giornata (o due!).
 
+{{< indice >}}
+
 ## 1. Una passeggiata rilassante al Parco Ōhori
 Inizia la giornata con una camminata nel verde al **Ōhori Park** (大濠公園), un’enorme oasi urbana con un lago centrale, ponti in pietra, carpe giganti e cigni.  
 
