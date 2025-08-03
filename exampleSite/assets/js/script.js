@@ -1792,4 +1792,21 @@ function handleEscape(e) {
     closeMenu();
   }
 }
+
+// Funzionalità per la tabella dei contenuti
+function initTableOfContents() {
+  const toggleButton = document.querySelector('.table-of-contents-toggle');
+  const blockquote = document.querySelector('.table-of-contents-blockquote');
+  
+  if (toggleButton && blockquote) {
+    toggleButton.addEventListener('click', function() {
+      blockquote.classList.toggle('collapsed');
+    });
+  }
+}
+
+// Inizializza la tabella dei contenuti quando il DOM è caricato
+document.addEventListener('DOMContentLoaded', function() {
+  initTableOfContents();
+});
   

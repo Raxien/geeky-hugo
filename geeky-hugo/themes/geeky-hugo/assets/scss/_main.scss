@@ -1031,3 +1031,8 @@
 .poligon{
   clip-path: polygon(5% 0, 100% 0, 100% 100%, 5% 100%, 0 50%);
 }
+
+// Stili per i link all'interno dei paragrafi
+p a {
+  font-weight: bold;
+}

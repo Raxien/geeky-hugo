@@ -2,50 +2,54 @@
 {{ $headings := findRE "(?m)^#{2,5}\\s+(.+)$" $content }}
 
 {{ if $headings }}
-<details open="">
-  <summary>Tabella dei contenuti</summary>
-  <blockquote>
-    <h2 id="tabella-dei-contenuti">Tabella dei contenuti</h2>
-    {{ $currentLevel := 0 }}
-    {{ $openTags := 0 }}
-    {{ $firstItem := true }}
-    
-    {{ range $index, $heading := $headings }}
-      {{ $level := len (index (findRE "^#+" $heading) 0) }}
-      {{ $title := replaceRE "^#{2,5}\\s+(.+)$" "$1" $heading }}
-      {{ $title = $title | plainify }}
-      {{ $anchor := $title | anchorize }}
+<div class="table-of-contents-container">
+  <blockquote class="table-of-contents-blockquote collapsed" id="table-of-contents-content">
+    <h2 id="tabella-dei-contenuti" class="table-of-contents-toggle">
+      <span class="toggle-arrow">▶</span>
+      Tabella dei contenuti
+    </h2>
+    <div class="table-of-contents-content">
+      {{ $currentLevel := 0 }}
+      {{ $openTags := 0 }}
+      {{ $firstItem := true }}
       
-      {{ if not $firstItem }}
-        {{ if gt $level $currentLevel }}
-          {{ range seq (sub $level $currentLevel) }}
-            <ul>
+      {{ range $index, $heading := $headings }}
+        {{ $level := len (index (findRE "^#+" $heading) 0) }}
+        {{ $title := replaceRE "^#{2,5}\\s+(.+)$" "$1" $heading }}
+        {{ $title = $title | plainify }}
+        {{ $anchor := $title | anchorize }}
+        
+        {{ if not $firstItem }}
+          {{ if gt $level $currentLevel }}
+            {{ range seq (sub $level $currentLevel) }}
+              <ul>
+            {{ end }}
+            {{ $openTags = add $openTags (sub $level $currentLevel) }}
+          {{ else if lt $level $currentLevel }}
+            {{ range seq (sub $currentLevel $level) }}
+              </li></ul>
+            {{ end }}
+            {{ $openTags = sub $openTags (sub $currentLevel $level) }}
+          {{ else }}
+            </li>
           {{ end }}
-          {{ $openTags = add $openTags (sub $level $currentLevel) }}
-        {{ else if lt $level $currentLevel }}
-          {{ range seq (sub $currentLevel $level) }}
-            </li></ul>
-          {{ end }}
-          {{ $openTags = sub $openTags (sub $currentLevel $level) }}
         {{ else }}
-          </li>
+          <ul>
+          {{ $openTags = 1 }}
         {{ end }}
-      {{ else }}
-        <ul>
-        {{ $openTags = 1 }}
+        
+        <li><a href="#{{ $anchor }}">{{ $title }}</a>
+        
+        {{ $currentLevel = $level }}
+        {{ $firstItem = false }}
       {{ end }}
       
-      <li><a href="#{{ $anchor }}">{{ $title }}</a>
-      
-      {{ $currentLevel = $level }}
-      {{ $firstItem = false }}
-    {{ end }}
-    
-    {{ if gt $openTags 0 }}
-      {{ range seq $openTags }}
-        </li></ul>
+      {{ if gt $openTags 0 }}
+        {{ range seq $openTags }}
+          </li></ul>
+        {{ end }}
       {{ end }}
-    {{ end }}
+    </div>
   </blockquote>
-</details>
+</div>
 {{ end }} 
