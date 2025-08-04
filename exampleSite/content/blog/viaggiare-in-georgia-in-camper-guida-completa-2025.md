@@ -76,9 +76,9 @@ Benzina disponibile (95 ottani ~1,2€/l), ma scorte limitate nelle aree remote.
 ## Campeggi e aree sosta
 Il campeggio in Georgia **è un must per i camperisti**, con opzioni libere e strutturate. Il campeggio selvaggio è tollerato in aree rurali non protette, ma rispetta natura e locali (no fuochi vicino foreste). Per soste organizzate, prova campeggi come quelli vicino Batumi o Kutaisi, con servizi base (elettricità, acqua, docce) a 10-20 GEL/notte. In zone popolari come Kazbegi, trova aree attrezzate con vista sul Caucaso. 
 
-A Tbilisi {{< extLink "consigliamo il parcheggio" "https://maps.app.goo.gl/aAJd3GBAdQ6tJ2h37" >}} dietro la Cattedrale della Santissima Trinità. Un hub di viaggiatori da tutto il mondo dove poter scambiare informazioni e racconti. {{< extLink "Un salto per cenare alla Home Kitchen è d'obbligo!" "https://maps.app.goo.gl/SQ7RUTesUFwUABm29" >}}
+A Tbilisi {{< extLink "consigliamo il parcheggio" "https://maps.app.goo.gl/aAJd3GBAdQ6tJ2h37" >}} dietro la Cattedrale della Santissima Trinità. Un hub di viaggiatori da tutto il mondo dove poter scambiare informazioni e racconti. {{< extLink "Un salto per cenare alla Home Kitchen è d'obbligo!" "https://maps.app.goo.gl/SQ7RUTesUFwUABm29" >}} 
 
-### App essenziali
+### App essenziali 
 Le app fondamentali da avere per trovare soste sono Park4Night per soste libere e servizi (carico/scarico acqua) e iOverlander per trovare qualche sosta un po più esotica.
 
 {{< leggi-anche url="/blog/camper-le-applicazioni-da-avere-per-viaggiare/" >}}
