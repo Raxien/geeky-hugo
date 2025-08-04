@@ -571,24 +571,30 @@ function createSummaryElement() {
   // Crea l'header del riassunto
   const summaryHeader = document.createElement('div');
   summaryHeader.className = 'ai-summary-header';
-  summaryHeader.innerHTML = `
+    summaryHeader.innerHTML = `
     <i class="fas fa-cat"></i>
     <span>Riassunto AI</span>
+    <button class="ai-summary-toggle" style="opacity: 0;">
+      <span class="toggle-arrow rotated">▶</span><span class="button-text"> Comprimi riassunto</span>
+    </button>
   `;
 
   // Crea il contenuto del riassunto
   const summaryContent = document.createElement('div');
   summaryContent.className = 'ai-summary-content';
-
-  // Crea il pulsante per comprimere/espandere
-  const toggleButton = document.createElement('button');
-  toggleButton.className = 'ai-summary-toggle';
-  toggleButton.innerHTML = '<i class="fas fa-chevron-up"></i> Comprimi riassunto';
+  
+  // Aggiungi disclaimer
+  const disclaimer = document.createElement('div');
+  disclaimer.className = 'ai-summary-disclaimer';
+  disclaimer.innerHTML = '<small><em>Discalimer: Questo riassunto è in fase di test. Se ci sono errori <a href="/blog/sake-il-gatto-viaggiatore-da-record-mondiale" style="color: #15817f;">è colpa di Sakè</a></em></small>';
+  disclaimer.style.cssText = 'color: black; font-size: 12px; margin-top: 10px; text-align: center;';
 
   // Assembla il container
   summaryContainer.appendChild(summaryHeader);
   summaryContainer.appendChild(summaryContent);
-  summaryContainer.appendChild(toggleButton);
+  
+  // Aggiungi il disclaimer sotto al box
+  summaryContainer.appendChild(disclaimer);
 
   // Inserisci il riassunto dopo i metadati dell'articolo
   const cardMeta = document.querySelector('ul.list-inline.card-meta');
@@ -634,7 +640,7 @@ function stopSummaryAnimation() {
 // Funzione per la scrittura in tempo reale
 function typeWriter(element, html, speed = 15) {
   return new Promise((resolve) => {
-    // Se il contenuto contiene HTML, inseriscilo direttamente
+    // Se contiene HTML, inseriscilo direttamente per preservare la formattazione
     if (html.includes('<') && html.includes('>')) {
       element.innerHTML = html;
       element.classList.remove('typing');
@@ -703,27 +709,54 @@ function formatSummaryText(text) {
     } else {
       // Se non è un punto elenco, crea un paragrafo
       if (trimmedLine) {
-        formattedHtml += `<p style="color: white;">${trimmedLine}</p>`;
+        formattedHtml += `<p style="color: #333;">${trimmedLine}</p>`;
       }
     }
   });
   
-  // Se abbiamo punti elenco, avvolgili in <ul>
-  if (formattedHtml.includes('<li>')) {
+  // Se abbiamo punti elenco, avvolgili in <ul> solo se non sono già in una lista
+  if (formattedHtml.includes('<li>') && !formattedHtml.includes('<ul')) {
     formattedHtml = `<ul class="ai-summary-list">${formattedHtml}</ul>`;
   }
   
   // Se ci sono link, aggiungi il testo "Link:" prima della lista
   if (hasLinks) {
-    formattedHtml = formattedHtml.replace('<ul class="ai-summary-list">', '<p style="color: white; font-weight: 600; margin-bottom: 10px;">Link:</p><ul class="ai-summary-list">');
+    formattedHtml = formattedHtml.replace('<ul class="ai-summary-list">', '<p style="color: #15817f; font-weight: 600; margin-bottom: 10px;">Link:</p><ul class="ai-summary-list">');
   }
   
   console.log('HTML formattato:', formattedHtml);
   return formattedHtml;
 }
 
+// Funzione per pulire il contenuto HTML
+function cleanContentForSummary(contentElement) {
+  if (!contentElement) return '';
+  
+  // Clona l'elemento per non modificare l'originale
+  const clonedContent = contentElement.cloneNode(true);
+  
+  // Rimuovi gli elementi specificati
+  const elementsToRemove = [
+    '.table-of-contents-container',
+    '.article__body__leggi-anche',
+    'figure.img-center',
+    '.img-center',
+    'div[id^="my-gallery-"]',
+    'script',
+    '#google-center-div'
+  ];
+  
+  elementsToRemove.forEach(selector => {
+    const elements = clonedContent.querySelectorAll(selector);
+    elements.forEach(el => el.remove());
+  });
+  
+  // Ottieni il testo pulito
+  return clonedContent.textContent || clonedContent.innerText || '';
+}
+
 // Funzione per ottenere il riassunto dall'API
-async function getSummaryFromAPI(url, title) {
+async function getSummaryFromAPI(title, content, url) {
   try {
     const response = await fetch(`${rpcUrl}/data/summary`, {
       method: 'POST',
@@ -731,8 +764,9 @@ async function getSummaryFromAPI(url, title) {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        url: url,
-        title: title
+        title: title,
+        content: content,
+        url: url
       })
     });
 
@@ -758,9 +792,17 @@ async function handleArticleSummary() {
   const summaryContent = summaryContainer.querySelector('.ai-summary-content');
   const toggleButton = summaryContainer.querySelector('.ai-summary-toggle');
   
-  // Ottieni URL e titolo
-  const currentUrl = window.location.href;
+  // Se il pulsante non esiste, non possiamo continuare
+  if (!toggleButton) {
+    console.error('Toggle button not found');
+    return;
+  }
+  
+  // Ottieni titolo, contenuto e URL
   const title = document.querySelector('h1.mb-4')?.textContent || document.title;
+  const contentElement = document.querySelector('.content.drop-cap');
+  const content = cleanContentForSummary(contentElement);
+  const currentUrl = window.location.href;
   
   // Avvia l'animazione di caricamento
   startSummaryAnimation(summaryContent);
@@ -772,22 +814,36 @@ async function handleArticleSummary() {
   stopSummaryAnimation();
   
   // Ottieni il riassunto dall'API
-  const summary = await getSummaryFromAPI(currentUrl, title);
+  const summary = await getSummaryFromAPI(title, content, currentUrl);
   
   // Mostra il riassunto con l'effetto di scrittura
   await typeWriter(summaryContent, summary);
 
+  // Mostra il pulsante con effetto fade-in
+  toggleButton.style.opacity = '0';
+  toggleButton.style.transition = 'opacity 0.5s ease-in-out';
+  
+  // Trigger del fade-in
+  setTimeout(() => {
+    toggleButton.style.opacity = '1';
+  }, 100);
+
   // Gestione del pulsante toggle per comprimere/espandere
   let isExpanded = true;
   toggleButton.addEventListener('click', () => {
+    const headerArrow = toggleButton.querySelector('.toggle-arrow');
+    const buttonText = toggleButton.querySelector('.button-text');
+    
     if (isExpanded) {
       summaryContent.style.display = 'none';
       summaryContainer.style.padding = '10px 20px';
-      toggleButton.innerHTML = '<i class="fas fa-chevron-down"></i> Espandi riassunto';
+      if (headerArrow) headerArrow.classList.remove('rotated');
+      if (buttonText) buttonText.textContent = ' Espandi riassunto';
     } else {
       summaryContent.style.display = 'block';
       summaryContainer.style.padding = '20px';
-      toggleButton.innerHTML = '<i class="fas fa-chevron-up"></i> Comprimi riassunto';
+      if (headerArrow) headerArrow.classList.add('rotated');
+      if (buttonText) buttonText.textContent = ' Comprimi riassunto';
     }
     isExpanded = !isExpanded;
   });

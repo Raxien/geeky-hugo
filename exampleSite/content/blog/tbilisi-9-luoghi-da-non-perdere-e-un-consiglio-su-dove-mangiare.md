@@ -14,6 +14,8 @@ Il centro storico, ai piedi della fortezza, conserva l’impronta di quel crocev
 
 Ecco i nostri consigli su **9 tappe imperdibili, più 1 luogo dove assaporare la vera cucina georgiana.**
 
+{{< indice >}}
+
 ## 1. Rustaveli Avenue e Piazza della Libertà
 
 Rustaveli Avenue è considerata l’arteria principale della capitale e deve il suo nome a Shota Rustaveli, **il più grande poeta medievale georgiano.** Qui sorgono alcuni degli edifici più importanti della città tra cui il Parlamento della Georgia, il Teatro dell’Opera, la Chiesa di Kashveti, il Museo Georgiano di Belle Arti e il Museo Simon Janashia della Georgia. Molto particolare è la scultura alle spalle della Galleria d’arte Moderna, con due mani a fianco di una scultura che rappresenta scene della creazione della vita e del mondo. 

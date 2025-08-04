@@ -11,6 +11,8 @@ country: Giappone
 ---
 Hai solo un giorno per scoprire Nara? Nessun problema: **ecco un itinerario perfetto per respirare l’atmosfera antica della città**, salutare il Buddha gigante e magari farsi rubare un biscotto da un cervo (spoiler: meglio non darli, ma ne parliamo dopo!).
 
+{{< indice >}}
+
 ## Come arrivare a Nara
 
 Nara è facilissima da raggiungere sia da **Kyoto** che da **Osaka**:
