@@ -567,6 +567,7 @@ function createSummaryElement() {
   // Crea il container del riassunto
   const summaryContainer = document.createElement('div');
   summaryContainer.className = 'ai-summary-container';
+  summaryContainer.setAttribute('data-ad-exclude', 'true');
 
   // Crea l'header del riassunto
   const summaryHeader = document.createElement('div');
