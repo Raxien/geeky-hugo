@@ -13,6 +13,32 @@
   }
 }
 
+/* Esclusione annunci Google AdSense */
+[data-ad-exclude="true"] {
+  ins.adsbygoogle,
+  .adsbygoogle,
+  iframe[src*="googlesyndication"],
+  iframe[src*="doubleclick"],
+  iframe[src*="googleadservices"],
+  div[id^="google_ads_"],
+  div[id^="div-gpt-ad"],
+  div[class*="adsbygoogle"],
+  div[class*="google-ad"],
+  div[class*="ad-container"],
+  div[class*="ad-wrapper"],
+  div[class*="advertisement"] {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    height: 0 !important;
+    width: 0 !important;
+    overflow: hidden !important;
+    position: absolute !important;
+    left: -9999px !important;
+    top: -9999px !important;
+  }
+}
+
 /* Transizioni */
 .offcanvas {
   transition: all 0.25s ease !important;
