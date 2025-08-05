@@ -14,6 +14,8 @@ Viaggiare in camper attraverso l’Asia è un’avventura entusiasmante e **ragg
 > **Attenzione**   
 > In Corea del Sud **non possono essere importati** i mezzi omologati come furgoni o autocarri e che non aderiscono {{< extLink "alla Convenzione di Ginevra sulla circolazione stradale del 1949" "https://treaties.un.org/pages/ViewDetailsV.aspx?src=TREATY&mtdsg_no=XI-B-1&chapter=11&Temp=mtdsg5&clang=_en" >}}.
 
+{{< indice >}}
+
 ## Il traghetto DuWon da Vladivostok a Donghae
 Il collegamento marittimo è la sola via disponibile per chi viaggia con un mezzo (moto, auto o camper) da Vladivostok alla Corea del Sud. {{< extLink "Il traghetto della DuWon Shippin" "https://corp.dwship.co.kr/en/" >}} è affidabile, ma le procedure doganali e le limitazioni sui bagagli e materiali **a bordo richiedono un’adeguata preparazione.**
 

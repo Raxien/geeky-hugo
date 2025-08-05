@@ -14,6 +14,8 @@ Arrivare a **Beppu**, nel nord-est del Kyūshū, significa avventurarsi in una c
 
 Il nome "inferni" non è casuale: queste sorgenti non sono onsen in cui immergersi, ma **manifestazioni estreme della forza della natura**, bollenti e misteriose, spesso legate a racconti mitologici o credenze locali.
 
+{{< indice >}}
+
 ## Un itinerario tra vapori e stupore: i sette inferni di Beppu
 
 Puoi decidere di visitarli tutti in mezza giornata (o con calma in un giorno intero), ma se il tempo stringe, **due pozze in particolare** ti lasceranno senza fiato e meritano da sole la deviazione.
