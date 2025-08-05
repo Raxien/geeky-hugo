@@ -14,6 +14,8 @@ L'Algarve è una delle mete più rinomate del turismo portoghese: questa regione
 Le sue spiagge e scogliere sono davvero meravigliose e meritano una sosta in qualsiasi stagione. 
 Se vuoi visitare insieme a noi tutto il resto del paese ti rimandiamo [all'articolo generale](/blog/viaggio-portogallo-in-camper-itinerari/).
 
+{{< indice >}}
+
 ## Itinerario
 
 - **{{< underline "Giorno 1 - Sagres">}}**:
