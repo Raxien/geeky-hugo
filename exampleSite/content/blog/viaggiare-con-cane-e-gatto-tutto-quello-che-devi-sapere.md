@@ -11,7 +11,10 @@ draft: false
 Avendo viaggiato insieme al nostro cane e al nostro gatto in 15 stati tra Italia, Europa e Africa, abbiamo deciso di raccogliere in questo articolo tutte le informazioni che abbiamo trovato. 
 Speriamo ti possano essere utili per evitare di vivere spiacevoli inconvenienti ai confini e scoprire che il tuo animale deve essere sottoposto a quarantena.
 
-Premessa: se viaggi all'estero ti consigliamo di controllare le informazioni relative ai documenti necessari contattando l’ambasciata del Paese in cui vuoi recarti oppure rivolgendoti direttamente al servizio veterinario della tua Asl di competenza dato che le leggi sono sempre in continuo aggiornamento.
+{{< indice >}}
+
+## Premessa
+Se viaggi all'estero ti consigliamo di controllare le informazioni relative ai documenti necessari contattando l’ambasciata del Paese in cui vuoi recarti oppure rivolgendoti direttamente al servizio veterinario della tua Asl di competenza dato che le leggi sono sempre in continuo aggiornamento.
 Ti consigliamo vivamente di svolgere tutta la burocrazia anche con 6 mesi di anticipo!
 
 ## Viaggi in Italia 
