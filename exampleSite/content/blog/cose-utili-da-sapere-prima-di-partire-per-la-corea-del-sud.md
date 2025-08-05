@@ -56,6 +56,5 @@ Spesso nei mercati puoi pagare con carta, ma se ti trovi in un mercato dei 5 gio
 
 {{< leggi-anche url="/blog/guida-ai-documentie-visti-per-viaggiare-in-corea-del-sud/" >}}
 
-## Hai domande prima di partire per la Corea?  
-
+Hai domande prima di partire per la Corea?  
 Scrivici nei commenti o cerca i nostri video sul viaggio in Corea del Sud!  

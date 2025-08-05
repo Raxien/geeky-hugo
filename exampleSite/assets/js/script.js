@@ -575,7 +575,7 @@ function createSummaryElement() {
     <i class="fas fa-cat"></i>
     <span>Riassunto AI</span>
     <button class="ai-summary-toggle" style="opacity: 0;">
-      <span class="toggle-arrow rotated">▶</span><span class="button-text"> Comprimi riassunto</span>
+      <span class="toggle-arrow rotated"><i class="fas fa-chevron-right"></i></span><span class="button-text"> Comprimi</span>
     </button>
   `;
 
@@ -596,7 +596,7 @@ function createSummaryElement() {
   // Aggiungi il disclaimer sotto al box
   summaryContainer.appendChild(disclaimer);
 
-  // Inserisci il riassunto dopo i metadati dell'articolo
+  // Inserisci il riassunto dopo i metadati dell'articolo con animazione fluida
   const cardMeta = document.querySelector('ul.list-inline.card-meta');
   if (cardMeta) {
     cardMeta.parentNode.insertBefore(summaryContainer, cardMeta.nextSibling);
@@ -609,6 +609,16 @@ function createSummaryElement() {
       articleContent.parentNode.insertBefore(summaryContainer, articleContent);
     }
   }
+  
+  // Animazione di entrata fluida
+  summaryContainer.style.opacity = '0';
+  summaryContainer.style.transform = 'translateY(-20px)';
+  summaryContainer.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+  
+  setTimeout(() => {
+    summaryContainer.style.opacity = '1';
+    summaryContainer.style.transform = 'translateY(0)';
+  }, 100);
 
   return summaryContainer;
 }
@@ -622,6 +632,16 @@ function startSummaryAnimation(summaryContent) {
     'Sto riassumendo ...'
   ];
   let currentIndex = 0;
+
+  // Animazione di entrata per il contenuto
+  summaryContent.style.opacity = '0';
+  summaryContent.style.transform = 'translateY(10px)';
+  summaryContent.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
+  
+  setTimeout(() => {
+    summaryContent.style.opacity = '1';
+    summaryContent.style.transform = 'translateY(0)';
+  }, 100);
 
   summaryAnimationInterval = setInterval(() => {
     summaryContent.innerHTML = `<i class="fas fa-spinner fa-spin"></i> ${messages[currentIndex]}`;
@@ -752,7 +772,15 @@ function cleanContentForSummary(contentElement) {
   });
   
   // Ottieni il testo pulito
-  return clonedContent.textContent || clonedContent.innerText || '';
+  let cleanText = clonedContent.textContent || clonedContent.innerText || '';
+  
+  // Rimuovi newline e spazi extra
+  cleanText = cleanText.replace(/\n\s+/g, ' '); // Rimuove "\n            " e simili
+  cleanText = cleanText.replace(/\n/g, ' '); // Rimuove "\n" rimanenti
+  cleanText = cleanText.replace(/\s+/g, ' '); // Normalizza spazi multipli
+  cleanText = cleanText.trim(); // Rimuove spazi iniziali e finali
+  
+  return cleanText;
 }
 
 // Funzione per ottenere il riassunto dall'API
@@ -828,9 +856,12 @@ async function handleArticleSummary() {
     toggleButton.style.opacity = '1';
   }, 100);
 
-  // Gestione del pulsante toggle per comprimere/espandere
+  // Gestione del pulsante toggle per comprimere/espandere (logica copiata dall'indice)
   let isExpanded = true;
-  toggleButton.addEventListener('click', () => {
+  toggleButton.addEventListener('click', function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    
     const headerArrow = toggleButton.querySelector('.toggle-arrow');
     const buttonText = toggleButton.querySelector('.button-text');
     
@@ -838,12 +869,12 @@ async function handleArticleSummary() {
       summaryContent.style.display = 'none';
       summaryContainer.style.padding = '10px 20px';
       if (headerArrow) headerArrow.classList.remove('rotated');
-      if (buttonText) buttonText.textContent = ' Espandi riassunto';
+      if (buttonText) buttonText.textContent = ' Espandi';
     } else {
       summaryContent.style.display = 'block';
       summaryContainer.style.padding = '20px';
       if (headerArrow) headerArrow.classList.add('rotated');
-      if (buttonText) buttonText.textContent = ' Comprimi riassunto';
+      if (buttonText) buttonText.textContent = ' Comprimi';
     }
     isExpanded = !isExpanded;
   });

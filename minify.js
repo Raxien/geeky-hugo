@@ -10,7 +10,7 @@ async function minify() {
     const code = fs.readFileSync(inputFile, 'utf8');
     const result = await Terser.minify(code, {
       compress: {
-        drop_console: true,
+        drop_console: false, // Mantieni i console.log per debug
         drop_debugger: true,
       },
       mangle: true,

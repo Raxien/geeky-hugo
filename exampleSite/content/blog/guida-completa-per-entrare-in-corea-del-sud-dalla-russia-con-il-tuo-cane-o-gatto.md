@@ -16,6 +16,8 @@ In questa guida ti forniremo tutti i dettagli necessari **per portare il tuo ani
 > **Importante:**   
 > Parti con largo anticipo nella preparazione dei documenti, sia in Italia sia a Vladivostok per uscire dalla Russia. 
 
+{{<indice >}}
+
 ## 1. Pre-requisiti per viaggiare con animali in Corea del Sud
 Di seguito i prerequisiti da soddisfare in Italia prima della partenza.
 

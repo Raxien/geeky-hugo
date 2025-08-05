@@ -2823,10 +2823,14 @@ p a {
     }
     
     .toggle-arrow {
-      font-size: 12px;
+      font-size: 10px;
       transition: transform 0.3s ease;
       display: inline-block;
       margin-right: 5px;
+      
+      i {
+        font-size: 10px;
+      }
       
       &.rotated {
         transform: rotate(90deg);
