@@ -12,17 +12,7 @@ draft: false
 
 Abbiamo visitato e vissuto nei Paesi Bassi a bordo del nostro van, con cane e gatto come compagni di viaggio, nel mese di agosto 2022. Siamo rimasti affascinati dai paesaggi e dalla gentilezza delle persone, oltre che dalla bellezza di alcuni siti turistici e non. Sicuramente è un viaggio che consiglieremmo a chiunque, non solo a bordo di un van ma anche arrivando in aereo e sfruttando l'ottima rete di trasporti pubblici. 
 
-> ## Tabella dei contenuti
-> - [Itinerario](#itinerario)
->   - [In breve](#in-breve)
-> - [Clima](#clima)
-> - [Strade](#strade)
-> - [Servizi e soste](#servizi-e-soste)
-> - [Mezzi di trasporto pubblici](#mezzi-di-trasporto-pubblici)
-> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
-> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
-> - [Il nostro vlog](#il-nostro-vlog)
-> - [Le nostre mappe](#le-nostre-mappe) 
+{{< indice >}}
 
 ## Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, ricreando un piccolo diario giornaliero e rimandandoti a una sezione dedicata per quanto riguarda la visita della capitale, Amsterdam.

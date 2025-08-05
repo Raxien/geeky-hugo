@@ -12,15 +12,7 @@ draft: false
 Visitare la Bretagna in camper, van o auto vuol dire ammirare panorami mozzafiato e per noi è diventata una meta che consideriamo **{{< bold "imperdibile">}}**. Vuoi qualche consiglio su come visitare questa regione francese on the road? In questo articolo ti racconteremo la nostra esperienza vissuta nel settembre 2022. 
 Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tappe [qui](/blog/viaggio-francia-normandia-in-camper-itinerari/).
 
-> ## Tabella dei contenuti
-> - [Itinerario](#itinerario)
->   - [In Breve](#in-breve)
-> - [Strade](#strade)
-> - [Servizi e soste](#servizi-e-soste)
-> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale))
-> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
-> - [Il nostro vlog](#il-nostro-vlog)
-> - [Le nostre mappe](#le-nostre-mappe) 
+{{< indice >}}
 
  {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682806020/Articoli/francia/IMG_5510_df3poq.jpg">}}
 
@@ -31,6 +23,8 @@ Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre 
 **{{< underline "Giorno 1">}}**: prima tappa **{{< bold "Mont Saint Michel">}}**. Siamo arrivati di prima mattina al parcheggio di un chioschetto dove consumando colazione si può parcheggiare per un paio di ore. Acquistati caffè e Madeleine al cioccolato ci siamo gustati sia i dolci che la vista. Poi, assicurati gli animali in van per evitare loro la bolgia di gente che avremmo incontrato, ci siamo incamminati per un'oretta di passeggiata. Se non te la senti di camminare puoi fare la coda per prendere il trenino a pagamento. Avendo già visitato l'Abbazia anni prima, abbiamo solo camminato per le viuzze, a parer nostro rovinate un po' dalle troppe insegne turistiche, per poi dirigerci in un parcheggio a **{{< bold "Cherrueix">}}**, in riva al mare. 
 
 **{{< underline "Giorno 2">}}**: nel pomeriggio ci siamo spostati a **{{< bold "Dinan">}}**, piccolo borgo medievale dall’atmosfera fiabesca, camminando per le viuzze fino ad arrivare al porticciolo. Per la notte ci siamo spostati nell'area sosta gratuita di **{{< bold "Lehon">}}**. 
+
+{{< leggi-anche >}}
 
 **{{< underline "Giorno 3">}}**: a Lehon abbiamo visitato l’abbazia, circondata da un portico senza tetto, con una mostra di fotografia nel chiostro. Poi, colti dal temporale, ci siamo diretti a **{{< bold "Saint Malo">}}**. Passeggiando senza una meta siamo entrati in una chiesa ricca di dettagli gotici, con un rosone sopra all’abside meraviglioso, per poi proseguire lungo i bastioni. Dopo esser tornati al van ci siamo spostati in un piccolo parcheggio affacciato sulla baia per pranzo e poi ci siamo diretti verso **{{< bold "Cap Ferhel">}}**. Il vento era fortissimo. Siamo riusciti a intravedere il faro fra nebbia e pioggia prima di rinchiuderci a bordo. Sosta in libera. 
 

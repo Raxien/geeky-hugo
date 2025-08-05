@@ -13,15 +13,8 @@ draft: false
 
 In questo articolo ti porteremo con noi alla scoperta della Polonia, terra che ci ha conquistati dal primo giorno. L'abbiamo visitata a bordo del nostro van e ci siamo concentrati sulla parte est del paese, scoprendola da sud a nord, nel luglio del 2022. Potrai seguire questo itinerario anche in auto oppure sfruttarne una parte se deciderai di viaggiare in aereo: in tal caso trovi le informazioni dettagliate in merito al paese e un itinerario breve nell'articolo dedicato che trovi [qui](/blog/viaggio-polonia-informazioni-e-itinerari/).
 
-> ## Tabella dei contenuti
-> - [Itinerario](#itinerario)
->   - [In breve](#in-breve)
-> - [Strade](#strade)
-> - [Servizi e soste](#servizi-e-soste)
-> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
-> - [Il nostro vlog](#il-nostro-vlog)
-> - [Le nostre mappe](#le-nostre-mappe) 
-> 
+{{< indice >}}
+
 ## Itinerario
 In questa sezione troverai un diario giornaliero con tutte le tappe della nostra avventura.
 Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni in merito al paese e soprattutto le tappe imperdibili puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
@@ -167,5 +160,3 @@ Nel video qui sotto puoi rivedere il nostro ingresso in Polonia oppure trovi la 
 
 ## Le nostre mappe
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=14RYfqDoFR3i5zzqunEXiLMo-wXOZGrU&ehbc=2E312F">}}
-
- 

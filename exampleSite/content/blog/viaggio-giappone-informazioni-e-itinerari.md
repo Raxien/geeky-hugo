@@ -12,16 +12,7 @@ draft: false
 
 Se stai cercando una destinazione che ti offra un'esperienza di viaggio unica, il Giappone è il posto giusto per te. Con una cultura millenaria, una cucina deliziosa e una perfetta armonia tra il passato e futuro, questo paese asiatico ha molto da offrire ai viaggiatori di ogni tipo. In questo articolo esploreremo le ragioni per cui dovresti visitare il Giappone e ti proporremo alcuni itinerari imperdibili per il tuo viaggio, nati dopo svariate visite nel paese.
 
-> ## Tabella dei contenuti
-> - [Il Paese](#il-paese) 
-> - [Clima e quando andare](#clima-e-quando-andare)
-> - [Come pagare](#come-pagare)
-> - [Internet](#internet)
-> - [Vaccini e assicurazione sanitaria](#vaccini-e-assicurazione-sanitaria)
-> - [Mezzi di trasporto pubblici](#mezzi-di-trasporto-pubblici)
-> - [Itinerari](#itinerari)
->     - [8 Giorni](#8-giorni) 
->     - [14 Giorni](#14-giorni) 
+{{< indice >}}
 
 ## Informazioni utili
 
@@ -34,6 +25,8 @@ La lingua ufficiale è il giapponese ed è difficile trovare qualcuno che parli 
 
 ### Clima e quando andare
 Il Giappone ha un clima vario a seconda della stagione e della regione. In generale, **{{< underline "la migliore stagione">}}** per visitare il paese è la primavera (marzo-maggio) quando i ciliegi in fiore offrono uno spettacolo mozzafiato, seguita dall'autunno (settembre-novembre) grazie agli splendidi colori autunnali. 
+
+{{< leggi-anche >}}
 
 L'estate (giugno-agosto) può essere calda e umida, specialmente nelle regioni costiere, mentre l'inverno (dicembre-febbraio) è freddo, ma ideale per chi vuole praticare sport invernali come lo sci. 
 Inoltre, conviene prestare attenzione nella pianificazione del viaggio in base ad alcuni eventi stagionali, come la Golden Week, in cui molti degli esercizi potrebbero essere chiusi per festa nazionale. 

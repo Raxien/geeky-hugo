@@ -14,28 +14,7 @@ Tuttavia, pianificare un viaggio in Russia nel 2024 richiede una preparazione ac
 
 Cominciamo subito a pianificare il tuo viaggio in Russia!
 
-> ## Tabella dei contenuti
-> - [1. Tipi di visto e come ottenerli](#1-tipi-di-visto-e-come-ottenerli)
->   - [Visto Elettronico](#visto-elettronico)
->   - [Visto Standard](#visto-standard)
->   - [Visto di Transito](#visto-di-transito)
-> - [2. Come entrare in Russia](#2-come-entrare-in-russia)
->   - [Ingresso via aereo](#ingresso-via-aereo)
->   - [Ingresso via terra](#ingresso-via-terra)
->   - [La nostra esperienza via terra](#la-nostra-esperienza-via-terra)
->   - [Uscita via nave](#uscita-via-nave)
->   - [Assicurazione stradale](#assicurazione-stradale)
-> - [5. Cambio valuta (attenzione al blocco delle carte internazionali)](#5-cambio-valuta-attenzione-al-blocco-delle-carte-internazionali)
->   - [Come pagare quindi in paese?](#come-pagare-quindi-in-paese)
->   - [È possibile acquisire una carta bancaria in Russia?](#è-possibile-acquisire-una-carta-bancaria-in-russia)
->   - [La nostra esperienza](#la-nostra-esperienza)
-> - [6. Internet (GPS e VPN)](#6-internet-gps-e-vpn)
-> - [7. Benzina e situazione strade](#7-benzina-e-situazione-strade)
->   - [Tratti a pagamento](#tratti-a-pagamento)
-> - [8. Hotel, campeggi e sosta libera](#8-hotel-campeggi-e-sosta-libera)
-> - [9. Quando andare in Russia: il clima](#9-quando-andare-in-russia-il-clima)
-> - [10. Sicurezza in Russia](#10-sicurezza-in-russia)
-> - [11. Viaggio con animali](#11-viaggio-con-animali)
+{{< indice >}}
 
 `Importante` 
 Le informazioni contenute in questa guida sono aggiornate **a settembre 2024**. Si consiglia di consultare sempre i siti web ufficiali e le fonti di informazione pertinenti per le ultime novità e gli aggiornamenti.

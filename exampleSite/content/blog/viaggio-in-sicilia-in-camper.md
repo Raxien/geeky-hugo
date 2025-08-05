@@ -10,14 +10,10 @@ type: regular
 draft: false 
 ---
 
-Oggi ti portiamo con noi in Sicilia, in quello che è stato il secondo viaggio a bordo del nostro camper ([il primo lungo viaggio invece lo trovi qui](/blog/)).
+Oggi ti portiamo con noi in Sicilia, in quello che è stato il secondo viaggio a bordo del nostro camper ([il primo lungo viaggio invece lo trovi qui](/blog/viaggio-danimarca-in-camper)).
 Abbiamo letteralmente amato questa regione italiana sia per i luoghi fantastici sia per le delizie culinarie: sono stati 14 giorni nel sud-est della Sicilia vissuti fra cannoli e spiagge paradisiache! Mettiti comodo e buona lettura!
 
-> ## Tabella dei contenuti
-> - [Itinerario](#itinerario)
->   - [In breve](#in-breve)
-> - [Viva i dolci siciliani!](#viva-i-dolci-siciliani)
-> - [Le nostre mappe](#le-nostre-mappe)
+{{< indice >}}
 
 ## Itinerario
 

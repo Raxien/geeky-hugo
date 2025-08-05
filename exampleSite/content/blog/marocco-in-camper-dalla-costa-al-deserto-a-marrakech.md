@@ -17,14 +17,7 @@ Sulle nostre scelte relative a questo itinerario hanno sempre influito i consigl
 Ci siamo lasciati incantare e stupire, abbiamo scoperto allergie inaspettate e assaggiato cibi particolari, siamo stati accolti come in famiglia e ci siamo ritrovati con le scarpe piene di sabbia del deserto fino a raggiungere montagne in alta quota. 
 Insomma, è stata una grande avventura!
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632612/Articoli/Marocco/marocco%202/lago_marocco_rfurhv.jpg">}}
-
-> ## Tabella dei contenuti
-> - [Itinerario](#itineario)
->   - [In breve](#in-breve)
-> - [Considerazioni](#considerazioni)
-> - [Il nostro vlog](#il-nostro-vlog)
-> - [Le nostre mappe](#le-nostre-mappe)
+{{< indice >}}
 
 ## Itinerario
 
@@ -37,6 +30,8 @@ In questa sezione vi elencheremo quindi tutte le tappe della nostra avventura, l
 Al fondo di questio articolo troverete il nostro [itinerario in breve](#in-breve), [la mappa](#le-nostre-mappe) con tutti i puntalini relativi a soste (quasi tutte in libera) e [le nostre considerazioni](#considerazioni) .
 
 **{{< underline "Giorno 1">}}**: siamo arrivati a **Tafraout**, dopo aver attraversato colline, strade panoramiche e paesaggi incantevoli. Ci siamo subito recati nel **palmeto** per trovare un posto all'ombra in cui riposare e dal quale abbiamo raggiunto il centro cittadino a piedi, sotto la sola luce delle stelle, in un'atmosfera surrale. Tafraout è famosa per la produzione di babbucce colorate, davvero particolari da vedere e perché no indossare. Il costo del parcheggio è di 15dh per giorno ma è custodito con tanto di guardiani che girano tutta la notte con le torce a controllare l'area.
+
+{{< leggi-anche >}}
 
 **{{< underline "Giorno 2">}}**: abbiamo deciso di regalarci un'avventura davvero emozionante (che puoi rivedere {{<extLink "in questo video" "https://youtube.com/shorts/h25c69z0Dls?feature=share">}}) e di raggiungere, roccia dopo roccia, il famoso **"trampolino di Tafraout"**, uno spuntone dal quale ammirare un paesaggio dall'alto a 360°. Consigliamo vivamente quest'esperienza che per noi è stata una delle più emozionanti in Marocco (bastano un paio di scarponcini e un po' di voglia di avventura, oltre a un aiuto da casa per le coordinate che non guasta mai).
 

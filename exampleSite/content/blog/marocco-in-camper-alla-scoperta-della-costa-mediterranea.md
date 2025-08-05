@@ -18,14 +18,7 @@ A posteriori avremmo raggiunto immediatamente **Chefchaouen** (la città blu) do
 
 In ultimo noi abbiamo raggiunto nuovamente Tanger Med, da dove ci siamo imbarcati per tornare in Europa. Se viaggiate con animali vi rimandiamo a [questo articolo](/blog/informazioni-camper-marocco-con-animali), nel quale abbiamo scritto tutte le informazioni raccolte per entrare e uscire con loro dal paese ed evitare spiacevoli sorprese in dogana.
 
-{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690636799/Articoli/Marocco/marocco%203/marocco_citta_blu_bdom8u.jpg">}}
-
-> ## Tabella dei contenuti
-> - [Itinerario](#itineario)
->   - [In breve](#in-breve)
-> - [Considerazioni](#considerazioni)
-> - [Il nostro vlog](#il-nostro-vlog)
-> - [Le nostre mappe](#le-nostre-mappe)
+{{< indice >}}
 
 ## Itinerario
 
@@ -39,6 +32,8 @@ In ultimo noi abbiamo raggiunto nuovamente Tanger Med, da dove ci siamo imbarcat
 
 **{{< underline "Giorno 7">}}**: tra le città imperiali che ci mancavano all'appello abbiamo deciso di visitare solo **Fes** dal momento che quando eravamo **il paese Meknes era quasi totalmente in ristrutturazione**. La nostra visita è durata una mattinata intera: abbiamo deciso di passeggiare per le vie del quartiere ebraico alle 7 di mattina, **scelta perfetta per non trovare troppo turismo** e raggiungere le zone delle concerie di pelle, per le quali è famosa la città. 
 Affacciarsi su questi siti è gratuito, anche se numerose persone si proporranno di farvi da guida. L'odore di pelle trattata è veramente forte, ecco perché all'ingresso vi daranno un rametto di menta: non buttatelo! Vi aiuterà a non dover trattenere il respiro tutto il tempo!
+
+{{< leggi-anche >}}
 
 **{{< underline "Giorno 8">}}**: lasciata Fes abbiamo deciso, come anticipato, di non dirigerci direttamente a nord bensì di visitare tutta la costa mediterranea del Marocco, raggiungendo il confine purtroppo **invalicabile con l'Algeria** a **Saidia**. È stato toccante salutare con la mano le persone al di là di un semplice fossato riempito di filo spinato. A posteriori, questa è stata una delle cose più interessanti e particolari da ammirare lungo la costa, **se non l'unica.** 
 

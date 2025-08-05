@@ -13,16 +13,7 @@ In questo articolo ti porteremo con noi alla scoperta della Normandia, regione f
 Se la tua idea è quella di visitare la Normandia insieme alla Bretagna, ti rimandiamo all'[articolo](/blog/viaggio-francia-bretagna-in-camper-itinerari/) in merito così da poter unire i due itinerari. 
 Ti consigliamo di anche dare un'occhiata anche a un paio di mete nell'[Alta Francia](/blog/viaggio-francia-alta-francia-in-camper-itinerari/)!
 
-> ## Tabella dei contenuti
-> - [Itinerario](#itinerario)
->   - [In breve](#in-breve)
-> - [Strade](#strade)
-> - [Servizi e soste](#servizi-e-soste)
-> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale))
-> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
-> - [Il nostro vlog](#il-nostro-vlog)
-> - [Le nostre mappe](#le-nostre-mappe) 
+{{< indice >}}
 
 ## Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, ricreando un piccolo diario giornaliero. 

@@ -15,14 +15,7 @@ Abbiamo anche optato per una deviazione in Germania dato che da anni volevamo ve
 
 Vuoi scoprire tutto il nostro itinerario? Le tappe che ti elenchiamo sono state raggiunte a bordo del nostro piccolo van ma puoi effettuarle anche in moto, auto o con un mezzo più grande. 
 
-> ## Tabella dei contenuti
-> - [Itinerario](#itinerario)
->   - [In breve](#in-breve)
-> [Informazioni utili](#informazioni-utili)
->    - [Strade](#strade)
->   - [Servizi e soste](#servizi-e-soste)
->   - [Viaggiare con il proprio animale](#Animali)
-> - [Considerazioni](#considerazioni)
+{{< indice >}}
 
 ## Itinerario
 

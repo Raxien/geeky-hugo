@@ -14,21 +14,7 @@ draft: false
 Stai pensando di visitare la Polonia ma non sai da dove iniziare?
 Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese oltre a un consiglio su un possibile itinerario in breve. Se invece ti interessa scoprire il nostro itinerario on the road ti rimandiamo all'articolo dedicato che trovi [qui](/blog/viaggio-polonia-in-camper-itinerari/).
 
-> ## Tabella dei contenuti
-> - [Il Paese](#il-paese) 
-> - [Clima e quando andare](#clima-e-quando-andare)
-> - [Come pagare](#come-pagare)
-> - [Internet](#internet)
-> - [Vaccini e assicurazione sanitaria](#vaccini-e-assicurazione-sanitaria)
-> - [Mezzi di trasporto pubblici](#mezzi-di-trasporto-pubblici)
-> - [Cosa mangiare](#cosa-mangiare)
-> - [Dove dormire](#dove-dormire)
-> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
-> - [Itinerari](#itinerari)
->     - [7 Giorni](#7-giorni)) 
-> - [I parchi e altre escursioni](#i-parchi-e-altre-escursioni)
-> - [Il nostro vlog](#il-nostro-vlog)
-     <!-- - [Le nostre mappe](#Mappe) -->
+{{< indice >}}
 
 ## Il paese
 La Polonia ha un ricco patrimonio culturale e storico ed è conosciuta per la sua bellissima architettura, la deliziosa cucina e la gentilezza delle persone. 
@@ -151,10 +137,5 @@ Infine, il Parco Nazionale di Kampinos è situato a pochi chilometri a ovest di 
 Se vuoi vedere i nostri vlog sulla Polonia ti lasciamo di seguito le nostre avventure a Cracovia oppure trovi la playlist completa {{<extLink "qui" "https://youtube.com/playlist?list=PLHaclq_J5PZ84ExiQy9T8MXHIOFWhqHQV">}}
 
 {{< youtube2 d5blVGXVJ08>}}
-
-<!-- <div id="Mappe"></div> -->
-
-<!-- ## Le nostre mappe -->
-<!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1iWT57E7IXes2FIwpnvDKgvbrL740gmU&ehbc=2E312F">}} -->
 
  

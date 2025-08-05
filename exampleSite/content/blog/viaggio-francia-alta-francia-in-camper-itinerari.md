@@ -12,14 +12,7 @@ draft: false
 
 In questo articolo ti porteremo con noi alla scoperta della Francia del Nord. Abbiamo visitato questa regione a bordo del nostro van dal 10 settembre al 15 settembre 2022, ma potrai seguire questo itinerario anche in auto. Il clima non è stato dei migliori come di consueto in queste zone, anche se alcuni attimi di sole ci hanno regalato panorami incredibili. Potresti valutare di aggiungere alcune di queste tappe a un viaggio in Normandia, in tal caso ti rimandiamo [all'articolo](/blog/viaggio-francia-normandia-in-camper-itinerari/) dedicato in merito.
 
-> ## Tabella dei contenuti
-> - [Itinerario](#itinerario)
-> - [Strade](#strade)
-> - [Servizi e soste](#servizi-e-soste)
-> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
-> - [Considerazioni e itinerario ideale](#considerazioni-e-itinerario-ideale)
-> - [Il nostro vlog](#il-nostro-vlog)
-> - [Le nostre mappe](#le-nostre-mappe) 
+{{< indice >}}
 
 ## Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, con un piccolo diario giornaliero. 

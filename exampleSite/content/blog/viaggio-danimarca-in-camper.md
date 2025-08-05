@@ -17,18 +17,7 @@ Il viaggio in Danimarca in camper è stato il nostro **primo viaggio lungo** dop
 Abbiamo speso 2000 euro in totale, comprensivi di qualsiasi uscita, per un mese in camper in Danimarca. 
 Partiamo, o meglio se parti dopo aver letto questo articolo mandaci una foto che ci farebbe davvero piacere!
 
-> ## Tabella dei contenuti
-> - [Itinerario](#itinerario)
->   - [Dall'Italia alla Danimarca](#dallitalia-alla-danimarca)
->   - [Itinerario della Danimarca](#itinerario-della-danimarca)
->   - [Ritorno a casa attraverso la Foresta Nera](#ritorno-a-casa-attraverso-la-foresta-nera)
->   - [In breve](#in-breve)
-> - [Strade](#strade)
-> - [Servizi e soste](#servizi-e-soste)
-> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
-> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
-> - [Il nostro vlog](#il-nostro-vlog)
-> - [Le nostre mappe](#le-nostre-mappe)
+{{< indice >}}
 
 ## Itinerario
 

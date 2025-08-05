@@ -13,13 +13,7 @@ draft: false
 Il nostro tour della Slovacchia a bordo del van è durato purtroppo pochissimi giorni, un po' perché [avevamo un appuntamento in Polonia ](/blog/viaggio-polonia-in-camper-itinerari)  un po' perché non ci aspettavamo di trovare una temperatura di **40 gradi a inizio luglio.**
 Vi lasciamo comunque il racconto delle nostre tappe e un paio di spunti per alcune mete che purtroppo in questo giro non siamo riusciti a raggiungere.
 
-> ## Tabella dei contenuti
-> - [Itinerario](#itinerario)
->   - [In breve](#in-breve)
-> - [Viaggiare con il proprio animale](#Animali)
-> - [Considerazioni](#considerazioni)
-> - [Il nostro vlog](#Vlog)
-> - [Le nostre mappe](#Mappe)
+{{< indice >}}
 
 ## Itinerario
 Come dicevamo il nostro è stato un itinerario creato ad hoc per sfruttare il paese e le sue strade come ponte per arrivare nella zona dei **Monti Tatra a sud della Polonia**. Siamo entrati in Slovacchia il 29 giugno sera e siamo usciti il 3 luglio. Giusto una toccata e fuga, che potrebbe essere presa in considerazione per chi ha pochi giorni ma vuole farsi un'idea del paese vivendolo on the road. 
@@ -74,6 +68,3 @@ I pochi giorni trascorsi in Slovacchia ci hanno fatto apprezzare tantissime cose
 ## Il nostro Vlog 
 
 {{<extLink "A questo link" "https://youtube.com/playlist?list=PLHaclq_J5PZ8fmhz_NqsXYjcWhUql566x">}} puoi trovare la playlist completa con i video delle nostre avventure in Slovacchia. 
-
-<!-- ## Le nostre mappe -->
-<!-- {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=11GfW4gwkFqTBJcnrv5FV-ak3qVS4jws&ehbc=2E312F">}} -->

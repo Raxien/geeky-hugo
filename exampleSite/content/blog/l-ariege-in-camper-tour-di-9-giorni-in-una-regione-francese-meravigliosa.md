@@ -12,25 +12,7 @@ draft: false
 
 L’Ariège è un dipartimento della Regione Occitania, situato nel cuore dei Pirenei a sud della Francia. Scoperto per caso arrivando da [Andorra](/blog/andorra-in-camper-un-weekend-alla-scoperta-di-panorami-mozzafiato) e andando in direzione [Carcassonne](/blog/carcassonne-citta-medievale-e-omonimo-gioco-da-tavolo), ci siamo **subito innamorati** dei suoi paesaggi fatti di natura incontaminata, borghetti usciti dal medioevo, il tutto incorniciato da maestose montagne.
 
-> ## Tabella dei contenuti
-> - [Fra natura e tradizione](#fra-natura-e-tradizione)
-> - [Tappe imperdibili](#tappe-imperdibili)
->  - [Ax les thermes](#ax-les-thermes)
->  - [Tarascon sur Ariège](#tarascon-sur-ariège)
->  - [Foix](#foix)
->  - [La Bastide de Serou](#la-bastide-de-serou)
->  - [Saint Lizier](#saint-lizier)
->  - [Le Mas d’Azil](#le-mas-dazil)
->  - [Carla Bayle](#carla-bayle)
->  - [Montsegur](#montsegur)
->  - [Lac de Montbel](#lac-de-montbel)
->  - [Mirepoix](#mirepoix)
->  - [Carcassonne](#carcassonne)
->  - [Itinerario](#itinerario)
-> - [Intinerario](#itinerario)
-> - [Strade, servizi e soste](#servizi-e-soste)
-> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
-> - [Le nostre mappe](#le-nostre-mappe) 
+{{< indice >}}
 
 ## Fra natura e tradizione
 L’Ariege è un luogo che accontenta tutti: chi ama la natura e gli sport all’aria aperto, chi ama i luoghi preistorici e i siti naturali (nell’Ariege si trovano parecchie grotte visitabili in cui ammirare pitture rupestri), chi è appassionato di storia (numerosi catari si rifugiarono nei castelli di questa zona per sfuggire all’inquisizione cattolica), chi predilige piccoli villaggi al caos delle grandi città.

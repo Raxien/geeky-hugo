@@ -14,27 +14,7 @@ Il Kosovo è una terra ricca di storia, cultura e natura, ma è ancora relativam
 
 Il Kosovo è un paese sicuro e accogliente. Vuoi saperne di più? **Continua a leggere per scoprire tutto** quello che devi sapere per organizzare il tuo viaggio.
 
-> ## Tabella dei contenuti
-> - [Cosa vedere](#cosa-vedere)
->   - [Pejë: un monastero, una birra e del buon formaggio](#pejë-un-monastero-una-birra-e-del-buon-formaggio)
->   - [Monastero di Visoki Dečani: da fotografare con gli occhi](#monastero-di-visoki-dečani-da-fotografare-con-gli-occhi)
->   - [Djakovica: Un gioiellino inaspettato](#djakovica-un-gioiellino-inaspettato)
->   - [Cascate di Mirusha: un'escursione inaspettata](#cascate-di-mirusha-unescursione-inaspettata)
->   - [Pristren: "Lot to see"](#pristren-lot-to-see)
->   - [Il santuario degli orsi](#il-santuario-degli-orsi)
->   - [Il monastero di Gračanica](#il-monastero-di-gračanica)
->   - [Prishtina: Newborn!](#prishtina-newborn)
->   - [Grotte di Gadime: che spettacolo della natura](#grotte-di-gadime-che-spettacolo-della-natura)
-> - [Itinerario](#in-breve)
-> - [Tour culinario](#tour-culinario)
-> - [Informazioni utili](#informazioni)
->   - [Assicurazione sanitaria](#assicurazione-sanitaria)
->   - [Strade](#strade)
->   - [Servizi e soste](#servizi-e-soste)
->   - [Dogana](#dogana)
->   - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
-> - [Il nostro vlog](#il-nostro-vlog)
-> - [Le nostre mappe](#le-nostre-mappe)
+{{< indice >}}
 
 ## Cosa vedere
 

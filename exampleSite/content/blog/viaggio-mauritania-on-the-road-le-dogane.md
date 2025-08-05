@@ -15,26 +15,7 @@ Sicuramente, se leggete le disposizioni della {{<extLink "Farnesina" "https://ww
 Proprio per questo motivo e dato che noi abbiamo solo attraversato il paese per andare in Senegal (che puoi trovare [qui](/blog/guida-senegal-in-camper-itinerari-informazioni/)), non possiamo scrivere una guida dettagliata del posto.
 Vi riportiamo comunque tutte le informazioni relative alle pratiche doganali, ai costi e alla situazione delle strade. Vi lasciamo anche alcune escursioni che potete fare nel caso vogliate visitare più a fondo il paese.
 
-> ## Tabella dei contenuti
-> - [Il Paese](#il-paese)
-> - [Itinerario](#itinerario)
->   - [Andata](#andata)
->   - [Rientro](#rientro)
-> - [Informazioni utili](#informazioni-utili)
->     - [Documenti](#documenti) 
->     - [Come pagare](#come-pagare)
->     - [Assicurazione sanitaria](#assicurazione-sanitaria)
->     - [Dogane](#dogana)
->       - [Frontiera con il Marocco](#frontiera-con-il-marocco)
->       - [Frontiera con il Senegal (Diama)](#frontiera-con-il-senegal-diama)
->     - [Strade](#strade)
->     - [Sicurezza nel paese](#sicurezza-nel-paese)
-> - [Escursioni](#escursioni) 
-> - [Dove dormire](#dove-dormire)
-> - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
-> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Il nostro vlog](#il-nostro-vlog)
-> - [Le nostre mappe](#le-nostre-mappe)
+{{< indice >}}
 
 ## Il paese
 La Mauritania è un paese in forte crisi, il 45% della popolazione vive con meno di 2 dollari al giorno. Da sempre si trova a metà fra le tensioni tra mondo arabo e Africa nera.

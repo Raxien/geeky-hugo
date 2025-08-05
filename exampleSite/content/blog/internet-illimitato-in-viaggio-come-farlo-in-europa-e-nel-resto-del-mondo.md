@@ -13,19 +13,11 @@ Essere connessi ad Internet ovunque nel mondo è possibile?
 Al giorno d'oggi siamo abituati ad avere facilmente l'accesso a Internet, che ci sembra ancor più essenziale quando si viaggia per rimanere in contatto con amici e familiari, **condividere esperienze sui social**, ottenere informazioni su luoghi da visitare e molto altro. 
 Se stai pianificando **un viaggio all'estero** e desideri rimanere connessa/o durante la tua avventura abbiamo preparato una guida pratica su come scegliere la miglior soluzione per avere Internet in viaggio e risparmiare!
 
+{{< indice >}}
+
 ## Quale soluzione usare?
 Per avere la connessione Internet all'estero esistono varie soluzioni, alcune gratuite e altre a pagamento. 
 La scelta su quale può fare al tuo caso dipende dalla destinazione, dalla durata del viaggio, dalla necessità di GIGA da poter utilizzare, da quanto si vuole spendere. Di seguito trovi un elenco con varie opzioni e soluzioni! Pronti, connessione..via!
-
-> ## Tabella dei contenuti
-> - [Viaggi brevi](#viaggi-brevi)
->   - [Voglio viaggiare in Europa](#voglio-viaggiare-in-europa)
->   - [Voglio andare fuori dall'Europa!](#voglio-andare-fuori-dalleuropa)
-> - [Internet illimitato](#internet-illimitato)
->   - [Perché ci ha cambiato la vita in viaggio](#perchè-ci-ha-cambiato-la-vita-in-viaggio)
-> - [Ma quindi cosa scegliere?](#ma-quindi-cosa-scegliere)
-> - [In breve](#in-breve)
-> - [5 trucchi per risparmiare giga](#5-trucchi-per-risparmiare-giga)
 
 ## Viaggi brevi
 Di seguito le soluzioni se prevedi di fare un viaggio breve, un weekend o una paio di settimane, sia in Europa che fuori dall'Europa.

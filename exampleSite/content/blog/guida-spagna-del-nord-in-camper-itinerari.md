@@ -13,15 +13,8 @@ draft: false
 Spagna del Nord in 15 giorni affacciati sulla costa? Per noi è stato un viaggio bellissimo, attraversando 4 regioni (Paesi Baschi, Cantabria, Asturie e Galizia), panorami mozzafiato e alcune mete davvero imperdibili! Arrivavamo direttamente dalla [Francia](/blog/viaggio-francia-nuova-aquitania-in-camper-itinerari/) e nonostante un primo impatto con le persone non troppo accoglienti come in altre zone spagnole, abbiamo trovato un clima abbastanza favorevole nonostante fosse novembre e luoghi che ci sono rimasti nel cuore. 
 Ti va di leggere cosa abbiamo da consigliare? Promettiamo mete meravigliose! 
 
-> ## Tabella dei contenuti
-> - [Itinerario](#itinerario)
-> - [In breve](#in-breve)
-> - [Strade](#strade)
-> - [Servizi e soste](#servizi-e-soste)
-> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
-> - [Il nostro vlog](#il-nostro-vlog)
-> - [Le nostre mappe](#le-nostre-mappe) 
+{{< indice >}}
+
 
 ## Itinerario
 Di seguito troverai il nostro diario giornaliero, ma se vuoi leggere l'itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
@@ -33,6 +26,8 @@ Di seguito troverai il nostro diario giornaliero, ma se vuoi leggere l'itinerari
 **{{< underline "Giorno 3">}}**: il maltempo non ci dava tregua ma abbiamo comunque fatto due passi nel piccolo villaggio di Deba, poi dato che il 31 ottobre era l'ultimo lunedì del mese e coincideva con un grande mercato nella città di Guernica, con una serie di bancarelle per tutte le vie, abbiamo deciso di raggiungere questa meta. Siamo arrivati volutamente nel tardo pomeriggio per poter passeggiare insieme a Olimpia e Sakè nel momento in cui molte persone rientravano a casa, e per assaggiare un pinxto, la tapa di qui: una fetta di formaggio su un pezzo di baguette (1 euro). Dopo aver camminato per la città abbiamo raggiunto la riserva di Urdaibai. 
 
 **{{< underline "Giorno 4">}}**: abbiamo dedicato la mattinata a scoprire la natura attorno alla riserva, fermandoci per ammirare la chiesetta di Mundaka, poi abbiamo proseguito lungo la costa fino a raggiungere una comoda area sosta con tavolini per picnic nei pressi della turistica San Juan de Gatzelugatze.
+
+{{< leggi-anche >}}
 
 **{{< underline "Giorno 5">}}**: sveglia presto per raggiungere a piedi la scalinata che conduce alla chiesa di San Juan. L'accesso al sito è gratuito ma è necessario ottenere un ticket prenotando online dato l'ingresso contingentato (trovi tutte le informazioni utili {{<extLink "qui" "https://turismo.euskadi.eus/es/san-juan-de-gaztelugatxe/aa30-12376/es/">}}). La camminata dal punto dove abbiamo parcheggiato noi può essere un po' impegnativa, ecco perché ti segnaliamo che puoi trovare un parcheggio più vicino. Inoltre, ti consigliamo un abbigliamento con scarpe adatte per evitare soprattutto di scivolare sui 241 scalini. Per il resto, prenditi il tempo per lasciarti meravigliare da questo luogo spettacolare (di prima mattina c'erano pochissimi turisti!). Nel pomeriggio, dopo aver fatto amicizia con altri camperisti mangiando panini vista oceano, abbiamo raggiunto l'area camper gratuita vicina all'aeroporto di Bilbao.
 

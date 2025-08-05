@@ -15,19 +15,7 @@ Abbiamo visitato l'Andalusia in due step, la prima volta a inizio gennaio 2023 e
 
 A gennaio siamo arrivati in questa regione spagnola [direttamente dal Portogallo](/blog/viaggio-portogallo-in-camper-itinerari/), visitandone una parte. Abbiamo amato alcune particolarità dell'Andalusia, mentre altre (soprattutto le località turistiche sulla costa) a noi non sono granché piaciute. In questo articolo non riporteremo tutto il nostro diario quotidiano dal momento che siamo stati un mese in questa regione per motivi lavorativi e familiari, ma ti porteremo comunque con noi da **Siviglia a Granada**, attraverso i caratteristici paesini bianchi, avventurandoci al **Caminito del Rey**, scoprendo luoghi storici inaspettati e addentrandoci un po' anche nell'entroterra, dandoti un paio di possibilità in fatto di itinerari. Vamos! 
 
-> ## Tabella dei contenuti
-> - [Itinerario](#itinerario)
->    - [verso Malaga e Granada, con tappa al Caminito del Rey](#itinerario-verso-malaga-e-granada-con-tappa-al-caminito-del-rey)
->    - [verso Ronda, Setenil e Cordova](#itinerario-verso-ronda-setenil-e-cordova)
->    - [In breve](#in-breve)
->       - [Itinerario 1](#itinerario-1)
->       - [Itinerario 2](#itinerario-2)
-> - [Informazioni utili](#informazioni-utili)
->   - [Strade](#strade)
->   - [Servizi e soste](#servizi-e-soste)
->   - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
->   - [Viaggiare con il proprio animale](#viaggiare-con-il-proprio-animale)
-> - [Le nostre mappe](#le-nostre-mappe)
+{{< indice >}}
 
 ## Itinerario
 Le tappe che ti elenchiamo sono state tutte raggiunte a bordo del nostro piccolo van ma puoi effettuarle anche in moto, auto o con un mezzo più grande. Ti segnaliamo **solo di prestare attenzione alla lunghezza del tuo camper** nel caso volessi raggiungere alcune località come ad esempio **Mijias Pueblo** o il **Caminito del Rey passando da Alora**. 

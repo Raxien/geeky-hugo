@@ -12,16 +12,7 @@ type: regular
 Per entrare in Marocco via nave in camper e con animali al seguito è necessario essere **in possesso di alcuni documenti fondamentali**. 
 In questo articolo vi lasciamo la nostra esperienza sperando possa esservi di aiuto per velocizzare le pratiche e godervi il viaggio in totale serenità!
 
-> ## Tabella dei contenuti
-> - [Documenti](#documenti) 
-> - [Animali](#animali)
->   - [Ingresso in Marocco](#ingresso-in-marocco)
->   - [Tratta Spagna - Marocco](#tratta-spagna---marocco)
->   - [Uscita dal Marocco](#uscita-dal-marocco)
-> - [Il Camper](#il-camper)
->   - [Consigli utili](#consigli-utili)
->   - [Nave e Orari](#nave-e-orario)
-> - [Quanto costa](#quanto-costa)
+{{< indice >}}
 
 ## Documenti
 Il Marocco richiede ai visitatori stranieri di avere un passaporto **valido per almeno sei mesi dalla data di ingresso** nel paese. Questo significa che se la scadenza del passaporto è vicina, è necessario rinnovarlo prima di partire. Inoltre, il passaporto deve avere almeno una pagina vuota per il visto d'ingresso e per i timbri di controllo.

@@ -15,18 +15,7 @@ Andare in Senegal in camper non era previsto nei nostri piani ma, spinti dai rac
 
 Dopo quasi 30 giorni trascorsi in Senegal, qualche disavventura in dogana e non solo, numerose conoscenze con i locali, parole imparate in dialetto, soluzioni pratiche trovate qua e là e informazioni utili a camperisti e non, ci è balzata in mente l'idea di scrivere un articolo sulla nostra avventura, sperando che possa essere utile a chi sta pensando di cimentarsi in un viaggio simile. 
 
-> ## Tabella dei contenuti
-> - [Itinerario](#itinerario)
->   - [Ingresso in paese, Saint Louis e Lago Retba](#ingresso-in-paese-saint-louis-e-lago-retba)
->   - [Dakar e la Petit Cotè](#dakar-e-la-petit-cote)
->   - [Direzione Casamance](#direzione-casamance)
->   - [In breve](#in-breve)
-> - [Escursioni](#escursioni)
-> - [Dogane](#dogane)
-> - [Quanto abbiamo speso](#quanto-abbiamo-speso)
-> - [Considerazioni e tappe imperdibili](#considerazioni-e-tappe-imperdibili)
-> - [Il nostro vlog](#il-nostro-vlog)
-> - [Le nostre mappe](#le-nostre-mappe)
+{{< indice >}}
 
 ## Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, ricreando un piccolo diario giornaliero. 

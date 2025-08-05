@@ -16,16 +16,7 @@ Sicuramente sulla nostra decisione hanno molto influito i racconti più che posi
 
 A fine gennaio 2023 abbiamo quindi comprato i biglietti per il traghetto da Algeciras a Tanger Med e ci siamo imbarcati insieme a Olimpia e Sakè, i nostri cane e gatto ([qui per i documenti necessari](/blog/informazioni-camper-marocco-con-animali)) e siamo partiti all'avventura!
  
-> ## Tabella dei contenuti
-> - [Premessa](#premessa)
-> - [Itinerario](#itinerario)
->   - [In breve](#in-breve)
-> - [Finte Guardie](#finte-guardie)
->   - [Come comportarsi?](#come-comportarsi)
-> - [Considerazioni](#considerazioni)
->   - [Tappe imperdibili](#tappe-imperdibili)
-> - [Il nostro vlog](#il-nostro-vlog)
-> - [Le nostre mappe](#le-nostre-mappe)
+{{< indice >}}
 
 ## Premessa
 

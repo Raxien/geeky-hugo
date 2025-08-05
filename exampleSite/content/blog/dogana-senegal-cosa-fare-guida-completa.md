@@ -14,26 +14,7 @@ Entrare in Senegal con il proprio mezzo è fattibile con le dovute accortezze e 
 Il nostro ingresso nel paese non è stato dei migliori quindi nel corso della nostra permanenza abbiamo **deciso di raccogliere varie informazioni che ti mettiamo a disposizione** se fossi intenzionato a intraprendere la stessa avventura. 
 Mettiti comodo e buona lettura.
 
-> ## Tabella dei contenuti
-> - [Premessa](#premessa)
-> - [Rosso o Diama?](#rosso-o-diama)
->   - [Rosso](#rosso)
->   - [Diama](#diama)
->   - [Quindi quale scegliere?](#quindi-quale-scegliere)
-> - [La dogana di Diama](#la-dogana-di-diama)
->   - [Dove fare il visto](#dove-fare-il-visto)
->   - [Dove fare le pratiche del mezzo](#dove-fare-le-pratiche-del-mezzo)
->   - [Carnet de Passages: serve?](#carnet-de-passages-serve)
->   - [Dove si rinnova](#dove-si-rinnova)
->   - [E l'assicurazione?](#e-l-assicurazione)
->   - [Ma quanto mi costa?](#ma-quanto-mi-costa)
-> - [Passavant: i problemi](#passavant-i-problemi)
->   - [Racconti di altri viaggiatori](#racconti-di-altri-viaggiatori)
->   - [La nostra esperienza](#la-nostra-esperienza)
-> - [Trucchi e consigli](#trucchi-e-consigli)
->   - [Cosa non fare in dogana](#cosa-non-fare-in-dogana)
-> - [I nostri Vlog](#il-nostro-vlog)
-> - [Articoli consigliati](#articoli-consigliati)
+{{< indice >}}
 
 `Aggiornamento 2024` 
 A seguito delle elezioni presidenziali tenutesi in Senegal a marzo 2024 la situazione nella dogana di Rosso sembra essere cambiata.
