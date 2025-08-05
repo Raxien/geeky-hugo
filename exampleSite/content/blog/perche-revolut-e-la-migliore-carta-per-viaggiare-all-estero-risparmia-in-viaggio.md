@@ -10,6 +10,8 @@ draft: false
 
 Viaggiare è un’avventura che arricchisce, **ma gestire il denaro all’estero può trasformarsi in un grattacapo** tra commissioni bancarie, tassi di cambio sfavorevoli e contanti da proteggere. Dopo oltre sette anni di utilizzo, possiamo dire che **{{< revolut text="Revolut è la nostra carta di fiducia">}}**, non solo per i viaggi ma anche nella vita di tutti i giorni. In questo articolo, **nato dalla nostra esperienza**, vi spieghiamo perché Revolut è la scelta perfetta per viaggiare, specialmente fuori dall’Unione Europea, e come ci ha aiutato a risparmiare grazie a zero commissioni, tassi di cambio vantaggiosi, vantaggi Premium e carte personalizzate che riflettono il nostro stile.
 
+{{< indice >}}
+
 ## Zero commissioni (tranne il weekend)
 Uno dei motivi per cui Revolut è così amata dai viaggiatori è **l’assenza di commissioni sulle transazioni estere.** Con la nostra carta Revolut, paghiamo in negozi, ristoranti o per attività all’estero **senza costi aggiuntivi**, fino a un limite mensile (1.000 € per il piano Standard). Rispetto alle carte tradizionali, che spesso addebitano il 2-3% per ogni pagamento, questo è un risparmio enorme.
 
