@@ -2777,7 +2777,7 @@ p a {
   background: white;
   background: white;
   border-radius: 20px;
-  padding: 20px;
+  padding: 10px 20px;
   position: relative;
   
   &::before {
@@ -2877,12 +2877,13 @@ p a {
 }
 
 .ai-summary-content {
+  overflow: hidden;
+  transition: all 0.3s ease;
   line-height: 1.6;
   font-size: 16px;
   margin-bottom: 15px;
   margin-left: 1.5em;
   margin-right: 1.5em;
-  transition: all 0.3s ease;
   
   // Cursor per l'effetto di scrittura
   &.typing::after {

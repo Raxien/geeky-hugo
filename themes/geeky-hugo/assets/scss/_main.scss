@@ -2037,3 +2037,12 @@ body.offcanvas-open {
     }
   }
 }
+
+.ai-summary-content {
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.ai-summary-container {
+  padding: 10px 20px;
+}

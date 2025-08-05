@@ -868,12 +868,16 @@ async function handleArticleSummary() {
     
     if (isExpanded) {
       summaryContent.style.display = 'none';
-      summaryContainer.style.padding = '10px 20px';
+      summaryContent.style.height = '0';
+      summaryContent.style.overflow = 'hidden';
+      summaryContent.style.margin = '0';
       if (headerArrow) headerArrow.classList.remove('rotated');
       if (buttonText) buttonText.textContent = ' Espandi';
     } else {
       summaryContent.style.display = 'block';
-      summaryContainer.style.padding = '20px';
+      summaryContent.style.height = 'auto';
+      summaryContent.style.overflow = 'visible';
+      summaryContent.style.margin = '';
       if (headerArrow) headerArrow.classList.add('rotated');
       if (buttonText) buttonText.textContent = ' Comprimi';
     }
