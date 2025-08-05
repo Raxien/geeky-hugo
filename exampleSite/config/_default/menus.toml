@@ -290,7 +290,181 @@ name = "Press"
 url = "press"
 weight = 3
 
+# [[footer]]
+# name = "Privacy Policy"
+# url = "privacy-policy/"
+# weight = 4
+
 [[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
+name = "Il viaggio"
+url = "trip/"
 weight = 4
+
+# footer destinations menu - riutilizza la struttura del menu principale
+[[footerdestinations]]
+name = "Europa"
+url = "#"
+weight = 1
+hasChildren = true
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Andorra"
+  url = "search/?s=Andorra"
+  weight = 1
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Austria"
+  url = "search/?s=Austria"
+  weight = 2
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Belgio"
+  url = "search/?s=Belgio"
+  weight = 3
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Bosnia"
+  url = "search/?s=Bosnia"
+  weight = 4
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Croazia"
+  url = "search/?s=Croazia"
+  weight = 5
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Danimarca"
+  url = "search/?s=Danimarca"
+  weight = 6
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Francia"
+  url = "search/?s=Francia"
+  weight = 7
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Georgia"
+  url = "search/?s=Georgia"
+  weight = 8
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Italia"
+  url = "search/?s=Italia"
+  weight = 9
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Kosovo"
+  url = "search/?s=Kosovo"
+  weight = 10
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Macedonia"
+  url = "search/?s=Macedonia"
+  weight = 11
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Paesi Bassi"
+  url = "search/?s=Paesi Bassi"
+  weight = 13
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Polonia"
+  url = "search/?s=Polonia"
+  weight = 14
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Portogallo"
+  url = "search/?s=Portogallo"
+  weight = 15
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Russia"
+  url = "search/?s=Russia"
+  weight = 16
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Slovenia"
+  url = "search/?s=Slovenia"
+  weight = 17
+
+  [[footerdestinations]]
+  parent = "Europa"
+  name = "Spagna"
+  url = "search/?s=Spagna"
+  weight = 18
+
+[[footerdestinations]]
+name = "Asia"
+url = "#"
+weight = 2
+hasChildren = true
+
+  [[footerdestinations]]
+  parent = "Asia"
+  name = "Armenia"
+  url = "search/?s=Armenia"
+  weight = 1
+
+  [[footerdestinations]]
+  parent = "Asia"
+  name = "Corea del Sud"
+  url = "search/?s=Corea del Sud"
+  weight = 2
+
+  [[footerdestinations]]
+  parent = "Asia"
+  name = "Giappone"
+  url = "search/?s=Giappone"
+  weight = 3
+
+  [[footerdestinations]]
+  parent = "Asia"
+  name = "Iraq"
+  url = "search/?s=Iraq"
+  weight = 4
+
+  [[footerdestinations]]
+  parent = "Asia"
+  name = "Turchia"
+  url = "search/?s=Turchia"
+  weight = 5
+
+[[footerdestinations]]
+name = "Africa"
+url = "#"
+weight = 3
+hasChildren = true
+
+  [[footerdestinations]]
+  parent = "Africa"
+  name = "Marocco"
+  url = "search/?s=Marocco"
+  weight = 1
+
+  [[footerdestinations]]
+  parent = "Africa"
+  name = "Mauritania"
+  url = "search/?s=Mauritania"
+  weight = 2
+
+  [[footerdestinations]]
+  parent = "Africa"
+  name = "Senegal"
+  url = "search/?s=Senegal"
+  weight = 3
