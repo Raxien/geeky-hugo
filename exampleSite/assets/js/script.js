@@ -583,19 +583,10 @@ function createSummaryElement() {
   // Crea il contenuto del riassunto
   const summaryContent = document.createElement('div');
   summaryContent.className = 'ai-summary-content';
-  
-  // Aggiungi disclaimer
-  const disclaimer = document.createElement('div');
-  disclaimer.className = 'ai-summary-disclaimer';
-  disclaimer.innerHTML = '<small><em>Discalimer: Questo riassunto è in fase di test. Se ci sono errori <a href="/blog/sake-il-gatto-viaggiatore-da-record-mondiale" style="color: #15817f;">è colpa di Sakè</a></em></small>';
-  disclaimer.style.cssText = 'color: black; font-size: 12px; margin-top: 10px; text-align: center;';
 
-  // Assembla il container
+  // Assembla il container (senza disclaimer per ora)
   summaryContainer.appendChild(summaryHeader);
   summaryContainer.appendChild(summaryContent);
-  
-  // Aggiungi il disclaimer sotto al box
-  summaryContainer.appendChild(disclaimer);
 
   // Inserisci il riassunto dopo i metadati dell'articolo con animazione fluida
   const cardMeta = document.querySelector('ul.list-inline.card-meta');
@@ -848,6 +839,9 @@ async function handleArticleSummary() {
   // Mostra il riassunto con l'effetto di scrittura
   await typeWriter(summaryContent, summary);
 
+  // Cerca articoli correlati e aggiungi la lista
+  addRelatedArticles(summaryContainer);
+
   // Mostra il pulsante con effetto fade-in
   toggleButton.style.opacity = '0';
   toggleButton.style.transition = 'opacity 0.5s ease-in-out';
@@ -865,12 +859,14 @@ async function handleArticleSummary() {
     
     const headerArrow = toggleButton.querySelector('.toggle-arrow');
     const buttonText = toggleButton.querySelector('.button-text');
+    const relatedArticles = summaryContainer.querySelector('.ai-related-articles');
     
     if (isExpanded) {
       summaryContent.style.display = 'none';
       summaryContent.style.height = '0';
       summaryContent.style.overflow = 'hidden';
       summaryContent.style.margin = '0';
+      if (relatedArticles) relatedArticles.style.display = 'none';
       if (headerArrow) headerArrow.classList.remove('rotated');
       if (buttonText) buttonText.textContent = ' Espandi';
     } else {
@@ -878,6 +874,7 @@ async function handleArticleSummary() {
       summaryContent.style.height = 'auto';
       summaryContent.style.overflow = 'visible';
       summaryContent.style.margin = '';
+      if (relatedArticles) relatedArticles.style.display = 'block';
       if (headerArrow) headerArrow.classList.add('rotated');
       if (buttonText) buttonText.textContent = ' Comprimi';
     }
@@ -898,6 +895,67 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 });
+
+// Funzione per aggiungere articoli correlati
+function addRelatedArticles(summaryContainer) {
+  // Cerca tutti i div con classe article__body__leggi-anche
+  const relatedArticles = document.querySelectorAll('.article__body__leggi-anche');
+  
+  if (relatedArticles.length > 0) {
+    // Crea il container per gli articoli correlati
+    const relatedContainer = document.createElement('div');
+    relatedContainer.className = 'ai-related-articles';
+    relatedContainer.style.cssText = 'margin-top: 15px; padding-top: 15px; border-top: 1px solid #e0e0e0; margin-left: 1.5em; margin-right: 1.5em;';
+    
+    // Crea il titolo
+    const title = document.createElement('h4');
+    title.textContent = 'Articoli correlati:';
+    title.style.cssText = 'font-size: 16px; font-weight: 600; margin-bottom: 10px; color: #333;';
+    
+    // Crea la lista
+    const list = document.createElement('ul');
+    list.style.cssText = 'margin: 0; padding-left: 20px; list-style-type: disc;';
+    
+    // Aggiungi ogni articolo correlato alla lista
+    relatedArticles.forEach(article => {
+      const link = article.querySelector('a');
+      if (link) {
+        const listItem = document.createElement('li');
+        listItem.style.cssText = 'margin-bottom: 5px;';
+        
+        const articleLink = document.createElement('a');
+        articleLink.href = link.href;
+        articleLink.textContent = link.title || link.querySelector('.leggi-anche-title')?.textContent || 'Articolo correlato';
+        articleLink.style.cssText = 'color: #15817f; text-decoration: none; font-size: 14px;';
+        
+        articleLink.addEventListener('mouseenter', () => {
+          articleLink.style.textDecoration = 'underline';
+        });
+        
+        articleLink.addEventListener('mouseleave', () => {
+          articleLink.style.textDecoration = 'none';
+        });
+        
+        listItem.appendChild(articleLink);
+        list.appendChild(listItem);
+      }
+    });
+    
+    // Assembla il container
+    relatedContainer.appendChild(title);
+    relatedContainer.appendChild(list);
+    
+    // Aggiungi il container dopo il riassunto
+    summaryContainer.appendChild(relatedContainer);
+  }
+  
+  // Aggiungi il disclaimer alla fine del box
+  const disclaimer = document.createElement('div');
+  disclaimer.className = 'ai-summary-disclaimer';
+  disclaimer.innerHTML = '<small><em>Discalimer: Questo riassunto è in fase di test. Se ci sono errori <a href="/blog/sake-il-gatto-viaggiatore-da-record-mondiale" style="color: #15817f;">è colpa di Sakè</a></em></small>';
+  disclaimer.style.cssText = 'color: black; font-size: 12px; margin-top: 15px; text-align: center;';
+  summaryContainer.appendChild(disclaimer);
+}
 
 //=================== AI Summary script end ===================
 

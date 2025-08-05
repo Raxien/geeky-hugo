@@ -13,6 +13,8 @@ Tutti vanno a Tokyo.Tutti vanno a Kyoto.Tutti fanno le stesse foto davanti agli 
 Ma il Giappone è molto, molto di più.
 Se stai cercando un itinerario alternativo in Giappone, sei nel posto giusto.Oggi ti portiamo con noi in un viaggio di 14 giorni nell’isola di Kyushu, dove abbiamo vissuto per 3 mesi a bordo del nostro camper.Una terra autentica, rurale, vulcanica e sorprendente, dove l’odore dello zolfo si mescola al profumo di pino e di ramen appena servito.
 
+{{< indice >}}
+
 ## Perché scegliere il Kyushu?
 Kyushu è il volto meno conosciuto del Giappone, ma è forse l’isola più affascinante: **vulcani attivi, onsen fumanti, templi nascosti nel verde, città con storie profonde, coste mozzafiato.**
 Ed è perfetta se hai la possibilità di noleggiare un’auto o un camper, perché **molte delle sue meraviglie sono fuori dalle rotte più battute**. A proposito, scopri [tutte le informazioni per guidare in Giappone qui.](/blog/guidare-in-giappone-tutto-quello-che-ce-da-sapere) Ma niente panico: anche con i mezzi pubblici puoi organizzare tutto, soprattutto fino alla tappa a Kumamoto. Basta un po’ più di tempo, pazienza e… Google Maps (che in Giappone è davvero un grande alleato!).

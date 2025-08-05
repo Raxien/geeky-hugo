@@ -9,10 +9,10 @@ type: featured
 continent: Asia
 country: Giappone
 ---
-
-
 Nagasaki, città portuale del Giappone meridionale, è oggi conosciuta in tutto il mondo non solo per la tragica esplosione atomica del 9 agosto 1945, **ma anche per la sua storia unica**, la ricchezza culturale e la capacità di rinascita.
 Prima della guerra, Nagasaki era un importante centro industriale e portuale: da secoli rappresentava la porta d’accesso al Giappone per gli occidentali, tanto che ancora oggi si riconosce un’impronta europea nell’architettura, nei giardini e nelle tradizioni culinarie, **eredità del passato cosmopolita della città.**
+
+{{< indice >}}
 
 ## La tragedia del 9 agosto 1945
 

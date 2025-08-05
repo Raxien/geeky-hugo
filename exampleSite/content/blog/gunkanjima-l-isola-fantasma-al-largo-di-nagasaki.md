@@ -11,6 +11,8 @@ country: Giappone
 ---
 A circa 20 km [dalla costa di Nagasaki](/blog/un-giorno-a-nagasaki-e-giro-extra-all-isola-fantasma-di-hashima/), emerge dal mare la sagoma inquietante e affascinante di **Hashima**, meglio conosciuta come **Gunkanjima**, l’“**isola nave da guerra**”. Il soprannome non è casuale: la sua forma massiccia e i suoi edifici in cemento armato sembrano il relitto di una città alla deriva, uno spettro del passato industriale del Giappone.
 
+{{< indice >}}
+
 ### Dalla roccia disabitata al cuore nero dell’industria
 
 La trasformazione di Hashima iniziò nel **1887**, quando la **Mitsubishi Corporation** acquistò l’isola dopo la scoperta di **depositi di carbone** sotto il suo fondale. Nel tempo, l’isola venne **ampliata artificialmente** per ospitare una vera e propria cittadella: miniere, palazzi residenziali, scuole, ospedali, infrastrutture. Il tutto su appena **6,3 ettari**.
