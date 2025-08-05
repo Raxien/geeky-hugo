@@ -2,7 +2,7 @@
 {{ $headings := findRE "(?m)^#{2,5}\\s+(.+)$" $content }}
 
 {{ if $headings }}
-<div class="table-of-contents-container">
+<div class="table-of-contents-container" data-ad-exclude="true">
   <blockquote class="table-of-contents-blockquote collapsed" id="table-of-contents-content">
     <h2 id="table-of-contents-toggle" class="table-of-contents-toggle">
       <span class="toggle-arrow"><i class="fas fa-chevron-right"></i></span>
