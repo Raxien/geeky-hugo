@@ -9,13 +9,13 @@ sponsored: true
 draft: false
 ---
 
-Quando abbiamo acquistato [il nostro Roadcar 540](/van) immaginavamo di utilizzarlo solo per le vacanze estive e per **fuggire ogni weekend possibile** anche solo a pochi km da Torino per vivere circondati dal verde delle colline e delle montagne piemontesi, motivo per cui un paio di batterie a gel ci sembravano più che sufficienti per le nostre necessità energetiche. Nel momento in cui però il van è diventato a tutti gli effetti la nostra casa ci siamo resi conto che la capacità energetica che avevamo a bordo non era così ottimale e questo è il motivo per cui abbiamo deciso di installare la batteria al litio della Creabest.
+Quando abbiamo acquistato [il nostro Roadcar 540](/van) immaginavamo di utilizzarlo solo per le vacanze estive e per **fuggire ogni weekend possibile** anche solo a pochi km da Torino per vivere circondati dal verde delle colline e delle montagne piemontesi, motivo per cui un paio di batterie a gel ci sembravano più che sufficienti per le nostre necessità energetiche. Nel momento in cui però il van è diventato a tutti gli effetti la nostra casa ci siamo resi conto che la capacità energetica che avevamo a bordo non era così ottimale e questo è il motivo per cui abbiamo **deciso di installare la batteria al litio della Creabest**.
 
 {{< indice >}}
 
 ## Un cambiamento importante
 
-Ogni giorno o quasi finora ci siamo ritrovati a dover caricare non solo il frigorifero a compressore, che seppur di ridotte dimensioni ha un assorbimento importante, ma anche due computer, due smartphone e una macchina fotografica e se mancava il sole per un giorno intero potevamo esser certi di andare a dormire con una minacciosa spia arancione, oltre a sperare di non svegliarci con le batterie del tutto scariche. Più di una volta ci è successo di svegliarci alle 6 del mattino e accendere subito il motore per evitare di buttar via le batterie a gel in quanto se la tensione va sotto gli 11.6V si rischia di rovinarle irrimediabilmente! 
+Ogni giorno o quasi finora ci siamo ritrovati a dover caricare non solo il frigorifero a compressore, che seppur di ridotte dimensioni ha un assorbimento importante, ma anche due computer, due smartphone e una macchina fotografica e se mancava il sole per un giorno intero potevamo esser certi di andare a dormire con una minacciosa spia arancione, oltre a sperare **di non svegliarci con le batterie del tutto scariche.** Più di una volta ci è successo di svegliarci alle 6 del mattino e accendere subito il motore per evitare di buttar via le batterie a gel in quanto se la tensione va sotto gli 11.6V si rischia di rovinarle irrimediabilmente! 
 
 {{< leggi-anche >}}
 
@@ -28,7 +28,7 @@ Detto ciò, quando ci si è presentata l’occasione di poter collaborare con un
 
 La batteria che ci offrivano, una **LiFePO4 12V da 200Ah**, avrebbe sostituito degnamente le nostre due batterie al gel da 95Ah l'una, donandoci notevoli benefici. 
 
-Non vi scriveremo un articolo tecnico sui componenti delle batterie né vi faremo una lezione di fisica perché non siamo minimamente le persone adatte. Vogliamo però raccontarvi quali sono i punti che ci hanno convinti una volta per tutte ad installare una batteria al litio:
+Non vi scriveremo un articolo tecnico sui componenti delle batterie né vi faremo una lezione di fisica p**erché non siamo minimamente le persone adatte.** Vogliamo però raccontarvi quali sono i punti che ci hanno convinti una volta per tutte ad installare una batteria al litio:
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/installazione-batterial-al-litio_abknzw.jpg">}}
 
@@ -50,7 +50,7 @@ Per esser precisi e concisi:
 2. capacità raddoppiata significa maggior autonomia il che si riflette nel poter lasciare il van all'ombra durante l'estate senza aver l'ansia di esser scarichi. Questo significa poter stare al fresco per più tempo ed è un bene sia per noi che, soprattutto, per i nostri animali.
 3. nelle giornate piovose possiamo tranquillamente sorseggiare un tè mentre lavoriamo a bordo senza impazzire per muoverci su strada e caricare le batterie.
 
-Una cosa che non abbiamo voluto cambiare è il cosidetto booster o convertitore DC-DC. Abbiamo voluto mantenere a bordo quello originale già installato della **Schaudt** da 25A che in moto e con il sole ci permette di caricare fino a 28/30Ah (con il frigo acceso e pannello in carica). Non è molto ma per il momento ci basta. Forse in futuro lo cambieremo, chissà.
+Una cosa che non abbiamo voluto cambiare è il cosidetto booster o convertitore DC-DC. Abbiamo voluto mantenere a bordo quello originale già installato della **{{< extLink "Schaudt da 25A" "https://amzn.to/4ll5mTb" >}}** che in moto e con il sole ci permette di caricare fino a 28/30Ah (con il frigo acceso e pannello in carica). Non è molto ma per il momento ci basta. Forse in futuro lo cambieremo, chissà.
 
 Per concludere quindi, è vero che il nostro utilizzo è al momento agli inizi ma siamo davvero felici di aver deciso di cambiare batteria e ringraziamo la Creabest per quest’opportunità e per la fiducia riposta in noi. 
 
