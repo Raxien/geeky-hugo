@@ -11,9 +11,13 @@ draft: false
 
 Quando abbiamo acquistato [il nostro Roadcar 540](/van) immaginavamo di utilizzarlo solo per le vacanze estive e per **fuggire ogni weekend possibile** anche solo a pochi km da Torino per vivere circondati dal verde delle colline e delle montagne piemontesi, motivo per cui un paio di batterie a gel ci sembravano più che sufficienti per le nostre necessità energetiche. Nel momento in cui però il van è diventato a tutti gli effetti la nostra casa ci siamo resi conto che la capacità energetica che avevamo a bordo non era così ottimale e questo è il motivo per cui abbiamo deciso di installare la batteria al litio della Creabest.
 
+{{< indice >}}
+
 ## Un cambiamento importante
 
 Ogni giorno o quasi finora ci siamo ritrovati a dover caricare non solo il frigorifero a compressore, che seppur di ridotte dimensioni ha un assorbimento importante, ma anche due computer, due smartphone e una macchina fotografica e se mancava il sole per un giorno intero potevamo esser certi di andare a dormire con una minacciosa spia arancione, oltre a sperare di non svegliarci con le batterie del tutto scariche. Più di una volta ci è successo di svegliarci alle 6 del mattino e accendere subito il motore per evitare di buttar via le batterie a gel in quanto se la tensione va sotto gli 11.6V si rischia di rovinarle irrimediabilmente! 
+
+{{< leggi-anche >}}
 
 Per chi non ci conoscesse e si stesse chiedendo perché non ci siamo appoggiati alle colonnine dei campeggi in queste situazioni risponderemo semplicemente per scelta personale ed economica. 
 Detto ciò, quando ci si è presentata l’occasione di poter collaborare con un’azienda tedesca, {{<extLink "la Creabest" "http://creabest.it">}}, produttrice di batterie per camper al litio, non ci siamo tirati indietro. 
@@ -32,10 +36,10 @@ Non vi scriveremo un articolo tecnico sui componenti delle batterie né vi farem
 2. **Tempo di vita più lungo**: **Creabest** garantisce 3000 cicli profondi.
 3. **Leggerissima**: pesa la metà rispetto alle nostre precedenti batterie al piombo a parità di stessa capacità.
 4. **Applicazione sul cellulare**: permette **in tempo reale** di monitorare lo stato della batteria con affidabilità. Basta connettere il proprio smartphone via bluetooth alla batteria tramite l'applicazione dedicata per sapere con precisione la percentuale della batteria rimanente, il che ci farà vivere molto meglio.
+5. **Sicurezza tramite controllo BMS**: il sistema di gestione della batteria (**battery managment system** o BMS) monitora e si adatta alle condizioni della batteria per massimizzare le prestazioni e garantire massima sicurezza. Quando la tensione e la corrente sono anormali il BMS spegne la batteria evitando problemi.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/app-controllo-batteria_no03jt.jpg">}}
 
-5. **Sicurezza tramite controllo BMS**: il sistema di gestione della batteria (**battery managment system** o BMS) monitora e si adatta alle condizioni della batteria per massimizzare le prestazioni e garantire massima sicurezza. Quando la tensione e la corrente sono anormali il BMS spegne la batteria evitando problemi.
 
 ## Un mese e più dopo
 
