@@ -1,6 +1,6 @@
 ---
 title: 'La Metropolitana di Istanbul: Un viaggio sostenibile nel cuore della città'
-description: 'Scopri 5 destinazioni vicino Fukuoka: templi antichi, spiagge poetiche, canali di Yanagawa, torii rossi di Ukiha e il Buddha sdraiato di Nanzoin. Natura, spiritualità e sapori autentici del Kyushu ti aspettano'
+description: 'Scopri la metropolitana di Istanbul: un sistema di trasporto rapido, economico e sostenibile per esplorare la città, collegando attrazioni come Sultanahmet, Taksim e Kadikoy con comfort e facilità.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1754562586/Articoli/turchia/guida-alla-metro-di-istanbul_noabdp.png
 date: 2025-08-05T07:00:00+01:00
 categories: ["Istanbul"]
@@ -34,9 +34,9 @@ Sei in difficoltà? Fai come noi! Osa e chiedi aiuto alla gente del posto. Sicur
 ### Tariffe
 
 Il costo di un viaggio in metropolitana è relativamente economico. Il prezzo di una corsa singola è di circa 25 TL (circa 0.52€) ma con la **Istanbulkart** scende a 17.7 TL (circa 0.37€), ma la carta ti permette di fare **più trasferimenti** a una tariffa più conveniente.
-Tieni presente che i prezzi delle corse potrebbero variare in base al mezzo sul quale si sale (per il treno subacqueo noi abbiamo pagato tariffa doppia). Inoltre per via dell'inflazione i prezi in lira turca vengono cambiati sovente.
+Tieni presente che i prezzi delle corse potrebbero variare in base al mezzo sul quale si sale (per il  (il famoso Marmaray) noi abbiamo pagato tariffa doppia). Inoltre per via dell'inflazione i prezzi in lira turca vengono cambiati sovente.
 
-A proposito? Lo sai che con la **Istanbulkart** [puoi anche fare una crociera sul Bosforo quasi gratuita?](/blog/la-crociera-sul-bosforo-lesperienza-quasi-gratuita-a-istanbul-che-nessuno-conosce)
+A proposito, lo sai che con la **Istanbulkart** [puoi anche fare una crociera sul Bosforo quasi gratuita?](/blog/la-crociera-sul-bosforo-lesperienza-quasi-gratuita-a-istanbul-che-nessuno-conosce)
 
 ## Perché Scegliere la Metropolitana di Istanbul
 
