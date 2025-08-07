@@ -46,7 +46,7 @@ Treno JR fino a Kido Nanzoin-mae, linea Sasaguri. Poi 5 minuti a piedi.
 Se sogni una giornata tra **spiagge tranquille, piccoli caffè con vista oceano e santuari vista tramonto**, Itoshima è il posto giusto.
 
 ### Cosa vedere:
-La famosa spiaggia di **Sakurai Futamigaura** con l'iconnico torii bianco nel mare e le due rocce sposate, perfetta al tramonto. Nelle vicinanze si trovano diversi caffè e bakery artigianali immersi nella natura
+La famosa spiaggia di **Sakurai Futamigaura** con l'iconico torii bianco nel mare e le due rocce sposate, perfetta al tramonto. Nelle vicinanze si trovano diversi caffè e bakery artigianali immersi nella natura
 
 ### Perché andarci
 - Atmosfera boho e rilassata, amata da creativi, surfisti e chi cerca pace.
@@ -62,7 +62,7 @@ Yanagawa è soprannominata la **"Venezia del Kyushu"** e con i suoi canali tranq
 
 ### Cosa fare:
 - **Donkobune cruise**: sali su una barca a remi e lasciati cullare dai canti dei battellieri mentre scivoli tra canali, ponticelli e giardini nascosti.
-- **Casa di Tachibana**: dimora storica di un clan samuraico.
+- **Casa di Tachibana**: dimora storica di un clan di samurai.
 - **Museo Kitahara Hakushu**: dedicato al poeta e paroliere nato a Yanagawa.
 
 ### Specialità da assaggiare
