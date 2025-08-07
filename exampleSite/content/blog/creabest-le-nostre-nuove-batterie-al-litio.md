@@ -40,7 +40,6 @@ Non vi scriveremo un articolo tecnico sui componenti delle batterie né vi farem
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/app-controllo-batteria_no03jt.jpg">}}
 
-
 ## Un mese e più dopo
 
 Il 6 Agosto 2023 abbiamo installato la nuova batteria al litio **della Creabest** e a un mese e mezzo dalla sua installazione (a proposito, trovi al fondo di questo articolo il video relativo all'installazione), non possiamo che esserne felici. 
