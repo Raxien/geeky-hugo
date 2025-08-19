@@ -1,4 +1,4 @@
-<!-- JS Plugins + Main script - Caricamento ottimizzato -->
+<!-- JS Plugins + Main script -->
 {{ $scripts := slice }}
 {{ range site.Params.plugins.js}}
 {{ if findRE "^http" .link }}
@@ -16,18 +16,13 @@
 {{ $adsScript := resources.Get "js/ads-optimizer.js" }}
 {{ $scripts = $scripts | append $mainScript | append $adsScript }}
 {{ $scripts = $scripts | resources.Concat "js/bundle.js" | minify | fingerprint "sha512" }}
-
-<!-- Script principale con caricamento ottimizzato -->
 <script crossorigin="anonymous" defer integrity="{{ $scripts.Data.Integrity }}" type="application/javascript">{{$scripts.Content | safeJS}}</script>
 
-<!-- Search script - caricamento asincrono -->
+<!-- Search script -->
 {{ $search := resources.Get "js/search.js" | resources.Minify }}
 {{ if $search }}
 <script src="{{ $search.RelPermalink }}" defer></script>
 {{ end }}
-
-<!-- Preload script critici per migliorare performance -->
-<link rel="preload" href="{{ $scripts.RelPermalink }}" as="script">
 
 {{$pf:= site.Params.variables.font_primary}}
 {{$sf:= site.Params.variables.font_secondary}}

@@ -210,20 +210,10 @@
 <link rel="dns-prefetch" href="https://platform.linkedin.com">
 <link rel="dns-prefetch" href="https://platform.twitter.com">
 
-<!-- Preload font essenziali per evitare layout shift -->
-<link rel="preload" href="{{ "fonts/Trattatello/trattatello-webfont.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="{{ "fonts/fontawesome/webfonts/fa-solid-900.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="{{ "fonts/fontawesome/webfonts/fa-brands-400.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
-
-<!-- Font Awesome CSS - Caricamento asincrono per non bloccare il rendering -->
-<link rel="preload" href="{{ "plugins/font-awesome/fontawesome.min.css" | relURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="{{ "plugins/font-awesome/fontawesome.min.css" | relURL }}"></noscript>
-
-<link rel="preload" href="{{ "plugins/font-awesome/brands.css" | relURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="{{ "plugins/font-awesome/brands.css" | relURL }}"></noscript>
-
-<link rel="preload" href="{{ "plugins/font-awesome/solid.css" | relURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="{{ "plugins/font-awesome/solid.css" | relURL }}"></noscript>
+<!-- Font Awesome CSS -->
+<link rel="stylesheet" type="text/css" href="{{ "plugins/font-awesome/fontawesome.min.css" | relURL }}">
+<link rel="stylesheet" type="text/css" href="{{ "plugins/font-awesome/brands.css" | relURL }}">
+<link rel="stylesheet" type="text/css" href="{{ "plugins/font-awesome/solid.css" | relURL }}">
 
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
@@ -239,13 +229,5 @@
     <link rel="preload" as="image" href="{{ .Params.image | absURL }}">
   {{ end }}
 {{ end }}
-
-<!-- Preload immagini critiche del sito -->
-<link rel="preload" as="image" href="{{ "images/logo.png" | relURL }}" type="image/png">
-<link rel="preload" as="image" href="{{ "images/banner.png" | relURL }}" type="image/png">
-
-<!-- Ottimizzazioni per Core Web Vitals -->
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: data: 'unsafe-inline' 'unsafe-eval'; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; img-src 'self' https: data: blob:; font-src 'self' https: data:; connect-src 'self' https: wss:; worker-src 'self' blob:;">
