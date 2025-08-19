@@ -1,20 +1,50 @@
 [build]
-  publish = "exampleSite/public"
-  command = "cd exampleSite && hugo --minify --gc --themesDir ../themes --theme geeky-hugo"
-  
+  publish = "public"
+  command = "hugo --gc --minify"
+
 [build.environment]
-  HUGO_VERSION = "0.145.0"
-  HUGO_THEME = "repo"
-  HUGO_BASEURL = "/"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+
+# Cache headers per risorse statiche
+[[headers]]
+  for = "/*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
 
 [[headers]]
-  for = "/*" # This defines which paths this specific [[headers]] block will cover.
+  for = "/*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
 
-[headers.values]
-  X-Frame-Options = "DENY"
-  X-XSS-Protection = "1; mode=block"
-  Referrer-Policy = "same-origin"
-  Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
-  Access-Control-Allow-Origin = "*"
-  Access-Control-Allow-Methods = "GET, POST, OPTIONS"
-  Access-Control-Allow-Headers = "Content-Type, Authorization"
+[[headers]]
+  for = "/fonts/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+    Access-Control-Allow-Origin = "*"
+
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/plugins/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Headers per sicurezza
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Redirect per font (se necessario)
+[[redirects]]
+  from = "/fonts/*"
+  to = "/fonts/:splat"
+  status = 200
+  headers = {Access-Control-Allow-Origin = "*"}
