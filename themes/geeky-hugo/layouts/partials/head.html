@@ -91,8 +91,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 {{ with site.Params.country }}<meta name="country" content="{{ . }}">{{ end }}
-{{ if hugo.IsProduction }}{{ with site.Params.ai_summary_enabled }}<meta name="ai-summary-enabled" content="{{ . }}">{{ end }}{{ end }}
+{{ with site.Params.ai_summary_enabled }}<meta name="ai-summary-enabled" content="{{ . }}">{{ end }}
 {{ hugo.Generator }}
+
 
 <!-- favicon -->
 {{ $favicon:= site.Params.favicon }}

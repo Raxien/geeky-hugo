@@ -176,6 +176,24 @@
           </li>
           {{end}}
         </ul>
+        
+        <!-- Placeholder per il riassunto AI - previene CLS -->
+        {{ if and (eq .Section "post") (or (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags")) }}
+        <div class="ai-summary-placeholder" style="display: none; height: 0; overflow: hidden;">
+          <div class="ai-summary-container loading" style="margin: 0; padding: 0; min-height: 0;">
+            <div class="ai-summary-header" style="display: none;">
+              <i class="fas fa-cat"></i>
+              <span>Riassunto</span>
+              <button class="ai-summary-toggle" style="opacity: 0;">
+                <span class="toggle-arrow rotated"><i class="fas fa-chevron-right"></i></span>
+                <span class="button-text"> Comprimi</span>
+              </button>
+            </div>
+            <div class="ai-summary-content" style="display: none;"></div>
+          </div>
+        </div>
+        {{ end }}
+        
         <div class="content drop-cap">
           {{ $content := .Content | safeHTML }}
           {{ $paragraphs := split $content "<p>" }}

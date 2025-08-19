@@ -2043,6 +2043,66 @@ body.offcanvas-open {
   transition: all 0.3s ease;
 }
 
+.ai-summary-placeholder {
+  // Il placeholder è nascosto di default ma occupa spazio
+  visibility: hidden;
+  height: 0;
+  overflow: hidden;
+  
+  // Quando viene mostrato, diventa visibile
+  &.active {
+    visibility: visible;
+    height: auto;
+    overflow: visible;
+  }
+}
+
 .ai-summary-container {
+  background: white;
+  border-radius: 20px;
   padding: 10px 20px;
+  position: relative;
+  min-height: 120px; // Altezza minima per prevenire CLS
+  margin: 20px 0;
+  color: #333;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(21, 129, 127, 0.2);
+  transition: all 0.3s ease;
+  
+  // Placeholder per prevenire CLS - visibile solo quando non c'è contenuto
+  &:empty::before {
+    content: '';
+    display: block;
+    height: 120px;
+    background: transparent;
+  }
+  
+  // Placeholder per il contenuto in caricamento
+  &.loading::before {
+    content: 'Caricamento riassunto...';
+    display: block;
+    height: 120px;
+    line-height: 120px;
+    text-align: center;
+    color: #999;
+    font-style: italic;
+  }
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background: linear-gradient(135deg, #15817f 0%, #0a4a48 100%);
+    border-radius: 22px;
+    z-index: -1;
+  }
+  
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(21, 129, 127, 0.3);
+  }
 }

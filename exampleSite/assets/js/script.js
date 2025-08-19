@@ -551,22 +551,65 @@ const color = [ 'rgba(255, 99, 132, 1)',
 //=================== AI Summary script start ===================
 let summaryAnimationInterval;
 
-// Funzione per creare l'elemento di riassunto
+// Funzione per creare l'elemento del riassunto
 function createSummaryElement() {
   const articleContent = document.querySelector('.content.drop-cap');
   if (!articleContent) return null;
 
-  // Controlla se l'articolo ha più di 1000 caratteri
   const textContent = articleContent.textContent || articleContent.innerText;
   if (textContent.length < 1500) return null;
 
-  // Controlla se esiste già un riassunto
-  const existingSummary = document.querySelector('.ai-summary-container');
+  // Controlla se esiste già un riassunto attivo
+  const existingSummary = document.querySelector('.ai-summary-container:not(.ai-summary-placeholder .ai-summary-container)');
   if (existingSummary) return existingSummary;
 
-  // Crea il container del riassunto
+  // Cerca il placeholder esistente
+  const placeholder = document.querySelector('.ai-summary-placeholder');
+  if (placeholder) {
+    // Mostra il placeholder e rimuovi la classe loading
+    placeholder.style.display = 'block';
+    placeholder.style.height = 'auto';
+    placeholder.style.overflow = 'visible';
+    placeholder.classList.add('active');
+    const container = placeholder.querySelector('.ai-summary-container');
+    if (container) {
+      // Ripristina gli stili del container
+      container.style.margin = '';
+      container.style.padding = '';
+      container.style.minHeight = '';
+      
+      // Mostra header e content
+      const header = container.querySelector('.ai-summary-header');
+      const content = container.querySelector('.ai-summary-content');
+      if (header) header.style.display = '';
+      if (content) content.style.display = '';
+      
+      // Sposta il container dal placeholder alla posizione corretta
+      const cardMeta = document.querySelector('ul.list-inline.card-meta');
+      if (cardMeta) {
+        cardMeta.parentNode.insertBefore(container, cardMeta.nextSibling);
+      } else {
+        // Fallback: inserisci dopo il titolo se i metadati non esistono
+        const title = document.querySelector('h1.mb-4');
+        if (title) {
+          title.parentNode.insertBefore(container, title.nextSibling);
+        } else {
+          articleContent.parentNode.insertBefore(container, articleContent);
+        }
+      }
+      
+      // Rimuovi la classe loading dopo un breve delay per permettere il rendering
+      setTimeout(() => {
+        container.classList.remove('loading');
+      }, 50);
+      
+      return container;
+    }
+  }
+
+  // Fallback: crea un nuovo container se il placeholder non esiste
   const summaryContainer = document.createElement('div');
-  summaryContainer.className = 'ai-summary-container';
+  summaryContainer.className = 'ai-summary-container loading';
   summaryContainer.setAttribute('data-ad-exclude', 'true');
 
   // Crea l'header del riassunto
@@ -574,7 +617,7 @@ function createSummaryElement() {
   summaryHeader.className = 'ai-summary-header';
     summaryHeader.innerHTML = `
     <i class="fas fa-cat"></i>
-    <span>Riassunto AI</span>
+    <span>Riassunto</span>
     <button class="ai-summary-toggle" style="opacity: 0;">
       <span class="toggle-arrow rotated"><i class="fas fa-chevron-right"></i></span><span class="button-text"> Comprimi</span>
     </button>
@@ -602,15 +645,10 @@ function createSummaryElement() {
     }
   }
   
-  // Animazione di entrata fluida
-  summaryContainer.style.opacity = '0';
-  summaryContainer.style.transform = 'translateY(-20px)';
-  summaryContainer.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
-  
+  // Rimuovi la classe loading dopo un breve delay per permettere il rendering
   setTimeout(() => {
-    summaryContainer.style.opacity = '1';
-    summaryContainer.style.transform = 'translateY(0)';
-  }, 100);
+    summaryContainer.classList.remove('loading');
+  }, 50);
 
   return summaryContainer;
 }
@@ -778,6 +816,16 @@ function cleanContentForSummary(contentElement) {
 // Funzione per ottenere il riassunto dall'API
 async function getSummaryFromAPI(title, content, url) {
   try {
+    // Crea una chiave di cache unica basata su titolo e URL
+    const cacheKey = `ai_summary_${btoa(title + url).replace(/[^a-zA-Z0-9]/g, '')}`;
+    
+    // Controlla se esiste già in cache
+    const cachedSummary = getCachedData(cacheKey);
+    if (cachedSummary) {
+      console.log('Riassunto caricato dalla cache');
+      return cachedSummary;
+    }
+    
     const response = await fetch(`${rpcUrl}/data/summary`, {
       method: 'POST',
       headers: {
@@ -797,7 +845,13 @@ async function getSummaryFromAPI(title, content, url) {
     const data = await response.json();
     const rawText = data.summary || data.text || 'Riassunto non disponibile';
     console.log('Testo ricevuto dall\'API:', rawText);
-    return formatSummaryText(rawText);
+    
+    const formattedSummary = formatSummaryText(rawText);
+    
+    // Salva in cache per 24 ore
+    setCachedData(cacheKey, formattedSummary);
+    
+    return formattedSummary;
   } catch (error) {
     console.error('Errore nel recupero del riassunto:', error);
     return '<p>Errore nel generare il riassunto. Riprova più tardi.</p>';
@@ -824,32 +878,57 @@ async function handleArticleSummary() {
   const content = cleanContentForSummary(contentElement);
   const currentUrl = window.location.href;
   
-  // Avvia l'animazione di caricamento
-  startSummaryAnimation(summaryContent);
+  // Crea la chiave di cache per verificare se esiste già
+  const cacheKey = `ai_summary_${btoa(title + currentUrl).replace(/[^a-zA-Z0-9]/g, '')}`;
+  const isCached = getCachedData(cacheKey);
   
-  // Simula un delay di 1.5 secondi per dare l'illusione che l'AI stia ragionando
-  await new Promise(resolve => setTimeout(resolve, 1500));
-  
-  // Ferma l'animazione
-  stopSummaryAnimation();
-  
-  // Ottieni il riassunto dall'API
-  const summary = await getSummaryFromAPI(title, content, currentUrl);
-  
-  // Mostra il riassunto con l'effetto di scrittura
-  await typeWriter(summaryContent, summary);
-
-  // Cerca articoli correlati e aggiungi la lista
-  addRelatedArticles(summaryContainer);
-
-  // Mostra il pulsante con effetto fade-in
-  toggleButton.style.opacity = '0';
-  toggleButton.style.transition = 'opacity 0.5s ease-in-out';
-  
-  // Trigger del fade-in
-  setTimeout(() => {
+  if (isCached) {
+    // Se è in cache, mostra subito il riassunto senza animazioni
+    console.log('Riassunto trovato in cache, caricamento immediato');
+    summaryContent.innerHTML = isCached;
+    
+    // Cerca articoli correlati e aggiungi la lista
+    addRelatedArticles(summaryContainer);
+    
+    // Rimuovi completamente la classe loading
+    summaryContainer.classList.remove('loading');
+    
+    // Mostra subito il pulsante
     toggleButton.style.opacity = '1';
-  }, 100);
+  } else {
+    // Se non è in cache, mostra l'animazione di caricamento
+    console.log('Riassunto non in cache, generazione in corso...');
+    
+    // Avvia l'animazione di caricamento
+    startSummaryAnimation(summaryContent);
+    
+    // Simula un delay di 1.5 secondi per dare l'illusione che l'AI stia ragionando
+    await new Promise(resolve => setTimeout(resolve, 1500));
+    
+    // Ferma l'animazione
+    stopSummaryAnimation();
+    
+    // Ottieni il riassunto dall'API
+    const summary = await getSummaryFromAPI(title, content, currentUrl);
+    
+    // Mostra il riassunto con l'effetto di scrittura
+    await typeWriter(summaryContent, summary);
+
+    // Cerca articoli correlati e aggiungi la lista
+    addRelatedArticles(summaryContainer);
+
+    // Rimuovi completamente la classe loading per indicare che il contenuto è completo
+    summaryContainer.classList.remove('loading');
+
+    // Mostra il pulsante con effetto fade-in
+    toggleButton.style.opacity = '0';
+    toggleButton.style.transition = 'opacity 0.5s ease-in-out';
+    
+    // Trigger del fade-in
+    setTimeout(() => {
+      toggleButton.style.opacity = '1';
+    }, 100);
+  }
 
   // Gestione del pulsante toggle per comprimere/espandere (logica copiata dall'indice)
   let isExpanded = true;
@@ -884,6 +963,9 @@ async function handleArticleSummary() {
 
 // Inizializza il riassunto quando la pagina è caricata
 document.addEventListener('DOMContentLoaded', () => {
+  // Incrementa il contatore delle pagine visitate
+  incrementPageViews();
+  
   // Controlla se siamo in una pagina di articolo e se l'AI è abilitato
   if (document.querySelector('.content.drop-cap')) {
     // Controlla se l'AI summary è abilitato tramite meta tag o variabile globale
@@ -955,6 +1037,72 @@ function addRelatedArticles(summaryContainer) {
   disclaimer.innerHTML = '<small><em>Discalimer: Questo riassunto è in fase di test. Se ci sono errori <a href="/blog/sake-gatto-viaggiatore-record-mondiale" style="color: #15817f;">è colpa di Sakè</a></em></small>';
   disclaimer.style.cssText = 'color: black; font-size: 12px; margin-top: 15px; text-align: center;';
   summaryContainer.appendChild(disclaimer);
+}
+
+//=================== AI Summary script end ===================
+
+// Funzione per precaricare i riassunti AI delle pagine più visitate
+async function preloadAISummaries() {
+  // Gestisci automaticamente la dimensione della cache
+  manageAISummaryCache();
+  
+  // Lista delle pagine più popolari per precaricare i riassunti
+  const popularPages = [
+    '/blog/10-cose-essenziali-da-portare-in-viaggio',
+    '/blog/come-entrare-in-giappone-con-un-veicolo-senza-carnet-de-passages',
+    '/blog/100000-km-in-camper',
+    '/blog/andalusia-on-the-road-alla-scoperta-di-setenil-de-las-bodegas-e-ronda'
+  ];
+  
+  // Precarica solo se l'utente ha navigato su almeno 2 pagine (indicatore di interesse)
+  const pageViews = sessionStorage.getItem('pageViews') || 0;
+  if (pageViews < 2) return;
+  
+  console.log('Precaricamento riassunti AI per pagine popolari...');
+  
+  for (const pagePath of popularPages) {
+    try {
+      const cacheKey = `ai_summary_${btoa('Pagina popolare' + pagePath).replace(/[^a-zA-Z0-9]/g, '')}`;
+      
+      // Controlla se è già in cache
+      if (!getCachedData(cacheKey)) {
+        // Fai una richiesta di background per precaricare
+        fetch(`${rpcUrl}/data/summary`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            title: 'Pagina popolare',
+            content: 'Contenuto di esempio per precaricamento',
+            url: pagePath
+          })
+        }).then(response => response.json())
+        .then(data => {
+          const summary = data.summary || data.text || '';
+          if (summary) {
+            setCachedData(cacheKey, formatSummaryText(summary));
+            console.log(`Riassunto precaricato per: ${pagePath}`);
+          }
+        }).catch(error => {
+          console.log(`Errore nel precaricamento per ${pagePath}:`, error);
+        });
+      }
+    } catch (error) {
+      console.log(`Errore nel precaricamento per ${pagePath}:`, error);
+    }
+  }
+}
+
+// Incrementa il contatore delle pagine visitate
+function incrementPageViews() {
+  const currentViews = parseInt(sessionStorage.getItem('pageViews') || '0');
+  sessionStorage.setItem('pageViews', (currentViews + 1).toString());
+  
+  // Se è la seconda pagina, avvia il precaricamento
+  if (currentViews + 1 === 2) {
+    setTimeout(preloadAISummaries, 1000); // Delay di 1 secondo per non interferire con la navigazione
+  }
 }
 
 //=================== AI Summary script end ===================
@@ -2269,4 +2417,81 @@ document.addEventListener('DOMContentLoaded', function() {
     initTableOfContents();
   }, 100);
 });
+
+// Funzione per pulire la cache dei riassunti AI
+function clearAISummaryCache() {
+  const keys = Object.keys(localStorage);
+  const aiSummaryKeys = keys.filter(key => key.startsWith('ai_summary_'));
+  
+  aiSummaryKeys.forEach(key => {
+    localStorage.removeItem(key);
+  });
+  
+  console.log(`Cache riassunti AI pulita: rimossi ${aiSummaryKeys.length} elementi`);
+}
+
+// Funzione per ottenere statistiche della cache dei riassunti AI
+function getAISummaryCacheStats() {
+  const keys = Object.keys(localStorage);
+  const aiSummaryKeys = keys.filter(key => key.startsWith('ai_summary_'));
+  
+  const stats = {
+    total: aiSummaryKeys.length,
+    size: 0,
+    oldest: null,
+    newest: null
+  };
+  
+  aiSummaryKeys.forEach(key => {
+    try {
+      const cached = JSON.parse(localStorage.getItem(key));
+      if (cached && cached.timestamp) {
+        const age = Date.now() - cached.timestamp;
+        stats.size += JSON.stringify(cached).length;
+        
+        if (!stats.oldest || age > (Date.now() - stats.oldest)) {
+          stats.oldest = cached.timestamp;
+        }
+        if (!stats.newest || age < (Date.now() - stats.newest)) {
+          stats.newest = cached.timestamp;
+        }
+      }
+    } catch (error) {
+      console.log(`Errore nell'analisi della cache per ${key}:`, error);
+    }
+  });
+  
+  return stats;
+}
+
+// Funzione per controllare e gestire la dimensione della cache dei riassunti AI
+function manageAISummaryCache() {
+  const stats = getAISummaryCacheStats();
+  const maxSize = 5 * 1024 * 1024; // 5MB limite massimo
+  
+  if (stats.size > maxSize || stats.total > 50) {
+    console.log('Cache riassunti AI troppo grande, pulizia automatica...');
+    
+    // Rimuovi i riassunti più vecchi
+    const keys = Object.keys(localStorage);
+    const aiSummaryKeys = keys.filter(key => key.startsWith('ai_summary_'));
+    
+    // Ordina per timestamp (più vecchi prima)
+    const sortedKeys = aiSummaryKeys.sort((a, b) => {
+      try {
+        const aData = JSON.parse(localStorage.getItem(a));
+        const bData = JSON.parse(localStorage.getItem(b));
+        return (aData.timestamp || 0) - (bData.timestamp || 0);
+      } catch {
+        return 0;
+      }
+    });
+    
+    // Rimuovi il 30% più vecchio
+    const keysToRemove = sortedKeys.slice(0, Math.ceil(sortedKeys.length * 0.3));
+    keysToRemove.forEach(key => localStorage.removeItem(key));
+    
+    console.log(`Rimossi ${keysToRemove.length} riassunti dalla cache`);
+  }
+}
   
