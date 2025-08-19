@@ -30,7 +30,7 @@ Per importare un animale in Giappone, è necessario seguire un processo che iniz
 Tutti gli animali che entrano in Giappone devono essere dotati di un microchip conforme agli standard ISO 11784/11785, che deve essere impiantato prima della vaccinazione antirabbica. **Assicurati che il microchip sia leggibile e registrato correttamente**, poiché sarà utilizzato per identificare il tuo animale durante le ispezioni.
 
 * **Vaccinazione Antirabbica**
-Ogni cane o gatto che entra in Giappone deve essere stato vaccinato contro la rabbia. Sono richieste almeno due vaccinazioni contro la rabbia, e il periodo di validità non deve scadere al momento dell’ingresso. Attenzione, il tuo animale deve avere minimo 91 giorni prima di poter ricevere la prima dose di vaccino (leggi [quest'articolo per maggiori informazioni](/blog/viaggiare-con-cane-e-gatto-tutto-quello-che-devi-sapere.md)).
+Ogni cane o gatto che entra in Giappone deve essere stato vaccinato contro la rabbia. Sono richieste almeno due vaccinazioni contro la rabbia, e il periodo di validità non deve scadere al momento dell’ingresso. Attenzione, il tuo animale deve avere minimo 91 giorni prima di poter ricevere la prima dose di vaccino (leggi [quest'articolo per maggiori informazioni](/blog/viaggiare-cane-gatto-guida-completa.md)).
 
 * **Test degli Anticorpi Antirabbici**
 Un passaggio fondamentale è il test degli anticorpi contro la rabbia. Questo test è necessario per garantire che il tuo animale abbia un livello sufficiente di anticorpi per proteggerlo dalla rabbia e i risultati devono mostrare **che il titolo anticorpale è uguale o superiore a 0,5 UI/ml.**

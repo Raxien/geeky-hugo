@@ -20,7 +20,7 @@ L'eSIM di Japan Wireless **è la scelta perfetta** per i viaggiatori solitari:
 * **Copertura nazionale:** Rimani connesso in tutto il Giappone, dalle città alle aree rurali.
 * **Nessun dispositivo extra:** Usa il tuo smartphone compatibile senza dover portare altri apparecchi.
 
-{{< leggi-anche url="/blog/viaggio-giappone-informazioni-e-itinerari">}}
+{{< leggi-anche url="/blog/viaggio-giappone-guida-itinerari">}}
 
 ## Router WiFi Portatile: Connessione per Tutti i Tuoi Dispositivi
 Per chi viaggia in gruppo o necessita di connettere più dispositivi, il router WiFi portatile è l'ideale:

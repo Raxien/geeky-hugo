@@ -69,7 +69,7 @@ In questa sezione vi proponiamo due itinerari che potete seguire utilizzando i m
 In un capitolo finale troverete i luoghi che secondo noi meritano maggiormente!
 
 ### 8 Giorni
-L'itinerario **classico**. Permette di assaporare il Giappone in 8 giorni e vedere le principali attrazioni dalla futuristica **Tokyo** all'antica capitale di **Kyoto**, passando per **Kamakura** e **[Nara](/blog/nara-in-un-giorno-tra-templi-cervi-curiosi-e-foreste-silenziose)**.
+L'itinerario **classico**. Permette di assaporare il Giappone in 8 giorni e vedere le principali attrazioni dalla futuristica **Tokyo** all'antica capitale di **Kyoto**, passando per **Kamakura** e **[Nara](/blog/nara-un-giorno-templi-cervi-foreste)**.
 Partenza dall'aeroporto di Narita e rientro dall'Aeroporto Internazionale di Osaka.
 
 **{{< underline "Giorno 1">}}** arrivo all'aeroporto di Narita e trasferimento a Tokyo tramite treno. Visita del parco di **{{< bold "Ueno">}}** e spostamento in serata al quartiere di **{{< bold "Akihabara">}}**.
@@ -87,7 +87,7 @@ In serata passeggiata presso il **{{< bold "Golden Gai">}}**.
 
 **{{< underline "Giorno 6">}}** visita del **{{< bold "tempio d'oro (Kinkakuji)">}}** e del giardino roccioso nel **{{< bold "tempio Ryōan-ji">}}**. Spostamento nel quartiere di **{{< bold "Arashiyama">}}** per vedere la **{{< bold "foresta di bambù">}}** e il **{{< bold "tempio Tenryū-ji">}}**. In ultimo visita del **{{< bold "Saga Toriimoto">}}**, un delizioso vialetto costeggiato da diverse case in legno.
 
-**{{< underline "Giorno 7">}}** sveglia presto per andare a camminare al **{{< bold "Fushimi Inari">}}**. Nel pomeriggio spostamento a **[Nara](/blog/nara-in-un-giorno-tra-templi-cervi-curiosi-e-foreste-silenziose)** e visita del **{{< bold "tempio Toda-ji">}}** (attenzione ai cerbiatti affamati!).
+**{{< underline "Giorno 7">}}** sveglia presto per andare a camminare al **{{< bold "Fushimi Inari">}}**. Nel pomeriggio spostamento a **[Nara](/blog/nara-un-giorno-templi-cervi-foreste)** e visita del **{{< bold "tempio Toda-ji">}}** (attenzione ai cerbiatti affamati!).
 
 **{{< underline "Giorno 8">}}** mattina dedicata alla **{{< bold "passeggiata del filoso">}}** e visita dei suoi numerosi santuari. Nel primo pomeriggio trasferimento a **Osaka** tramite shinkansen (14 minuti da Kyoto) per visitare il suo iconico (anche se ora è una replica) Castello e il **quartiere Minami**. In serata transfer verso l'Aeroporto Internazionale di Osaka.
 
@@ -120,7 +120,7 @@ In serata passeggiata presso il **{{< bold "Golden Gai">}}**.
 
 {{< carousel images="Articoli/Giappone/bar-tokyo-ragazza_xgfakr.jpg,Articoli/Giappone/Shirakawa-Go-case_vwrlka.jpg,Articoli/Giappone/antiche-case-giapponesi_c1toth.jpg,Articoli/Giappone/ostriche-myashima_by6pix.jpg">}}
 
-**{{< underline "Giorno 11">}}** sveglia presto per andare a camminare al **{{< bold "Fushimi Inari">}}**. Nel pomeriggio spostamento a **[Nara](/blog/nara-in-un-giorno-tra-templi-cervi-curiosi-e-foreste-silenziose)** e visita del **{{< bold "tempio Toda-ji">}}** (attenzione ai numerosi cerbiatti affamati).
+**{{< underline "Giorno 11">}}** sveglia presto per andare a camminare al **{{< bold "Fushimi Inari">}}**. Nel pomeriggio spostamento a **[Nara](/blog/nara-un-giorno-templi-cervi-foreste)** e visita del **{{< bold "tempio Toda-ji">}}** (attenzione ai numerosi cerbiatti affamati).
 
 **{{< underline "Giorno 12">}}** direzione **{{< bold "Hiroshima">}}** tramite _Shinkansen_ in 2 ore. Giornata dedicata alla visita del suggestivo parco Shukkeien, il memoriale della pace e la città. Nel pomeriggio visita dell'isola di **{{< bold "Miyajima">}}** e del suggestivo Torii nell'acqua raggiungibile con un treno (30 minuti) e poi in traghetto (15 minuti).
 

@@ -11,7 +11,7 @@ draft: false
 pinterest: 
 ---
 
-**Stai pensando di visitare Madrid in camper?** Il primo consiglio che ci viene da darti è quello di fare molta attenzione, perché se non hai {{<extLink "il bollino verde per la ZTL" "https://it.urbanaccessregulations.eu/countries-mainmenu-147/spain/madrid-lez">}} locale non puoi accedere nemmeno al primo anello della tangenziale senza rischiare di prendere una multa. **Dal 2025 Madrid sarà inavvicinabile con le 4 ruote.**
+**Stai pensando di visitare Madrid in camper?** Il primo consiglio che ci viene da darti è quello di fare molta attenzione, perché se non hai {{< extLink "il bollino verde per la ZTL" "https://it.urbanaccessregulations.eu/countries-mainmenu-147/spain/madrid-lez">}} locale non puoi accedere nemmeno al primo anello della tangenziale senza rischiare di prendere una multa. **Dal 2025 Madrid sarà inavvicinabile con le 4 ruote.**
 
 In base alla nostra esperienza ti consigliamo di [parcheggiare qui](#le-nostre-mappe), da dove puoi raggiungere il centro città in 40 minuti a piedi o con due fermate di metro. 
 
@@ -26,13 +26,13 @@ In questo polmone verde cittadino ci si può letteralmente perdere a passeggio. 
 Si tratta di una delle strade più famose di Madrid, dove ci si può perdere fra le vetrine di negozi di marca e ristoranti, oltre a imbattersi negli edifici più iconici della città. Piccola curiosità, nel suo momento d'oro era chiamata **"la broadway madrilegna".**
 
 ### 3. Passeggiare per Calle De La Luna
-Dalla Gran Via se ti dirigi verso il quartiere universitario puoi percorrere {{<extLink "questa piccola via" "https://goo.gl/maps/oLNBcahwtBKtXXPg7">}} definita **la mecca dei manga**! Per un attimo ti sembrerà di essere in un quartiere del [Giappone](/blog/viaggio-giappone-informazioni-e-itinerari) e potrai sbirciare tra le pagine di numerosi fumetti. Se ti viene fame non esitare ad assaggiare il {{<extLink "miglior Ramen di Madrid" "https://igoramen.business.site/">}}.
+Dalla Gran Via se ti dirigi verso il quartiere universitario puoi percorrere {{< extLink "questa piccola via" "https://goo.gl/maps/oLNBcahwtBKtXXPg7">}} definita **la mecca dei manga**! Per un attimo ti sembrerà di essere in un quartiere del [Giappone](/blog/viaggio-giappone-guida-itinerari) e potrai sbirciare tra le pagine di numerosi fumetti. Se ti viene fame non esitare ad assaggiare il {{< extLink "miglior Ramen di Madrid" "https://igoramen.business.site/">}}.
 
 ### 4. Sederti per una pausa in Piazza di Spagna
 Per un attimo ti verrà voglia di chiudere gli occhi e immaginarti a **New York sui gradini della Public Library** o almeno questo è stato l'effetto che ha fatto a noi!
 
 ### 5. Ammirare il panorama della città dall’alto
-Esistono molti punti panoramici per vedere Madrid dall'alto ma solo uno ti permetterà di farlo gratuitamente! Salendo al 9° piano del centro commerciale **{{<extLink "El Corte Inglés" "https://goo.gl/maps/zXx18ArPCsHwcoKz8">}}** troverai una bellissima terrazza con vista **sull'elegantissima Gran Vía!**. Potrai anche fare colazione o uno spuntino o aperitivo seduto su uno degli sgabelli del bar/ristorante.
+Esistono molti punti panoramici per vedere Madrid dall'alto ma solo uno ti permetterà di farlo gratuitamente! Salendo al 9° piano del centro commerciale **{{< extLink "El Corte Inglés" "https://goo.gl/maps/zXx18ArPCsHwcoKz8">}}** troverai una bellissima terrazza con vista **sull'elegantissima Gran Vía!**. Potrai anche fare colazione o uno spuntino o aperitivo seduto su uno degli sgabelli del bar/ristorante.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689672120/Articoli/empanada/madrid/IMG_3566_qnqhwy.jpg">}}
 
@@ -70,7 +70,7 @@ A due passi dalla cattedrale ci si può concedere una passeggiata nei giardini d
 ## Ti è venuta fame? 
 In ogni angolo troverai un locale dove consumare tapas, ma ti consigliamo di non perderti il famoso boccadillo della città: **El Bocadillo de Calamares**, ovvero il panino con i calamari fritti! Fa strano che nel centro della Spagna, a ben 350 km dalla costa, il piatto tipico siano i calamari. Il motivo? **Nessuno lo sa**, ma così è. Buon appetito 😂
 
-Se cerchi bene puoi trovare qualche buona offerta, noi ne abbiamo preso uno {{<extLink "da asporto a 3,95 euro" "https://goo.gl/maps/RL1j29kre6bmYvYh6">}} e l'abbiamo consumato al fresco nel [giardino botanico](#4-ammirare-gli-interni-della-stazione-di-atocha). **Era a dir poco delizioso!**
+Se cerchi bene puoi trovare qualche buona offerta, noi ne abbiamo preso uno {{< extLink "da asporto a 3,95 euro" "https://goo.gl/maps/RL1j29kre6bmYvYh6">}} e l'abbiamo consumato al fresco nel [giardino botanico](#4-ammirare-gli-interni-della-stazione-di-atocha). **Era a dir poco delizioso!**
 
 ## Cosa ne pensiamo di Madrid?
 Purtroppo Madrid, fra tutte le capitali europee, è quella che finora **ci ha emozionati di meno.** 

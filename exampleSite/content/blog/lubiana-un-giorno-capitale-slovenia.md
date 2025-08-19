@@ -10,7 +10,7 @@ type: featured
 draft: false
 ---
 
-Lubiana è una delle capitali europee meno conosciute e più piccole, eppure **racchiude un fascino particolare misto a un'atmosfera conviviale e giovanile**. Visto che non è enorme si visita tranquillamente a piedi in un giorno o in un weekend e permette di raggiungere facilmente altre mete del paese ([che trovi comodamente qui](/blog/slovenia-in-camper-5-giorni-tra-montagne-e-borghi-storici)). 
+Lubiana è una delle capitali europee meno conosciute e più piccole, eppure **racchiude un fascino particolare misto a un'atmosfera conviviale e giovanile**. Visto che non è enorme si visita tranquillamente a piedi in un giorno o in un weekend e permette di raggiungere facilmente altre mete del paese ([che trovi comodamente qui](/blog/slovenia-camper-5-giorni-montagne-borghi-storici)). 
 
 Ecco allora le 8 cose da vedere a Lubiana in un tour a piedi per non perdersi niente di questa fantastica capitale!
 

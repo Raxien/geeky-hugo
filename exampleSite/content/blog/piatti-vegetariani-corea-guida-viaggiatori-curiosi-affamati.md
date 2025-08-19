@@ -16,7 +16,7 @@ Ecco alcuni piatti che abbiamo assaggiato e che consigliamo a chi cerca sapori a
 ## 1. Bibimbap (비빔밥) – Il riso con di tutto e un po’
 Riso bianco, verdure saltate, germogli, funghi, alghe, gochujang (la crema di peperoncino dolce) e un uovo in cima. **Basta chiedere di non aggiungere la carne** (e ricordatevi di dirlo, sennò ve la metteranno!) e si ha un piatto nutriente e bilanciato.
 
-📍 Consiglio: [Provatelo a Jeonju, la città dove è nato.](/blog/jeonju-un-viaggio-nella-cultura-e-nei-sapori-della-corea-del-sud)
+📍 Consiglio: [Provatelo a Jeonju, la città dove è nato.](/blog/jeonju-viaggio-cultura-sapori-corea-del-sud)
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1753337836/Articoli/Corea/bibimbap-corea-del-sud_fcrucr.png" >}}
 

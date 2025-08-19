@@ -51,7 +51,7 @@ Per il cane per comodità e sicurezza, per il gatto perché è più difficile da
 ### 10. Documenti
 Ebbene sì, per viaggiare con il proprio animale servono alcuni documenti importanti, **anche in Italia**. 
 Vuoi scoprire quali? 
-Ne abbiamo parlato [in questo articolo!](/blog/viaggiare-con-cane-e-gatto-tutto-quello-che-devi-sapere)
+Ne abbiamo parlato [in questo articolo!](/blog/viaggiare-cane-gatto-guida-completa)
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload//w_1000/f_auto,q_auto,w_800,dpr_auto/v1689522820/Articoli/Viaggio/coniglio-al-guinzaglio_binbrs.jpg" title="Vale anche se avete un coniglio al guinzaglio 🐰">}}
 

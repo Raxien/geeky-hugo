@@ -64,12 +64,12 @@ Ti verranno richieste le fotografia seguenti:
 - numero di chassis (VIN) apposto sulla placca in metallo.
 - libretto di circolazione. 
 - passaporto. 
-- patente internazionale ([qui la guida per ottenerla](/blog/patente-internazionale-come-fare-guida-completa)).
+- patente internazionale ([qui la guida per ottenerla](/blog/patente-internazionale-guida-completa-requisiti-costi)).
 - accessori installati
 
 In merito a quest'ultimo punto la dogana coreana ti fornirà un documento da compilare con le foto **di tutti gli accessori e ricambi installati sul mezzo**. Queste foto devono essere inviate via mail prima della traversata **e solo dopo aver avuto l'ok dalla dogana si potrà procedere con l’imbarco.**
 
-Attualmente gli italiani che vogliono visitare la Corea del Sud possono entrare senza dover richiedere in modo preventivo il visto. [Maggiori informazioni qui](/blog/guida-ai-documentie-visti-per-viaggiare-in-corea-del-sud).
+Attualmente gli italiani che vogliono visitare la Corea del Sud possono entrare senza dover richiedere in modo preventivo il visto. [Maggiori informazioni qui](/blog/guida-documenti-visti-viaggiare-corea-del-sud).
 
 {{< youtube2 WwkDeXOMaAU >}}
 

@@ -26,7 +26,7 @@ Un'opzione **altamente consigliata** per ottenere Internet durante il tuo viaggi
 - Orange
 
 ### Maroc Telecom 
-**{{<extLink "Maroc Telecom" "https://www.iam.ma/">}}** è la scelta migliore se si vuole avere internet sempre disponibile, **anche in mezzo al deserto del Sahara!**
+**{{< extLink "Maroc Telecom" "https://www.iam.ma/">}}** è la scelta migliore se si vuole avere internet sempre disponibile, **anche in mezzo al deserto del Sahara!**
 Puoi acquistare la SIM facilmente nei negozi autorizzati, nelle stazioni e negli aeroporti. 
 Inoltre è **l'unica opzione disponibile se si prevede un soggiorno breve** (meno di un mese).
 
@@ -41,13 +41,13 @@ Maroc Telecom offre anche alcune promozioni per avere internet illimitato, che p
 {{< procontro pro1="Si trova facilmente" pro2="Prende anche nel Sahara" contro1="Caro">}}
 
 ### Inwi
-Durante i tre mesi in cui siamo stati in Marocco noi ci siamo sempre affidati a **{{<extLink "Inwi" "https://www.inwi.ma/">}}** e complessivamente ci siamo trovati bene, anche al netto di alcuni problemi di connessione.
+Durante i tre mesi in cui siamo stati in Marocco noi ci siamo sempre affidati a **{{< extLink "Inwi" "https://www.inwi.ma/">}}** e complessivamente ci siamo trovati bene, anche al netto di alcuni problemi di connessione.
 
 Il vantaggio di quest'operatore riguarda non tanto le offerte ricaricabili (che costano come Maroc Telecom) ma quelle relative ai **servizi in abbonamento**m, che spaziano fra varie offerte. 
 
 Nei tre mesi vissuti in Marocco noi abbiamo usato le seguenti offerte:
-- {{<extLink "Piano Social" "https://inwi.ma/particuliers/offres-mobiles/forfait-mobile">}}: per 49dh al mese (circa 5 euro) offre accesso illimitato ai social: WhatsApp, Twitter, Facebook e Instagram (a proposito, {{<extLink "sai che puoi seguirci cliccando qui?" "https://www.instagram.com/vandipety/">}})
-- {{<extLink "i-Dar" "https://inwi.ma/particuliers/offres-internet/wifi-a-la-maison/idar-duo">}}: a partire da 199dh al mese (circa 20 euro) si può avere internet illimitato! La versione base viaggia a massima velocità per i primi 3/4 Giga giornalieri, **dopodiché rallenta** permettendo comunque di navigare senza problemi. **Non funziona con i router portatili**, ma permette di fare hotspot da uno smartphone (noi in questo modo, usando il cellulare come hotspot, siamo riusciti anche a caricare i video sul nostro {{<extLink "canale Youtube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1">}}).
+- {{< extLink "Piano Social" "https://inwi.ma/particuliers/offres-mobiles/forfait-mobile">}}: per 49dh al mese (circa 5 euro) offre accesso illimitato ai social: WhatsApp, Twitter, Facebook e Instagram (a proposito, {{< extLink "sai che puoi seguirci cliccando qui?" "https://www.instagram.com/vandipety/">}})
+- {{< extLink "i-Dar" "https://inwi.ma/particuliers/offres-internet/wifi-a-la-maison/idar-duo">}}: a partire da 199dh al mese (circa 20 euro) si può avere internet illimitato! La versione base viaggia a massima velocità per i primi 3/4 Giga giornalieri, **dopodiché rallenta** permettendo comunque di navigare senza problemi. **Non funziona con i router portatili**, ma permette di fare hotspot da uno smartphone (noi in questo modo, usando il cellulare come hotspot, siamo riusciti anche a caricare i video sul nostro {{< extLink "canale Youtube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1">}}).
 
 Questi piani sono molto vantaggiosi ma è permesso attivarli solo se si decide di rimanere **per più di un mese sul territorio**. 
 Per accedere a questi piani bisogna recarsi in un punto Inwi ufficiale **con il passaporto** e stipulare un abbonamento.
@@ -55,7 +55,7 @@ Per accedere a questi piani bisogna recarsi in un punto Inwi ufficiale **con il 
 Dopo l'attivazione, l'abbonamento si rinnova ogni 18 del mese per il mese successivo in tre modalità:
 - nei negozi ufficiali Inwi (presenti solo nelle città più grandi)
 - nei negozi Cash Plus
-- tramite l'app ufficiale ({{<extLink "iOS" "https://apps.apple.com/us/app/my-inwi/id988012514">}} - {{<extLink "Android" "https://play.google.com/store/apps/details?id=ma.inwi.selfcaremobile&hl=en_US">}}), che però potrebbe non accettare la carta di credito.
+- tramite l'app ufficiale ({{< extLink "iOS" "https://apps.apple.com/us/app/my-inwi/id988012514">}} - {{< extLink "Android" "https://play.google.com/store/apps/details?id=ma.inwi.selfcaremobile&hl=en_US">}}), che però potrebbe non accettare la carta di credito.
 
 #### Come disdire
 Per **disdire l'abbonamento** bisogna:
@@ -88,7 +88,7 @@ In questo video raccontiamo live cosa è successo.
 ### Orange
 Non abbiamo provato personalmente questo operatore del quale ci hanno parlato altri viaggiatori e riportiamo quindi la loro esperienza.
 
-{{<extLink "Orange" "orange.ma">}} non offre piani con internet illimitato, ma un'ottima SIM ricarcabile a prezzi ragionevoli (circa 0.50 euro al giga). Inoltre **poche persone usano Orange nel paese** e quindi la rete funziona abbastanza bene senza sovraccarico.
+{{< extLink "Orange" "orange.ma">}} non offre piani con internet illimitato, ma un'ottima SIM ricarcabile a prezzi ragionevoli (circa 0.50 euro al giga). Inoltre **poche persone usano Orange nel paese** e quindi la rete funziona abbastanza bene senza sovraccarico.
 
 Non è facilissimo ricaricare la SIM orange ma si riescono a trovare alcuni punti vendita nel paese.
 

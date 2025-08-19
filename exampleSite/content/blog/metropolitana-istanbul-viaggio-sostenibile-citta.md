@@ -36,7 +36,7 @@ Sei in difficoltà? Fai come noi! Osa e chiedi aiuto alla gente del posto. Sicur
 Il costo di un viaggio in metropolitana è relativamente economico. Il prezzo di una corsa singola è di circa 25 TL (circa 0.52€) ma con la **Istanbulkart** scende a 17.7 TL (circa 0.37€), ma la carta ti permette di fare **più trasferimenti** a una tariffa più conveniente.
 Tieni presente che i prezzi delle corse potrebbero variare in base al mezzo sul quale si sale (per il  (il famoso Marmaray) noi abbiamo pagato tariffa doppia). Inoltre per via dell'inflazione i prezzi in lira turca vengono cambiati sovente.
 
-A proposito, lo sai che con la **Istanbulkart** [puoi anche fare una crociera sul Bosforo quasi gratuita?](/blog/la-crociera-sul-bosforo-lesperienza-quasi-gratuita-a-istanbul-che-nessuno-conosce)
+A proposito, lo sai che con la **Istanbulkart** [puoi anche fare una crociera sul Bosforo quasi gratuita?](/blog/crociera-bosforo-istanbul-esperienza-low-cost)
 
 ## Perché Scegliere la Metropolitana di Istanbul
 

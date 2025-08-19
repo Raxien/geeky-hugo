@@ -14,7 +14,7 @@ Stai per partire per la Corea del Sud? Dopo aver girato per la Corea del Sud per
 
 ## Vuoi guidare? Serve la patente internazionale
 
-In Corea del Sud **non basta la patente italiana** ma serve quella **[internazionale da richiedere in motorizzazione](/blog/patente-internazionale-come-fare-guida-completa)**.  
+In Corea del Sud **non basta la patente italiana** ma serve quella **[internazionale da richiedere in motorizzazione](/blog/patente-internazionale-guida-completa-requisiti-costi)**.  
 Attenzione: va richiesta **prima di partire** per evitare brutte sorprese quindi parti per tempo in quanto ci vogliono tra i 10-15 giorni per averla.
 
 {{< leggi-anche url="/blog/come-affittare-un-auto-e-guidare-in-corea-del-sud-e-sull-isola-di-jeju/" >}}
@@ -48,13 +48,13 @@ In ogni caso puoi usare entrambi e scegliere quello che ti fa sentire più a tuo
 
 In Corea puoi pagare **quasi tutto con la carta**, anche i distributori automatici.  
 Ma c’è qualche eccezione importante:  
-Per **ricaricare la carta T-money** ([per metro, autobus ecc. nella capitale](/blog/guida-definitiva-alla-metro-di-seoul-e-alla-t-Money)) **servono i contanti**!
+Per **ricaricare la carta T-money** ([per metro, autobus ecc. nella capitale](/blog/guida-definitiva-metro-seoul-t-money)) **servono i contanti**!
 
 Porta sempre con te almeno un po' di contanti in tasca.
 
 Spesso nei mercati puoi pagare con carta, ma se ti trovi in un mercato dei 5 giorni (ovvero i mercati tradizionali, che sono un’esperienza da non perdere!) potresti voler comprare qualche frutto da una gentile nonnina pagandola in contanti!
 
-{{< leggi-anche url="/blog/guida-ai-documentie-visti-per-viaggiare-in-corea-del-sud/" >}}
+{{< leggi-anche url="/blog/guida-documenti-visti-viaggiare-corea-del-sud/" >}}
 
 Hai domande prima di partire per la Corea?  
 Scrivici nei commenti o cerca i nostri video sul viaggio in Corea del Sud!  

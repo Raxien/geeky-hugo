@@ -72,7 +72,7 @@ Piatto simbolo di Osaka, una “frittata” con cavolo, carne, uova e salse. **{
 ### Takoyaki  
 In un minuscolo locale sotterraneo, un cuoco prepara takoyaki perfetti: croccanti fuori, cremosi dentro. Solo 480 yen per 6 pezzi. Di questo spettacolare posto ne parliamo nell'articolo dedicato:
 
-{{< leggi-anche url="/blog/dove-mangiare-i-takoyaki-a-osaka-nel-negozio-piu-piccolo-del-giappone" >}}
+{{< leggi-anche url="/blog/dove-mangiare-takoyaki-osaka-negozio-piu-piccolo-giappone" >}}
 
 ### Bear Paw Café  
 Un caffè servito da una zampa d’orso attraverso una fessura. **Lascia un messaggio di ringraziamento per chi lavora con passione.** Vuoi sapere dove si trova? Leggi l'articolo dedicato qui sotto: 

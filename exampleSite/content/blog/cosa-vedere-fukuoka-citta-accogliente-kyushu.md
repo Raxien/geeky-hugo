@@ -9,7 +9,7 @@ type: regular
 continent: Asia
 country: Giappone
 ---
-Fukuoka è la porta d’ingresso del Giappone meridionale: si trova nell’isola di **[Kyushu](/blog/un-giappone-diverso-14-giorni-on-the-road-nel-selvaggio-kyushu/)**, la più a sud tra le quattro principali del Paese. Affacciata sul mare, Fukuoka unisce modernità, spazi verdi, cibo di strada e spiritualità in un mix sorprendentemente rilassato. **Non a caso è spesso citata tra le città giapponesi più vivibili!**
+Fukuoka è la porta d’ingresso del Giappone meridionale: si trova nell’isola di **[Kyushu](/blog/giappone-kyushu-14-giorni-on-the-road-selvaggio/)**, la più a sud tra le quattro principali del Paese. Affacciata sul mare, Fukuoka unisce modernità, spazi verdi, cibo di strada e spiritualità in un mix sorprendentemente rilassato. **Non a caso è spesso citata tra le città giapponesi più vivibili!**
 
 Se stai viaggiando nel sud del Giappone o atterri qui con un volo internazionale, ti consigliamo di fermarti almeno un giorno per esplorare la città. Ecco **cosa vedere a Fukuoka** in una giornata (o due!).
 
@@ -27,7 +27,7 @@ Un po’ nascosto rispetto ai classici circuiti turistici, il **Nakatsukasa Mago
 
 **Consiglio**: lancia una monetina e lasciati sorprendere dal suono che avvolgerà tutto e tutti. 
 
-{{< leggi-anche url="/blog/un-giappone-diverso-14-giorni-on-the-road-nel-selvaggio-kyushu/" >}}
+{{< leggi-anche url="/blog/giappone-kyushu-14-giorni-on-the-road-selvaggio/" >}}
 
 ## 3. Le vie del centro: vetrine, quartieri creativi e atmosfera urbana
 Il cuore moderno di Fukuoka si divide tra **Tenjin** e **Daimyō**: due quartieri vicini e pieni di contrasti. Da una parte centri commerciali eleganti, boutique indipendenti e negozi di design; dall’altra vicoletti con **caffè creativi**, librerie, street art e profumi di curry.
@@ -61,13 +61,13 @@ Il **tonkotsu ramen** è un must: brodo ricco e cremoso, tipico della zona. Ma c
 
 - **In aereo**: Fukuoka Airport ha collegamenti nazionali e internazionali (da Tokyo, Osaka, Seoul, Taiwan…). Dal terminal, la **metro porta in centro in meno di 10 minuti**!
 
-- **In treno**: dalla stazione **Hakata**, arrivano gli shinkansen da Hiroshima, Osaka e Tokyo ([prenota il tuo treno qui](/blog/prenota-i-tuoi-treni-giapponesi-con-japan-bullet-train-e-viaggia-senza-stress/)).
+- **In treno**: dalla stazione **Hakata**, arrivano gli shinkansen da Hiroshima, Osaka e Tokyo ([prenota il tuo treno qui](/blog/prenota-treni-giappone-japan-bullet-train-senza-stress/)).
 
 - **In camper o auto**? Le strade sono ben tenute e ci sono diversi parcheggi a pagamento nelle vicinanze del centro e nei parchi pubblici.
 
 ## Bonus
-Se vuoi scoprire dove mangiare un ramen vegetariano a Fukuoka, **[abbiamo scritto un articolo dedicato.](/blog/ramen-vegetariano-a-fukuoka-l-alternativa-sorprendente-al-tonkotsu)**
+Se vuoi scoprire dove mangiare un ramen vegetariano a Fukuoka, **[abbiamo scritto un articolo dedicato.](/blog/ramen-vegetariano-fukuoka-alternativa-tonkotsu)**
 
-E se hai tempo per esplorare i dintorni tra templi nascosti, isole e lanterne sul mare, **[non perderti il nostro articolo completo su cosa vedere nei dintorni di Fukuoka!](/blog/un-giappone-diverso-14-giorni-on-the-road-nel-selvaggio-kyushu)**
+E se hai tempo per esplorare i dintorni tra templi nascosti, isole e lanterne sul mare, **[non perderti il nostro articolo completo su cosa vedere nei dintorni di Fukuoka!](/blog/giappone-kyushu-14-giorni-on-the-road-selvaggio)**
 
 

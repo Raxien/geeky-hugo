@@ -16,7 +16,7 @@ Ecco un mini tour a tre portate, da gustare lentamente, tra un inchino al Grande
 
 Se è troppo presto per pranzare, ma troppo tardi per resistere alla fame, puoi decidere di fermati da **Izasa Restaurant – Sanjō Branch**, un locale tradizionale a due passi dalla stazione, con una vetrina piena di piccoli tesori gastronomici: i *kakinoha-zushi*.
 
-{{< leggi-anche url="/blog/nara-in-un-giorno-tra-templi-cervi-curiosi-e-foreste-silenziose">}}
+{{< leggi-anche url="/blog/nara-un-giorno-templi-cervi-foreste">}}
 
 Si tratta di **blocchetti di riso con pesce marinato (salmone, sgombro, orata)**, avvolti in **foglie di cachi**. La foglia non si mangia, ma ha proprietà antibatteriche naturali: un tempo serviva a conservare il pesce anche d’estate, prima dell’invenzione dei frigoriferi.
 

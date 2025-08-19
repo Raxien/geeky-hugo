@@ -70,7 +70,7 @@ Se stai pianificando di andare in **Marocco** con il tuo fido compagno a quattro
 ### Titolazione anticorpale
 La titolazione anticorpale è un test di verifica degli anticorpi per il virus della rabbia che si effettua tramite un prelievo del sangue dopo la vaccinazione e che viene inviato a un centro specializzato e riconosciuto, il quale rilascia un documento ufficiale. 
 
-Tale documento rimane valido a vita, a patto che la vaccinazione antirabbica **venga sempre rinnovata nei tempi previsti** (da 1 a 3 anni a seconda del vaccino effettuato), ma in alcuni Paesi [(es. Giappone)](/blog/entrare-in-giappone-con-il-tuo-cane-o-gatto-come-evitare-la-quarantena/) viene richiesto un aggiornamento. 
+Tale documento rimane valido a vita, a patto che la vaccinazione antirabbica **venga sempre rinnovata nei tempi previsti** (da 1 a 3 anni a seconda del vaccino effettuato), ma in alcuni Paesi [(es. Giappone)](/blog/entrare-giappone-cane-gatto-evitare-quarantena/) viene richiesto un aggiornamento. 
 - **Certificato internazionale di origine e salute per l’espatrio:** per ottenerlo occorre presentarsi, con passaporto e libretto delle vaccinazioni regolarmente certificate, da una veterinario competente, il quale visiterà il cane e dovrà certificare il suo stato di salute. Tale documento ha una durata di validità variabile.
 - **vaccinazione contro l’echinococco multilocularis** a seconda del Paese di destinazione.
 

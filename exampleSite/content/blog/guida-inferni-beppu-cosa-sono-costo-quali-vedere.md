@@ -20,7 +20,7 @@ Il nome "inferni" non è casuale: queste sorgenti non sono onsen in cui immerger
 
 Puoi decidere di visitarli tutti in mezza giornata (o con calma in un giorno intero), ma se il tempo stringe, **due pozze in particolare** ti lasceranno senza fiato e meritano da sole la deviazione.
 
-{{< leggi-anche url="/blog/un-giappone-diverso-14-giorni-on-the-road-nel-selvaggio-kyushu" >}}
+{{< leggi-anche url="/blog/giappone-kyushu-14-giorni-on-the-road-selvaggio" >}}
 
 ### 1. Umi Jigoku – L’inferno marino
 
@@ -82,7 +82,7 @@ Noi abbiamo usato Klook e se ti registri con il nostro codice sconto riceverai 5
 
 Dopo esserti registrato puoi acquistare i biglietti {{< extLink "qui" "https://www.klook.com/activity/29063-beppu-jigoku-onsen-ticket/" >}}
 ## Come arrivare
-- Dalla **[stazione JR Beppu](/blog/prenota-i-tuoi-treni-giapponesi-con-japan-bullet-train-e-viaggia-senza-stress)**, prendi un **bus Kamenoi** (linea 5, 7 o 9) e scendi a **Kannawa Onsen**  
+- Dalla **[stazione JR Beppu](/blog/prenota-treni-giappone-japan-bullet-train-senza-stress)**, prendi un **bus Kamenoi** (linea 5, 7 o 9) e scendi a **Kannawa Onsen**  
 - Durata tragitto: 25–30 minuti  
 - Prezzo: circa 300–350¥  
 - In alternativa: **day pass mezzi pubblici** (900¥ circa)

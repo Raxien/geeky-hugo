@@ -9,7 +9,7 @@ type: regular
 continent: Asia
 country: Giappone
 ---
-A circa 20 km [dalla costa di Nagasaki](/blog/un-giorno-a-nagasaki-e-giro-extra-all-isola-fantasma-di-hashima/), emerge dal mare la sagoma inquietante e affascinante di **Hashima**, meglio conosciuta come **Gunkanjima**, l’“**isola nave da guerra**”. Il soprannome non è casuale: la sua forma massiccia e i suoi edifici in cemento armato sembrano il relitto di una città alla deriva, uno spettro del passato industriale del Giappone.
+A circa 20 km [dalla costa di Nagasaki](/blog/nagasaki-un-giorno-giro-isola-fantasma-hashima/), emerge dal mare la sagoma inquietante e affascinante di **Hashima**, meglio conosciuta come **Gunkanjima**, l’“**isola nave da guerra**”. Il soprannome non è casuale: la sua forma massiccia e i suoi edifici in cemento armato sembrano il relitto di una città alla deriva, uno spettro del passato industriale del Giappone.
 
 {{< indice >}}
 
@@ -27,7 +27,7 @@ Eppure, nonostante tutto, sull’isola **si rideva anche**. I bambini **giocavan
 
 Durante la nostra visita, a raccontarci tutto questo è stato **un volontario di 80 anni**, appassionato e sorridente, che parlava inglese con entusiasmo e orgoglio. "Scattate più foto che potete", ci ha detto. "Tra sei mesi potrebbe non esserci più nulla. Quest’isola crollerà, e di lei rimarranno solo i ricordi".
 
-{{< leggi-anche url="/blog/un-giorno-a-nagasaki-e-giro-extra-all-isola-fantasma-di-hashima/" >}}
+{{< leggi-anche url="/blog/nagasaki-un-giorno-giro-isola-fantasma-hashima/" >}}
 
 ### L’abbandono e il silenzio
 

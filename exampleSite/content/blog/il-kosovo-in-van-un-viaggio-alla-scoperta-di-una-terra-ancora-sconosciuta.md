@@ -54,7 +54,7 @@ Anche in questo caso non avete nulla da temere: varcato il portone d'ingresso vi
 ### Gjakova: Un gioiellino inaspettato
 
 Online si trovano poche informazioni circa la città di Gjakova (in italiano Giacovizza) e proprio per questo motivo avevamo previsto di sfruttarla solo come sosta per la notte. Sede un tempo di un aeroporto militare gestito dall'Aeronautica Militare Italiana, questo luogo ci ha fatti ben presto ricredere. 
-Gjakova è una città con un centro caratterizzato da un enorme bazar con case in legno che a tratti ci hanno ricordato alcuni luoghi visitati [in Giappone](/blog/viaggio-giappone-informazioni-e-itinerari). Camminando tra le viuzze che pullulano di caffè, ristoranti e piccole botteghe si possono ammirare numerosi artigiani intenti a intagliare le tipiche culle realizzate in legno.
+Gjakova è una città con un centro caratterizzato da un enorme bazar con case in legno che a tratti ci hanno ricordato alcuni luoghi visitati [in Giappone](/blog/viaggio-giappone-guida-itinerari). Camminando tra le viuzze che pullulano di caffè, ristoranti e piccole botteghe si possono ammirare numerosi artigiani intenti a intagliare le tipiche culle realizzate in legno.
 Meritano una visita anche una casa in stile albanese, la prima guesthouse nel paese, e il lungo fiume che presenta una serie di murales veramente belli, ancora più suggestivi da ammirare di sera.
 
 

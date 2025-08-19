@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w
 date: 2023-11-24T08:00:00.000
 categories: ["Blog"]
 type: featured
-draft: false
+draft: true
 ---
 
 Hai mai pensato di regalare una piccola storia personalizzata la posto di quei bigliettini tutti uguali che poi vengono buttati nel cestino?

@@ -49,7 +49,7 @@ Era giusto però fermarci, dare ossigeno al cervello e **"disintossicarci"** da 
 3. pubblica
 4. torna al punto 1
 
-Poi, che Sara non sappia proprio stare ferma e abbia voluto raccontare **questi fantastici posti** in cui siamo ora sul blog è un'altra storia, e la [puoi leggere qui](/blog/l-ariege-in-camper-tour-di-9-giorni-in-una-regione-francese-meravigliosa).
+Poi, che Sara non sappia proprio stare ferma e abbia voluto raccontare **questi fantastici posti** in cui siamo ora sul blog è un'altra storia, e la [puoi leggere qui](/blog/ariege-camper-tour-9-giorni-regione-francese).
 
 ## E ora?
 Abbiamo detto tasto pausa, **non stop.**

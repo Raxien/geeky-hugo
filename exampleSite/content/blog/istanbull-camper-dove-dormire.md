@@ -20,7 +20,7 @@ Arrivare a Istanbul in camper **è un’esperienza indimenticabile**: questa cit
 Ecco un elenco di campeggi a pagamento sicuri a Istanbul.
 
 ### Il campeggio migliore: Yenikapi Caravan RV Park
-Una volta arrivato, ti consiglio di dirigerti **{{< extLink "verso il campeggio Yenikapi Caravan RV Park." "https://maps.app.goo.gl/ULsk6Q24smh5VHYY7" >}}** Situato in una posizione strategica, è ben attrezzato, sicuro e facilmente raggiungibile dal centro città [tramite la metropolitana](/blog/la-metropolitana-di-istanbul-un-viaggio-sostenibile-nel-cuore-della-citta), che ti permetterà di arrivare alla principale attrazione in circa 20 minuti oppure a piedi in 30 minuti. 
+Una volta arrivato, ti consiglio di dirigerti **{{< extLink "verso il campeggio Yenikapi Caravan RV Park." "https://maps.app.goo.gl/ULsk6Q24smh5VHYY7" >}}** Situato in una posizione strategica, è ben attrezzato, sicuro e facilmente raggiungibile dal centro città [tramite la metropolitana](/blog/metropolitana-istanbul-viaggio-sostenibile-citta), che ti permetterà di arrivare alla principale attrazione in circa 20 minuti oppure a piedi in 30 minuti. 
 
 Il prezzo varia in base al cambio euro-lire turche. Attualmente costa 500 Lire Turche.
 

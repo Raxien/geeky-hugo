@@ -23,7 +23,7 @@ Ed è perfetta se hai la possibilità di noleggiare un’auto o un camper, perch
 
 **{{< underline "Giorno 1">}}**: **Fukuoka**  
 Atterraggio a Fukuoka. Perché? Perché quasi nessuno ci pensa, ed è una scelta da veri ninja del viaggio. Fukuoka è ben collegata all’Italia (spesso con un solo scalo) e i **voli costano meno rispetto a Tokyo o Osaka.**
-Prenditi un po’ di tempo per ambientarti, sgranchirti le gambe e assaggiare il celebre tonkotsu ramen (o se preferisci un’alternativa [vegetariana scoprila qui](/blog/ramen-vegetariano-a-fukuoka-l-alternativa-sorprendente-al-tonkotsu/)). 
+Prenditi un po’ di tempo per ambientarti, sgranchirti le gambe e assaggiare il celebre tonkotsu ramen (o se preferisci un’alternativa [vegetariana scoprila qui](/blog/ramen-vegetariano-fukuoka-alternativa-tonkotsu/)). 
 
 {{< leggi-anche url="/blog/cosa-vedere-a-fukuoka-la-citta-accogliente-del-kyushu/">}}
 
@@ -33,7 +33,7 @@ Ritira l’auto e fai subito tappa al gigantesco **Buddha sdraiato di Nanzoin**.
 **{{< underline "Giorno 3">}}**: **Nagasaki**  
 Giornata piena attraverso i punti salienti di una città ricca di storia e cultura: Parco della Pace, Torii spezzato a metà, quartiere olandese e cinese, ponte Meganebashi e il tramonto sulla baia. **Consiglio: scarpe comode o sfrutta i tram e la funicolare!**
 
-{{< leggi-anche url="/blog/un-giorno-a-nagasaki-e-giro-extra-all-isola-fantasma-di-hashima/" >}}
+{{< leggi-anche url="/blog/nagasaki-un-giorno-giro-isola-fantasma-hashima/" >}}
 
 **{{< underline "Giorno 4">}}**: **Hashima (isola fantasma) + Unzen Jigoku**  
 Se il mare lo permette, [parti per l’escursione a Gunkanjima](/blog/gunkanjima-l-isola-fantasma-al-largo-di-nagasaki/), la città mineraria abbandonata.Poi rilassati tra i fumi infernali di Unzen Jigoku.
@@ -59,9 +59,9 @@ Oggi giornata magica: a spasso o a nuoto (scherziamo! Ma puoi affittare una barc
 Crateri, paesaggi lunari e pascoli infiniti attraverso una caldera enorme e un vulcano che ancora borbotta.Poi relax a Kurokawa Onsen, uno dei villaggi termali più belli del Giappone.
 
 **{{< underline "Giorno 11">}}**: **Beppu**  
-Capitale degli onsen: [visita gli “inferni” colorati](/blog/guida-agli-inferni-di-beppu-cosa-sono-quanto-costano-e-quali-vale-la-pena-vedere/), rilassati nei bagni locali e prova le uova cotte nel vapore geotermico.
+Capitale degli onsen: [visita gli “inferni” colorati](/blog/guida-inferni-beppu-cosa-sono-costo-quali-vedere/), rilassati nei bagni locali e prova le uova cotte nel vapore geotermico.
 
-{{< leggi-anche url="/blog/guida-agli-inferni-di-beppu-cosa-sono-quanto-costano-e-quali-vale-la-pena-vedere/" >}}
+{{< leggi-anche url="/blog/guida-inferni-beppu-cosa-sono-costo-quali-vedere/" >}}
 
 **{{< underline "Giorno 12">}}**: **Itoshima**  
 Ritorno verso nord con sosta a Itoshima, una spiaggia perfetta per chiudere il viaggio tra onde e tori rossi sul mare.
@@ -72,7 +72,7 @@ Relax, ultimi acquisti e… un’altra ciotola di ramen, che non guasta mai.
 **{{< underline "Giorno 14">}}**: **Partenza**  
 Tempo di saluti. Ma siamo sicuri: questo angolo di Giappone ti sarà rimasto nel cuore.
 
-{{< leggi-anche url="/blog/viaggio-giappone-informazioni-e-itinerari/" >}}
+{{< leggi-anche url="/blog/viaggio-giappone-guida-itinerari/" >}}
 
 ## Itineario in breve
 
@@ -111,7 +111,7 @@ Tempo di saluti. Ma siamo sicuri: questo angolo di Giappone ti sarà rimasto nel
 ## Qualche consiglio in più
 * Prenota gli alloggi con anticipo, soprattutto nelle località termali.
 * Attenzione al meteo: alcune attività (come Hashima o il cratere dell’Aso) dipendono dal mare o dalle eruzioni.
-* Ricordati di acquistare una eSim o un Router portatile per poter esser sempre conensso! [Noi consigliamo Japan Wireless.](/blog/la-connessione-perfetta-per-il-tuo-viaggio-in-Giappone-japan-wireless)
+* Ricordati di acquistare una eSim o un Router portatile per poter esser sempre conensso! [Noi consigliamo Japan Wireless.](/blog/connessione-viaggio-giappone-japan-wireless)
 * Se hai domande o dubbi sull’organizzazione… scrivici nei commenti! Ci farà piacere aiutarti e magari dare una mano anche ad altri viaggiatori.
 
 ## Vuoi vedere le immagini di questi luoghi?

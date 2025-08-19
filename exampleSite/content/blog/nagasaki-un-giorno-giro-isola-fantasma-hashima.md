@@ -36,7 +36,7 @@ Il **museo**, ricostruito e ampliato, racconta con cura le conseguenze umane, am
 Poco lontano dal museo si trova un luogo meno noto ma molto simbolico: il **One Pillar Torii**, un antico portale scintoista colpito dall’onda d’urto dell’esplosione.  
 Delle due colonne originali, solo una è rimasta in piedi. Accanto, due **alberi di canfora sopravvissuti** all’attacco continuano a crescere: un potente messaggio di resistenza e rinascita.
 
-{{< leggi-anche url="/blog/un-giappone-diverso-14-giorni-on-the-road-nel-selvaggio-kyushu" >}}
+{{< leggi-anche url="/blog/giappone-kyushu-14-giorni-on-the-road-selvaggio" >}}
 
 ### Ponte Megane (Meganebashi) e passeggiata lungo il fiume Nakashima
 

@@ -38,7 +38,7 @@ Il Titer Test, ovvero il test degli anticorpi contro la rabbia, si effettua tram
 * **Risultati:** il test deve confermare un livello minimo di 0,5 IU/mL di anticorpi contro la rabbia.
 
 Trovi maggiori informazioni su come ottenere questi documenti in Italia nell'articolo dedicato:
-{{< leggi-anche url="/blog/viaggiare-con-cane-e-gatto-tutto-quello-che-devi-sapere" >}}
+{{< leggi-anche url="/blog/viaggiare-cane-gatto-guida-completa" >}}
 
 ## 2. Procedure burocratiche per esportare il tuo cane o gatto dalla Russia
 Di seguito le procedure per ottenere **il certificato finale "5A"** che consente l'esportazione del tuo animale dalla Russia per la Corea del Sud. Consigliamo di arrivare a Vladivostok con largo anticipo per completare le pratiche in tempo e gestire eventuali imprevisti.

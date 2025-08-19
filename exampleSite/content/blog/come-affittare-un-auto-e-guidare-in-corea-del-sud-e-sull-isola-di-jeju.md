@@ -16,7 +16,7 @@ Guidare in Corea è **più semplice di quanto sembri**, ma ci sono alcune cose d
 
 Per guidare legalmente in Corea del Sud (e per affittare un’auto), è obbligatoria la **patente internazionale** secondo la **Convenzione di Ginevra del 1949**. Ricorda che dovrai esibirla **insieme alla tua patente italiana**: una non vale senza l’altra!
 
-{{< leggi-anche url="/blog/patente-internazionale-come-fare-guida-completa" >}}
+{{< leggi-anche url="/blog/patente-internazionale-guida-completa-requisiti-costi" >}}
 
 ## Assicurazione auto: cosa devi sapere
 Se noleggi un’auto, la copertura assicurativa base è sempre inclusa nel contratto e copre i danni a terzi e, in parte, i danni al veicolo noleggiato. Tuttavia, le coperture possono variare e spesso sono previste franchigie elevate per danni al veicolo o furto.Consiglio: chiedi sempre quali sono le esclusioni e valuta se integrare la polizza con una copertura “full coverage” per viaggiare più tranquilli.Se porti la tua auto in Corea, dovrai stipulare un’assicurazione locale (come abbiamo fatto noi alla dogana prima di entrare): la procedura è semplice ma fondamentale per ottenere la TDC (Temporary Import Certificate) e circolare legalmente. Le agenzie di assicurazione locali lavorano spesso con le dogane e ti aiuteranno a completare tutte le pratiche.

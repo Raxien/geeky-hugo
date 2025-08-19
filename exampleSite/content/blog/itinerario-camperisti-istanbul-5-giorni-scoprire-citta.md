@@ -19,7 +19,7 @@ In **5 giorni** avrai tutto il tempo per esplorare Istanbul senza fretta, godend
 
 ## Giorno 1: Arrivo e prima immersione nella città
 
-- **Mattina**: Arrivo a Istanbul e sistemazione al **{{< extLink "Yenikapi Caravan RV Park" "https://maps.app.goo.gl/PTXqQfAvaBAjmQMZ6" >}}**, un campeggio ben posizionato per iniziare la tua avventura. Da qui, [prendi la metropolitana che ti porterà al centro in meno di 20 minuti.](/blog/la-metropolitana-di-istanbul-un-viaggio-sostenibile-nel-cuore-della-citta)
+- **Mattina**: Arrivo a Istanbul e sistemazione al **{{< extLink "Yenikapi Caravan RV Park" "https://maps.app.goo.gl/PTXqQfAvaBAjmQMZ6" >}}**, un campeggio ben posizionato per iniziare la tua avventura. Da qui, [prendi la metropolitana che ti porterà al centro in meno di 20 minuti.](/blog/metropolitana-istanbul-viaggio-sostenibile-citta)
 - **Pomeriggio**: Passeggiata a **Piazza Taksim**, il cuore pulsante di Istanbul. Cammina lungo **Istiklal Caddesi**, una delle strade pedonali più vivaci, piena di negozi, gallerie e caffè all’aperto.
 - **Sera**: Cena nei pressi della zona, con possibilità di provare il famoso **simit** (pane al sesamo) o un piatto di **köfte** (polpette turche) in uno dei tanti ristoranti locali.
 

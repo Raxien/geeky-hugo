@@ -31,7 +31,7 @@ La prima città che abbiamo visitato è stata Sergeiev Posad, che si trova a sol
 
 ### Pereslavl-Zalessky
 
-In posizione scenografica lungo le sponde del lago Pleshcheevo, la città di Pereslavl-Zalessky ospita la Cattedrale della Trasfigurazione dove fu battezzato il principe Alexander Nevsky, **il celebre eroe russo [da cui prende il nome la famosa Prospettiva di San Pietroburgo](/blog/tour-di-san-pietroburgo-scopri-la-venezia-del-nord-in-2-giorni).** Senza la cittadella fortificata questa cittadina minuscola, che ha un unico incrocio,  passerebbe del tutto inosservata. Il suo lago e i suoi monasteri meritano però una visita, fosse anche solo per godere della pace di questo pacifico piccolo luogo remoto. 
+In posizione scenografica lungo le sponde del lago Pleshcheevo, la città di Pereslavl-Zalessky ospita la Cattedrale della Trasfigurazione dove fu battezzato il principe Alexander Nevsky, **il celebre eroe russo [da cui prende il nome la famosa Prospettiva di San Pietroburgo](/blog/tour-san-pietroburgo-venezia-del-nord-2-giorni).** Senza la cittadella fortificata questa cittadina minuscola, che ha un unico incrocio,  passerebbe del tutto inosservata. Il suo lago e i suoi monasteri meritano però una visita, fosse anche solo per godere della pace di questo pacifico piccolo luogo remoto. 
 
 ### Rostov Velikij
 

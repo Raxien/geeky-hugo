@@ -54,7 +54,7 @@ Perfetto, se siamo i benvenuti facciamo che pagare subito due notti e poi noi si
 L'ingresso dalla Bulgaria è stato semplice e scorrevole. 
 Noi abbiamo scelto di esibire la carta d'identità come documento (ovviamente vale anche il passaporto) e ci è stato rilasciato un foglio cartaceo che attesta la possibilità di rimanere in paese per 90 giorni.
 
-I documenti teoricamente richiesti per [viaggiare con gli animali](/blog/viaggiare-con-cane-e-gatto-tutto-quello-che-devi-sapere) non ci sono stati richiesti.
+I documenti teoricamente richiesti per [viaggiare con gli animali](/blog/viaggiare-cane-gatto-guida-completa) non ci sono stati richiesti.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Direzione%20giappone/visto-turchia_ybjgjy.png" title="Entrando il 20 gennaio 2024 e facendo due calcoli possiamo stare fino al 18 aprile, ma notiamo che ci hanno regalato quattro giorni in più" >}}
 

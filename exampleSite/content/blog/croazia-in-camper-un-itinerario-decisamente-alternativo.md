@@ -10,7 +10,7 @@ type: featured
 draft: false
 ---
 
-Lasciata la [Slovenia](/blog/slovenia-in-camper-5-giorni-tra-montagne-e-borghi-storici) alle spalle abbiamo deciso di visitare on the road una parte di **Croazia spesso ignorata dal turismo**, lontano dalle splendide località balneari e dalle immagini da cartolina con mare cristallino. 
+Lasciata la [Slovenia](/blog/slovenia-camper-5-giorni-montagne-borghi-storici) alle spalle abbiamo deciso di visitare on the road una parte di **Croazia spesso ignorata dal turismo**, lontano dalle splendide località balneari e dalle immagini da cartolina con mare cristallino. 
 
 Il paesaggio dell'entroterra croato è caratterizzato da vaste pianure coltivate a grano, mais e barbabietole, che si estendono tra colline e zone di roccia carsica.
 

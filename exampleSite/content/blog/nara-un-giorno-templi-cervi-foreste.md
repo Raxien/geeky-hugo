@@ -44,7 +44,7 @@ Oltre alla statua, non perdere:
 
 **Consiglio pratico**: meglio arrivare la mattina presto, prima dell’arrivo dei gruppi organizzati (circa alle 9 di mattina). E se riesci a essere lì mentre il sole filtra tra i portoni di legno, l’effetto è davvero suggestivo.
 
-{{< leggi-anche url="/blog/viaggio-giappone-informazioni-e-itinerari" >}}
+{{< leggi-anche url="/blog/viaggio-giappone-guida-itinerari" >}}
 
 ### 2. Passeggiata nella foresta di Kasugayama
 

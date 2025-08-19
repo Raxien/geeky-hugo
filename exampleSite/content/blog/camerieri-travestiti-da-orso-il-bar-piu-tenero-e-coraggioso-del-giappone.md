@@ -17,7 +17,7 @@ Nel vivace quartiere di Uehonmachi, a Osaka, c’è un posto che non ti aspetti:
 Dietro quell’apertura non c’è solo un costume, ma una storia. Il Bear Paw Café è un progetto della **Mental Support Academy**, che aiuta persone con difficoltà emotive (come depressione, ipersensibilità o fobia sociale) a tornare in contatto con il mondo del lavoro.  
 L’idea? Creare un luogo sicuro, senza contatto diretto con i clienti, in cui il sorriso passa comunque. E lo fa attraverso una morbida **zampina d’orso** che ti porge con cura il tuo ordine.
 
-{{< leggi-anche url="/blog/dove-mangiare-i-takoyaki-a-osaka-nel-negozio-piu-piccolo-del-giappone" >}}
+{{< leggi-anche url="/blog/dove-mangiare-takoyaki-osaka-negozio-piu-piccolo-giappone" >}}
 
 ## Cosa si beve (e si gusta)
 

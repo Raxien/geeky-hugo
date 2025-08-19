@@ -13,7 +13,7 @@ draft: false
 Quando si pianifica un viaggio in Giappone con il proprio veicolo, molti pensano subito al Carnet de Passages en Douane come alla soluzione obbligatoria. Tuttavia, esiste un'alternativa gratuita e altrettanto efficace: **il Permesso di Importazione Temporanea.** 
 Sebbene il Giappone abbia regole molto rigide per l'ingresso dei veicoli, conoscendo le giuste procedure puoi entrare nel paese senza problemi e senza spendere cifre esorbitanti. 
 
-A dicembre 2024 noi siamo entrati in Giappone con il nostro camper italiano, **senza il Carnet de Passages**  e insieme al nostro gatto (a proposito, vuoi sapere come evitare la quarantena? [Scoprilo qui](/blog/entrare-in-giappone-con-il-tuo-cane-o-gatto-come-evitare-la-quarantena)): questa è la nostra esperienza personale e siamo felici di condividerla con te, speriamo ti aiuti **a pianificare il tuo viaggio in Giappone senza intoppi.**
+A dicembre 2024 noi siamo entrati in Giappone con il nostro camper italiano, **senza il Carnet de Passages**  e insieme al nostro gatto (a proposito, vuoi sapere come evitare la quarantena? [Scoprilo qui](/blog/entrare-giappone-cane-gatto-evitare-quarantena)): questa è la nostra esperienza personale e siamo felici di condividerla con te, speriamo ti aiuti **a pianificare il tuo viaggio in Giappone senza intoppi.**
 
 In questa guida ti spiegheremo cosa sono il Carnet de Passages en Douane (CPD d'ora in poi) e il Permesso di Importazione Temporanea (TIP),le procedure per entrare in paese con l'uno o l'altro e come evitare di spendere soldi inutilmente. 
 
@@ -57,7 +57,7 @@ In uscita dal paese consegni il TIP ai funzionari doganali che si occuperanno di
 Il TIP è disponibile in tutti i porti per traghetti internazionali (ad esempio Hakata, a Fukuoka, e Shimonoseki). Ecco cosa devi fare:
 
 1. Contatta la compagnia di traghetti in anticipo per informarli che entrerai in Giappone con il TIP o modulo C5014, [per evitare problemi.](#i-problemi-che-abbiamo-riscontrato)
-2. All'arrivo, i funzionari doganali controlleranno la documentazione del mezzo e [la patente internazionale](/blog/patente-internazionale-come-fare-guida-completa) e ti rilasceranno il TIP.
+2. All'arrivo, i funzionari doganali controlleranno la documentazione del mezzo e [la patente internazionale](/blog/patente-internazionale-guida-completa-requisiti-costi) e ti rilasceranno il TIP.
 
 L'intera procedura nel nostro caso, comprensiva dei controlli passaporti, controllo quarantena animale, disinfezione delle ruote e ispezione del mezzo **è durata 2 ore.**
 

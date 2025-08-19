@@ -12,11 +12,11 @@ Con la fine dell'estate e l'autunno alle porte **inizia una nuova stagione di Va
 
 ## Dov'eravamo rimasti?
 
-Dopo aver visitato **buona parte dell'Europa ed esser arrivati fino in Senegal** (puoi recuperare le precedenti stagioni {{<extLink "qui" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ9QT9yAaaqtoXtGUh2iMEI5">}} e {{<extLink "qui" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ929klaWueEsMuZZvFWZKIB">}}) siamo ritornati **in Italia per preparare ToTo, il nostro van, e sposarci** ({{<extLink "qui per rivivere quel giorno" "https://www.youtube.com/watch?v=2hzl_yo9Uw4&list=PLHaclq_J5PZ_PAB6_xpqnRvCxtovD7lZE&index=4">}}).
+Dopo aver visitato **buona parte dell'Europa ed esser arrivati fino in Senegal** (puoi recuperare le precedenti stagioni {{< extLink "qui" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ9QT9yAaaqtoXtGUh2iMEI5">}} e {{< extLink "qui" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ929klaWueEsMuZZvFWZKIB">}}) siamo ritornati **in Italia per preparare ToTo, il nostro van, e sposarci** ({{< extLink "qui per rivivere quel giorno" "https://www.youtube.com/watch?v=2hzl_yo9Uw4&list=PLHaclq_J5PZ_PAB6_xpqnRvCxtovD7lZE&index=4">}}).
 
-Abbracciati familiari e amici, dopo aver cambiato anche un paio di ruote e i freni alla nostra casa ambulante, siamo ripartiti di nuovo {{<extLink "attraverso i Balcani" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-7swbxxVk-IMXnyrJLuH04">}}. Slovenia, Kossovo, Macedonia e Grecia sono solo alcuni dei paesi che abbiamo visitato, e dopo aver brindato al nuovo anno abbiamo anche cambiato non solo paese ma anche continente!
+Abbracciati familiari e amici, dopo aver cambiato anche un paio di ruote e i freni alla nostra casa ambulante, siamo ripartiti di nuovo {{< extLink "attraverso i Balcani" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-7swbxxVk-IMXnyrJLuH04">}}. Slovenia, Kossovo, Macedonia e Grecia sono solo alcuni dei paesi che abbiamo visitato, e dopo aver brindato al nuovo anno abbiamo anche cambiato non solo paese ma anche continente!
 
-Siamo entrati {{<extLink "per la prima volta in Asia" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_STEqeFCP1TZaWQZyY8NLe">}} con il nostro van e attraverso Turchia, Iraq, Georgia e Armenia siamo arrivati alle porte della Russia.
+Siamo entrati {{< extLink "per la prima volta in Asia" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_STEqeFCP1TZaWQZyY8NLe">}} con il nostro van e attraverso Turchia, Iraq, Georgia e Armenia siamo arrivati alle porte della Russia.
 
 ## E ora?
 

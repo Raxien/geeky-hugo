@@ -9,7 +9,7 @@ type: featured
 continent: Europa
 country: Georgia
 ---
-Se stai pianificando un'avventura **on the road in Georgia con il tuo camper**, questo paese del Caucaso offre paesaggi mozzafiato tra montagne, mari e città antiche come [Tbilisi](/blog/tbilisi-9-luoghi-da-non-perdere-e-un-consiglio-su-dove-mangiare) e Batumi. Per gli italiani, **entrare in Georgia in camper è relativamente semplice**, ma richiede preparazione su documenti, assicurazioni e logistica. In questa guida aggiornata al 2025, copriamo tutto: dal visto alla patente, dalle dogane ai campeggi, con tips per ottimizzare i costi.
+Se stai pianificando un'avventura **on the road in Georgia con il tuo camper**, questo paese del Caucaso offre paesaggi mozzafiato tra montagne, mari e città antiche come [Tbilisi](/blog/tbilisi-9-luoghi-imperdibili-consiglio-dove-mangiare) e Batumi. Per gli italiani, **entrare in Georgia in camper è relativamente semplice**, ma richiede preparazione su documenti, assicurazioni e logistica. In questa guida aggiornata al 2025, copriamo tutto: dal visto alla patente, dalle dogane ai campeggi, con tips per ottimizzare i costi.
 
 {{< indice >}}
 
@@ -24,11 +24,11 @@ La Georgia richiede un'assicurazione di responsabilità civile (TPL - Third Part
 {{< underline "Nota:" >}} la tua RC auto italiana non è valida qui, quindi integra con una polizza europea estesa se necessario.
 
 ## Patente di guida: Cosa Serve per Guidare in Georgia
-La patente italiana (o UE) è riconosciuta in Georgia per un periodo fino a 1 anno dall'ingresso, **senza bisogno di traduzione obbligatoria.** Non è richiesta ma è consigliato [ottenere un Permesso di Guida Internazionale (o Patente Internazionale)](/blog/patente-internazionale-come-fare-guida-completa) prima di partire, rilasciato dall'ACI in Italia e valido 1 anno.
+La patente italiana (o UE) è riconosciuta in Georgia per un periodo fino a 1 anno dall'ingresso, **senza bisogno di traduzione obbligatoria.** Non è richiesta ma è consigliato [ottenere un Permesso di Guida Internazionale (o Patente Internazionale)](/blog/patente-internazionale-guida-completa-requisiti-costi) prima di partire, rilasciato dall'ACI in Italia e valido 1 anno.
 
 Ricorda: la guida è destra mentre i limiti di velocità urbani sono di 50-60 km/h, extraurbani 90-110 km/h. Tolleranza zero per l'alcol (0,0 g/l), **con multe severe.**
 
-{{< leggi-anche url="/blog/patente-internazionale-come-fare-guida-completa" >}}
+{{< leggi-anche url="/blog/patente-internazionale-guida-completa-requisiti-costi" >}}
 
 ## Procedure doganali e valichi di Confine
 All'ingresso, le dogane georgiane sono efficienti ma richiedono pazienza: Il guidatore passa con il camper per ispezione veicolo (presenta documenti auto, TPL e passaporto), mentre i passeggeri vanno separatamente per controlli personali.
@@ -90,11 +90,11 @@ La valuta è il Lari Georgiano (GEL, 1€ ~2,7 GEL). Cambia al confine o in banc
 Per entrare in Georgia con un animale domestico (cani, gatti o furetti), è necessario rispettare i requisiti di importazione:
 
 - **Microchip:** Il tuo animale deve essere identificato con un microchip ISO 11784/11785 a 15 cifre.
-- **Vaccinazioni:** Cani e gatti devono essere vaccinati contro la rabbia almeno 21 giorni e non oltre 11 mesi prima dell’ingresso. I cani devono inoltre essere vaccinati contro cimurro, epatite, leptospirosi, parvovirus e parainfluenza; i gatti contro rinotracheite virale felina, panleucopenia e leucemia felina. [Le vaccinazioni devono essere registrate su un certificato sanitario internazionale.](/blog/viaggiare-con-cane-e-gatto-tutto-quello-che-devi-sapere)
+- **Vaccinazioni:** Cani e gatti devono essere vaccinati contro la rabbia almeno 21 giorni e non oltre 11 mesi prima dell’ingresso. I cani devono inoltre essere vaccinati contro cimurro, epatite, leptospirosi, parvovirus e parainfluenza; i gatti contro rinotracheite virale felina, panleucopenia e leucemia felina. [Le vaccinazioni devono essere registrate su un certificato sanitario internazionale.](/blog/viaggiare-cane-gatto-guida-completa)
 - **Certificato sanitario:** È richiesto un certificato veterinario internazionale, rilasciato da un veterinario autorizzato in Italia o nel paese di provenienza prima dell’ingresso.
 
 Trovi maggiori informazioni nell'articolo dedicato
-{{< leggi-anche url="/blog/viaggiare-con-cane-e-gatto-tutto-quello-che-devi-sapere">}}
+{{< leggi-anche url="/blog/viaggiare-cane-gatto-guida-completa">}}
 
 ## Altri consigli pratici per un viaggio sicuro
 - **Sicurezza:** La Georgia è stabile, ma evita proteste a Tbilisi e zone confine con Ossezia/Abkhazia (occupate da Russia).

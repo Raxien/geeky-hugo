@@ -76,7 +76,7 @@ Nella stessa piazza di trova il Central Kids Store, un centro commerciale per ba
  
 #### La metropolitana di Mosca
 
-Chiamata anche **“Palazzo del Popolo”**, è una delle metropolitane più trafficate al mondo. Grazie ai colori delle linee e a una ricerca attenta e curiosa tra più di 200 stazioni, abbiamo dato il via a un tour degno di un museo sotterraneo, della durata di circa due ore. [Scoprilo qui per non perderti le fermate più spettacolari](/blog/la-metropolitana-di-mosca-un-viaggio-imperdibile-tra-arte-storia-e-sotterranei-segreti).
+Chiamata anche **“Palazzo del Popolo”**, è una delle metropolitane più trafficate al mondo. Grazie ai colori delle linee e a una ricerca attenta e curiosa tra più di 200 stazioni, abbiamo dato il via a un tour degno di un museo sotterraneo, della durata di circa due ore. [Scoprilo qui per non perderti le fermate più spettacolari](/blog/metropolitana-mosca-viaggio-arte-storia-sotterranei).
 
 #### Cattedrale del Cristo Salvatore
 

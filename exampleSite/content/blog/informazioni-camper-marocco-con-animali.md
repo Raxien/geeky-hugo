@@ -36,7 +36,7 @@ Inoltre, deve essere vaccinato contro la rabbia e avere un certificato valido di
 
 La **{{< underline "titolazione antirabbica">}}** è il documento più importante di tutti, che vi permetterà di poter rientrare in Europa con i vostri animali. Senza questo documento l’animale verrà sottoposto a quarantena. 
 Per ottenere la titolazione è necessario fare un prelievo del sangue presso il vostro veterinario, il quale provvede ad inviare il campione in un laboratorio autorizzato. I risultati vengono inviati via mail.
-Noi ci siamo affidati all'{{<extLink "Istituto Zooprofilattico Sperimentale delle Venezie (IZSVe)" "https://www.izsvenezie.it/servizi/servizi-specifici/titolazione-anticorpi-rabbia/">}}.
+Noi ci siamo affidati all'{{< extLink "Istituto Zooprofilattico Sperimentale delle Venezie (IZSVe)" "https://www.izsvenezie.it/servizi/servizi-specifici/titolazione-anticorpi-rabbia/">}}.
 
 **{{< underline "Attenzione">}}**: ricordatevi di far scrivere sul passaporto alla voce VI i dettagli dell’esame effettuato (noi non lo sapevamo e abbiamo passato un brutto quarto d’ora).
 
@@ -51,11 +51,11 @@ Soprattutto lungo la costa abbiamo notato anche molti branchi di cani randagi.  
 Prima di poter entrare in Marocco è necessario effettuare una visita da un veterinario per l'ottenimento del **certificato di buona salute**, valido 10 giorni. 
 
 ### Tratta Spagna - Marocco
-Se come noi partite da Algeciras in Spagna potete rivolgervi presso la struttura {{<extLink "Brulina in Palmones y Los Barrios" "https://www.cvbrulina.com/">}} prenotando in anticipo. 
+Se come noi partite da Algeciras in Spagna potete rivolgervi presso la struttura {{< extLink "Brulina in Palmones y Los Barrios" "https://www.cvbrulina.com/">}} prenotando in anticipo. 
 
 **Costo**: 30 euro per animale.
 
-Una volta rilasciato questo documento dovrete recarvi presso il **Poste d'inspection frontalier** (PIF) situato nel porto. È un ufficio adibito (vi lasciamo {{<extLink qui "https://goo.gl/maps/EpsgNCQfVRAkxcnR7">}} le coordinate) al controllo di questi documenti, dove vi rilasceranno un altro documento da mostrare una volta arrivati in Marocco.
+Una volta rilasciato questo documento dovrete recarvi presso il **Poste d'inspection frontalier** (PIF) situato nel porto. È un ufficio adibito (vi lasciamo {{< extLink qui "https://goo.gl/maps/EpsgNCQfVRAkxcnR7">}} le coordinate) al controllo di questi documenti, dove vi rilasceranno un altro documento da mostrare una volta arrivati in Marocco.
 Consigliamo caldamente di effettuare tutte queste procedure con un po' di anticipo.
 
 Durante la traversata, che dura un paio di ore, gli animali possono rimanere in camper oppure essere portati sul pontile, a patto che rimangano nelle zone senza moquette. Vista la breve durata noi abbiamo preferito lasciarli tranquilli a bordo del mezzo. 
@@ -71,12 +71,12 @@ Prima di lasciare il paese per rientrare in Europa bisogna recarsi presso **l'ON
 Una volta ottenuti questi documenti avrete 10 giorni per lasciare il paese in serenità!
 
 Vi lasciamo di seguito le coordinate degli uffici dell'ONSSA in base al porto di rientro:
-- **{{<extLink "Tangeri" "https://goo.gl/maps/yJr8z1G2aJV5ZYru5">}}**: per la tratta Tangeri - Spagna
-- **{{<extLink "Tétouan" "https://goo.gl/maps/5uL38p9SKyB4hwwJ7">}}**: per la tratta da Ceuta 
+- **{{< extLink "Tangeri" "https://goo.gl/maps/yJr8z1G2aJV5ZYru5">}}**: per la tratta Tangeri - Spagna
+- **{{< extLink "Tétouan" "https://goo.gl/maps/5uL38p9SKyB4hwwJ7">}}**: per la tratta da Ceuta 
 
-Esistono anche altre sedi come ad esempio **{{<extLink "quella di Chefchaouen" "https://goo.gl/maps/CS9zYJkSVF9gYmeYA">}}** che noi abbiamo trovato chiusa.
+Esistono anche altre sedi come ad esempio **{{< extLink "quella di Chefchaouen" "https://goo.gl/maps/CS9zYJkSVF9gYmeYA">}}** che noi abbiamo trovato chiusa.
 
-Per quanto riguarda il veterinario noi ci siamo recati presso la {{<extLink "Clinique Vétérinaire Youssef" "https://goo.gl/maps/GKmMHPY5geD8TPpy5">}} a Tangeri.
+Per quanto riguarda il veterinario noi ci siamo recati presso la {{< extLink "Clinique Vétérinaire Youssef" "https://goo.gl/maps/GKmMHPY5geD8TPpy5">}} a Tangeri.
 
 **Costo**: 20 euro per animale.
 
@@ -93,9 +93,9 @@ Se prevedete di visitare le zone vicino a Merzouga e le imponenti dune di sabbia
 Se prevedete di entrare in Marocco con il vostro mezzo non esistono particolari limitazioni. I documenti da avere sono:
 -   Patente
 -   Libretto di circolazione
--   Assicurazione valida anche per il Marocco ({{<extLink "Carta Verde" "https://ucimi.it/carta-verde/">}})
+-   Assicurazione valida anche per il Marocco ({{< extLink "Carta Verde" "https://ucimi.it/carta-verde/">}})
 
-Noi ci affidiamo a **{{<extLink "Camper Sereno" "https://www.campersereno.it/">}}** che rilascia gratuitamente l'estensione dell'assicurazione anche per il Marocco. In caso la vostra compagnia assicurativa non abbia questa estensione potete stipulare un'assicurazione al porto al vostro arrivo in Marocco.
+Noi ci affidiamo a **{{< extLink "Camper Sereno" "https://www.campersereno.it/">}}** che rilascia gratuitamente l'estensione dell'assicurazione anche per il Marocco. In caso la vostra compagnia assicurativa non abbia questa estensione potete stipulare un'assicurazione al porto al vostro arrivo in Marocco.
 
 Sia allo sbarco che prima di prendere il traghetto per ritornare in Europa il mezzo verrà controllato allo scanner a raggi X. All'ingresso nel paese vi verrà rilasciato un foglio di ammissione temporaneo valido 6 mesi da custodire con molta cura in quanto necessario per uscire!
 
@@ -111,7 +111,7 @@ Sulla nave si effettua il controllo del passaporto e si consegna la fiche de pol
 ### Consigli utili
 I limiti di velocità sono ben segnalati e vanno rispettati. Sul territorio sono presenti numerosi posti di blocco, abbiate cura di fermarvi e di proseguire solo quando segnalato dal gendarme.
 
-Non sono segnalati gli autovelox fissi e mobili. Nel primo caso potete verificare se avete preso delle multe che pagherete all'uscita dal paese registrandovi {{<extLink "al seguente link" "http://infractionsroutieres.mtpnet.gov.ma/">}}.
+Non sono segnalati gli autovelox fissi e mobili. Nel primo caso potete verificare se avete preso delle multe che pagherete all'uscita dal paese registrandovi {{< extLink "al seguente link" "http://infractionsroutieres.mtpnet.gov.ma/">}}.
 Per quanto riguarda le multe degli autovelox mobili queste vengono pagate in loco al primo posto di blocco. Il prezzo è di 150 dh (15 €) pagabili solo con contante.
 
 ## Quanto costa
@@ -119,7 +119,7 @@ Il prezzo del biglietto andata e ritorno per due persone e un van di 5.40 metri 
 Se avessimo scelto Ceuta come destinazione avremmo pagato circa **{{< underline "40/50 euro">}}** in meno, ma i controlli alla dogana sono più lunghi e abbiamo preferito questa tratta per sbrigarli a bordo e velocizzare il tutto.
 Gli animali non hanno pagato alcuna sovrattassa. 
 
-L’agenzia alla quale ci siamo rivolti è quella di {{<extLink "Viajes Normandie" "https://www.viajesnormandie.net/">}} a Palmones y Los Barrios. Sono molto gentili e i più economici e ti regalano una bottiglia di vino e un pacco di biscotti!
+L’agenzia alla quale ci siamo rivolti è quella di {{< extLink "Viajes Normandie" "https://www.viajesnormandie.net/">}} a Palmones y Los Barrios. Sono molto gentili e i più economici e ti regalano una bottiglia di vino e un pacco di biscotti!
 Come servizio aggiuntivo ti permettono di lasciare in deposito il drone gratuitamente! 
 
 <!-- Per tutte le altre informazioni relative al nostro itinerario completo in Marocco trovi tutto nei due articoli dedicati  -->

@@ -13,7 +13,7 @@ In van? Sì! Idea folle? No!
 Sogniamo questo viaggio da anni e finalmente è arrivato il momento di trasformarlo in realtà e raccontarvi tutti i dettagli, i retroscena e anche qualche segreto!
 
 ## Un progetto nato tre anni fa
-Era marzo 2021 e mentre aspettavamo l'arrivo [del nostro van](/van) tracciavamo percorsi con le dita su di una grande cartina appesa in cucina. Era il periodo [dell'Hanami in Giappone](/blog/viaggio-giappone-informazioni-e-itinerari), le fotografie sul web colme di boccioli in fiore ci avevano fatto venire voglia di tornare nel paese del Sol Levante e ci siamo detti scherzando: 
+Era marzo 2021 e mentre aspettavamo l'arrivo [del nostro van](/van) tracciavamo percorsi con le dita su di una grande cartina appesa in cucina. Era il periodo [dell'Hanami in Giappone](/blog/viaggio-giappone-guida-itinerari), le fotografie sul web colme di boccioli in fiore ci avevano fatto venire voglia di tornare nel paese del Sol Levante e ci siamo detti scherzando: 
 > **Perché non ci andiamo in van?**
 
 Una semplice battuta, che si è però trasformata in sogno, rinchiuso in un cassetto mentale. 

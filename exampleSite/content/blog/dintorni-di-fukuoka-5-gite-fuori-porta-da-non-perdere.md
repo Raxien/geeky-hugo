@@ -29,7 +29,7 @@ Attraversando i cancelli fino in fondo, si trova una piccola sala di culto Haid
 ### Come arrivare
 Treno Nishitetsu da Tenjin, cambio a Futsukaichi. Scendi a Dazaifu.
 
-{{< leggi-anche url="/blog/un-giappone-diverso-14-giorni-on-the-road-nel-selvaggio-kyushu/" >}}
+{{< leggi-anche url="/blog/giappone-kyushu-14-giorni-on-the-road-selvaggio/" >}}
 
 ## 2. Nanzoin: il Buddha sdraiato più grande del Giappone
 Appena fuori da [Fukuoka](/blog/cosa-vedere-a-fukuoka-la-citta-accogliente-del-kyushu/), in mezzo alla vegetazione lussureggiante di Sasaguri, si trova uno dei luoghi più suggestivi e meno conosciuti dell’isola: il **Tempio Nanzoin**.
@@ -95,7 +95,7 @@ Accessibile in auto o taxi dalla stazione di Ukiha (JR Kyudai Line). Ottimo anch
 ## Hai fame?
 
 Ogni tappa ha le sue specialità, tra cui **anguilla a Yanagawa, umegae mochi a Dazaifu e caffè vista oceano a Itoshima**.  
-Per scoprire dove mangiare un ramen alternativo a Fukuoka e dintorni, leggi anche [il nostro articolo](/blog/ramen-vegetariano-a-fukuoka-l-alternativa-sorprendente-al-tonkotsu)
+Per scoprire dove mangiare un ramen alternativo a Fukuoka e dintorni, leggi anche [il nostro articolo](/blog/ramen-vegetariano-fukuoka-alternativa-tonkotsu)
 
 ## Concludendo
 

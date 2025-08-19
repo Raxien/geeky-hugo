@@ -53,7 +53,7 @@ Noi abbiamo trascorso una notte tranquilla in libera vicino al centro sportivo. 
 
 ## Lubiana
 
-Della pittoresca capitale a ridosso del fiume Ljubljanica ve ne parliamo in un articolo dedicato ([che trovi qui](/blog/lubiana-in-un-giorno-la-capitale-slovenia)). Merita **assolutamente** un visita!
+Della pittoresca capitale a ridosso del fiume Ljubljanica ve ne parliamo in un articolo dedicato ([che trovi qui](/blog/lubiana-un-giorno-capitale-slovenia)). Merita **assolutamente** un visita!
 
 ### Dove dormire a Lubiana
 

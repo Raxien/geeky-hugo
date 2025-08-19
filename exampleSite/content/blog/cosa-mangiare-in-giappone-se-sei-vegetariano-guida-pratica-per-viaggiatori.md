@@ -26,7 +26,7 @@ Attenzione in particolare a questi piatti:
 
 {{< underline "Consiglio:" >}} Chiedi sempre se un piatto contiene dashi (だし), katsuobushi (かつおぶし), o brodo di pesce (魚のだし).
 
-{{< leggi-anche url="/blog/viaggio-giappone-informazioni-e-itinerari/" >}}
+{{< leggi-anche url="/blog/viaggio-giappone-guida-itinerari/" >}}
 
 ## Piatti giapponesi vegetariani o adattabili
 Ecco un elenco di piatti giapponesi vegetariani, o facilmente adattabili, da cercare durante il tuo viaggio:

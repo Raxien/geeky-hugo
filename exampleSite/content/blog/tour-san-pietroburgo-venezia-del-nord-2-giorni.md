@@ -68,7 +68,7 @@ L’Incorniciatore Aurora, raggiungibile in 15 minuti a piedi dalla Fortezza, è
 
 ### Tour della Metropolitana
 San Pietroburgo nasconde un tesoro sotterraneo: una rete metropolitana tra le più profonde al mondo. Avtovo, Narvskaya, Pushkinskaya, Admiralteyskaya sono solo i nomi di alcune delle fermate più  belle.
-Con un unico gettone abbiamo raggiunto profondità impressionanti, osservando alcune opere d’arte davvero mozzafiato: statue, colonne di marmo, coloratissimi affreschi e mosaici, eleganti lampadari. [Scopri di più nell’articolo dedicato!](/blog/viaggio-nel-cuore-di-san-pietroburgo-esplora-la-metropolitana-più-profonda-del-mondo)
+Con un unico gettone abbiamo raggiunto profondità impressionanti, osservando alcune opere d’arte davvero mozzafiato: statue, colonne di marmo, coloratissimi affreschi e mosaici, eleganti lampadari. [Scopri di più nell’articolo dedicato!](/blog/san-pietroburgo-viaggio-metropolitana-piu-profonda-mondo)
 
 ## Spostamenti
 La maggior parte dei monumenti e delle attrazioni turistiche della città possono essere raggiunte a piedi, ma se preferisci puoi usare anche i mezzi pubblici che funzionano molto bene (metro, autobus, tramvia o filobus). 

@@ -952,7 +952,7 @@ function addRelatedArticles(summaryContainer) {
   // Aggiungi il disclaimer alla fine del box
   const disclaimer = document.createElement('div');
   disclaimer.className = 'ai-summary-disclaimer';
-  disclaimer.innerHTML = '<small><em>Discalimer: Questo riassunto è in fase di test. Se ci sono errori <a href="/blog/sake-il-gatto-viaggiatore-da-record-mondiale" style="color: #15817f;">è colpa di Sakè</a></em></small>';
+  disclaimer.innerHTML = '<small><em>Discalimer: Questo riassunto è in fase di test. Se ci sono errori <a href="/blog/sake-gatto-viaggiatore-record-mondiale" style="color: #15817f;">è colpa di Sakè</a></em></small>';
   disclaimer.style.cssText = 'color: black; font-size: 12px; margin-top: 15px; text-align: center;';
   summaryContainer.appendChild(disclaimer);
 }

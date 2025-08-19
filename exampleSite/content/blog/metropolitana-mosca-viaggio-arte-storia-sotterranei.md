@@ -20,7 +20,7 @@ Nella maggior parte dei vagoni della metropolitana di Mosca si può trovare la 
  
 ## App utili
 
-Per evitare di perderti all’interno delle numerose fermate della metropolitana ti consigliamo di scaricare la mappa, o richiederla in una delle stazioni. A proposito, scarica l’applicazione **"Yandex Maps"** ({{<extLink "versione iOS" "https://apps.apple.com/us/app/yandex-maps-navigator/id313877526">}} o {{<extLink "versione Android" "https://play.google.com/store/apps/details?id=ru.yandex.yandexmaps&hl=en_IN">}}), unica app che funziona sul suolo Russo, per tracciare il percorso più opportuno da effettuare da un punto all’altro della città.
+Per evitare di perderti all’interno delle numerose fermate della metropolitana ti consigliamo di scaricare la mappa, o richiederla in una delle stazioni. A proposito, scarica l’applicazione **"Yandex Maps"** ({{< extLink "versione iOS" "https://apps.apple.com/us/app/yandex-maps-navigator/id313877526">}} o {{< extLink "versione Android" "https://play.google.com/store/apps/details?id=ru.yandex.yandexmaps&hl=en_IN">}}), unica app che funziona sul suolo Russo, per tracciare il percorso più opportuno da effettuare da un punto all’altro della città.
 
 ## I biglietti 
 Vi sono 4 tipologie di biglietto che si possono acquistare presso le macchinette automatiche o direttamente presso gli sportelli **(indicati con la parola “KACCA”):**
@@ -117,4 +117,4 @@ Una delle stazioni più recenti, **in cui non si reca quasi nessuno**, progettat
 Per godersi al meglio l'atmosfera unica della metropolitana di Mosca, indossa scarpe comode, presta attenzione alle ore di punta, rispetta le norme di comportamento (come non mangiare, bere o gettare rifiuti), **e ammira l'architettura e l'arte di ogni stazione.**
 
 **Un tour della metropolitana di Mosca è un'esperienza indimenticabile** che ti permetterà di scoprire una parte importante della storia, della cultura e dell'anima della Russia.
-Che dici, {{<extLink "vieni a scoprire il Palazzo del Popolo insieme a noi?" "https://youtu.be/xS23dpY5Y3g">}}
+Che dici, {{< extLink "vieni a scoprire il Palazzo del Popolo insieme a noi?" "https://youtu.be/xS23dpY5Y3g">}}

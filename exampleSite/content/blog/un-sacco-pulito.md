@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w
 date: 2023-10-03T8:00:00+01:00
 categories: [ "Blog"]
 type: featured
-draft: false
+draft: true
 ---
 
 Oggi vi vogliamo parlare di un progetto a cui teniamo molto e di cui siamo entrati a far parte. Un progetto che ci permetterà di tenere il mondo **"Un Sacco Pulito".**

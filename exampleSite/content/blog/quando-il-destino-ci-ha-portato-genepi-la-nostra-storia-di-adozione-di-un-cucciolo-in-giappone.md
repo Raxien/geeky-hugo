@@ -48,6 +48,6 @@ Vuoi adottare un cane in Giappone o viaggiare con il tuo animale?
 Scrivici nei commenti o sui social se hai domande su:
 * come funziona l’adozione in Giappone
 * viaggiare in camper con cane e gatto
-* [documenti e vaccinazioni per animali](/blog/entrare-in-giappone-con-il-tuo-cane-o-gatto-come-evitare-la-quarantena/) in Asia
+* [documenti e vaccinazioni per animali](/blog/entrare-giappone-cane-gatto-evitare-quarantena/) in Asia
 
 Saremo felici di aiutarti con la nostra esperienza.

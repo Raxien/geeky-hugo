@@ -22,7 +22,7 @@ Infatti, che tu sia un turista, un professionista in viaggio d'affari o faccia p
 6. Prenotazioni anche all'Ultimo Minuto: Possibilità di effettuare prenotazioni anche all'ultimo minuto (fino a 3 ore prima della partenza), per **massima flessibilità**.
 7. **eSIM Gratuita!**: Acquistando un biglietto Shinkansen tramite Japan Bullet Train, riceverai un link per scaricare una eSIM gratuita da 300MB (valida per 3 giorni), perfetta per rimanere connesso appena arrivato in Giappone!
 
-{{< leggi-anche url="/blog/la-connessione-perfetta-per-il-tuo-viaggio-in-Giappone-japan-wireless" >}}
+{{< leggi-anche url="/blog/connessione-viaggio-giappone-japan-wireless" >}}
 
 ## Come Funziona
 
@@ -45,4 +45,4 @@ Per rendere il tuo viaggio in Giappone ancora più semplice, scopri le soluzioni
 
 ## Suggerimenti Utili
 Prenota i tuoi biglietti in anticipo, soprattutto durante i periodi di alta stagione, per assicurarti i posti desiderati.
-Completa la tua esperienza di viaggio in Giappone con l'eSIM o il router WiFi di Japan Wireless per essere connessa/o ovunque! [Leggi di più sulle nostre esperienze con l'eSIM e il router](/blog/la-connessione-perfetta-per-il-tuo-viaggio-in-Giappone-japan-wireless) approfittando del nostro esclusivo **codice sconto del 10%** su questo servizio.
+Completa la tua esperienza di viaggio in Giappone con l'eSIM o il router WiFi di Japan Wireless per essere connessa/o ovunque! [Leggi di più sulle nostre esperienze con l'eSIM e il router](/blog/connessione-viaggio-giappone-japan-wireless) approfittando del nostro esclusivo **codice sconto del 10%** su questo servizio.

@@ -8,6 +8,7 @@ type: regular
 continent: Asia
 country: Corea del Sud
 draft: false
+summary: qui
 ---
 Situata nel cuore della Corea del Sud, Jeonju è una città che incanta i visitatori con il suo patrimonio culturale e la sua cucina straordinaria. Conosciuta come una delle capitali culturali del paese, Jeonju è la culla di tradizioni secolari, dal suo iconico Villaggio Hanok alle specialità gastronomiche come il bibimbap. Questa guida ti accompagnerà alla scoperta di una città dove passato e presente si fondono in un’esperienza unica, perfetta per chi cerca autenticità e bellezza.
 

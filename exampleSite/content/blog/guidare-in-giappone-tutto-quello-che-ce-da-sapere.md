@@ -12,7 +12,7 @@ country: Giappone
 Guidare in Giappone può sembrare complicato, ma con le giuste informazioni diventa un'esperienza entusiasmante, comoda e spesso l'unico modo per esplorare le aree più remote. Dalle montagne dello Shikoku ai piccoli villaggi del Kyushu, avere un mezzo proprio può fare la differenza. Ecco tutto ciò che c'è da sapere prima di mettersi al volante.
 
 ## 1. Serve la patente internazionale
-Per guidare in Giappone **è necessaria una patente internazionale (IDP) conforme alla Convenzione di Ginevra del 1949**, che si ottiene in Italia tramite la Motorizzazione. Scopri come ottenere la patente internazionale [sul nostro articolo dedicato.](/blog/patente-internazionale-come-fare-guida-completa)
+Per guidare in Giappone **è necessaria una patente internazionale (IDP) conforme alla Convenzione di Ginevra del 1949**, che si ottiene in Italia tramite la Motorizzazione. Scopri come ottenere la patente internazionale [sul nostro articolo dedicato.](/blog/patente-internazionale-guida-completa-requisiti-costi)
 
 Attenzione: non tutte le patenti internazionali sono valide (come quelle secondo la Convenzione di Vienna del 1968, usate in molti Paesi europei), **quindi è fondamentale richiedere quella giusta.**
 
@@ -72,4 +72,4 @@ In Giappone non è vietato dormire nel proprio veicolo, ma è importante farlo n
 ## In sintesi: sì, vale la pena guidare
 Se ti piacciono la libertà, l'esplorazione e la possibilità di uscire dai circuiti turistici classici, **guidare in Giappone è un'esperienza che arricchisce il viaggio.** Basta un po' di preparazione, attenzione e rispetto delle regole. 
 
-A proposito, vuoi scoprire [un tour perfetto di 14 giorni attraverso il Kyushu on the road? Clicca qui.](/blog/un-giappone-diverso-14-giorni-on-the-road-nel-selvaggio-kyushu) 
+A proposito, vuoi scoprire [un tour perfetto di 14 giorni attraverso il Kyushu on the road? Clicca qui.](/blog/giappone-kyushu-14-giorni-on-the-road-selvaggio) 

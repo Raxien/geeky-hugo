@@ -35,7 +35,7 @@ La personalizzazione non è solo estetica: avere una carta riconoscibile ci aiut
 
 Viaggiare in paesi fuori dall’Unione Europea può essere costoso, **ma Revolut elimina molte delle spese inutili.** La carta supporta oltre 150 valute, permettendoci di pagare ovunque, dalla [Corea del Sud](/blog/seoul-cosa-vedere-4-giorni-itinerario-completo) al [Marocco](/blog/marocco-in-camper-dalla-costa-al-deserto-a-marrakech), senza preoccuparci di commissioni nascoste. **I prelievi ATM sono gratuiti fino a un limite mensile** (200 € per il piano Standard, 400 € per il Premium), perfetti per paesi dove il contante è ancora necessario.
 
-Un esempio pratico:  [in Giappone](/blog/viaggio-giappone-informazioni-e-itinerari), dove alcuni negozi accettano solo contanti, abbiamo prelevato yen da un ATM senza commissioni (rispettando il limite). Quando pagavamo con la carta, **sceglievamo sempre di addebitare in valuta locale (es. yen) per ottenere il tasso di cambio di Revolut**, spesso più vantaggioso di quello del commerciante.
+Un esempio pratico:  [in Giappone](/blog/viaggio-giappone-guida-itinerari), dove alcuni negozi accettano solo contanti, abbiamo prelevato yen da un ATM senza commissioni (rispettando il limite). Quando pagavamo con la carta, **sceglievamo sempre di addebitare in valuta locale (es. yen) per ottenere il tasso di cambio di Revolut**, spesso più vantaggioso di quello del commerciante.
 
 ## Revolut Premium: un upgrade per viaggiatori
 

@@ -41,7 +41,7 @@ Contatta l’ambasciata con anticipo per conoscere i documenti necessari e i tem
 
 ## Guidare in Corea del Sud
 Se intendi guidare durante il tuo soggiorno, avrai bisogno di:
-- **Patente di guida internazionale** (Convenzione di Vienna o di Ginevra), da richiedere in Italia presso la Motorizzazione Civile. Per le procedure abbiamo scritto [un articolo in merito](/blog/patente-internazionale-come-fare-guida-completa).
+- **Patente di guida internazionale** (Convenzione di Vienna o di Ginevra), da richiedere in Italia presso la Motorizzazione Civile. Per le procedure abbiamo scritto [un articolo in merito](/blog/patente-internazionale-guida-completa-requisiti-costi).
 - **Patente nazionale**: La patente internazionale non è valida da sola, quindi porta sempre con te entrambe.
 
 Per noleggiare un’auto o un camper, potrebbe essere richiesta una **carta di credito** come garanzia.

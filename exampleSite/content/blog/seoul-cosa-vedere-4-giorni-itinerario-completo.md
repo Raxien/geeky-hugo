@@ -109,7 +109,7 @@ Un’oasi di serenità immersa nella natura, **il Suguksa è un tempio buddista 
 
 ## Itinerario di 4 Giorni a Seoul
 
-Ora che conoscete le attrazioni, ecco come organizzarle in un itinerario di 4 giorni, bilanciando storia, cultura e modernità. Per muovervi comodamente, [vi consiglio di usare la metropolitana di Seoul, facile e puntual](/blog/guida-definitiva-alla-metro-di-seoul-e-alla-t-Money).
+Ora che conoscete le attrazioni, ecco come organizzarle in un itinerario di 4 giorni, bilanciando storia, cultura e modernità. Per muovervi comodamente, [vi consiglio di usare la metropolitana di Seoul, facile e puntual](/blog/guida-definitiva-metro-seoul-t-money).
 
 ### Giorno 1: palazzi Reali e arte
 - **Mattina**: Visitate **Gyeongbokgung**, il palazzo più iconico. Se siete fortunati, assistete alla cerimonia del cambio della guardia. Con il **Royal Palace Pass**, l’ingresso è rapido.
@@ -134,6 +134,6 @@ Ora che conoscete le attrazioni, ecco come organizzarle in un itinerario di 4 gi
 - **Sera**: Concludete con una cena elegante a Gangnam o un’ultima passeggiata a Myeongdong per gli ultimi acquisti.
 
 ## Consigli Finali
-Seoul è una città che sorprende a ogni angolo, e questo itinerario copre il meglio in soli 4 giorni. Per pianificare al meglio, ricordati di [scaricare queste app indispensabili](/blog/corea-del-sud-le-app-da-avere-per-viaggiare-senza-problemi) e di leggere come fare la [T-Money per risparmiare soldi quando usi la metro](/blog/guida-definitiva-alla-metro-di-seoul-e-alla-t-Money). Il **Royal Palace Pass** vi farà risparmiare tempo, lasciandovi più tempo per godervi la città. Preparate le scarpe comode e lasciatevi conquistare dalla magia di Seoul!
+Seoul è una città che sorprende a ogni angolo, e questo itinerario copre il meglio in soli 4 giorni. Per pianificare al meglio, ricordati di [scaricare queste app indispensabili](/blog/corea-del-sud-le-app-da-avere-per-viaggiare-senza-problemi) e di leggere come fare la [T-Money per risparmiare soldi quando usi la metro](/blog/guida-definitiva-metro-seoul-t-money). Il **Royal Palace Pass** vi farà risparmiare tempo, lasciandovi più tempo per godervi la città. Preparate le scarpe comode e lasciatevi conquistare dalla magia di Seoul!
 
  

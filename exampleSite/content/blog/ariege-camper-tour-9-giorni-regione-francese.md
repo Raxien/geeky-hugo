@@ -31,18 +31,18 @@ Piacevole paese di montagna, è una meta nota per le acque termali e le piste da
 Borgo medievale veramente caratteristico, merita una passeggiata per le vie del paese che conducono a un piccolo belvedere e alla vecchia Torre dell Orologio.
 
 ### Foix
-La cittadina, molto caratteristica, è famosa per il {{<extLink "castello" "https://www.sites-touristiques-ariege.fr/chateau-de-foix/">}} che ha origini risalenti al X secolo e la cui posizione arroccata ha fatto sì che la città resistesse alla crociata contro i Catari.
+La cittadina, molto caratteristica, è famosa per il {{< extLink "castello" "https://www.sites-touristiques-ariege.fr/chateau-de-foix/">}} che ha origini risalenti al X secolo e la cui posizione arroccata ha fatto sì che la città resistesse alla crociata contro i Catari.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117442/Articoli/ariege/ariege_foix_mnxl7b.jpg">}}
 
 ### La Bastide de Serou
-Piccolo villaggio pittoresco, offre belle passeggiate nei dintorni. Da non perdere una tappa nella vicina ***Durban sur Arize***, dove abbiamo comprato del pane cotto in forno a legna da un giovane panettiere amante del mestiere. Se non trovi il negozio lasciati guidare dal profumo (oppure {{<extLink "clicca qui" "https://goo.gl/maps/MqDj7QcR6qZJn66CA">}})! 
+Piccolo villaggio pittoresco, offre belle passeggiate nei dintorni. Da non perdere una tappa nella vicina ***Durban sur Arize***, dove abbiamo comprato del pane cotto in forno a legna da un giovane panettiere amante del mestiere. Se non trovi il negozio lasciati guidare dal profumo (oppure {{< extLink "clicca qui" "https://goo.gl/maps/MqDj7QcR6qZJn66CA">}})! 
 
 ### Saint Lizier
 Questa bellissima cittadina vanta il prestigio di ospitare la sede di un importante vescovado. A noi ha colpito per il delizioso centro storico, curato in ogni dettaglio e ricco di botteghe artigiane. Se hai tempo visita la vicina ***Mont Joie en Couserans***, per una passeggiata in un borgo di altri tempi.
 
 ### Le Mas d’Azil
-Questo luogo è noto per la **{{<extLink "Grotta du Mas d’Azil" "https://www.sites-touristiques-ariege.fr/roadtrip-de-site-en-site/grotte-du-mas-dazil/">}}**. Si tratta di un luogo mistico: oltre al fatto che si può attraversare la grotta non solo a piedi ma anche su 2 o 4 ruote, permette di scoprire la vita preistorica dei Cro-magnon. Non perderti una passeggiata fra le case a graticcio colorate dell’omonimo paesino poco più avanti, dal quale partono numerose passeggiate in natura anche alla scoperta di antichi dolmen.
+Questo luogo è noto per la **{{< extLink "Grotta du Mas d’Azil" "https://www.sites-touristiques-ariege.fr/roadtrip-de-site-en-site/grotte-du-mas-dazil/">}}**. Si tratta di un luogo mistico: oltre al fatto che si può attraversare la grotta non solo a piedi ma anche su 2 o 4 ruote, permette di scoprire la vita preistorica dei Cro-magnon. Non perderti una passeggiata fra le case a graticcio colorate dell’omonimo paesino poco più avanti, dal quale partono numerose passeggiate in natura anche alla scoperta di antichi dolmen.
 
 ### Carla Bayle
 Un delizioso borgo fortificato che ospita numerose **botteghe di artisti** e che si affaccia sull’omonimo lago, lungo le cui sponde si può fare una bella passeggiata in natura. Se la trovi aperta non perderti i dipinti della Chiesa, davvero particolari. 
@@ -52,7 +52,7 @@ Un delizioso borgo fortificato che ospita numerose **botteghe di artisti** e che
 ### Montsegur
 Bellissimo villaggio di montagna che si raggiunge percorrendo una salita asfaltata incastonata fra le montagne, al fondo della quale appaiono le prime casette il legno e pietra, un unico negozietto di alimentari, un ristorantino, una piccola chiesa e un panorama meraviglioso. 
 
-Qui si trova alche l'imponente {{<extLink "castello cataro" "http://www.montsegur.fr/">}}. Se vuoi visitare le rovine del castello di Monségur tieni conto che è raggiungibile con una camminata di almeno mezz’ora in salita. 
+Qui si trova alche l'imponente {{< extLink "castello cataro" "http://www.montsegur.fr/">}}. Se vuoi visitare le rovine del castello di Monségur tieni conto che è raggiungibile con una camminata di almeno mezz’ora in salita. 
 
 ### Lac de Montbel
 Lago che si estende con un perimetro di 16 km e che permette passeggiate meravigliose lungo le rive oltre alla possibilità di fare un bagno rigenerante.
@@ -91,7 +91,7 @@ Di seguito ti proponiamo un itinerario di 9 giorni   che più ci hanno entusiasm
 Nel nostro itinerario improvvisato in loco (ma che ci ha regalato tante emozioni) abbiamo tralasciato **Tolosa** perché le recensioni sui parcheggi per i camper non erano delle più rassicuranti. Ci sarebbero state tantissime altre tappe da prendere in considerazione, tra piccoli borghi e luoghi in natura. Purtroppo non abbiamo potuto rimanere di più in questa regione francese, che però in pochi giorni ci ha permesso di ammirarne tutto lo splendore. 
 Se attraversi l'Ariege per raggiungere Andorra o la Spagna o nel ritornare indietro, ti consigliamo una sosta a **L’Hospitalet**, un piccolo borgo incastonato fra boschi e montagne.
 
-Abbiamo approfittato della calma e della serenità che trasmette l'Ariege in ogni suo luogo per innamorarci ancora una volta dei territori francesi, e di nuovo non solo grazie alla dolcezza dei [pain au chocolat!](/blog/pain-au-chocolat-o-chocolatine-la-miglior-colazione). Se ti fa piacere puoi scoprire la serie completa sulle nostre altre avventure in Francia trovi tutto {{<extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8">}}.
+Abbiamo approfittato della calma e della serenità che trasmette l'Ariege in ogni suo luogo per innamorarci ancora una volta dei territori francesi, e di nuovo non solo grazie alla dolcezza dei [pain au chocolat!](/blog/pain-au-chocolat-o-chocolatine-la-miglior-colazione). Se ti fa piacere puoi scoprire la serie completa sulle nostre altre avventure in Francia trovi tutto {{< extLink "a questo link" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-jTs94ocJqu6RViwWX7Gm8">}}.
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117447/Articoli/ariege/ariege_mirepoix_rgc1wx.jpg">}}
 
