@@ -1,8 +1,8 @@
-<div class="card">
+<div class="card" data-ad-exclude="true">
   <!-- image path -->
   {{ $imagePath:= .Params.image }}
   {{ if $imagePath }}
-  <div class="mb-4 position-relative">
+  <div class="mb-4 position-relative" data-ad-exclude="true">
     <!-- image CDN -->
     {{ if hasPrefix $imagePath "http" }}
     <a href="{{.RelPermalink}}" class="d-block rounded-4" style="overflow: hidden;">
@@ -27,7 +27,7 @@
     {{ $imageLG:= $image.Resize "650x webp" }}
     {{ $imageMD:= $image.Resize "600x webp" }}
     {{ $imageSM:= $image.Resize "545x webp" }}
-    <a href="{{.RelPermalink}}" class="d-block" style="overflow: hidden; border-radius: 0.5rem !important;">
+    <a href="{{.RelPermalink}}" class="d-block" style="overflow: hidden; border-radius: 0.5rem !important;" data-ad-exclude="true">
       <picture style="border-radius: 0.5rem !important; display: block;">
         <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
         <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
@@ -60,7 +60,7 @@
     {{ end }}
   </div>
   {{ end }}
-  <div class="card-body">
+  <div class="card-body" data-ad-exclude="true">
     <h3 class="h6">
       <a class="title-linked" href="{{.RelPermalink}}">{{.Title | markdownify}}</a>
     </h3>
