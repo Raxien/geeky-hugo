@@ -817,7 +817,8 @@ function cleanContentForSummary(contentElement) {
 async function getSummaryFromAPI(title, content, url) {
   try {
     // Crea una chiave di cache unica basata su titolo e URL
-    const cacheKey = `ai_summary_${btoa(title + url).replace(/[^a-zA-Z0-9]/g, '')}`;
+    // Usa encodeURIComponent invece di btoa per gestire caratteri Unicode
+    const cacheKey = `ai_summary_${encodeURIComponent(title + url).replace(/[^a-zA-Z0-9]/g, '')}`;
     
     // Controlla se esiste già in cache
     const cachedSummary = getCachedData(cacheKey);
@@ -879,7 +880,8 @@ async function handleArticleSummary() {
   const currentUrl = window.location.href;
   
   // Crea la chiave di cache per verificare se esiste già
-  const cacheKey = `ai_summary_${btoa(title + currentUrl).replace(/[^a-zA-Z0-9]/g, '')}`;
+  // Usa encodeURIComponent invece di btoa per gestire caratteri Unicode
+  const cacheKey = `ai_summary_${encodeURIComponent(title + currentUrl).replace(/[^a-zA-Z0-9]/g, '')}`;
   const isCached = getCachedData(cacheKey);
   
   if (isCached) {
@@ -1062,7 +1064,8 @@ async function preloadAISummaries() {
   
   for (const pagePath of popularPages) {
     try {
-      const cacheKey = `ai_summary_${btoa('Pagina popolare' + pagePath).replace(/[^a-zA-Z0-9]/g, '')}`;
+      // Usa encodeURIComponent invece di btoa per gestire caratteri Unicode
+      const cacheKey = `ai_summary_${encodeURIComponent('Pagina popolare' + pagePath).replace(/[^a-zA-Z0-9]/g, '')}`;
       
       // Controlla se è già in cache
       if (!getCachedData(cacheKey)) {
