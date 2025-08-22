@@ -813,12 +813,21 @@ function cleanContentForSummary(contentElement) {
   return cleanText;
 }
 
+// Funzione per pulire l'URL rimuovendo parametri extra dopo la barra finale
+function cleanUrlForCache(url) {
+  // Rimuove tutto quello che viene dopo l'ultima barra finale
+  // Es: https://vandipety.it/blog/post/....quaclsoa -> https://vandipety.it/blog/post/
+  const cleanUrl = url.split('/').slice(0, -1).join('/') + '/';
+  return cleanUrl;
+}
+
 // Funzione per ottenere il riassunto dall'API
 async function getSummaryFromAPI(title, content, url) {
   try {
-    // Crea una chiave di cache unica basata su titolo e URL
+    // Crea una chiave di cache unica basata su titolo e URL pulito
     // Usa encodeURIComponent invece di btoa per gestire caratteri Unicode
-    const cacheKey = `ai_summary_${encodeURIComponent(title + url).replace(/[^a-zA-Z0-9]/g, '')}`;
+    const cleanUrl = cleanUrlForCache(url);
+    const cacheKey = `ai_summary_${encodeURIComponent(title + cleanUrl).replace(/[^a-zA-Z0-9]/g, '')}`;
     
     // Controlla se esiste già in cache
     const cachedSummary = getCachedData(cacheKey);
@@ -881,7 +890,8 @@ async function handleArticleSummary() {
   
   // Crea la chiave di cache per verificare se esiste già
   // Usa encodeURIComponent invece di btoa per gestire caratteri Unicode
-  const cacheKey = `ai_summary_${encodeURIComponent(title + currentUrl).replace(/[^a-zA-Z0-9]/g, '')}`;
+  const cleanUrl = cleanUrlForCache(currentUrl);
+  const cacheKey = `ai_summary_${encodeURIComponent(title + cleanUrl).replace(/[^a-zA-Z0-9]/g, '')}`;
   const isCached = getCachedData(cacheKey);
   
   if (isCached) {
@@ -911,7 +921,7 @@ async function handleArticleSummary() {
     stopSummaryAnimation();
     
     // Ottieni il riassunto dall'API
-    const summary = await getSummaryFromAPI(title, content, currentUrl);
+    const summary = await getSummaryFromAPI(title, content, cleanUrl);
     
     // Mostra il riassunto con l'effetto di scrittura
     await typeWriter(summaryContent, summary);
