@@ -33,206 +33,22 @@ collections_config:
     disable_add: true
     disable_add_folder: true
     disable_file_actions: true
+  custom_shortcodes:
+    path: themes/geeky-hugo/layouts/shortcodes
+    name: Custom Shortcodes
+    icon: code
+    description: 'Shortcodes personalizzati per il sito'
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
 _snippets_imports:
   hugo:
     exclude:
       - hugo_instagram
-_snippets:
-  image:
-    label: Immagine
-    description: Inserisci un'immagine con posizionamento e ottimizzazione
-    icon: image
-    group: Media
-    _enabled_editors:
-      - markdown
-      - html
-    _options:
-      src:
-        label: Percorso immagine
-        type: text
-        required: true
-        help: Percorso dell'immagine (es: upload/nome-immagine.jpg)
-      alt:
-        label: Testo alternativo
-        type: text
-        required: true
-        help: Descrizione dell'immagine per l'accessibilità
-      title:
-        label: Titolo
-        type: text
-        help: Titolo dell'immagine (opzionale)
-      caption:
-        label: Didascalia
-        type: text
-        help: Didascalia dell'immagine (opzionale)
-      p:
-        label: Posizione
-        type: select
-        options:
-          - center
-          - left
-          - right
-          - float-left
-          - float-right
-        default: center
-        help: Posizionamento dell'immagine
-      w:
-        label: Larghezza
-        type: number
-        help: Larghezza personalizzata (in pixel)
-      h:
-        label: Altezza
-        type: number
-        help: Altezza personalizzata (in pixel)
-      c:
-        label: Classe CSS
-        type: text
-        help: Classi CSS aggiuntive
-      skip_quality:
-        label: Salta ottimizzazione qualità
-        type: boolean
-        help: Salta l'ottimizzazione automatica della qualità
-    _template: "{{< image src=\"{{src}}\" alt=\"{{alt}}\" title=\"{{title}}\" caption=\"{{caption}}\" p=\"{{p}}\" w=\"{{w}}\" h=\"{{h}}\" c=\"{{c}}\" skip_quality=\"{{skip_quality}}\" >}}"
-
-  youtube2:
-    label: Video YouTube
-    description: Inserisci un video YouTube con anteprima personalizzata
-    icon: play_circle
-    group: Media
-    _enabled_editors:
-      - markdown
-      - html
-    _options:
-      video_id:
-        label: ID Video YouTube
-        type: text
-        required: true
-        help: ID del video YouTube (es: dQw4w9WgXcQ)
-      title:
-        label: Titolo
-        type: text
-        help: Titolo del video (opzionale)
-      start_time:
-        label: Tempo di inizio
-        type: text
-        help: Tempo di inizio in secondi (es: 30)
-    _template: "{{< youtube2 \"{{video_id}}\" \"{{title}}\" >}}"
-
-  leggi_anche:
-    label: Leggi Anche
-    description: Inserisci un link "leggi anche" con immagine correlata
-    icon: link
-    group: Contenuto
-    _enabled_editors:
-      - markdown
-      - html
-    _options:
-      url:
-        label: URL articolo
-        type: text
-        help: URL dell'articolo correlato (opzionale, se vuoto cerca automaticamente)
-    _template: "{{< leggi-anche url=\"{{url}}\" >}}"
-
-  sponsor:
-    label: Sponsor
-    description: Inserisci un box sponsor
-    icon: monetization_on
-    group: Contenuto
-    _enabled_editors:
-      - markdown
-      - html
-    _template: "{{< sponsor >}}"
-
-  carousel:
-    label: Carousel
-    description: Inserisci un carousel di immagini
-    icon: view_carousel
-    group: Media
-    _enabled_editors:
-      - markdown
-      - html
-    _template: "{{< carousel >}}"
-
-  gmap:
-    label: Mappa Google
-    description: Inserisci una mappa Google
-    icon: map
-    group: Media
-    _enabled_editors:
-      - markdown
-      - html
-    _template: "{{< gmap >}}"
-
-  indice:
-    label: Indice
-    description: Inserisci un indice dei contenuti
-    icon: toc
-    group: Contenuto
-    _enabled_editors:
-      - markdown
-      - html
-    _template: "{{< indice >}}"
-
-  summary:
-    label: Riepilogo
-    description: Inserisci un riepilogo del contenuto
-    icon: summary
-    group: Contenuto
-    _enabled_editors:
-      - markdown
-      - html
-    _template: "{{< summary >}}"
-
-  citazione:
-    label: Citazione
-    description: Inserisci una citazione
-    icon: format_quote
-    group: Contenuto
-    _enabled_editors:
-      - markdown
-      - html
-    _template: "{{< citazione >}}"
-
-  button:
-    label: Pulsante
-    description: Inserisci un pulsante personalizzato
-    icon: smart_button
-    group: Contenuto
-    _enabled_editors:
-      - markdown
-      - html
-    _template: "{{< button >}}"
-
-  center:
-    label: Centra
-    description: Centra il contenuto
-    icon: center_focus_strong
-    group: Layout
-    _enabled_editors:
-      - markdown
-      - html
-    _template: "{{< center >}}"
-
-  bold:
-    label: Grassetto
-    description: Rendi il testo grassetto
-    icon: format_bold
-    group: Formattazione
-    _enabled_editors:
-      - markdown
-      - html
-    _template: "{{< bold >}}"
-
-  underline:
-    label: Sottolineato
-    description: Sottolinea il testo
-    icon: format_underline
-    group: Formattazione
-    _enabled_editors:
-      - markdown
-      - html
-    _template: "{{< underline >}}"
-
+  custom:
+    path: themes/geeky-hugo/layouts/shortcodes
+    name: Custom Shortcodes
+    icon: code
 timezone: Asia/Tokyo
 markdown:
   engine: commonmark
