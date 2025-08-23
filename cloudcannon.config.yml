@@ -92,8 +92,7 @@ _snippets:
         label: Salta ottimizzazione qualità
         type: boolean
         help: Salta l'ottimizzazione automatica della qualità
-    _template: |
-      {{< image src="{{src}}" alt="{{alt}}" title="{{title}}" caption="{{caption}}" p="{{p}}" w="{{w}}" h="{{h}}" c="{{c}}" skip_quality="{{skip_quality}}" >}}
+    _template: "{{< image src=\"{{src}}\" alt=\"{{alt}}\" title=\"{{title}}\" caption=\"{{caption}}\" p=\"{{p}}\" w=\"{{w}}\" h=\"{{h}}\" c=\"{{c}}\" skip_quality=\"{{skip_quality}}\" >}}"
 
   youtube2:
     label: Video YouTube
@@ -117,8 +116,7 @@ _snippets:
         label: Tempo di inizio
         type: text
         help: Tempo di inizio in secondi (es: 30)
-    _template: |
-      {{< youtube2 "{{video_id}}" "{{title}}" >}}
+    _template: "{{< youtube2 \"{{video_id}}\" \"{{title}}\" >}}"
 
   leggi_anche:
     label: Leggi Anche
@@ -133,8 +131,7 @@ _snippets:
         label: URL articolo
         type: text
         help: URL dell'articolo correlato (opzionale, se vuoto cerca automaticamente)
-    _template: |
-      {{< leggi-anche url="{{url}}" >}}
+    _template: "{{< leggi-anche url=\"{{url}}\" >}}"
 
   sponsor:
     label: Sponsor
@@ -144,8 +141,7 @@ _snippets:
     _enabled_editors:
       - markdown
       - html
-    _template: |
-      {{< sponsor >}}
+    _template: "{{< sponsor >}}"
 
   carousel:
     label: Carousel
@@ -155,8 +151,7 @@ _snippets:
     _enabled_editors:
       - markdown
       - html
-    _template: |
-      {{< carousel >}}
+    _template: "{{< carousel >}}"
 
   gmap:
     label: Mappa Google
@@ -166,8 +161,7 @@ _snippets:
     _enabled_editors:
       - markdown
       - html
-    _template: |
-      {{< gmap >}}
+    _template: "{{< gmap >}}"
 
   indice:
     label: Indice
@@ -177,8 +171,7 @@ _snippets:
     _enabled_editors:
       - markdown
       - html
-    _template: |
-      {{< indice >}}
+    _template: "{{< indice >}}"
 
   summary:
     label: Riepilogo
@@ -188,8 +181,7 @@ _snippets:
     _enabled_editors:
       - markdown
       - html
-    _template: |
-      {{< summary >}}
+    _template: "{{< summary >}}"
 
   citazione:
     label: Citazione
@@ -199,8 +191,7 @@ _snippets:
     _enabled_editors:
       - markdown
       - html
-    _template: |
-      {{< citazione >}}
+    _template: "{{< citazione >}}"
 
   button:
     label: Pulsante
@@ -210,8 +201,7 @@ _snippets:
     _enabled_editors:
       - markdown
       - html
-    _template: |
-      {{< button >}}
+    _template: "{{< button >}}"
 
   center:
     label: Centra
@@ -221,8 +211,7 @@ _snippets:
     _enabled_editors:
       - markdown
       - html
-    _template: |
-      {{< center >}}
+    _template: "{{< center >}}"
 
   bold:
     label: Grassetto
@@ -232,8 +221,7 @@ _snippets:
     _enabled_editors:
       - markdown
       - html
-    _template: |
-      {{< bold >}}
+    _template: "{{< bold >}}"
 
   underline:
     label: Sottolineato
@@ -243,8 +231,7 @@ _snippets:
     _enabled_editors:
       - markdown
       - html
-    _template: |
-      {{< underline >}}
+    _template: "{{< underline >}}"
 
 timezone: Asia/Tokyo
 markdown:
