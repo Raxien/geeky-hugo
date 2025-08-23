@@ -33,22 +33,20 @@ collections_config:
     disable_add: true
     disable_add_folder: true
     disable_file_actions: true
-  custom_shortcodes:
-    path: themes/geeky-hugo/layouts/shortcodes
-    name: Custom Shortcodes
-    icon: code
-    description: 'Shortcodes personalizzati per il sito'
-    disable_add: false
-    disable_add_folder: false
-    disable_file_actions: false
 _snippets_imports:
   hugo:
     exclude:
       - hugo_instagram
-  custom:
-    path: themes/geeky-hugo/layouts/shortcodes
-    name: Custom Shortcodes
-    icon: code
+_snippets:
+  hugo_indice:
+    template: /themes/geeky-hugo/layouts/shortcodes/indice
+    inline: false
+    preview:
+      text: indice
+    definitions:
+      shortcode_name: indice
+      content_key: inner_text
+
 timezone: Asia/Tokyo
 markdown:
   engine: commonmark
