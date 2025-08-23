@@ -11,9 +11,11 @@ collections_config:
     disable_add_folder: false
     disable_file_actions: false
   content_posts:
-    path: content/posts
+    path: exampleSite/content/blog
     name: Content Posts
     icon: content_paste
+    description: ''
+    _enabled_editors:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
