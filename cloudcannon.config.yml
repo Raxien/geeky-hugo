@@ -39,7 +39,7 @@ _snippets_imports:
       - hugo_instagram
 _snippets:
   hugo_indice:
-    template: /themes/geeky-hugo/layouts/shortcodes/indice
+    snippet: "{{< indice >}}"
     inline: false
     preview:
       text: indice
