@@ -1,0 +1,57 @@
+_schema: _schema
+paths:
+  uploads: static/uploads
+  static: static
+collections_config:
+  config_default:
+    path: config/_default
+    name: Config Default
+    icon: chair_alt
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_posts:
+    path: content/posts
+    name: Content Posts
+    icon: content_paste
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  example_site:
+    path: exampleSite
+    name: Example Site
+    icon: explicit
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  themes_geeky_hugo_data:
+    path: themes/geeky-hugo/data
+    name: Themes Geeky Hugo Data
+    icon: emergency_heat
+    disable_add: true
+    disable_add_folder: true
+    disable_file_actions: true
+_snippets_imports:
+  hugo:
+    exclude:
+      - hugo_instagram
+timezone: Asia/Tokyo
+markdown:
+  engine: commonmark
+  options:
+    xhtml: false
+    breaks: false
+    linkify: false
+    typographer: false
+    spaced_lists: false
+    sentence_per_line: false
+    gfm: true
+    code_block_fences: '```'
+    escape_snippets_in_code_blocks: false
+    treat_indentation_as_code: true
+    table: false
+    strikethrough: false
+    subscript: false
+    superscript: false
+    heading_ids: false
+    attributes: false
