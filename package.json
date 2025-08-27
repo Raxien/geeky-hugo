@@ -1,8 +1,13 @@
 {
   "devDependencies": {
+    "@tinacms/cli": "^1.10.2",
+    "@types/node": "^24.3.0",
     "terser": "^5.39.0"
   },
   "scripts": {
     "minify": "terser exampleSite/assets/js/script.js -o exampleSite/assets/js/script.min.js -c passes=2,pure_getters,unsafe,unsafe_math,unsafe_proto,unsafe_regexp,unsafe_undefined,conditionals,dead_code,evaluate,booleans,loops,unused,drop_console=true,drop_debugger=true -m --comments '/^!/'"
+  },
+  "dependencies": {
+    "tinacms": "^2.8.2"
   }
 }
