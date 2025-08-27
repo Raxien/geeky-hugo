@@ -13,61 +13,166 @@
     
     <!-- Custom Widgets for Hugo Shortcodes -->
     <script>
-      // Custom widget per shortcode indice (tabella dei contenuti)
+
+      // Custom widget per shortcode image (immagini ottimizzate)
       CMS.registerEditorComponent({
-        id: "indice",
-        label: "Indice/Tabella dei Contenuti",
+        id: "custom-image",
+        label: "Immagine Ottimizzata",
         fields: [
           {
-            name: 'title',
-            label: 'Titolo (opzionale)',
-            widget: 'string',
-            required: false,
-            hint: 'Personalizza il titolo dell\'indice (default: "Tabella dei contenuti")'
+            name: 'src',
+            label: 'URL Immagine',
+            widget: 'image',
+            hint: 'URL dell\'immagine (Cloudinary o locale)'
           },
           {
-            name: 'collapsed',
-            label: 'Inizia chiuso',
-            widget: 'boolean',
-            default: true,
+            name: 'alt',
+            label: 'Testo Alternativo',
+            widget: 'string',
+            hint: 'Descrizione per accessibilità'
+          },
+          {
+            name: 'position',
+            label: 'Posizione',
+            widget: 'select',
+            options: ['center', 'left', 'right', 'float-left', 'float-right'],
+            default: 'center'
+          },
+          {
+            name: 'caption',
+            label: 'Didascalia (opzionale)',
+            widget: 'string',
+            required: false
+          },
+          {
+            name: 'width',
+            label: 'Larghezza (opzionale)',
+            widget: 'string',
             required: false,
-            hint: 'Se vero, l\'indice inizia collassato'
+            hint: 'es: 800'
           }
         ],
-        pattern: /^{{<\s*indice\s*(?:title="([^"]*)")?\s*(?:collapsed=(true|false))?\s*>}}$/,
+        pattern: /^{{<\s*image\s+src="([^"]*)"(?:\s+alt="([^"]*)")?(?:\s+p="([^"]*)")?(?:\s+caption="([^"]*)")?(?:\s+w="([^"]*)")?\s*>}}$/,
         fromBlock: function(match) {
           return {
-            title: match[1] || '',
-            collapsed: match[2] !== 'false'
+            src: match[1],
+            alt: match[2] || '',
+            position: match[3] || 'center',
+            caption: match[4] || '',
+            width: match[5] || ''
           };
         },
         toBlock: function(obj) {
-          let shortcode = '{{< indice';
-          if (obj.title) {
-            shortcode += ` title="${obj.title}"`;
+          let shortcode = `{{< image src="${obj.src}" alt="${obj.alt}"`;
+          if (obj.position !== 'center') {
+            shortcode += ` p="${obj.position}"`;
           }
-          if (obj.collapsed === false) {
-            shortcode += ' collapsed=false';
+          if (obj.caption) {
+            shortcode += ` caption="${obj.caption}"`;
+          }
+          if (obj.width) {
+            shortcode += ` w="${obj.width}"`;
           }
           shortcode += ' >}}';
           return shortcode;
         },
         toPreview: function(obj) {
-            return h('div', {
-              style: {
-                border: '2px dashed #ccc',
-                padding: '10px',
-                borderRadius: '4px',
-                backgroundColor: '#f9f9f9',
-                color: '#666'
-              }
-            }, [
-              h('strong', null, '📋 Indice: '),
-              h('span', null, obj.title || 'Tabella dei contenuti'),
-              h('br', null),
-              h('small', null, 'Genera automaticamente l\'indice dai titoli H2-H5 del post')
-            ]);
+          return h('div', {
+            style: {
+              border: '2px dashed #007cba',
+              padding: '10px',
+              borderRadius: '4px',
+              backgroundColor: '#f0f8ff',
+              color: '#333'
+            }
+          }, [
+            h('strong', {}, '🖼️ Immagine: '),
+            h('span', {}, obj.alt || 'Immagine'),
+            h('br'),
+            h('small', {}, `Posizione: ${obj.position}${obj.caption ? ` | Didascalia: ${obj.caption}` : ''}`)
+          ]);
+        }
+      });
+
+      // Custom widget per shortcode leggi-anche
+      CMS.registerEditorComponent({
+        id: "leggi-anche",
+        label: "Leggi Anche",
+        fields: [
+          {
+            name: 'url',
+            label: 'URL Articolo (opzionale)',
+            widget: 'string',
+            required: false,
+            hint: 'URL relativo dell\'articolo da linkare (es: /blog/articolo). Se vuoto, mostra articolo correlato automatico'
           }
+        ],
+        pattern: /^{{<\s*leggi-anche(?:\s+url="([^"]*)")?\s*>}}$/,
+        fromBlock: function(match) {
+          return {
+            url: match[1] || ''
+          };
+        },
+        toBlock: function(obj) {
+          if (obj.url) {
+            return `{{< leggi-anche url="${obj.url}" >}}`;
+          }
+          return '{{< leggi-anche >}}';
+        },
+        toPreview: function(obj) {
+          const text = obj.url ? `Link a: ${obj.url}` : 'Articolo correlato automatico';
+          return h('div', {
+            style: {
+              border: '2px dashed #28a745',
+              padding: '10px',
+              borderRadius: '4px',
+              backgroundColor: '#f8fff8',
+              color: '#333'
+            }
+          }, [
+            h('strong', {}, '🔗 Leggi Anche: '),
+            h('span', {}, text)
+          ]);
+        }
+      });
+
+      // Custom widget per shortcode citazione
+      CMS.registerEditorComponent({
+        id: "citazione",
+        label: "Citazione Centrata",
+        fields: [
+          {
+            name: 'text',
+            label: 'Testo Citazione',
+            widget: 'string',
+            hint: 'Il testo da evidenziare come citazione'
+          }
+        ],
+        pattern: /^{{<\s*citazione\s+"([^"]*)"\s*>}}$/,
+        fromBlock: function(match) {
+          return {
+            text: match[1] || ''
+          };
+        },
+        toBlock: function(obj) {
+          return `{{< citazione "${obj.text}" >}}`;
+        },
+        toPreview: function(obj) {
+          return h('div', {
+            style: {
+              border: '2px dashed #6f42c1',
+              padding: '10px',
+              borderRadius: '4px',
+              backgroundColor: '#f8f7ff',
+              color: '#333',
+              textAlign: 'center',
+              fontStyle: 'italic'
+            }
+          }, [
+            h('strong', {}, '💬 Citazione: '),
+            h('span', {}, `"${obj.text}"`)
+          ]);
+        }
       });
 
       // Inizializza il CMS
