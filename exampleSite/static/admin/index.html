@@ -9,10 +9,68 @@
   </head>
   <body>
     <!-- Include the script that builds the page and powers Decap CMS -->
-    <script src="https://unpkg.com/decap-cms@^3.1.0/dist/decap-cms.js"></script>
+    <script src="https://unpkg.com/decap-cms@^3.8.3/dist/decap-cms.js"></script>
     
     <!-- Custom Widgets for Hugo Shortcodes -->
     <script>
+      // Custom widget per shortcode indice (tabella dei contenuti)
+      CMS.registerEditorComponent({
+        id: "indice",
+        label: "Indice/Tabella dei Contenuti",
+        fields: [
+          {
+            name: 'title',
+            label: 'Titolo (opzionale)',
+            widget: 'string',
+            required: false,
+            hint: 'Personalizza il titolo dell\'indice (default: "Tabella dei contenuti")'
+          },
+          {
+            name: 'collapsed',
+            label: 'Inizia chiuso',
+            widget: 'boolean',
+            default: true,
+            required: false,
+            hint: 'Se vero, l\'indice inizia collassato'
+          }
+        ],
+        pattern: /^{{<\s*indice\s*(?:title="([^"]*)")?\s*(?:collapsed=(true|false))?\s*>}}$/,
+        fromBlock: function(match) {
+          return {
+            title: match[1] || '',
+            collapsed: match[2] !== 'false'
+          };
+        },
+        toBlock: function(obj) {
+          let shortcode = '{{< indice';
+          if (obj.title) {
+            shortcode += ` title="${obj.title}"`;
+          }
+          if (obj.collapsed === false) {
+            shortcode += ' collapsed=false';
+          }
+          shortcode += ' >}}';
+          return shortcode;
+        },
+        toPreview: function(obj) {
+          const title = obj.title || 'Tabella dei contenuti';
+          const collapsedClass = obj.collapsed ? ' (chiuso)' : ' (aperto)';
+          return h('div', {
+            style: {
+              border: '2px dashed #ccc',
+              padding: '10px',
+              borderRadius: '4px',
+              backgroundColor: '#f9f9f9',
+              color: '#666'
+            }
+          }, [
+            h('strong', {}, '📋 Indice: '),
+            h('span', {}, title + collapsedClass),
+            h('br'),
+            h('small', {}, 'Genera automaticamente l\'indice dai titoli H2-H5 del post')
+          ]);
+        }
+      });
 
       // Custom widget per shortcode image (immagini ottimizzate)
       CMS.registerEditorComponent({
