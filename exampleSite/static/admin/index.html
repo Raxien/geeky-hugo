@@ -8,12 +8,9 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
-    <!-- Include the script that builds the page and powers Decap CMS -->
-    <script src="https://unpkg.com/decap-cms@^3.8.3/dist/decap-cms.js"></script>
-    
-    <!-- Custom Widgets for Hugo Shortcodes -->
+    <script src="https://unpkg.com/decap-cms@^3.2.0/dist/decap-cms.js"></script>
     <script>
-      // Custom widget per shortcode indice (tabella dei contenuti)
+      // Custom widget per shortcode indice
       CMS.registerEditorComponent({
         id: "indice",
         label: "Indice/Tabella dei Contenuti",
@@ -43,12 +40,8 @@
         },
         toBlock: function(obj) {
           let shortcode = '{{< indice';
-          if (obj.title) {
-            shortcode += ` title="${obj.title}"`;
-          }
-          if (obj.collapsed === false) {
-            shortcode += ' collapsed=false';
-          }
+          if (obj.title) shortcode += ` title="${obj.title}"`;
+          if (obj.collapsed === false) shortcode += ' collapsed=false';
           shortcode += ' >}}';
           return shortcode;
         },
@@ -64,15 +57,15 @@
               color: '#666'
             }
           }, [
-            h('strong', {}, '📋 Indice: '),
-            h('span', {}, title + collapsedClass),
-            h('br'),
-            h('small', {}, 'Genera automaticamente l\'indice dai titoli H2-H5 del post')
+            h('strong', null, '📋 Indice: '),
+            h('span', null, title + collapsedClass),
+            h('br', null),
+            h('small', null, 'Genera automaticamente l\'indice dai titoli H2-H5 del post')
           ]);
         }
       });
 
-      // Custom widget per shortcode image (immagini ottimizzate)
+      // Custom widget per shortcode image
       CMS.registerEditorComponent({
         id: "custom-image",
         label: "Immagine Ottimizzata",
@@ -110,7 +103,7 @@
             hint: 'es: 800'
           }
         ],
-        pattern: /^{{<\s*image\s+src="([^"]*)"(?:\s+alt="([^"]*)")?(?:\s+p="([^"]*)")?(?:\s+caption="([^"]*)")?(?:\s+w="([^"]*)")?\s*>}}$/,
+        pattern: /^{{<\s*image\s+src="([^"]*)"(?:\s+alt="([^"]*)")?(?:\s+p="([^"]*)")?(?:\s+caption="([^"]*)")?(?:\s+w="([^"]*)")?\s*>}}/,
         fromBlock: function(match) {
           return {
             src: match[1],
@@ -122,15 +115,9 @@
         },
         toBlock: function(obj) {
           let shortcode = `{{< image src="${obj.src}" alt="${obj.alt}"`;
-          if (obj.position !== 'center') {
-            shortcode += ` p="${obj.position}"`;
-          }
-          if (obj.caption) {
-            shortcode += ` caption="${obj.caption}"`;
-          }
-          if (obj.width) {
-            shortcode += ` w="${obj.width}"`;
-          }
+          if (obj.position !== 'center') shortcode += ` p="${obj.position}"`;
+          if (obj.caption) shortcode += ` caption="${obj.caption}"`;
+          if (obj.width) shortcode += ` w="${obj.width}"`;
           shortcode += ' >}}';
           return shortcode;
         },
@@ -144,10 +131,10 @@
               color: '#333'
             }
           }, [
-            h('strong', {}, '🖼️ Immagine: '),
-            h('span', {}, obj.alt || 'Immagine'),
-            h('br'),
-            h('small', {}, `Posizione: ${obj.position}${obj.caption ? ` | Didascalia: ${obj.caption}` : ''}`)
+            h('strong', null, '🖼️ Immagine: '),
+            h('span', null, obj.alt || 'Immagine'),
+            h('br', null),
+            h('small', null, `Posizione: ${obj.position}${obj.caption ? ` | Didascalia: ${obj.caption}` : ''}`)
           ]);
         }
       });
@@ -172,10 +159,7 @@
           };
         },
         toBlock: function(obj) {
-          if (obj.url) {
-            return `{{< leggi-anche url="${obj.url}" >}}`;
-          }
-          return '{{< leggi-anche >}}';
+          return obj.url ? `{{< leggi-anche url="${obj.url}" >}}` : '{{< leggi-anche >}}';
         },
         toPreview: function(obj) {
           const text = obj.url ? `Link a: ${obj.url}` : 'Articolo correlato automatico';
@@ -188,8 +172,8 @@
               color: '#333'
             }
           }, [
-            h('strong', {}, '🔗 Leggi Anche: '),
-            h('span', {}, text)
+            h('strong', null, '🔗 Leggi Anche: '),
+            h('span', null, text)
           ]);
         }
       });
@@ -227,13 +211,12 @@
               fontStyle: 'italic'
             }
           }, [
-            h('strong', {}, '💬 Citazione: '),
-            h('span', {}, `"${obj.text}"`)
+            h('strong', null, '💬 Citazione: '),
+            h('span', null, `"${obj.text}"`)
           ]);
         }
       });
 
-      // Inizializza il CMS
       CMS.init();
     </script>
   </body>
