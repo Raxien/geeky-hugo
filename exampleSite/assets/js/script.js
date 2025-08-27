@@ -563,20 +563,61 @@ const summaryCSS = `
   transition: all 0.3s ease;
 }
 
+.ai-summary-container.collapsed .ai-summary-content {
+  max-height: 0 !important;
+  display: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.ai-summary-container.expanded .ai-summary-content {
+  max-height: 1000px !important;
+  display: block !important;
+  padding: 15px 0 !important;
+  margin: 0 !important;
+}
+
 .ai-summary-container.loading {
   opacity: 0.7;
 }
 
 .ai-summary-header {
   transition: all 0.3s ease;
+  cursor: pointer;
 }
 
 .ai-summary-content {
+  transition: max-height 0.3s ease, padding 0.3s ease;
+  overflow: hidden;
+}
+
+.ai-summary-toggle {
   transition: all 0.3s ease;
 }
 
 .ai-summary-toggle:hover {
   opacity: 0.8 !important;
+}
+
+.toggle-arrow {
+  transition: transform 0.3s ease;
+}
+
+.toggle-arrow.rotated {
+  transform: rotate(90deg);
+}
+
+.loading-text {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.ai-summary-container.loading .loading-text {
+  opacity: 0.7;
+}
+
+.ai-summary-container:not(.loading) .loading-text {
+  display: none;
 }
 `;
 
@@ -648,7 +689,7 @@ function createSummaryElement() {
     
     const container = placeholder.querySelector('.ai-summary-container');
     if (container) {
-      // Applica gli stili finali del container
+      // Applica gli stili finali del container - inizia collapsed
       container.style.margin = '20px 0';
       container.style.padding = '20px';
       container.style.minHeight = 'auto';
@@ -657,7 +698,11 @@ function createSummaryElement() {
       container.style.border = '1px solid #e9ecef';
       container.style.boxShadow = '0 2px 4px rgba(0,0,0,0.1)';
       
-      // Mostra header e content con stili appropriati
+      // Rimuovi la classe collapsed e mantieni loading per ora
+      container.classList.remove('collapsed');
+      container.classList.add('loading');
+      
+      // Mostra header con stili appropriati
       const header = container.querySelector('.ai-summary-header');
       const content = container.querySelector('.ai-summary-content');
       
@@ -665,27 +710,21 @@ function createSummaryElement() {
         header.style.display = 'flex';
         header.style.alignItems = 'center';
         header.style.justifyContent = 'space-between';
-        header.style.marginBottom = '15px';
+        header.style.marginBottom = '0';
         header.style.fontWeight = 'bold';
         header.style.color = '#333';
+        header.style.cursor = 'pointer';
       }
       
       if (content) {
-        content.style.display = 'block';
+        // Inizia con contenuto nascosto (collapsed)
+        content.style.display = 'none';
+        content.style.maxHeight = '0';
+        content.style.overflow = 'hidden';
         content.style.lineHeight = '1.6';
         content.style.color = '#555';
-        
-        // Aggiorna l'altezza del placeholder basata sul contenuto
-        const placeholderContent = content.querySelector('div');
-        if (placeholderContent) {
-          placeholderContent.style.height = `${estimatedHeight}px`;
-        }
+        content.style.transition = 'max-height 0.3s ease, padding 0.3s ease';
       }
-      
-      // Rimuovi la classe loading dopo un breve delay per permettere il rendering
-      setTimeout(() => {
-        container.classList.remove('loading');
-      }, 50);
       
       return container;
     }
@@ -958,11 +997,10 @@ async function handleArticleSummary() {
   if (!summaryContainer) return;
 
   const summaryContent = summaryContainer.querySelector('.ai-summary-content');
-  const toggleButton = summaryContainer.querySelector('.ai-summary-toggle');
   
-  // Se il pulsante non esiste, non possiamo continuare
-  if (!toggleButton) {
-    console.error('Toggle button not found');
+  // Verifica che il contenuto esista
+  if (!summaryContent) {
+    console.error('Summary content not found');
     return;
   }
   
@@ -979,25 +1017,36 @@ async function handleArticleSummary() {
   const isCached = getCachedData(cacheKey);
   
   if (isCached) {
-    // Se è in cache, mostra subito il riassunto senza animazioni
+    // Se è in cache, carica il contenuto ma mantieni collapsed
     console.log('Riassunto trovato in cache, caricamento immediato');
     
-    // Aggiorna il contenuto senza animazioni per evitare ulteriore CLS
+    // Aggiorna il contenuto ma mantieni collapsed
     summaryContent.innerHTML = isCached;
     
-    // Assicurati che il toggle button sia visibile
+    // Mantieni il contenuto nascosto (collapsed)
+    summaryContent.style.display = 'none';
+    summaryContent.style.maxHeight = '0';
+    
+    // Rimuovi loading e aggiungi collapsed
+    summaryContainer.classList.remove('loading');
+    summaryContainer.classList.add('collapsed');
+    
+    // Mostra il toggle button
     const toggleButton = summaryContainer.querySelector('.ai-summary-toggle');
     if (toggleButton) {
       toggleButton.style.opacity = '1';
+      // Aggiorna il testo del pulsante per "Espandi"
+      const buttonText = toggleButton.querySelector('.button-text');
+      const arrow = toggleButton.querySelector('.toggle-arrow');
+      if (buttonText) buttonText.textContent = ' Espandi';
+      if (arrow) arrow.classList.remove('rotated');
     }
     
-    // Cerca articoli correlati e aggiungi la lista
+    // Cerca articoli correlati ma non mostrarli ancora
     addRelatedArticles(summaryContainer);
     
-    // Rimuovi completamente la classe loading con una transizione fluida
-    setTimeout(() => {
-      summaryContainer.classList.remove('loading');
-    }, 100);
+    // Setup del toggle per espandere/collassare
+    setupToggleHandler(summaryContainer);
   } else {
     // Se non è in cache, mostra l'animazione di caricamento
     console.log('Riassunto non in cache, generazione in corso...');
@@ -1014,54 +1063,94 @@ async function handleArticleSummary() {
     // Ottieni il riassunto dall'API
     const summary = await getSummaryFromAPI(title, content, cleanUrl);
     
-    // Mostra il riassunto con l'effetto di scrittura
-    await typeWriter(summaryContent, summary);
+    // Carica il contenuto senza mostrarlo subito (collapsed)
+    summaryContent.innerHTML = summary;
+    
+    // Mantieni il contenuto nascosto (collapsed)
+    summaryContent.style.display = 'none';
+    summaryContent.style.maxHeight = '0';
 
-    // Cerca articoli correlati e aggiungi la lista
+    // Cerca articoli correlati ma non mostrarli ancora
     addRelatedArticles(summaryContainer);
 
-    // Rimuovi completamente la classe loading per indicare che il contenuto è completo
+    // Rimuovi loading e aggiungi collapsed
     summaryContainer.classList.remove('loading');
+    summaryContainer.classList.add('collapsed');
 
-    // Mostra il pulsante con effetto fade-in
-    toggleButton.style.opacity = '0';
-    toggleButton.style.transition = 'opacity 0.5s ease-in-out';
-    
-    // Trigger del fade-in
-    setTimeout(() => {
+    // Mostra il toggle button
+    const toggleButton = summaryContainer.querySelector('.ai-summary-toggle');
+    if (toggleButton) {
       toggleButton.style.opacity = '1';
-    }, 100);
+      // Aggiorna il testo del pulsante per "Espandi"
+      const buttonText = toggleButton.querySelector('.button-text');
+      const arrow = toggleButton.querySelector('.toggle-arrow');
+      if (buttonText) buttonText.textContent = ' Espandi';
+      if (arrow) arrow.classList.remove('rotated');
+    }
+    
+    // Setup del toggle per espandere/collassare
+    setupToggleHandler(summaryContainer);
   }
 
-  // Gestione del pulsante toggle per comprimere/espandere (logica copiata dall'indice)
-  let isExpanded = true;
-  toggleButton.addEventListener('click', function(e) {
+  // La gestione del toggle viene impostata da setupToggleHandler
+}
+
+// Funzione per configurare il gestore del toggle
+function setupToggleHandler(summaryContainer) {
+  const toggleButton = summaryContainer.querySelector('.ai-summary-toggle');
+  const header = summaryContainer.querySelector('.ai-summary-header');
+  
+  if (!toggleButton) return;
+  
+  // Rimuovi event listener precedenti se esistono
+  const newToggleButton = toggleButton.cloneNode(true);
+  toggleButton.parentNode.replaceChild(newToggleButton, toggleButton);
+  
+  const newHeader = header.cloneNode(true);
+  header.parentNode.replaceChild(newHeader, header);
+  
+  // Funzione per toggle
+  function handleToggle(e) {
     e.preventDefault();
     e.stopPropagation();
-    
-    const headerArrow = toggleButton.querySelector('.toggle-arrow');
-    const buttonText = toggleButton.querySelector('.button-text');
+
+    const summaryContent = summaryContainer.querySelector('.ai-summary-content');
     const relatedArticles = summaryContainer.querySelector('.ai-related-articles');
-    
-    if (isExpanded) {
-      summaryContent.style.display = 'none';
-      summaryContent.style.height = '0';
-      summaryContent.style.overflow = 'hidden';
-      summaryContent.style.margin = '0';
-      if (relatedArticles) relatedArticles.style.display = 'none';
-      if (headerArrow) headerArrow.classList.remove('rotated');
-      if (buttonText) buttonText.textContent = ' Espandi';
-    } else {
+    const headerArrow = summaryContainer.querySelector('.toggle-arrow');
+    const buttonText = summaryContainer.querySelector('.button-text');
+
+    const isCurrentlyCollapsed = summaryContainer.classList.contains('collapsed');
+
+    if (isCurrentlyCollapsed) {
+      // Espandi
+      summaryContainer.classList.remove('collapsed');
+      summaryContainer.classList.add('expanded');
+      
       summaryContent.style.display = 'block';
-      summaryContent.style.height = 'auto';
-      summaryContent.style.overflow = 'visible';
-      summaryContent.style.margin = '';
+      summaryContent.style.maxHeight = '1000px';
+      summaryContent.style.padding = '15px 0';
+      
       if (relatedArticles) relatedArticles.style.display = 'block';
       if (headerArrow) headerArrow.classList.add('rotated');
       if (buttonText) buttonText.textContent = ' Comprimi';
+    } else {
+      // Collassa
+      summaryContainer.classList.remove('expanded');
+      summaryContainer.classList.add('collapsed');
+      
+      summaryContent.style.display = 'none';
+      summaryContent.style.maxHeight = '0';
+      summaryContent.style.padding = '0';
+      
+      if (relatedArticles) relatedArticles.style.display = 'none';
+      if (headerArrow) headerArrow.classList.remove('rotated');
+      if (buttonText) buttonText.textContent = ' Espandi';
     }
-    isExpanded = !isExpanded;
-  });
+  }
+  
+  // Aggiungi event listener a button e header
+  newToggleButton.addEventListener('click', handleToggle);
+  newHeader.addEventListener('click', handleToggle);
 }
 
 // Inizializza il riassunto quando la pagina è caricata
@@ -1090,7 +1179,7 @@ function addRelatedArticles(summaryContainer) {
     // Crea il container per gli articoli correlati
     const relatedContainer = document.createElement('div');
     relatedContainer.className = 'ai-related-articles';
-    relatedContainer.style.cssText = 'margin-top: 15px; padding-top: 15px; border-top: 1px solid #e0e0e0; margin-left: 1.5em; margin-right: 1.5em;';
+    relatedContainer.style.cssText = 'margin-top: 15px; padding-top: 15px; border-top: 1px solid #e0e0e0; margin-left: 1.5em; margin-right: 1.5em; display: none;';
     
     // Crea il titolo
     const title = document.createElement('h4');
