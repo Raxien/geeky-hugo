@@ -8,41 +8,12 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
+    <!-- Include the script that builds the page and powers Decap CMS -->
     <script src="https://unpkg.com/decap-cms@^3.8.3/dist/decap-cms.js"></script>
+    
+    <!-- Custom Widgets for Hugo Shortcodes -->
     <script>
-console.log('Inizializzazione CMS...');
-      CMS.init();
-      console.log('CMS inizializzato.');
-
-return;
-      console.log('Registrazione funzione h...');
-
-      // Aggiungi questa funzione all'inizio del tuo script, prima di registrare i widget
-      function h(tag, props, ...children) {
-        const element = document.createElement(tag);
-        if (props) {
-          Object.entries(props).forEach(([key, value]) => {
-            if (key === 'style') {
-              Object.assign(element.style, value);
-            } else {
-              element.setAttribute(key, value);
-            }
-          });
-        }
-        children.forEach(child => {
-          if (typeof child === 'string') {
-            element.appendChild(document.createTextNode(child));
-          } else {
-            element.appendChild(child);
-          }
-        });
-        return element;
-      }
-      
-      console.log('Registrazione widget...');
-
-      console.log('Widget indice!');
-      // Custom widget per shortcode indice
+      // Custom widget per shortcode indice (tabella dei contenuti)
       CMS.registerEditorComponent({
         id: "indice",
         label: "Indice/Tabella dei Contenuti",
@@ -72,8 +43,12 @@ return;
         },
         toBlock: function(obj) {
           let shortcode = '{{< indice';
-          if (obj.title) shortcode += ` title="${obj.title}"`;
-          if (obj.collapsed === false) shortcode += ' collapsed=false';
+          if (obj.title) {
+            shortcode += ` title="${obj.title}"`;
+          }
+          if (obj.collapsed === false) {
+            shortcode += ' collapsed=false';
+          }
           shortcode += ' >}}';
           return shortcode;
         },
@@ -84,8 +59,7 @@ return;
         }
       });
 
-      console.log('Widget custom.image!');
-      // Custom widget per shortcode image
+      // Custom widget per shortcode image (immagini ottimizzate)
       CMS.registerEditorComponent({
         id: "custom-image",
         label: "Immagine Ottimizzata",
@@ -135,9 +109,15 @@ return;
         },
         toBlock: function(obj) {
           let shortcode = `{{< image src="${obj.src}" alt="${obj.alt}"`;
-          if (obj.position !== 'center') shortcode += ` p="${obj.position}"`;
-          if (obj.caption) shortcode += ` caption="${obj.caption}"`;
-          if (obj.width) shortcode += ` w="${obj.width}"`;
+          if (obj.position !== 'center') {
+            shortcode += ` p="${obj.position}"`;
+          }
+          if (obj.caption) {
+            shortcode += ` caption="${obj.caption}"`;
+          }
+          if (obj.width) {
+            shortcode += ` w="${obj.width}"`;
+          }
           shortcode += ' >}}';
           return shortcode;
         },
@@ -148,7 +128,6 @@ return;
         }
       });
 
-      console.log('Widget leggi-anche!');
       // Custom widget per shortcode leggi-anche
       CMS.registerEditorComponent({
         id: "leggi-anche",
@@ -169,7 +148,10 @@ return;
           };
         },
         toBlock: function(obj) {
-          return obj.url ? `{{< leggi-anche url="${obj.url}" >}}` : '{{< leggi-anche >}}';
+          if (obj.url) {
+            return `{{< leggi-anche url="${obj.url}" >}}`;
+          }
+          return '{{< leggi-anche >}}';
         },
         toPreview: function(obj) {
           return h('div', null, [
@@ -178,7 +160,6 @@ return;
         }
       });
 
-      console.log('Widget citazione');
       // Custom widget per shortcode citazione
       CMS.registerEditorComponent({
         id: "citazione",
@@ -207,13 +188,8 @@ return;
         }
       });
 
-      setTimeout(() => {
-        console.log('Inizializzazione CMS...');
-
-        CMS.init();
-        console.log('Done ...');
-
-      }, 100);
+      // Inizializza il CMS
+      CMS.init();
     </script>
   </body>
 </html>
