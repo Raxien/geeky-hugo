@@ -793,7 +793,6 @@ function measureCLS() {
     
     try {
       observer.observe({entryTypes: ['layout-shift']});
-      console.log('Monitoraggio CLS attivato per il debug');
     } catch (e) {
       console.log('PerformanceObserver non supportato per layout-shift');
     }

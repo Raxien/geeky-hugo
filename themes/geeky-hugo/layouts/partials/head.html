@@ -210,10 +210,37 @@
 <link rel="dns-prefetch" href="https://platform.linkedin.com">
 <link rel="dns-prefetch" href="https://platform.twitter.com">
 
-<!-- Font Awesome CSS -->
-<link rel="stylesheet" type="text/css" href="{{ "plugins/font-awesome/fontawesome.min.css" | relURL }}">
-<link rel="stylesheet" type="text/css" href="{{ "plugins/font-awesome/brands.css" | relURL }}">
-<link rel="stylesheet" type="text/css" href="{{ "plugins/font-awesome/solid.css" | relURL }}">
+<!-- Preload font woff2 critici solo quando necessario -->
+<link rel="preload" as="font" type="font/woff2" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-solid-900.woff2" crossorigin="anonymous" media="print" onload="this.media='all'">
+<link rel="preload" as="font" type="font/woff2" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.woff2" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+<!-- Font Awesome CSS da CDN con lazy loading -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/fontawesome.min.css" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/brands.min.css" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/solid.min.css" media="print" onload="this.media='all'">
+<noscript>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</noscript>
+
+<!-- Fallback Unicode minimal solo se Font Awesome fallisce completamente -->
+<style>
+/* Fallback solo in caso di errore grave di caricamento Font Awesome */
+.fa-search::before,
+.fa-bars::before,
+.fa-times::before {
+  /* Font Awesome 6 ha priorità */
+  font-family: "Font Awesome 6 Free" !important;
+  font-weight: 900 !important;
+}
+
+/* Fallback estremo solo se Font Awesome non esiste proprio */
+@supports not (font-family: "Font Awesome 6 Free") {
+  .fa-search::before { content: "🔍"; font-family: system-ui; }
+  .fa-bars::before { content: "☰"; font-family: system-ui; }
+  .fa-times::before { content: "✕"; font-family: system-ui; }
+  .dropdown-toggle::after { content: "▼"; font-family: system-ui; font-size: 0.7rem; margin-left: 4px; border: 0; }
+}
+</style>
 
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}

@@ -45,7 +45,7 @@ font_primary = "Raleway:wght@400"
 font_primary_type = "sans-serif" # [serif/sans-serif]
 font_secondary = "Merriweather Sans:wght@400;700"
 font_secondary_type = "sans-serif" # [serif/sans-serif]
-font_icon = "Font Awesome 5 Free"
+font_icon = "Font Awesome 6 Free"
 
 
 ############################# Plugins ##############################
