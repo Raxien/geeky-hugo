@@ -9,7 +9,7 @@
   </head>
   <body>
     <!-- Include the script that builds the page and powers Decap CMS -->
-    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <script src="https://unpkg.com/decap-cms@^3.1.0/dist/decap-cms.js"></script>
     
     <!-- Custom Widgets for Hugo Shortcodes -->
     <script>
@@ -53,23 +53,21 @@
           return shortcode;
         },
         toPreview: function(obj) {
-          const title = obj.title || 'Tabella dei contenuti';
-          const collapsedClass = obj.collapsed ? ' (chiuso)' : ' (aperto)';
-          return h('div', {
-            style: {
-              border: '2px dashed #ccc',
-              padding: '10px',
-              borderRadius: '4px',
-              backgroundColor: '#f9f9f9',
-              color: '#666'
-            }
-          }, [
-            h('strong', {}, '📋 Indice: '),
-            h('span', {}, title + collapsedClass),
-            h('br'),
-            h('small', {}, 'Genera automaticamente l\'indice dai titoli H2-H5 del post')
-          ]);
-        }
+  return h('div', {
+    style: {
+      border: '2px dashed #ccc',
+      padding: '10px',
+      borderRadius: '4px',
+      backgroundColor: '#f9f9f9',
+      color: '#666'
+    }
+  }, [
+    h('strong', null, '📋 Indice: '),
+    h('span', null, obj.title || 'Tabella dei contenuti'),
+    h('br', null),
+    h('small', null, 'Genera automaticamente l\'indice dai titoli H2-H5 del post')
+  ]);
+}
       });
 
       // Custom widget per shortcode image (immagini ottimizzate)
