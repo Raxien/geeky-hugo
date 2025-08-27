@@ -131,12 +131,15 @@
       {{ index $rawContentSections 1 | .RenderString }}
     </div>
 
-    <!-- disqus comments -->
+    <!-- disqus comments -->   
     {{ with .Site.Params.disqusShortname }}
+    <div  style="margin-top: 30px;">
     <div class="border rounded p-4">
-      {{ template "_internal/disqus.html" $ }}
+      {{ partial "disqus.html" $ }}
+      </div>
+      </div>
+      {{ end }}
     </div>
-    {{ end }}
   </div>
 </section>
 <!--=================== expanses section end ===================-->

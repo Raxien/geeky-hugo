@@ -54,6 +54,12 @@ home = ["HTML", "RSS", "JSON", "WebAppManifest"]
     id = "G-E9L2CG2NZ6"
     respectDoNotTrack = true
     anonymizeIP = true
+  [services.disqus]
+    shortname = "vandipety-it"
+
+[privacy]
+  [privacy.disqus]
+    disable = false
 
 [security]
   [security.http]

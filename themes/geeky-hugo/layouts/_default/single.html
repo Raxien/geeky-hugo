@@ -252,7 +252,7 @@
         {{ with .Site.Params.disqusShortname }}
         <div  style="margin-top: 30px;">
         <div class="border rounded p-4">
-          {{ template "_internal/disqus.html" $ }}
+          {{ partial "disqus.html" $ }}
         </div>
         </div>
         {{ end }}

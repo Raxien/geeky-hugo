@@ -1,0 +1,95 @@
+{{- $pc := .Site.Config.Privacy.Disqus | default (dict "disable" false) -}}
+{{- if not $pc.Disable -}}
+{{- $shortname := "" -}}
+{{- if .Site.Config.Services.Disqus.Shortname -}}
+  {{- $shortname = .Site.Config.Services.Disqus.Shortname -}}
+{{- else if .Site.Params.disqusShortname -}}
+  {{- $shortname = .Site.Params.disqusShortname -}}
+{{- end -}}
+{{- if $shortname -}}
+<div id="disqus_thread">
+  <div id="disqus_placeholder" style="padding: 50px 0; text-align: center; border: 1px dashed #ccc; border-radius: 8px; background: #f9f9f9; cursor: pointer;">
+    <p style="margin: 0; color: #666; font-size: 16px;">📝 Clicca per caricare i commenti Disqus</p>
+    <p style="margin: 5px 0 0; color: #999; font-size: 14px;">I commenti verranno caricati in modo dinamico</p>
+  </div>
+</div>
+<script>
+  (function() {
+    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+      document.getElementById('disqus_thread').innerHTML = '<div style="padding: 20px; text-align: center; color: #999;">Disqus comments not available by default when the website is previewed locally.</div>';
+      return;
+    }
+
+    var disqusLoaded = false;
+    var disqusContainer = document.getElementById('disqus_thread');
+    var disqusPlaceholder = document.getElementById('disqus_placeholder');
+    
+    window.disqus_config = function () {
+      {{- with .Params.disqus_identifier }}
+      this.page.identifier = '{{ . }}';
+      {{- end }}
+      {{- with .Params.disqus_title }}
+      this.page.title = '{{ . }}';
+      {{- end }}
+      {{- with .Params.disqus_url }}
+      this.page.url = '{{ . | transform.HTMLEscape | safeURL }}';
+      {{- end }}
+    };
+
+    function loadDisqus() {
+      if (disqusLoaded) return;
+      disqusLoaded = true;
+      
+      // Rimuovi il placeholder
+      if (disqusPlaceholder) {
+        disqusPlaceholder.remove();
+      }
+      
+      // Mostra un loading indicator
+      disqusContainer.innerHTML = '<div style="padding: 20px; text-align: center; color: #666;">Caricamento commenti...</div>';
+      
+      // Carica Disqus
+      var d = document, s = d.createElement('script'); 
+      s.async = true;
+      s.src = '//' + '{{ $shortname }}' + '.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    }
+
+    // Carica Disqus quando l'utente clicca sul placeholder
+    if (disqusPlaceholder) {
+      disqusPlaceholder.addEventListener('click', loadDisqus);
+    }
+
+    // Lazy loading con Intersection Observer
+    if ('IntersectionObserver' in window) {
+      var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting && entry.intersectionRatio > 0.1) {
+            loadDisqus();
+            observer.unobserve(entry.target);
+          }
+        });
+      }, {
+        threshold: 0.1,
+        rootMargin: '200px'
+      });
+      
+      observer.observe(disqusContainer);
+    } else {
+      // Fallback per browser che non supportano Intersection Observer
+      window.addEventListener('scroll', function() {
+        var rect = disqusContainer.getBoundingClientRect();
+        var viewHeight = Math.max(document.documentElement.clientHeight, window.innerHeight);
+        if (rect.top <= viewHeight + 200) {
+          loadDisqus();
+          window.removeEventListener('scroll', arguments.callee);
+        }
+      });
+    }
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+{{- end -}}
+{{- end -}}

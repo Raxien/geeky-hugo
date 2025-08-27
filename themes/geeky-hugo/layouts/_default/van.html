@@ -102,12 +102,14 @@
     <br>
 
     <br>
-    <!-- disqus comments -->
-    {{ with .Site.Params.disqusShortname }}
-    <div class="border rounded p-4">
-      {{ template "_internal/disqus.html" $ }}
-    </div>
-    {{ end }}
+        <!-- disqus comments -->   
+        {{ with .Site.Params.disqusShortname }}
+        <div  style="margin-top: 30px;">
+        <div class="border rounded p-4">
+          {{ partial "disqus.html" $ }}
+        </div>
+        </div>
+        {{ end }}
   </div>
 </section>
 <!--=================== expanses section end ===================-->
