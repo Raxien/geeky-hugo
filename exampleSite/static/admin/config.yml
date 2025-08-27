@@ -5,6 +5,19 @@ backend:
 # Editorial workflow - posts go through draft/review/ready process
 publish_mode: editorial_workflow
 
+# Cloudinary media library configuration
+media_library:
+  name: cloudinary
+  output_filename_only: false
+  config:
+    cloud_name: ilgattodicitturin  # Your existing Cloudinary account
+    api_key: srhxGW_GCJQP11TSDISq-Tc1ogU          # Replace with your actual API key
+    default_transformations:
+      - - fetch_format: auto
+          quality: auto
+          width: 800
+          crop: scale
+
 # Media storage configuration for Hugo
 media_folder: "exampleSite/assets/images/post" # Media files stored in repo
 public_folder: "/images/post" # Public URL path for uploaded media
@@ -18,7 +31,18 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Featured Image", name: "image", widget: "image", required: false, hint: "Upload image or use Cloudinary URL" }
+      - label: "Featured Image"
+        name: "image" 
+        widget: "image"
+        required: false
+        hint: "Upload image via Cloudinary or paste URL"
+        media_library:
+          config:
+            default_transformations:
+              - - fetch_format: auto
+                  quality: auto
+                  width: 800
+                  crop: scale
       - { label: "Publish Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DDTHH:mm:ss.sssZ" }
       - { label: "Categories", name: "categories", widget: "list", allow_add: true, default: ["Blog"] }
       - { label: "Type", name: "type", widget: "select", options: ["featured", "regular"], default: "regular", required: false }
