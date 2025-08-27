@@ -361,6 +361,152 @@ async function preloadAllData() {
     }
 }
 
+// Implementazione del lazy loading intelligente per i dati API
+function implementLazyDataLoading() {
+    // Mappa degli endpoint e degli elementi DOM che li richiedono
+    const apiElementMap = [
+        {
+            selectors: ['#catergory', '#monthly-chart', '#expenses-grid'],
+            apis: ['category', 'monthly', 'grid', 'expenses'],
+            description: 'Dati spese e grafici'
+        },
+        {
+            selectors: ['#map'],
+            apis: ['map', 'trip'],
+            description: 'Dati mappa e viaggio'
+        },
+        {
+            selectors: ['.press-section', '#press-data'],
+            apis: ['press'],
+            description: 'Dati stampa'
+        },
+        {
+            selectors: ['.cities-data', '#cities-list'],
+            apis: ['cities'],
+            description: 'Dati città'
+        }
+    ];
+
+    // Lazy loading con Intersection Observer per ciascun gruppo
+    apiElementMap.forEach(group => {
+        const elements = group.selectors.map(sel => document.querySelector(sel)).filter(el => el);
+        
+        if (elements.length > 0) {
+            // Crea un observer per questo gruppo di elementi
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting && entry.intersectionRatio > 0.1) {
+                        console.log(`Caricamento lazy per: ${group.description}`);
+                        loadAPIGroup(group.apis);
+                        observer.unobserve(entry.target);
+                    }
+                });
+            }, {
+                threshold: 0.1,
+                rootMargin: '300px' // Precarica 300px prima che sia visibile
+            });
+
+            // Osserva tutti gli elementi del gruppo
+            elements.forEach(element => observer.observe(element));
+        }
+    });
+
+    // Precaricamento intelligente ritardato (solo per dati critici)
+    setTimeout(() => {
+        // Se l'utente è rimasto sulla pagina per più di 3 secondi, precarica i dati più comuni
+        preloadCriticalData();
+    }, 3000);
+
+    // Precaricamento su user interaction (scroll, hover, click)
+    let interactionTriggered = false;
+    const triggerPreloadOnInteraction = () => {
+        if (!interactionTriggered) {
+            interactionTriggered = true;
+            console.log('Precaricamento attivato da interazione utente');
+            setTimeout(() => preloadAllData(), 1000); // Ritardo di 1 secondo
+        }
+    };
+
+    // Event listeners per interazioni utente
+    ['scroll', 'touchstart', 'mousemove', 'keydown'].forEach(event => {
+        document.addEventListener(event, triggerPreloadOnInteraction, { once: true, passive: true });
+    });
+}
+
+// Carica un gruppo specifico di API
+async function loadAPIGroup(apiKeys) {
+    const apiMap = {
+        'expenses': () => fecthExpenseData(),
+        'category': () => fecthChartCategoryData(),
+        'monthly': () => fecthChartMonthlyData(),
+        'grid': () => fecthGridData(),
+        'trip': () => getTripData(),
+        'map': () => getMapData(),
+        'cities': () => getCitiesData(),
+        'press': () => getPressData()
+    };
+
+    const promises = apiKeys.map(key => {
+        if (apiMap[key]) {
+            return apiMap[key]().catch(error => {
+                console.error(`Errore nel caricamento di ${key}:`, error);
+            });
+        }
+    }).filter(Boolean);
+
+    await Promise.all(promises);
+}
+
+// Precarica solo i dati più critici
+async function preloadCriticalData() {
+    // Precarica solo i dati che sono probabilmente necessari su tutte le pagine
+    const criticalEndpoints = [
+        { key: 'trip', url: `${rpcUrl}/data/trip` }
+    ];
+
+    for (const endpoint of criticalEndpoints) {
+        if (!getCachedData(endpoint.key)) {
+            try {
+                const response = await fetch(endpoint.url);
+                const data = await response.json();
+                setCachedData(endpoint.key, data);
+                console.log(`Dati critici precaricati: ${endpoint.key}`);
+            } catch (error) {
+                console.error(`Errore nel precaricamento critico per ${endpoint.key}:`, error);
+            }
+        }
+    }
+}
+
+// Funzioni helper per dati mancanti
+async function getCitiesData() {
+    const cached = getCachedData('cities');
+    if (cached) return cached;
+    
+    try {
+        const response = await fetch(`${rpcUrl}/data/ru_it`);
+        const data = await response.json();
+        setCachedData('cities', data);
+        return data;
+    } catch (error) {
+        console.error('Error fetching cities data:', error);
+    }
+}
+
+async function getPressData() {
+    const cached = getCachedData('press');
+    if (cached) return cached;
+    
+    try {
+        const response = await fetch(`${rpcUrl}/data/press`);
+        const data = await response.json();
+        setCachedData('press', data);
+        return data;
+    } catch (error) {
+        console.error('Error fetching press data:', error);
+    }
+}
+
 // Modifica delle funzioni di fetch esistenti
 async function fecthExpenseData() {
     const cached = getCachedData('expenses');
@@ -472,11 +618,11 @@ async function getMapData() {
 
 // Modifica della funzione di inizializzazione
 document.addEventListener('DOMContentLoaded', function() {
-    // Precarga i dati in background
-    preloadAllData();
-    
     // Inizializza il codice indipendente da Bootstrap
     initIndependentCode();
+    
+    // Implementa lazy loading intelligente per i dati API
+    implementLazyDataLoading();
 
     // Inizializza il codice dipendente da Bootstrap
     if (typeof bootstrap !== 'undefined') {
@@ -1420,13 +1566,8 @@ function setGrid(data) {
 function initExpensesPage() {
     if (!document.getElementById('catergory')) return;
 
-    // Carica i dati
-    document.addEventListener('DOMContentLoaded', async () => {
-        await fecthExpenseData();
-        await fecthChartMonthlyData();
-        await fecthChartCategoryData();
-        await fecthGridData();
-    });
+    // I dati verranno caricati automaticamente dal lazy loading quando necessario
+    console.log('Pagina spese inizializzata - lazy loading attivo');
 }
 
 // Inizializza la pagina delle spese se siamo nella pagina corretta
@@ -1743,12 +1884,8 @@ function setMap(mapJson) {
 function initTripPage() {
     if (!document.getElementById('map')) return;
 
-    // Carica i dati
-    document.addEventListener('DOMContentLoaded', async () => {
-        const device = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-        await Promise.all([getTripData(), getMapData()])
-            .catch(error => console.error('Error initializing data:', error));
-    });
+    // I dati verranno caricati automaticamente dal lazy loading quando necessario
+    console.log('Pagina trip inizializzata - lazy loading attivo');
 }
 
 // Inizializza la pagina trip se siamo nella pagina corretta
