@@ -2,40 +2,81 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
-# This line should *not* be indented
+# Editorial workflow - posts go through draft/review/ready process
 publish_mode: editorial_workflow
 
-# This line should *not* be indented
-media_folder: "exampleSite/assets/images/post" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/images/post" # The src attribute for uploaded media will begin with /images/uploads
+# Media storage configuration for Hugo
+media_folder: "exampleSite/assets/images/post" # Media files stored in repo
+public_folder: "/images/post" # Public URL path for uploaded media
 
 collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
-    folder: "exampleSite/content/blog" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
+  - name: "blog"
+    label: "Blog Posts"
+    folder: "exampleSite/content/blog"
+    create: true
+    slug: "{{slug}}"
+    fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Featured Image", name: "image", widget: "image", required: false }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Categories", name: "categories", widget: "list", default: ["Blog"] }
+      - { label: "Featured Image", name: "image", widget: "image", required: false, hint: "Upload image or use Cloudinary URL" }
+      - { label: "Publish Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DDTHH:mm:ss.sssZ" }
+      - { label: "Categories", name: "categories", widget: "list", allow_add: true, default: ["Blog"] }
       - { label: "Type", name: "type", widget: "select", options: ["featured", "regular"], default: "regular", required: false }
+      - { label: "Continent", name: "continent", widget: "string", required: false, hint: "e.g., Europa, Asia, Africa" }
+      - { label: "Country", name: "country", widget: "string", required: false, hint: "Country name in Italian" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false, required: false }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "pages"
-    label: "Pages"
+    label: "Static Pages"
     files:
-      - label: "About Page"
+      - label: "Chi Siamo (About)"
         name: "about"
         file: "exampleSite/content/about.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "text" }
+          - { label: "Date", name: "date", widget: "datetime" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "about" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - label: "Contact Page"
+      
+      - label: "Contact"
         name: "contact"
         file: "exampleSite/content/contact.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "text" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      
+      - label: "Van"
+        name: "van"
+        file: "exampleSite/content/van.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "text" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      
+      - label: "Trip"
+        name: "trip"
+        file: "exampleSite/content/trip.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "text" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      
+      - label: "Books"
+        name: "books"
+        file: "exampleSite/content/books.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "text" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      
+      - label: "Privacy Policy"
+        name: "privacy"
+        file: "exampleSite/content/privacy-policy.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "text" }
           - { label: "Body", name: "body", widget: "markdown" }
