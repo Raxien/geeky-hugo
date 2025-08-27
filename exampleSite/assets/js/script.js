@@ -574,6 +574,7 @@ const summaryCSS = `
   max-height: 1000px !important;
   display: block !important;
   padding: 15px 0 !important;
+  padding-left: 2.2em !important;
   margin: 0 !important;
 }
 
@@ -588,6 +589,7 @@ const summaryCSS = `
 
 .ai-summary-content {
   transition: max-height 0.3s ease, padding 0.3s ease;
+  padding-left: 2.2em !important;
   overflow: hidden;
 }
 

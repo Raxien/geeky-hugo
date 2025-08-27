@@ -1088,6 +1088,7 @@ p a {
   line-height: 1.6;
   font-size: 16px;
   margin-bottom: 15px;
+  padding-left: 2.2em !important;
   
   // Cursor per l'effetto di scrittura
   &.typing::after {
@@ -1141,7 +1142,7 @@ p a {
   }
 }
 
-// Responsive design per il riassunto AI
+// Responsive design per il riassunto
 @media (max-width: 768px) {
   .ai-summary-container {
     padding: 15px;
