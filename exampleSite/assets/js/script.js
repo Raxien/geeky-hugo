@@ -551,6 +551,71 @@ const color = [ 'rgba(255, 99, 132, 1)',
 //=================== AI Summary script start ===================
 let summaryAnimationInterval;
 
+// Aggiungi CSS per prevenire CLS e migliorare le animazioni
+const summaryCSS = `
+.ai-summary-placeholder.active {
+  display: block !important;
+  height: auto !important;
+  overflow: visible !important;
+}
+
+.ai-summary-container {
+  transition: all 0.3s ease;
+}
+
+.ai-summary-container.loading {
+  opacity: 0.7;
+}
+
+.ai-summary-header {
+  transition: all 0.3s ease;
+}
+
+.ai-summary-content {
+  transition: all 0.3s ease;
+}
+
+.ai-summary-toggle:hover {
+  opacity: 0.8 !important;
+}
+`;
+
+// Inserisci il CSS nella pagina
+if (!document.querySelector('#summary-cls-prevention-css')) {
+  const style = document.createElement('style');
+  style.id = 'summary-cls-prevention-css';
+  style.textContent = summaryCSS;
+  document.head.appendChild(style);
+}
+
+// Funzione di debug per misurare CLS (solo in sviluppo)
+function measureCLS() {
+  if (typeof PerformanceObserver !== 'undefined') {
+    const observer = new PerformanceObserver((list) => {
+      for (const entry of list.getEntries()) {
+        if (entry.entryType === 'layout-shift' && !entry.hadRecentInput) {
+          console.log('Layout Shift rilevato:', entry.value, entry);
+          if (entry.value > 0.1) {
+            console.warn('CLS elevato rilevato! Valore:', entry.value);
+          }
+        }
+      }
+    });
+    
+    try {
+      observer.observe({entryTypes: ['layout-shift']});
+      console.log('Monitoraggio CLS attivato per il debug');
+    } catch (e) {
+      console.log('PerformanceObserver non supportato per layout-shift');
+    }
+  }
+}
+
+// Attiva il monitoraggio CLS solo se non siamo in produzione
+if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+  measureCLS();
+}
+
 // Funzione per creare l'elemento del riassunto
 function createSummaryElement() {
   const articleContent = document.querySelector('.content.drop-cap');
@@ -559,6 +624,14 @@ function createSummaryElement() {
   const textContent = articleContent.textContent || articleContent.innerText;
   if (textContent.length < 1500) return null;
 
+  // Calcola le dimensioni approssimative del riassunto basate sulla lunghezza del contenuto
+  const contentLength = textContent.length;
+  let estimatedHeight = 80; // Altezza base
+  
+  if (contentLength > 3000) estimatedHeight = 120;
+  if (contentLength > 5000) estimatedHeight = 160;
+  if (contentLength > 8000) estimatedHeight = 200;
+
   // Controlla se esiste già un riassunto attivo
   const existingSummary = document.querySelector('.ai-summary-container:not(.ai-summary-placeholder .ai-summary-container)');
   if (existingSummary) return existingSummary;
@@ -566,35 +639,46 @@ function createSummaryElement() {
   // Cerca il placeholder esistente
   const placeholder = document.querySelector('.ai-summary-placeholder');
   if (placeholder) {
-    // Mostra il placeholder e rimuovi la classe loading
+    // Attiva il placeholder senza spostare elementi per evitare CLS
     placeholder.style.display = 'block';
     placeholder.style.height = 'auto';
     placeholder.style.overflow = 'visible';
+    placeholder.style.transition = 'all 0.3s ease';
     placeholder.classList.add('active');
+    
     const container = placeholder.querySelector('.ai-summary-container');
     if (container) {
-      // Ripristina gli stili del container
-      container.style.margin = '';
-      container.style.padding = '';
-      container.style.minHeight = '';
+      // Applica gli stili finali del container
+      container.style.margin = '20px 0';
+      container.style.padding = '20px';
+      container.style.minHeight = 'auto';
+      container.style.backgroundColor = '#f8f9fa';
+      container.style.borderRadius = '8px';
+      container.style.border = '1px solid #e9ecef';
+      container.style.boxShadow = '0 2px 4px rgba(0,0,0,0.1)';
       
-      // Mostra header e content
+      // Mostra header e content con stili appropriati
       const header = container.querySelector('.ai-summary-header');
       const content = container.querySelector('.ai-summary-content');
-      if (header) header.style.display = '';
-      if (content) content.style.display = '';
       
-      // Sposta il container dal placeholder alla posizione corretta
-      const cardMeta = document.querySelector('ul.list-inline.card-meta');
-      if (cardMeta) {
-        cardMeta.parentNode.insertBefore(container, cardMeta.nextSibling);
-      } else {
-        // Fallback: inserisci dopo il titolo se i metadati non esistono
-        const title = document.querySelector('h1.mb-4');
-        if (title) {
-          title.parentNode.insertBefore(container, title.nextSibling);
-        } else {
-          articleContent.parentNode.insertBefore(container, articleContent);
+      if (header) {
+        header.style.display = 'flex';
+        header.style.alignItems = 'center';
+        header.style.justifyContent = 'space-between';
+        header.style.marginBottom = '15px';
+        header.style.fontWeight = 'bold';
+        header.style.color = '#333';
+      }
+      
+      if (content) {
+        content.style.display = 'block';
+        content.style.lineHeight = '1.6';
+        content.style.color = '#555';
+        
+        // Aggiorna l'altezza del placeholder basata sul contenuto
+        const placeholderContent = content.querySelector('div');
+        if (placeholderContent) {
+          placeholderContent.style.height = `${estimatedHeight}px`;
         }
       }
       
@@ -897,16 +981,23 @@ async function handleArticleSummary() {
   if (isCached) {
     // Se è in cache, mostra subito il riassunto senza animazioni
     console.log('Riassunto trovato in cache, caricamento immediato');
+    
+    // Aggiorna il contenuto senza animazioni per evitare ulteriore CLS
     summaryContent.innerHTML = isCached;
+    
+    // Assicurati che il toggle button sia visibile
+    const toggleButton = summaryContainer.querySelector('.ai-summary-toggle');
+    if (toggleButton) {
+      toggleButton.style.opacity = '1';
+    }
     
     // Cerca articoli correlati e aggiungi la lista
     addRelatedArticles(summaryContainer);
     
-    // Rimuovi completamente la classe loading
-    summaryContainer.classList.remove('loading');
-    
-    // Mostra subito il pulsante
-    toggleButton.style.opacity = '1';
+    // Rimuovi completamente la classe loading con una transizione fluida
+    setTimeout(() => {
+      summaryContainer.classList.remove('loading');
+    }, 100);
   } else {
     // Se non è in cache, mostra l'animazione di caricamento
     console.log('Riassunto non in cache, generazione in corso...');
