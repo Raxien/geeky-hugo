@@ -11,7 +11,7 @@ media_library:
   output_filename_only: false
   config:
     cloud_name: ilgattodicitturin  # Your existing Cloudinary account
-    api_key: srhxGW_GCJQP11TSDISq-Tc1ogU          # Replace with your actual API key
+    api_key: 233691389224215         # Replace with your actual API key
     default_transformations:
       - - fetch_format: auto
           quality: auto
