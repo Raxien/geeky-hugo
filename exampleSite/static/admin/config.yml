@@ -6,13 +6,13 @@ backend:
 publish_mode: editorial_workflow
 
 # Media storage configuration for Hugo
-media_folder: "static/images/uploads" # Media files stored in repo
-public_folder: "/images/uploads" # Public URL path for uploaded media
+media_folder: "exampleSite/assets/images/post" # Media files stored in repo
+public_folder: "/images/post" # Public URL path for uploaded media
 
 collections:
   - name: "blog"
     label: "Blog Posts"
-    folder: "content/posts"
+    folder: "exampleSite/content/blog"
     create: true
     slug: "{{slug}}"
     fields:
@@ -32,7 +32,7 @@ collections:
     files:
       - label: "Chi Siamo (About)"
         name: "about"
-        file: "content/about.md"
+        file: "exampleSite/content/about.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Description", name: "description", widget: "text" }
@@ -43,7 +43,7 @@ collections:
       
       - label: "Contact"
         name: "contact"
-        file: "content/contact.md"
+        file: "exampleSite/content/contact.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Description", name: "description", widget: "text" }
@@ -51,7 +51,7 @@ collections:
       
       - label: "Van"
         name: "van"
-        file: "content/van.md"
+        file: "exampleSite/content/van.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Description", name: "description", widget: "text" }
@@ -59,7 +59,7 @@ collections:
       
       - label: "Trip"
         name: "trip"
-        file: "content/trip.md"
+        file: "exampleSite/content/trip.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Description", name: "description", widget: "text" }
@@ -67,7 +67,7 @@ collections:
       
       - label: "Books"
         name: "books"
-        file: "content/books.md"
+        file: "exampleSite/content/books.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Description", name: "description", widget: "text" }
@@ -75,7 +75,7 @@ collections:
       
       - label: "Privacy Policy"
         name: "privacy"
-        file: "content/privacy-policy.md"
+        file: "exampleSite/content/privacy-policy.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Description", name: "description", widget: "text" }
