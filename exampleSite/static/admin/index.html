@@ -10,6 +10,34 @@
   <body>
     <script src="https://unpkg.com/decap-cms@^3.8.3/dist/decap-cms.js"></script>
     <script>
+
+      console.log('Registrazione funzione h...');
+
+      // Aggiungi questa funzione all'inizio del tuo script, prima di registrare i widget
+      function h(tag, props, ...children) {
+        const element = document.createElement(tag);
+        if (props) {
+          Object.entries(props).forEach(([key, value]) => {
+            if (key === 'style') {
+              Object.assign(element.style, value);
+            } else {
+              element.setAttribute(key, value);
+            }
+          });
+        }
+        children.forEach(child => {
+          if (typeof child === 'string') {
+            element.appendChild(document.createTextNode(child));
+          } else {
+            element.appendChild(child);
+          }
+        });
+        return element;
+      }
+      
+      console.log('Registrazione widget...');
+
+      console.log('Widget indice!');
       // Custom widget per shortcode indice
       CMS.registerEditorComponent({
         id: "indice",
@@ -52,6 +80,7 @@
         }
       });
 
+      console.log('Widget custom.image!');
       // Custom widget per shortcode image
       CMS.registerEditorComponent({
         id: "custom-image",
@@ -115,6 +144,7 @@
         }
       });
 
+      console.log('Widget leggi-anche!');
       // Custom widget per shortcode leggi-anche
       CMS.registerEditorComponent({
         id: "leggi-anche",
@@ -144,6 +174,7 @@
         }
       });
 
+      console.log('Widget citazione');
       // Custom widget per shortcode citazione
       CMS.registerEditorComponent({
         id: "citazione",
@@ -172,7 +203,13 @@
         }
       });
 
-      CMS.init();
+      setTimeout(() => {
+        console.log('Inizializzazione CMS...');
+
+        CMS.init();
+        console.log('Done ...');
+
+      }, 100);
     </script>
   </body>
 </html>
