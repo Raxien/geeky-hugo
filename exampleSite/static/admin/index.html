@@ -8,138 +8,81 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
-    <!-- Decap CMS (versione fissata) -->
     <script src="https://unpkg.com/decap-cms@3.8.3/dist/decap-cms.js"></script>
-
-    <!-- Custom Widgets per Hugo Shortcodes -->
     <script>
-        const React = window.React;
-        const h = React.createElement;
-
-        // ============================
-        // WIDGET: TOC
-        // ============================
-        CMS.registerWidget(
-          "toc",
-          React.createClass({
-            render: function () {
-              return h("div", {}, "Widget TOC");
-            },
-          }),
-          function (obj) {
-            return h(
-              "div",
-              {},
-              h("span", {}, obj && obj.title ? obj.title : "Tabella dei contenuti")
-            );
-          }
-        );
-
-        // ============================
-        // WIDGET: INFO BOX
-        // ============================
-        CMS.registerWidget(
-          "info",
-          React.createClass({
-            render: function () {
-              return h("div", {}, "Widget Info Box");
-            },
-          }),
-          function (obj) {
-            return h(
-              "div",
-              { style: { border: "1px solid #ccc", padding: "8px" } },
-              h("strong", {}, obj && obj.title ? obj.title : "Info"),
-              h("div", {}, obj && obj.body ? obj.body : "")
-            );
-          }
-        );
-
-        // ============================
-        // WIDGET: YOUTUBE
-        // ============================
-        CMS.registerWidget(
-          "youtube",
-          React.createClass({
-            render: function () {
-              return h("div", {}, "Widget YouTube");
-            },
-          }),
-          function (obj) {
-            return h(
-              "div",
-              {},
-              obj && obj.id
-                ? h("iframe", {
-                    width: "560",
-                    height: "315",
-                    src: `https://www.youtube.com/embed/${obj.id}`,
-                    frameBorder: "0",
-                    allow:
-                      "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-                    allowFullScreen: true,
-                  })
-                : h("span", {}, "Nessun video")
-            );
-          }
-        );
-
-        // ============================
-        // WIDGET: GALLERY
-        // ============================
-        CMS.registerWidget(
-          "gallery",
-          React.createClass({
-            render: function () {
-              return h("div", {}, "Widget Gallery");
-            },
-          }),
-          function (obj) {
-            return h(
-              "div",
-              { style: { display: "flex", flexWrap: "wrap", gap: "8px" } },
-              (obj && obj.images
-                ? obj.images
-                : []
-              ).map((img, i) =>
-                h("img", {
-                  key: i,
-                  src: img,
-                  alt: `img-${i}`,
-                  style: { width: "100px", height: "auto" },
-                })
-              )
-            );
-          }
-        );
-
-        // ============================
-        // WIDGET: MAP
-        // ============================
-        CMS.registerWidget(
-          "map",
-          React.createClass({
-            render: function () {
-              return h("div", {}, "Widget Map");
-            },
-          }),
-          function (obj) {
-            return h(
-              "div",
-              {},
-              obj && obj.lat && obj.lng
-                ? h("iframe", {
-                    width: "100%",
-                    height: "300",
-                    frameBorder: "0",
-                    style: { border: 0 },
-                    src: `https://www.google.com/maps?q=${obj.lat},${obj.lng}&z=14&output=embed`,
-                    allowFullScreen: true,
-                  })
-                : h("span", {}, "Mappa non definita")
-            );
-          }
-        );
+      const React = window.React;
+      const h = React.createElement;
+    
+      CMS.registerEditorComponent({
+        id: "indice",
+        label: "Indice/Toc",
+        fields: [
+          { name: "title", label: "Titolo", widget: "string", required: false },
+          { name: "collapsed", label: "Inizia chiuso", widget: "boolean", default: true }
+        ],
+        pattern: /^{{<\s*indice\s*(?:title="([^"]*)")?\s*(?:collapsed=(true|false))?\s*>}}$/,
+        fromBlock: m => ({ title: m && m[1] || "", collapsed: m && m[2] !== "false" }),
+        toBlock: o => {
+          let s = "{{< indice";
+          if (o.title) s += ` title="${o.title}"`;
+          if (o.collapsed === false) s += " collapsed=false";
+          return s + " >}}";
+        },
+        toPreview: o => h("div", { style: { fontStyle: "italic" } }, "Toc: " + (o.title || "Nessun titolo"))
+      });
+    
+      CMS.registerEditorComponent({
+        id: "custom-image",
+        label: "Immagine Ottimizzata",
+        fields: [
+          { name: "src", label: "URL Immagine", widget: "string" },
+          { name: "alt", label: "Alt", widget: "string", required: false },
+          { name: "position", label: "Posizione", widget: "select", options: ["center","left","right"], default: "center" },
+          { name: "caption", label: "Didascalia", widget: "string", required: false },
+          { name: "width", label: "Larghezza", widget: "string", required: false }
+        ],
+        pattern: /^{{<\s*image\s+src="([^"]*)"(?:\s+alt="([^"]*)")?(?:\s+p="([^"]*)")?(?:\s+caption="([^"]*)")?(?:\s+w="([^"]*)")?\s*>}}$/,
+        fromBlock: m => ({
+          src: m && m[1] || "",
+          alt: m && m[2] || "",
+          position: m && m[3] || "center",
+          caption: m && m[4] || "",
+          width: m && m[5] || ""
+        }),
+        toBlock: o => {
+          let s = `{{< image src="${o.src}"`;
+          if (o.alt) s += ` alt="${o.alt}"`;
+          if (o.position !== "center") s += ` p="${o.position}"`;
+          if (o.caption) s += ` caption="${o.caption}"`;
+          if (o.width) s += ` w="${o.width}"`;
+          return s + " >}}";
+        },
+        toPreview: o => h("div", { style: { border: "1px solid #ddd", padding: "5px" } }, 
+          o.alt || o.src || "Immagine"
+        )
+      });
+    
+      CMS.registerEditorComponent({
+        id: "leggi-anche",
+        label: "Leggi Anche",
+        fields: [{ name: "url", label: "URL articolo", widget: "string", required: false }],
+        pattern: /^{{<\s*leggi-anche(?:\s+url="([^"]*)")?\s*>}}$/,
+        fromBlock: m => ({ url: m && m[1] || "" }),
+        toBlock: o => o.url ? `{{< leggi-anche url="${o.url}" >}}` : "{{< leggi-anche >}}",
+        toPreview: o => h("div", {}, "Leggi anche: " + (o.url || "automatico"))
+      });
+    
+      CMS.registerEditorComponent({
+        id: "citazione",
+        label: "Citazione Centrata",
+        fields: [{ name: "text", label: "Testo", widget: "string" }],
+        pattern: /^{{<\s*citazione\s+"([^"]*)"\s*>}}$/,
+        fromBlock: m => ({ text: m && m[1] || "" }),
+        toBlock: o => `{{< citazione "${o.text}" >}}`,
+        toPreview: o => h("blockquote", { style: { textAlign: "center" } }, o.text || "Citazione")
+      });
+    </script>
+    
     </script>
   </body>
 </html>
