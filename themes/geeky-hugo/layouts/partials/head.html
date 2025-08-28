@@ -3,9 +3,6 @@
 <title>{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Params.title }}{{ end }}</title>
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
-<!-- Netlify Identity Widget -->
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
-
  {{ if hugo.IsProduction }}
 <!-- Start iubenda -->
 <script async type="text/javascript">
