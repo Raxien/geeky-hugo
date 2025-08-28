@@ -13,175 +13,134 @@
 
     <!-- Custom Widgets per Hugo Shortcodes -->
     <script>
-      // Custom widget: indice (tabella dei contenuti)
-      CMS.registerEditorComponent({
-        id: "indice",
-        label: "Indice/Tabella dei Contenuti",
-        fields: [
-          {
-            name: "title",
-            label: "Titolo (opzionale)",
-            widget: "string",
-            required: false,
-            hint:
-              'Personalizza il titolo dell\'indice (default: "Tabella dei contenuti")',
-          },
-          {
-            name: "collapsed",
-            label: "Inizia chiuso",
-            widget: "boolean",
-            default: true,
-            required: false,
-            hint: "Se vero, l'indice inizia collassato",
-          },
-        ],
-        pattern:
-          /^{{<\s*indice\s*(?:title="([^"]*)")?\s*(?:collapsed=(true|false))?\s*>}}$/,
-        fromBlock: function (match) {
-          return {
-            title: match && match[1] ? match[1] : "",
-            collapsed: !match || match[2] !== "false",
-          };
-        },
-        toBlock: function (obj) {
-          let shortcode = "{{< indice";
-          if (obj.title) shortcode += ` title="${obj.title}"`;
-          if (obj.collapsed === false) shortcode += " collapsed=false";
-          shortcode += " >}}";
-          return shortcode;
-        },
-        toPreview: function (obj) {
-          const title = obj.title || "Tabella dei contenuti";
-          return `<div class="preview-indice"><span>${title}</span></div>`;
-        },
-      });
+const React = window.React;
+const h = React.createElement;
 
-      // Custom widget: image (immagini ottimizzate)
-      CMS.registerEditorComponent({
-        id: "custom-image",
-        label: "Immagine Ottimizzata",
-        fields: [
-          {
-            name: "src",
-            label: "URL Immagine",
-            widget: "image",
-            hint: "URL dell'immagine (Cloudinary o locale)",
-          },
-          {
-            name: "alt",
-            label: "Testo Alternativo",
-            widget: "string",
-            hint: "Descrizione per accessibilità",
-          },
-          {
-            name: "position",
-            label: "Posizione",
-            widget: "select",
-            options: ["center", "left", "right", "float-left", "float-right"],
-            default: "center",
-          },
-          {
-            name: "caption",
-            label: "Didascalia (opzionale)",
-            widget: "string",
-            required: false,
-          },
-          {
-            name: "width",
-            label: "Larghezza (opzionale)",
-            widget: "string",
-            required: false,
-            hint: "es: 800",
-          },
-        ],
-        pattern:
-          /^{{<\s*image\s+src="([^"]*)"(?:\s+alt="([^"]*)")?(?:\s+p="([^"]*)")?(?:\s+caption="([^"]*)")?(?:\s+w="([^"]*)")?\s*>}}$/,
-        fromBlock: function (match) {
-          return {
-            src: match && match[1] ? match[1] : "",
-            alt: match && match[2] ? match[2] : "",
-            position: match && match[3] ? match[3] : "center",
-            caption: match && match[4] ? match[4] : "",
-            width: match && match[5] ? match[5] : "",
-          };
-        },
-        toBlock: function (obj) {
-          let shortcode = `{{< image src="${obj.src}" alt="${obj.alt || ""}"`;
-          if (obj.position && obj.position !== "center")
-            shortcode += ` p="${obj.position}"`;
-          if (obj.caption) shortcode += ` caption="${obj.caption}"`;
-          if (obj.width) shortcode += ` w="${obj.width}"`;
-          shortcode += " >}}";
-          return shortcode;
-        },
-        toPreview: function (obj) {
-          const alt = obj.alt || "Immagine";
-          const src = obj.src || "";
-          const cap = obj.caption ? `<div class="caption">${obj.caption}</div>` : "";
-          return `<div class="preview-image">
-            <div><strong>${alt}</strong></div>
-            <div>${src ? src : ""}</div>
-            ${cap}
-          </div>`;
-        },
-      });
+// ============================
+// WIDGET: TOC
+// ============================
+CMS.registerWidget(
+  "toc",
+  createClass({
+    render: function () {
+      return h("div", {}, "Widget TOC");
+    },
+  }),
+  function (obj) {
+    return h(
+      "div",
+      {},
+      h("span", {}, obj && obj.title ? obj.title : "Tabella dei contenuti")
+    );
+  }
+);
 
-      // Custom widget: leggi-anche
-      CMS.registerEditorComponent({
-        id: "leggi-anche",
-        label: "Leggi Anche",
-        fields: [
-          {
-            name: "url",
-            label: "URL Articolo (opzionale)",
-            widget: "string",
-            required: false,
-            hint:
-              "URL relativo dell'articolo da linkare (es: /blog/articolo). Se vuoto, mostra articolo correlato automatico",
-          },
-        ],
-        pattern: /^{{<\s*leggi-anche(?:\s+url="([^"]*)")?\s*>}}$/,
-        fromBlock: function (match) {
-          return { url: match && match[1] ? match[1] : "" };
-        },
-        toBlock: function (obj) {
-          return obj.url
-            ? `{{< leggi-anche url="${obj.url}" >}}`
-            : "{{< leggi-anche >}}";
-        },
-        toPreview: function (obj) {
-          const label = obj.url || "Articolo correlato";
-          return `<div class="preview-leggi-anche"><span>${label}</span></div>`;
-        },
-      });
+// ============================
+// WIDGET: INFO BOX
+// ============================
+CMS.registerWidget(
+  "info",
+  createClass({
+    render: function () {
+      return h("div", {}, "Widget Info Box");
+    },
+  }),
+  function (obj) {
+    return h(
+      "div",
+      { style: { border: "1px solid #ccc", padding: "8px" } },
+      h("strong", {}, obj && obj.title ? obj.title : "Info"),
+      h("div", {}, obj && obj.body ? obj.body : "")
+    );
+  }
+);
 
-      // Custom widget: citazione
-      CMS.registerEditorComponent({
-        id: "citazione",
-        label: "Citazione Centrata",
-        fields: [
-          {
-            name: "text",
-            label: "Testo Citazione",
-            widget: "string",
-            hint: "Il testo da evidenziare come citazione",
-          },
-        ],
-        pattern: /^{{<\s*citazione\s+"([^"]*)"\s*>}}$/,
-        fromBlock: function (match) {
-          return { text: match && match[1] ? match[1] : "" };
-        },
-        toBlock: function (obj) {
-          return `{{< citazione "${obj.text || ""}" >}}`;
-        },
-        toPreview: function (obj) {
-          const text = obj.text || "Citazione";
-          return `<div class="preview-citazione" style="text-align:center;"><em>${text}</em></div>`;
-        },
-      });
+// ============================
+// WIDGET: YOUTUBE
+// ============================
+CMS.registerWidget(
+  "youtube",
+  createClass({
+    render: function () {
+      return h("div", {}, "Widget YouTube");
+    },
+  }),
+  function (obj) {
+    return h(
+      "div",
+      {},
+      obj && obj.id
+        ? h("iframe", {
+            width: "560",
+            height: "315",
+            src: `https://www.youtube.com/embed/${obj.id}`,
+            frameBorder: "0",
+            allow:
+              "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+            allowFullScreen: true,
+          })
+        : h("span", {}, "Nessun video")
+    );
+  }
+);
 
-      // Inizializza il CMS
-      CMS.init();
+// ============================
+// WIDGET: GALLERY
+// ============================
+CMS.registerWidget(
+  "gallery",
+  createClass({
+    render: function () {
+      return h("div", {}, "Widget Gallery");
+    },
+  }),
+  function (obj) {
+    return h(
+      "div",
+      { style: { display: "flex", flexWrap: "wrap", gap: "8px" } },
+      (obj && obj.images
+        ? obj.images
+        : []
+      ).map((img, i) =>
+        h("img", {
+          key: i,
+          src: img,
+          alt: `img-${i}`,
+          style: { width: "100px", height: "auto" },
+        })
+      )
+    );
+  }
+);
+
+// ============================
+// WIDGET: MAP
+// ============================
+CMS.registerWidget(
+  "map",
+  createClass({
+    render: function () {
+      return h("div", {}, "Widget Map");
+    },
+  }),
+  function (obj) {
+    return h(
+      "div",
+      {},
+      obj && obj.lat && obj.lng
+        ? h("iframe", {
+            width: "100%",
+            height: "300",
+            frameBorder: "0",
+            style: { border: 0 },
+            src: `https://www.google.com/maps?q=${obj.lat},${obj.lng}&z=14&output=embed`,
+            allowFullScreen: true,
+          })
+        : h("span", {}, "Mappa non definita")
+    );
+  }
+);
+
     </script>
   </body>
 </html>
