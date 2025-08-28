@@ -10,79 +10,72 @@
   <body>
     <script src="https://unpkg.com/decap-cms@3.8.3/dist/decap-cms.js"></script>
     <script>
-      const React = window.React;
-      const h = React.createElement;
-    
-      CMS.registerEditorComponent({
-        id: "indice",
-        label: "Indice/Toc",
-        fields: [
-          { name: "title", label: "Titolo", widget: "string", required: false },
-          { name: "collapsed", label: "Inizia chiuso", widget: "boolean", default: true }
-        ],
-        pattern: /^{{<\s*indice\s*(?:title="([^"]*)")?\s*(?:collapsed=(true|false))?\s*>}}$/,
-        fromBlock: m => ({ title: m && m[1] || "", collapsed: m && m[2] !== "false" }),
-        toBlock: o => {
-          let s = "{{< indice";
-          if (o.title) s += ` title="${o.title}"`;
-          if (o.collapsed === false) s += " collapsed=false";
-          return s + " >}}";
-        },
-        toPreview: o => h("div", { style: { fontStyle: "italic" } }, "Toc: " + (o.title || "Nessun titolo"))
-      });
-    
-      CMS.registerEditorComponent({
-        id: "custom-image",
-        label: "Immagine Ottimizzata",
-        fields: [
-          { name: "src", label: "URL Immagine", widget: "string" },
-          { name: "alt", label: "Alt", widget: "string", required: false },
-          { name: "position", label: "Posizione", widget: "select", options: ["center","left","right"], default: "center" },
-          { name: "caption", label: "Didascalia", widget: "string", required: false },
-          { name: "width", label: "Larghezza", widget: "string", required: false }
-        ],
-        pattern: /^{{<\s*image\s+src="([^"]*)"(?:\s+alt="([^"]*)")?(?:\s+p="([^"]*)")?(?:\s+caption="([^"]*)")?(?:\s+w="([^"]*)")?\s*>}}$/,
-        fromBlock: m => ({
-          src: m && m[1] || "",
-          alt: m && m[2] || "",
-          position: m && m[3] || "center",
-          caption: m && m[4] || "",
-          width: m && m[5] || ""
-        }),
-        toBlock: o => {
-          let s = `{{< image src="${o.src}"`;
-          if (o.alt) s += ` alt="${o.alt}"`;
-          if (o.position !== "center") s += ` p="${o.position}"`;
-          if (o.caption) s += ` caption="${o.caption}"`;
-          if (o.width) s += ` w="${o.width}"`;
-          return s + " >}}";
-        },
-        toPreview: o => h("div", { style: { border: "1px solid #ddd", padding: "5px" } }, 
-          o.alt || o.src || "Immagine"
-        )
-      });
-    
-      CMS.registerEditorComponent({
-        id: "leggi-anche",
-        label: "Leggi Anche",
-        fields: [{ name: "url", label: "URL articolo", widget: "string", required: false }],
-        pattern: /^{{<\s*leggi-anche(?:\s+url="([^"]*)")?\s*>}}$/,
-        fromBlock: m => ({ url: m && m[1] || "" }),
-        toBlock: o => o.url ? `{{< leggi-anche url="${o.url}" >}}` : "{{< leggi-anche >}}",
-        toPreview: o => h("div", {}, "Leggi anche: " + (o.url || "automatico"))
-      });
-    
-      CMS.registerEditorComponent({
-        id: "citazione",
-        label: "Citazione Centrata",
-        fields: [{ name: "text", label: "Testo", widget: "string" }],
-        pattern: /^{{<\s*citazione\s+"([^"]*)"\s*>}}$/,
-        fromBlock: m => ({ text: m && m[1] || "" }),
-        toBlock: o => `{{< citazione "${o.text}" >}}`,
-        toPreview: o => h("blockquote", { style: { textAlign: "center" } }, o.text || "Citazione")
-      });
-    </script>
-    
+        // helper per il preview
+  const h = (tag, props, ...children) => {
+    return { tag, props, children };
+  }
+
+  // Indice / TOC
+  CMS.registerEditorComponent({
+    id: "indice",
+    label: "Indice/Tabella dei Contenuti",
+    fields: [
+      { name: "title", label: "Titolo (opzionale)", widget: "string", required: false },
+      { name: "collapsed", label: "Inizia chiuso", widget: "boolean", default: true }
+    ],
+    pattern: /^{{<\s*indice\s*(?:title="([^"]*)")?\s*(?:collapsed=(true|false))?\s*>}}$/,
+    fromBlock: match => ({ title: match[1] || "", collapsed: match[2] !== "false" }),
+    toBlock: obj => `{{< indice${obj.title ? ` title="${obj.title}"` : ""}${obj.collapsed === false ? " collapsed=false" : ""} >}}`,
+    toPreview: obj => h("span", null, obj.title || "Tabella dei contenuti")
+  });
+
+  // Immagine ottimizzata
+  CMS.registerEditorComponent({
+    id: "custom-image",
+    label: "Immagine Ottimizzata",
+    fields: [
+      { name: "src", label: "URL Immagine", widget: "image" },
+      { name: "alt", label: "Testo Alternativo", widget: "string" },
+      { name: "position", label: "Posizione", widget: "select", options: ["center","left","right","float-left","float-right"], default:"center"},
+      { name: "caption", label: "Didascalia", widget: "string", required: false },
+      { name: "width", label: "Larghezza", widget: "string", required: false }
+    ],
+    pattern: /^{{<\s*image\s+src="([^"]*)"(?:\s+alt="([^"]*)")?(?:\s+p="([^"]*)")?(?:\s+caption="([^"]*)")?(?:\s+w="([^"]*)")?\s*>}}$/,
+    fromBlock: match => ({
+      src: match[1],
+      alt: match[2]||"",
+      position: match[3]||"center",
+      caption: match[4]||"",
+      width: match[5]||""
+    }),
+    toBlock: obj => `{{< image src="${obj.src}"${obj.alt?` alt="${obj.alt}"`:""}${obj.position!=="center"?` p="${obj.position}"`:""}${obj.caption?` caption="${obj.caption}"`:""}${obj.width?` w="${obj.width}"`:""} >}}`,
+    toPreview: obj => h("span", null, obj.alt || "Immagine")
+  });
+
+  // Leggi Anche
+  CMS.registerEditorComponent({
+    id: "leggi-anche",
+    label: "Leggi Anche",
+    fields: [{ name:"url", label:"URL Articolo", widget:"string", required:false }],
+    pattern: /^{{<\s*leggi-anche(?:\s+url="([^"]*)")?\s*>}}$/,
+    fromBlock: match => ({ url: match[1]||"" }),
+    toBlock: obj => obj.url?`{{< leggi-anche url="${obj.url}" >}}`:"{{< leggi-anche >}}",
+    toPreview: obj => h("span", null, obj.url || "Articolo correlato")
+  });
+
+  // Citazione
+  CMS.registerEditorComponent({
+    id: "citazione",
+    label: "Citazione Centrata",
+    fields: [{ name:"text", label:"Testo Citazione", widget:"string" }],
+    pattern: /^{{<\s*citazione\s+"([^"]*)"\s*>}}$/,
+    fromBlock: match => ({ text: match[1]||"" }),
+    toBlock: obj => `{{< citazione "${obj.text}" >}}`,
+    toPreview: obj => h("span", null, obj.text || "Citazione")
+  });
+
+  // Inizializza CMS
+  CMS.init();
     </script>
   </body>
 </html>
