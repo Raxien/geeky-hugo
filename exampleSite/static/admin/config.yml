@@ -51,6 +51,12 @@ collections:
       - { label: "Draft", name: "draft", widget: "boolean", default: false, required: false }
       - { label: "Body", name: "body", widget: "markdown" }
 
+      # Custom Widgets
+      - { label: "Indice (TOC)", name: "toc", widget: "toc", required: false }
+      - { label: "Info Box", name: "info", widget: "info", required: false }
+      - { label: "Video YouTube", name: "youtube", widget: "youtube", required: false }
+      - { label: "Gallery", name: "gallery", widget: "gallery", required: false }
+      - { label: "Mappa", name: "map", widget: "map", required: false }
   - name: "pages"
     label: "Static Pages"
     files:

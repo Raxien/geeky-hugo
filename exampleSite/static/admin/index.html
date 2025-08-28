@@ -13,134 +13,133 @@
 
     <!-- Custom Widgets per Hugo Shortcodes -->
     <script>
-const React = window.React;
-const h = React.createElement;
+        const React = window.React;
+        const h = React.createElement;
 
-// ============================
-// WIDGET: TOC
-// ============================
-CMS.registerWidget(
-  "toc",
-  createClass({
-    render: function () {
-      return h("div", {}, "Widget TOC");
-    },
-  }),
-  function (obj) {
-    return h(
-      "div",
-      {},
-      h("span", {}, obj && obj.title ? obj.title : "Tabella dei contenuti")
-    );
-  }
-);
+        // ============================
+        // WIDGET: TOC
+        // ============================
+        CMS.registerWidget(
+          "toc",
+          React.createClass({
+            render: function () {
+              return h("div", {}, "Widget TOC");
+            },
+          }),
+          function (obj) {
+            return h(
+              "div",
+              {},
+              h("span", {}, obj && obj.title ? obj.title : "Tabella dei contenuti")
+            );
+          }
+        );
 
-// ============================
-// WIDGET: INFO BOX
-// ============================
-CMS.registerWidget(
-  "info",
-  createClass({
-    render: function () {
-      return h("div", {}, "Widget Info Box");
-    },
-  }),
-  function (obj) {
-    return h(
-      "div",
-      { style: { border: "1px solid #ccc", padding: "8px" } },
-      h("strong", {}, obj && obj.title ? obj.title : "Info"),
-      h("div", {}, obj && obj.body ? obj.body : "")
-    );
-  }
-);
+        // ============================
+        // WIDGET: INFO BOX
+        // ============================
+        CMS.registerWidget(
+          "info",
+          React.createClass({
+            render: function () {
+              return h("div", {}, "Widget Info Box");
+            },
+          }),
+          function (obj) {
+            return h(
+              "div",
+              { style: { border: "1px solid #ccc", padding: "8px" } },
+              h("strong", {}, obj && obj.title ? obj.title : "Info"),
+              h("div", {}, obj && obj.body ? obj.body : "")
+            );
+          }
+        );
 
-// ============================
-// WIDGET: YOUTUBE
-// ============================
-CMS.registerWidget(
-  "youtube",
-  createClass({
-    render: function () {
-      return h("div", {}, "Widget YouTube");
-    },
-  }),
-  function (obj) {
-    return h(
-      "div",
-      {},
-      obj && obj.id
-        ? h("iframe", {
-            width: "560",
-            height: "315",
-            src: `https://www.youtube.com/embed/${obj.id}`,
-            frameBorder: "0",
-            allow:
-              "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-            allowFullScreen: true,
-          })
-        : h("span", {}, "Nessun video")
-    );
-  }
-);
+        // ============================
+        // WIDGET: YOUTUBE
+        // ============================
+        CMS.registerWidget(
+          "youtube",
+          React.createClass({
+            render: function () {
+              return h("div", {}, "Widget YouTube");
+            },
+          }),
+          function (obj) {
+            return h(
+              "div",
+              {},
+              obj && obj.id
+                ? h("iframe", {
+                    width: "560",
+                    height: "315",
+                    src: `https://www.youtube.com/embed/${obj.id}`,
+                    frameBorder: "0",
+                    allow:
+                      "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+                    allowFullScreen: true,
+                  })
+                : h("span", {}, "Nessun video")
+            );
+          }
+        );
 
-// ============================
-// WIDGET: GALLERY
-// ============================
-CMS.registerWidget(
-  "gallery",
-  createClass({
-    render: function () {
-      return h("div", {}, "Widget Gallery");
-    },
-  }),
-  function (obj) {
-    return h(
-      "div",
-      { style: { display: "flex", flexWrap: "wrap", gap: "8px" } },
-      (obj && obj.images
-        ? obj.images
-        : []
-      ).map((img, i) =>
-        h("img", {
-          key: i,
-          src: img,
-          alt: `img-${i}`,
-          style: { width: "100px", height: "auto" },
-        })
-      )
-    );
-  }
-);
+        // ============================
+        // WIDGET: GALLERY
+        // ============================
+        CMS.registerWidget(
+          "gallery",
+          React.createClass({
+            render: function () {
+              return h("div", {}, "Widget Gallery");
+            },
+          }),
+          function (obj) {
+            return h(
+              "div",
+              { style: { display: "flex", flexWrap: "wrap", gap: "8px" } },
+              (obj && obj.images
+                ? obj.images
+                : []
+              ).map((img, i) =>
+                h("img", {
+                  key: i,
+                  src: img,
+                  alt: `img-${i}`,
+                  style: { width: "100px", height: "auto" },
+                })
+              )
+            );
+          }
+        );
 
-// ============================
-// WIDGET: MAP
-// ============================
-CMS.registerWidget(
-  "map",
-  createClass({
-    render: function () {
-      return h("div", {}, "Widget Map");
-    },
-  }),
-  function (obj) {
-    return h(
-      "div",
-      {},
-      obj && obj.lat && obj.lng
-        ? h("iframe", {
-            width: "100%",
-            height: "300",
-            frameBorder: "0",
-            style: { border: 0 },
-            src: `https://www.google.com/maps?q=${obj.lat},${obj.lng}&z=14&output=embed`,
-            allowFullScreen: true,
-          })
-        : h("span", {}, "Mappa non definita")
-    );
-  }
-);
-CMS.init();
+        // ============================
+        // WIDGET: MAP
+        // ============================
+        CMS.registerWidget(
+          "map",
+          React.createClass({
+            render: function () {
+              return h("div", {}, "Widget Map");
+            },
+          }),
+          function (obj) {
+            return h(
+              "div",
+              {},
+              obj && obj.lat && obj.lng
+                ? h("iframe", {
+                    width: "100%",
+                    height: "300",
+                    frameBorder: "0",
+                    style: { border: 0 },
+                    src: `https://www.google.com/maps?q=${obj.lat},${obj.lng}&z=14&output=embed`,
+                    allowFullScreen: true,
+                  })
+                : h("span", {}, "Mappa non definita")
+            );
+          }
+        );
     </script>
   </body>
 </html>
