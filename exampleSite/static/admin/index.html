@@ -8,11 +8,14 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
-    <!-- Include the script that builds the page and powers Decap CMS -->
+    <!-- Include the script che carica Decap CMS -->
     <script src="https://unpkg.com/decap-cms@^3.8.3/dist/decap-cms.js"></script>
     
-    <!-- Custom Widgets for Hugo Shortcodes -->
+    <!-- Custom Widgets per Hugo Shortcodes -->
     <script>
+      // Attiva helper per i componenti React (serve per le anteprime)
+      const h = window.h;
+
       // Custom widget per shortcode indice (tabella dei contenuti)
       CMS.registerEditorComponent({
         id: "indice",
@@ -53,9 +56,9 @@
           return shortcode;
         },
         toPreview: function(obj) {
-          return h('div', null, [
-            h('span', null, obj.title || 'Tabella dei contenuti')
-          ]);
+          return h('div', {},
+            h('span', {}, obj.title || 'Tabella dei contenuti')
+          );
         }
       });
 
@@ -122,9 +125,9 @@
           return shortcode;
         },
         toPreview: function(obj) {
-          return h('div', null, [
-            h('span', null, obj.alt || 'Immagine')
-          ]);
+          return h('div', {},
+            h('span', {}, obj.alt || 'Immagine')
+          );
         }
       });
 
@@ -154,9 +157,9 @@
           return '{{< leggi-anche >}}';
         },
         toPreview: function(obj) {
-          return h('div', null, [
-            h('span', null, obj.url || 'Articolo correlato')
-          ]);
+          return h('div', {},
+            h('span', {}, obj.url || 'Articolo correlato')
+          );
         }
       });
 
@@ -182,9 +185,9 @@
           return `{{< citazione "${obj.text}" >}}`;
         },
         toPreview: function(obj) {
-          return h('div', null, [
-            h('span', null, obj.text || 'Citazione')
-          ]);
+          return h('div', {},
+            h('span', {}, obj.text || 'Citazione')
+          );
         }
       });
 
