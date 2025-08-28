@@ -1,0 +1,19 @@
+{
+  "name": "examplesite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tinacms": "^2.8.2"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.10.2",
+    "@types/node": "^24.3.0"
+  }
+}
