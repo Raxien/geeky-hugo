@@ -1,6 +1,6 @@
 [build]
   publish = "exampleSite/public"
-  command = "tinacms build && cd exampleSite && hugo --minify --gc --themesDir ../themes --theme geeky-hugo"
+  command = "npx tinacms build && cd exampleSite && hugo --minify --gc --themesDir ../themes --theme geeky-hugo"
   
 [build.environment]
   HUGO_VERSION = "0.145.0"
