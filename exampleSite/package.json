@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "next-tinacms-cloudinary": "^4.0.0",
     "tinacms": "^2.8.2"
   },
   "devDependencies": {

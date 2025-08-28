@@ -6,7 +6,6 @@ date: 2023-09-01T10:00:00+01:00
 categories: ["Guida al Marocco"]
 type: regular
 continent: Africa
-type: regular
 draft: false
 ---
 
