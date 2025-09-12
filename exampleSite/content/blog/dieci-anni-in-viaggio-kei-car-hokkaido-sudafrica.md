@@ -1,8 +1,8 @@
 ---
-title: 'Da Hokkaido al Sudafrica (e ritorno) a bordo di una kei car: Dieci anni in viaggio'
+title: 'Dal Hokkaido al Sudafrica (e ritorno) a bordo di una kei car: Dieci anni in viaggio'
 description: 'Dieci anni in viaggio dal Giappone al Sudafrica su una kei car: l’incredibile avventura di Yuko e Yoshiro tra confini, imprevisti e libertà.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1756946958/Articoli/Blog/dal-giappone-al-sudafrica-keicar_yji93a.png
-date: 2025-09-11T18:30:00+02:00
+date: 2025-09-11T7:18:30+01:00
 categories: ["Storie su strada"]
 language: it
 continent: Asia
