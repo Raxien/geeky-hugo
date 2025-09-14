@@ -18,7 +18,7 @@ Lì ho capito che l’autunno è un maestro: **insegna il coraggio del cambiamen
 
 **Mi sono fermata ad ascoltare.** E ho sentito che l’autunno chiede silenzio, tempo, attenzione. Mi ha riportato indietro, alle poesie imparate a memoria a scuola, al profumo di mosto, ai tini ribollenti, alle vendemmie che rallegravano le anime. E al rumore secco delle foglie calpestate da bambina, quando saltavo nei mucchi con i piedi uniti solo per il piacere di sentirle scricchiolare.
 
-Whitman aveva ragione:“Su tutto s’apre il cielo,così limpido e calmo dopo la pioggia … anche al di sotto è tutto calmo, pieno di vita, bello.”
+Whitman aveva ragione:“Su tutto s’apre il cielo,così limpido e calmo dopo la pioggia… anche al di sotto è tutto calmo, pieno di vita, bello.”
 E tra i sentieri di Oirase, ho visto quell’equilibrio: sopra il cielo chiaro, sotto la vita che continuava a pulsare.
 **Lunga vita all’autunno, allora:** stagione che non muore, ma si rigenera. All’autunno che non è tristezza, ma promessa.E certezza che dal silenzio nascerà un nuovo inizio.
 
