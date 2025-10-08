@@ -1,5 +1,5 @@
 ---
-title: 'Come entrare in Corea del Sud dalla Russia: la guida aggiornata per overlander'
+title: 'Come entrare in Corea del Sud dalla Russia: la guida aggiornata per overlander [Aggiornamento 2025]'
 description: 'Guida completa per entrare in Corea del Sud dalla Russia in camper: traghetto DuWon, documenti e consigli per overlander!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1752301060/Articoli/Russia/vladivostok/guida-traghetto-russia-corea_bhgfz5.png
 date: 2025-07-09T7:00:00+01:00
@@ -14,16 +14,30 @@ Viaggiare in camper attraverso l’Asia è un’avventura entusiasmante e **ragg
 > **Attenzione**   
 > In Corea del Sud **non possono essere importati** i mezzi omologati come furgoni o autocarri e che non aderiscono {{< extLink "alla Convenzione di Ginevra sulla circolazione stradale del 1949" "https://treaties.un.org/pages/ViewDetailsV.aspx?src=TREATY&mtdsg_no=XI-B-1&chapter=11&Temp=mtdsg5&clang=_en" >}}.
 
+> **Aggiornamenti**
+> 
+> Da Agosto 2025 {{< extLink "la compagnia coreana GNLFerry" "https://gnlferry.com/" >}} ha innaugurato una nuova tratta Sokcho-Vladivostok.
+
 {{< indice >}}
 
 ## Il traghetto DuWon da Vladivostok a Donghae
-Il collegamento marittimo è la sola via disponibile per chi viaggia con un mezzo (moto, auto o camper) da Vladivostok alla Corea del Sud. {{< extLink "Il traghetto della DuWon Shippin" "https://corp.dwship.co.kr/en/" >}} è affidabile, ma le procedure doganali e le limitazioni sui bagagli e materiali **a bordo richiedono un’adeguata preparazione.**
+Il collegamento marittimo più usato per chi viaggia con un mezzo (moto, auto o camper) da Vladivostok alla Corea del Sud. {{< extLink "Il traghetto della DuWon Shippin" "https://corp.dwship.co.kr/en/" >}} è affidabile, ma le procedure doganali e le limitazioni sui bagagli e materiali **a bordo richiedono un’adeguata preparazione.**
 
 Il traghetto da Vladivostok a Donghae parte ogni giovedì e impiega 24 ore. Dal 2025 è possibile proseguire e arrivare a Sakaiminato in Giappone ([la guida è a portata di click](/blog/come-entrare-in-giappone-con-un-veicolo-senza-carnet-de-passages)).
 
 In caso di tifoni o meteo avverso la traversata può essere cancellata e ti toccherà aspettare la settimana successiva.
 
 Trovi gli uffici della DuWon a Vladivostok {{< extLink "a quest'indirizzo" "https://maps.app.goo.gl/Vgwo16BjmLCavanu8" >}}.
+
+
+## Il traghetto GNL Ferry da Vladivostok a Sokcho
+
+Da agosto 2025 è stata inaugurata una nuova tratta da Vladivostok a Sokcho. Stando {{< extLink "al loro sito web" "https://gnlferry.com/main" >}} (solo in coreano e russo):  
+- è un traghetto RoRo ed è quindi possibile imbarcare il proprio mezzo. {{< extLink "Qui maggiori informazioni." "https://gnlferry.com/freight/temporaryTraffic" >}}  
+- è possibile imbarcare il proprio animale domestico. [Qui la nostra guida](/blog/guida-completa-entrare-corea-sud-russia-cane-gatto/).  
+- i prezzi sembrano più economici rispetto alla nota DuWon ferry.
+
+Essendo la tratta completamente nuova, non abbiamo altre informazioni in merito. Se vuoi procedere con questo traghetto, consigliamo di contattare in anticipo [Yuri](#1-contatta-yuri-il-doganiere-di-fiducia) e il traghetto.
 
 {{< leggi-anche url="/blog/transiberiana-on-the-road">}}
 
@@ -88,8 +102,6 @@ In questo periodo Yuri **si occuperà di ispezionare il mezzo insieme ai doganie
 
 Durante quel periodo di tempo occorre trovare una sistemazione in città. È possibile muoversi per la città utilizzando il servizio di taxi {{< extLink "Yandex Go" "https://taxi.yandex.com/en_am/" >}}.
 
-{{< leggi-anche url="/blog/come-entrare-in-corea-del-sud-dalla-russia-la-guida-aggiornata-per-overlander" >}}
-
 ### In breve
 
 1. Contattare Yuri.
@@ -107,9 +119,9 @@ Anche in Corea del Sud, seguendo le indicazioni, non avrai problemi.
 {{< carousel images="Articoli/Russia/vladivostok/vladivostok-porto-barca-corea_dcqs7j.jpg,Articoli/Russia/vladivostok/easter-dream-operazioni-di-partenza_ecxw39.jpg,Articoli/Russia/vladivostok/barca-cucciette_iqzcpf.jpg" >}}
 
 ## Viaggio con animali    
-Se viaggi con un animale al seguito trovi tutti i documenti aggiuntivi e la guida da seguire [le informazioni qui](/blog/)
+Se viaggi con un animale al seguito trovi tutti i documenti aggiuntivi e la guida da seguire [le informazioni qui](/blog/guida-completa-entrare-corea-sud-russia-cane-gatto/)
 
-{{< leggi-anche url="">}}
+{{< leggi-anche url="/blog/guida-completa-entrare-corea-sud-russia-cane-gatto/">}}
 
 ## Quanto costa?
 Vogliamo essere sinceri, non è un traghetto economico. Ecco quanto abbiamo speso per 2 persone, un camper di 5.40m da 3.5T e un gatto di 4kg.

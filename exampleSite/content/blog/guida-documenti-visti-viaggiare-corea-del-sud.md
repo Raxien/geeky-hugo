@@ -52,7 +52,7 @@ La Corea del Sud offre un sistema sanitario di alta qualità, ma i turisti stran
 - **Emergenze mediche** con assistenza 24/7.
 - **Eventuali imprevisti** come cancellazione del viaggio o perdita di bagagli.
 
-Come sempre noi consigliamo l'assicurazione sanitaria **{{<extLink "Genki" "https://www.genki.world/with/vandipety">}}** che copre in modo illimitato in tutto il mondo.
+Come sempre noi consigliamo l'assicurazione sanitaria **{{< extLink "Genki" "https://www.genki.world/with/vandipety" >}}** che copre in modo illimitato in tutto il mondo.
 
 *Disclaimer: Questo è un link affiliate, il che significa che potremmo ricevere una piccola commissione se ti registri, senza costi aggiuntivi per te.*
 
