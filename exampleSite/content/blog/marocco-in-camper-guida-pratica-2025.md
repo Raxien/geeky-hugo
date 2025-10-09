@@ -6,6 +6,7 @@ date: 2025-08-09T7:00:00+01:00
 categories: ["Marocco in camper"]
 language: it
 continent: Africa
+draft: true
 country: Marocco
 type: regular  
 ---
