@@ -46,12 +46,12 @@ Seguire scrupolosamente le procedure descritte di seguito è fondamentale per or
 
 ### 1. Contatta Yuri, il doganiere di fiducia
 Tra gli overlander che hanno già viaggiato su questa tratta, Yuri della Links Ltd è **il punto di riferimento per tutte le pratiche doganali lato Russia.** È fondamentale contattarlo con largo anticipo per organizzare la documentazione necessaria durante il passaggio in dogana.
-Il suo contatto è questo: {{< extLink "Yuri - Links Ltd" "mailto:ymelnik@links-ltd.com" >}}
+Il suo contatto è questo: {{< extLink "Yuri - Links Ltd" "mailto:ymelnik@links-ltd.com" >}} ({{< extLink "ymelnik@links-ltd.com" "mailto:ymelnik@links-ltd.com" >}})
 
 ### 2. Prenota il traghetto con anticipo    
 Il traghetto DuWon ha una capacità limitata **e spesso si riempie rapidamente**. Prenotare in anticipo è imprescindibile per garantirsi un posto e un passaggio regolare. 
 Il suo contatto sono questi: 
-{{< extLink "Chloe di DuWon" "mailto:sbson@dwship.co.kr?cc=jnjeong@dwship.co.kr,sykim@dwship.co.kr" >}}  
+{{< extLink "Chloe di DuWon" "mailto:sbson@dwship.co.kr?cc=jnjeong@dwship.co.kr,sykim@dwship.co.kr" >}}  ({{< extLink "sbson@dwship.co.kr" "mailto:sbson@dwship.co.kr?cc=jnjeong@dwship.co.kr,sykim@dwship.co.kr" >}})
 
 Per comodità abbiamo messo in copia altri due contatti per essere sicuri di ottenere una risposta. Consigliamo di chiedere a Yuri i contatti aggiornati.
 
