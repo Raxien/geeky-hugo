@@ -1,16 +1,10 @@
 {
   "devDependencies": {
-    "@tinacms/cli": "^0.60.5",
-    "@types/node": "^24.3.0",
     "terser": "^5.39.0"
   },
   "scripts": {
     "minify": "terser exampleSite/assets/js/script.js -o exampleSite/assets/js/script.min.js -c passes=2,pure_getters,unsafe,unsafe_math,unsafe_proto,unsafe_regexp,unsafe_undefined,conditionals,dead_code,evaluate,booleans,loops,unused,drop_console=true,drop_debugger=true -m --comments '/^!/'",
-    "dev": "tinacms dev -c \"hugo server\"",
-    "build": "tinacms build && hugo"
-  },
-  "dependencies": {
-    "next-tinacms-cloudinary": "^7.1.0",
-    "tinacms": "^2.1.1"
+    "dev": "cd exampleSite && hugo server --disableFastRender --themesDir ../themes --theme geeky-hugo --gc",
+    "build": "hugo --minify --gc"
   }
 }

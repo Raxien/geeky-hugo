@@ -34,7 +34,7 @@ Il nostro folle progetto doveva essere di nuovo rinchiuso fra i pensieri.
 Decidemmo però di partire lo stesso, solo in direzione opposta. Dovevamo andare a est, in Asia, e ci siamo ritrovati a sud-ovest, in Africa.
 Un po' fuori rotta, penserete voi, ma questa avventura non prevista ci è servita tantissimo: abbiamo imparato davvero a vivere nei 9mq del van, a capire i suoi limiti, i nostri e a come risolvere i tanti problemi che ci si ritrova a fronteggiare ogni giorno da soli in mezzo al mondo.
 
-{{< image src="images/mappamondo-da-torino-tokyo-pin.png" title="Sembrava più vicino con una cartina in mano! Solo 8 fusi orari." >}}
+{{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1760176591/Articoli/viaggi/mappamondo-da-torino-tokyo-pin_ygeiz4.png" title="Sembrava più vicino con una cartina in mano! Solo 8 fusi orari." >}}
 
 ## Buone notizie
 Finita la nostra avventura in Africa (che puoi rivivere [con la mappa interattiva qui](/trip/)), mentre stavamo tornando [in Italia per sposarci](/blog/matrimonio-alternativo-30-giorni-per-organizzarlo-in-un-van/), sistemare il van e riorganizzare le idee sulla strada da intraprendere, abbiamo ricevuto un messaggio dal nostro carissimo amico Franco di {{<extLink "@bicosisgud" "https://www.instagram.com/bicosisgud/">}}: **"ragazzi la nave per il Giappone riparte!".**

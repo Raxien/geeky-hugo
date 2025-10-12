@@ -29,7 +29,7 @@
 {{ .Scratch.Set "logo_fallback" ($logo.Resize $logoWidth).RelPermalink }}
 {{ end }}
 
-<img loading="lazy" decoding="async" class="img-fluid logoOther" 
+<img loading="lazy" decoding="async" class="img-fluid" 
   {{if ne $logoExt `.svg`}}
   srcset="{{ .Scratch.Get "logo_avif" }} 1x, {{ .Scratch.Get "logo_webp" }} 1x"
   src="{{ .Scratch.Get "logo_fallback" }}"

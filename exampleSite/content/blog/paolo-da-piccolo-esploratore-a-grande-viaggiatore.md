@@ -1,7 +1,7 @@
 ---
 title: 'Paolo: da piccolo esploratore a GRANDE VIAGGIATORE'
 description: Un ragazzo, il mondo intero da scoprire, la voglia di uscire dagli schemi e sentirsi parte di tutto ciò che ci circonda
-image: images/post/Vi racconto di Paolo_1.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1760176118/articoli/viaggi/vi-racconto-paolo-b2lnlon3.jpg
 date: 2022-06-19T09:00:25.000+01:00
 categories: ["Blog"]
 type: regular

@@ -1,7 +1,7 @@
 ---
 title: "Un gatto a spasso nel paese dei gatti, Brolo"
 description: "Siamo partiti da Torino, città in cui sono iniziate le nostre avventure con Sakè al guinzaglio, e abbiamo raggiunto Brolo, paese dei gatti"
-image: "images/post/il_paese_dei_gatti_1_1.jpg"
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1760176435/Articoli/viaggi/brolo-paese-gatti_mlqhna.jpg
 date: 2022-06-19T09:00:25+01:00
 categories: ["Borghi Italiani", "Animali in camper"]
 continent: Europa

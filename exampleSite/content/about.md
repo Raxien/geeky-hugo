@@ -2,7 +2,7 @@
 title: Chi Siamo
 description: Due esseri umani con i piedi per terra e il sogno di visitare ogni angolo del mondo
 date: 2022-06-19T10:00:25+01:00
-image: images/chisiamo.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1760176533/Articoli/viaggi/chisiamo_hs92m7.jpg
 layout: about
 ---
 

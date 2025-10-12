@@ -24,7 +24,14 @@
 <!-- logo fallback -->
 {{ .Scratch.Set "logo_fallback" ($logo.Resize $logoWidth).RelPermalink }}
 {{ end }}
-<p class="logo_tt" style="display: flex; align-items: center; margin: 0; height: 100%; font-size: 1.5rem;">VANDIPETY</p>
+<img loading="lazy" decoding="async" class="img-fluid" 
+  {{if ne $logoExt `.svg`}}
+  srcset="{{ .Scratch.Get "logo_avif" }} 1x, {{ .Scratch.Get "logo_webp" }} 1x"
+  src="{{ .Scratch.Get "logo_fallback" }}"
+  {{else}}
+  src="{{ .Scratch.Get "logo" }}"
+  {{end}}
+  alt="{{ site.Title }}" width="{{ site.Params.logo_width }}" height="{{ site.Params.logo_height }}">
 
 {{ else }}
 <strong class="text-danger">`{{$logoPath}}` doesn't exist</strong>
