@@ -12,81 +12,59 @@
         </div>
       </div>
       <div class="col-lg-6">
-        <div class="p-4 border rounded-4">
-          <h3 class="h4 mb-5 text-capitalize">Mandaci un
-            <span class="text-primary"> messaggio <i class="fas fa-arrow-right ms-2"></i></span>
+        <div class="contact-info pt-lg-5">
+          {{ with site.Params.email }}
+          <h3 class="h4 mb-4 text-capitalize">Per
+            <span class="text-primary">informazioni</span>
           </h3>
-          <form id="contactForm" action="{{site.Params.contact_form_action | safeURL}}" method="POST">
-            <!-- <div class="form-group">
-              <label for="name" class="form-label">Nome <small>*</small></label>
-              <input type="text" class="form-control" name="name" id="name" placeholder="Sakè Olimpia" required>
-            </div> -->
-            <div class="form-group">
-              <label for="email" class="form-label">Email <small>*</small></label>
-              <input type="email" name="email" class="form-control" id="email" placeholder="esempio@email.com" required>
+          <div class="card text-center mb-4 p-3">
+            <a href="mailto:{{.}}" class="d-flex align-items-center justify-content-center gap-2">
+              <i class="fas fa-envelope text-primary"></i>
+              <span>{{.}}</span>
+            </a>
+          </div>
+          {{ end }}
+
+          {{ with site.Params.emailSponsor }}
+          <h3 class="h4 mb-4 text-capitalize">Per
+            <span class="text-primary">Collaborazioni</span>
+          </h3>
+          <div class="card text-center mb-4 p-3">
+            <a href="mailto:{{.}}" class="d-flex align-items-center justify-content-center gap-2">
+              <i class="fas fa-handshake text-primary"></i>
+              <span>{{.}}</span>
+            </a>
+          </div>
+          {{ end }}
+          <h3 class="h4 mb-4 text-capitalize">Oppure sui
+            <span class="text-primary">Social</span>
+          </h3>
+          <div class="text-center mb-4 p-3">
+            <ul class="list-unstyled social-icons">
+              {{ range site.Params.social }}
+              {{ if not (eq .title "Negozio") }}
+              <li class="list-inline-item">
+                <a href="{{.link | safeURL}}" aria-label="{{.title}}" class="fs-4">
+                  <i class="{{ .icon }}"></i>
+                </a>
+              </li>
+              {{ end }}
+              {{ end }}
+            </ul>
+          </div>
+
+          {{ with site.Params.address }}
+          <div class="card text-center mb-4 p-3">
+            <div class="d-flex align-items-center justify-content-center gap-2">
+              <i class="fas fa-map-marker-alt text-primary"></i>
+              <span>{{ . | markdownify }}</span>
             </div>
-            <!-- <div class="form-group">
-              <label for="isSponsor" class="form-label">Sei un'azienda?</label>              
-              <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="" id="isSponsor">
-                <label class="form-check-label" for="isSponsor">
-                  Si
-                </label>
-              </div>
-            </div> -->
-            <div class="form-group">
-              <label for="name" class="form-label">Oggetto <small>*</small></label>
-              <input type="text" class="form-control" name="subject" id="subject" placeholder=""
-                required>
-            </div>
-            <div class="form-group">
-              <label for="message" class="form-label">Il tuo messaggio <small>*</small></label>
-              <textarea class="form-control" placeholder="" id="message"
-                name="message" required></textarea>
-            </div>
-            <button type="submit" class="btn btn-primary" id="submitButton">
-              <span class="button-text">Invia</span>
-              <span class="spinner-border spinner-border-sm d-none" role="status" aria-hidden="true"></span>
-            </button>
-          </form>
+          </div>
+          {{ end }}
         </div>
       </div>
     </div>
 
-    <div class="row g-4">
-      {{ with site.Params.mobile }}
-      <div class="col-lg-4">
-        <div class="card text-center">
-          <a href="tel:{{.}}"><i class="fas fa-user text-primary"></i>{{.}}</a>
-        </div>
-      </div>
-      {{ end }}
-      {{ with site.Params.email }}
-      <div class="col-lg-4">
-        <div class="card text-center">
-          <a href="mailto:{{.}}"><i class="fas fa-envelope text-primary"></i>{{.}}</a>
-        </div>
-      </div>
-      {{ end }}
-      {{ with site.Params.instagram }}
-      <div class="col-lg-4">
-        <div class="card text-center">
-          <li>
-            <i class="fas fa-map-marker-alt text-primary"></i>{{ .| markdownify}}
-          </li>
-        </div>
-      </div>
-      {{ end }}
-      {{ with site.Params.address }}
-      <div class="col-lg-4">
-        <div class="card text-center">
-          <li>
-            <i class="fas fa-map-marker-alt text-primary"></i>{{ .| markdownify}}
-          </li>
-        </div>
-      </div>
-      {{ end }}
-    </div>
   </div>
 </section>
 <!--=================== contact section start ===================-->
