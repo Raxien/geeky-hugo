@@ -79,7 +79,7 @@ Tra negozietti tradizionali, souvenir carini e locali accoglienti, è il posto g
 
 ## E il cibo?
 
-Ti raccontiamo tutto nel dettaglio, **dall’antipasto al dolce in stile Nara**, in questo articolo sulle [3 cose da mangiare a Nara in un giorno](/blog/cosa-mangiare-a-nara-antipasto-primo-e-dolce)
+Ti raccontiamo tutto nel dettaglio, **dall'antipasto al dolce in stile Nara**, in questo articolo sulle [3 cose da mangiare a Nara in un giorno](/blog/cosa-mangiare-nara-antipasto-primo-dolce)
 
 Se riesci, resta fino al tramonto.  
 La luce dorata tra gli alberi e le lanterne del parco ha qualcosa di magico.  

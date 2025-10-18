@@ -78,7 +78,7 @@ Il periodo migliore per visitare le tappe dell’Anello d’oro è sicuramente *
 
 ## Sogni un viaggio indimenticabile in Russia?
 Che tu sia appassionato di storia, arte, natura o semplicemente curioso di scoprire una cultura affascinante, questo paese ha qualcosa da offrire a tutti.
-Tuttavia, pianificare un viaggio in Russia nel 2024 richiede una preparazione accurata, data la situazione attuale. [In questa guida completa](/blog/viaggiare-in-russia-guida-completa-in-11-punti-aggiornamento-2024), troverai tutte le informazioni utili e aggiornate per organizzare un viaggio sicuro e senza imprevisti.
+Tuttavia, pianificare un viaggio in Russia nel 2024 richiede una preparazione accurata, data la situazione attuale. [In questa guida completa](/blog/viaggiare-russia-guida-completa-11-punti-2025), troverai tutte le informazioni utili e aggiornate per organizzare un viaggio sicuro e senza imprevisti.
 
 Cominciamo subito a pianificare il tuo viaggio in Russia!
 

@@ -74,6 +74,6 @@ Queste parole erano anche le ultime che avremmo sentito pronunciare da Emil, per
 In due giorni siamo stati accolti da tutti come figli tornati a casa. 
 Non abbiamo piantato una bandierina in un nuovo paese, **abbiamo solo seminato un altro frammento d’amore.** 
 
-Vuoi pianificare un viaggio in Russia nel 2024? [In questa guida completa](/blog/viaggiare-in-russia-guida-completa-in-11-punti-aggiornamento-2024), troverai tutte le informazioni utili e aggiornate per organizzare un viaggio sicuro e senza imprevisti.
+Vuoi pianificare un viaggio in Russia nel 2024? [In questa guida completa](/blog/viaggiare-russia-guida-completa-11-punti-2025), troverai tutte le informazioni utili e aggiornate per organizzare un viaggio sicuro e senza imprevisti.
 
  

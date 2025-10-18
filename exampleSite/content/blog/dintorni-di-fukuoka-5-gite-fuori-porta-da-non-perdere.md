@@ -9,7 +9,7 @@ type: featured
 continent: Asia
 country: Giappone
 ---
-[Fukuoka è una città vivace](/blog/cosa-vedere-a-fukuoka-la-citta-accogliente-del-kyushu/), moderna e piena di sapori, ma basta spingersi un po’ oltre i suoi confini per scoprire un mondo fatto di **templi antichi, spiagge poetiche, paesaggi rurali e cittadine dal fascino retrò**.  
+[Fukuoka è una città vivace](/blog/cosa-vedere-fukuoka-citta-accogliente-kyushu), moderna e piena di sapori, ma basta spingersi un po' oltre i suoi confini per scoprire un mondo fatto di **templi antichi, spiagge poetiche, paesaggi rurali e cittadine dal fascino retrò**.  
 Che tu viaggi in treno, in camper o in auto, ecco **cinque destinazioni ideali per scoprire il volto più autentico del Kyushu**.
 
 {{< indice >}}
@@ -32,7 +32,7 @@ Treno Nishitetsu da Tenjin, cambio a Futsukaichi. Scendi a Dazaifu.
 {{< leggi-anche url="/blog/giappone-kyushu-14-giorni-on-the-road-selvaggio/" >}}
 
 ## 2. Nanzoin: il Buddha sdraiato più grande del Giappone
-Appena fuori da [Fukuoka](/blog/cosa-vedere-a-fukuoka-la-citta-accogliente-del-kyushu/), in mezzo alla vegetazione lussureggiante di Sasaguri, si trova uno dei luoghi più suggestivi e meno conosciuti dell’isola: il **Tempio Nanzoin**.
+Appena fuori da [Fukuoka](/blog/cosa-vedere-fukuoka-citta-accogliente-kyushu), in mezzo alla vegetazione lussureggiante di Sasaguri, si trova uno dei luoghi più suggestivi e meno conosciuti dell'isola: il **Tempio Nanzoin**.
 
 ### Cosa vedere
 Il **Buddha sdraiato**, lungo 41 metri e pesante oltre 300 tonnellate, rappresenta il momento del passaggio nel Nirvana. Dal Buddha partono vari **percorsi spirituali** che portano al Kidonotaki Fudodo. L’intero complesso è disseminato di statue, torii e piccoli santuari immersi nella natura.

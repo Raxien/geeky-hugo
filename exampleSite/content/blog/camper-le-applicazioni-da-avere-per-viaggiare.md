@@ -19,7 +19,7 @@ Queste applicazioni sono utili in qualsiasi viaggio, non solo in camper, e ti ac
 
 ### 1. Google Maps e Maps.Me
 - **Google Maps**: Perfetto quando hai una connessione internet. Offre navigazione in tempo reale, informazioni su traffico e punti di interesse.({{< extLink "iOS" "https://apps.apple.com/it/app/google-maps-gps-e-ristoranti/id585027354" >}} | {{< extLink "Android" "https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=it&gl=US" >}})
-- **Maps.Me**: Ideale per viaggiare offline. Scarica le mappe in anticipo e usale senza connessione, come abbiamo fatto nel nostro viaggio in [Senegal](/blog/guida-senegal-in-camper-itinerari-informazioni/).({{< extLink "iOS" "https://apps.apple.com/it/app/maps-me-mappe-offline-gps/id510623322" >}} | {{< extLink "Android" "https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro&hl=it&gl=US" >}})
+- **Maps.Me**: Ideale per viaggiare offline. Scarica le mappe in anticipo e usale senza connessione, come abbiamo fatto nel nostro viaggio in [Senegal](/blog/guida-senegal-in-camper-itinerari).({{< extLink "iOS" "https://apps.apple.com/it/app/maps-me-mappe-offline-gps/id510623322" >}} | {{< extLink "Android" "https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro&hl=it&gl=US" >}})
 
 ### 2. Google Translate
 Supera le barriere linguistiche leggendo cartelli, etichette o comunicando con locals. La funzione di traduzione tramite fotocamera è un salvavita!({{< extLink "iOS" "https://apps.apple.com/us/app/translate/id1514844618" >}} | {{< extLink "Android" "https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=it&gl=US" >}})

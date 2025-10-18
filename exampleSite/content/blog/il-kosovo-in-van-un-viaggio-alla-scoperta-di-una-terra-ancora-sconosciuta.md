@@ -20,7 +20,7 @@ Il Kosovo è un paese sicuro e accogliente. Vuoi saperne di più? **Continua a l
 
 Il Kosovo si trova nei Balcani ed è la destinazione meno conosciuta e visitata di questa zona, tant'è che è difficile trovare in rete informazioni in merito a cosa visitare. In questo articolo speriamo di riuscire a condividervi **non solo informazioni utili ma anche le emozioni vissute** in questo paese meraviglioso, invogliandovi magari a partire per scoprire luoghi che meritano davvero un grande riscatto. 
 
-Vi elencheremo le nostre tappe in ordine di visita, partendo da nord dato che abbiamo attraversato la frontiera tra Kosovo e [Montenegro](/blog/viaggio-montenegro-in-camper-itinerario) per poi terminare le nostre avventure e proseguire in Macedonia del Nord.
+Vi elencheremo le nostre tappe in ordine di visita, partendo da nord dato che abbiamo attraversato la frontiera tra Kosovo e [Montenegro](/blog/montenegro-camper-itinerario-7-giorni-bellezze-paese) per poi terminare le nostre avventure e proseguire in Macedonia del Nord.
  <!-- [Macedonia del Nord](/blog/viaggio-macedonia-del-nord-in-camper-itinerario). -->
 
 ### Pejë: un monastero, una birra e del buon formaggio

@@ -93,7 +93,7 @@ Dopo aver visto e vissuto il Marocco per quasi due mesi Marrakech **ci è sembra
 
 **{{< underline "Giorno 32">}}**: lungo la strada che conduce a **Ifrane**, considerata la **"Svizzera marocchina"** per le sue case a graticcio (a propostito d'inverno qui nevica, lo sapevi?) avremmo voluto visitare la foresta di cedri di Azrou, popolata da numerose bertucce. Purtroppo però, date le alte temperature nel momento (metà maggio), la zona era infestata di processionaria, insetto pericoloso per i nostri animali che avremmo dovuto tenere chiusi in camper. 
 
-Da questo punto in poi le nostre avventure in Marocco sono proseguite verso Fes, il sito archeologico di Volubilis, la costa mediterranea e la città Blu fino a tornare a Tanger Med. Se vuoi scoprire cosa abbiamo visitato in queste zone trovi tutto in [questo articolo](/blog/marocco-in-camper-la-costa-mediterranea).
+Da questo punto in poi le nostre avventure in Marocco sono proseguite verso Fes, il sito archeologico di Volubilis, la costa mediterranea e la città Blu fino a tornare a Tanger Med. Se vuoi scoprire cosa abbiamo visitato in queste zone trovi tutto in [questo articolo](/blog/marocco-in-camper-alla-scoperta-della-costa-mediterranea).
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690632615/Articoli/Marocco/marocco%202/cattedrale_amsfrane_c9kumt.jpg">}}
 

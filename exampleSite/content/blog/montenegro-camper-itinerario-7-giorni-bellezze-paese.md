@@ -18,7 +18,7 @@ Seguici in questo viaggio in camper alla scoperta del Montenegro!
 
 ## Itinerario di 7 giorni
 
-Il nostro itinerario ci ha visti partire dalla costa al confine con la Bosnia ed Erzegovina, fino ad arrivare alla dogana **con il Kosovo** ([paese che abbiamo amato](/blog/viaggio-kosovo-in-camper-itinerari)).
+Il nostro itinerario ci ha visti partire dalla costa al confine con la Bosnia ed Erzegovina, fino ad arrivare alla dogana **con il Kosovo** ([paese che abbiamo amato](/blog/il-kosovo-in-van-un-viaggio-alla-scoperta-di-una-terra-ancora-sconosciuta)).
 
 {{< underline "Giorno 1">}}: le Bocche di Cattaro
 

@@ -9,7 +9,7 @@ continent: Asia
 country: Corea del Sud
 type: regular  
 ---
-Se stai viaggiando [via terra lungo la Transiberiana](/blog/transiberiana-on-the-road) e desideri [entrare in Corea del Sud a bordo del traghetto](/blog/come-entrare-in-corea-del-sud-dalla-russia-la-guida-aggiornata-per-overlander) con il tuo animale domestico (cane o gatto), **è fondamentale pianificare attentamente ogni passaggio.** 
+Se stai viaggiando [via terra lungo la Transiberiana](/blog/transiberiana-on-the-road) e desideri [entrare in Corea del Sud a bordo del traghetto](/blog/come-entrare-corea-sud-russia-guida-aggiornata-overlander) con il tuo animale domestico (cane o gatto), **è fondamentale pianificare attentamente ogni passaggio.** 
 Il governo coreano ha stabilito normative rigorose per prevenire l’introduzione di malattie zoonotiche (come la rabbia) e garantire la sicurezza di tutti. 
 In questa guida ti forniremo tutti i dettagli necessari **per portare il tuo animale domestico in Corea senza problemi**, evitando la quarantena e rispettando tutte le procedure richieste. 
 
@@ -47,7 +47,7 @@ Tutti i documenti elencati precedentemente e quelli che andrai a ottenere in Rus
 Questa procedura va fatta per ogni animale che viaggia con te. 
 
 ### Notifica alla compagnia navale
-Prima di partire, **[è importante informare la compagnia navale che viaggi con un animale domestico](/blog/come-entrare-in-corea-del-sud-dalla-russia-la-guida-aggiornata-per-overlander)**. Ti consigliamo di informarli appena effettui la prenotazione, dal momento che la stanza di stivaggio per animali non è enorme e potrebbe non esserci spazio a sufficienza: in tal caso potresti dover slittare o anticipare la tua partenza, dato che la nave dalla Russia alla Corea **effettua solo una corsa a settimana.** 
+Prima di partire, **[è importante informare la compagnia navale che viaggi con un animale domestico](/blog/come-entrare-corea-sud-russia-guida-aggiornata-overlander)**. Ti consigliamo di informarli appena effettui la prenotazione, dal momento che la stanza di stivaggio per animali non è enorme e potrebbe non esserci spazio a sufficienza: in tal caso potresti dover slittare o anticipare la tua partenza, dato che la nave dalla Russia alla Corea **effettua solo una corsa a settimana.** 
 
 ### Ufficio portuale
 Contatta l’ufficio portuale via mail ({{< extLink "torg.port.svh@yandex.ru." "mailto:torg.port.svh@yandex.ru" >}}) o meglio ancora recati di persona per presentare il tuo caso. In quest'ultimo caso **ricordati di portare con te il passaporto** in quanto è richiesta la registrazione all'ingresso.
@@ -106,7 +106,7 @@ Una volta arrivato in Corea, il tuo animale dovrà passare attraverso i controll
 ### Permesso di ingresso
 Se tutti i documenti sono in ordine, **il tuo animale potrà entrare in Corea senza essere sottoposto a quarantena.** Se ci sono problemi con la documentazione o la salute dell'animale, potrebbe essere necessario un periodo di quarantena.
 
-{{< leggi-anche url="/blog/come-entrare-in-corea-del-sud-dalla-russia-la-guida-aggiornata-per-overlander" >}}
+{{< leggi-anche url="/blog/come-entrare-corea-sud-russia-guida-aggiornata-overlander" >}}
 
 ## Riassunto dei passaggi per entrare in Corea del Sud con il tuo animale domestico dalla Russia
 
@@ -125,9 +125,9 @@ In Russia (Vladivostok):
 7. Controllo di quarantena all’arrivo in Corea del Sud.
 
 ## Conclusioni
-Speriamo che questa guida ti abbia fornito tutte le informazioni necessarie per viaggiare in Corea del Sud con il tuo animale domestico dalla Russia in modo sicuro e senza intoppi. 
+Speriamo che questa guida ti abbia fornito tutte le informazioni necessarie per viaggiare in Corea del Sud con il tuo animale domestico dalla Russia in modo sicuro e senza intoppi.
 
-Se stai pensando di spedire solo il mezzo e di volare, sappi che in questo momento storico i voli tra Russia e Corea sono stati soppressi, [quindi il viaggio tramite traghetto è l’unica soluzione.](/blog/come-entrare-in-corea-del-sud-dalla-russia-la-guida-aggiornata-per-overlander)
+Se stai pensando di spedire solo il mezzo e di volare, sappi che in questo momento storico i voli tra Russia e Corea sono stati soppressi, [quindi il viaggio tramite traghetto è l'unica soluzione.](/blog/come-entrare-corea-sud-russia-guida-aggiornata-overlander)
  
 Se hai trovato utili queste informazioni, troverai anche dei video dettagliati sull'argomento {{< extLink "sul nostro canale YouTube" "https://www.youtube.com/@vandipety" >}}, dove approfondiamo vari aspetti del viaggio.
 Se sei interessato a percorrere la Transiberiana via terra, abbiamo preparato {{< extLink "una guida completa che puoi acquistare online" "https://amzn.to/3Ec1FQh" >}} per aiutarti a pianificare il tuo viaggio in modo semplice e dettagliato.

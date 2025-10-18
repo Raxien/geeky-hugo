@@ -25,7 +25,7 @@ Ed è perfetta se hai la possibilità di noleggiare un’auto o un camper, perch
 Atterraggio a Fukuoka. Perché? Perché quasi nessuno ci pensa, ed è una scelta da veri ninja del viaggio. Fukuoka è ben collegata all’Italia (spesso con un solo scalo) e i **voli costano meno rispetto a Tokyo o Osaka.**
 Prenditi un po’ di tempo per ambientarti, sgranchirti le gambe e assaggiare il celebre tonkotsu ramen (o se preferisci un’alternativa [vegetariana scoprila qui](/blog/ramen-vegetariano-fukuoka-alternativa-tonkotsu/)). 
 
-{{< leggi-anche url="/blog/cosa-vedere-a-fukuoka-la-citta-accogliente-del-kyushu/">}}
+{{< leggi-anche url="/blog/cosa-vedere-fukuoka-citta-accogliente-kyushu">}}
 
 **{{< underline "Giorno 2">}}**: **Buddha di Nanzoin, Dazaifu e arrivo a Nagasaki**  
 Ritira l’auto e fai subito tappa al gigantesco **Buddha sdraiato di Nanzoin**. Poi dirigiti a Dazaifu. Nel pomeriggio arrivo a Nagasaki.

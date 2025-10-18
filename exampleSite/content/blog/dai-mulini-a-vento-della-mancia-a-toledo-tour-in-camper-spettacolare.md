@@ -60,7 +60,7 @@ a strada davvero panoramica.
 Il castello è visitabile solo con guida (**che non parla italiano**) a partire da 7€.
 
 ### Toledo
-Capoluogo della regione, questa splendida città è stata la vera rivelazione di questo tour. Dista solo un’ora da Madrid eppure a noi è piaciuta molto di più [dell’attuale capitale.](/blog/madrid-in-1-giorno-a-costo-0)
+Capoluogo della regione, questa splendida città è stata la vera rivelazione di questo tour. Dista solo un'ora da Madrid eppure a noi è piaciuta molto di più [dell'attuale capitale.](/blog/madrid-un-giorno-low-cost)
 
 Toledo ebbe il suo periodo d’oro sotto la dominazione araba fino a fine Quattrocento quando, a seguito della riconquista cristiana, furono cacciati dalla Spagna tutti gli ebrei. Nel 1536 poi alla città venne tolto il titolo di capitale, trasferito a Madrid. Toledo rimaneva la miglior produttrice di acciaio del mondo, produttrice di spade e coltelli.
 

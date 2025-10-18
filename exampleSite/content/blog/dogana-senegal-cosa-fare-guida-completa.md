@@ -49,7 +49,7 @@ Il vero problema è l'estrema corruzione che si riflette in costi esorbitanti se
 ### Diama
 {{< procontro pro1="Economica" pro2="Poco frequentata" contro1="Meno facile da raggiungere" contro2="Durante la stagione delle piogge raggiungibile solo con un 4x4">}}
 
-L'unico problema di questa dogana è la strada in quanto dall'ultima "città" della Mauritania al confine ci sono 48 chilometri di strada sterrata **in pessime condizioni** il cui tempo di percorrenza è di circa 2 ore e mezza. Questa strada diventa **impraticabile per i mezzi non 4x4** durante la stagione delle piogge. Ha di positivo che si trova all'interno del **parco del Dwailing** e permette di avvistare numerosi animali selvatici, soprattutto facoceri e uccelli di tutti i colori che migrano verso il vicino [parco del Djoudj](/blog/informazioni_viaggio_senegal/).
+L'unico problema di questa dogana è la strada in quanto dall'ultima "città" della Mauritania al confine ci sono 48 chilometri di strada sterrata **in pessime condizioni** il cui tempo di percorrenza è di circa 2 ore e mezza. Questa strada diventa **impraticabile per i mezzi non 4x4** durante la stagione delle piogge. Ha di positivo che si trova all'interno del **parco del Dwailing** e permette di avvistare numerosi animali selvatici, soprattutto facoceri e uccelli di tutti i colori che migrano verso il vicino [parco del Djoudj](/blog/informazioni-viaggio-senegal).
 
 Prestando attenzione, la strada si riesce a percorrere anche con un camper mansardato (come {{< extLink "hanno fatto i nostri amici" "https://youtu.be/bEgypQBv2wI">}}).
 

@@ -62,7 +62,7 @@ Per la notte ci siamo spostati a Gmunden.
 
 **{{< underline "Giorno 20">}}**: ci siamo spostati a **Melk** dove abbiamo visitato a turno l’interno dell’Abbazia, abbellita con ornamenti dorati meravigliosi e poi per pernottare alle porte di un piccolo paesino medievale, **Mauerbach**.
 
-**{{< underline "Giorno 21-22">}}**: abbiamo dedicato **due giornate alla visita di Vienna**, ammirandone palazzi e giardini e degustando ovviamente una **fetta di torta Sacher**. Per tutti i dettagli e i consigli su dove parcheggiare e come comportarti se viaggi con un animale (tieni presente che la città è davvero poco pet friendly!) [ti rimandiamo al nostro articolo completo](/blog/vienna-con-cane-e-gatto-in-2-giorni-una-citt%C3%A0-decisamente-poco-pet-friendly/).
+**{{< underline "Giorno 21-22">}}**: abbiamo dedicato **due giornate alla visita di Vienna**, ammirandone palazzi e giardini e degustando ovviamente una **fetta di torta Sacher**. Per tutti i dettagli e i consigli su dove parcheggiare e come comportarti se viaggi con un animale (tieni presente che la città è davvero poco pet friendly!) [ti rimandiamo al nostro articolo completo](/blog/vienna-con-cane-e-gatto).
 
 **{{< underline "Giorno 23">}}**: lasciata la capitale austriaca abbiamo deciso di spostarci in un paesino di campagna nelle vicinanze: **Rust**. Purtroppo le temperature estive non hanno aiutato e, con 39 gradi sotto al sole, abbiamo visitato il centro del paese e la riserva dedicata alle cicogne un po' di corsa.
 
