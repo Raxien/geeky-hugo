@@ -46,6 +46,9 @@
 /blog/viaggio-mauritania-on-the-road-le-dogane /blog/viaggio-mauritania-on-the-road-dogane 301
 /blog/vienna-con-cane-e-gatto-in-2-giorni-una-città-decisamente-poco-pet-friendly /blog/vienna-con-cane-e-gatto 301
 
+# Page renames
+/expanses /expenses 301
+
 # Additional URL changes from earlier commits
 /blog/come-entrare-in-corea-del-sud-dalla-russia-la-guida-aggiornata-per-overlander /blog/come-entrare-corea-sud-russia-guida-aggiornata-overlander 301
 /blog/cosa-mangiare-a-nara-antipasto-primo-e-dolce /blog/cosa-mangiare-nara-antipasto-primo-dolce 301
