@@ -48,7 +48,7 @@ A Olimpia e Sakè manca davvero solo la parola quindi scriveremo noi per loro i 
 
 ## Le spese
 Avevamo l'abitudine di tener traccia delle nostre spese già quando abitavamo a Torino e abbiamo deciso di continuare a farlo anche viaggiando, sia per essere consapevoli di come stiamo conducendo questo stile di vita, sia per poter essere utili a chi voglia intraprendere un'esperienza simile e abbia il piacere di fare un confronto.
-Trovi i dettagli grafici [in questa sezione](/expanses/) oppure puoi vedere il nostro video relativo alle spese dopo sei mesi a bordo del van:
+Trovi i dettagli grafici [in questa sezione](/expenses/) oppure puoi vedere il nostro video relativo alle spese dopo sei mesi a bordo del van:
 
 {{< youtube2 CYJHHkg3_3s>}}
 

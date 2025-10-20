@@ -679,7 +679,7 @@ if (loadMoreButton) {
   });
 }
 
-//=================== expanses script start ===================
+//=================== expenses script start ===================
 const rpcUrl = "https://vandipetyapi.onrender.com"
 const color = [ 'rgba(255, 99, 132, 1)',
                 'rgba(54, 162, 235, 1)',
@@ -1571,7 +1571,7 @@ function initExpensesPage() {
 
 // Inizializza la pagina delle spese se siamo nella pagina corretta
 initExpensesPage();
-//=================== expanses script end ===================
+//=================== expenses script end ===================
 
 //=================== press script start ===================
 function createPressListItem(data) {

@@ -18,7 +18,7 @@ weight = 2
 
 [[main]]
 name = "Le spese"
-url = "expanses/"
+url = "expenses/"
 weight = 2
 
 [[main]]
@@ -224,7 +224,7 @@ hasChildren = true
 #   [[main]]
 #   parent = "Diamo i numeri"
 #   name = "Le spese"
-#   url = "expanses/"
+#   url = "expenses/"
 #   weight = 2
 
 #   [[main]]

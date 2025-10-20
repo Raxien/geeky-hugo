@@ -39,7 +39,7 @@ npm run minify
 ### Content Architecture
 - **Primary site content**: `exampleSite/content/` (the actual production site)
   - `blog/` - All blog posts (main content section)
-  - Static pages: `contact.md`, `gears.md`, `expanses.md`, `books.md`, etc.
+  - Static pages: `contact.md`, `gears.md`, `expenses.md`, `books.md`, etc.
 - **Root content**: `content/` - Contains test/development content only
 
 ### Configuration Structure

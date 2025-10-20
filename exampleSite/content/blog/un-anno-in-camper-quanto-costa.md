@@ -8,7 +8,7 @@ type: featured
 draft: false 
 ---
 
-Era il **18 maggio 2022** quando abbiamo iniziato ad annotare il primo rifornimento di gasolio(/van), la prima spesa alimentare. I primi [di tanti numeri](/expanses) che avremmo scritto per controllare di rientrare nel budget mensile che ci eravamo prefissati.
+Era il **18 maggio 2022** quando abbiamo iniziato ad annotare il primo rifornimento di gasolio(/van), la prima spesa alimentare. I primi [di tanti numeri](/expenses) che avremmo scritto per controllare di rientrare nel budget mensile che ci eravamo prefissati.
 
 Una delle regole prima di partire per vivere a bordo del nostro van è stata proprio questa:
 
@@ -69,6 +69,6 @@ Trovi tutto in questo video sul nostro canale YouTube.
 
 {{< youtube2 0NrXpFEY6Wc>}}
 
-Se invece sei curiosa/o e vuoi vedere le nostre spese in tempo reale ti rimandiamo [alla sezione dedicata su questo sito](/expanses). 
+Se invece sei curiosa/o e vuoi vedere le nostre spese in tempo reale ti rimandiamo [alla sezione dedicata su questo sito](/expenses). 
 
 Ci farebbe molto piacere un tuo parere, se vorrai scriverci nei commenti ti leggeremo volentieri!

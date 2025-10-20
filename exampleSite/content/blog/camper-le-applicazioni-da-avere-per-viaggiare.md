@@ -31,7 +31,7 @@ Finito i giga? WiFi Map ti aiuta a trovare reti Wi-Fi gratuite nelle vicinanze, 
 Riempi le tue borracce con acqua potabile gratuita. Questa app segnala le fontanelle pubbliche più vicine.({{< extLink "iOS" "https://apps.apple.com/it/app/fontanelle/id1146278776" >}} | {{< extLink "Android" "https://play.google.com/store/apps/details?id=com.mollica.fontanelle&hl=it&gl=US" >}})
 
 ### 5. Splitwise
-Tieni traccia delle spese di gruppo in tempo reale. Noi la usiamo per monitorare i costi del viaggio, visibili anche sulla nostra [pagina delle spese](https://vandipety.it/expanses/).( {{< extLink "iOS" "https://apps.apple.com/it/app/splitwise/id458023433" >}} | {{< extLink "Android" "https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile&hl=it&gl=US" >}})
+Tieni traccia delle spese di gruppo in tempo reale. Noi la usiamo per monitorare i costi del viaggio, visibili anche sulla nostra [pagina delle spese](https://vandipety.it/expenses/).( {{< extLink "iOS" "https://apps.apple.com/it/app/splitwise/id458023433" >}} | {{< extLink "Android" "https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile&hl=it&gl=US" >}})
 
 {{< leggi-anche >}}
 
