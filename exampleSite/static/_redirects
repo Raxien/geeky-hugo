@@ -1,2 +1,57 @@
 # Netlify CMS
 /admin/* /admin/index.html 200
+
+# SEO URL redirects (from commit 3d58fc5 - Sistemati url e fix articoli)
+/blog/l-ariege-in-camper-tour-di-9-giorni-in-una-regione-francese-meravigliosa /blog/ariege-camper-tour-9-giorni-regione-francese 301
+/blog/brolo-un-gatto-a -passo-nel-paese-dei-gatti /blog/brolo-nel-paese-dei-gatti 301
+/blog/la-connessione-perfetta-per-il-tuo-viaggio-in-Giappone-japan-wireless /blog/connessione-viaggio-giappone-japan-wireless 301
+/blog/la-crociera-sul-bosforo-lesperienza-quasi-gratuita-a-istanbul-che-nessuno-conosce /blog/crociera-bosforo-istanbul-esperienza-low-cost 301
+/blog/la-dmz-un-viaggio-nella-storia-e-nella-divisione-della-corea: /blog/dmz-viaggio-storia-divisione-corea 301
+/blog/dove-mangiare-i-takoyaki-a-osaka-nel-negozio-piu-piccolo-del-giappone /blog/dove-mangiare-takoyaki-osaka-negozio-piu-piccolo-giappone 301
+/blog/entrare-in-giappone-con-il-tuo-cane-o-gatto-come-evitare-la-quarantena /blog/entrare-giappone-cane-gatto-evitare-quarantena 301
+/blog/fly-ranch-una-passeggiata-a-cavallo-ai-piedi-del-monviso /blog/fly-ranch-passeggiata-cavallo-monviso 301
+/blog/un-giappone-diverso-14-giorni-on-the-road-nel-selvaggio-kyushu /blog/giappone-kyushu-14-giorni-on-the-road-selvaggio 301
+/blog/guida-definitiva-alla-metro-di-seoul-e-alla-t-Money /blog/guida-definitiva-metro-seoul-t-money 301
+/blog/guida-ai-documentie-visti-per-viaggiare-in-corea-del-sud /blog/guida-documenti-visti-viaggiare-corea-del-sud 301
+/blog/guida-agli-inferni-di-beppu-cosa-sono-quanto-costano-e-quali-vale-la-pena-vedere /blog/guida-inferni-beppu-cosa-sono-costo-quali-vedere 301
+/blog/jeonju-un-viaggio-nella-cultura-e-nei-sapori-della-corea-del-sud /blog/jeonju-viaggio-cultura-sapori-corea-del-sud 301
+/blog/kazan-guida-completa-alla-scoperta-della-capitale-del-tatarstan /blog/kazan-guida-completa-capitale-tatarstan 301
+/blog/lubiana-in-un-giorno-la-capitale-slovenia /blog/lubiana-un-giorno-capitale-slovenia 301
+/blog/madrid-in-1-giorno-a-costo-0 /blog/madrid-un-giorno-low-cost 301
+/blog/maisan-la-montagna-sacra-della-corea-del-sud /blog/maisan-montagna-sacra-corea-del-sud 301
+/blog/la-metropolitana-di-istanbul-un-viaggio-sostenibile-nel-cuore-della-citta /blog/metropolitana-istanbul-viaggio-sostenibile-citta 301
+/blog/la-metropolitana-di-mosca-un-viaggio-imperdibile-tra-arte-storia-e-sotterranei-segreti /blog/metropolitana-mosca-viaggio-arte-storia-sotterranei 301
+/blog/montenegro-in-camper-un-itinerario-di-7-giorni-per-scoprire-le-bellezze-del-paese /blog/montenegro-camper-itinerario-7-giorni-bellezze-paese 301
+/blog/un-giorno-a-nagasaki-e-giro-extra-all-isola-fantasma-di-hashima /blog/nagasaki-un-giorno-giro-isola-fantasma-hashima 301
+/blog/nara-in-un-giorno-tra-templi-cervi-curiosi-e-foreste-silenziose /blog/nara-un-giorno-templi-cervi-foreste 301
+/blog/noale-un-piccolo-borgo-a-pochi-chilometri-da-venezia /blog/noale-borgo-vicino-venezia 301
+/blog/oden-la-zuppa-giapponese-che-insegna-a-rallentare /blog/oden-zuppa-giapponese-insegna-rallentare 301
+/blog/patente-internazionale-come-fare-guida-completa /blog/patente-internazionale-guida-completa-requisiti-costi 301
+/blog/pesche-ripiene-in-camper-un-dolce-piemontese-in-giro-per-il-mondo /blog/pesche-ripiene-camper-dolce-piemontese-viaggio 301
+/blog/piatti-vegetariani-da-provare-in-corea-guida-per-viaggiatori-curiosi-e-affamati /blog/piatti-vegetariani-corea-guida-viaggiatori-curiosi-affamati 301
+/blog/playa-bolonia-una-delle-spiagge-piu-belle-dell-andalusia /blog/playa-bolonia-spiaggia-piu-bella-andalusia 301
+/blog/porto-in-un-giorno-itinerario-completo-e-cosa-vedere /blog/porto-un-giorno-itinerario-cosa-vedere 301
+/blog/prenota-i-tuoi-treni-giapponesi-con-japan-bullet-train-e-viaggia-senza-stress /blog/prenota-treni-giappone-japan-bullet-train-senza-stress 301
+/blog/Rabat-in-camper-cosa-vedere-nella-capitale-del-Marocco /blog/rabat-camper-cosa-vedere-capitale-marocco 301
+/blog/ramen-vegetariano-a-fukuoka-l-alternativa-sorprendente-al-tonkotsu /blog/ramen-vegetariano-fukuoka-alternativa-tonkotsu 301
+/blog/sake-il-gatto-viaggiatore-da-record-mondiale /blog/sake-gatto-viaggiatore-record-mondiale 301
+/blog/viaggio-nel-cuore-di-san-pietroburgo-esplora-la-metropolitana-più-profonda-del-mondo /blog/san-pietroburgo-viaggio-metropolitana-piu-profonda-mondo 301
+/blog/slovenia-in-camper-5-giorni-tra-montagne-e-borghi-storici /blog/slovenia-camper-5-giorni-montagne-borghi-storici 301
+/blog/lo-street-food-di-istanbul-il-magioc-balik-ekmek /blog/street-food-istanbul-balik-ekmek 301
+/blog/tbilisi-9-luoghi-da-non-perdere-e-un-consiglio-su-dove-mangiare /blog/tbilisi-9-luoghi-imperdibili-consiglio-dove-mangiare 301
+/blog/tour-di-san-pietroburgo-scopri-la-venezia-del-nord-in-2-giorni /blog/tour-san-pietroburgo-venezia-del-nord-2-giorni 301
+/blog/viaggiare-con-cane-e-gatto-tutto-quello-che-devi-sapere /blog/viaggiare-cane-gatto-guida-completa 301
+/blog/viaggiare-in-russia-guida-completa-in-11-punti-aggiornamento-2025 /blog/viaggiare-russia-guida-completa-11-punti-2025 301
+/blog/viaggio-giappone-informazioni-e-itinerari /blog/viaggio-giappone-guida-itinerari 301
+/blog/viaggio-mauritania-on-the-road-le-dogane /blog/viaggio-mauritania-on-the-road-dogane 301
+/blog/vienna-con-cane-e-gatto-in-2-giorni-una-città-decisamente-poco-pet-friendly /blog/vienna-con-cane-e-gatto 301
+
+# Additional URL changes from earlier commits
+/blog/come-entrare-in-corea-del-sud-dalla-russia-la-guida-aggiornata-per-overlander /blog/come-entrare-corea-sud-russia-guida-aggiornata-overlander 301
+/blog/cosa-mangiare-a-nara-antipasto-primo-e-dolce /blog/cosa-mangiare-nara-antipasto-primo-dolce 301
+/blog/cosa-vedere-a-fukuoka-la-citta-accogliente-del-kyushu /blog/cosa-vedere-fukuoka-citta-accogliente-kyushu 301
+/blog/cosa-vedere-a-osaka-in-un-giorno-piu-qualche-extra-da-non-perdere /blog/cosa-vedere-osaka-un-giorno-extra-non-perdere 301
+/blog/guida-completa-per-entrare-in-corea-del-sud-dalla-russia-con-il-tuo-cane-o-gatto /blog/guida-completa-entrare-corea-sud-russia-cane-gatto 301
+/blog/istanbull-in-camper-dove-dormire /blog/istanbull-camper-dove-dormire 301
+/blog/itinerario-per-camperisti-a-istanbul-5-giorni-per-scoprire-la-citta /blog/itinerario-camperisti-istanbul-5-giorni-scoprire-citta 301
+/blog/viaggiare-in-georgia-in-camper-guida-completa-2025 /blog/viaggiare-georgia-camper-guida-completa-2025 301
