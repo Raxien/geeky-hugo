@@ -1,5 +1,5 @@
 ---
-title: '12 giorni in Giappone: itinerario Osaka-Kyoto con Kumano Kodo e spiritualità'
+title: 'Giappone in 12 giorni: Osaka-Kyoto-Kumano Kodo tra templi e spiritualità'
 description: 'Scopri un itinerario originale di 12 giorni in Giappone da Osaka a Kyoto passando per Kumano Kodo, templi sacri, onsens e paesaggi mozzafiato. Guida completa vanlife.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1761029547/articoli/viaggi/Copia di Nero Minimalista Viaggio Miniatura YouTube-mgqvehg8.png
 date: 2025-10-20T08:00:00+02:00
@@ -102,6 +102,41 @@ Nachi si visita bene **a piedi**. Se arrivi in treno, scendi a **Kii-Katsuura** 
 **Seiganto-ji**: tempio buddhista dai **colori rosso fuoco** accanto al santuario, con una vista iconica sulla **cascata Nachi-no-Taki**, alta **133 metri**. È una delle cascate più sacre del Giappone.
 
 **Daimon-zaka**: se ami camminare, percorri questa **antica strada lastricata** che attraversa la foresta, un tempo percorsa da pellegrini e monaci. È il preludio perfetto al vero Kumano Kodo.
+
+### Il Kumano Kodo: il trekking sacro del Giappone
+
+Se hai **tempo extra** (2-4 giorni), il **Kumano Kodo** è un'esperienza trasformativa. È uno dei **percorsi di pellegrinaggio più antichi del mondo**, frequentato da monaci e pellegrini per oltre 1000 anni.
+
+**Percorsi principali:**
+- **Nakahechi Route** (2-3 giorni): il percorso **più popolare e accessibile**, 35 km tra templi e montagne. Adatto a escursionisti di medio livello.
+- **Kohechi Route** (2 giorni): più selvaggio e panoramico, attraversa crinali di montagna con viste spettacolari.
+- **Okuhechi Route** (1-2 giorni): il più breve e meno affollato, perfetto per chi ha poco tempo.
+- **Daimon-zaka** (1-2 ore): perfetto come **introduzione leggera** al trekking Kumano Kodo.
+
+**Come organizzarsi:**
+- **Lunghezza giornaliera**: 10-20 km a seconda della rotta
+- **Difficoltà**: media (salite lunghe, ma ben segnalate)
+- **Periodo consigliato**: aprile-maggio, settembre-novembre (evita l'estate torrida e l'inverno nevoso)
+- **Ostelli lungo il percorso**: tradizionali guesthouse e minshuku dove dormire tra una tappa e l'altra
+- **Guide**: disponibili su **Kumano Kodo Guides** (kumano-guide.com) o tramite agenzie locali
+
+**Cosa portare:** zaino leggero (10-15 kg), scarpe da trekking, acqua abbondante, bastoncini per le salite.
+
+### Consiglio viaggio
+Soggiornare qui una notte permette di vivere i luoghi in silenzio, prima dell'arrivo dei gruppi turistici organizzati (che arrivano principalmente tra le 10 e le 14).
+
+### ⚠️ Importante: Kumano Kodo sostituisce l'itinerario, non si aggiunge
+
+**Se decidi di fare il trekking Kumano Kodo completo** (ad esempio la Nakahechi Route di 2-3 giorni), devi **riorganizzare significativamente** l'itinerario di 12 giorni. Non è possibile fare un trekking di 3 giorni E visitare tutti i posti del programma.
+
+**Scenari possibili:**
+1. **Trekking leggero (Daimon-zaka 1-2 ore)**: mantieni tutto l'itinerario
+2. **Okuhechi Route (1-2 giorni)**: accorcia Kyoto a 2 giorni, riduci Osaka a 1 giorno
+3. **Nakahechi Route completa (2-3 giorni)**: allarga il viaggio a 15-17 giorni complessivi oppure elimina Osaka/Nara
+
+**Consiglio**: scegli all'inizio se prioritario è **il trekking spirituale** (fai Kumano Kodo completo) oppure **l'esperienza culturale ampia** (mantieni i 12 giorni e fai solo le tappe di accesso ai templi).
+
+---
 
 ## Giorno 6: Terrazze termali sul fiume e il viaggio verso Koyasan
 
