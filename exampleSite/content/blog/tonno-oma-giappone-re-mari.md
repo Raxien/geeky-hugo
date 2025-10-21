@@ -185,6 +185,6 @@ Se viaggi in **camper in Giappone** e visiti Oma:
 
 Se hai già assaggiato il tonno di Oma o visiti il villaggio, **condividi la tua esperienza** nei commenti!
 
-E se il viaggio in Giappone è sulle tue liste di cose da fare, {{< extLink "dai un'occhiata al nostro canale YouTube" "https://www.youtube.com/c/ilgattodicitturin" >}} dove raccontiamo storie di tonno, templi, e avventure on the road in Giappone!
+E se il viaggio in Giappone è sulle tue liste di cose da fare, {{< extLink "dai un'occhiata al nostro canale YouTube" "https://www.youtube.com/vandipety" >}} dove raccontiamo storie di tonno, templi, e avventure on the road in Giappone!
 
 **Buon appetito tra le acque fredde di Oma!** 🐟✨
