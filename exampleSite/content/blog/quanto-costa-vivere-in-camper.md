@@ -5,12 +5,11 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w
 date: 2025-10-21T08:00:00+02:00
 categories: ["Vanlife", "Budget Travel", "Guida Pratica"]
 type: featured
-draft: true
 ---
 
 **"Quanto costa vivere in camper?"** È una delle domande che ci sentiamo fare più spesso. La risposta? **Dipende**.
 
-Potremmo fermarci qui, perchè se vivessimo ancora a Torino credo che nessuno verrebbe a chiederci: "ma quanto spendete al mese?", ma sappiamo che non è quello che cercate. E che una scelta diversa può suscitare determinate curiosità. 
+Potremmo fermarci qui, perchè se vivessimo ancora a Torino credo che nessuno verrebbe a chiederci: "ma quanto spendete al mese?", eppure sappiamo che una scelta diversa può suscitare determinate curiosità. 
 
 La verità è che **vivere in camper può essere straordinariamente economico oppure sorprendentemente costoso**, tutto dipende da come scegli di viaggiare, dove decidi di andare, e quale stile di vita preferisci abbracciare.
 
@@ -19,8 +18,6 @@ Noi viviamo a bordo del nostro camper **dal maggio 2022** – più di **tre anni
 In questo articolo, condividiamo i **numeri reali**, le **strategie di risparmio**, e l'**analisi onesta** dei costi del vivere in camper.
 
 {{< indice >}}
-
-## La risposta semplice (e complicata)
 
 ### I nostri numeri reali
 
@@ -40,9 +37,39 @@ Circa **€14,39/giorno** o **€430-450/mese** a persona.
 
 > **Nota importante**: Abbiamo escluso dai conteggi due spese una-tantum (traghetti Russia-Corea €1.972,89 e Corea-Giappone €942,31) perché sono da considerare come investimenti ammortizzati nel tempo. Se le includiamo, la spesa totale diventa €38.982,34 e il costo giornaliero ad oggi €31,11.
 
-**Il nostro budget medio mensile è stato circa €900-1.000 per una coppia**, ma come vedrai nel paragrafo sotto, questo numero nasconde una realtà molto più complessa.
+**Il nostro budget medio mensile è stato circa €900-1.000 per due persone**, ma come vedrai nel paragrafo sotto, questo numero nasconde una realtà molto più complessa.
 
-### Budget mensile medio: come varia
+### Ma... come fate senza un lavoro fisso?
+
+Probabilmente questa è la seconda domanda che ti verrà in mente. Oltre a: "Avete vinto la lotteria? Siete in pensione? Avete un lavoro da remoto?"
+
+La risposta è più semplice (e allo stesso tempo più complessa) di quanto pensi.
+
+**In primo luogo**: prima di partire abbiamo lavorato per 10 anni e risparmiato a dovere. Non siamo partiti a mani vuote. Abbiamo calcolato di avere un "fondo di partenza" per sostenere anni di spese.
+
+**In secondo luogo**: durante il viaggio, non restiamo completamente inattivi. Non abbiamo un lavoro "fisso" in senso tradizionale, ma abbiamo **attività che generano reddito**:
+- Il nostro **canale YouTube** genera monetizzazione
+- I **contenuti che creiamo** (articoli..) generano monetizzazione
+- **Abbiamo stipulato alcune collaborazioni** con alcuni brand
+- Le **guide  che abbiamo pubblicato su Amazon** generano royalties
+  - {{< extLink "Transiberiana On the Road: Un viaggio indimenticabile da Mosca a Vladivostok" "https://www.amazon.it/Transiberiana-Road-viaggio-indimenticabile-Vladivostok-ebook/dp/B0DZCMDQRK/ref=pd_lpo_d_sccl_1/259-0679501-4278463?pd_rd_w=wPlpl&content-id=amzn1.sym.deb055ce-ac58-4c38-8939-8e74c8af4666&pf_rd_p=deb055ce-ac58-4c38-8939-8e74c8af4666&pf_rd_r=H3ZTNFNF4Z1QX5EREPPS&pd_rd_wg=Savy9&pd_rd_r=f3cf8b92-296c-477e-9dda-b52fe25a0618&pd_rd_i=B0DZCMDQRK&psc=1" >}}
+  - {{< extLink "Vivere e viaggiare in camper senza spendere una fortuna" "https://www.amazon.it/Vivere-viaggiare-camper-spendere-fortuna-ebook/dp/B0CW1FVQQT/ref=sr_1_1?dib=eyJ2IjoiMSJ9.xMkYQBanHoJ37Ua8UdqDEoakAXs2wxFbhepZnJtvshg.5jBo0qwTucf3-Q-QWatttuBoiPeRlzyCL9Pu90zufXY&dib_tag=se&qid=1761124802&refinements=p_27%3ASara+Moressa&s=digital-text&sr=1-1&text=Sara+Moressa" >}}
+
+Non è un reddito enorme, ma è **sufficiente a integrare il budget e stare tranquilli senza attaccare i risparmi**.
+
+{{< youtube2 "CQCYdz_4W-s" >}}
+
+**In terzo luogo**: il **costo della vanlife è semplicemente inferiore** rispetto al costo della nostra precedente vita stanziale. Ad esempio non paghiamo l'affitto, non paghiamo le bollette per la casa, non abbiamo una seconda auto.. Questi risparmi da soli compensano gran parte del costo di viaggio.
+
+**In quarto luogo**: siamo disposti a **fare scelte consapevoli e frugali** quando necessario. Che per noi non significa fare sacrifici, ma vivere di priorità. Se dobbiamo scegliere tra una sosta a €30 a notte in campeggio e una gratuita, scegliamo la gratuita. Se tra un ristorante a €50 e cucinare in camper, cuciniamo. Queste scelte ripetute centinaia di volte all'anno fanno una differenza enorme.
+
+**Quindi la risposta breve è**: una combinazione di **risparmio iniziale + reddito passivo/saltuario + costi inferiori rispetto alla vita stanziale + scelte consapevoli**.
+
+Lo ammettiamo però: non è facile, e richiede disciplina. Ma è **assolutamente possibile**, e non devi essere ricco per farlo.
+
+### Budget mensile medio: perchè è importante e come varia
+
+Fissare un budget mensile è fondamentale per avere un'idea iniziale di quanto si può sostenere uno stile di vita del genere. Ovviamente poi tale budget si può abbassare o aumentare a discrezione (e ne parliamo meglio più avanti).
 
 Se dovessimo riassumere il budget della vita in camper con una sola cifra, diremmo: **dipende da come viaggi**.
 
@@ -63,13 +90,13 @@ Il primo fattore riguarda le tue abitudini quotidiane: **quanto velocemente ti m
 
 ### 1. Carburante: il costo più variabile
 
-Il carburante è **la voce di spesa più imprevedibile** della vanlife. Quattro fattori influenzano questa spesa: prima di tutto il **consumo del camper** (un van di 5 metri consuma molto meno di un motorhome di 10 metri), poi la **percorrenza** (periodi di stop prolungati riducono drasticamente i costi rispetto al nomadismo costante), le **condizioni stradali** (le strade in salita richiedono più carburante), e infine il **prezzo locale** che varia tantissimo da paese a paese. Per darvi un'idea, a ottobre 2025 il prezzo del diesel in Giappone è di 0,80 cent/litro, mentre in altri paesi può essere anche tre volte superiore.
+Il carburante è **la voce di spesa più imprevedibile** della vanlife. Quattro fattori influenzano questa spesa: prima di tutto il **consumo del camper** (un van di 5 metri consuma molto meno di un motorhome di 10 metri), poi la **percorrenza** (periodi di stop prolungati riducono drasticamente i costi rispetto al nomadismo costante), le **condizioni stradali** (le strade in salita richiedono più carburante), e infine il **prezzo locale** che varia tantissimo da paese a paese. Per darti un'idea, a ottobre 2025 il prezzo del diesel in Giappone è di 0,80 cent/litro, mentre in altri paesi può essere anche tre volte superiore.
 
 ### 2. Cibo e spesa alimentare
 
 Qui è dove **puoi risparmiare davvero**. La differenza tra cucinare in camper e mangiare fuori è sostanziale: **se cucini sempre** (colazione, pranzo, cena fatti in casa) spenderai circa €250-350/mese, **se mangi fuori 2-3 volte a settimana** il budget sale a €450-650/mese per un mix tra cucina casalinga e ristoranti, mentre **se mangi fuori quasi sempre** preparati a spendere €800-1.200+/mese rinunciando completamente alla cucina fai da te.
 
-Per risparmiare ulteriormente, abbiamo scoperto alcune strategie efficaci: andare ai **mercati locali** (molto più economici dei supermercati), comprare nelle **catene low budget**, cucinare **piatti semplici** con ingredienti base, approfittare dei **cibi e delle offerte locali** che cambiano da paese a paese, e chiedere sempre **consiglio alla gente del posto** che conosce i posti migliori dove fare la spesa.
+Per risparmiare ulteriormente, alcune strategie efficaci possono essere: andare ai **mercati locali** (solitamente più economici dei supermercati per quanto riguarda frutta e verdura), comprare nelle **catene low budget**, cucinare **piatti semplici** con ingredienti base, approfittare dei **cibi e delle offerte locali** che cambiano da paese a paese, e chiedere sempre **consiglio alla gente del posto** che conosce i posti migliori dove fare la spesa.
 
 ### 3. Soste e parcheggi
 
@@ -79,13 +106,13 @@ Questo costo varia **enormemente** a seconda della destinazione. In alcuni paesi
 
 Le spese burocratiche sono inevitabili ma relativamente contenute. L'**assicurazione camper** prevede la RC obbligatoria che costa €60-150 all'anno (dipende dal paese di immatricolazione), mentre se vuoi una copertura Kasko o completa si arriva a €200-400 annui. Il **bollo auto** in Italia costa €80-150 all'anno in base alla cilindrata del mezzo. Il **Permesso Temporaneo (TIP)** varia molto: in alcuni paesi è totalmente gratuito, in altri può costare diverse centinaia di euro.
 
-Le **vignette e i pedaggi autostradali** possono incidere pesantemente sul budget, specialmente in paesi come Svizzera, Austria o Francia. Il nostro **consiglio pratico**: usa le strade nazionali e provinciali quando possibile – è più lento ma decisamente più economico, e spesso scopri posti bellissimi che dall'autostrada non vedresti mai.
+Le **vignette e i pedaggi autostradali** possono incidere pesantemente sul budget, specialmente in paesi come Svizzera, Austria, Francia e Giappone. Il nostro **consiglio pratico**: usa le strade nazionali e provinciali quando possibile – è più lento ma decisamente più economico, e spesso scopri posti bellissimi che dall'autostrada non vedresti mai.
 
 ### 5. Manutenzione e riparazioni
 
 Questa voce è **fondamentale per il budget a lungo termine** e spesso viene sottovalutata. La **manutenzione ordinaria** include il cambio olio e filtri (€80-150 a intervento) e il controllo gomme (€20-50), costi che si ripetono con regolarità e sono prevedibili.
 
-Le **riparazioni impreviste** sono invece il vero problema: dato che gli imprevisti possono essere molteplici (guasti meccanici, problemi elettrici, rotture improvvise) e possono richiedere somme ingenti di denaro, ti consigliamo caldamente di crearti un **fondo di emergenza** mettendo da parte €100-200 al mese. Questo cuscinetto economico ti salverà nei momenti difficili e ti permetterà di affrontare le riparazioni con più serenità.
+Le **riparazioni impreviste** sono invece il vero problema: dato che gli imprevisti possono essere molteplici (guasti meccanici, problemi elettrici, rotture improvvise) e possono richiedere somme ingenti di denaro, ti consigliamo caldamente di crearti un **fondo di emergenza**. Questo cuscinetto economico ti salverà nei momenti difficili e ti permetterà di affrontare le riparazioni con più serenità.
 
 ### 6. Utilità e energia
 
@@ -93,15 +120,17 @@ L'autonomia energetica fa una differenza enorme sul budget. Se hai investito in 
 
 Se invece **dipendi sempre dalla corrente esterna**, sei costretto a cercare soste con allacci e a pagare per ogni notte, il che non solo aumenta i costi ma limita anche la tua libertà di movimento e la scelta dei posti dove fermarti.
 
+{{< youtube2 "IsXNysrjzHs" >}}
+
 ### 7. Attività, svago e intrattenimento
 
-Questa voce varia **moltissimo** a seconda della tua personalità e del tipo di esperienza che cerchi. Se sei un **minimalista** che ama le passeggiate gratuite, la natura e il relax, puoi cavartela con €0-50 al mese godendoti comunque appieno il viaggio. Se sei un **avventuriero moderato** che vuole fare escursioni, visitare parchi nazionali e musei con una certa frequenza, calcoloa €200-400 mensili. Se invece sei un **avventuriero "spendaccione"** che vuole fare attività costose ogni giorno (sport estremi, ristoranti stellati, eventi), preparati a spendere €600-1.200+ al mese solo per lo svago.
+Questa voce varia **moltissimo** a seconda della tua personalità e del tipo di esperienza che cerchi. Se sei un **minimalista** che ama le passeggiate gratuite, la natura e il relax, puoi cavartela con €0-50 al mese godendoti comunque appieno il viaggio. Se sei un **avventuriero moderato** che vuole fare escursioni, visitare parchi nazionali e musei con una certa frequenza, calcola €200-400 mensili. Se invece sei un **avventuriero "top"** che vuole fare attività costose ogni giorno (sport estremi, ristoranti stellati, eventi), preparati a spendere €600-1.200+ al mese solo per lo svago.
+
+Ovviamente un'altra variabile riguarda se viaggi in compagnia o no di **animali domestici**, per i quali dovrai calcolare il costo del cibo e delle spese veterinarie (e sì, nel nostro caso queste spese rientrano nel budget che abbiamo indicato).
 
 ### 8. Assicurazione sanitaria 
 
 Se vivi in camper in Italia o in Europa o nel paese in cui risiedi, non dovrai tener conto di questa spesa aggiuntiva. Se invece inizi a viaggiare fuori dall'Unione Europea, allora dovrai calcolare una spesa di €40-100 al mese a seconda della tua destinazione. 
-
-{{< leggi-anche url="blog/verso-l-isola-che-ce-il-nostro-viaggo-dall-italia-al-giappone/" >}}
 
 ## Strategie concrete di risparmio
 
@@ -111,7 +140,7 @@ Se vivi in camper in Italia o in Europa o nel paese in cui risiedi, non dovrai t
 
 ### 2. Cucina 80%, mangia fuori 20%
 
-**Non significa**: rinunciare agli piaceri gastronomici
+**Non significa**: rinunciare ai piaceri gastronomici
 **Significa**: essere strategico
 
 - Colazione fatta in camper (€0,50 - caffè, pane e marmellata) vs al bar (€2,50 - caffè e brioche)
@@ -132,7 +161,7 @@ Nel nostro caso specifico, con 1.253 giorni di viaggio e un costo medio giornali
 
 ### 4. Lavora durante il viaggio
 
-Molti vanlife travelers mantengono un'attività freelance:
+Molti vanlifers mantengono un'attività freelance:
 - Copywriting, blog, social media management
 - Consulenza online
 - Fotografia e videomaking
@@ -141,21 +170,19 @@ Molti vanlife travelers mantengono un'attività freelance:
 
 **Anche solo €300-500/mese** cambiano completamente sul budget totale.
 
-{{< youtube2 "CQCYdz_4W-s" >}}
-
 ## I costi nascosti che non ti aspetti
 
 Ci sono spese che spesso vengono dimenticate quando si calcola il budget della vanlife. I **permessi per il mezzo, visti e burocrazia varia** sono costi che variano enormemente da paese a paese e che spesso non si prendono in considerazione inizialmente, ma che possono accumularsi rapidamente soprattutto se viaggi fuori dall'Europa.
 
 I **farmaci senza assicurazione** possono essere parecchio costosi, specialmente in alcuni paesi, quindi è importante considerare questa voce se hai bisogno di medicinali regolari o se hai animali al seguito che necessitano di cure veterinarie.
 
-Infine, la **comunicazione e internet** è fondamentale per chi lavora in viaggio o semplicemente vuole rimanere connesso. {{< extLink "Abbiamo sviluppato un metodo specifico per stare connessi durante i viaggi" "/blog/connessione-viaggio-giappone-japan-wireless" >}}, ma è una spesa da mettere in conto, sia per SIM locali che per eventuali hotspot o abbonamenti dati.
+Infine, la **comunicazione e internet** sono fondamentali per chi lavora in viaggio o semplicemente vuole rimanere connesso. {{< extLink "Abbiamo sviluppato un metodo specifico per stare connessi durante i viaggi" "/blog/connessione-viaggio-giappone-japan-wireless" >}}, ma è una spesa da mettere in conto, sia per SIM locali che per eventuali hotspot o abbonamenti dati.
 
 ## Come impostare un budget realistico
 
 ### Passo 1: calcola i tuoi numeri
 
-Prima di partire, è fondamentale fare un'analisi realistica delle tue aspettative e abitudini. Chiediti: **quanto vuoi muoverti?** (viaggi lenti o nomadismo costante), **preferisci comfort o avventura?** (campeggi attrezzati o soste selvagge), **che tipo di cucina ti piace?** (sei un cuoco casalingo o preferisci ristoranti locali), **quali paesi visiterai?** (i costi cambiano radicalmente tra Nord Europa e Balcani), e infine **hai una fonte di reddito durante il viaggio?** (lavoro da remoto, risparmi, pensione). Le risposte a queste domande determineranno il tuo budget reale.
+Prima di partire, è fondamentale fare un'analisi realistica delle tue aspettative e abitudini. Chiediti: **quanto vuoi muoverti?** (viaggi lenti o nomadismo costante), **preferisci comfort o avventura?** (campeggi attrezzati o soste selvagge), **che tipo di cucina ti piace?** (sei un cuoco casalingo o preferisci ristoranti locali), **quali paesi visiterai?** (i costi cambiano radicalmente da paese a paese), e infine **hai una fonte di reddito durante il viaggio?** (lavoro da remoto, risparmi, pensione). Le risposte a queste domande determineranno il tuo budget reale.
 
 ### Passo 2: usa il budget mensile come guida
 
@@ -169,9 +196,7 @@ Questo è forse il consiglio più importante: **avere un cuscinetto economico** 
 
 La vanlife è dinamica e il budget deve esserlo altrettanto. Dedica **un momento ogni mese** (magari il primo giorno del mese nuovo) ad **analizzare le spese** del periodo passato, **vedere se il budget è realistico** rispetto alle tue aspettative e al tuo stile di vita effettivo, e **aggiustare per il mese successivo** in base a cosa hai imparato. Questo processo di revisione continua è ciò che ti permetterà di ottimizzare davvero i costi nel tempo.
 
-{{< leggi-anche url="/blog/abbiamo-pubblicato-un-libro" >}}
-
-## La domanda difficile: vale la pena?
+## La domanda difficile: ne vale la pena?
 
 Per noi sì, assolutamente. Non solo economicamente, ma emotivamente e spiritualmente.
 
