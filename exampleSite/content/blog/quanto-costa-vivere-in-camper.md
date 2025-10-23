@@ -1,6 +1,6 @@
 ---
 title: 'Quanto costa vivere in camper? Analisi completa dopo 3 anni e 100.000 km'
-description: 'Guida completa ai costi del vanlife: budget mensile dettagliato, strategie di risparmio, confronto tra paesi e stili di viaggio. Numeri reali da 3+ anni di esperienza.'
+description: 'Guida completa ai costi della vanlife: budget mensile dettagliato, strategie di risparmio, confronto tra paesi e stili di viaggio. Numeri reali da 3+ anni di esperienza.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1761120912/articoli/viaggi/quanto-costa-camper-g2xp792q.png
 date: 2025-10-21T08:00:00+02:00
 categories: ["Vanlife", "Budget Travel", "Guida Pratica"]
