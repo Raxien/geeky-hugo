@@ -2,7 +2,7 @@
 title: 'Tokyo ci ha delusi'
 description: 'Dopo tre viaggi nella capitale giapponese: perché non sempre Tokyo è all''altezza delle aspettative.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1761205708/articoli/viaggi/TOKYO-0l1kuf66.jpg
-date: 2025-10-23T12:00:00+02:00
+date: 2025-10-22T12:00:00+02:00
 categories: ["Giappone", "Riflessioni", "Tokyo", "Viaggio"]
 continent: Asia
 country: Giappone
