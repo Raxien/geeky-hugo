@@ -100,7 +100,7 @@ Per risparmiare ulteriormente, alcune strategie efficaci possono essere: andare 
 
 ### 3. Soste e parcheggi
 
-Questo costo varia **enormemente** a seconda della destinazione. In alcuni paesi le soste gratuite sono la norma, in altri è quasi impossibile trovarne. La nostra **strategia di risparmio** si basa su tre pilastri: usare app come **Park4night e iOverlander** per scovare soste gratuite segnalate da altri viaggiatori, approfittare dei **parchi pubblici e delle aree di sosta comunali** che sono spesso gratuiti o molto economici, e studiare bene le regole locali. Ad esempio, {{< extLink "in Giappone abbiamo scoperto strategie specifiche per non pagare le soste" "/blog/sosta-camper-in-giappone-molto-piu-di-un-parcheggio" >}} che ci hanno fatto risparmiare parecchio.
+Questo costo varia **enormemente** a seconda della destinazione. In alcuni paesi le soste gratuite sono la norma, in altri è quasi impossibile trovarne. La nostra **strategia di risparmio** si basa su tre pilastri: usare app come **Park4night e iOverlander** per scovare soste gratuite segnalate da altri viaggiatori, approfittare dei **parchi pubblici e delle aree di sosta comunali** che sono spesso gratuiti o molto economici, e studiare bene le regole locali. Ad esempio, [in Giappone abbiamo scoperto strategie specifiche per non pagare le soste](/blog/sosta-camper-in-giappone-molto-piu-di-un-parcheggio) che ci hanno fatto risparmiare parecchio.
 
 ### 4. Assicurazione, bollo e tasse
 
@@ -176,7 +176,7 @@ Ci sono spese che spesso vengono dimenticate quando si calcola il budget della v
 
 I **farmaci senza assicurazione** possono essere parecchio costosi, specialmente in alcuni paesi, quindi è importante considerare questa voce se hai bisogno di medicinali regolari o se hai animali al seguito che necessitano di cure veterinarie.
 
-Infine, la **comunicazione e internet** sono fondamentali per chi lavora in viaggio o semplicemente vuole rimanere connesso. {{< extLink "Abbiamo sviluppato un metodo specifico per stare connessi durante i viaggi" "/blog/connessione-viaggio-giappone-japan-wireless" >}}, ma è una spesa da mettere in conto, sia per SIM locali che per eventuali hotspot o abbonamenti dati.
+Infine, la **comunicazione e internet** sono fondamentali per chi lavora in viaggio o semplicemente vuole rimanere connesso. [Abbiamo sviluppato un metodo specifico per stare connessi durante i viaggi](/blog/connessione-viaggio-giappone-japan-wireless), ma è una spesa da mettere in conto, sia per SIM locali che per eventuali hotspot o abbonamenti dati.
 
 ## Come impostare un budget realistico
 
@@ -208,7 +208,7 @@ I veri valori aggiunti della vanlife vanno oltre i numeri: la **libertà di movi
 
 Se vuoi approfondire come abbiamo tracciato ogni euro speso durante questi anni di viaggio, sulla sezione **Spese** del nostro sito troverai **grafici dettagliati mese per mese** che mostrano esattamente dove sono finiti i soldi, e **confronti anno su anno** per vedere come è cambiato il budget nel tempo e nelle diverse destinazioni.
 
-Tutti i dati che abbiamo condiviso in questo articolo sono documentati e tracciati in tempo reale nella nostra sezione {{< extLink "tracker spese" "https://www.vandipety.it/expenses/" >}}, dove potrai vedere l'evoluzione completa delle nostre finanze da quando siamo partiti.
+Tutti i dati che abbiamo condiviso in questo articolo sono documentati e tracciati in tempo reale nella nostra sezione [tracker spese](/expenses), dove potrai vedere l'evoluzione completa delle nostre finanze da quando siamo partiti.
 
 Se vuoi un approfondimento ancora più completo, la nostra {{< extLink "guida su Amazon" "https://www.amazon.it/dp/B0CW1FVQQT" >}} dedica interi capitoli a come rendere la vanlife sostenibile dal punto di vista economico, con strategie pratiche e consigli testati sul campo.
 
@@ -230,6 +230,6 @@ Hai mai calcolato il tuo budget mensile? Quali categorie di spesa ti sorprendono
 
 **Scrivi nei commenti** la tua esperienza!
 
-E se il sogno del vanlife è sulle tue liste di cose da fare, {{< extLink "dai un'occhiata al nostro canale YouTube" "https://www.youtube.com/vandipety" >}} dove raccontiamo storie di budget, avventure, e la vera realtà della vita in camper attraverso il mondo intero!
+E se il sogno del vanlife è sulle tue liste di cose da fare, {{< extLink "dai un'occhiata al nostro canale YouTube" "https://www.youtube.com/@vandipety" >}} dove raccontiamo storie di budget, avventure, e la vera realtà della vita in camper attraverso il mondo intero!
 
 **Buon viaggio economico e consapevole su quattro ruote!** 🚐💰✨

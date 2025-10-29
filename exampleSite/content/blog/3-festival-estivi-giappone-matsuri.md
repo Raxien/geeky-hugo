@@ -183,14 +183,14 @@ Durante i festival troverai:
 
 Se viaggi in **camper in Giappone** durante l'estate:
 
-- {{< extLink "Scopri tutti i consigli per la sosta camper in Giappone" "/blog/sosta-camper-in-giappone-molto-piu-di-un-parcheggio" >}}
-- {{< extLink "Come stare connessi durante i festival" "/blog/connessione-viaggio-giappone-japan-wireless" >}}
+- [Scopri tutti i consigli per la sosta camper in Giappone](/blog/sosta-camper-in-giappone-molto-piu-di-un-parcheggio)
+- [Come stare connessi durante i festival](blog/connessione-viaggio-giappone-japan-wireless)
 - **Calore**: agosto è molto caldo e umido – preparati a temperature di 25-35°C
 
 ## Hai Partecipato a un Matsuri Giapponese?
 
 Se hai già partecipato a uno di questi festival o ad altri matsuri giapponesi, **condividi la tua esperienza** nei commenti! Quale momento ti ha colpito di più? Hai ballato il Bon Odori? Sei rimasto affascinato dagli Oni?
 
-E se il viaggio in Giappone estivo è sulle tue liste di cose da fare, {{< extLink "dai un'occhiata al nostro canale YouTube" "https://www.youtube.com/vandipety" >}} dove raccontiamo storie di festival, tradizioni e avventure on the road in Giappone!
+E se il viaggio in Giappone estivo è sulle tue liste di cose da fare, {{< extLink "dai un'occhiata al nostro canale YouTube" "https://www.youtube.com/@vandipety" >}} dove raccontiamo storie di festival, tradizioni e avventure on the road in Giappone!
 
-**Buon festival estivo tra luci, suoni e spiriti antichi del Giappone!** 🎆🕉️✨
+**Buon festival estivo tra luci, suoni e spiriti antichi del Giappone!**

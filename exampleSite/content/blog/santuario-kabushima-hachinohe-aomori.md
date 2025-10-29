@@ -125,6 +125,6 @@ Se viaggi in **camper in Giappone** e visiti Hachinohe e il Santuario di Kabushi
 
 Se hai già visitato il santuario, assistito alla festa di marzo o fotografato i gabbiani, **condividi la tua esperienza** nei commenti!
 
-E se il viaggio in Giappone è sulle tue liste di cose da fare, {{< extLink "dai un'occhiata al nostro canale YouTube" "https://www.youtube.com/vandipety" >}} dove raccontiamo storie di santuari, natura e avventure on the road in Giappone!
+E se il viaggio in Giappone è sulle tue liste di cose da fare, {{< extLink "dai un'occhiata al nostro canale YouTube" "https://www.youtube.com/@vandipety" >}} dove raccontiamo storie di santuari, natura e avventure on the road in Giappone!
 
 **Buon viaggio spirituale tra i gabbiani del mare di Hachinohe!** 🕊️⛩️✨
