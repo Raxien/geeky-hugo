@@ -71,16 +71,16 @@ Ma, secondo noi, è solo il primo impatto, la scossa iniziale, di un Giappone ch
 
 Se potessimo ricominciare, non cambieremmo il fatto di aver visitato Tokyo tre volte, perchè quelle visite ci hanno insegnato tanto.
 
-Ma se potessimo dare un consiglio a qualcuno che parte per il Giappone adesso, faremmo base a Tokyo solo per tre giorni. Il tempo di metabolizzare il colpo, di capire come funzionano i mezzi, di assaggiare il sapore della metropoli. Poi saltate su un treno e andate a scoprire il resto. {{< extLink "Che sia verso Osaka, Kyoto, le Alpi Giapponesi o i villaggi rurali" "/blog/giappone-itinerario-osaka-kyoto-kumano-kodo-12-giorni" >}}, il Giappone vero vi sta aspettando.
+Ma se potessimo dare un consiglio a qualcuno che parte per il Giappone adesso, faremmo base a Tokyo solo per tre giorni. Il tempo di metabolizzare il colpo, di capire come funzionano i mezzi, di assaggiare il sapore della metropoli. Poi saltate su un treno e andate a scoprire il resto. [Che sia verso Osaka, Kyoto, le Alpi Giapponesi o i villaggi rurali](/blog/giappone-itinerario-osaka-kyoto-kumano-kodo-12-giorni), il Giappone vero vi sta aspettando.
 
 ## Scopri il vero Giappone oltre Tokyo
 
 Se questo articolo vi ha fatto riflettere, scoprite anche:
-- {{< extLink "Un giorno a Nagasaki (+ giro extra all’isola fantasma di Hashima)" "/blog/ nagasaki-un-giorno-giro-isola-fantasma-hashima" >}}
-- {{< extLink "Bagni Giapponesi: Differenze tra Onsen, Sento, Footbath e Ofuro" "/blog/bagni-giapponesi-differenze-onsen-sento-footbath-ofuro/" >}} 
-- {{< extLink "Un Giappone diverso: 14 giorni on the road nel selvaggio Kyushu" "/blog/giappone-kyushu-14-giorni-on-the-road-selvaggio/" >}} 
+- [Un giorno a Nagasaki (+ giro extra all’isola fantasma di Hashima)](/blog/ nagasaki-un-giorno-giro-isola-fantasma-hashima)
+- [Bagni Giapponesi: Differenze tra Onsen, Sento, Footbath e Ofuro](/blog/bagni-giapponesi-differenze-onsen-sento-footbath-ofuro)
+- [Un Giappone diverso: 14 giorni on the road nel selvaggio Kyushu](/blog/giappone-kyushu-14-giorni-on-the-road-selvaggio)
 
-E se volete seguire il nostro viaggio nel dettaglio, {{< extLink "guardate i nostri video sul canale YouTube Vandipety" "https://www.youtube.com/vandipety" >}} dove raccontiamo storie autentiche dal Giappone e dal resto del mondo.
+E se volete seguire il nostro viaggio nel dettaglio, {{< extLink "guardate i nostri video sul canale YouTube Vandipety" "https://www.youtube.com/@vandipety" >}} dove raccontiamo storie autentiche dal Giappone e dal resto del mondo.
 
 
 **Voi avete visitato Tokyo? Vi ha colpito o anche voi avete sentito quella strana delusione quando l'avete rivista? Scriveteci nei commenti, ci farebbe davvero piacere un sano confronto.**

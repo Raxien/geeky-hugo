@@ -85,11 +85,11 @@ Ogni ristorante nel Ramen Yokocho ha le sue piccole variazioni: alcuni preferisc
 
 **Da Tokyo:**
 - **Treno**: Tokyo → Fukushima (2h in Shinkansen) → Kitakata (1h in treno locale)
-- **Auto/Camper**: circa 3-4 ore di guida ({{< extLink "leggi la guida completa per guidare in Giappone" "/blog/guidare-in-giappone-tutto-quello-che-ce-da-sapere" >}})
+- **Auto/Camper**: circa 3-4 ore di guida ([leggi la guida completa per guidare in Giappone](/blog/guidare-in-giappone-tutto-quello-che-ce-da-sapere))
 
 **Da Kyoto/Osaka:**
 - **Combinazione treno**: circa 4-5 ore totali con cambi
-- **Auto**: 5-6 ore ({{< extLink "scopri i consigli per la guida in Giappone" "/blog/guidare-in-giappone-tutto-quello-che-ce-da-sapere" >}})
+- **Auto**: 5-6 ore ([scopri i consigli per la guida in Giappone](/blog/guidare-in-giappone-tutto-quello-che-ce-da-sapere))
 
 ### Consigli per l'Ordine
 
@@ -114,7 +114,7 @@ In media **¥800-1.200 (~€6-9)**. I prezzi variano leggermente da ristorante a
 Sì, il Kitakata ramen è tradizionalmente a base di brodo di maiale. Tuttavia:
 - Alcuni ristoranti offrono **brodo vegetariano** (chiedi "bejitarian ramen")
 - Puoi ordinare **noodles senza i condimenti di maiale** e con verdure extra
-- {{< extLink "Scopri altre opzioni vegetariane in Giappone" "/blog/cosa-mangiare-in-giappone-se-sei-vegetariano-guida-pratica-per-viaggiatori" >}} con questa guida completa
+- [Scopri altre opzioni vegetariane in Giappone](/blog/cosa-mangiare-in-giappone-se-sei-vegetariano-guida-pratica-per-viaggiatori) con questa guida completa
 
 ## Oltre il Ramen: Cosa Fare a Kitakata
 
@@ -139,16 +139,16 @@ Piccoli negozi di souvenir e prodotti locali vendono:
 - **Brodo di ramen concentrato** (per fare ramen a casa)
 - **Spezie e condimenti locali**
 
-Se sei un appassionato di ramen ed esplori il Giappone, {{< extLink "scopri le alternative vegetariane con il ramen vegetariano di Fukuoka" "/blog/ramen-vegetariano-fukuoka-alternativa-tonkotsu" >}}, un'opzione altrettanto deliziosa!
+Se sei un appassionato di ramen ed esplori il Giappone, [scopri le alternative vegetariane con il ramen vegetariano di Fukuoka](/blog/ramen-vegetariano-fukuoka-alternativa-tonkotsu), un'opzione altrettanto deliziosa!
 
 ## Consigli Pratici per Vanlife
 
 Se viaggi in **camper in Giappone**:
 
-- **Parcheggio**: Molti ristoranti non hanno parcheggio dedicato. {{< extLink "Scopri tutti i consigli per la sosta camper in Giappone" "/blog/sosta-camper-in-giappone-molto-piu-di-un-parcheggio" >}}.
-- **Bagni e Onsen**: I bagni pubblici della città sono gratuiti e puliti. Se visiti Kitakata, {{< extLink "leggi la guida sui bagni giapponesi (onsen, sento, ofuro)" "/blog/bagni-giapponesi-differenze-onsen-sento-footbath-ofuro" >}} per comprendere le differenze.
+- **Parcheggio**: Molti ristoranti non hanno parcheggio dedicato. [Scopri tutti i consigli per la sosta camper in Giappone](/blog/sosta-camper-in-giappone-molto-piu-di-un-parcheggio).
+- **Bagni e Onsen**: I bagni pubblici della città sono gratuiti e puliti. Se visiti Kitakata, [leggi la guida sui bagni giapponesi (onsen, sento, ofuro)](/blog/bagni-giapponesi-differenze-onsen-sento-footbath-ofuro) per comprendere le differenze.
 - **Rifornimenti**: Combini e supermercati dappertutto
-- **WiFi**: Non sempre disponibile. Ecco {{< extLink "la nostra soluzione" "/blog/connessione-viaggio-giappone-japan-wireless/" >}} per essere sempre connessi in Giappone. 
+- **WiFi**: Non sempre disponibile. Ecco [la nostra soluzione](/blog/connessione-viaggio-giappone-japan-wireless) per essere sempre connessi in Giappone. 
 
 ## E tu, quale ramen preferisci? 
 

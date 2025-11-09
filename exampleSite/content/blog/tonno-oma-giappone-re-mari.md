@@ -177,14 +177,14 @@ No, ma potrebbe essere difficile **scegliere quale**. La maggior parte dei risto
 ## Consigli Pratici per Vanlife
 
 Se viaggi in **camper in Giappone** e visiti Oma:
-- {{< extLink "Scopri tutti i consigli per la sosta camper in Giappone" "/blog/sosta-camper-in-giappone-molto-piu-di-un-parcheggio" >}}
-- **Connessione**: {{< extLink "Come stare connessi in Giappone con wifi e internet" "/blog/connessione-viaggio-giappone-japan-wireless" >}}
-- **Mangiare vegetariano**: Se non mangi il tonno, {{< extLink "scopri le opzioni vegetariane in Giappone" "/blog/cosa-mangiare-in-giappone-se-sei-vegetariano-guida-pratica-per-viaggiatori" >}}
+- [Scopri tutti i consigli per la sosta camper in Giappone](/blog/sosta-camper-in-giappone-molto-piu-di-un-parcheggio)
+- **Connessione**: [Come stare connessi in Giappone con wifi e internet](/blog/connessione-viaggio-giappone-japan-wireless)
+- **Mangiare vegetariano**: Se non mangi il tonno, [scopri le opzioni vegetariane in Giappone](/blog/cosa-mangiare-in-giappone-se-sei-vegetariano-guida-pratica-per-viaggiatori)
 
 ## Hai Visitato Oma?
 
 Se hai già assaggiato il tonno di Oma o visiti il villaggio, **condividi la tua esperienza** nei commenti!
 
-E se il viaggio in Giappone è sulle tue liste di cose da fare, {{< extLink "dai un'occhiata al nostro canale YouTube" "https://www.youtube.com/vandipety" >}} dove raccontiamo storie di tonno, templi, e avventure on the road in Giappone!
+E se il viaggio in Giappone è sulle tue liste di cose da fare, {{< extLink "dai un'occhiata al nostro canale YouTube" "https://www.youtube.com/@vandipety" >}} dove raccontiamo storie di tonno, templi, e avventure on the road in Giappone!
 
 **Buon appetito tra le acque fredde di Oma!** 🐟✨
