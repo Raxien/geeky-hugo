@@ -81,6 +81,8 @@ E se invece stai pensando di complicarti la vita come turista e di raggiungere i
 
 Se ti interessa leggere altre storie di italiani che hanno fatto scelte coraggiose, abbiamo intervistato anche [Giovanni, l'italiano che ha restaurato una casa centenaria nel Giappone rurale e creato un agriturismo con menzione Michelin](/blog/kumano-kodo-winery-guest-house-giovanni-italiano-giappone/).
 
+E se vuoi scoprire come una mamma italiana sta crescendo una figlia bilingue nella periferia di Tokyo, leggi la storia di [Valentina: mamma italiana in Giappone con una figlia bilingue](/blog/valentina-famiglia-periferia-tokyo/).
+
 
 {{< extLink "Iscriviti al nostro canale YouTube" "https://www.youtube.com/@vandipety" >}} per non perdere le prossime interviste e i prossimi episodi sulla vita degli italiani nel mondo.
 
