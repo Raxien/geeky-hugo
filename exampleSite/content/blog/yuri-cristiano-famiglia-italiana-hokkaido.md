@@ -10,7 +10,7 @@ continent: Asia
 country: Giappone
 ---
 
-Quando pensi a qualcuno che si trasferisce in Giappone, probabilmente immagini Tokyo: luci al neon, grattacieli, treni affollati, sushi bar ad ogni angolo. Forse, se sei più avventuroso, pensi a Kyoto con i suoi templi e le geishe.
+Quando pensi a qualcuno che si trasferisce in Giappone, probabilmente immagini Tokyo: luci al neon, grattacieli, treni affollati, sushi bar ad ogni angolo. Forse, se sei più avventuroso, pensi a Kyoto con i suoi templi e al volto delicato di una geisha.
 
 Difficilmente immagini **Hokkaido**: l'isola più a nord, quella degli orsi bruni, delle foreste primordiali, degli inverni a -20°C e dei villaggi semi-deserti dove la natura sta lentamente riprendendosi gli spazi che l'uomo ha abbandonato. Se vuoi scoprire un esempio della bellezza di Hokkaido, leggi la nostra [guida a Noboribetsu, il cuore termale dell'isola](/blog/noboribetsu-onsen-hokkaido/).
 
@@ -28,7 +28,7 @@ Vendere casa, lasciare il lavoro, prendere due bambine che frequentavano la scuo
 
 Se per gli adulti l'adattamento è stato difficile, per le bambine è stato ancora più complesso.
 
-In Giappone il sistema scolastico è diverso da quello italiano. Molto strutturato, molto esigente, con regole precise. «Qui si va a scuola pure il sabato e la domenica, ci sono i club», spiega Yuri. «È un sistema che non fa sconti a nessuno.»
+In Giappone il sistema scolastico è diverso da quello italiano. Molto strutturato, molto esigente, con regole precise. «Qui ci sono anche i club, che impegnano il sabato e la domenica», spiega Yuri. «È un sistema che non fa sconti a nessuno.»
 
 ## Casa Yurimomo: l'Airbnb con un tocco di italianità in Hokkaido
 
