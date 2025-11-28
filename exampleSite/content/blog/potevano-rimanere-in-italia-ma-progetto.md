@@ -3,6 +3,7 @@ title: 'Potevano rimanere in Italia ma...: nasce il progetto che racconta storie
 description: 'Dopo 37 paesi e migliaia di km, lanciamo un nuovo progetto: storie vere di italiani che hanno scelto di lasciare l''Italia. Scopri le prime interviste e aiutaci a trovare nuove storie.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1764324326/articoli/viaggi/copertine 2025-t5gmckmm.png
 categories: ["Progetto", "Italiani nel Mondo", "Storie Ispiratrici",]
+date: 2025-11-27T10:00:00+01:00
 type: regular
 draft: false
 ---
