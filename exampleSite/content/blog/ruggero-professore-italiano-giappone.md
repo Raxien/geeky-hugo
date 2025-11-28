@@ -1,7 +1,7 @@
 ---
 title: 'Ruggero: da un bigliettino da visita alla cattedra in Giappone'
 description: 'Un bigliettino da visita conservato per caso, una telefonata, e la vita di Ruggero cambia completamente. Da studente a professore universitario in Giappone: scopri la storia di chi ha scommesso su una seconda chance.'
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1764324500/articoli/viaggi/ruggero-professore-giappone.jpg
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1764332358/articoli/viaggi/copertine 2025 (1)-8rj9gl9v.png
 date: 2025-11-27T10:00:00+01:00
 categories: ["Giappone", "Storie Ispiratrici", "Italiani nel Mondo", "Lavoro all'Estero"]
 type: regular
