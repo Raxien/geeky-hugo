@@ -83,6 +83,8 @@ Se ti interessa leggere altre storie di italiani che hanno fatto scelte coraggio
 
 E se vuoi scoprire come una mamma italiana sta crescendo una figlia bilingue nella periferia di Tokyo, leggi la storia di [Valentina: mamma italiana in Giappone con una figlia bilingue](/blog/valentina-famiglia-periferia-tokyo/).
 
+Infine, scopri la storia incredibile di [Ruggero, il professore che è tornato in Giappone grazie a un bigliettino da visita](/blog/ruggero-professore-italiano-giappone/).
+
 
 {{< extLink "Iscriviti al nostro canale YouTube" "https://www.youtube.com/@vandipety" >}} per non perdere le prossime interviste e i prossimi episodi sulla vita degli italiani nel mondo.
 

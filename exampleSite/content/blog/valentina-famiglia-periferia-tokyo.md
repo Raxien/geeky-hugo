@@ -84,7 +84,9 @@ Alla fine della nostra conversazione, chiediamo a Valentina quali consigli dareb
 
 ## Questa è la seconda storia della serie "Potevano Rimanere in Italia Ma..."
 
-[Yuri e Cristiano hanno lasciato tutto per aprire un Airbnb a Hokkaido](/blog/yuri-cristiano-famiglia-italiana-hokkaido/), mentre [Giovanni ha restaurato una casa centenaria nel Giappone rurale e creato un agriturismo con menzione Michelin](/blog/kumano-kodo-winery-guest-house-giovanni-italiano-giappone/). 
+[Yuri e Cristiano hanno lasciato tutto per aprire un Airbnb a Hokkaido](/blog/yuri-cristiano-famiglia-italiana-hokkaido/), mentre [Giovanni ha restaurato una casa centenaria nel Giappone rurale e creato un agriturismo con menzione Michelin](/blog/kumano-kodo-winery-guest-house-giovanni-italiano-giappone/).
+
+E scopri anche [la storia di Ruggero, il professore di scienze cognitive che è tornato in Giappone grazie a un bigliettino da visita](/blog/ruggero-professore-italiano-giappone/). 
 
 {{< extLink "Iscriviti al nostro canale YouTube" "https://www.youtube.com/@vandipety" >}} per non perdere i prossimi episodi della serie "Potevano Rimanere in Italia Ma...".
 

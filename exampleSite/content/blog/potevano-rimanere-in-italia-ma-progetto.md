@@ -54,11 +54,17 @@ Hanno venduto casa, lasciato il lavoro e si sono trasferiti a Date, Hokkaido con
 
 {{< youtube2 5GB99NOetsc>}}
 
-### Ruggero: da un bigliettino da visita al professore di italiano in Giappone
+### Giovanni: l'italiano che ha restaurato una casa centenaria nel Giappone rurale
 
-A volte il destino è scritto su un piccolo pezzo di carta, conservato per caso nel portafoglio. È quello che è successo a Ruggero, un professore italiano che ha cambiato vita grazie a un bigliettino da visita incontrato per puro caso anni fa. 
+Nel cuore della prefettura di Wakayama, Giovanni ha restaurato una casa tradizionale giapponese di più di 100 anni e creato la Kumano Kodo Winery Guest House con una cucina che ha ottenuto una **menzione Michelin**. Con 50 capre, formaggio artigianale fatto a mano e menu che cambia ogni giorno in base a quello che la stagione offre.
 
-La sua storia è un perfetto esempio di come il caso, la curiosità e il coraggio possono trasformare una vita:
+[Scopri la storia straordinaria di Giovanni nel Giappone rurale](/blog/kumano-kodo-winery-guest-house-giovanni-italiano-giappone/).
+
+### Ruggero: da un bigliettino da visita al professore di scienze cognitive in Giappone
+
+A volte il destino è scritto su un piccolo pezzo di carta, conservato per caso nel portafoglio. È quello che è successo a Ruggero, un professore italiano che ha cambiato vita grazie a un bigliettino da visita incontrato per puro caso anni fa. Oggi insegna scienze cognitive in Giappone e ha contribuito a scoperte scientifiche significative nel campo della visione e della percezione.
+
+[Leggi la storia completa di Ruggero](/blog/ruggero-professore-italiano-giappone/) e guarda il video:
 
 {{< youtube2 svR4pzneA5k>}}
 

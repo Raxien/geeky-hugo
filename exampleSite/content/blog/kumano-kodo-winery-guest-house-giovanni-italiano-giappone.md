@@ -136,3 +136,12 @@ Se vuoi farti un'idea del contesto rurale giapponese, guarda questo video che ab
 Stiamo anche preparando un video completo dedicato alla **Kumano Kodo Winery Guest House**, dove mostreremo la cucina, le capre e la scelta coraggiosa di Giovanni e della sua famiglia.
 
 Nel frattempo, puoi scoprire di più visitando il loro sito ufficiale: {{< extLink "Balsamic Jam Nanki Wakayama" "https://www.balsamicojam-nankiwakayama.com/" >}}
+
+## Altre storie di italiani in Giappone
+
+Se la storia di Giovanni ti ha ispirato, scopri anche le altre storie della serie "Potevano rimanere in Italia ma...":
+- [Valentina: mamma italiana in Giappone con una figlia bilingue](/blog/valentina-famiglia-periferia-tokyo/)
+- [Yuri e Cristiano: la famiglia che ha scommesso tutto su Hokkaido](/blog/yuri-cristiano-famiglia-italiana-hokkaido/)
+- [Ruggero: dal bigliettino da visita al professore di scienze cognitive](/blog/ruggero-professore-italiano-giappone/)
+
+{{< extLink "Iscriviti al nostro canale YouTube" "https://www.youtube.com/@vandipety" >}} per non perdere i prossimi episodi della serie "Potevano rimanere in Italia ma...".
