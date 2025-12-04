@@ -3,7 +3,7 @@ title: 'Yuri e Cristiano: la famiglia italiana che ha scommesso tutto su Hokkaid
 description: Scopri la storia di Yuri e Cristiano, che hanno lasciato l'Italia per aprire un Airbnb a Date, Hokkaido, tra lezioni di cucina e la bellezza selvaggia del Giappone più remoto.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1763802242/articoli/viaggi/nuove copertine -1xhknhwk.png
 date: 2025-11-21T10:00:00+01:00
-categories: ["Giappone", "Hokkaido", "Storie Ispiratrici", "Italiani nel Mondo"]
+categories: ["Interviste", "Italiani nel Mondo"]
 type: regular
 draft: false
 continent: Asia

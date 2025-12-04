@@ -7,7 +7,7 @@ categories: ["Giappone", "Hokkaido", "Onsen", "Natura"]
 continent: Asia
 country: Giappone
 type: featured
-draft: false
+draft: true
 ---
 
 Una delle destinazioni più iconiche per ammirare le onsen giapponesi è sicuramente Noboribetsu, nella splendida isola di Hokkaido, dove natura, mito e relax si intrecciano in un'esperienza che affascina visitatori da tutto il mondo.

@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w
 date: 2025-11-29T10:00:00+01:00
 categories: ["Giappone", "Hokkaido", "Natura", "Cultura Indigena", "Viaggi"]
 type: regular
-draft: false
+draft: true
 continent: Asia
 country: Giappone
 ---

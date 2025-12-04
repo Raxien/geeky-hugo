@@ -3,7 +3,7 @@ title: 'Valentina: mamma italiana in Giappone con una figlia bilingue'
 description: Otto anni in Giappone, una figlia che passa dall'italiano al giapponese senza accorgersene, e il quotidiano di una mamma italiana che ha costruito una vera famiglia a Tokyo. La vita reale, lontano dalle cartoline.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1763803789/articoli/viaggi/nuove copertine  (1)-xj0jste8.png
 date: 2025-11-21T10:00:00+01:00
-categories: ["Giappone", "Tokyo", "Vita di Famiglia", "Italiani nel Mondo"]
+categories: ["Interviste", "Italiani nel Mondo"]
 type: regular
 draft: false
 continent: Asia

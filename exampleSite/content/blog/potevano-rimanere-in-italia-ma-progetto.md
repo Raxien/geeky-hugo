@@ -2,7 +2,7 @@
 title: 'Potevano rimanere in Italia ma...: nasce il progetto che racconta storie di italiani all''estero'
 description: 'Dopo 37 paesi e migliaia di km, lanciamo un nuovo progetto: storie vere di italiani che hanno scelto di lasciare l''Italia. Scopri le prime interviste e aiutaci a trovare nuove storie.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1764324326/articoli/viaggi/copertine 2025-t5gmckmm.png
-categories: ["Progetto", "Italiani nel Mondo", "Storie Ispiratrici",]
+categories: ["Interviste", "Italiani nel Mondo",]
 date: 2025-11-27T10:00:00+01:00
 type: regular
 draft: false
@@ -53,12 +53,6 @@ Hanno venduto casa, lasciato il lavoro e si sono trasferiti a Date, Hokkaido con
 [Leggi la storia completa di Yuri e Cristiano a Hokkaido](/blog/yuri-cristiano-famiglia-italiana-hokkaido/) e guarda il loro video:
 
 {{< youtube2 5GB99NOetsc>}}
-
-### Giovanni: l'italiano che ha restaurato una casa centenaria nel Giappone rurale
-
-Nel cuore della prefettura di Wakayama, Giovanni ha restaurato una casa tradizionale giapponese di più di 100 anni e creato la Kumano Kodo Winery Guest House con una cucina che ha ottenuto una **menzione Michelin**. Con 50 capre, formaggio artigianale fatto a mano e menu che cambia ogni giorno in base a quello che la stagione offre.
-
-[Scopri la storia straordinaria di Giovanni nel Giappone rurale](/blog/kumano-kodo-winery-guest-house-giovanni-italiano-giappone/).
 
 ### Ruggero: da un bigliettino da visita al professore di scienze cognitive in Giappone
 
