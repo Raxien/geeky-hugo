@@ -3,7 +3,7 @@ title: 'Kumano Kodo Winery Guest House: La storia di Giovanni, italiano che ha c
 description: Scopri la storia di Giovanni, un italiano che ha restaurato una casa centenaria nel Giappone rurale e creato un agriturismo con menzione Michelin. Tra capre, formaggio artigianale e cucina di stagione nella prefettura di Wakayama.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1762690732/articoli/viaggi/kumano winery-yxyjb2x5.png
 date: 2025-11-08T10:00:00+01:00
-categories: ["Giappone", "Agriturismo", "Storie Ispiratrici"]
+categories: ["Interviste", "Italiani nel mondo"]
 type: regular
 draft: false
 continent: Asia
