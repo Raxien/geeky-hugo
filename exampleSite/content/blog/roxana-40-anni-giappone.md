@@ -52,6 +52,8 @@ Da quella esperienza nasce un libro: **"Ainu – Le ombre nascoste"**, che racco
 
 > "Non l'ho scritto per cercare la perfezione. L'ho scritto perché il messaggio arrivasse. Perché la loro storia non venisse dimenticata."
 
+**Scopri anche la storia degli Ainu, il popolo discriminato del Giappone, protagonista del suo libro "[Ainu: Le ombre nascoste](https://amzn.to/4a8r1MB)"**
+
 Per Roxana, scrivere è diventato un dare voce a chi non la ha. In questo senso, il suo progetto ricorda quello che stiamo facendo con [**"Potevano rimanere in Italia ma..."**](/blog/potevano-rimanere-in-italia-ma-progetto/), il nostro progetto di raccontare storie di italiani che hanno scelto di costruire vite autentiche all'estero. Roxana ha semplicemente iniziato quarant'anni prima, quando raccontare l'Italia in Giappone era ancora una rarità.
 
 ## Un paese che cambia, un'essenza che rimane
@@ -69,7 +71,7 @@ Eppure, secondo lei, sotto la superficie moderna c'è qualcosa che non cambia ma
 E forse è proprio questa la lezione più grande: **il luogo in cui trovi casa non è quello perfetto, ma quello che accetti nella sua imperfezione.**
 
 
-## Scopri Altre Storie di Italiani in Giappone
+## Scopri altre storie di italiani in Giappone
 
 Roxana è parte della grande comunità di italiani che hanno scelto il Giappone. Se ti è piaciuta la sua storia, leggi anche:
 
@@ -79,7 +81,7 @@ Roxana è parte della grande comunità di italiani che hanno scelto il Giappone.
 - **[Ruggero: il professore e il bigliettino da visita](/blog/ruggero-professore-italiano-giappone/)** - Come una vecchia carta di visita può cambiare una vita
 - **[Mirko: l'insegnante YouTuber](/blog/mirko-insegnante-youtuber-giappone/)** - Tre lavori contemporaneamente per costruire una vita ordinata in un paese ordinato
 
-## Ti è Piaciuta Questa Storia?
+## Ti è piaciuta questa storia?
 
 - {{< extLink "Iscriviti al nostro canale YouTube" "https://www.youtube.com/@vandipety" >}} per guardare tutte le interviste
 - **Lascia un commento**: Qual è stata la parte della storia di Roxana che ti ha colpito di più? Hai mai sentito parlare degli Ainu prima? 
