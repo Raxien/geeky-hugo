@@ -1,0 +1,415 @@
+{{ define "main" }}
+
+<meta name="robots" content="noindex, nofollow">
+
+<style>
+    .upload-area {
+        border: 2px dashed #ccc;
+        border-radius: 8px;
+        padding: 40px;
+        text-align: center;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        background: #f8f9fa;
+    }
+
+    .upload-area:hover {
+        border-color: #007bff;
+        background: #e7f3ff;
+    }
+
+    .upload-area.dragover {
+        border-color: #007bff;
+        background: #e7f3ff;
+        transform: scale(1.02);
+    }
+
+    .upload-icon {
+        font-size: 48px;
+        margin-bottom: 15px;
+    }
+
+    #fileInput {
+        display: none;
+    }
+
+    .preview-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin: 20px 0;
+    }
+
+    .preview-item {
+        position: relative;
+        width: 100px;
+        height: 100px;
+    }
+
+    .preview-item img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 4px;
+    }
+
+    .remove-btn {
+        position: absolute;
+        top: -8px;
+        right: -8px;
+        background: #dc3545;
+        color: white;
+        border: none;
+        border-radius: 50%;
+        width: 24px;
+        height: 24px;
+        cursor: pointer;
+        font-size: 16px;
+        line-height: 1;
+    }
+
+    .progress-container {
+        display: none;
+        margin: 20px 0;
+    }
+
+    .progress-container.show {
+        display: block;
+    }
+
+    .progress-bar {
+        width: 100%;
+        height: 30px;
+        background: #e9ecef;
+        border-radius: 4px;
+        overflow: hidden;
+    }
+
+    .progress-fill {
+        height: 100%;
+        background: #007bff;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: width 0.3s ease;
+        min-width: 30px;
+    }
+
+    .result-container {
+        display: none;
+        margin: 20px 0;
+        padding: 20px;
+        background: #d4edda;
+        border: 1px solid #c3e6cb;
+        border-radius: 4px;
+    }
+
+    .result-container.show {
+        display: block;
+    }
+
+    .result-text {
+        background: white;
+        padding: 15px;
+        border-radius: 4px;
+        margin: 15px 0;
+        font-family: monospace;
+        word-break: break-all;
+        white-space: pre-wrap;
+    }
+
+    .copy-btn {
+        background: #28a745;
+        color: white;
+        border: none;
+        padding: 8px 16px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    .copy-btn:hover {
+        background: #218838;
+    }
+
+    .message .success {
+        color: #155724;
+        background: #d4edda;
+        padding: 10px;
+        border-radius: 4px;
+        margin: 10px 0;
+    }
+
+    .message .error {
+        color: #721c24;
+        background: #f8d7da;
+        padding: 10px;
+        border-radius: 4px;
+        margin: 10px 0;
+    }
+</style>
+
+<!--=================== contact section start ===================-->
+<section class="section contact">
+    <div class="container">
+        {{ $bgImage:= resources.Get "images/map.png" }}
+        {{ $bgImage:= $bgImage.Resize "1400x webp" }}
+        <h2>Cloudinary Image Uploader</h2>
+        <div class="row section-sm pt-0" style="background-image: url('{{ $bgImage.RelPermalink }}')">
+
+            <div class="col-lg-6">
+                <div class="p-4 border rounded-4">
+                    <div class="form-group">
+                        <label>Tipo di output</label>
+                        <div class="radio-group">
+                            <div class="radio-option">
+                                <input type="radio" id="typeCover" name="outputType" value="cover" checked>
+                                <label for="typeCover">Copertina</label>
+                                <br>
+                                <input type="radio" id="typeSingle" name="outputType" value="single">
+                                <label for="typeSingle">Immagine singola</label>
+                                <br>
+                                <input type="radio" id="typeCarousel" name="outputType" value="carousel">
+                                <label for="typeCarousel">Carosello</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>Seleziona immagini</label>
+                        <div class="upload-area" id="uploadArea">
+                            <div class="upload-icon">☁️</div>
+                            <p><strong>Clicca per selezionare</strong> o trascina qui le immagini</p>
+                            <p style="font-size: 12px; color: #888; margin-top: 5px;">Supporta JPG, PNG, WebP • Puoi caricare più foto contemporaneamente</p>
+                        </div>
+                        <input type="file" id="fileInput" accept="image/*" multiple>
+                    </div>
+                    <div class="preview-container" id="previewContainer"></div>
+                    <button class="btn btn-primary" id="uploadBtn" disabled>Carica su Cloudinary</button>
+                    <div class="progress-container" id="progressContainer">
+                        <div id="uploadStatus" style="margin-bottom: 10px; font-size: 14px; font-weight: bold;">Caricamento in corso...</div>
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="progressFill">0%</div>
+                        </div>
+                        <div id="uploadDetails" style="margin-top: 10px; font-size: 12px; color: #666;"></div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-lg-6">
+
+                <div id="message"></div>
+                <div class="result-container" id="resultContainer">
+                    <h3>✅ Shortcode generato</h3>
+                    <div class="result-text" id="resultText"></div>
+                    <button class="copy-btn" id="copyBtn">Copia negli appunti</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</section>
+<!--=================== contact section start ===================-->
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+
+        const uploadArea = document.getElementById('uploadArea');
+        const fileInput = document.getElementById('fileInput');
+        const previewContainer = document.getElementById('previewContainer');
+        const uploadBtn = document.getElementById('uploadBtn');
+        const progressContainer = document.getElementById('progressContainer');
+        const progressFill = document.getElementById('progressFill');
+        const resultContainer = document.getElementById('resultContainer');
+        const resultText = document.getElementById('resultText');
+        const copyBtn = document.getElementById('copyBtn');
+        const message = document.getElementById('message');
+
+        const shortcodeOpen = "{" + "{<";
+        const shortcodeClose = "\" >}}";
+
+        let selectedFiles = [];
+
+        // Click to select files
+        uploadArea.addEventListener('click', () => fileInput.click());
+
+        // Drag and drop
+        uploadArea.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            uploadArea.classList.add('dragover');
+        });
+
+        uploadArea.addEventListener('dragleave', () => {
+            uploadArea.classList.remove('dragover');
+        });
+
+        uploadArea.addEventListener('drop', (e) => {
+            e.preventDefault();
+            uploadArea.classList.remove('dragover');
+            handleFiles(e.dataTransfer.files);
+        });
+
+        // File input change
+        fileInput.addEventListener('change', (e) => {
+            handleFiles(e.target.files);
+        });
+
+        function handleFiles(files) {
+            selectedFiles = Array.from(files);
+            displayPreviews();
+            uploadBtn.disabled = selectedFiles.length === 0;
+        }
+
+        function displayPreviews() {
+            previewContainer.innerHTML = '';
+            selectedFiles.forEach((file, index) => {
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    const previewItem = document.createElement('div');
+                    previewItem.className = 'preview-item';
+                    previewItem.innerHTML = `
+                        <img src="${e.target.result}" alt="Preview">
+                        <button class="remove-btn" onclick="removeFile(${index})">×</button>
+                    `;
+                    previewContainer.appendChild(previewItem);
+                };
+                reader.readAsDataURL(file);
+            });
+        }
+
+        window.removeFile = function (index) {
+            selectedFiles.splice(index, 1);
+            displayPreviews();
+            uploadBtn.disabled = selectedFiles.length === 0;
+        }
+
+        uploadBtn.addEventListener('click', async () => {
+            const cloudName = "ilgattodicitturin";
+            const uploadPreset = "v_upload";
+            const folder = "";
+            const outputType = document.querySelector('input[name="outputType"]:checked').value;
+
+            if (!cloudName || !uploadPreset) {
+                showMessage('Per favore compila Upload Preset', 'error');
+                return;
+            }
+
+            if (selectedFiles.length === 0) {
+                showMessage('Per favore seleziona almeno un\'immagine', 'error');
+                return;
+            }
+
+            uploadBtn.disabled = true;
+            progressContainer.classList.add('show');
+            resultContainer.classList.remove('show');
+            message.innerHTML = '';
+
+            const uploadedUrls = new Array(selectedFiles.length);
+            const uploadDetails = document.getElementById('uploadDetails');
+            const uploadStatus = document.getElementById('uploadStatus');
+            let completedCount = 0;
+
+            // Caricamento parallelo di tutte le foto
+            const uploadPromises = selectedFiles.map(async (file, index) => {
+                try {
+                    const url = await uploadToCloudinary(file, cloudName, uploadPreset, folder);
+                    uploadedUrls[index] = url;
+                    completedCount++;
+                    updateProgress(Math.round((completedCount / selectedFiles.length) * 100));
+                    uploadDetails.textContent = `${completedCount} di ${selectedFiles.length} foto caricate`;
+                } catch (error) {
+                    showMessage(`Errore nel caricamento di ${file.name}: ${error.message}`, 'error');
+                    uploadBtn.disabled = false;
+                    throw error;
+                }
+            });
+
+            try {
+                await Promise.all(uploadPromises);
+                generateShortcode(uploadedUrls, outputType);
+                uploadBtn.disabled = false;
+                uploadStatus.textContent = '✅ Caricamento completato!';
+                showMessage('Caricamento completato!', 'success');
+            } catch (error) {
+                uploadBtn.disabled = false;
+                uploadStatus.textContent = '❌ Errore durante il caricamento';
+            }
+        });
+
+        async function uploadToCloudinary(file, cloudName, uploadPreset, folder) {
+            const formData = new FormData();
+            formData.append('file', file);
+            formData.append('upload_preset', uploadPreset);
+
+            // Mantieni il nome originale del file (senza estensione) + aggiungi UID casuale
+            const fileName = file.name.replace(/\.[^/.]+$/, "");
+            const uid = Math.random().toString(36).substring(2, 10); // Genera UID di 8 caratteri
+            const fileNameWithUid = `${fileName}-${uid}`;
+            const publicId = folder ? `${folder}/${fileNameWithUid}` : fileNameWithUid;
+            formData.append('public_id', publicId);
+
+            const response = await fetch(`https://api.cloudinary.com/v1_1/${cloudName}/image/upload`, {
+                method: 'POST',
+                body: formData
+            });
+
+            if (!response.ok) {
+                throw new Error('Upload fallito');
+            }
+
+            const data = await response.json();
+
+            // Estrai il percorso pubblico (tutto dopo /upload/)
+            const uploadedPublicId = data.public_id;
+            const version = data.version;
+            const format = data.format;
+
+            // Costruisci l'URL con le trasformazioni
+            return `https://res.cloudinary.com/${cloudName}/image/upload/f_auto,q_auto,w_800,dpr_auto/v${version}/${uploadedPublicId}.${format}`;
+        }
+
+        function generateShortcode(urls, type) {
+            let shortcode = '';
+
+            if (type === 'cover') {
+                // Per copertina, mostra solo l'URL
+                shortcode = urls[0];
+            } else if (type === 'single') {
+                // Per immagini singole, una riga per immagine
+                shortcode = urls.map(url => `${shortcodeOpen} image src="${url}" >}}`).join('\n');
+            } else if (type === 'carousel') {
+                // Per carosello, estrai solo la parte del percorso dopo /upload/...trasformazioni.../v.../
+                const paths = urls.map(url => {
+                    // Estrai tutto dopo l'ultimo /v[numero]/
+                    const match = url.match(/\/v\d+\/(.+)$/);
+                    return match ? match[1] : url;
+                });
+                shortcode = `${shortcodeOpen} carousel images="${paths.join(',')}" >}}`;
+            }
+
+            resultText.textContent = shortcode;
+            resultContainer.classList.add('show');
+        }
+
+        copyBtn.addEventListener('click', () => {
+            const text = resultText.textContent;
+            navigator.clipboard.writeText(text).then(() => {
+                const originalText = copyBtn.textContent;
+                copyBtn.textContent = '✓ Copiato!';
+                setTimeout(() => {
+                    copyBtn.textContent = originalText;
+                }, 2000);
+            });
+        });
+
+        function updateProgress(percent) {
+            progressFill.style.width = percent + '%';
+            progressFill.textContent = percent + '%';
+        }
+
+        function showMessage(msg, type) {
+            message.innerHTML = `<div class="${type}">${msg}</div>`;
+        }
+    }); //end onload
+</script>
+
+{{ end }}
