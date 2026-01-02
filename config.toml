@@ -12,7 +12,7 @@ theme = "geeky-hugo"
 [params]
 description = "Alla scoperta del mondo on the road. Unisciti al viaggio e lasciati ispirare a intraprendere la tua prossima avventura!"
 title = "Vandipety | Esplora il Mondo in Camper insieme a noi"
-ai_summary_enabled = true
+ai_summary_enabled = false
 [params.variables]
 color_primary = "#15817f"
 body_color = "#FFF"
