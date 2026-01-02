@@ -208,6 +208,7 @@ Per richiedere il rinnovo del visto dovrai:
 
 1. **Recarti all'ufficio immigrazione** competente per la tua area di residenza prima della scadenza del visto attuale
 2. **Presentare la documentazione richiesta** (varia in base al tipo di visto - vedi sotto)
+3. **Compilare i moduli** di richiesta di estensione forniti dall'ufficio
 4. **Attendere la risposta**, che può richiedere da **1-2 settimane fino a un mese** a seconda della complessità della pratica e del periodo dell'anno
 5. **Ricevere la notifica a casa** con l'esito della richiesta
 6. **Pagare la tassa di rinnovo** di **¥6.000 a persona** (circa €35-40)
