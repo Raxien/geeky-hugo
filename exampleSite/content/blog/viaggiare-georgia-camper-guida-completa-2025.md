@@ -21,6 +21,10 @@ Controlla sempre {{< extLink "il sito Viaggiare Sicuri della Farnesina per aggio
 ## Assicurazione veicolo
 La Georgia richiede un'assicurazione di responsabilità civile (TPL - Third Party Liability) **per tutti i veicoli stranieri**, inclusi i camper. Questa copre danni a terzi e deve essere acquistata prima o all'ingresso. Il sito ufficiale è {{< extLink "https://tpl.ge/" "https://tpl.ge/" >}}, **dove puoi comprarla online in pochi minuti**; È possibile scegliere la validità da 15 giorni fino ad un 1 anno, con costi variabili a seconda della durata e del veicolo. Per un auto/camper si parte da 30 GEL (circa 10 €) per 15 giorni fino a 295 GEL (95,66 €) per un anno. Al confine, è disponibile presso chioschi dedicati, ma online eviti code e costa decisamente meno. Senza TPL, rischi multe o rifiuto all'ingresso. 
 
+I **mezzi leggeri fino a 3,5 tonnellate possono stare 90 giorni**, mentre i mezzi più pesanti possono rimanere massimo **60 giorni**. Se rimani oltre il termine autorizzato, la Georgia applica una multa di **50 GEL al giorno**, con un massimo di **1.000 GEL** totali. La multa viene riscossa al momento dell'uscita dal paese presso l'ufficio bancario al valico di frontiera.
+
+Se hai bisogno di estendere la tua permanenza, puoi richiedere un'estensione formale fino a 30 giorni aggiuntivi a 5 GEL al giorno, oppure uscire e rientrare immediatamente per "resettare" il conteggio dei giorni (pratica comune tra i camperisti).
+
 {{< underline "Nota:" >}} la tua RC auto italiana non è valida qui, quindi integra con una polizza europea estesa se necessario.
 
 ## Patente di guida: Cosa Serve per Guidare in Georgia
