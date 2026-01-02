@@ -2,15 +2,12 @@
 title: 'Viaggio in Camper dall''Italia al Giappone: il nostro libro diventa realtà'
 description: 'La storia del nostro viaggio di tre anni e mezzo attraverso 36 paesi, tre continenti, e innumerevoli ostacoli. Come un sogno è diventato la più grande avventura della nostra vita.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1766283851/articoli/viaggi/cartina - dimensioni grandi-lzjzsvxk.jpg
-date: 2025-12-20T10:00:00+01:00
-categories: ["Viaggi", "Avventure", "Asia"]
-type: regular
-draft: true
+date: 2026-01-01T10:00:00+01:00
+categories: ["Blog"]
+type: featured
 continent: Asia
 country: Giappone
 ---
-
-
 C'è un momento nella vita in cui decidi che è arrivato il tempo di inseguire un sogno. Per noi quel momento è arrivato quando, guardando una mappa del mondo appesa sul muro della cucina, ci siamo detti: *"E se provassimo davvero ad arrivare in Giappone in camper?"*
 
 E così, sedendoci letteralmente a tavolino, abbiamo dedicato un anno intero alla preparazione.
@@ -65,11 +62,11 @@ E poi, finalmente, il **Giappone**, dopo mesi di viaggio e infiniti ostacoli. Il
 
 Questo non è un viaggio per tutti, e non fingiamo che lo possa essere. Richiede una preparazione mentale che va oltre la semplice voglia di avventura. Richiede organizzazione maniacale e la capacità di lasciar andare ogni piano quando la realtà ti impone di fare altro. Richiede un'intesa profonda con chi viaggia al tuo fianco, perché in spazi così ristretti, sotto stress così intenso, ogni piccola crepa nella relazione diventa un burrone.
 
-Serve forza di volontà quando il corpo chiede di fermarsi, quando la mente è stanca, quando la nostalgia di casa diventa un peso fisico sul petto. Serve umiltà per accettare aiuto da sconosciuti, per ammettere di essersi persi, per riconoscere che non sai e non puoi fare tutto.
+Serve forza di volontà quando il corpo chiede di fermarsi, quando la mente è stanca, quando la nostalgia di casa diventa un peso fisico sul petto. **Serve umiltà per accettare aiuto da sconosciuti**, per ammettere di essersi persi, per riconoscere che non sai e non puoi fare tutto.
 
 Ma più di ogni altra cosa, questo viaggio ci ha resi più umani. Ogni persona incontrata lungo la strada ha lasciato un'impronta indelebile. Abbiamo imparato che la gentilezza è una lingua universale, che l'umanità ci unisce più di quanto le differenze ci dividano, che la paura dell'altro è quasi sempre infondata.
 
-Ecco perchè abbiamo sempre voluto condividere questa avventura, nel limite del possibile, senza snaturarci e senza creare un "Grande fratello" che ci avrebbe vincolato a un quotidiano non più libero come quello che stavamo cercando.
+Ecco perchè abbiamo sempre voluto condividere questa avventura, nel limite del possibile, senza snaturarci **e senza creare un "Grande fratello"** che ci avrebbe vincolato a un quotidiano non più libero come quello che stavamo cercando.
 
 ## Scopri il nostro viaggio
 
@@ -78,35 +75,33 @@ Ecco perchè abbiamo sempre voluto condividere questa avventura, nel limite del 
 Il nostro libro, **"Verso l'isola che c'è"**, è nato quasi da solo, pagina dopo pagina, un diario scritto spesso di sera, con la luce fioca di una lampadina del camper. Un diario che contiene le nostre riflessioni più intime, i momenti di crisi e quelli di estasi, e decine e decine di fotografie che catturano non solo i luoghi ma anche un frammento di stati d'animo.
 
 **Acquista il libro:**
-- [Edizioni Valle Scrivia](https://edizionivallescrivia.it/catalogo-libri/verso-lisola-che-ce/?_gl=1*1iipd3d*_up*MQ..*_ga*NTMwNTA0OTc4LjE3NjU4NDExODU.*_ga_W3NH54L4LT*czE3NjU4NDExODIkbzEkZzAkdDE3NjU4NDExODIkajYwJGwwJGgxMDYwMDQ0OTM5) (casa editrice)
-- [Amazon](https://amzn.to/3LsBo3H)
-- [IBS](https://www.ibs.it/verso-isola-che-c-diario-libro-sara-moressa-paolo-provera/e/9791281033306)
-- [Il Libraccio](https://www.libraccio.it/libro/9791281033306/sara-moressa-paolo-provera/verso-l-isola-che-c'%C3%A8.-diario-di-un-viaggio-via-terra-verso-il-paese-del-sol-levante.html)
-- [Feltrinelli](https://www.lafeltrinelli.it/verso-isola-che-c-diario-libro-sara-moressa-paolo-provera/e/9791281033306)
+- {{< extLink "Edizioni Valle Scrivia" "https://edizionivallescrivia.it/catalogo-libri/verso-lisola-che-ce" >}} (casa editrice)
+- {{< extLink "Amazon" "https://amzn.to/3LsBo3H" >}}
+- {{< extLink "IBS" "https://www.ibs.it/verso-isola-che-c-diario-libro-sara-moressa-paolo-provera/e/9791281033306" >}}
+- {{< extLink "Il Libraccio" "https://www.libraccio.it/libro/9791281033306/sara-moressa-paolo-provera/verso-l-isola-che-c'%C3%A8.-diario-di-un-viaggio-via-terra-verso-il-paese-del-sol-levante.html" >}}
+- {{< extLink "Feltrinelli" "https://www.lafeltrinelli.it/verso-isola-che-c-diario-libro-sara-moressa-paolo-provera/e/9791281033306" >}}
 
 ### La guida sulla Transiberiana
 
 La guida sulla Transiberiana è il nostro contributo concreto a chi vorrà seguire le nostre orme. Attraversare la Transiberiana e le rotte che abbiamo percorso senza informazioni può essere non solo impegnativo ma pericoloso. Per questo abbiamo raccolto ogni dettaglio pratico. Se possiamo risparmiare anche a una sola persona le difficoltà che abbiamo affrontato noi per mancanza di informazioni, avremo raggiunto il nostro scopo.
 
 **Acquista la guida:**
-- [Amazon: "Transiberiana On The Road"](https://www.amazon.it/Transiberiana-Road-viaggio-indimenticabile-Vladivostok-ebook/dp/B0DZCMDQRK?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3A1DOQMNDX70X&dib=eyJ2IjoiMSJ9._EYVTNqtBIgFTLwC6UgGdg.s_su3ABda_Tg5oUqQKnsrhZ_Te4H2XzOixv2jzKv9I8&dib_tag=se&keywords=transiberian+on+the+road&qid=1744356822&sprefix=transiberian+on+the+ro,aps,731&sr=8-1&linkCode=sl1&tag=vandipety-21&linkId=f339c2208e93565ffbb10143223037d8&language=it_IT&ref_=as_li_ss_tl)
+- {{< extLink "Amazon: Transiberiana On The Road" "https://amzn.to/4snjAYk" >}}
 
 ### Rimani connesso
 
 Se preferisci le immagini alle parole, seguici sui nostri canali:
 
 - {{< extLink "YouTube" "https://www.youtube.com/@vandipety" >}} - Tutti i video completi del viaggio
-- [Newsletter su Substack](https://substack.com/@vandipety) - Storie e riflessioni direttamente nella tua inbox
+- {{< extLink "Newsletter su Substack" "https://substack.com/@vandipety" >}} - Storie e riflessioni direttamente nella tua inbox
 
 Grazie a chi ci legge, ci segue, e continua a camminare con noi — anche restando fermo.
-
-
 
 ## Il viaggio continua
 
 Ora che siamo qui, che il sogno si è realizzato, qualcuno potrebbe pensare che il viaggio sia finito. Ma la verità è che il viaggio non finisce mai veramente.
 
-Siamo partiti da un'Italia che ci sembrava piccola, con un sogno che sembrava invece enorme. Abbiamo attraversato paesi, tre continenti, innumerevoli culture, abbiamo mangiato cibi di cui non conoscevamo il nome, abbiamo imparato parole in lingue che non parleremo mai fluentemente. Siamo arrivati diversi da come eravamo partiti, e questo, alla fine, è il vero tesoro di ogni viaggio.
+Siamo partiti da un'Italia che ci sembrava piccola, **con un sogno che sembrava invece enorme.** Abbiamo attraversato paesi, tre continenti, innumerevoli culture, abbiamo mangiato cibi di cui non conoscevamo il nome, abbiamo imparato parole in lingue che non parleremo mai fluentemente. Siamo arrivati diversi da come eravamo partiti, e questo, alla fine, è il vero tesoro di ogni viaggio.
 
 Il futuro è ora un'incognita, ma tutto questo non ci fa paura. Abbiamo imparato che i piani possono cambiare, che le dogane possono chiudere e poi riaprire, che a volte il percorso inaspettato è quello che ti regala le emozioni più grandi. Non sappiamo quale sarà il prossimo confine da attraversare o il prossimo orizzonte da inseguire.
 

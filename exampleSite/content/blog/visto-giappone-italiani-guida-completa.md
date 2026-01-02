@@ -196,6 +196,55 @@ contro1="Procedure burocratiche complesse e tempi di attesa lunghi (2-3 mesi per
 contro2="Requisiti stringenti: Necessario avere uno sponsor in Giappone o dimostrare elevate disponibilità economiche"
 contro3="Limitato a specifiche attività pre-approvate">}}
 
+## Rinnovo dei Visti in Giappone
+
+### Come Funziona il Processo di Rinnovo
+
+Se ti trovi già in Giappone con un visto valido e desideri prolungare il tuo soggiorno, dovrai richiedere il rinnovo presso **l'ufficio dell'immigrazione della zona in cui risiedi**. È importante sapere che non tutti i visti sono rinnovabili: ad esempio, il **visto digital nomad** e il **working holiday** non possono essere rinnovati, mentre il **visto Designated Activities** può esserlo in determinate circostanze.
+
+### Procedura di Rinnovo
+
+Per richiedere il rinnovo del visto dovrai:
+
+1. **Recarti all'ufficio immigrazione** competente per la tua area di residenza prima della scadenza del visto attuale
+2. **Presentare la documentazione richiesta** (varia in base al tipo di visto - vedi sotto)
+4. **Attendere la risposta**, che può richiedere da **1-2 settimane fino a un mese** a seconda della complessità della pratica e del periodo dell'anno
+5. **Ricevere la notifica a casa** con l'esito della richiesta
+6. **Pagare la tassa di rinnovo** di **¥6.000 a persona** (circa €35-40)
+
+### La Marca da Bollo
+
+Il pagamento della tassa di rinnovo avviene tramite l'acquisto di una **marca da bollo (revenue stamp)** che si compra direttamente presso l'ufficio dell'immigrazione. Questa marca va applicata sul passaporto una volta approvato il rinnovo.
+
+### Rinnovo del Visto Turistico da 90 Giorni
+
+Il visto turistico standard (esenzione da visto) di 90 giorni è **tecnicamente rinnovabile per altri 90 giorni**, ma **l'Italia è esclusa da questa possibilità** secondo le normative ufficiali. Questa estensione è riservata solo ad alcune nazionalità specifiche.
+
+**Tuttavia**, esistono delle situazioni particolari:
+
+- **Variabilità tra uffici:** Alcuni uffici dell'immigrazione, specialmente quelli meno grandi o in zone periferiche, potrebbero essere meno informati sulle restrizioni specifiche per nazionalità. In rari casi, alcuni viaggiatori italiani sono riusciti ad ottenere il rinnovo, ma **dipende sempre dall'ufficiale che vi trovate davanti** e non c'è alcuna garanzia
+- **Emergenze documentate:** In caso di **emergenze comprovate** (ad esempio, se tu o un familiare siete ricoverati in ospedale e non potete viaggiare), è possibile richiedere un'estensione umanitaria del periodo di soggiorno presentando documentazione medica
+- **Non fate affidamento su questa opzione:** Data l'incertezza e il rischio di un rifiuto, **non pianificate il vostro viaggio contando sul rinnovo del visto turistico**. È sempre meglio considerare il visa run o altre alternative legali
+
+**Importante:** Tentare di ottenere un rinnovo senza averne diritto potrebbe creare problemi con l'immigrazione. Procedete con cautela e solo in caso di reale necessità.
+
+### Documentazione per il Visto Long Stay Turistico
+
+Se hai un **visto Designated Activities - Long Stay** (turismo prolungato), per richiedere l'estensione da 6 mesi a 1 anno dovrai presentare:
+
+- **Estratti conto bancari aggiornati** che dimostrino il mantenimento dei requisiti economici (30 milioni di yen)
+- **Programma di viaggio dettagliato** per il periodo di estensione richiesto
+- **Assicurazione sanitaria** valida che copra l'intera durata della permanenza prolungata
+- **Certificato di residenza** (Juminhyo) ottenuto dal Ward Office locale
+- **Passaporto** con visto ancora valido
+
+### Consigli Importanti per il Rinnovo
+
+- **Inizia la pratica con anticipo:** Non aspettare l'ultimo momento. È consigliabile presentare la richiesta almeno 1-2 mesi prima della scadenza
+- **Mantieni tutti i requisiti:** Assicurati di continuare a soddisfare tutti i requisiti economici e documentali richiesti per il tuo tipo di visto
+- **Preparati a fornire spiegazioni:** Gli ufficiali potrebbero chiederti dettagli sul motivo del prolungamento
+- **Conserva le ricevute:** Tieni traccia di tutti i documenti presentati e delle ricevute di pagamento
+
 ## Quale Visto Scegliere?
 
 La scelta del visto dipende dai tuoi obiettivi e dalla tua situazione:
