@@ -43,7 +43,7 @@ Dai racconti di altri viaggiatori l'importazione del mezzo tramite CPD può dura
 
 ## TIP: cos'è?
 
-L'alternativa più semplice e soprattutto gratuita rispetto al CPD è, come dicevamo prima, il TIP, noto in Giappone {{<extLink "come modulo C5014" "https://www.customs.go.jp/kaisei/zeikantsutatsu/kobetsu/TU-S46k0849a.pdf">}}. Se arrivi in Giappone da un paese che non richiede il CPD (come per esempio la Corea del Sud), questa opzione è perfetta per te.
+L'alternativa più semplice e soprattutto gratuita rispetto al CPD è, come dicevamo prima, il TIP, noto in Giappone {{< extLink "come modulo C5014" "https://www.customs.go.jp/kaisei/zeikantsutatsu/kobetsu/TU-S46k0849a.pdf" >}}. Se arrivi in Giappone da un paese che non richiede il CPD (come per esempio la Corea del Sud), questa opzione è perfetta per te.
 Con il TIP, il tuo veicolo può rimanere in Giappone fino a un massimo di un anno. Se superi tale periodo, dovrai pagare le tasse di importazione. 
 
 Inoltre, **non è richiesto acquistare in anticipo il biglietto di uscita dal Giappone** e puoi lasciare il veicolo nel paese anche se devi temporaneamente partire. Nel caso in cui ti venga richiesto una data e da che porto lascerai il Giappone devi rispondere con il porto di ingresso.
@@ -54,12 +54,14 @@ In uscita dal paese consegni il TIP ai funzionari doganali che si occuperanno di
 
 ## Procedura per l'Importazione Temporanea
 
-Il TIP è disponibile in tutti i porti per traghetti internazionali (ad esempio Hakata, a Fukuoka, e Shimonoseki). Ecco cosa devi fare:
+Il TIP è disponibile in tutti i porti per traghetti internazionali (ad esempio Hakata, a Fukuoka, e ~Shimonoseki~). Ecco cosa devi fare:
 
 1. Contatta la compagnia di traghetti in anticipo per informarli che entrerai in Giappone con il TIP o modulo C5014, [per evitare problemi.](#i-problemi-che-abbiamo-riscontrato)
 2. All'arrivo, i funzionari doganali controlleranno la documentazione del mezzo e [la patente internazionale](/blog/patente-internazionale-guida-completa-requisiti-costi) e ti rilasceranno il TIP.
 
 L'intera procedura nel nostro caso, comprensiva dei controlli passaporti, controllo quarantena animale, disinfezione delle ruote e ispezione del mezzo **è durata 2 ore.**
+
+> Aggiornamento 05/2026: Attualmente si può entrare e uscire dal Giappone tramite TIP solo dal porto di Hakata. 
 
 ## I problemi che abbiamo riscontrato
 
