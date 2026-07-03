@@ -23,6 +23,7 @@ AUTHOR WEBSITE: https://gethugothemes.com
 
 <body style="padding: 0px, 0px, 0px, 0px !important;">
 
+	{{ partial "banner.html" . }}
 	{{ partial "preloader.html" . }}
 	<!-- cache partial only in production -->
 	{{ if hugo.IsProduction }}

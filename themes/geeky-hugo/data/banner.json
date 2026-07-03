@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "scope": "all",
+  "position": "top",
+  "bg_color": "#15817f",
+  "text_color": "#ffffff",
+  "image": "",
+  "text": "Scrivi qui il testo dell'annuncio."
+}

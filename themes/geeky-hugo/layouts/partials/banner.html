@@ -1,0 +1,164 @@
+<!-- Banner Promozionale Libro -->
+<div id="book-promo-banner" class="book-banner-hidden">
+  <div class="book-banner-container">
+    
+    <!-- Pulsante per chiudere il banner -->
+    <button class="book-banner-close" onclick="closeBookBanner()">&times;</button>
+    
+    <!-- Copertina del Libro -->
+    <div class="book-banner-image">
+      <img src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1783035345/asset/verso-lisola-che-ce_wzjhfb.jpg" alt="Copertina del Libro">
+    </div>
+    
+    <!-- Testo e Bottone di Call to Action -->
+    <div class="book-banner-content">
+      <span class="book-banner-badge">🎉 NUOVA USCITA</span>
+      <h3>È uscito il nostro nuovo libro!</h3>
+      <a href="https://amzn.to/4fhGbAY" target="_blank" class="book-banner-btn" Style="color: white;">Acquistalo ora</a>
+    </div>
+
+  </div>
+</div>
+
+<!-- 🎨 Stile CSS del Banner -->
+<style>
+  #book-promo-banner {
+    position: fixed;
+    bottom: -300px; /* Nasconde il banner sotto lo schermo all'inizio */
+    left: 0;
+    width: 100%;
+    background: #ffffff;
+    box-shadow: 0 -5px 25px rgba(0, 0, 0, 0.15);
+    z-index: 99999;
+    transition: bottom 0.6s cubic-bezier(0.25, 1, 0.5, 1); /* Animazione fluida che sale */
+    font-family: system-ui, -apple-system, sans-serif;
+  }
+
+  /* Stato attivo: fa salire il banner */
+  #book-promo-banner.book-banner-visible {
+    bottom: 0;
+  }
+
+  .book-banner-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    position: relative;
+  }
+
+  .book-banner-image img {
+    height: 120px;
+    width: auto;
+    border-radius: 4px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    display: block;
+  }
+
+  .book-banner-content {
+    flex: 1;
+  }
+
+  .book-banner-badge {
+    background: #ff4757;
+    color: white;
+    font-size: 0.75rem;
+    font-weight: bold;
+    padding: 3px 8px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-bottom: 5px;
+  }
+
+  .book-banner-content h3 {
+    margin: 0 0 5px 0;
+    color: #2f3542;
+    font-size: 1.2rem;
+  }
+
+  .book-banner-content p {
+    margin: 0 15px 0 0;
+    color: #57606f;
+    font-size: 0.95rem;
+    display: inline-block;
+  }
+
+  .book-banner-btn {
+    background: #15817f;
+    color: white;
+    text-decoration: none;
+    padding: 8px 18px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    display: inline-block;
+    transition: background 0.2s;
+  }
+
+  .book-banner-btn:hover {
+    background: #15817f;
+  }
+
+  .a:hover {
+        color: white !important;
+  }
+
+  .book-banner-close {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    background: none;
+    border: none;
+    font-size: 24px;
+    color: #a4b0be;
+    cursor: pointer;
+  }
+
+  /* Ottimizzazione per Smartphone: immagine a sinistra, testo a destra */
+  @media (max-width: 600px) {
+    .book-banner-container {
+      flex-direction: row;
+      align-items: center;
+      text-align: left;
+      padding: 30px 15px 20px 15px;
+      gap: 15px;
+    }
+    .book-banner-image img {
+      height: 80px;
+    }
+    .book-banner-content h3 {
+      font-size: 1rem;
+    }
+    .book-banner-content p {
+      margin: 0 0 8px 0;
+      display: block;
+      font-size: 0.85rem;
+    }
+    .book-banner-btn {
+      padding: 6px 14px;
+      font-size: 0.85rem;
+    }
+  }
+</style>
+
+<!-- 🧠 Logica JavaScript per il Controllo -->
+<script>
+  // Mostra il banner dopo 2 secondi dal caricamento della pagina
+  window.addEventListener('DOMContentLoaded', () => {
+    // Controlla se l'utente ha già chiuso il banner in precedenza
+    if (!localStorage.getItem('bookBannerClosed')) {
+      setTimeout(() => {
+        document.getElementById('book-promo-banner').classList.add('book-banner-visible');
+      }, 1000); // 2000 millisecondi = 2 secondi
+    }
+  });
+
+  // Funzione per chiudere il banner
+  function closeBookBanner() {
+    document.getElementById('book-promo-banner').classList.remove('book-banner-visible');
+    // Ricorda la scelta dell'utente per evitare di stressarlo ad ogni cambio pagina
+    localStorage.setItem('bookBannerClosed', 'true');
+  }
+</script>
