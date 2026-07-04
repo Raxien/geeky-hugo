@@ -1,7 +1,7 @@
 <div id="consent-notice"><span>Vorremmo usare del <a class="manage-consent" href="#manage-consent">codici di terze parti</a> per migliorare le funzionalità del sito.</span><button class="btn manage-consent">Gestisci preferenze</button><button class="btn deny-consent">Nega</button><button class="btn btn-primary deny-consent">Accetta</button></div>
 <div id="consent-overlay">
   <div>
-      {{ range $index, $item := .Site.Data.consent.items }}
+      {{ range $index, $item := hugo.Data.consent.items }}
           <div>
               <label for="item{{ $index }}" style="margin-left: 10px">
                   <h3 class="cookieTitle">{{ $item.title }}</h3>
@@ -15,14 +15,14 @@
           </div>
       {{ end }}
       <div>
-          <button id="save-consent" class="btn save-consent" data-consentvalue="{{ range $index, $item := .Site.Data.consent.items }}{{ if $item.is_functional}}{{ else }}0{{ end }}{{ end }}">Salva preferenze</button>
+          <button id="save-consent" class="btn save-consent" data-consentvalue="{{ range $index, $item := hugo.Data.consent.items }}{{ if $item.is_functional}}{{ else }}0{{ end }}{{ end }}">Salva preferenze</button>
           <button class="btn btn-primary approve-consent">Accetta tutti</button>
       </div>
   </div>
 </div>
 <script>
 
-  const scripts = [];{{ range $index, $item := (where .Site.Data.consent.items "is_functional" false) }}
+  const scripts = [];{{ range $index, $item := (where hugo.Data.consent.items "is_functional" false) }}
   scripts[{{ $index }}] = "/js/{{ $item.script_file }}";{{ end }}
 
   function createCookie(name,value,days) {
