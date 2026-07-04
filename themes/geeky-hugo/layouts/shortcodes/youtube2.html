@@ -63,6 +63,24 @@
 </figure>
 {{ end }}
 
+{{ if not $isPlaylist }}
+{{ $page := .Page }}
+{{ $videoName := $title }}
+{{ if not $videoName }}{{ $videoName = $page.Title }}{{ end }}
+{{ $videoDescription := $page.Description }}
+{{ if not $videoDescription }}{{ $videoDescription = $videoName }}{{ end }}
+{{ $videoSchema := dict
+  "@context" "https://schema.org"
+  "@type" "VideoObject"
+  "name" $videoName
+  "description" $videoDescription
+  "thumbnailUrl" (slice (printf "https://img.youtube.com/vi/%s/hqdefault.jpg" $videoID))
+  "uploadDate" ($page.Date.Format "2006-01-02")
+  "embedUrl" (printf "https://www.youtube-nocookie.com/embed/%s" $videoID)
+}}
+<script type="application/ld+json">{{ $videoSchema | jsonify | safeJS }}</script>
+{{ end }}
+
 <script>
   // Inizializza il video YouTube con i parametri di Hugo
   document.addEventListener('DOMContentLoaded', function() {
