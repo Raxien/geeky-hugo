@@ -14,4 +14,4 @@ Disallow: /categories/
 Disallow: /about/
 Disallow: /press/
 
-Sitemap: https://vandipety.it/sitemap_correct.xml
+Sitemap: https://www.vandipety.it/sitemap.xml
