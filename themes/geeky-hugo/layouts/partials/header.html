@@ -53,7 +53,7 @@
                         {{ $continentChildren := len .Children }}
                         {{ if and (eq .Name "Europa") (gt $continentChildren 8) }}
                         <!-- Europa con più di 8 paesi: usa due colonne -->
-                        <div class="col-md-4">
+                        <div class="col-md-3">
                           <div class="dropdown-header fw-bold text-primary">{{ .Name }}</div>
                           <div class="row">
                             <div class="col-6">
@@ -78,7 +78,7 @@
                         </div>
                         {{ else }}
                         <!-- Altri continenti: colonna singola -->
-                        <div class="col-md-4">
+                        <div class="col-md-3">
                           <div class="dropdown-header fw-bold text-primary">{{ .Name }}</div>
                           {{ range .Children }}
                           {{ $childURL := .URL | absLangURL }}

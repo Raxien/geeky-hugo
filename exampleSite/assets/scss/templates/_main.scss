@@ -2599,10 +2599,10 @@ body.offcanvas-open {
     margin: 0;
   }
   
-  .col-md-4 {
+  .col-md-3 {
     padding: 0 1rem;
     border-right: 1px solid #e9ecef;
-    
+
     &:last-child {
       border-right: none;
     }
@@ -2642,11 +2642,11 @@ body.offcanvas-open {
       flex-direction: column;
     }
     
-    .col-md-4 {
+    .col-md-3 {
       border-right: none;
       border-bottom: 1px solid #e9ecef;
       padding: 0.5rem 0;
-      
+
       &:last-child {
         border-bottom: none;
       }

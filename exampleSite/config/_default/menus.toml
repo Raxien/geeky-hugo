@@ -209,6 +209,19 @@ hasChildren = true
     url = "search/?s=Senegal"
     weight = 3
 
+  [[main]]
+  parent = "Destinazioni"
+  name = "America"
+  url = "#"
+  weight = 4
+  hasChildren = true
+
+    [[main]]
+    parent = "America"
+    name = "Canada"
+    url = "search/?s=Canada"
+    weight = 1
+
 # [[main]]
 # name = "Diamo i numeri"
 # url = "#"
@@ -468,3 +481,15 @@ hasChildren = true
   name = "Senegal"
   url = "search/?s=Senegal"
   weight = 3
+
+[[footerdestinations]]
+name = "America"
+url = "#"
+weight = 4
+hasChildren = true
+
+  [[footerdestinations]]
+  parent = "Canada"
+  name = "Canada"
+  url = "search/?s=Canada"
+  weight = 1
