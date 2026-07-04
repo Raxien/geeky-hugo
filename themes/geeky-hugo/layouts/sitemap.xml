@@ -1,6 +1,7 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   {{ range .Data.Pages }}{{ if and (ne .Kind "section") (ne .Params.sitemap_ignore true) (not (hasPrefix .RelPermalink "/categories/")) (ne .RelPermalink "/") }}
   <url>
     <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}
@@ -17,6 +18,19 @@
                 hreflang="{{ .Language.Lang }}"
                 href="{{ .Permalink }}"
                 />{{ end }}
+    {{ $page := . }}
+    {{ $videoIDs := findRE `data-video-id="[a-zA-Z0-9_-]+"` .Content }}
+    {{ range $videoIDs }}
+    {{ $videoID := strings.TrimSuffix `"` (strings.TrimPrefix `data-video-id="` .) }}
+    {{ if not (hasPrefix $videoID "PL") }}
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/{{ $videoID }}/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>{{ $page.Title }}</video:title>
+      <video:description>{{ with $page.Description }}{{ . }}{{ else }}{{ $page.Title }}{{ end }}</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/{{ $videoID }}</video:player_loc>
+    </video:video>
+    {{ end }}
+    {{ end }}
   </url>
   {{ end }}{{ end }}
 </urlset>
