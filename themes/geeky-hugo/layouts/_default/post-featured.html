@@ -5,11 +5,17 @@
   <div class="mb-4 position-relative">
     <!-- image CDN -->
     {{ if hasPrefix $imagePath "http" }}
+    {{ $cloudBase := replaceRE `,?w_[0-9]+` "" $imagePath }}
+    {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
+    {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_400,c_limit" }}
+    {{ $img650 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_650,c_limit" }}
+    {{ $img1300 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_1300,c_limit" }}
     <a href="{{.RelPermalink}}" class="d-block" style="overflow: hidden;">
       <div class="image-container" style="width: 100%; height: 300px; position: relative; @media (max-width: 767px) { height: 200px; }">
-        <img loading="eager" decoding="async" 
-          src="{{ $imagePath | safeURL }}" 
-          srcset="{{ $imagePath | safeURL }} 1x, {{ $imagePath | safeURL }} 2x"
+        <img loading="eager" decoding="async"
+          src="{{ $img650 | safeURL }}"
+          srcset="{{ $img400 | safeURL }} 400w, {{ $img650 | safeURL }} 650w, {{ $img1300 | safeURL }} 1300w"
+          sizes="(max-width: 767px) 100vw, 650px"
           alt="{{ .Title }}"
           class="img-fluid post-featured-image"
           fetchpriority="high">
