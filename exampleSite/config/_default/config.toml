@@ -25,7 +25,7 @@ delimiter = ""
 suffixes = [""]
 [module.hugoVersion]
 extended = true
-min = "0.145.0"
+min = "0.163.3"
 [outputFormats.HTML]
   mediaType = "text/html"
   isHTML = true
