@@ -20,8 +20,6 @@
 <meta name="msvalidate.01" content="AA5AD9A294B927E40422220E351666C2" />
 <meta name="p:domain_verify" content="9bb6ced0805bf9c7edbd4a6ca2077f43"/>
 <meta name="google-adsense-account" content="ca-pub-7348628013126614">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7348628013126614"
-     crossorigin="anonymous"></script>
 <!-- Trusted Types Policy -->
 <meta http-equiv="Content-Security-Policy" content="require-trusted-types-for 'script'">
 <script>
@@ -34,38 +32,42 @@
 		}
 </script>
 
-<!-- Google tag (gtag.js) -->
- {{ if hugo.IsProduction }}
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-E9L2CG2NZ6"></script>
+<!-- AdSense + Google tag (gtag.js): caricamento differito al primo interazione utente per ridurre il main-thread work iniziale -->
+{{ if hugo.IsProduction }}
 <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-E9L2CG2NZ6', {
-        'anonymize_ip': true,
-        'allow_google_signals': true,
-        'allow_ad_personalization_signals': true
-    });
-</script>
- <!-- 
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  (function(){
-    var gtmScript = document.createElement('script');
-    gtmScript.async = true;
-    gtmScript.src = "https://www.googletagmanager.com/gtag/js?id=G-E9L2CG2NZ6";
-    document.head.appendChild(gtmScript);
-    gtmScript.onload = function() {
+  (function() {
+    var loaded = false;
+    function loadDeferredScripts() {
+      if (loaded) return;
+      loaded = true;
+
+      var ads = document.createElement('script');
+      ads.async = true;
+      ads.crossOrigin = 'anonymous';
+      ads.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7348628013126614';
+      document.head.appendChild(ads);
+
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function () { dataLayer.push(arguments); };
       gtag('js', new Date());
       gtag('config', 'G-E9L2CG2NZ6', {
         'anonymize_ip': true,
         'allow_google_signals': true,
         'allow_ad_personalization_signals': true
       });
+
+      var gtagScript = document.createElement('script');
+      gtagScript.async = true;
+      gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-E9L2CG2NZ6';
+      document.head.appendChild(gtagScript);
     }
+
+    ['scroll', 'mousemove', 'touchstart', 'keydown', 'click'].forEach(function (evt) {
+      window.addEventListener(evt, loadDeferredScripts, { passive: true, once: true });
+    });
+    setTimeout(loadDeferredScripts, 3500);
   })();
-</script> -->
+</script>
 {{ end }}
 
 
