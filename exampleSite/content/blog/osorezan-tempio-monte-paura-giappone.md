@@ -7,7 +7,7 @@ categories: ["Giappone", "Spiritualità", "Templi", "Viaggio Avventura"]
 continent: Asia
 country: Giappone
 type: featured
-draft: false
+draft: true
 ---
 
 Nel cuore dell'estremo nord dell'isola di Honshu, nella prefettura di Aomori, si trova uno dei siti più enigmatici e spirituali del Giappone: il **Monte Osore** (Osorezan, 恐山), letteralmente "la Montagna della Paura".
