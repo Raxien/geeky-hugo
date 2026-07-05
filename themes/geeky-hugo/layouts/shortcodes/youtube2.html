@@ -75,7 +75,7 @@
   "name" $videoName
   "description" $videoDescription
   "thumbnailUrl" (slice (printf "https://img.youtube.com/vi/%s/hqdefault.jpg" $videoID))
-  "uploadDate" ($page.Date.Format "2006-01-02")
+  "uploadDate" ($page.Date.Format "2006-01-02T15:04:05-07:00")
   "embedUrl" (printf "https://www.youtube-nocookie.com/embed/%s" $videoID)
 }}
 <script type="application/ld+json">{{ $videoSchema | jsonify | safeJS }}</script>
