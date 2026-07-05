@@ -31,10 +31,10 @@
         {{ $imagePath := .Params.image }}
         {{ if $imagePath }}
           {{ if hasPrefix $imagePath "http" }}
-            <img loading="lazy" decoding="async" 
-              src="{{ $imagePath | safeURL }}" 
+            <img loading="lazy" decoding="async"
+              src="{{ replaceRE `upload/(f_auto[^/]*/)?` `upload/f_auto,q_auto,c_fill,g_auto,w_100,h_100/` $imagePath | safeURL }}"
               alt="{{ .Title }}"
-              sizes="60px"
+              width="100" height="100"
               class="img-fluid">
           {{ else }}
             {{ if fileExists (add `assets/` $imagePath) }}
