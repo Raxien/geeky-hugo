@@ -25,13 +25,14 @@
                   {{ if hasPrefix $imagePath "http" }}
                   {{ $cloudBase := replaceRE `,?w_[0-9]+` "" $imagePath }}
                   {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
+                  {{ $cloudBase = replace $cloudBase " " "%20" }}
                   {{ $img110 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_110,c_limit" }}
                   {{ $img220 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_220,c_limit" }}
                   <a href="{{.RelPermalink}}" class="d-block featured-image-container">
                     <div class="image-container">
                       <img decoding="async"
                         src="{{ $img110 | safeURL }}"
-                        srcset="{{ $img110 | safeURL }} 110w, {{ $img220 | safeURL }} 220w"
+                        {{ printf `srcset="%s 110w, %s 220w"` $img110 $img220 | safeHTMLAttr }}
                         sizes="105px"
                         alt="{{ .Title }}"
                         class="img-fluid rounded-4 post-featured-image">
@@ -140,6 +141,7 @@
               {{ if hasPrefix $imagePath "http" }}
               {{ $cloudBase := replaceRE `,?w_[0-9]+` "" $imagePath }}
               {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
+                  {{ $cloudBase = replace $cloudBase " " "%20" }}
               {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_400,c_limit" }}
               {{ $img600 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_600,c_limit" }}
               {{ $img1200 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_1200,c_limit" }}
@@ -147,7 +149,7 @@
                 <div class="image-container">
                   <img decoding="async"
                     src="{{ $img600 | safeURL }}"
-                    srcset="{{ $img400 | safeURL }} 400w, {{ $img600 | safeURL }} 600w, {{ $img1200 | safeURL }} 1200w"
+                    {{ printf `srcset="%s 400w, %s 600w, %s 1200w"` $img400 $img600 $img1200 | safeHTMLAttr }}
                     sizes="(max-width: 600px) 100vw, 600px"
                     alt="{{ .Title }}"
                     fetchpriority="high"
@@ -219,13 +221,14 @@
                     {{ if hasPrefix $imagePath "http" }}
                     {{ $cloudBase := replaceRE `,?w_[0-9]+` "" $imagePath }}
                     {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
+                  {{ $cloudBase = replace $cloudBase " " "%20" }}
                     {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_400,c_limit" }}
                     {{ $img800 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_800,c_limit" }}
                     <a href="{{.RelPermalink}}" class="d-block">
                       <div class="image-container">
                         <img decoding="async"
                           src="{{ $img400 | safeURL }}"
-                          srcset="{{ $img400 | safeURL }} 400w, {{ $img800 | safeURL }} 800w"
+                          {{ printf `srcset="%s 400w, %s 800w"` $img400 $img800 | safeHTMLAttr }}
                           sizes="(max-width: 600px) 100vw, 400px"
                           alt="{{ .Title }}"
                           loading="lazy"
