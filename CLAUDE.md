@@ -19,7 +19,7 @@ This is **Vandipety**, a Hugo-based travel blog built with the Geeky Hugo theme.
 ```bash
 # From the exampleSite directory (production site)
 cd exampleSite
-hugo server --disableFastRender --themesDir ../themes --theme geeky-hugo --gc
+hugo server --baseURL http://localhost:1313/ --disableFastRender --themesDir ../themes --theme geeky-hugo --gc
 ```
 
 ### Build
