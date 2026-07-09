@@ -2480,7 +2480,9 @@ document.addEventListener('DOMContentLoaded', function() {
 async function getFirstPublicVideoThumbnail(playlistId, apiKey, facade) {
   try {
     // Controlla se l'immagine è già in cache
-    const cacheKey = `yt_thumbnail_${playlistId}`;
+    // v2: la chiave include una versione per invalidare le vecchie voci che puntavano
+    // direttamente a img.youtube.com invece che al proxy /yt-thumb/ con cache lunga
+    const cacheKey = `yt_thumbnail_v2_${playlistId}`;
     const cachedData = localStorage.getItem(cacheKey);
     
     if (cachedData) {
@@ -2504,7 +2506,7 @@ async function getFirstPublicVideoThumbnail(playlistId, apiKey, facade) {
       
       if (publicVideo) {
         const videoId = publicVideo.snippet.resourceId.videoId;
-        const thumbnailUrl = `https://img.youtube.com/vi_webp/${videoId}/maxresdefault.webp`;
+        const thumbnailUrl = `/yt-thumb/maxresdefault/${videoId}`;
         const fallbackUrl = `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`;
         
         // Salva in cache

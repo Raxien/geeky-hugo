@@ -51,7 +51,7 @@
 
             if (publicVideo) {
               const videoId = publicVideo.snippet.resourceId.videoId;
-              const thumbnailUrl = `https://img.youtube.com/vi_webp/${videoId}/sddefault.webp`;
+              const thumbnailUrl = `/yt-thumb/sddefault/${videoId}`;
               const fallbackUrl = `https://img.youtube.com/vi/${videoId}/sddefault.jpg`;
 
               const img = new Image();
