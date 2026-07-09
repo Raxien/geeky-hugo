@@ -2602,18 +2602,32 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 //=================== youtube video script end ===================
 
-// Rimuovi iframe pubblicitari
+// Rimuovi iframe pubblicitari (MutationObserver invece di polling ogni 300ms: reagisce solo
+// quando un iframe viene davvero aggiunto, invece di riscansionare il DOM per sempre)
 document.addEventListener('DOMContentLoaded', function() {
-  setInterval(function() {
-      document.querySelectorAll('iframe').forEach(function(iframe) {
-          let src = iframe.getAttribute('src');
-          let id = iframe.getAttribute('id');
-          if ((src && src.match(/(ads-iframe)|(disqusads)/gi)) || 
-              (id && (id === 'indicator-north' || id === 'indicator-south'))) {
-              iframe.remove();
-          }
+  function removeIfAdIframe(iframe) {
+      let src = iframe.getAttribute('src');
+      let id = iframe.getAttribute('id');
+      if ((src && src.match(/(ads-iframe)|(disqusads)/gi)) ||
+          (id && (id === 'indicator-north' || id === 'indicator-south'))) {
+          iframe.remove();
+      }
+  }
+
+  document.querySelectorAll('iframe').forEach(removeIfAdIframe);
+
+  new MutationObserver(function(mutations) {
+      mutations.forEach(function(mutation) {
+          mutation.addedNodes.forEach(function(node) {
+              if (node.nodeType !== 1) return;
+              if (node.tagName === 'IFRAME') {
+                  removeIfAdIframe(node);
+              } else if (node.querySelectorAll) {
+                  node.querySelectorAll('iframe').forEach(removeIfAdIframe);
+              }
+          });
       });
-  }, 300);
+  }).observe(document.body, { childList: true, subtree: true });
 });
 
 // Gestione del menu mobile

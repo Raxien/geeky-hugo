@@ -24,16 +24,11 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Carica i banner quando il documento è pronto
-    let checkAdsScript;
     if (document.querySelector('script[data-loaded="true"]')) {
         loadVisibleAds();
     } else {
-        // Se lo script di Google Ads non è ancora caricato, aspetta
-        checkAdsScript = setInterval(() => {
-            if (document.querySelector('script[data-loaded="true"]')) {
-                clearInterval(checkAdsScript);
-                loadVisibleAds();
-            }
-        }, 100);
+        // Lo script di Google Ads viene caricato in modo differito (vedi head.html): invece di
+        // fare polling, aspettiamo l'evento emesso al suo caricamento
+        window.addEventListener('adsbygoogle-ready', loadVisibleAds, { once: true });
     }
 }); 

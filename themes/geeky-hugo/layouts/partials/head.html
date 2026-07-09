@@ -45,6 +45,10 @@
       ads.async = true;
       ads.crossOrigin = 'anonymous';
       ads.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7348628013126614';
+      ads.onload = function() {
+        ads.setAttribute('data-loaded', 'true');
+        window.dispatchEvent(new Event('adsbygoogle-ready'));
+      };
       document.head.appendChild(ads);
 
       window.dataLayer = window.dataLayer || [];
