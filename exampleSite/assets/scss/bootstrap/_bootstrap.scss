@@ -28,8 +28,8 @@
 @import "nav";
 @import "navbar";
 @import "card";
-@import "accordion";
-@import "breadcrumb";
+// @import "accordion"; // non usato: nessun markup .accordion nel tema
+// @import "breadcrumb"; // non usato: nessun markup .breadcrumb nel tema
 @import "pagination";
 // @import "badge";
 // @import "alert";
@@ -37,7 +37,7 @@
 // @import "list-group";
 // @import "close";
 // @import "toasts";
-@import "modal";
+// @import "modal"; // .modal è già interamente ristilizzato in templates/_main.scss (markup custom, non usa il JS Modal di Bootstrap)
 // @import "tooltip";
 // @import "popover";
 // @import "carousel";

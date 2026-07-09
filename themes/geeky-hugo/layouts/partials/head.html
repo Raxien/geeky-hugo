@@ -73,7 +73,7 @@
 
 
 <!-- base url -->
-{{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://localhost:1313/") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://examplesite.com/")}}{{else}}
+{{ if or (eq site.BaseURL "/") (hasPrefix site.BaseURL "http://localhost") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://examplesite.com/")}}{{else}}
 <base href="{{ site.BaseURL }}">
 {{ end }}
 
@@ -217,12 +217,10 @@
 <link rel="preload" as="font" type="font/woff2" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-solid-900.woff2" crossorigin="anonymous" media="print" onload="this.media='all'">
 <link rel="preload" as="font" type="font/woff2" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.woff2" crossorigin="anonymous" media="print" onload="this.media='all'">
 
-<!-- Font Awesome CSS da CDN con lazy loading -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/fontawesome.min.css" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/brands.min.css" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/solid.min.css" media="print" onload="this.media='all'">
+<!-- Font Awesome: subset locale con solo le icone usate dal sito (invece dei 3 fogli CDN completi) -->
+<link rel="stylesheet" href="{{ `plugins/font-awesome/fontawesome-subset.min.css` | relURL }}" media="print" onload="this.media='all'">
 <noscript>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="{{ `plugins/font-awesome/fontawesome-subset.min.css` | relURL }}">
 </noscript>
 
 <!-- Fallback Unicode minimal solo se Font Awesome fallisce completamente -->
