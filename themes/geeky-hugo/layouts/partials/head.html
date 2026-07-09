@@ -217,15 +217,12 @@
 <link rel="dns-prefetch" href="https://platform.linkedin.com">
 <link rel="dns-prefetch" href="https://platform.twitter.com">
 
-<!-- Preload font woff2 critici solo quando necessario -->
-<link rel="preload" as="font" type="font/woff2" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-solid-900.woff2" crossorigin="anonymous" media="print" onload="this.media='all'">
-<link rel="preload" as="font" type="font/woff2" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.woff2" crossorigin="anonymous" media="print" onload="this.media='all'">
+<!-- Preload font woff2 critici -->
+<link rel="preload" as="font" type="font/woff2" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-solid-900.woff2" crossorigin="anonymous">
+<link rel="preload" as="font" type="font/woff2" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.woff2" crossorigin="anonymous">
 
 <!-- Font Awesome: subset locale con solo le icone usate dal sito (invece dei 3 fogli CDN completi) -->
-<link rel="stylesheet" href="{{ `plugins/font-awesome/fontawesome-subset.min.css` | relURL }}" media="print" onload="this.media='all'">
-<noscript>
-  <link rel="stylesheet" href="{{ `plugins/font-awesome/fontawesome-subset.min.css` | relURL }}">
-</noscript>
+<link rel="stylesheet" href="{{ `plugins/font-awesome/fontawesome-subset.min.css` | relURL }}">
 
 <!-- Fallback Unicode minimal solo se Font Awesome fallisce completamente -->
 <style>
