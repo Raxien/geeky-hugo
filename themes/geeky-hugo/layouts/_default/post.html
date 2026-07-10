@@ -8,9 +8,9 @@
     {{ $cloudBase := replaceRE `,?w_[0-9]+` "" $imagePath }}
     {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
     {{ $cloudBase = replace $cloudBase " " "%20" }}
-    {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_400,c_limit" }}
-    {{ $img650 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_650,c_limit" }}
-    {{ $img800 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_800,c_limit" }}
+    {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_400,c_limit" }}
+    {{ $img650 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_650,c_limit" }}
+    {{ $img800 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_800,c_limit" }}
     <a href="{{.RelPermalink}}" class="d-block rounded-4" style="overflow: hidden;">
       <div class="image-container" style="width: 100%; height: 200px; position: relative;">
         <img loading="lazy" decoding="async"

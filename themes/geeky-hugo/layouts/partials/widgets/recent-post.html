@@ -17,7 +17,7 @@
           {{ if $imagePath }}
           <!-- image CDN -->
           {{ if hasPrefix $imagePath "http" }}
-          <img loading="lazy" decoding="async" src="{{ replaceRE `upload/(f_auto[^/]*/)?` `upload/f_auto,q_auto,c_fill,g_auto,w_80,h_80/` $imagePath | safeURL }}" alt="{{ .Title }}"
+          <img loading="lazy" decoding="async" src="{{ replaceRE `upload/(f_auto[^/]*/)?` `upload/f_auto,q_auto:eco,c_fill,g_auto,w_80,h_80/` $imagePath | safeURL }}" alt="{{ .Title }}"
             class="img-fluid rounded-circle mb-3 mb-sm-0 featured-widget-img" width="80" height="80">
           {{ else }}
           <!-- /image cdn -->
@@ -111,7 +111,7 @@
           {{ if $imagePath }}
           <!-- image CDN -->
           {{ if hasPrefix $imagePath "http" }}
-          <img loading="lazy" decoding="async" src="{{ replaceRE `upload/(f_auto[^/]*/)?` `upload/f_auto,q_auto,c_fill,g_auto,w_80,h_80/` $imagePath | safeURL }}" alt="{{ .Title }}"
+          <img loading="lazy" decoding="async" src="{{ replaceRE `upload/(f_auto[^/]*/)?` `upload/f_auto,q_auto:eco,c_fill,g_auto,w_80,h_80/` $imagePath | safeURL }}" alt="{{ .Title }}"
             class="img-fluid rounded-circle mb-3 mb-sm-0 featured-widget-img" width="80" height="80">
           {{ else }}
           <!-- /image cdn -->

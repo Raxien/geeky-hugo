@@ -10,8 +10,8 @@
       {{ range $guides }}
       {{ $cloudBase := replaceRE `,?w_[0-9]+` "" .image }}
       {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
-      {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_400,c_limit" }}
-      {{ $img800 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_800,c_limit" }}
+      {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_400,c_limit" }}
+      {{ $img800 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_800,c_limit" }}
       <div class="guide-slide">
         <div class="image-container">
           <img

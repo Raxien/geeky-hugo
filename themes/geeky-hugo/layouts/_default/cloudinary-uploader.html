@@ -364,7 +364,7 @@
             const format = data.format;
 
             // Costruisci l'URL con le trasformazioni
-            return `https://res.cloudinary.com/${cloudName}/image/upload/f_auto,q_auto,w_800,dpr_auto/v${version}/${uploadedPublicId}.${format}`;
+            return `https://res.cloudinary.com/${cloudName}/image/upload/f_auto,q_auto:eco,w_800,dpr_auto/v${version}/${uploadedPublicId}.${format}`;
         }
 
         function generateShortcode(urls, type) {

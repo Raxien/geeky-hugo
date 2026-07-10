@@ -26,8 +26,8 @@
                   {{ $cloudBase := replaceRE `,?w_[0-9]+` "" $imagePath }}
                   {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
                   {{ $cloudBase = replace $cloudBase " " "%20" }}
-                  {{ $img110 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_110,c_limit" }}
-                  {{ $img220 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_220,c_limit" }}
+                  {{ $img110 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_110,c_limit" }}
+                  {{ $img220 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_220,c_limit" }}
                   <a href="{{.RelPermalink}}" class="d-block featured-image-container">
                     <div class="image-container">
                       <img decoding="async"
@@ -142,9 +142,9 @@
               {{ $cloudBase := replaceRE `,?w_[0-9]+` "" $imagePath }}
               {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
                   {{ $cloudBase = replace $cloudBase " " "%20" }}
-              {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_400,c_limit" }}
-              {{ $img600 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_600,c_limit" }}
-              {{ $img1200 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_1200,c_limit" }}
+              {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_400,c_limit" }}
+              {{ $img600 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_600,c_limit" }}
+              {{ $img1200 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_1200,c_limit" }}
               <a href="{{.RelPermalink}}" class="d-block featured-image-container">
                 <div class="image-container">
                   <img decoding="async"
@@ -222,8 +222,8 @@
                     {{ $cloudBase := replaceRE `,?w_[0-9]+` "" $imagePath }}
                     {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
                   {{ $cloudBase = replace $cloudBase " " "%20" }}
-                    {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_400,c_limit" }}
-                    {{ $img800 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto,w_800,c_limit" }}
+                    {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_400,c_limit" }}
+                    {{ $img800 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_800,c_limit" }}
                     <a href="{{.RelPermalink}}" class="d-block">
                       <div class="image-container">
                         <img decoding="async"
