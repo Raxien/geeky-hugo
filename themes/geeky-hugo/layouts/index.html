@@ -229,7 +229,7 @@
                         <img decoding="async"
                           src="{{ $img400 | safeURL }}"
                           {{ printf `srcset="%s 400w, %s 800w"` $img400 $img800 | safeHTMLAttr }}
-                          sizes="(max-width: 600px) 100vw, 400px"
+                          sizes="(max-width: 440px) 220px, 250px"
                           alt="{{ .Title }}"
                           loading="lazy"
                           class="img-fluid rounded-4">
@@ -246,8 +246,8 @@
                         <img decoding="async" 
                           src="{{$imageWebp.RelPermalink}}" 
                           srcset="{{$imageWebp.RelPermalink}} 1x, {{$imageWebp.RelPermalink}} 2x"
-                          sizes="(max-width: 600px) 100vw, 600px"
-                          alt="{{ .Title }}" 
+                          sizes="(max-width: 440px) 220px, 250px"
+                          alt="{{ .Title }}"
                           class="img-fluid rounded-4"
                           width="400"
                           height="150"
