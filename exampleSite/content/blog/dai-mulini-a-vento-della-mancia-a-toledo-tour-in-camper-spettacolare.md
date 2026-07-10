@@ -39,7 +39,7 @@ Prezzo: 4€ a persona pagabili **solo in contante.**
 ### Almagro
 Città famosa per la tradizione teatrale, offre una piazza dall’aspetto molto caratteristico oltre a qualche bottega autentica in cui comprare il tipico formaggio della zona **davvero consigliato!**
 
-> "È il miglior formaggio che abbia mai mangiato in vita mia e ho **90 anni**."
+> È il miglior formaggio che abbia mai mangiato in vita mia e ho **90 anni**.
 
 Dopo aver letto questa recensione su google relativa al negozio {{<extLink "Oro Siglo XVII , Queso de Oveja"  "https://goo.gl/maps/2CmvvttoCrFKvQWXA">}} potevamo non concederci un assaggio? Ovviamente ci siamo fiondati **subito!** e ne siamo rimasti entusiasti.
 

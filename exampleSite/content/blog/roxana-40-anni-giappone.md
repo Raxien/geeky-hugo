@@ -14,7 +14,7 @@ Provate a immaginare di atterrare in Giappone negli anni '80. Senza Google Maps,
 
 Per **Roxana**, arrivata qui quasi quarant'anni fa, quel primo impatto non è stato un ostacolo: è stato una rivelazione.
 
-> "Quando sono arrivata in Giappone mi sono sentita, per la prima volta in vita mia, a casa."
+> Quando sono arrivata in Giappone mi sono sentita, per la prima volta in vita mia, a casa.
 
 Una frase semplice, la sua, che però contiene un ribaltamento radicale: trovare la propria casa nel luogo più lontano da tutto ciò che conosci.
 
@@ -30,13 +30,13 @@ Ha vissuto nel sud, in un'isola remota, dove le signore del villaggio le insegna
 
 In un Giappone molto meno internazionale di oggi, Roxana non si è mai sentita rifiutata.
 
-> "Forse perché prima di tutto ho accettato io loro"
+> Forse perché prima di tutto ho accettato io loro
 
 Non ha cercato di imporre il suo modo, non si è irrigidita davanti alle regole diverse. Ha scelto di essere **"sempre studentessa"**, sempre con un taccuino invisibile in mano.
 
 Eppure non tutto è stato semplice. La discriminazione l'ha toccata da vicino, ma non nei suoi confronti:
 
-> "L'ho vista sulla pelle di mia figlia. Metà italiana, metà giapponese, con i capelli chiari: all'asilo era 'la diversa'. Non per colpa dei bambini, ma per un sistema che non li educava alla diversità."
+> L'ho vista sulla pelle di mia figlia. Metà italiana, metà giapponese, con i capelli chiari: all'asilo era 'la diversa'. Non per colpa dei bambini, ma per un sistema che non li educava alla diversità.
 
 ## Guarda l'intervista completa dedicata a Roxana
 
@@ -50,7 +50,7 @@ Roxana parte allora con sua figlia per l'Hokkaido, per un viaggio senza indicazi
 
 Da quella esperienza nasce un libro: **"Ainu – Le ombre nascoste"**, che racconta le discriminazioni subite da questo popolo, ma anche il viaggio interiore di Roxana come donna, madre e straniera in Giappone.
 
-> "Non l'ho scritto per cercare la perfezione. L'ho scritto perché il messaggio arrivasse. Perché la loro storia non venisse dimenticata."
+> Non l'ho scritto per cercare la perfezione. L'ho scritto perché il messaggio arrivasse. Perché la loro storia non venisse dimenticata.
 
 **Scopri anche la storia degli Ainu, il popolo discriminato del Giappone, protagonista del suo libro "[Ainu: Le ombre nascoste](https://amzn.to/4a8r1MB)"**
 
@@ -62,11 +62,11 @@ Il Giappone di oggi, dice Roxana, è diverso: più globalizzato, più veloce, me
 
 Eppure, secondo lei, sotto la superficie moderna c'è qualcosa che non cambia mai:
 
-> "Quello spiritello da samurai che ognuno porta dentro, quella parte di tradizione che non si cancella."
+> Quello spiritello da samurai che ognuno porta dentro, quella parte di tradizione che non si cancella.
 
 È quella **doppia anima** che l'ha fatta innamorare ed è quello che l'ha tenuta qui per quarant'anni. Roxana parla con serenità, non idealizza il Giappone, non lo difende a spada tratta. Lo osserva, lo vive e lo accetta.
 
-> "Sono io che ho scelto di vivere qui. Se qualcosa non mi va, non posso dare la colpa al Paese. O mi adatto, o torno indietro."
+> Sono io che ho scelto di vivere qui. Se qualcosa non mi va, non posso dare la colpa al Paese. O mi adatto, o torno indietro.
 
 E forse è proprio questa la lezione più grande: **il luogo in cui trovi casa non è quello perfetto, ma quello che accetti nella sua imperfezione.**
 

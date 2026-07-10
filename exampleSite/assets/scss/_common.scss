@@ -464,6 +464,18 @@ select {
         color: $color-primary;
       }
 
+      &::before {
+        content: '\f10d';
+        top: 0;
+        left: -70px;
+      }
+
+      &::after {
+        content: '\f10e';
+        bottom: 0;
+        right: -35px;
+      }
+
       @include tablet {
         font-size: 17px;
         padding-left: 20px !important;
