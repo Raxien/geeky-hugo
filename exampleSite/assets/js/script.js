@@ -18,6 +18,10 @@ function initGuidesSlider() {
   function loadImages() {
     const images = document.querySelectorAll('.slide-image[data-src]');
     images.forEach(img => {
+      if (img.dataset.srcset) {
+        img.srcset = img.dataset.srcset;
+        img.removeAttribute('data-srcset');
+      }
       if (img.dataset.src) {
         img.src = img.dataset.src;
         img.removeAttribute('data-src');
