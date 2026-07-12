@@ -124,6 +124,91 @@
   z-index: 2;
 }
 
+/* Post list card: il badge ora vive dentro .card-body (nel DOM) invece che
+   sull'immagine, per poter finire sotto il testo nel layout compatto mobile.
+   Sul desktop lo si riposiziona sopra l'immagine (alta 200px fissi) usando
+   top+translateY invece di bottom, perché .card-body non è più un discendente
+   del wrapper dell'immagine. */
+.post-list-card .card-badge {
+  top: 184px; // 200px (altezza immagine) - 16px
+  bottom: auto;
+  left: 16px;
+  transform: translateY(-100%);
+}
+
+/* Post list card: layout compatto orizzontale su mobile (immagine a sx, testo a dx) */
+@media (max-width: 767.98px) {
+  .post-list-card {
+    display: grid;
+    grid-template-columns: 110px 1fr;
+    grid-template-areas: "image body";
+    align-items: center;
+    column-gap: 1rem;
+  }
+
+  .post-list-card > .mb-4.position-relative {
+    grid-area: image;
+    margin-bottom: 0 !important;
+  }
+
+  .post-list-card .image-container {
+    width: 110px !important;
+    height: 110px !important;
+  }
+
+  .post-list-card > .card-body {
+    grid-area: body;
+    padding: 0 !important;
+  }
+
+  .post-list-card .card-body h3 {
+    font-size: 0.95rem;
+    margin-bottom: 0.4rem;
+  }
+
+  .post-list-card .card-meta {
+    font-size: 0.75rem;
+    flex-wrap: wrap;
+    row-gap: 0.25rem;
+    margin-bottom: 0.35rem !important;
+  }
+
+  .post-list-card .card-badge {
+    position: static;
+    top: auto;
+    transform: none;
+    margin: 0;
+    overflow: hidden;
+    white-space: nowrap;
+
+    .list-inline-item {
+      white-space: nowrap;
+
+      &:not(:first-child) {
+        display: none;
+      }
+    }
+
+    .badge {
+      max-width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+
+  /* Riduce lo spazio verticale tra una riga e l'altra: il gutter g-5 del
+     row (48px) + il margin-bottom della colonna (24px) sono pensati per
+     le card verticali alte, troppo per righe compatte. */
+  .row.g-5:has(.post-list-card) {
+    --bs-gutter-y: 0.75rem;
+  }
+
+  .col-md-6.mb-4:has(.post-list-card),
+  .col-sm-6.mb-4:has(.post-list-card) {
+    margin-bottom: 0.75rem !important;
+  }
+}
+
 .nav-pills {
   .btn.active {
     background-color: $color-primary;

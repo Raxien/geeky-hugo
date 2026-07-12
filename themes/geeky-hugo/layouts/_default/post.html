@@ -1,4 +1,4 @@
-<div class="card" data-ad-exclude="true">
+<div class="card post-list-card" data-ad-exclude="true">
   <!-- image path -->
   {{ $imagePath:= .Params.image }}
   {{ if $imagePath }}
@@ -16,7 +16,7 @@
         <img loading="lazy" decoding="async"
           src="{{ $img400 | safeURL }}"
           {{ printf `srcset="%s 400w, %s 650w, %s 800w"` $img400 $img650 $img800 | safeHTMLAttr }}
-          sizes="(max-width: 768px) 100vw, 400px"
+          sizes="(max-width: 767px) 110px, 400px"
           alt="{{ .Title }}"
           class="img-fluid rounded-4"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;"
@@ -52,13 +52,6 @@
     {{ end }}
     <!-- /image processing for multiple device -->
     {{ end }}
-    <ul class="list-inline card-badge">
-      {{ range .Params.categories }}
-      <li class="list-inline-item">
-        <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary py-1">{{. | title}}</a>
-      </li>
-      {{ end }}
-    </ul>
   </div>
   {{ else }}
   <div class="mb-4">
@@ -173,6 +166,13 @@
         <span class="d-inline-block d-md-none">{{ $minutes }}m {{ $seconds }}s</span>
         <span class="d-none d-md-inline-block">{{ $minutes }} {{ cond (eq $minutes 1) "minuto" "minuti" }} e
               {{ $seconds }} {{ cond (eq $seconds 1) "secondo" "secondi" }}</span>
+      </li>
+      {{ end }}
+    </ul>
+    <ul class="list-inline card-badge">
+      {{ range .Params.categories }}
+      <li class="list-inline-item">
+        <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary py-1">{{. | title}}</a>
       </li>
       {{ end }}
     </ul>
