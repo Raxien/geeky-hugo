@@ -150,7 +150,7 @@
                   <img decoding="async"
                     src="{{ $img600 | safeURL }}"
                     {{ printf `srcset="%s 400w, %s 600w, %s 1200w"` $img400 $img600 $img1200 | safeHTMLAttr }}
-                    sizes="(max-width: 600px) 100vw, 600px"
+                    sizes="calc(100vw - 72px)"
                     alt="{{ .Title }}"
                     fetchpriority="high"
                     class="img-fluid rounded-4">
@@ -168,8 +168,8 @@
                   <img decoding="async" 
                     src="{{$imageWebp.RelPermalink}}" 
                     srcset="{{$imageWebp.RelPermalink}} 1x, {{$imageWebp.RelPermalink}} 2x"
-                    sizes="(max-width: 600px) 100vw, 600px"
-                    alt="{{ .Title }}" 
+                    sizes="calc(100vw - 72px)"
+                    alt="{{ .Title }}"
                     fetchpriority="high"
                     class="img-fluid rounded-4"
                     onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
