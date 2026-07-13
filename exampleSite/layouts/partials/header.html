@@ -139,21 +139,23 @@
             </ul>
             {{ end }}
 
-            <!-- language switcher: linka alla traduzione della pagina corrente se esiste, altrimenti alla home dell'altra lingua -->
+            <!-- language switcher: badge IT | EN, lingua attiva in grassetto, l'altra linka alla traduzione della pagina corrente se esiste, altrimenti alla home dell'altra lingua -->
             {{ if gt (len hugo.Sites) 1 }}
             <ul class="list-unstyled lang-switch d-none d-lg-flex align-items-center mb-0 ms-3">
-              {{ range hugo.Sites }}
-              {{ $otherSite := . }}
-              {{ if ne $otherSite.Language.Lang $currentPage.Language.Lang }}
-              {{ $href := $otherSite.Home.Permalink }}
-              {{ range $currentPage.AllTranslations }}
-                {{ if eq .Language.Lang $otherSite.Language.Lang }}{{ $href = .Permalink }}{{ end }}
-              {{ end }}
-              <li class="list-inline-item">
-                <a href="{{ $href }}" class="lang-switch-link" hreflang="{{ $otherSite.Language.Lang }}">{{ $otherSite.Language.Label }}</a>
+              <li class="list-inline-item border rounded-pill px-3 py-1">
+                {{ range $i, $otherSite := hugo.Sites }}
+                {{ if gt $i 0 }}<span class="text-muted mx-1" aria-hidden="true">|</span>{{ end }}
+                {{ if eq $otherSite.Language.Lang $currentPage.Language.Lang }}
+                <span class="fw-bold" aria-current="true">{{ upper $otherSite.Language.Lang }}</span>
+                {{ else }}
+                {{ $href := $otherSite.Home.Permalink }}
+                {{ range $currentPage.AllTranslations }}
+                  {{ if eq .Language.Lang $otherSite.Language.Lang }}{{ $href = .Permalink }}{{ end }}
+                {{ end }}
+                <a href="{{ $href }}" class="text-muted text-decoration-none" hreflang="{{ $otherSite.Language.Lang }}">{{ upper $otherSite.Language.Lang }}</a>
+                {{ end }}
+                {{ end }}
               </li>
-              {{ end }}
-              {{ end }}
             </ul>
             {{ end }}
           </div>
@@ -239,18 +241,20 @@
             {{ if gt (len hugo.Sites) 1 }}
             {{ $mobilePage := . }}
             <ul class="list-unstyled lang-switch d-flex mt-3">
-              {{ range hugo.Sites }}
-              {{ $otherSite := . }}
-              {{ if ne $otherSite.Language.Lang $mobilePage.Language.Lang }}
-              {{ $href := $otherSite.Home.Permalink }}
-              {{ range $mobilePage.AllTranslations }}
-                {{ if eq .Language.Lang $otherSite.Language.Lang }}{{ $href = .Permalink }}{{ end }}
-              {{ end }}
-              <li class="list-inline-item me-3">
-                <a href="{{ $href }}" class="lang-switch-link" hreflang="{{ $otherSite.Language.Lang }}">{{ $otherSite.Language.Label }}</a>
+              <li class="list-inline-item border rounded-pill px-3 py-1">
+                {{ range $i, $otherSite := hugo.Sites }}
+                {{ if gt $i 0 }}<span class="text-muted mx-1" aria-hidden="true">|</span>{{ end }}
+                {{ if eq $otherSite.Language.Lang $mobilePage.Language.Lang }}
+                <span class="fw-bold" aria-current="true">{{ upper $otherSite.Language.Lang }}</span>
+                {{ else }}
+                {{ $href := $otherSite.Home.Permalink }}
+                {{ range $mobilePage.AllTranslations }}
+                  {{ if eq .Language.Lang $otherSite.Language.Lang }}{{ $href = .Permalink }}{{ end }}
+                {{ end }}
+                <a href="{{ $href }}" class="text-muted text-decoration-none" hreflang="{{ $otherSite.Language.Lang }}">{{ upper $otherSite.Language.Lang }}</a>
+                {{ end }}
+                {{ end }}
               </li>
-              {{ end }}
-              {{ end }}
             </ul>
             {{ end }}
           </div>
