@@ -29,8 +29,8 @@
 # YouTube (max-age=7200, 2h) senza che le [[headers]] qui sotto possano sovrascriverlo - quella
 # regola si applica solo ai file serviti direttamente da Netlify, non alle risposte di un redirect
 # proxy verso un'origine esterna. La Edge Function fa il fetch esplicitamente e può quindi
-# impostare l'header lei stessa. Pubblicando un video ogni ~3 giorni, max-age=259200 (3 giorni) è
-# un compromesso ragionevole tra freschezza e risparmio di richieste.
+# impostare l'header lei stessa. max-age=604800 (7 giorni): risparmio di richieste privilegiato
+# rispetto alla freschezza, dato che le miniature non cambiano spesso.
 [[edge_functions]]
   path = "/yt-thumb/:size/:id"
   function = "yt-thumb"

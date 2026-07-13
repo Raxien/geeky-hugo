@@ -19,7 +19,7 @@ export default async (request) => {
   }
 
   const headers = new Headers(upstream.headers);
-  headers.set("Cache-Control", "public, max-age=259200");
+  headers.set("Cache-Control", "public, max-age=604800");
 
   return new Response(upstream.body, {
     status: upstream.status,

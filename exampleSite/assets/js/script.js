@@ -2483,10 +2483,15 @@ document.addEventListener('DOMContentLoaded', function() {
 // Funzione per ottenere l'anteprima del primo video pubblico di una playlist
 async function getFirstPublicVideoThumbnail(playlistId, apiKey, facade) {
   try {
+    // Su mobile la facade è piccola: chiediamo una miniatura più leggera
+    // (mqdefault, 320x180) invece del maxresdefault 1280x720 usato su desktop.
+    const thumbSize = window.innerWidth < 768 ? 'mqdefault' : 'maxresdefault';
+
     // Controlla se l'immagine è già in cache
-    // v2: la chiave include una versione per invalidare le vecchie voci che puntavano
-    // direttamente a img.youtube.com invece che al proxy /yt-thumb/ con cache lunga
-    const cacheKey = `yt_thumbnail_v2_${playlistId}`;
+    // v3: la chiave include la dimensione richiesta (varia tra mobile/desktop) oltre
+    // alla versione, per invalidare le vecchie voci che puntavano direttamente a
+    // img.youtube.com invece che al proxy /yt-thumb/ con cache lunga
+    const cacheKey = `yt_thumbnail_v3_${thumbSize}_${playlistId}`;
     const cachedData = localStorage.getItem(cacheKey);
     
     if (cachedData) {
@@ -2510,8 +2515,8 @@ async function getFirstPublicVideoThumbnail(playlistId, apiKey, facade) {
       
       if (publicVideo) {
         const videoId = publicVideo.snippet.resourceId.videoId;
-        const thumbnailUrl = `/yt-thumb/maxresdefault/${videoId}`;
-        const fallbackUrl = `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`;
+        const thumbnailUrl = `/yt-thumb/${thumbSize}/${videoId}`;
+        const fallbackUrl = `https://img.youtube.com/vi/${videoId}/${thumbSize}.jpg`;
         
         // Salva in cache
         localStorage.setItem(cacheKey, JSON.stringify({
