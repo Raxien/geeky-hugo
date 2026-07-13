@@ -21,17 +21,13 @@
   Cache-Control = "public, max-age=604800"
 
 # Proxy per la miniatura del widget "Ultimi Vlog" (l'ultimo video pubblicato, non noto in fase di
-# build): Netlify fa da reverse proxy verso img.youtube.com così possiamo impostare noi la durata
-# della cache lato browser (loro la servono con soli 2h). Pubblicando un video ogni ~3 giorni,
-# 3 giorni di cache è un compromesso ragionevole tra freschezza e risparmio di richieste.
-[[redirects]]
-  from = "/yt-thumb/:size/:id"
-  to = "https://img.youtube.com/vi_webp/:id/:size.webp"
-  status = 200
-  force = true
-
-[[headers]]
-  for = "/yt-thumb/*"
-
-[headers.values]
-  Cache-Control = "public, max-age=259200"
+# build): serve via Edge Function (netlify/edge-functions/yt-thumb.js) invece di un semplice
+# redirect, perché un redirect status=200 lascia passare intatto il Cache-Control originale di
+# YouTube (max-age=7200, 2h) senza che le [[headers]] qui sotto possano sovrascriverlo - quella
+# regola si applica solo ai file serviti direttamente da Netlify, non alle risposte di un redirect
+# proxy verso un'origine esterna. La Edge Function fa il fetch esplicitamente e può quindi
+# impostare l'header lei stessa. Pubblicando un video ogni ~3 giorni, max-age=259200 (3 giorni) è
+# un compromesso ragionevole tra freschezza e risparmio di richieste.
+[[edge_functions]]
+  path = "/yt-thumb/:size/:id"
+  function = "yt-thumb"
