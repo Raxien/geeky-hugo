@@ -15,3 +15,36 @@ other = 'Please enable JavaScript to view the comments powered by <a href="https
 
 [disqus_powered_by]
 other = "comments powered by"
+
+[read_also]
+other = "read also"
+
+[table_of_contents]
+other = "Table of contents"
+
+[follow_us_on]
+other = "Follow us on"
+
+[pros_heading]
+other = "PROS"
+
+[cons_heading]
+other = "CONS"
+
+[sponsor_disclaimer_affiliate]
+other = "Disclaimer: This is an affiliate link, which means we receive a small commission at no extra cost to you."
+
+[sponsor_disclaimer_sponsored]
+other = "Disclaimer: This is sponsored content. We personally tested this service/product and recommend it because we believe it can be useful to our readers."
+
+[gmap_trip_intro]
+other = "Below you can browse all the maps for our trip. If you want to know how to download them and use them offline, you'll find everything at the following <a href='/trip/' target='_blank' rel='nofollow noopener noreferrer'><span>link</span></a>"
+
+[gmap_disclaimer]
+other = "⚠️ we can't guarantee that the marked spots still exist! Please keep the area clean and follow the rules.<br><br>Vandipety takes no responsibility for how the information provided here is used."
+
+[assicurazione_text]
+other = "When we travel we insure ourselves with <a href='https://www.genki.world/with/vandipety' target='_blank' rel='nofollow noopener noreferrer' title=\"The right insurance for digital nomads\"><span>Genki</span></a>, which offers great benefits and a monthly subscription that can be cancelled at any time."
+
+[revolut_title]
+other = "Revolut, the right card for stress-free travel"

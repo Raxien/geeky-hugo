@@ -15,3 +15,36 @@ other = 'Abilita JavaScript per vedere i commenti offerti da <a href="https://di
 
 [disqus_powered_by]
 other = "commenti offerti da"
+
+[read_also]
+other = "leggi anche"
+
+[table_of_contents]
+other = "Tabella dei contenuti"
+
+[follow_us_on]
+other = "Seguici su"
+
+[pros_heading]
+other = "PRO"
+
+[cons_heading]
+other = "CONTRO"
+
+[sponsor_disclaimer_affiliate]
+other = "Disclaimer: Questo è un link affiliato, il che significa che riceviamo una piccola commissione, senza costi aggiuntivi per te."
+
+[sponsor_disclaimer_sponsored]
+other = "Disclaimer: Questo è un contenuto sponsorizzato. Abbiamo testato personalmente questo servizio/prodotto e lo consigliamo perché riteniamo possa essere utile per i nostri lettori."
+
+[gmap_trip_intro]
+other = "Di seguito puoi consultare comodamente le mappe relative al nostro viaggio. Se vuoi sapere come scaricarle e usarle comodamente offline trovi tutto al seguente <a href='/trip/' target='_blank' rel='nofollow noopener noreferrer'><span>link</span></a>"
+
+[gmap_disclaimer]
+other = "⚠️ in merito agli spot segnati non assicuriamo che esistano ancora! Si prega di mantenere il sito pulito e rispettare le regole.<br><br>Vandipety non si assume alcuna responsabilità derivante dall'utilizzo delle informazioni fornite nel presente."
+
+[assicurazione_text]
+other = "Per viaggiare noi ci assicuriamo con <a href='https://www.genki.world/with/vandipety' target='_blank' rel='nofollow noopener noreferrer' title=\"L'assicurazione giusta per i nomadi digitali\"><span>Genki</span></a> che offre grandi benefici e una sottoscrizione mensile che può esser cancellata in qualsiasi momento."
+
+[revolut_title]
+other = "Revolut, la carta giusta per viaggiare senza pensieri"

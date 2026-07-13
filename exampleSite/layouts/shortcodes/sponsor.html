@@ -1,0 +1,33 @@
+{{ $url := .Get "url" }}
+{{ $title := .Get "title" }}
+{{ $description := .Get "description" }}
+{{ $type := .Get "type" }}
+{{ $disclaimer := .Get "disclaimer" | default "true" }}
+
+{{ $screenshotUrl := printf "https://api.microlink.io/?url=%s&screenshot=true&meta=false&embed=screenshot.url" $url }}
+
+{{ $disclaimerText := "" }}
+{{ if or (eq $type "link affiliato") (eq $type "affiliate link") }}
+  {{ $disclaimerText = i18n "sponsor_disclaimer_affiliate" }}
+{{ else }}
+  {{ $disclaimerText = i18n "sponsor_disclaimer_sponsored" }}
+{{ end }}
+
+<div class="article__body__leggi-anche">
+  <a href="{{ $url }}" target="_blank" rel="nofollow noopener" title="{{ $title }}">
+    <div class="leggi-anche-content">
+      <span class="leggi-anche-label">{{ $type }}</span>
+      <span class="leggi-anche-title">{{ $title }}</span>
+      {{ if $description }}
+        <span class="leggi-anche-description">{{ $description }}</span>
+      {{ end }}
+    </div>
+    <img  class="poligon" src="{{ $screenshotUrl }}" alt="{{ $title }}" loading="lazy" onerror="this.src='/images/sponsor-fallback.jpg'">
+  </a>
+</div>
+
+{{ if ne $disclaimer "false" }}
+<div class="sponsor-disclaimer">
+  <small><em>{{ $disclaimerText }}</em></small>
+</div>
+{{ end }} 
