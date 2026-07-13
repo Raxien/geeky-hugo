@@ -48,3 +48,120 @@ other = "When we travel we insure ourselves with <a href='https://www.genki.worl
 
 [revolut_title]
 other = "Revolut, the right card for stress-free travel"
+
+[share_article]
+other = "Share this article:"
+
+[share_on]
+other = "Share on"
+
+[copy_link]
+other = "Copy link"
+
+[donation_item]
+other = "a 🍪 for our furry friends"
+
+[donation_intro]
+other = "If you'd like to thank us, you can offer"
+
+[donation_outro]
+other = "at the following link:"
+
+[thanks_title]
+other = "Thank you!"
+
+[scan_code_thanks]
+other = "Scan the code and thank you! 🐱🙏"
+
+[close_button]
+other = "Close"
+
+[related_posts_heading]
+other = "Related articles"
+
+[recommended_posts_heading]
+other = "Recommended articles"
+
+[latest_vlogs]
+other = "Latest Vlogs"
+
+[watch_more_videos]
+other = 'Or watch all <a href="https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" class="text-light-900"><strong>our adventures</strong></a>'
+
+[our_books]
+other = "Our books"
+
+[read_guide]
+other = "Read the guide:"
+
+[slide_previous]
+other = "Previous slide"
+
+[slide_next]
+other = "Next slide"
+
+[newsletter_intro]
+other = "Hop aboard our van to get an exclusive story every week!"
+
+[newsletter_email_placeholder]
+other = "Enter your email"
+
+[newsletter_subscribe]
+other = "Subscribe"
+
+[newsletter_consent]
+other = 'By subscribing you accept our <a href="{{ .privacy }}" class="text-light-900"><strong>Privacy Policy</strong></a>'
+
+[book_banner_badge]
+other = "🎉 NEW RELEASE"
+
+[book_banner_title]
+other = "Our new book is out!"
+
+[book_banner_button]
+other = "Buy it now"
+
+[book_banner_alt]
+other = "Book cover"
+
+[expenses_summary_heading]
+other = "At a glance"
+
+[expenses_travel_days]
+other = "Days on the road"
+
+[expenses_total_cost]
+other = "Total spend*"
+
+[expenses_daily_cost]
+other = "Daily cost*"
+
+[expenses_ferry_note]
+other = "<b>Note:</b> since it's an investment amortised over a year, <b>we've temporarily excluded the ferries from the totals</b>:"
+
+[expenses_ferry_route_1]
+other = "Russia (Vladivostok) -> South Korea (Donghae)"
+
+[expenses_ferry_route_2]
+other = "South Korea (Busan) <-> Japan (Fukuoka)"
+
+[expenses_ferry_cost_suffix_prefix]
+other = "comes to"
+
+[expenses_ferry_cost_suffix]
+other = "euros"
+
+[expenses_ferry_summary]
+other = "To be fair, if we also counted this cost our total spend would be"
+
+[expenses_ferry_summary_and]
+other = "and our daily cost"
+
+[expenses_category_heading]
+other = "Category"
+
+[expenses_monthly_heading]
+other = "Monthly"
+
+[expenses_details]
+other = "Detailed costs"

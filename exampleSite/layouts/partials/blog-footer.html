@@ -1,0 +1,47 @@
+<!-- partial che crea il footer per gli articoli -->
+<!-- 
+  parametri
+  country : se vuoto mette messaggio generico - in alternativa mette personalizzato
+  payPal : 0|1 inserisce o meno il payPal
+  consult : 0|1 inserisce o meno il messaggio per la consulenza
+-->
+
+<hr class="share-divider">
+
+<div class="social-share">
+  <span class="title-border share-label">{{ i18n "share_article" }}</span>
+  <a href="#" onclick="event.preventDefault(); shareOnSocial('facebook')" title="{{ i18n "share_on" }} Facebook"><i class="fab fa-facebook"></i></a>
+  <a href="#" onclick="event.preventDefault(); shareOnSocial('threads')" title="{{ i18n "share_on" }} Threads"><i class="fab fa-threads"></i></a>
+  <a href="#" onclick="event.preventDefault(); shareOnSocial('twitter')" title="{{ i18n "share_on" }} X"><i class="fab fa-x-twitter"></i></a>
+  <a href="#" onclick="event.preventDefault(); shareOnSocial('whatsapp')" title="{{ i18n "share_on" }} WhatsApp"><i class="fab fa-whatsapp"></i></a>
+  <a href="#" onclick="event.preventDefault(); shareOnSocial('telegram')" title="{{ i18n "share_on" }} Telegram"><i class="fab fa-telegram"></i></a>
+  <a href="#" onclick="event.preventDefault(); shareOnSocial('copy')" title="{{ i18n "copy_link" }}"><i class="fas fa-link"></i></a>
+</div>
+
+{{ if not (eq .payPal "0") }}
+
+  <div id="#donazione"></div>
+  <div class="donation-links">
+    {{ i18n "donation_intro" }} <strong class="title-border">{{ i18n "donation_item" }}</strong> {{ i18n "donation_outro" }}
+    <a href='https://paypal.me/Vandipety' target="_blank" rel="nofollow noopener noreferrer" title="{{ i18n "thanks_title" }}" class="donation-link"><span>PayPal</span></a> - <a href='#donazione' target="_self" onclick="return openModal();" title="{{ i18n "thanks_title" }}" class="donation-link"><span>Satispay</span></a>
+  </div>
+
+  <div id="satispay" class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header" style="border-bottom: 0px; text-align: center;">
+        </div>
+        <div class="modal-body" style="text-align: center;">
+          <img src="https://res.cloudinary.com/ilgattodicitturin/image/upload/w_300/f_auto,q_auto:eco,w_800,dpr_auto/v1688485673/asset/qr-2_gh0mcv.jpg" alt="Logo Vandipety" >
+          <h6 style="margin-top: 0px;">{{ i18n "scan_code_thanks" }}</h6>
+        </div>
+        <div class="modal-footer">
+          <button id="close" type="button" class="btn btn-primary" data-dismiss="modal" onclick="return closeModal();">{{ i18n "close_button" }}</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+{{ end }}
+
+<hr class="share-divider"> 

@@ -48,3 +48,120 @@ other = "Per viaggiare noi ci assicuriamo con <a href='https://www.genki.world/w
 
 [revolut_title]
 other = "Revolut, la carta giusta per viaggiare senza pensieri"
+
+[share_article]
+other = "Condividi l'articolo:"
+
+[share_on]
+other = "Condividi su"
+
+[copy_link]
+other = "Copia link"
+
+[donation_item]
+other = "un 🍪 ai nostri pelosi"
+
+[donation_intro]
+other = "Se vuoi ringraziarci puoi offrire"
+
+[donation_outro]
+other = "al seguente link:"
+
+[thanks_title]
+other = "Grazie!"
+
+[scan_code_thanks]
+other = "Inquadra il codice e grazie! 🐱🙏"
+
+[close_button]
+other = "Chiudi"
+
+[related_posts_heading]
+other = "Articoli correlati"
+
+[recommended_posts_heading]
+other = "Articoli consigliati"
+
+[latest_vlogs]
+other = "Ultimi Vlog"
+
+[watch_more_videos]
+other = 'Oppure guarda tutte le <a href="https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" class="text-light-900"><strong>nostre avventure</strong></a>'
+
+[our_books]
+other = "I nostri libri"
+
+[read_guide]
+other = "Leggi la guida:"
+
+[slide_previous]
+other = "Slide precedente"
+
+[slide_next]
+other = "Slide successiva"
+
+[newsletter_intro]
+other = "Salta a bordo del nostro van per ricevere una storia esclusiva ogni settimana!"
+
+[newsletter_email_placeholder]
+other = "Inserisci la tua email"
+
+[newsletter_subscribe]
+other = "Iscriviti"
+
+[newsletter_consent]
+other = 'Iscrivendoti accetti la <a href="{{ .privacy }}" class="text-light-900"><strong>Privacy Policy</strong></a>'
+
+[book_banner_badge]
+other = "🎉 NUOVA USCITA"
+
+[book_banner_title]
+other = "È uscito il nostro nuovo libro!"
+
+[book_banner_button]
+other = "Acquistalo ora"
+
+[book_banner_alt]
+other = "Copertina del Libro"
+
+[expenses_summary_heading]
+other = "In breve"
+
+[expenses_travel_days]
+other = "Giorni di viaggio"
+
+[expenses_total_cost]
+other = "Totale Spesa*"
+
+[expenses_daily_cost]
+other = "Costo giornaliero*"
+
+[expenses_ferry_note]
+other = '<b>Nota:</b> Essendo un investimento che verrà ammortizzato in un anno <b>momentaneamente abbiamo escluso dai conteggi le navi</b>:'
+
+[expenses_ferry_route_1]
+other = "Russia (Vladivostok) -> Corea (Donghae)"
+
+[expenses_ferry_route_2]
+other = "Corea (Busan) <-> Giappone (Fukuoka)"
+
+[expenses_ferry_cost_suffix_prefix]
+other = "ammonta a"
+
+[expenses_ferry_cost_suffix]
+other = "euro"
+
+[expenses_ferry_summary]
+other = "Per correttezza se tenessimo conto anche di questo costo la nostra spesa totale sarebbe"
+
+[expenses_ferry_summary_and]
+other = "e quella giornaliera di"
+
+[expenses_category_heading]
+other = "Categoria"
+
+[expenses_monthly_heading]
+other = "Mensile"
+
+[expenses_details]
+other = "I costi nel dettaglio"

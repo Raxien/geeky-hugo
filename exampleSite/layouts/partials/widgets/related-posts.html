@@ -1,0 +1,79 @@
+{{ $currentPage := . }}
+{{ $related := slice }}
+
+<!-- Prima cerchiamo i post correlati per paese -->
+{{ if .Params.country }}
+  {{ $relatedByCountry := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.country" "eq" .Params.country) }}
+  {{ $related = $related | append $relatedByCountry }}
+{{ end }}
+
+<!-- Poi cerchiamo i post correlati per tag -->
+{{ $relatedByTags := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.tags" "intersect" .Params.tags) }}
+
+<!-- Poi cerchiamo i post correlati per categorie -->
+{{ $relatedByCategories := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | intersect (where site.RegularPages ".Params.categories" "intersect" .Params.categories) }}
+
+<!-- Estraiamo i link interni dal contenuto -->
+{{ if .Content }}
+  {{ $contentLinks := findRE `href="([^"]+)"` .Content }}
+  {{ range $contentLinks }}
+    {{ $link := replaceRE `href="([^"]+)"` "$1" . }}
+    {{ if hasPrefix $link "/" }}
+      {{ $linkedPage := site.GetPage $link }}
+      {{ if and $linkedPage (eq $linkedPage.Kind "page") (in site.Params.mainSections $linkedPage.Section) (ne $linkedPage.Title $currentPage.Title) }}
+        {{ $related = $related | append (slice $linkedPage) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<!-- Uniamo i risultati, dando priorità ai post con più elementi in comune -->
+{{ $related = $related | append $relatedByTags | append $relatedByCategories | uniq }}
+
+<!-- Se non abbiamo abbastanza post correlati, aggiungiamo post recenti -->
+{{ if lt (len $related) 8 }}
+  {{ $recent := where site.RegularPages "Section" "in" site.Params.mainSections | intersect (where site.RegularPages ".Title" "!=" .Title) | first (sub 8 (len $related)) }}
+  {{ $related = $related | append $recent | uniq }}
+{{ end }}
+
+{{ if gt (len $related) 0 }}
+<div class="widget">
+  <div class="widget-title">
+    <h3 class="h5 title-border">{{ i18n "related_posts_heading" }}</h3>
+  </div>
+  <div class="related-posts">
+    {{ range first 8 $related }}
+    <a href="{{ .RelPermalink }}" class="related-post-item">
+      <div class="related-post-image">
+        {{ $imagePath := .Params.image }}
+        {{ if $imagePath }}
+          {{ if hasPrefix $imagePath "http" }}
+            <img loading="lazy" decoding="async"
+              src="{{ replaceRE `upload/(f_auto[^/]*/)?` `upload/f_auto,q_auto:eco,c_fill,g_auto,w_100,h_100/` $imagePath | safeURL }}"
+              alt="{{ .Title }}"
+              width="100" height="100"
+              class="img-fluid">
+          {{ else }}
+            {{ if fileExists (add `assets/` $imagePath) }}
+              {{ $image := resources.Get $imagePath }}
+              {{ $imageWebp := $image.Fill "100x100 Center webp" }}
+              <img loading="lazy" decoding="async" 
+                src="{{ $imageWebp.RelPermalink }}" 
+                alt="{{ .Title }}"
+                class="img-fluid">
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </div>
+      <div class="related-post-content text-start">
+        <h4 class="h6">{{ .Title | markdownify }}</h4>
+        <div class="related-post-meta">
+          <i class="fas fa-calendar me-1"></i>
+          {{ time.Format ":date_medium" .PublishDate }}
+        </div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }} 

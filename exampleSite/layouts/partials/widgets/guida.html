@@ -1,0 +1,47 @@
+{{ $guides := index hugo.Data.guides "guides" }}
+
+<div class="widget guides-widget">
+  <div class="widget-title">
+    <h3 class="h5 title-border">{{ i18n "our_books" }}</h3>
+  </div>
+  
+  <div class="guides-slider">
+    <div class="guides-wrapper">
+      {{ range $guides }}
+      {{ $cloudBase := replaceRE `,?w_[0-9]+` "" .image }}
+      {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
+      {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_400,c_limit" }}
+      {{ $img800 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_800,c_limit" }}
+      <div class="guide-slide">
+        <div class="image-container">
+          <img
+            src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25'%3E%3C/svg%3E"
+            data-src="{{ $img400 | safeURL }}"
+            {{ printf `data-srcset="%s 400w, %s 800w"` $img400 $img800 | safeHTMLAttr }}
+            sizes="(min-width: 992px) 380px, 100vw"
+            alt="{{ .title }}"
+            class="slide-image"
+            loading="lazy"
+          >
+        </div>
+        <div class="slide-text">
+          <p>{{ .description }}</p>
+        </div>
+        <a href="{{ .link }}" {{ if .isExternal }}target="_blank" rel="noopener noreferrer"{{ end }} class="slide-link">
+          <span class="sr-only">{{ i18n "read_guide" }} {{ .title }}</span>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+    
+    <div class="nav-buttons">
+      <button class="nav-button prev" aria-label="{{ i18n "slide_previous" }}">
+        <i class="fas fa-chevron-left"></i>
+      </button>
+      <button class="nav-button next" aria-label="{{ i18n "slide_next" }}">
+        <i class="fas fa-chevron-right"></i>
+      </button>
+    </div>
+  </div>
+</div>
+
