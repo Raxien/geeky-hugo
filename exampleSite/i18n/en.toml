@@ -1,0 +1,17 @@
+[disqus_click_to_load]
+other = "📝 Click to load Disqus comments"
+
+[disqus_dynamic_load]
+other = "Comments will load dynamically"
+
+[disqus_loading]
+other = "Loading comments..."
+
+[disqus_local_preview]
+other = "Disqus comments are not available by default when the website is previewed locally."
+
+[disqus_noscript]
+other = 'Please enable JavaScript to view the comments powered by <a href="https://disqus.com/?ref_noscript">Disqus</a>.'
+
+[disqus_powered_by]
+other = "comments powered by"
