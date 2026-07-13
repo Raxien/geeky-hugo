@@ -2224,6 +2224,7 @@ tr {
   background-color: #fff;
   background-clip: padding-box;
   outline: 0;
+  overflow-x: hidden;
   transition: transform 0.3s ease-in-out;
   transform: translateX(100%);
   width: 400px;
@@ -2231,6 +2232,21 @@ tr {
   &.show {
     visibility: visible;
     transform: translateX(0);
+  }
+
+  .offcanvas-body {
+    overflow-x: hidden;
+  }
+
+  // I dropdown Bootstrap sono position:absolute di default (pensati per il
+  // menu desktop): dentro il pannello mobile, sganciati dal flusso, possono
+  // finire oltre il bordo destro e generare uno scroll orizzontale indesiderato.
+  // Qui devono comportarsi da normale contenuto in linea.
+  .dropdown-menu {
+    position: static;
+    float: none;
+    width: 100%;
+    max-width: 100%;
   }
 }
 
