@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo --minify --gc"
+  command = "hugo --minify --gc && cat static/_redirects netlify-host-redirects > public/_redirects"
   
 [build.environment]
   HUGO_VERSION = "0.163.3"

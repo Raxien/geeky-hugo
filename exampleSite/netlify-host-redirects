@@ -1,0 +1,25 @@
+# Routing multilingua per dominio su un solo sito Netlify.
+# Hugo (in modalità multihost, vedi config/_default/languages.toml) genera due
+# alberi separati: public/it (italiano) e public/en (inglese). Questo file va
+# unito in coda a static/_redirects nel file _redirects pubblicato in root
+# (vedi il build command in netlify.toml), cosicché le regole SEO in
+# static/_redirects — path-only, quindi valide per entrambi i domini — vengano
+# valutate per prime, e queste regole per dominio facciano da fallback finale.
+#
+# Netlify valuta le regole in ordine dall'alto verso il basso: la prima riga
+# il cui pattern "from" corrisponde vince. Le regole più generiche (i "*" qui
+# sotto) devono quindi restare in fondo al file.
+
+# Netlify CMS: /admin punta all'albero della lingua del dominio richiesto.
+https://vandipety.it/admin/*       /it/admin/index.html   200
+https://www.vandipety.it/admin/*   /it/admin/index.html   200
+https://vandipety.com/admin/*      /en/admin/index.html   200
+https://www.vandipety.com/admin/*  /en/admin/index.html   200
+
+# Rewrite trasparente (200, non 301): l'URL visibile resta pulito, senza
+# prefisso /it o /en — solo il contenuto servito internamente cambia in base
+# al dominio.
+https://vandipety.it/*       /it/:splat   200!
+https://www.vandipety.it/*   /it/:splat   200!
+https://vandipety.com/*      /en/:splat   200!
+https://www.vandipety.com/*  /en/:splat   200!
