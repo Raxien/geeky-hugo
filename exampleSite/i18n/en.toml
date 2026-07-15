@@ -165,3 +165,65 @@ other = "Monthly"
 
 [expenses_details]
 other = "Detailed costs"
+
+[search_placeholder]
+other = "Search..."
+
+[search_aria_label]
+other = "Search the site"
+
+[search_close_aria_label]
+other = "Close search"
+
+[menu_open_aria]
+other = "Open navigation menu"
+
+[menu_close_aria]
+other = "Close menu"
+
+[search_results_for]
+other = "Results for"
+
+[loading_generic]
+other = "Loading..."
+
+[no_results_found]
+other = "No results found"
+
+[not_found_heading]
+other = "404 Page not found!"
+
+[not_found_back_button]
+other = "Go back"
+
+[sponsored_label]
+other = "Sponsored"
+
+[reading_time_minutes]
+one = "{{.Count}} minute"
+other = "{{.Count}} minutes"
+
+[reading_time_seconds]
+one = "{{.Count}} second"
+other = "{{.Count}} seconds"
+
+[reading_time_and]
+other = "and"
+
+[load_more_button]
+other = "Load more"
+
+[articles_heading]
+other = "Articles"
+
+[featured_tab]
+other = "Featured"
+
+[recent_tab]
+other = "Recent"
+
+[ai_summary_label]
+other = "AI Summary"
+
+[ai_summary_expand]
+other = "Expand"

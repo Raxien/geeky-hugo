@@ -1,0 +1,221 @@
+{{ define "main" }}
+
+<!-- checking blog -->
+{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
+
+<!--=================== section start ===================-->
+<section class="section-sm section-sm-mobile">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mb-5 mb-lg-0">
+        <!-- image path -->
+        {{ $imagePath:= .Params.image }}
+        {{ if $imagePath }}
+        <div class="position-relative">
+          <!-- image CDN -->
+          {{ if hasPrefix $imagePath "http" }}
+          {{ $imagePathEco := replace $imagePath "f_auto,q_auto" "f_auto,q_auto:eco" }}
+          <div class="image-container" style="position: relative; width: 100%; padding-bottom: 56.25%; background-color: #f5f5f5; border-radius: 12px; overflow: hidden; margin-bottom: 20px;">
+            <img loading="lazy" decoding="async"
+              src="{{ $imagePathEco | safeURL }}"
+              alt="{{ .Title }}"
+              style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;"
+              onload="this.style.opacity='1'"
+              style="opacity: 0; transition: opacity 0.3s ease-in-out;">
+          </div>
+          {{ else }}
+          <!-- /image cdn -->
+
+          <!-- image processing for multiple device -->
+          {{ if fileExists (add `assets/` $imagePath) }}
+          {{ $image:= resources.Get $imagePath }}
+          {{ $imageFallback:= $image.Resize "1400x" }}
+          {{ $imageXL:= $image.Resize "1400x webp" }}
+          {{ $imageLG:= $image.Resize "1000x webp" }}
+          {{ $imageMD:= $image.Resize "800x webp" }}
+          {{ $imageSM:= $image.Resize "600x webp" }}
+          <div class="image-container" style="position: relative; width: 100%; padding-bottom: 56.25%; background-color: #f5f5f5; border-radius: 12px; overflow: hidden; margin-bottom: 20px;">
+            <picture style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+              <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
+              <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
+              <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 992px)">
+              <source srcset="{{ $imageXL.RelPermalink }}">
+              <img loading="lazy" decoding="async" 
+                src="{{$imageFallback.RelPermalink}}" 
+                alt="{{.Title}}" 
+                width="{{$image.Width}}"
+                height="{{$image.Height}}"
+                style="width: 100%; height: 100%; object-fit: cover;"
+                onload="this.style.opacity='1'"
+                style="opacity: 0; transition: opacity 0.3s ease-in-out;">
+            </picture>
+          </div>
+          {{ else }}
+          <strong class="text-danger">`{{$imagePath}}` doesn't exist</strong>
+          {{ end }}
+          <!-- /image processing for multiple device -->
+          {{ end }}
+          <ul class="list-inline card-badge">
+            {{ range .Params.categories }}
+            <li class="list-inline-item">
+              <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary py-1">{{. | title}}</a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ else }}
+        {{ range .Params.categories }}
+        <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary mb-4 d-inline-block">{{. | title}}</a>
+        {{ end }}
+        {{ end }}
+        <h1 class="mb-4 h4-mobile">{{.Title | markdownify}}</h1>
+        <ul class="list-inline card-meta d-flex align-items-center mb-4 small">
+          <li class="list-inline-item d-flex align-items-center" style="display: none !important; ">
+            <i class="fas fa-user me-2"></i>
+            <a href="{{`about` | relLangURL}}">{{site.Params.author}}</a>
+          </li>
+                {{ if .Params.country}}
+      <li class="list-inline-item d-flex align-items-center">
+        <i class="fas fa-map-pin me-2"></i>
+        {{ $country := .Params.country}}
+        {{ $link:= add "search/?s=" $country }}
+        <a class="a-country" href="{{$link | relLangURL}}">{{.Params.country | title}}</a>
+      </li>
+      {{end}}
+          <li class="list-inline-item d-flex align-items-center">
+            <i class="fas fa-calendar me-2"></i>
+            <span class="d-inline-block d-md-none">{{ time.Format ":date_medium" .PublishDate }}</span>
+            <span class="d-none d-md-inline-block">{{ time.Format ":date_long" .PublishDate }}</span>
+          </li>
+          <li class="list-inline-item d-flex align-items-center">
+            <i class="fas fa-glasses me-2"></i>
+            {{ $readTime := mul (div (countwords .Content) 300.0) 60 }}
+            {{ $minutes := math.Floor (div $readTime 60) }}
+            {{ $seconds := mod $readTime 60 }}
+            <span class="d-inline-block d-md-none">{{ $minutes }}m {{ $seconds }}s</span>
+            <span class="d-none d-md-inline-block">{{ i18n "reading_time_minutes" (int $minutes) }} {{ i18n "reading_time_and" }}
+                  {{ i18n "reading_time_seconds" (int $seconds) }}</span>
+          </li>
+          {{ if .Params.sponsored}}
+          <li class="list-inline-item d-flex align-items-center">
+            <i>{{ i18n "sponsored_label" }}</i>
+          </li>
+          {{end}}
+        </ul>
+        
+        <!-- Placeholder per il riassunto AI - previene CLS -->
+        {{ if and (eq .Section "post") (or (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags")) }}
+        <div class="ai-summary-placeholder" style="display: none; height: 0; overflow: hidden; transition: all 0.3s ease;">
+          <div class="ai-summary-container collapsed" style="margin: 0; padding: 0; min-height: 0; background: transparent; border: none; box-shadow: none;">
+            <div class="ai-summary-header" style="display: none; align-items: center; justify-content: space-between; margin-bottom: 0; font-weight: normal; color: transparent; cursor: pointer;">
+              <div style="display: flex; align-items: center;">
+                <i class="fas fa-cat" style="margin-right: 8px;"></i>
+                <span>{{ i18n "ai_summary_label" }}</span>
+                <span class="loading-text" style="margin-left: 8px; font-size: 0.9em; opacity: 0.7;">{{ i18n "loading_generic" }}</span>
+              </div>
+              <button class="ai-summary-toggle" style="opacity: 0; background: none; border: none; color: inherit; cursor: pointer; padding: 5px;">
+                <span class="toggle-arrow"><i class="fas fa-chevron-right"></i></span>
+                <span class="button-text"> {{ i18n "ai_summary_expand" }}</span>
+              </button>
+            </div>
+            <div class="ai-summary-content" style="display: none; line-height: 1.6; color: transparent; overflow: hidden; max-height: 0; transition: max-height 0.3s ease;">
+              <!-- Il contenuto verrà inserito qui dinamicamente -->
+            </div>
+          </div>
+        </div>
+        {{ end }}
+        
+        <div class="content drop-cap">
+          {{ $content := .Content | safeHTML }}
+          {{ $paragraphs := split $content "<p>" }}
+          {{ $totalParagraphs := len $paragraphs }}
+          {{ $maxAds := 1 }}
+          {{ if ge $totalParagraphs 10 }}
+            {{ $maxAds = 2 }}
+          {{ end }}
+          {{ if ge $totalParagraphs 20 }}
+            {{ $maxAds = 3 }}
+          {{ end }}
+          {{ $adCount := 0 }}
+          {{ range $index, $element := $paragraphs }}
+            {{ if gt $index 0 }}
+              {{ $nextIndex := add $index 1 }}
+              {{ if and (lt $adCount $maxAds) (lt $nextIndex $totalParagraphs) }}
+                {{ $nextElement := index $paragraphs $nextIndex }}
+                {{ if or (hasPrefix $nextElement "<h2") (hasPrefix $nextElement "<h3") (hasPrefix $nextElement "<h4") }}
+                  {{ if hugo.IsProduction }}
+                    <div class="adsense-inarticle">
+                      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7348628013126614" crossorigin="anonymous"></script>
+                      <ins class="adsbygoogle"
+                           style="display:block; text-align:center;"
+                           data-ad-layout="in-article"
+                           data-ad-format="fluid"
+                           data-ad-client="ca-pub-7348628013126614"
+                           data-ad-slot="9819760015"></ins>
+                      <script>
+                           (adsbygoogle = window.adsbygoogle || []).push({});
+                      </script>
+                    </div>
+                    {{ $adCount = add $adCount 1 }}
+                  {{ end }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+            {{ if eq $index 0 }}
+              {{ printf "<p>%s" $element | safeHTML }}
+            {{ else }}
+              {{ printf "<p>%s" $element | safeHTML }}
+            {{ end }}
+          {{ end }}
+        </div>
+        {{ partial "blog-footer.html" (dict "country" "" "payPal" "1" "consult" "0" ) }}
+        <!-- articoli correlati mobile -->
+        <div class="d-lg-none">
+          {{ partial "widgets/related-posts.html" . }}
+        </div>
+
+        <!-- disqus comments -->   
+        {{ with .Site.Params.disqusShortname }}
+        <div  style="margin-top: 30px;">
+        <div class="border rounded p-4">
+          {{ partial "disqus.html" $ }}
+        </div>
+        </div>
+        {{ end }}
+
+        <!-- recommended posts mobile -->
+        <div class="d-lg-none">
+          <div style="margin-top: 30px;">
+            {{ partial "widgets/recommended-posts.html" . }}
+          </div>
+        </div>
+      </div>
+      <!-- sidebar widgets -->
+      <div class="col-lg-4" style="z-index: 3 !important;">
+        <div class="sticky-top d-none d-lg-block" style="top: 2rem;">
+          {{ partial "widgets/related-posts.html" . }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--=================== section end ===================-->
+<!-- regular page -->
+{{ else }}
+{{ partial "page-header.html" . }}
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <div class="content">
+          {{.Content}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- /regular page -->
+ 
+ 
+{{ end }}

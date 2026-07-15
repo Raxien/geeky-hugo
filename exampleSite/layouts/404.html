@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+{{ if eq (getenv "HUGO_ENV") "production" }}
+<meta name="robots" content="index,follow">
+{{ else }}
+<meta name="robots" content="noindex,nofollow">
+{{ end }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto text-center">
+        <h1>{{ i18n "not_found_heading" }}</h1>
+        <a href="{{site.BaseURL | relLangURL}}" class="btn btn-primary">{{ i18n "not_found_back_button" }}</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

@@ -1,0 +1,287 @@
+{{ define "main" }}
+
+<!--=================== blog header section start ===================-->
+<section class="section" style="padding-top: 40px; padding-bottom: 0px;">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-16 mb-5 mb-lg-0">
+        <div class="border rounded d-lg-flex p-4 mb-5">
+          <!-- Versione desktop -->
+          <div class="d-none d-lg-flex w-100">
+            <!-- big featured post -->
+            <div class="col-lg-6 me-lg-4 mb-5 mb-lg-0">
+              {{ range first 1 (where (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true) "Lang" .Lang) }}
+              {{ .Render "post-featured" }}
+              {{ end }}
+            </div>
+            <!-- small featured post -->
+            <div class="col-lg-6 pe-4 blog-card-list">
+              {{ range first 4 (after 1 (where (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true) "Lang" .Lang)) }}
+              <div class="card rounded-0 mb-3">
+                <div class="d-flex flex-column flex-sm-row">
+                  <!-- image path -->
+                  {{ $imagePath:= .Params.image }}
+                  {{ if $imagePath }}
+                  {{ if hasPrefix $imagePath "http" }}
+                  {{ $cloudBase := replaceRE `,?w_[0-9]+` "" $imagePath }}
+                  {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
+                  {{ $cloudBase = replace $cloudBase " " "%20" }}
+                  {{ $img110 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_110,c_limit" }}
+                  {{ $img220 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_220,c_limit" }}
+                  <a href="{{.RelPermalink}}" class="d-block featured-image-container">
+                    <div class="image-container">
+                      <img decoding="async"
+                        src="{{ $img110 | safeURL }}"
+                        {{ printf `srcset="%s 110w, %s 220w"` $img110 $img220 | safeHTMLAttr }}
+                        sizes="105px"
+                        alt="{{ .Title }}"
+                        class="img-fluid rounded-4 post-featured-image">
+                    </div>
+                  </a>
+                  {{ else }}
+                  <!-- /image cdn -->
+                  <!-- image processing for single device -->
+                  {{ if fileExists (add `assets/` $imagePath) }}
+                  {{ $image:= resources.Get $imagePath }}
+                  {{ $imageFallback:= $image.Fill "105x85 Center" }}
+                  {{ $imageWebp:= $image.Fill "105x85 Center webp" }}
+                  <a href="{{.RelPermalink}}" class="d-block featured-image-container">
+                    <div class="image-container">
+                      <img decoding="async" 
+                        src="{{$imageWebp.RelPermalink}}" 
+                        srcset="{{$imageWebp.RelPermalink}} 1x, {{$imageWebp.RelPermalink}} 2x"
+                        sizes="(max-width: 600px) 100vw, 600px"
+                        alt="{{ .Title }}" 
+                        class="img-fluid rounded-4 post-featured-image"
+                        onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
+                    </div>
+                  </a>
+                  {{ end }}
+                  <!-- /image processing for single device -->
+                  {{ end }}
+                  {{ end }}
+                  <div class="card-body ps-sm-3">
+                    <h3 class="h6 mb-2">
+                      <a class="title-linked" href="{{.RelPermalink}}">{{.Title | markdownify}}</a>
+                    </h3>
+                    <ul class="list-inline card-meta d-flex align-items-center mb-2">
+                      {{ if .Params.country}}
+                      <li class="list-inline-item d-flex align-items-center">
+                        <i class="fas fa-map-pin me-2"></i>
+                        {{ $country := .Params.country}}
+                        {{ $link:= add "search/?s=" $country }}
+                        <a class="a-country" href="{{$link | relLangURL}}">{{.Params.country | title}}</a>
+                      </li>
+                      {{end}}
+                      <li class="list-inline-item d-flex align-items-center">
+                        <i class="fas fa-calendar me-2"></i>
+                        <span>{{ time.Format ":date_long" .PublishDate }}</span>
+                      </li>
+                      {{ if .Params.sponsored}}
+                      <li class="list-inline-item d-flex align-items-center">
+                        <i>{{ i18n "sponsored_label" }}</i>
+                      </li>
+                      {{end}}
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              {{ end }}
+            </div>
+          </div>
+
+          <!-- Versione mobile -->
+          <div class="d-lg-none">
+            <!-- Post principale -->
+            {{ range first 1 (where (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true) "Lang" .Lang) }}
+            <div class="featured-post-main mb-4">
+              <!-- image path -->
+              {{ $imagePath:= .Params.image }}
+              {{ if $imagePath }}
+              {{ if hasPrefix $imagePath "http" }}
+              {{ $cloudBase := replaceRE `,?w_[0-9]+` "" $imagePath }}
+              {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
+                  {{ $cloudBase = replace $cloudBase " " "%20" }}
+              {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_400,c_limit" }}
+              {{ $img600 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_600,c_limit" }}
+              {{ $img1200 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_1200,c_limit" }}
+              <a href="{{.RelPermalink}}" class="d-block featured-image-container">
+                <div class="image-container">
+                  <img decoding="async"
+                    src="{{ $img600 | safeURL }}"
+                    {{ printf `srcset="%s 400w, %s 600w, %s 1200w"` $img400 $img600 $img1200 | safeHTMLAttr }}
+                    sizes="calc(100vw - 72px)"
+                    alt="{{ .Title }}"
+                    fetchpriority="high"
+                    class="img-fluid rounded-4">
+                </div>
+              </a>
+              {{ else }}
+              <!-- /image cdn -->
+              <!-- image processing for single device -->
+              {{ if fileExists (add `assets/` $imagePath) }}
+              {{ $image:= resources.Get $imagePath }}
+              {{ $imageFallback:= $image.Fill "600x200 Center" }}
+              {{ $imageWebp:= $image.Fill "600x200 Center webp" }}
+              <a href="{{.RelPermalink}}" class="d-block featured-image-container">
+                <div class="image-container">
+                  <img decoding="async" 
+                    src="{{$imageWebp.RelPermalink}}" 
+                    srcset="{{$imageWebp.RelPermalink}} 1x, {{$imageWebp.RelPermalink}} 2x"
+                    sizes="calc(100vw - 72px)"
+                    alt="{{ .Title }}"
+                    fetchpriority="high"
+                    class="img-fluid rounded-4"
+                    onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
+                </div>
+              </a>
+              {{ end }}
+              {{ end }}
+              {{ end }}
+              <div class="card-body px-0 pt-4">
+                <h3 class="h4 mb-3">
+                  <a class="title-linked" href="{{.RelPermalink}}">{{.Title | markdownify}}</a>
+                </h3>
+                <ul class="list-inline card-meta d-flex align-items-center mb-3">
+                  {{ if .Params.country}}
+                  <li class="list-inline-item d-flex align-items-center">
+                    <i class="fas fa-map-pin me-2"></i>
+                    {{ $country := .Params.country}}
+                    {{ $link:= add "search/?s=" $country }}
+                    <a class="a-country" href="{{$link | relLangURL}}">{{.Params.country | title}}</a>
+                  </li>
+                  {{end}}
+                  <li class="list-inline-item d-flex align-items-center">
+                    <i class="fas fa-calendar me-2"></i>
+                    <span>{{ time.Format ":date_long" .PublishDate }}</span>
+                  </li>
+                  {{ if .Params.sponsored}}
+                  <li class="list-inline-item d-flex align-items-center">
+                    <i>{{ i18n "sponsored_label" }}</i>
+                  </li>
+                  {{end}}
+                </ul>
+              </div>
+            </div>
+            {{ end }}
+
+            <!-- Post secondari -->
+            <div class="featured-posts-secondary">
+              <div class="row g-3 flex-nowrap overflow-auto pb-3">
+                {{ range first 4 (after 1 (where (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true) "Lang" .Lang)) }}
+                <div class="col-auto">
+                  <div class="card h-100 border-0">
+                    <!-- image path -->
+                    {{ $imagePath:= .Params.image }}
+                    {{ if $imagePath }}
+                    {{ if hasPrefix $imagePath "http" }}
+                    {{ $cloudBase := replaceRE `,?w_[0-9]+` "" $imagePath }}
+                    {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
+                  {{ $cloudBase = replace $cloudBase " " "%20" }}
+                    {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_400,c_limit" }}
+                    {{ $img800 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_800,c_limit" }}
+                    <a href="{{.RelPermalink}}" class="d-block">
+                      <div class="image-container">
+                        <img decoding="async"
+                          src="{{ $img400 | safeURL }}"
+                          {{ printf `srcset="%s 400w, %s 800w"` $img400 $img800 | safeHTMLAttr }}
+                          sizes="(max-width: 440px) 220px, 250px"
+                          alt="{{ .Title }}"
+                          loading="lazy"
+                          class="img-fluid rounded-4">
+                      </div>
+                    </a>
+                    {{ else }}
+                    <!-- /image cdn -->
+                    {{ if fileExists (add `assets/` $imagePath) }}
+                    {{ $image:= resources.Get $imagePath }}
+                    {{ $imageFallback:= $image.Fill "400x150 Center" }}
+                    {{ $imageWebp:= $image.Fill "400x150 Center webp" }}
+                    <a href="{{.RelPermalink}}" class="d-block featured-image-container">
+                      <div class="image-container">
+                        <img decoding="async" 
+                          src="{{$imageWebp.RelPermalink}}" 
+                          srcset="{{$imageWebp.RelPermalink}} 1x, {{$imageWebp.RelPermalink}} 2x"
+                          sizes="(max-width: 440px) 220px, 250px"
+                          alt="{{ .Title }}"
+                          class="img-fluid rounded-4"
+                          width="400"
+                          height="150"
+                          onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
+                      </div>
+                    </a>
+                    {{ end }}
+                    {{ end }}
+                    {{ end }}
+                    <div class="card-body px-0 pt-3">
+                      <h3 class="h6 mb-2">
+                        <a class="title-linked" href="{{.RelPermalink}}">{{.Title | markdownify}}</a>
+                      </h3>
+                    </div>
+                  </div>
+                </div>
+                {{ end }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--=================== blog header section end ===================-->
+
+<!--=================== blog section start ===================-->
+<section class="section" style="padding-top: 0px">
+  <div class="container">
+    <div class="row row-mobile">
+      <div class="col-lg-16 mb-5 mb-lg-0">
+        {{with site.Params.recent_post_title}}
+        <div class="section-title">
+          <h2 class="h3 title-border">{{ . | markdownify}}</h2>
+        </div>
+        {{end}}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 mb-5 mb-lg-0">
+        <div class="border pt-4 mb-5 rounded">
+          <div class="row mx-0 g-5">
+            <!-- recent post -->
+            {{ $featuredPosts := where (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true) "Lang" .Lang }}
+            {{ $firstFiveFeatured := first 5 $featuredPosts }}
+            {{ $excludedPermalinks := slice }}
+            {{ range $firstFiveFeatured }}
+              {{ $excludedPermalinks = $excludedPermalinks | append .RelPermalink }}
+            {{ end }}
+            {{ $remainingPosts := where (where (where (where site.RegularPages "Section" "in" site.Params.mainSections) "Params.draft" "!=" true) "Lang" .Lang) "RelPermalink" "not in" $excludedPermalinks }}
+            {{ $paginator := .Paginate $remainingPosts }}
+            {{ range $paginator.Pages }}
+            <div class="col-md-6 mb-4">
+              {{ .Render "post" }}
+            </div>
+            {{ end }}
+          </div>
+        </div>
+
+        <!-- Mostra altro button -->
+        {{ if $paginator.HasNext }}
+        <div class="text-center mt-4">
+          <button id="loadMore" class="btn btn-primary" data-next-url="{{ $paginator.Next.URL }}">
+            {{ i18n "load_more_button" }}
+          </button>
+        </div>
+        {{ end }}
+      </div>
+
+      <!-- sidebar widgets -->
+      <aside class="col-lg-4">
+        {{ $widget:= site.Params.widgets.sidebar }}
+        {{ partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . )}}
+      </aside>
+    </div>
+  </div>
+</section>
+<!--=================== blog section end ===================-->
+
+{{ end }}

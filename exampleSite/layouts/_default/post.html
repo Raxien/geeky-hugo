@@ -1,0 +1,110 @@
+<div class="card post-list-card" data-ad-exclude="true">
+  <!-- image path -->
+  {{ $imagePath:= .Params.image }}
+  {{ if $imagePath }}
+  <div class="mb-4 position-relative" data-ad-exclude="true">
+    <!-- image CDN -->
+    {{ if hasPrefix $imagePath "http" }}
+    {{ $cloudBase := replaceRE `,?w_[0-9]+` "" $imagePath }}
+    {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
+    {{ $cloudBase = replace $cloudBase " " "%20" }}
+    {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_400,c_limit" }}
+    {{ $img650 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_650,c_limit" }}
+    {{ $img800 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_800,c_limit" }}
+    <a href="{{.RelPermalink}}" class="d-block rounded-4" style="overflow: hidden;">
+      <div class="image-container" style="width: 100%; height: 200px; position: relative;">
+        <img loading="lazy" decoding="async"
+          src="{{ $img400 | safeURL }}"
+          {{ printf `srcset="%s 400w, %s 650w, %s 800w"` $img400 $img650 $img800 | safeHTMLAttr }}
+          sizes="(max-width: 767px) 110px, 400px"
+          alt="{{ .Title }}"
+          class="img-fluid rounded-4"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;"
+          onmouseover="this.style.transform='scale(1.05)'"
+          onmouseout="this.style.transform='scale(1)'">
+      </div>
+    </a>
+    {{ else }}
+    <!-- /image cdn -->
+
+    <!-- image processing for multiple device -->
+    {{ if fileExists (add `assets/` $imagePath) }}
+    {{ $image:= resources.Get $imagePath }}
+    {{ $imageFallback:= $image.Resize "650x" }}
+    {{ $imageLG:= $image.Resize "650x webp" }}
+    {{ $imageMD:= $image.Resize "600x webp" }}
+    {{ $imageSM:= $image.Resize "545x webp" }}
+    <a href="{{.RelPermalink}}" class="d-block" style="overflow: hidden; border-radius: 0.5rem !important;" data-ad-exclude="true">
+      <picture style="border-radius: 0.5rem !important; display: block;">
+        <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
+        <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
+        <source srcset="{{ $imageLG.RelPermalink }}">
+        <img loading="lazy" decoding="async" class="img-fluid w-100" 
+          src="{{$imageFallback.RelPermalink}}"
+          alt="{{.Title}}" 
+          width="{{$image.Width}}" 
+          height="{{$image.Height}}"
+          style="border-radius: 0.5rem !important; display: block;"
+          onmouseover="this.style.transform='scale(1.05)'"
+          onmouseout="this.style.transform='scale(1)'">
+      </picture>
+    </a>
+    {{ end }}
+    <!-- /image processing for multiple device -->
+    {{ end }}
+  </div>
+  {{ else }}
+  <div class="mb-4">
+    {{ range .Params.categories }}
+    <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary d-inline-block">{{. | title}}</a>
+    {{ end }}
+  </div>
+  {{ end }}
+  <div class="card-body" data-ad-exclude="true">
+    <h3 class="h6">
+      <a class="title-linked" href="{{.RelPermalink}}">{{.Title | markdownify}}</a>
+    </h3>
+    <ul class="list-inline card-meta d-flex align-items-center mb-3">
+      <li class="list-inline-item d-flex align-items-center" style="display: none !important; ">
+        <i class="fas fa-user me-2"></i>
+        <a href="{{`about` | relLangURL}}">{{site.Params.author}}</a>
+      </li>
+      {{ if .Params.country}}
+      <li class="list-inline-item d-flex align-items-center">
+        <i class="fas fa-map-pin me-2"></i>
+        {{ $country := .Params.country}}
+        {{ $link:= add "search/?s=" $country }}
+        <a class="a-country" href="{{$link | relLangURL}}">{{.Params.country | title}}</a>
+      </li>
+      {{end}}
+      <li class="list-inline-item d-flex align-items-center">
+        <i class="fas fa-calendar me-2"></i>
+        <span class="d-inline-block d-md-none">{{ time.Format ":date_medium" .PublishDate }}</span>
+        <span class="d-none d-md-inline-block">{{ time.Format ":date_long" .PublishDate }}</span>
+      </li>
+      {{ if .Params.sponsored}}
+      <li class="list-inline-item d-flex align-items-center">
+        <i>{{ i18n "sponsored_label" }}</i>
+      </li>
+      {{end}}
+      {{ if and (eq .Section "post") (not .IsHome) }}
+      <li class="list-inline-item d-flex align-items-center">
+        <i class="fas fa-glasses me-2"></i>
+        {{ $readTime := mul (div (countwords .Content) 300.0) 60 }}
+        {{ $minutes := math.Floor (div $readTime 60) }}
+        {{ $seconds := mod $readTime 60 }}
+        <span class="d-inline-block d-md-none">{{ $minutes }}m {{ $seconds }}s</span>
+        <span class="d-none d-md-inline-block">{{ i18n "reading_time_minutes" (int $minutes) }} {{ i18n "reading_time_and" }}
+              {{ i18n "reading_time_seconds" (int $seconds) }}</span>
+      </li>
+      {{ end }}
+    </ul>
+    <ul class="list-inline card-badge">
+      {{ range .Params.categories }}
+      <li class="list-inline-item">
+        <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary py-1">{{. | title}}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</div>

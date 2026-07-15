@@ -14,16 +14,16 @@
             <ul class="list-unstyled search me-3">
               {{ if site.Params.search }}
               <li class="list-inline-item">
-                <a href="#" class="toggle-search" aria-label="Cerca nel sito" data-target="#search-wrap">
+                <a href="#" class="toggle-search" aria-label="{{ i18n "search_aria_label" }}" data-target="#search-wrap">
                   <i class="fas fa-search"></i>
-                  <span class="sr-only">Cerca nel sito</span>
+                  <span class="sr-only">{{ i18n "search_aria_label" }}</span>
                 </a>
               </li>
               {{ end }}
               <li class="list-inline-item">
                 <a href="#" class="toggle-side-nav" aria-controls="offcanvasRight">
                   <i class="fas fa-bars"></i>
-                  <span class="sr-only">Apri il menu di navigazione</span>
+                  <span class="sr-only">{{ i18n "menu_open_aria" }}</span>
                 </a>
               </li>
             </ul>
@@ -131,9 +131,9 @@
             {{ if site.Params.search }}
             <ul class="list-unstyled search d-none d-lg-block">
               <li class="list-inline-item">
-                <button class="toggle-search" aria-label="Cerca nel sito" data-target="#search-wrap">
+                <button class="toggle-search" aria-label="{{ i18n "search_aria_label" }}" data-target="#search-wrap">
                   <i class="fas fa-search"></i>
-                  <span class="sr-only">Cerca nel sito</span>
+                  <span class="sr-only">{{ i18n "search_aria_label" }}</span>
                 </button>
               </li>
             </ul>
@@ -165,10 +165,10 @@
         {{ if site.Params.search }}
         <div class="search-wrap" id="search-wrap">
           <form action="{{ `search/?`| relLangURL }}" method="GET" class="search-bar d-flex align-items-center justify-content-center" id="search-form">
-            <input class="search-input w-100 border-0 h-100" id="search-query" name="s" type="search" placeholder="Cerca..." autocomplete="off" aria-label="Cerca nel sito"/>
-            <span class="close-search toggle-search" data-target="#search-wrap" aria-label="Chiudi la ricerca">
+            <input class="search-input w-100 border-0 h-100" id="search-query" name="s" type="search" placeholder="{{ i18n "search_placeholder" }}" autocomplete="off" aria-label="{{ i18n "search_aria_label" }}"/>
+            <span class="close-search toggle-search" data-target="#search-wrap" aria-label="{{ i18n "search_close_aria_label" }}">
               <i class="fas fa-times"></i>
-              <span class="sr-only">Chiudi la ricerca</span>
+              <span class="sr-only">{{ i18n "search_close_aria_label" }}</span>
             </span>
           </form>
         </div>
@@ -177,9 +177,9 @@
         <!-- mobile menu -->
         <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
           <div class="offcanvas-header">
-            <button type="button" class="btn-close" aria-label="Chiudi il menu">
+            <button type="button" class="btn-close" aria-label="{{ i18n "menu_close_aria" }}">
               <i class="fas fa-times"></i>
-              <span class="sr-only">Chiudi il menu</span>
+              <span class="sr-only">{{ i18n "menu_close_aria" }}</span>
             </button>
           </div>
           <div class="offcanvas-body">

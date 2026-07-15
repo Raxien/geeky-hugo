@@ -165,3 +165,65 @@ other = "Mensile"
 
 [expenses_details]
 other = "I costi nel dettaglio"
+
+[search_placeholder]
+other = "Cerca..."
+
+[search_aria_label]
+other = "Cerca nel sito"
+
+[search_close_aria_label]
+other = "Chiudi la ricerca"
+
+[menu_open_aria]
+other = "Apri il menu di navigazione"
+
+[menu_close_aria]
+other = "Chiudi il menu"
+
+[search_results_for]
+other = "Risultati per"
+
+[loading_generic]
+other = "Caricamento..."
+
+[no_results_found]
+other = "Nessun risultato trovato"
+
+[not_found_heading]
+other = "404 Pagina non trovata!"
+
+[not_found_back_button]
+other = "Torna indietro"
+
+[sponsored_label]
+other = "Sponsorizzato"
+
+[reading_time_minutes]
+one = "{{.Count}} minuto"
+other = "{{.Count}} minuti"
+
+[reading_time_seconds]
+one = "{{.Count}} secondo"
+other = "{{.Count}} secondi"
+
+[reading_time_and]
+other = "e"
+
+[load_more_button]
+other = "Mostra altro"
+
+[articles_heading]
+other = "Articoli"
+
+[featured_tab]
+other = "Primo Piano"
+
+[recent_tab]
+other = "Recenti"
+
+[ai_summary_label]
+other = "Riassunto AI"
+
+[ai_summary_expand]
+other = "Espandi"

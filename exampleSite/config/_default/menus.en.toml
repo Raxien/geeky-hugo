@@ -51,7 +51,7 @@ hasChildren = true
     [[main]]
     parent = "Europe"
     name = "Belgium"
-    url = "search/?s=Belgio"
+    url = "search/?s=Belgium"
     weight = 3
 
     [[main]]
@@ -63,19 +63,19 @@ hasChildren = true
     [[main]]
     parent = "Europe"
     name = "Croatia"
-    url = "search/?s=Croazia"
+    url = "search/?s=Croatia"
     weight = 5
 
     [[main]]
     parent = "Europe"
     name = "Denmark"
-    url = "search/?s=Danimarca"
+    url = "search/?s=Denmark"
     weight = 6
 
     [[main]]
     parent = "Europe"
     name = "France"
-    url = "search/?s=Francia"
+    url = "search/?s=France"
     weight = 7
 
     [[main]]
@@ -87,7 +87,7 @@ hasChildren = true
     [[main]]
     parent = "Europe"
     name = "Italy"
-    url = "search/?s=Italia"
+    url = "search/?s=Italy"
     weight = 9
 
     [[main]]
@@ -99,25 +99,25 @@ hasChildren = true
     [[main]]
     parent = "Europe"
     name = "North Macedonia"
-    url = "search/?s=Macedonia"
+    url = "search/?s=North Macedonia"
     weight = 11
 
     [[main]]
     parent = "Europe"
     name = "Netherlands"
-    url = "search/?s=Paesi Bassi"
+    url = "search/?s=Netherlands"
     weight = 13
 
     [[main]]
     parent = "Europe"
     name = "Poland"
-    url = "search/?s=Polonia"
+    url = "search/?s=Poland"
     weight = 14
 
     [[main]]
     parent = "Europe"
     name = "Portugal"
-    url = "search/?s=Portogallo"
+    url = "search/?s=Portugal"
     weight = 15
 
     [[main]]
@@ -135,7 +135,7 @@ hasChildren = true
     [[main]]
     parent = "Europe"
     name = "Spain"
-    url = "search/?s=Spagna"
+    url = "search/?s=Spain"
     weight = 18
 
   [[main]]
@@ -154,13 +154,13 @@ hasChildren = true
     [[main]]
     parent = "Asia"
     name = "South Korea"
-    url = "search/?s=Corea del Sud"
+    url = "search/?s=South Korea"
     weight = 2
 
     [[main]]
     parent = "Asia"
     name = "Japan"
-    url = "search/?s=Giappone"
+    url = "search/?s=Japan"
     weight = 3
 
     [[main]]
@@ -172,7 +172,7 @@ hasChildren = true
     [[main]]
     parent = "Asia"
     name = "Turkey"
-    url = "search/?s=Turchia"
+    url = "search/?s=Turkey"
     weight = 5
 
   [[main]]
@@ -185,7 +185,7 @@ hasChildren = true
     [[main]]
     parent = "Africa"
     name = "Morocco"
-    url = "search/?s=Marocco"
+    url = "search/?s=Morocco"
     weight = 1
 
     [[main]]
@@ -256,7 +256,7 @@ hasChildren = true
   [[footerdestinations]]
   parent = "Europe"
   name = "Belgium"
-  url = "search/?s=Belgio"
+  url = "search/?s=Belgium"
   weight = 3
 
   [[footerdestinations]]
@@ -268,19 +268,19 @@ hasChildren = true
   [[footerdestinations]]
   parent = "Europe"
   name = "Croatia"
-  url = "search/?s=Croazia"
+  url = "search/?s=Croatia"
   weight = 5
 
   [[footerdestinations]]
   parent = "Europe"
   name = "Denmark"
-  url = "search/?s=Danimarca"
+  url = "search/?s=Denmark"
   weight = 6
 
   [[footerdestinations]]
   parent = "Europe"
   name = "France"
-  url = "search/?s=Francia"
+  url = "search/?s=France"
   weight = 7
 
   [[footerdestinations]]
@@ -292,7 +292,7 @@ hasChildren = true
   [[footerdestinations]]
   parent = "Europe"
   name = "Italy"
-  url = "search/?s=Italia"
+  url = "search/?s=Italy"
   weight = 9
 
   [[footerdestinations]]
@@ -304,25 +304,25 @@ hasChildren = true
   [[footerdestinations]]
   parent = "Europe"
   name = "North Macedonia"
-  url = "search/?s=Macedonia"
+  url = "search/?s=North Macedonia"
   weight = 11
 
   [[footerdestinations]]
   parent = "Europe"
   name = "Netherlands"
-  url = "search/?s=Paesi Bassi"
+  url = "search/?s=Netherlands"
   weight = 13
 
   [[footerdestinations]]
   parent = "Europe"
   name = "Poland"
-  url = "search/?s=Polonia"
+  url = "search/?s=Poland"
   weight = 14
 
   [[footerdestinations]]
   parent = "Europe"
   name = "Portugal"
-  url = "search/?s=Portogallo"
+  url = "search/?s=Portugal"
   weight = 15
 
   [[footerdestinations]]
@@ -340,7 +340,7 @@ hasChildren = true
   [[footerdestinations]]
   parent = "Europe"
   name = "Spain"
-  url = "search/?s=Spagna"
+  url = "search/?s=Spain"
   weight = 18
 
 [[footerdestinations]]
@@ -358,13 +358,13 @@ hasChildren = true
   [[footerdestinations]]
   parent = "Asia"
   name = "South Korea"
-  url = "search/?s=Corea del Sud"
+  url = "search/?s=South Korea"
   weight = 2
 
   [[footerdestinations]]
   parent = "Asia"
   name = "Japan"
-  url = "search/?s=Giappone"
+  url = "search/?s=Japan"
   weight = 3
 
   [[footerdestinations]]
@@ -376,7 +376,7 @@ hasChildren = true
   [[footerdestinations]]
   parent = "Asia"
   name = "Turkey"
-  url = "search/?s=Turchia"
+  url = "search/?s=Turkey"
   weight = 5
 
 [[footerdestinations]]
@@ -388,7 +388,7 @@ hasChildren = true
   [[footerdestinations]]
   parent = "Africa"
   name = "Morocco"
-  url = "search/?s=Marocco"
+  url = "search/?s=Morocco"
   weight = 1
 
   [[footerdestinations]]
