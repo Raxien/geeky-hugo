@@ -8,6 +8,7 @@
   <div class="guides-slider">
     <div class="guides-wrapper">
       {{ range $guides }}
+      {{ if and (ne site.Language.Lang "it") (eq .en_show false) }}{{ continue }}{{ end }}
       {{ $cloudBase := replaceRE `,?w_[0-9]+` "" .image }}
       {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
       {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_400,c_limit" }}
