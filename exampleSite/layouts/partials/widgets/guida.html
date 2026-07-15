@@ -43,5 +43,8 @@
       </button>
     </div>
   </div>
+  {{ if ne site.Language.Lang "it" }}
+  <p class="small text-muted mt-2 mb-0">{{ i18n "guides_italian_only_note" }}</p>
+  {{ end }}
 </div>
 

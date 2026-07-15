@@ -302,3 +302,6 @@ other = "Cost"
 
 [expenses_per_day_suffix]
 other = "per day"
+
+[guides_italian_only_note]
+other = "📚 These books are currently only available in Italian."
