@@ -227,3 +227,18 @@ other = "Riassunto AI"
 
 [ai_summary_expand]
 other = "Espandi"
+
+[search_untitled]
+other = "Senza titolo"
+
+[search_loading_in_progress]
+other = "Caricamento della ricerca in corso..."
+
+[search_error]
+other = "Errore nel caricamento della ricerca"
+
+[search_show_more_one]
+other = "Mostra altro {n} risultato"
+
+[search_show_more_other]
+other = "Mostra altri {n} risultati"

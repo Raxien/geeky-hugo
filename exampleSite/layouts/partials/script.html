@@ -1,0 +1,43 @@
+<!-- JS Plugins + Main script -->
+{{ $scripts := slice }}
+{{ range site.Params.plugins.js}}
+{{ if findRE "^http" .link }}
+<script src="{{ .link | relURL }}" type="application/javascript" defer {{.attributes | safeHTMLAttr}}></script>
+{{ else }}
+{{ $scripts = $scripts | append (resources.Get .link) }}
+{{ end }}
+{{ end }}
+
+{{ $mainScript := resources.Get "js/script.js" }}
+{{ if hugo.IsProduction }}
+{{ $mainScript = resources.Get "js/script.min.js" | resources.Minify }}
+{{ end }}
+
+{{ $adsScript := resources.Get "js/ads-optimizer.js" }}
+{{ $scripts = $scripts | append $mainScript | append $adsScript }}
+{{ $scripts = $scripts | resources.Concat "js/bundle.js" | minify | fingerprint "sha512" }}
+<script crossorigin="anonymous" defer integrity="{{ $scripts.Data.Integrity }}" type="application/javascript">{{$scripts.Content | safeJS}}</script>
+
+<!-- Search script -->
+{{ $searchSrc := resources.Get "js/search.js" }}
+{{ if $searchSrc }}
+{{ $searchTarget := printf "js/search.%s.js" site.Language.Lang }}
+{{ $search := $searchSrc | resources.ExecuteAsTemplate $searchTarget . | resources.Minify }}
+<script src="{{ $search.RelPermalink }}" defer></script>
+{{ end }}
+
+{{$pf:= site.Params.variables.font_primary}}
+{{$sf:= site.Params.variables.font_secondary}}
+
+<!-- Netlify Identity Widget redirect script -->
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", (user) => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>

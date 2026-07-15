@@ -227,3 +227,18 @@ other = "AI Summary"
 
 [ai_summary_expand]
 other = "Expand"
+
+[search_untitled]
+other = "Untitled"
+
+[search_loading_in_progress]
+other = "Loading search..."
+
+[search_error]
+other = "Error loading search"
+
+[search_show_more_one]
+other = "Show {n} more result"
+
+[search_show_more_other]
+other = "Show {n} more results"
