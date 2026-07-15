@@ -1,5 +1,6 @@
 ---
 title: 'Guide to the Hells of Beppu: What They Are, How Much They Cost and Which Ones Are Worth Seeing'
+slug: beppu-hells-guide-what-to-see
 description: ''
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1751873780/Articoli/Giappone/guida-a-beppu-giappone_dsrvms.png
 date: 2025-06-04T7:00:00+01:00
@@ -20,7 +21,7 @@ The name "hells" isn't accidental: these springs aren't onsen you can bathe in, 
 
 You can decide to visit them all in half a day (or take it slower over a whole day), but if time is tight, **two pools in particular** will leave you speechless and are worth the detour on their own.
 
-{{< leggi-anche url="/blog/giappone-kyushu-14-giorni-on-the-road-selvaggio" >}}
+{{< leggi-anche url="/blog/wild-kyushu-14-days-on-the-road/" >}}
 
 ### 1. Umi Jigoku – The sea hell
 
@@ -82,7 +83,7 @@ We used Klook, and if you sign up with our discount code you'll get $5 off your 
 
 After signing up, you can buy tickets {{< extLink "here" "https://www.klook.com/activity/29063-beppu-jigoku-onsen-ticket/" >}}
 ## How to get there
-- From **[Beppu JR station](/blog/prenota-treni-giappone-japan-bullet-train-senza-stress)**, take a **Kamenoi bus** (line 5, 7 or 9) and get off at **Kannawa Onsen**
+- From **[Beppu JR station](/blog/japan-bullet-train-booking-guide/)**, take a **Kamenoi bus** (line 5, 7 or 9) and get off at **Kannawa Onsen**
 - Journey time: 25–30 minutes
 - Price: about ¥300–350
 - Alternative: **public transport day pass** (about ¥900)

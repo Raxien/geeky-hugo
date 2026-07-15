@@ -1,5 +1,6 @@
 ---
 title: 'Book Your Japanese Trains with Japan Bullet Train and Travel Stress-Free'
+slug: japan-bullet-train-booking-guide
 description: 'Are you planning a trip to Japan and want to explore the country''s wonders aboard the famous Shinkansen trains? Japan Bullet Train is the ideal solution for booking your tickets simply, quickly and stress-free, avoiding long ticket office queues and language difficulties.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1751869459/Articoli/Giappone/japan-shinkansen_uovshc.jpg
 date: 2025-06-03T7:00:00+01:00

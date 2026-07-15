@@ -1,5 +1,6 @@
 ---
 title: 'Seoul: What to See in 4 Days - Complete Itinerary'
+slug: seoul-4-day-itinerary
 description: 'Discover Seoul in 4 days: a complete itinerary covering the best attractions between history, culture and modernity in the capital of South Korea'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Corea/Seoul/cheonggyecheon-stream_cmib4y.jpg
 date: 2025-04-17T7:00:00+01:00

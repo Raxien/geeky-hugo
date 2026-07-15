@@ -1,5 +1,6 @@
 ---
 title: 'A Different Japan: 14 Days on the Road in Wild Kyushu'
+slug: wild-kyushu-14-days-on-the-road
 description: 'Explore Kyushu in 14 days on the road! A campervan itinerary through volcanoes, onsen, hidden temples and breathtaking coastlines. Discover authentic Japan!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713007643/Articoli//Giappone/nanzoin-kyushu-itinerario_iifdfj.jpg
 date: 2025-05-16T7:00:00+01:00
@@ -17,7 +18,7 @@ If you're looking for an alternative itinerary in Japan, you're in the right pla
 
 ## Why choose Kyushu?
 Kyushu is the lesser-known face of Japan, but it might just be the most fascinating island: **active volcanoes, steaming onsen, temples hidden in greenery, cities with deep history, breathtaking coastlines.**
-And it's perfect if you have the chance to rent a car or campervan, because **many of its wonders are off the beaten track**. By the way, find out [all the information for driving in Japan here.](/blog/guidare-in-giappone-tutto-quello-che-ce-da-sapere) But don't panic: you can also organise everything with public transport, especially up to the Kumamoto stage. It just takes a bit more time, patience and… Google Maps (which really is a great ally in Japan!).
+And it's perfect if you have the chance to rent a car or campervan, because **many of its wonders are off the beaten track**. By the way, find out [all the information for driving in Japan here.](/blog/driving-in-japan-what-you-need-to-know/) But don't panic: you can also organise everything with public transport, especially up to the Kumamoto stage. It just takes a bit more time, patience and… Google Maps (which really is a great ally in Japan!).
 
 ## Day by day: 14 stops to fall in love with Kyushu
 
@@ -25,7 +26,7 @@ And it's perfect if you have the chance to rent a car or campervan, because **ma
 Landing in Fukuoka. Why? Because almost nobody thinks of it, and it's a choice worthy of true travel ninjas. Fukuoka is well connected to Italy (often with just one stopover) and **flights cost less than to Tokyo or Osaka.**
 Take some time to settle in, stretch your legs and try the famous tonkotsu ramen (or if you prefer a [vegetarian alternative, discover it here](https://vandipety.it/blog/ramen-vegetariano-fukuoka-alternativa-tonkotsu/)) (guide in Italian).
 
-{{< leggi-anche url="/blog/cosa-vedere-fukuoka-citta-accogliente-kyushu">}}
+{{< leggi-anche url="/blog/what-to-see-in-fukuoka-kyushu/">}}
 
 **{{< underline "Day 2">}}**: **Nanzoin Buddha, Dazaifu and arrival in Nagasaki**
 Pick up the car and head straight to the gigantic **reclining Buddha of Nanzoin**. Then head to Dazaifu. Arrival in Nagasaki in the afternoon.
@@ -59,9 +60,9 @@ Today is a magical day: wandering or "swimming" (just kidding! But you can rent 
 Craters, lunar landscapes and endless pastures across a huge caldera and a volcano that's still rumbling. Then relax at Kurokawa Onsen, one of Japan's most beautiful hot-spring villages.
 
 **{{< underline "Day 11">}}**: **Beppu**
-The onsen capital: [visit the colourful "hells"](/blog/guida-inferni-beppu-cosa-sono-costo-quali-vedere/), relax in the local baths and try eggs cooked in geothermal steam.
+The onsen capital: [visit the colourful "hells"](/blog/beppu-hells-guide-what-to-see/), relax in the local baths and try eggs cooked in geothermal steam.
 
-{{< leggi-anche url="/blog/guida-inferni-beppu-cosa-sono-costo-quali-vedere/" >}}
+{{< leggi-anche url="/blog/beppu-hells-guide-what-to-see/" >}}
 
 **{{< underline "Day 12">}}**: **Itoshima**
 Head back north with a stop in Itoshima, a beach that's the perfect way to close the trip among waves and red torii gates over the sea.
@@ -72,7 +73,7 @@ Relax, last-minute shopping and… another bowl of ramen, which never hurts.
 **{{< underline "Day 14">}}**: **Departure**
 Time to say goodbye. But we're sure: this corner of Japan will have stayed in your heart.
 
-{{< leggi-anche url="/blog/viaggio-giappone-guida-itinerari/" >}}
+{{< leggi-anche url="/blog/japan-trip-2025-itineraries-guide/" >}}
 
 ## Itinerary at a glance
 

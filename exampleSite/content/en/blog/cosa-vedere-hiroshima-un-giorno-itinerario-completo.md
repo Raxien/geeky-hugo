@@ -1,5 +1,6 @@
 ---
 title: 'One Day in Hiroshima: Complete Guide and Itinerary'
+slug: one-day-in-hiroshima-complete-itinerary
 description: 'Discover what to see in Hiroshima in one day: Peace Park, Atomic Bomb Museum, Castle and the best okonomiyaki. Complete itinerary with practical tips.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1759921548/Articoli/Giappone/hiroshima-guida-completa_gs2olb.png 
 date: 2025-10-07T7:00:00+01:00
@@ -57,11 +58,11 @@ Search "Tamaru Shokudo" on Google Maps to get there easily
 
 ## 5. Want to Discover Miyajima too?
 
-If you have an extra day or want to experience the magic of the floating torii, check out our dedicated guide (in Italian for now): [Guida a Miyajima: il torii, i cervi e i sentieri meno battuti](https://vandipety.it/blog/miyajima-guida-completa-cosa-vedere-isola-sacra)
+If you have an extra day or want to experience the magic of the floating torii, check out our dedicated guide: [Miyajima: the sacred island between sea and mountains](/blog/miyajima-sacred-island-guide/)
 
 ## How to Get to Hiroshima
 
-- **From Osaka or Kyoto**: by shinkansen (1h30 from Kyoto, 1h from Osaka) — see our guide to booking Japanese trains (in Italian for now): [Japan Bullet Train](https://vandipety.it/blog/prenota-treni-giappone-japan-bullet-train-senza-stress)
+- **From Osaka or Kyoto**: by shinkansen (1h30 from Kyoto, 1h from Osaka) — see our guide to booking Japanese trains: [Japan Bullet Train](/blog/japan-bullet-train-booking-guide/)
 - **In the city**: the Hiroden tram, convenient and frequent
 - **By campervan**: plenty of paid parking available in the city
 

@@ -1,5 +1,6 @@
 ---
 title: 'Japan in 12 Days: Osaka-Kyoto-Kumano Kodo Between Temples and Spirituality'
+slug: japan-12-days-osaka-kyoto-kumano-kodo
 description: 'Discover an original 12-day itinerary through Japan from Osaka to Kyoto via Kumano Kodo, sacred temples, onsens and breathtaking scenery. Complete vanlife guide.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1761029547/articoli/viaggi/Copia di Nero Minimalista Viaggio Miniatura YouTube-mgqvehg8.png
 date: 2025-10-20T08:00:00+02:00

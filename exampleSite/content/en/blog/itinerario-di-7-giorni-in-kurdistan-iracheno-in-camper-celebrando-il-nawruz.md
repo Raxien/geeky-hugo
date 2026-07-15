@@ -1,5 +1,6 @@
 ---
 title: '7-Day Itinerary Through Iraqi Kurdistan by Campervan: Celebrating Nawruz'
+slug: iraqi-kurdistan-7-day-campervan-itinerary-nawruz
 description: 'Explore Iraqi Kurdistan by campervan with a 7-day itinerary! Celebrate Nawruz, visit Erbil, Lalish, Sulaymaniyah and experience a unique adventure.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/iraq/erbil-la-capitale_pj3ogq.jpg
 date: 2025-04-22T7:00:00+01:00
@@ -17,7 +18,7 @@ The roads of Iraqi Kurdistan are generally well maintained and safe, even in mou
 ## Nawruz: the Persian New Year celebration
 **Nawruz**, celebrated around 20-21 March, is the Persian New Year, a festival of renewal that unites Kurds, Yazidis and other communities. Families prepare the **Haft Sin** table with seven symbolic items (e.g. apples and sprouts) and traditional dishes like **Sabzi Polo Ba Mahi** (herbed rice with fish). The evening before, during **Chahârshanbe Sûrî**, bonfires are lit to symbolise light triumphing over darkness, followed by torchlit processions and fireworks. If it coincides with Ramadan, celebrations only take place at night; otherwise, they continue into the following day with dancing, Kurdish music and community picnics.
 
-{{< leggi-anche url="/blog/come-entrare-nel-kurdistan-iracheno-guida-completa-per-viaggiatori" >}}
+{{< leggi-anche url="/blog/how-to-enter-iraqi-kurdistan-complete-guide/" >}}
 
 ## Itinerary
 

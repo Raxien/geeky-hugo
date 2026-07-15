@@ -1,5 +1,6 @@
 ---
 title: 'How to Reach Jeju Island: Complete Guide by Ferry and Plane (with First-Hand Experience)'
+slug: how-to-reach-jeju-island-ferry-and-flight-guide
 description: "Discover how to reach Jeju from South Korea: all the available ferries, low-cost flights, costs for campervans and foreign vehicles. A guide based on first-hand experience"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1760163683/Articoli/Corea/guida-traghetti-jeju_wrhgfk.png
 date: 2025-10-10T10:00:00.000
@@ -173,7 +174,7 @@ A **very important** note for anyone travelling with a foreign-registered (non-S
 From our research and first-hand experience, we noticed that:
 
 - Costs for **foreign-plated** vehicles are **higher** than for Korean vehicles
-- Some terminals require **extra documentation**, such as [temporary import documents!](/blog/come-entrare-corea-sud-russia-guida-aggiornata-overlander/)
+- Some terminals require **extra documentation**, such as [temporary import documents!](/blog/how-to-enter-south-korea-from-russia-overlander-guide/)
 
 **Our case:**
 With our Italian campervan, we paid ₩207,200 for the Nokdong ferry, which is a higher cost than what similarly sized Korean vehicles pay.
@@ -184,7 +185,7 @@ With our Italian campervan, we paid ₩207,200 for the Nokdong ferry, which is a
 3. **Ask for cost confirmation** before making the payment
 4. **Booking online is nearly impossible** for foreigners, it's better to go in person
 
-{{< leggi-anche url="/blog/come-entrare-corea-sud-russia-guida-aggiornata-overlander/" >}}
+{{< leggi-anche url="/blog/how-to-enter-south-korea-from-russia-overlander-guide/" >}}
 
 ## Booking ferries to Jeju: How to do it as a foreigner
 

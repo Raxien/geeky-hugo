@@ -1,5 +1,6 @@
 ---
 title: 'What to See in Fukuoka: The Welcoming City of Kyushu'
+slug: what-to-see-in-fukuoka-kyushu
 description: 'Discover what to see in Fukuoka: from Ōhori Park to Sasaguri forest, beaches, yatai stalls and tonkotsu ramen. Explore the welcoming heart of Kyushu!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1753957782/Articoli/Blog/tour-di-fukuoka-il-meglio-da-vedere_ccpioy.png
 date: 2025-07-30T7:00:00+01:00
@@ -9,7 +10,7 @@ type: regular
 continent: Asia
 country: Japan
 ---
-Fukuoka is the gateway to southern Japan: it's located on the island of **[Kyushu](/blog/giappone-kyushu-14-giorni-on-the-road-selvaggio/)**, the southernmost of the country's four main islands. Overlooking the sea, Fukuoka blends modernity, green spaces, street food and spirituality in a surprisingly relaxed mix. **It's no coincidence that it's often listed among Japan's most liveable cities!**
+Fukuoka is the gateway to southern Japan: it's located on the island of **[Kyushu](/blog/wild-kyushu-14-days-on-the-road/)**, the southernmost of the country's four main islands. Overlooking the sea, Fukuoka blends modernity, green spaces, street food and spirituality in a surprisingly relaxed mix. **It's no coincidence that it's often listed among Japan's most liveable cities!**
 
 If you're travelling through southern Japan or landing here on an international flight, we recommend staying at least a day to explore the city. Here's **what to see in Fukuoka** in a day (or two!).
 
@@ -27,7 +28,7 @@ A little off the classic tourist trail, the **Nakatsukasa Magotarō Inari Shrine
 
 **Tip**: throw in a coin and let yourself be surprised by the sound that wraps around everything and everyone.
 
-{{< leggi-anche url="/blog/giappone-kyushu-14-giorni-on-the-road-selvaggio/" >}}
+{{< leggi-anche url="/blog/wild-kyushu-14-days-on-the-road/" >}}
 
 ## 3. Downtown streets: shop windows, creative districts and urban atmosphere
 Fukuoka's modern heart is split between **Tenjin** and **Daimyō**: two neighbouring districts full of contrasts. On one side elegant shopping centres, independent boutiques and design shops; on the other, alleyways with **creative cafés**, bookshops, street art and the smell of curry.
@@ -61,11 +62,11 @@ The famous **Yatai stalls** pop up along the Naka River or near the Tenjin area:
 
 - **By plane**: Fukuoka Airport has domestic and international connections (from Tokyo, Osaka, Seoul, Taiwan…). From the terminal, the **metro gets you downtown in under 10 minutes**!
 
-- **By train**: from **Hakata** station, shinkansen arrive from Hiroshima, Osaka and Tokyo ([book your train here](/blog/prenota-treni-giappone-japan-bullet-train-senza-stress/)).
+- **By train**: from **Hakata** station, shinkansen arrive from Hiroshima, Osaka and Tokyo ([book your train here](/blog/japan-bullet-train-booking-guide/)).
 
 - **By campervan or car?** The roads are well maintained and there are several paid car parks near the centre and public parks.
 
 ## Bonus
 If you want to find out where to eat vegetarian ramen in Fukuoka, **[we've written a dedicated article.](https://vandipety.it/blog/ramen-vegetariano-fukuoka-alternativa-tonkotsu)** (guide in Italian)
 
-And if you have time to explore the surroundings, with hidden temples, islands and lanterns over the sea, **[don't miss our full article on what to see around Fukuoka!](/blog/giappone-kyushu-14-giorni-on-the-road-selvaggio)**
+And if you have time to explore the surroundings, with hidden temples, islands and lanterns over the sea, **[don't miss our full article on what to see around Fukuoka!](/blog/wild-kyushu-14-days-on-the-road/)**

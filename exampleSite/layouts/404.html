@@ -10,7 +10,10 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-10 mx-auto text-center">
-        <h1>{{ i18n "not_found_heading" }}</h1>
+        {{ $imagePath := "images/404_it.png" }}
+        {{ if ne site.Language.Lang "it" }}{{ $imagePath = "images/404_eng.png" }}{{ end }}
+        {{ $image := resources.Get $imagePath }}
+        <img src="{{ $image.RelPermalink }}" alt="404" class="img-fluid mb-4">
         <a href="{{site.BaseURL | relLangURL}}" class="btn btn-primary">{{ i18n "not_found_back_button" }}</a>
       </div>
     </div>

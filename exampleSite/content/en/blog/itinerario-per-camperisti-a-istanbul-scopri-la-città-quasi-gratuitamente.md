@@ -1,5 +1,6 @@
 ---
 title: 'Istanbul Low-Cost: Explore the City for Free'
+slug: istanbul-low-cost-itinerary
 description: 'Discover Istanbul for free! Visit the Blue Mosque, Taksim and Üsküdar, taste street food and admire views over the Bosphorus with our low-cost itinerary!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713007643/Articoli/Direzione%20giappone/Istanbul/istanbul_vista_bosforo_c4he1i.jpg
 date: 2025-04-27T7:00:00+01:00

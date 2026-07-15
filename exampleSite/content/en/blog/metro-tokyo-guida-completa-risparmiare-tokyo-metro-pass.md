@@ -1,5 +1,6 @@
 ---
 title: 'Tokyo Metro: Complete Guide to Saving Money with the Tokyo Metro Pass'
+slug: tokyo-metro-pass-complete-guide
 description: "Discover how to save money on the Tokyo metro with the Tokyo Metro Pass: cheaper than Suica and Pasmo. Everything you need to know about the Tokyo subway"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1760100799/Articoli/Giappone/guida-metro-tokyo-2025_mfvopu.png
 date: 2025-10-10T10:00:00.000
@@ -35,7 +36,7 @@ Single tickets are bought from the ticket machines found in every station. The c
 - **Downside**: you have to work out the correct fare and buy a new ticket for every journey
 - **When it's worth it**: only for 1-2 isolated rides during your stay
 
-{{< leggi-anche url="/blog/viaggio-giappone-guida-itinerari/" >}}
+{{< leggi-anche url="/blog/japan-trip-2025-itineraries-guide/" >}}
 
 ### 2. Suica and Pasmo (rechargeable cards)
 

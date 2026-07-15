@@ -1,5 +1,6 @@
 ---
 title: 'Trip to Japan 2025: Itineraries and Useful Info' 
+slug: japan-trip-2025-itineraries-guide
 description: "Discover itineraries and useful information for your trip to Japan: costs, seasons and practical tips from the Vandipety blog!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1687279327/Articoli/Giappone/tori-in-acqua_gzscgp.jpg
 date: 2023-06-19T17:00:00.000
@@ -69,7 +70,7 @@ In this section we suggest two itineraries you can follow using public transport
 In a final section you'll find the places that, in our opinion, are most worth seeing!
 
 ### 8 Days
-The **classic** itinerary. It lets you experience Japan in 8 days and see the main attractions, from futuristic **Tokyo** to the ancient capital of **Kyoto**, passing through **Kamakura** and **[Nara](/blog/nara-un-giorno-templi-cervi-foreste)**.
+The **classic** itinerary. It lets you experience Japan in 8 days and see the main attractions, from futuristic **Tokyo** to the ancient capital of **Kyoto**, passing through **Kamakura** and **[Nara](/blog/nara-in-one-day-temples-deer-forests/)**.
 Departure from Narita Airport and return from Osaka International Airport.
 
 **{{< underline "Day 1">}}** arrival at Narita Airport and transfer to Tokyo by train. Visit **{{< bold "Ueno">}}** park and move in the evening to the **{{< bold "Akihabara">}}** district.
@@ -87,7 +88,7 @@ In the evening, a stroll through **{{< bold "Golden Gai">}}**.
 
 **{{< underline "Day 6">}}** visit the **{{< bold "Golden Pavilion (Kinkakuji)">}}** and the rock garden at **{{< bold "Ryōan-ji Temple">}}**. Move to the **{{< bold "Arashiyama">}}** district to see the **{{< bold "bamboo forest">}}** and **{{< bold "Tenryū-ji Temple">}}**. Finish with a visit to **{{< bold "Saga Toriimoto">}}**, a lovely lane lined with wooden houses.
 
-**{{< underline "Day 7">}}** wake up early to walk around **{{< bold "Fushimi Inari">}}**. In the afternoon move to **[Nara](/blog/nara-un-giorno-templi-cervi-foreste)** and visit **{{< bold "Todai-ji Temple">}}** (watch out for hungry deer!).
+**{{< underline "Day 7">}}** wake up early to walk around **{{< bold "Fushimi Inari">}}**. In the afternoon move to **[Nara](/blog/nara-in-one-day-temples-deer-forests/)** and visit **{{< bold "Todai-ji Temple">}}** (watch out for hungry deer!).
 
 **{{< underline "Day 8">}}** morning dedicated to the **{{< bold "Philosopher's Path">}}** and its many shrines. In the early afternoon, transfer to **Osaka** by shinkansen (14 minutes from Kyoto) to visit its iconic (though now a replica) Castle and the **Minami district**. In the evening, transfer to Osaka International Airport.
 
@@ -120,7 +121,7 @@ In the evening, a stroll through **{{< bold "Golden Gai">}}**.
 
 {{< carousel images="Articoli/Giappone/bar-tokyo-ragazza_xgfakr.jpg,Articoli/Giappone/Shirakawa-Go-case_vwrlka.jpg,Articoli/Giappone/antiche-case-giapponesi_c1toth.jpg,Articoli/Giappone/ostriche-myashima_by6pix.jpg" >}}
 
-**{{< underline "Day 11">}}** wake up early to walk around **{{< bold "Fushimi Inari">}}**. In the afternoon move to **[Nara](/blog/nara-un-giorno-templi-cervi-foreste)** and visit **{{< bold "Todai-ji Temple">}}** (watch out for the many hungry deer).
+**{{< underline "Day 11">}}** wake up early to walk around **{{< bold "Fushimi Inari">}}**. In the afternoon move to **[Nara](/blog/nara-in-one-day-temples-deer-forests/)** and visit **{{< bold "Todai-ji Temple">}}** (watch out for the many hungry deer).
 
 **{{< underline "Day 12">}}** head to **{{< bold "Hiroshima">}}** by _Shinkansen_ in 2 hours. A day dedicated to visiting the beautiful Shukkeien park, the peace memorial and the city. In the afternoon visit the island of **{{< bold "Miyajima">}}** and its striking Torii gate in the water, reachable by train (30 minutes) and then ferry (15 minutes).
 

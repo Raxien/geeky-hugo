@@ -1,5 +1,6 @@
 ---
 title: 'Driving in Japan: Everything You Need to Know'
+slug: driving-in-japan-what-you-need-to-know
 description: 'Discover how to drive in Japan: international driving permit, car rental, narrow roads, tolls and tips for campervans. Explore Kyushu and Shikoku with freedom!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713007643/Articoli/Giappone/guidare-in-giappone_ime6kr.jpg
 date: 2025-05-15T7:00:00+01:00
@@ -23,7 +24,7 @@ Between the occasional "mamma mia" and a daring overtake (just kidding, drive ca
 
 There's a silver lining: **you won't find any roundabouts!**
 
-{{< leggi-anche url="/blog/come-entrare-in-giappone-con-un-veicolo-senza-carnet-de-passages" >}}
+{{< leggi-anche url="/blog/how-to-enter-japan-without-carnet-de-passages/" >}}
 
 ## 3. Renting a car or campervan
 You can safely rent cars and campervans through local agencies or international platforms. **Book in advance, especially during high season** (such as Golden Week or summer). Remember that [you drive on the left](#2-you-drive-on-the-wrong-side).
@@ -72,4 +73,4 @@ Sleeping in your vehicle isn't banned in Japan, but it's important to do it in t
 ## In short: yes, it's worth driving
 If you love freedom, exploration and the chance to get off the classic tourist trail, **driving in Japan is an experience that enriches your trip.** All it takes is a bit of preparation, attention and respect for the rules.
 
-By the way, want to discover [a perfect 14-day tour through Kyushu on the road? Click here.](/blog/giappone-kyushu-14-giorni-on-the-road-selvaggio)
+By the way, want to discover [a perfect 14-day tour through Kyushu on the road? Click here.](/blog/wild-kyushu-14-days-on-the-road/)

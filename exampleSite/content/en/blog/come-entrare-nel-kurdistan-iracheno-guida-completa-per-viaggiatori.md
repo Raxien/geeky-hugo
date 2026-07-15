@@ -1,5 +1,6 @@
 ---
 title: 'How to Enter Iraqi Kurdistan: Complete Guide for Travellers'
+slug: how-to-enter-iraqi-kurdistan-complete-guide
 description: 'Find out how to enter Iraqi Kurdistan: a guide to visas, flights, safety and attractions in Erbil and Sulaymaniyah.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475//iraq/iraq-kurdistan-iracheno_avgjtc.jpg
 date: 2025-04-20T7:00:00+01:00
@@ -124,7 +125,7 @@ Here are a few unmissable stops:
 - **Zagros Mountains**: Ideal for trekking and spectacular views.
 - **Lalish**: The spiritual centre of the Yazidis, which can be visited while respecting local customs.
 
-Check out our [7-day Iraqi Kurdistan itinerary](/blog/itinerario-di-7-giorni-in-kurdistan-iracheno-in-camper-celebrando-il-nawruz) to plan the best trip!
+Check out our [7-day Iraqi Kurdistan itinerary](/blog/iraqi-kurdistan-7-day-campervan-itinerary-nawruz/) to plan the best trip!
 
 ## Important warnings
 
@@ -134,4 +135,4 @@ Check out our [7-day Iraqi Kurdistan itinerary](/blog/itinerario-di-7-giorni-in-
 
 ## Conclusion
 
-Entering Iraqi Kurdistan is a unique experience, but it requires planning. With good preparation, a well-thought-out itinerary and attention to safety, you'll have an unforgettable trip full of culture, history and breathtaking scenery. **Ready to go?** Share your experience in the comments or [check out the 7-day itinerary!](/blog/itinerario-di-7-giorni-in-kurdistan-iracheno-in-camper-celebrando-il-nawruz)
+Entering Iraqi Kurdistan is a unique experience, but it requires planning. With good preparation, a well-thought-out itinerary and attention to safety, you'll have an unforgettable trip full of culture, history and breathtaking scenery. **Ready to go?** Share your experience in the comments or [check out the 7-day itinerary!](/blog/iraqi-kurdistan-7-day-campervan-itinerary-nawruz/)

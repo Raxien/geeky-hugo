@@ -20,8 +20,6 @@ Relive this trip here: {{<extLink "Part 1" "https://www.youtube.com/playlist?lis
 
 {{< image src="images/Road-to-dakar.png" w="1400" o="webp q80" alt="Road to Dakar" >}}
 
-<!-- section break -->
-
 ## Road to Japan
 
 The longest and most ambitious stretch, 40,000 km through the Balkans, Turkey, Iraq, then Russia, Kazakhstan, Mongolia and South Korea, until we finally reached the Land of the Rising Sun.
@@ -30,12 +28,12 @@ Relive this trip here: {{<extLink "Part 1" "https://www.youtube.com/playlist?lis
 
 {{< image src="images/Asian-tour.png" w="1400" o="webp q80" alt="Road to Japan - Balkans and Turkey leg" >}}
 
-{{< image src="images/Road-to-Japan.png" w="1400" o="webp q80" alt="Road to Japan - Russia, Kazakhstan, Mongolia and Korea leg" >}}
-
-<!-- section break -->
-
 ## Japan Living
 
 Two years spent between Japan and South Korea, discovering their cultures and differences!
 
 Relive these adventures here: {{<extLink "Part 1" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_2FjZ8FIyVVqKzpgzdJbMm">}}
+
+
+{{< image src="images/Road-to-Japan.png" w="1400" o="webp q80" alt="Road to Japan - Russia, Kazakhstan, Mongolia and Korea leg" >}}
+

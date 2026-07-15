@@ -1,5 +1,6 @@
 ---
 title: 'Campervan Itinerary in Istanbul: 5 Days to Discover the City'
+slug: istanbul-campervan-itinerary-5-days
 description: 'Discover the Istanbul metro: a fast, cheap and sustainable transport system for exploring the city, connecting attractions like Sultanahmet, Taksim and Kadikoy with comfort and ease.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1754563820/Articoli/turchia/guida-a-istanbul-5-giorni_q2tgjk.png
 date: 2025-08-05T07:00:00+01:00

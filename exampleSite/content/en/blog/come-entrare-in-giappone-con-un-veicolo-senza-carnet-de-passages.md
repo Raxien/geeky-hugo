@@ -1,5 +1,6 @@
 ---
 title: "Here's How to Enter Japan with a Vehicle Without a Carnet de Passages"
+slug: how-to-enter-japan-without-carnet-de-passages
 description: "Find out how to enter Japan with your vehicle without wasting money on the Carnet de Passages en Douane. Follow our guide to applying for the Temporary Import Permit, a free and simple alternative, based on our first-hand experience"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1739789765/Articoli/camper/camper-tori_nxvehm.jpg
 date: 2025-02-10T10:00:00+01:00
@@ -13,7 +14,7 @@ draft: false
 When planning a trip to Japan with your own vehicle, most people immediately think of the Carnet de Passages en Douane as the mandatory solution. However, there's a free and equally effective alternative: **the Temporary Import Permit.**
 Although Japan has very strict rules for bringing in vehicles, knowing the right procedures lets you enter the country without problems and without spending exorbitant amounts.
 
-In December 2024 we entered Japan with our Italian campervan, **without a Carnet de Passages**, together with our cat (by the way, want to know how to avoid quarantine? [Find out here](/blog/entrare-giappone-cane-gatto-evitare-quarantena)): this is our first-hand experience and we're happy to share it with you, hoping it helps you **plan your trip to Japan without a hitch.**
+In December 2024 we entered Japan with our Italian campervan, **without a Carnet de Passages**, together with our cat (by the way, want to know how to avoid quarantine? [Find out here](/blog/entering-japan-with-pets-avoid-quarantine/)): this is our first-hand experience and we're happy to share it with you, hoping it helps you **plan your trip to Japan without a hitch.**
 
 In this guide we'll explain what the Carnet de Passages en Douane (CPD from here on) and the Temporary Import Permit (TIP) are, the procedures for entering the country with one or the other, and how to avoid spending money unnecessarily.
 

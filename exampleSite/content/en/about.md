@@ -21,4 +21,4 @@ We've changed a lot since we set off. If we once needed to know where we'd wake 
 
 Want to find out a bit more about us? Start here:
 
-- **[Not just another blog: the story of a "wild family"](/blog/cambiare-vita-e-ancora-possibile)**
+- **[Not just another blog: the story of a "wild family"](/blog/not-just-another-blog-wild-family-story/)**

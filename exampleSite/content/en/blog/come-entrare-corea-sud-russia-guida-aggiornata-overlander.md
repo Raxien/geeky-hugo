@@ -1,5 +1,6 @@
 ---
 title: 'How to Enter South Korea from Russia: The Updated Guide for Overlanders [2025 Update]'
+slug: how-to-enter-south-korea-from-russia-overlander-guide
 description: 'Complete guide to entering South Korea from Russia by campervan: the DuWon ferry, documents and tips for overlanders!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1752301060/Articoli/Russia/vladivostok/guida-traghetto-russia-corea_bhgfz5.png
 date: 2025-07-09T7:00:00+01:00
@@ -23,7 +24,7 @@ Travelling through Asia by campervan is an exciting adventure, and **reaching So
 ## The DuWon ferry from Vladivostok to Donghae
 The most commonly used sea link for anyone travelling with a vehicle (motorbike, car or campervan) from Vladivostok to South Korea. {{< extLink "The DuWon Shipping ferry" "https://corp.dwship.co.kr/en/" >}} is reliable, but the customs procedures and the restrictions on luggage and materials **on board require proper preparation.**
 
-The ferry from Vladivostok to Donghae departs every Thursday and takes 24 hours. Since 2025 it's possible to continue on and arrive in Sakaiminato, Japan ([the guide is just a click away](/blog/come-entrare-in-giappone-con-un-veicolo-senza-carnet-de-passages)).
+The ferry from Vladivostok to Donghae departs every Thursday and takes 24 hours. Since 2025 it's possible to continue on and arrive in Sakaiminato, Japan ([the guide is just a click away](/blog/how-to-enter-japan-without-carnet-de-passages/)).
 
 In case of typhoons or bad weather, the crossing can be cancelled and you'll have to wait for the following week.
 
@@ -34,7 +35,7 @@ You'll find the DuWon offices in Vladivostok {{< extLink "at this address" "http
 
 Since August 2025 a new route from Vladivostok to Sokcho has launched. According to {{< extLink "their website" "https://gnlferry.com/main" >}} (Korean and Russian only):  
 - it's a RoRo ferry, so it's possible to load your own vehicle. {{< extLink "More information here." "https://gnlferry.com/freight/temporaryTraffic" >}}  
-- it's possible to bring your pet on board. [Here's our guide](/blog/guida-completa-entrare-corea-sud-russia-cane-gatto/).  
+- it's possible to bring your pet on board. [Here's our guide](/blog/south-korea-from-russia-with-pets-guide/).  
 - prices seem cheaper than the well-known DuWon ferry.
 
 Since this route is completely new, we don't have any further information about it. If you want to go ahead with this ferry, we recommend contacting [Yuri](#1-contatta-yuri-il-doganiere-di-fiducia) and the ferry company in advance.
@@ -57,7 +58,7 @@ For convenience we've cc'd two other contacts to be sure of getting a reply. We 
 
 > **Warning**   
 > To get approval to import your vehicle, Korean customs requires a confirmed booking for your next departure from Korea, **with a mandatory booking for the next ship**, not just a rough date.   
-> Make sure to contact [Camellia Line in good time if you want to continue your trip to Japan](/blog/come-entrare-in-giappone-con-un-veicolo-senza-carnet-de-passages), or {{< extLink "Mr. Youn from Assured Sea & Air Co., Ltd." "mailto:uhy@assured.co.kr" >}} (uhy@assured.co.kr) if you want to ship your vehicle somewhere else in the world.
+> Make sure to contact [Camellia Line in good time if you want to continue your trip to Japan](/blog/how-to-enter-japan-without-carnet-de-passages/), or {{< extLink "Mr. Youn from Assured Sea & Air Co., Ltd." "mailto:uhy@assured.co.kr" >}} (uhy@assured.co.kr) if you want to ship your vehicle somewhere else in the world.
 
 ### 3. Prepare and send the photo documentation
 Customs will ask you in advance for **detailed photos of the vehicle and personal documents**
@@ -83,7 +84,7 @@ You'll be asked for the following photos:
 
 For this last point, Korean customs will give you a form to fill in with photos **of all the accessories and spare parts installed on the vehicle**. These photos must be emailed before the crossing, **and only once customs has given the go-ahead can you proceed with boarding.**
 
-Italians who want to visit South Korea can currently enter without needing to apply for a visa in advance. [More information here](/blog/guida-documenti-visti-viaggiare-corea-del-sud).
+Italians who want to visit South Korea can currently enter without needing to apply for a visa in advance. [More information here](/blog/south-korea-visa-documents-guide/).
 
 {{< youtube2 WwkDeXOMaAU >}}
 
@@ -119,9 +120,9 @@ In South Korea too, if you follow the instructions, you won't have any problems.
 {{< carousel images="Articoli/Russia/vladivostok/vladivostok-porto-barca-corea_dcqs7j.jpg,Articoli/Russia/vladivostok/easter-dream-operazioni-di-partenza_ecxw39.jpg,Articoli/Russia/vladivostok/barca-cucciette_iqzcpf.jpg" >}}
 
 ## Travelling with pets    
-If you're travelling with a pet, you'll find all the extra documents and the guide to follow [here](/blog/guida-completa-entrare-corea-sud-russia-cane-gatto/)
+If you're travelling with a pet, you'll find all the extra documents and the guide to follow [here](/blog/south-korea-from-russia-with-pets-guide/)
 
-{{< leggi-anche url="/blog/guida-completa-entrare-corea-sud-russia-cane-gatto/">}}
+{{< leggi-anche url="/blog/south-korea-from-russia-with-pets-guide/">}}
 
 ## How much does it cost?
 We want to be honest, it's not a cheap ferry. Here's what we spent for 2 people, a 5.40m, 3.5T campervan and a 4kg cat.

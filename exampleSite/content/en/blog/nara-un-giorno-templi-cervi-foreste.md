@@ -1,5 +1,6 @@
 ---
 title: 'Nara in One Day: Temples, Curious Deer and Silent Forests'
+slug: nara-in-one-day-temples-deer-forests
 description: 'Discover Nara in one day: Todai-ji, the Great Buddha, Kasuga Taisha, deer and Kasugayama forest. The perfect itinerary from Kyoto or Osaka!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1751857574/Articoli/Giappone/tour-di-nara-2025_nzmaha.png
 date: 2025-06-05T7:00:00+01:00
@@ -21,7 +22,7 @@ Nara is very easy to reach from both **Kyoto** and **Osaka**:
 - **From Osaka**: Kintetsu Nara Line train – about 35-45 minutes
 - The main stations (JR and Kintetsu) are a **short walk from the park** and the main sights.
 
-If [like us you're travelling by campervan](https://vandipety.it/blog/dall-italia-al-giappone-in-van) (guide in Italian), **there are car parks just outside the centre**, reachable with a short walk (deer views included).
+If [like us you're travelling by campervan](/blog/italy-to-japan-overland-van-journey/), **there are car parks just outside the centre**, reachable with a short walk (deer views included).
 
 ## Recommended itinerary
 
@@ -44,7 +45,7 @@ Besides the statue, don't miss:
 
 **Practical tip**: it's best to arrive early in the morning, before the organised tour groups arrive (around 9am). And if you manage to be there while the sunlight filters through the wooden gates, the effect is truly striking.
 
-{{< leggi-anche url="/blog/viaggio-giappone-guida-itinerari" >}}
+{{< leggi-anche url="/blog/japan-trip-2025-itineraries-guide/" >}}
 
 ### 2. Walking through Kasugayama Forest
 
