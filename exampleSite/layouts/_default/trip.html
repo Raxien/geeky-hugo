@@ -1,5 +1,8 @@
 {{ define "main" }}
 
+{{- $sectionDelimiter := "<!-- section break -->" -}}
+{{- $rawContentSections := split .RawContent $sectionDelimiter -}}
+
 <!--=================== expenses section start ===================-->
 <section class="section">
   <div class="container">
@@ -36,7 +39,7 @@
         {{ end }}
         <h2 class="mb-3">{{ .Title | markdownify }}</h2>
         <div class="content">
-          {{ .Content }}
+          {{ index $rawContentSections 0 | .RenderString }}
         </div>
       </div>
     </div>
@@ -74,7 +77,7 @@
     <!-- Le tre grandi tappe del viaggio, al posto della mappa Mapbox (non più mantenuta) -->
     <div class="row">
       <div class="col-12 mb-5">
-        <p>{{ i18n "trip_stage_dakar_text" | safeHTML }}</p>
+        <div class="content">{{ index $rawContentSections 1 | .RenderString }}</div>
         {{ $image := resources.Get "images/Road-to-dakar.png" }}
         {{ if $image }}
         {{ $imageWebp := $image.Resize "1400x webp" }}
@@ -85,7 +88,7 @@
         {{ end }}
       </div>
       <div class="col-12 mb-5">
-        <p>{{ i18n "trip_stage_asia_text" | safeHTML }}</p>
+        <div class="content">{{ index $rawContentSections 2 | .RenderString }}</div>
         {{ $image := resources.Get "images/Asian-tour.png" }}
         {{ if $image }}
         {{ $imageWebp := $image.Resize "1400x webp" }}
@@ -96,7 +99,7 @@
         {{ end }}
       </div>
       <div class="col-12 mb-5">
-        <p>{{ i18n "trip_stage_japan_text" | safeHTML }}</p>
+        <div class="content">{{ index $rawContentSections 3 | .RenderString }}</div>
         {{ $image := resources.Get "images/Road-to-Japan.png" }}
         {{ if $image }}
         {{ $imageWebp := $image.Resize "1400x webp" }}
