@@ -242,3 +242,63 @@ other = "Mostra altro {n} risultato"
 
 [search_show_more_other]
 other = "Mostra altri {n} risultati"
+
+[trip_departure_date]
+other = "Data partenza"
+
+[trip_km_traveled]
+other = "Km percorsi"
+
+[trip_countries_visited]
+other = "Paesi Visitati"
+
+[trip_countries_visited_heading]
+other = "Paesi visitati in"
+
+[trip_map_legend_title]
+other = "Il viaggio"
+
+[trip_map_legend_text]
+other = "Dove siamo stati"
+
+[van_vehicle]
+other = "Mezzo"
+
+[van_engine]
+other = "Motorizzazione"
+
+[van_insurance]
+other = "Assicurazione*"
+
+[van_road_tax]
+other = "Bollo"
+
+[van_cost]
+other = "Costo Van"
+
+[van_accessories]
+other = "Accessori"
+
+[van_total]
+other = "Totale"
+
+[van_insurance_disclaimer]
+other = "*dall'11 aprile 2024 abbiamo disdetto l'assicurazione con CamperSereno in quanto siamo usciti dai paesi coperti dalla carta verde. Effettuiamo l'assicurazione in frontiera ad ogni nuovo paese."
+
+[expenses_table_description]
+other = "Descrizione"
+
+[expenses_table_cost]
+other = "Spesa"
+
+[expenses_table_date]
+other = "Data"
+
+[van_table_accessory]
+other = "Accessorio"
+
+[van_table_cost]
+other = "Costo"
+
+[expenses_per_day_suffix]
+other = "al giorno"

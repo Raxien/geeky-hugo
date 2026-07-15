@@ -1,0 +1,98 @@
+{{ define "main" }}
+
+{{- $sectionDelimiter := "<!-- section break -->" -}}
+{{- $rawContentSections := split .RawContent $sectionDelimiter -}}
+
+<link href="https://api.mapbox.com/mapbox-gl-js/v3.0.0/mapbox-gl.css" rel="stylesheet">
+<script src="https://api.mapbox.com/mapbox-gl-js/v3.0.0/mapbox-gl.js"></script>
+
+<!--=================== expenses section start ===================-->
+<section class="section">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-12">
+        <!-- image path -->
+        {{ $imagePath:= .Params.image }}
+
+        <!-- image CDN -->
+        {{ if hasPrefix $imagePath "http" }}
+        <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Title }}"
+          class="img-fluid mb-5 w-100 rounded-4" width="1400" height="933">
+        {{ else }}
+        <!-- /image cdn -->
+
+        <!-- image processing for multiple device -->
+        {{ if fileExists (add `assets/` $imagePath) }}
+        {{ $image:= resources.Get $imagePath }}
+        {{ $imageFallback:= $image.Resize "1400x" }}
+        {{ $imageXL:= $image.Resize "1400x webp" }}
+        {{ $imageLG:= $image.Resize "1000x webp" }}
+        {{ $imageMD:= $image.Resize "800x webp" }}
+        {{ $imageSM:= $image.Resize "600x webp" }}
+        <picture>
+          <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)" width="600" height="400">
+          <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)" width="800" height="533">
+          <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 992px)" width="1000" height="667">
+          <source srcset="{{ $imageXL.RelPermalink }}" width="1400" height="933">
+          <img loading="lazy" decoding="async" class="img-fluid mb-5 w-100 rounded-4"
+            src="{{$imageFallback.RelPermalink}}" alt="{{.Title}}" width="1400" height="933">
+        </picture>
+        {{ end }}
+        <!-- /image processing for multiple device -->
+        {{ end }}
+        <h2 class="mb-3">{{ .Title | markdownify }}</h2>
+        <div class="content">
+          {{ index $rawContentSections 0 | .RenderString }}
+        </div>
+      </div>
+    </div>
+
+    <div class="row" data-ad-exclude="true">
+      <div class="col-md-12 mb-4 mb-md-0">
+        <div class="p-4 border rounded">
+          <h2 class="h4 mb-5 title-border">{{ i18n "expenses_summary_heading" }}</h2>
+          <div class="row">
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">{{ i18n "trip_departure_date" }}</h4>
+              <h3 id="travelingStartDay" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">{{ i18n "expenses_travel_days" }}</h4>
+              <h3 id="travelingDay" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">{{ i18n "trip_km_traveled" }}</h4>
+              <h3 id="travelingKm" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">{{ i18n "trip_countries_visited" }}</h4>
+              <h3 id="visitedCountry" class="mb-5 h5 "></h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <br>
+    <h2 class="h4 mb-5 title-border">{{ i18n "trip_countries_visited_heading" }} <label
+        style="transform:scale(-1, 1); width:fit-content;">🚐</label></h2>
+
+    <div class="content">
+      {{ index $rawContentSections 1 | .RenderString }}
+    </div>
+
+    <div id="map" style="width: 100%; height: 1000px;">
+
+      <div id="legend" class="legend" style="display: none;">
+        <h4>{{ i18n "trip_map_legend_title" }}</h4>
+        <div><span id="legend-pin" style="background-color:red "></span>{{ i18n "trip_map_legend_text" }}</div>
+
+      </div>
+    </div>
+
+  </div>
+
+  <!-- <iframe src="https://snazzymaps.com/embed/414109" width="100%" height="600px" style="border:none;"></iframe> -->
+</section>
+<!--=================== expenses section end ===================-->
+{{ end }}

@@ -1,3 +1,14 @@
+<!-- Stringhe tradotte lette da script.js: essendo minificato con terser via "npm run minify",
+     quel file non passa dal motore dei template di Hugo e non può chiamare le funzioni i18n
+     direttamente, quindi gliele passiamo da qui. -->
+<script>
+  window.i18nStrings = {
+    expensesTableColumns: {{ slice (i18n "expenses_category_heading") (i18n "expenses_table_description") (i18n "expenses_table_cost") (i18n "expenses_table_date") | jsonify | safeJS }},
+    vanTableColumns: {{ slice (i18n "van_table_accessory") (i18n "van_table_cost") | jsonify | safeJS }},
+    perDaySuffix: {{ i18n "expenses_per_day_suffix" | jsonify | safeJS }}
+  };
+</script>
+
 <!-- JS Plugins + Main script -->
 {{ $scripts := slice }}
 {{ range site.Params.plugins.js}}

@@ -242,3 +242,63 @@ other = "Show {n} more result"
 
 [search_show_more_other]
 other = "Show {n} more results"
+
+[trip_departure_date]
+other = "Departure date"
+
+[trip_km_traveled]
+other = "Km travelled"
+
+[trip_countries_visited]
+other = "Countries visited"
+
+[trip_countries_visited_heading]
+other = "Countries visited by"
+
+[trip_map_legend_title]
+other = "The trip"
+
+[trip_map_legend_text]
+other = "Where we've been"
+
+[van_vehicle]
+other = "Vehicle"
+
+[van_engine]
+other = "Engine"
+
+[van_insurance]
+other = "Insurance*"
+
+[van_road_tax]
+other = "Road tax"
+
+[van_cost]
+other = "Van cost"
+
+[van_accessories]
+other = "Accessories"
+
+[van_total]
+other = "Total"
+
+[van_insurance_disclaimer]
+other = "*since April 11, 2024 we've cancelled our insurance with CamperSereno, as we left the countries covered by the green card. We take out insurance at the border of each new country."
+
+[expenses_table_description]
+other = "Description"
+
+[expenses_table_cost]
+other = "Cost"
+
+[expenses_table_date]
+other = "Date"
+
+[van_table_accessory]
+other = "Accessory"
+
+[van_table_cost]
+other = "Cost"
+
+[expenses_per_day_suffix]
+other = "per day"

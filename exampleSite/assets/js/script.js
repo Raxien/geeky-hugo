@@ -1470,7 +1470,7 @@ function updateUIElements({ totalCost, totalCostWithoutFerry, ferryCosts, yearly
         document.getElementById('dailyCost').innerText = `${dailyCostWithoutFerry.toFixed(2)} €`;
         document.getElementById('travelingSumCostFerry1').innerText = ferryCosts.ferry1.toFixed(2);
         document.getElementById('travelingSumCostFerry2').innerText = ferryCosts.ferry2.toFixed(2);
-        document.getElementById('dailyCostFerry').innerText = `${dailyCost.toFixed(2)} € al giorno`;
+        document.getElementById('dailyCostFerry').innerText = `${dailyCost.toFixed(2)} € ${window.i18nStrings.perDaySuffix}`;
         document.getElementById('yearlyCostFerry').innerText = `${totalCost.toFixed(2)} €`;
 
         const yearlyContainer = document.getElementById('yearlyCost');
@@ -1555,7 +1555,7 @@ function setGrid(data) {
     const gridElement = document.getElementById("tblSpese");
     if (gridElement) {
         new gridjs.Grid({
-            columns: ["Categoria", "Descrizione", "Spesa", "Data"],
+            columns: window.i18nStrings.expensesTableColumns,
             data: result,
             sort: true,
             pagination: {
@@ -1670,7 +1670,7 @@ function setVanCost(initialCost, accessoryCost) {
 
     if (tblAccessoryElement) {
         new gridjs.Grid({
-            columns: ["Accessorio", "Costo"],
+            columns: window.i18nStrings.vanTableColumns,
             data: Object.entries(accessoryCost),
             sort: true,
             pagination: { limit: 20 }
