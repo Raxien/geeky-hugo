@@ -166,11 +166,11 @@
             <span class="d-none d-md-inline-block">{{ $minutes }} {{ cond (eq $minutes 1) "minuto" "minuti" }} e
                   {{ $seconds }} {{ cond (eq $seconds 1) "secondo" "secondi" }}</span>
           </li>
-          <li class="list-inline-item d-flex align-items-center">
+          <!-- <li class="list-inline-item d-flex align-items-center">
             <button onclick="translateContent()" class="btn btn-sm btn-outline-primary">
               <i class="fas fa-language me-2"></i><span class="d-inline-block d-md-none">Trad.</span><span class="d-none d-md-inline-block">Translate to English</span>
             </button>
-          </li>
+          </li> -->
           {{ if .Params.sponsored}}
           <li class="list-inline-item d-flex align-items-center">
             <i>Sponsorizzato</i>

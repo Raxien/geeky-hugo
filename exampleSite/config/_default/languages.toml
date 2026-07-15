@@ -1,0 +1,39 @@
+# Configurazione multilingua in modalità "multihost": ogni lingua ha un proprio
+# baseURL (dominio separato). Hugo genera un albero di output distinto per
+# lingua (public/it, public/en) ma i link interni restano relativi al dominio
+# di quella lingua, senza prefisso /it/ o /en/ nell'URL visibile.
+# Il routing per dominio (vandipety.it -> /it, vandipety.com -> /en) è gestito
+# da exampleSite/netlify-host-redirects, unito in fase di build al file
+# _redirects pubblicato nella root di output (vedi netlify.toml).
+
+[it]
+label = "Italiano"
+locale = "it-IT"
+contentDir = "content/it"
+weight = 1
+baseURL = "https://vandipety.it"
+[it.params]
+title = "Vandipety | Esplora il Mondo in Camper insieme a noi"
+description = "Alla scoperta del mondo on the road. Unisciti al viaggio e lasciati ispirare a intraprendere la tua prossima avventura!"
+about_widget_content = "Se sentite ridere in lontananza potremmo essere noi."
+footer_content = "Se sentite ridere in lontananza potremmo essere noi."
+copyright = "Vandipety © 2025. Le immagini e i contenuti di questo sito non possono essere utilizzati o riprodotte senza autorizzazione."
+[it.params.banner]
+content = "Siamo Paolo, Sara, Olimpia e Sakè e giriamo per il mondo raccontando qui le nostre avventure."
+button_label = "Conoscici meglio"
+
+[en]
+label = "English"
+locale = "en-US"
+contentDir = "content/en"
+weight = 2
+baseURL = "https://vandipety.com"
+[en.params]
+title = "Vandipety | Exploring the World by Campervan"
+description = "Discovering the world on the road. Join the journey and get inspired to start your next adventure!"
+about_widget_content = "If you hear laughter in the distance, it might be us."
+footer_content = "If you hear laughter in the distance, it might be us."
+copyright = "Vandipety © 2025. Images and content on this site may not be used or reproduced without permission."
+[en.params.banner]
+content = "We're Paolo, Sara, Olimpia and Sakè, travelling the world and sharing our adventures here."
+button_label = "Get to know us"

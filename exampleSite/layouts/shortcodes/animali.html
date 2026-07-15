@@ -1,0 +1,55 @@
+{{ $country := .Get 0}}
+
+{{ if eq site.Language.Lang "en" }}
+To travel
+{{ if eq $country "EU"}}
+within
+{{ else if eq $country "EX"}}
+outside
+{{end}}
+Europe with your pet you need to have:
+<ul>
+    <li>passport</li>
+    <li>microchip</li>
+    <li>valid rabies vaccination</li>
+    {{ if eq $country "EX"}}
+    <li>rabies antibody titration</li>
+    {{end}}
+</ul>
+{{ if eq $country "EX"}}
+This last document is obtained through a blood sample analysed at specialized centres and is
+mandatory to re-enter Europe.
+{{end}}
+Check whether your pet's breed is allowed in the country you're visiting.
+We recommend always being careful in crowded places, as people might be scared of your pet{{ if eq $country "EX"}}, and of the many wild animals,{{end}} which is why we always keep our pets on a leash.
+In many cases a muzzle is required, so we recommend keeping one handy.
+<br>
+<br>
+We recommend bringing a bowl (we use one that clips conveniently onto a backpack) and a water bottle if the day is particularly hot.
+{{ else }}
+Per viaggiare
+{{ if eq $country "EU"}}
+in
+{{ else if eq $country "EX"}}
+fuori dall'
+{{end}}
+Europa con il proprio animale occorre avere:
+<ul>
+    <li>passaporto</li>
+    <li>microchip</li>
+    <li>vaccinazione antirabbica in corso di validità</li>
+    {{ if eq $country "EX"}}
+    <li>titolazione antirabbica</li>
+    {{end}}
+</ul>
+{{ if eq $country "EX"}}
+Quest'ultimo documento si effettua tramite un prelievo del sangue che viene analizzato in centri specializzati ed è
+obbligatorio per poter rientrare in Europa.
+{{end}}
+Controlla, se il tuo animale appartiene a una razza particolare, che sia ammesso in paese.
+Ti consigliamo di prestare sempre attenzione nei luoghi affollati perché le persone potrebbero avere timore, {{ if eq $country "EX"}} e ai numerosi animali selvatici, {{end}} motivo per cui noi giriamo sempre con i nostri animali al guinzaglio.
+In parecchi casi è richiesta la museruola, ti consigliamo di tenerla a portata di mano.
+<br>
+<br>
+Ti consigliamo di portare con te una ciotola (noi usiamo questa che si appende comodamente allo zaino) e una borraccia con acqua se la giornata è particolarmente afosa.
+{{ end }}

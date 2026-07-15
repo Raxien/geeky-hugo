@@ -1,0 +1,325 @@
+[disqus_click_to_load]
+other = "📝 Click to load Disqus comments"
+
+[disqus_dynamic_load]
+other = "Comments will load dynamically"
+
+[disqus_loading]
+other = "Loading comments..."
+
+[disqus_local_preview]
+other = "Disqus comments are not available by default when the website is previewed locally."
+
+[disqus_noscript]
+other = 'Please enable JavaScript to view the comments powered by <a href="https://disqus.com/?ref_noscript">Disqus</a>.'
+
+[disqus_powered_by]
+other = "comments powered by"
+
+[read_also]
+other = "read also"
+
+[table_of_contents]
+other = "Table of contents"
+
+[follow_us_on]
+other = "Follow us on"
+
+[pros_heading]
+other = "PROS"
+
+[cons_heading]
+other = "CONS"
+
+[sponsor_disclaimer_affiliate]
+other = "Disclaimer: This is an affiliate link, which means we receive a small commission at no extra cost to you."
+
+[sponsor_disclaimer_sponsored]
+other = "Disclaimer: This is sponsored content. We personally tested this service/product and recommend it because we believe it can be useful to our readers."
+
+[gmap_trip_intro]
+other = "Below you can browse all the maps for our trip. If you want to know how to download them and use them offline, you'll find everything at the following <a href='/trip/' target='_blank' rel='nofollow noopener noreferrer'><span>link</span></a>"
+
+[gmap_disclaimer]
+other = "⚠️ we can't guarantee that the marked spots still exist! Please keep the area clean and follow the rules.<br><br>Vandipety takes no responsibility for how the information provided here is used."
+
+[assicurazione_text]
+other = "When we travel we insure ourselves with <a href='https://www.genki.world/with/vandipety' target='_blank' rel='nofollow noopener noreferrer' title=\"The right insurance for digital nomads\"><span>Genki</span></a>, which offers great benefits and a monthly subscription that can be cancelled at any time."
+
+[revolut_title]
+other = "Revolut, the right card for stress-free travel"
+
+[share_article]
+other = "Share this article:"
+
+[share_on]
+other = "Share on"
+
+[copy_link]
+other = "Copy link"
+
+[donation_item]
+other = "a 🍪 for our furry friends"
+
+[donation_intro]
+other = "If you'd like to thank us, you can offer"
+
+[donation_outro]
+other = "at the following link:"
+
+[thanks_title]
+other = "Thank you!"
+
+[scan_code_thanks]
+other = "Scan the code and thank you! 🐱🙏"
+
+[close_button]
+other = "Close"
+
+[related_posts_heading]
+other = "Related articles"
+
+[recommended_posts_heading]
+other = "Recommended articles"
+
+[latest_vlogs]
+other = "Latest Vlogs"
+
+[watch_more_videos]
+other = 'Or watch all <a href="https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" class="text-light-900"><strong>our adventures</strong></a>'
+
+[our_books]
+other = "Our books"
+
+[read_guide]
+other = "Read the guide:"
+
+[slide_previous]
+other = "Previous slide"
+
+[slide_next]
+other = "Next slide"
+
+[newsletter_intro]
+other = "Hop aboard our van to get an exclusive story every week!"
+
+[newsletter_email_placeholder]
+other = "Enter your email"
+
+[newsletter_subscribe]
+other = "Subscribe"
+
+[newsletter_consent]
+other = 'By subscribing you accept our <a href="{{ .privacy }}" class="text-light-900"><strong>Privacy Policy</strong></a>'
+
+[book_banner_badge]
+other = "🎉 NEW RELEASE"
+
+[book_banner_title]
+other = "Our new book is out!"
+
+[book_banner_button]
+other = "Buy it now"
+
+[book_banner_alt]
+other = "Book cover"
+
+[expenses_summary_heading]
+other = "At a glance"
+
+[expenses_travel_days]
+other = "Days on the road"
+
+[expenses_total_cost]
+other = "Total spend*"
+
+[expenses_daily_cost]
+other = "Daily cost*"
+
+[expenses_ferry_note]
+other = "<b>Note:</b> since it's an investment amortised over a year, <b>we've temporarily excluded the ferries from the totals</b>:"
+
+[expenses_ferry_route_1]
+other = "Russia (Vladivostok) -> South Korea (Donghae)"
+
+[expenses_ferry_route_2]
+other = "South Korea (Busan) <-> Japan (Fukuoka)"
+
+[expenses_ferry_cost_suffix_prefix]
+other = "comes to"
+
+[expenses_ferry_cost_suffix]
+other = "euros"
+
+[expenses_ferry_summary]
+other = "To be fair, if we also counted this cost our total spend would be"
+
+[expenses_ferry_summary_and]
+other = "and our daily cost"
+
+[expenses_category_heading]
+other = "Category"
+
+[expenses_monthly_heading]
+other = "Monthly"
+
+[expenses_details]
+other = "Detailed costs"
+
+[search_placeholder]
+other = "Search..."
+
+[search_aria_label]
+other = "Search the site"
+
+[search_close_aria_label]
+other = "Close search"
+
+[menu_open_aria]
+other = "Open navigation menu"
+
+[menu_close_aria]
+other = "Close menu"
+
+[search_results_for]
+other = "Results for"
+
+[loading_generic]
+other = "Loading..."
+
+[no_results_found]
+other = "No results found"
+
+[not_found_heading]
+other = "404 Page not found!"
+
+[not_found_back_button]
+other = "Go back"
+
+[sponsored_label]
+other = "Sponsored"
+
+[reading_time_minutes]
+one = "{{.Count}} minute"
+other = "{{.Count}} minutes"
+
+[reading_time_seconds]
+one = "{{.Count}} second"
+other = "{{.Count}} seconds"
+
+[reading_time_and]
+other = "and"
+
+[load_more_button]
+other = "Load more"
+
+[articles_heading]
+other = "Articles"
+
+[featured_tab]
+other = "Featured"
+
+[recent_tab]
+other = "Recent"
+
+[ai_summary_label]
+other = "AI Summary"
+
+[ai_summary_expand]
+other = "Expand"
+
+[search_untitled]
+other = "Untitled"
+
+[search_loading_in_progress]
+other = "Loading search..."
+
+[search_error]
+other = "Error loading search"
+
+[search_show_more_one]
+other = "Show {n} more result"
+
+[search_show_more_other]
+other = "Show {n} more results"
+
+[trip_departure_date]
+other = "Departure date"
+
+[trip_km_traveled]
+other = "Km travelled"
+
+[trip_countries_visited]
+other = "Countries visited"
+
+[trip_countries_visited_heading]
+other = "Countries visited by"
+
+[trip_map_legend_title]
+other = "The trip"
+
+[trip_map_legend_text]
+other = "Where we've been"
+
+[van_vehicle]
+other = "Vehicle"
+
+[van_engine]
+other = "Engine"
+
+[van_insurance]
+other = "Insurance*"
+
+[van_road_tax]
+other = "Road tax"
+
+[van_cost]
+other = "Van cost"
+
+[van_accessories]
+other = "Accessories"
+
+[van_total]
+other = "Total"
+
+[van_insurance_disclaimer]
+other = "*since April 11, 2024 we've cancelled our insurance with CamperSereno, as we left the countries covered by the green card. We take out insurance at the border of each new country."
+
+[expenses_table_description]
+other = "Description"
+
+[expenses_table_cost]
+other = "Cost"
+
+[expenses_table_date]
+other = "Date"
+
+[van_table_accessory]
+other = "Accessory"
+
+[van_table_cost]
+other = "Cost"
+
+[expenses_per_day_suffix]
+other = "per day"
+
+[guides_italian_only_note]
+other = "📚 These books are currently only available in Italian."
+
+[contact_title]
+other = "Contact Us"
+
+[contact_for_info_prefix]
+other = "For"
+
+[contact_for_info]
+other = "information"
+
+[contact_for_collabs]
+other = "Collaborations"
+
+[contact_or_on]
+other = "Or on"
+
+[contact_social]
+other = "Social"

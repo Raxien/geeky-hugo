@@ -1,0 +1,139 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="section-title">
+      <h2 class="h4">{{ i18n "search_results_for" }} <span class="title-border"><script>
+        var keyword = (window.location.search).substr(3);
+        var result = keyword.replace(/\+/g, " ").replace(/%20/g, " ");
+        document.write(result);
+      </script>
+      </span></h2>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-8 mb-5 mb-lg-0">
+        <div class="border mb-5 pt-4 rounded">
+          <!-- Loading state -->
+          <div id="search-loading" class="text-center py-5">
+            <div class="spinner-border text-primary" role="status">
+              <span class="visually-hidden">{{ i18n "loading_generic" }}</span>
+            </div>
+          </div>
+          
+          <div class="row mx-0 g-5" id="search-results" style="display: none;">
+            <script id="search-result-template" type="text/x-js-template">
+              <div class="col-sm-6 mb-4">
+                <div class="card h-100">
+                  <div class="card-img-container position-relative" style="aspect-ratio: 16/9; overflow: hidden; border-radius: 0.5rem !important;">
+                    <img loading="lazy" decoding="async" class="img-fluid w-100 h-100 object-fit-cover" src="${image}" alt="${title}" style="border-radius: 0.5rem !important; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+                    ${ isset categories }<ul class="list-inline card-badge position-absolute bottom-0 start-0 p-2">${ end }
+                      ${ isset categories }<li class="list-inline-item"><span class="badge badge-primary py-1">${categories0}</span></li>${ end }
+                      ${ isset categories }<li class="list-inline-item ${visible1}"><span class="badge badge-primary py-1">${categories1}</span></li>${ end }
+                      ${ isset categories }<li class="list-inline-item ${visible2}"><span class="badge badge-primary py-1">${categories2}</span></li>${ end }
+                      ${ isset categories }<li class="list-inline-item ${visible3}"><span class="badge badge-primary py-1">${categories3}</span></li>${ end }
+                    ${ isset categories }</ul>${ end }
+                  </div>
+                  <div class="card-body d-flex flex-column">
+                    <h3 class="h6 mb-2">
+                      <a class="title-linked" href="${link}">${title}</a>
+                    </h3>
+                    <ul class="list-inline card-meta d-flex align-items-center mb-2">
+                      <li class="list-inline-item d-flex align-items-center">
+                        <i class="fas fa-calendar me-2"></i>
+                        <span>${date}</span>
+                      </li>
+                    </ul>
+                    <p class="card-text mb-0 mt-auto">${snippet}</p>
+                  </div>
+                </div>
+              </div>
+            </script>
+          </div>
+          
+          <!-- No results state -->
+          <div id="no-results" class="text-center py-5" style="display: none;">
+            <img class="img-fluid mb-4" src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto:eco,w_800,dpr_auto/v1701789881/asset/not-found_nw9oea.png" width="200" alt="{{ i18n "no_results_found" }}">
+            <h3>{{ i18n "no_results_found" }}</h3>
+          </div>
+        </div>
+      </div>
+
+      <!-- sidebar widgets -->
+      <aside class="col-lg-4">
+        {{ $widget:= site.Params.widgets.sidebar }}
+        {{ partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . )}}
+      </aside>
+    </div>
+  </div>
+</section>
+
+{{ "<!-- Search index -->" | safeHTML }}
+<script>
+  var indexURL = {{ "index.json" | relLangURL }};
+  
+  // Funzione per ottenere i parametri dall'URL
+  function getUrlParams() {
+    const params = new URLSearchParams(window.location.search);
+    return {
+      query: params.get('s') || '',
+      results: params.get('r') ? JSON.parse(decodeURIComponent(params.get('r'))) : null
+    };
+  }
+
+  // Funzione per mostrare i risultati
+  function showResults(results) {
+    const searchResults = document.getElementById('search-results');
+    const noResults = document.getElementById('no-results');
+    const loading = document.getElementById('search-loading');
+
+    loading.style.display = 'none';
+    
+    if (results && results.length > 0) {
+      searchResults.style.display = 'flex';
+      populateResults(results);
+    } else {
+      noResults.style.display = 'block';
+    }
+  }
+
+  // Al caricamento della pagina
+  document.addEventListener('DOMContentLoaded', function() {
+    const { query, results } = getUrlParams();
+    const loading = document.getElementById('search-loading');
+    
+    // Mostra il loader immediatamente
+    loading.style.display = 'flex';
+    
+    if (results) {
+      // Se abbiamo i risultati nell'URL, mostrali direttamente
+      showResults(results);
+    } else if (query) {
+      // Altrimenti esegui la ricerca
+      fetch(indexURL)
+        .then(response => response.json())
+        .then(data => {
+          var fuse = new Fuse(data, fuseOptions);
+          var searchResults = fuse.search(query);
+          showResults(searchResults);
+        })
+        .catch(error => {
+          console.error('Error:', error);
+          loading.style.display = 'none';
+          document.getElementById('no-results').style.display = 'block';
+        });
+    } else {
+      // Se non c'è query, nascondi il loader
+      loading.style.display = 'none';
+    }
+  });
+</script>
+
+<!-- Load search scripts -->
+{{ $fuse := resources.Get "plugins/search/fuse.min.js" | minify }}
+<script src="{{ $fuse.RelPermalink }}" type="application/javascript"></script>
+
+{{ $searchJS := resources.Get "plugins/search/search.js" | minify }}
+<script src="{{ $searchJS.RelPermalink }}" type="application/javascript"></script>
+
+{{ end }}

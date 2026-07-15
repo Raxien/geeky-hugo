@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+{{ if eq (getenv "HUGO_ENV") "production" }}
+<meta name="robots" content="index,follow">
+{{ else }}
+<meta name="robots" content="noindex,nofollow">
+{{ end }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto text-center">
+        {{ $imagePath := "images/404_it.png" }}
+        {{ if ne site.Language.Lang "it" }}{{ $imagePath = "images/404_eng.png" }}{{ end }}
+        {{ $image := resources.Get $imagePath }}
+        <img src="{{ $image.RelPermalink }}" alt="404" class="img-fluid mb-4">
+        <a href="{{site.BaseURL | relLangURL}}" class="btn btn-primary">{{ i18n "not_found_back_button" }}</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

@@ -1,6 +1,6 @@
 [build]
   publish = "exampleSite/public"
-  command = "cd exampleSite && hugo --minify --gc --themesDir ../themes --theme geeky-hugo"
+  command = "cd exampleSite && hugo --minify --gc --themesDir ../themes --theme geeky-hugo && cat static/_redirects netlify-host-redirects > public/_redirects"
   
 [build.environment]
   HUGO_VERSION = "0.163.3"

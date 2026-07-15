@@ -1,0 +1,269 @@
+<header
+  class="header bg-white border-bottom {{if site.Params.navbar_fixed}}sticky-top{{else}} position-relative{{end}}">
+
+  {{/* Albero Continente -> Paesi per il menu Destinazioni, generato dai post pubblicati in
+       questa lingua (site.RegularPages è già filtrato per lingua da Hugo) invece che da un
+       elenco statico in menus.toml: così il menu mostra sempre e solo le mete che hanno
+       davvero un articolo, e non serve più tenerlo allineato a mano. Ripulisce spazi
+       superflui ed esclude valori vuoti o "Mondo" (post non legati a una destinazione). */}}
+  {{ $destPages := where (where site.RegularPages "Params.country" "!=" nil) "Params.continent" "!=" nil }}
+  {{ $continentNames := slice }}
+  {{ range $destPages }}
+    {{ $c := trim .Params.continent " " }}
+    {{ if and (ne $c "") (ne $c "Mondo") (not (in $continentNames $c)) }}
+      {{ $continentNames = $continentNames | append $c }}
+    {{ end }}
+  {{ end }}
+  {{ $continentNames = sort $continentNames }}
+  {{ $destTree := slice }}
+  {{ range $continentNames }}
+    {{ $continent := . }}
+    {{ $countryNames := slice }}
+    {{ range $destPages }}
+      {{ $c := trim .Params.continent " " }}
+      {{ $country := trim .Params.country " " }}
+      {{ if and (eq $c $continent) (ne $country "") (not (in $countryNames $country)) }}
+        {{ $countryNames = $countryNames | append $country }}
+      {{ end }}
+    {{ end }}
+    {{ $destTree = $destTree | append (dict "name" $continent "countries" (sort $countryNames)) }}
+  {{ end }}
+
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <nav class="navbar navbar-expand-lg navbar-light p-0" style="min-height: 40px;">
+          <!-- navbar brand/logo -->
+          <a class="navbar-brand" href="{{ site.BaseURL | relLangURL }}">
+            {{ partialCached "logoHeader.html" . }}
+          </a>
+
+          <!-- buttons -->
+          <div class="d-flex d-lg-none">
+            <ul class="list-unstyled search me-3">
+              {{ if site.Params.search }}
+              <li class="list-inline-item">
+                <a href="#" class="toggle-search" aria-label="{{ i18n "search_aria_label" }}" data-target="#search-wrap">
+                  <i class="fas fa-search"></i>
+                  <span class="sr-only">{{ i18n "search_aria_label" }}</span>
+                </a>
+              </li>
+              {{ end }}
+              <li class="list-inline-item">
+                <a href="#" class="toggle-side-nav" aria-controls="offcanvasRight">
+                  <i class="fas fa-bars"></i>
+                  <span class="sr-only">{{ i18n "menu_open_aria" }}</span>
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <!-- main nav -->
+          <div class="collapse navbar-collapse" id="navbarScroll">
+            <ul class="navbar-nav ms-auto my-4 my-lg-0 me-3">
+              <!-- menu active -->
+              {{ $currentPage := . }}
+              {{ range site.Menus.main }}
+              {{ $menuURL := .URL | absLangURL }}
+              {{ $pageURL:= $currentPage.Permalink | absLangURL }}
+              {{ $active := eq $menuURL $pageURL }}
+              {{ if eq .Identifier "destinations" }}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button"
+                  data-bs-toggle="dropdown" aria-expanded="false">{{ .Name }}
+                </a>
+                <!-- Menu Destinazioni/Destinations con layout a colonne, generato da $destTree (vedi inizio file) -->
+                <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-center" aria-labelledby="navbarScrollingDropdown" style="left: 50%; transform: translateX(-50%); min-width: 800px;">
+                  <li>
+                    <div class="row g-0">
+                      {{ range $destTree }}
+                        {{ if gt (len .countries) 8 }}
+                        <!-- Più di 8 paesi: usa due colonne -->
+                        <div class="col-md-3">
+                          <div class="dropdown-header fw-bold text-primary">{{ .name }}</div>
+                          <div class="row">
+                            <div class="col-6">
+                              {{ range first 9 .countries }}
+                              <a class="dropdown-item" href="{{ printf `search/?s=%s` . | relLangURL }}">{{ . }}</a>
+                              {{ end }}
+                            </div>
+                            <div class="col-6">
+                              {{ range after 9 .countries }}
+                              <a class="dropdown-item" href="{{ printf `search/?s=%s` . | relLangURL }}">{{ . }}</a>
+                              {{ end }}
+                            </div>
+                          </div>
+                        </div>
+                        {{ else }}
+                        <!-- Altri continenti: colonna singola -->
+                        <div class="col-md-3">
+                          <div class="dropdown-header fw-bold text-primary">{{ .name }}</div>
+                          {{ range .countries }}
+                          <a class="dropdown-item" href="{{ printf `search/?s=%s` . | relLangURL }}">{{ . }}</a>
+                          {{ end }}
+                        </div>
+                        {{ end }}
+                      {{ end }}
+                    </div>
+                  </li>
+                </ul>
+              </li>
+              {{ else if .HasChildren }}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button"
+                  data-bs-toggle="dropdown" aria-expanded="false">{{ .Name }}
+                </a>
+                <!-- Menu normale per altri elementi -->
+                <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                  {{ range .Children }}
+                  {{ $childURL := .URL | absLangURL }}
+                  {{ $active := eq $childURL $pageURL }}
+                  <li><a class="dropdown-item {{ if $active }}active{{ end }}" {{if findRE `^http` .URL}}target="_blank"
+                      rel="noopener" {{end}}
+                      href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+                  </li>
+                  {{ end }}
+                </ul>
+              </li>
+              {{ else }}
+              <li class="nav-item {{ if $active }}active{{ end }}">
+                <a class="nav-link" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
+                  href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+              </li>
+              {{ end }}
+              {{ end }}
+            </ul>
+
+            <!-- social -->
+            <ul class="list-unstyled social-icons" style="width: 231.69px; min-width: 231.69px;">
+              {{ range site.Params.social }}
+              <li class="list-inline-item">
+                <a href="{{ .link | safeURL }}" target = "_blank" aria-label="{{.title}}" rel = "nofollow noopener noreferrer"><i class="{{.icon}}"></i></a>
+              </li>
+              {{ end }}
+            </ul>
+
+            {{ if site.Params.search }}
+            <ul class="list-unstyled search d-none d-lg-block">
+              <li class="list-inline-item">
+                <button class="toggle-search" aria-label="{{ i18n "search_aria_label" }}" data-target="#search-wrap">
+                  <i class="fas fa-search"></i>
+                  <span class="sr-only">{{ i18n "search_aria_label" }}</span>
+                </button>
+              </li>
+            </ul>
+            {{ end }}
+
+            <!-- language switcher: badge IT | EN, lingua attiva in grassetto, l'altra linka alla traduzione della pagina corrente se esiste, altrimenti alla home dell'altra lingua -->
+            {{ if gt (len hugo.Sites) 1 }}
+            <ul class="list-unstyled lang-switch d-none d-lg-flex align-items-center mb-0 ms-3">
+              <li class="list-inline-item border rounded-pill px-3 py-1">
+                {{ range $i, $otherSite := hugo.Sites }}
+                {{ if gt $i 0 }}<span class="text-muted mx-1" aria-hidden="true">|</span>{{ end }}
+                {{ if eq $otherSite.Language.Lang $currentPage.Language.Lang }}
+                <span class="fw-bold" aria-current="true">{{ upper $otherSite.Language.Lang }}</span>
+                {{ else }}
+                {{ $href := $otherSite.Home.Permalink }}
+                {{ range $currentPage.AllTranslations }}
+                  {{ if eq .Language.Lang $otherSite.Language.Lang }}{{ $href = .Permalink }}{{ end }}
+                {{ end }}
+                <a href="{{ $href }}" class="text-muted text-decoration-none" hreflang="{{ $otherSite.Language.Lang }}">{{ upper $otherSite.Language.Lang }}</a>
+                {{ end }}
+                {{ end }}
+              </li>
+            </ul>
+            {{ end }}
+          </div>
+        </nav>
+
+        <!-- search -->
+        {{ if site.Params.search }}
+        <div class="search-wrap" id="search-wrap">
+          <form action="{{ `search/?`| relLangURL }}" method="GET" class="search-bar d-flex align-items-center justify-content-center" id="search-form">
+            <input class="search-input w-100 border-0 h-100" id="search-query" name="s" type="search" placeholder="{{ i18n "search_placeholder" }}" autocomplete="off" aria-label="{{ i18n "search_aria_label" }}"/>
+            <span class="close-search toggle-search" data-target="#search-wrap" aria-label="{{ i18n "search_close_aria_label" }}">
+              <i class="fas fa-times"></i>
+              <span class="sr-only">{{ i18n "search_close_aria_label" }}</span>
+            </span>
+          </form>
+        </div>
+        {{ end }}
+
+        <!-- mobile menu -->
+        <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
+          <div class="offcanvas-header">
+            <button type="button" class="btn-close" aria-label="{{ i18n "menu_close_aria" }}">
+              <i class="fas fa-times"></i>
+              <span class="sr-only">{{ i18n "menu_close_aria" }}</span>
+            </button>
+          </div>
+          <div class="offcanvas-body">
+            <ul class="navbar-nav my-4 my-lg-0 me-3 w-100">
+              {{ range site.Menus.main }}
+              {{ if eq .Identifier "destinations" }}
+              <!-- Menu Destinazioni/Destinations espanso in mobile, generato da $destTree (vedi inizio file) -->
+              <li class="nav-item">
+                {{ range $destTree }}
+                <!-- Continente -->
+                <div class="dropdown-header fw-bold text-secondary ps-3">{{ .name }}</div>
+                {{ range .countries }}
+                <!-- Paese -->
+                <a class="nav-link ps-5 py-1" href="{{ printf `search/?s=%s` . | relLangURL }}">{{ . }}</a>
+                {{ end }}
+                {{ end }}
+              </li>
+              {{ else if .HasChildren }}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                  aria-haspopup="true" aria-expanded="false">
+                  {{ .Name }}
+                </a>
+                <!-- Altri menu con dropdown normale -->
+                <div class="dropdown-menu">
+                  {{ range .Children }}
+                  <a class="dropdown-item" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
+                    href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+                  {{ end }}
+                </div>
+              </li>
+              {{ else }}
+              <li class="nav-item">
+                <a class="nav-link" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
+                  href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+              </li>
+              {{ end }}
+              {{ end }}
+            </ul>
+            <ul class="list-unstyled social-icons">
+              {{ range site.Params.social }}
+              <li class="list-inline-item">
+                <a href="{{ .link | safeURL }}" aria-label="{{.title}}" ><i class="{{.icon}}"></i></a>
+              </li>
+              {{ end }}
+            </ul>
+
+            {{ if gt (len hugo.Sites) 1 }}
+            {{ $mobilePage := . }}
+            <ul class="list-unstyled lang-switch d-flex mt-3">
+              <li class="list-inline-item border rounded-pill px-3 py-1">
+                {{ range $i, $otherSite := hugo.Sites }}
+                {{ if gt $i 0 }}<span class="text-muted mx-1" aria-hidden="true">|</span>{{ end }}
+                {{ if eq $otherSite.Language.Lang $mobilePage.Language.Lang }}
+                <span class="fw-bold" aria-current="true">{{ upper $otherSite.Language.Lang }}</span>
+                {{ else }}
+                {{ $href := $otherSite.Home.Permalink }}
+                {{ range $mobilePage.AllTranslations }}
+                  {{ if eq .Language.Lang $otherSite.Language.Lang }}{{ $href = .Permalink }}{{ end }}
+                {{ end }}
+                <a href="{{ $href }}" class="text-muted text-decoration-none" hreflang="{{ $otherSite.Language.Lang }}">{{ upper $otherSite.Language.Lang }}</a>
+                {{ end }}
+                {{ end }}
+              </li>
+            </ul>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>

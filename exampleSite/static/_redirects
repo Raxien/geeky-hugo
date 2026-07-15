@@ -1,5 +1,8 @@
-# Netlify CMS
-/admin/* /admin/index.html 200
+# Nota: dal passaggio al sito multilingua (it/en), il redirect di Netlify CMS
+# (/admin/*) e il routing per dominio vivono in exampleSite/netlify-host-redirects,
+# perché devono puntare a /it/admin o /en/admin a seconda dell'host richiesto.
+# Questo file resta per i redirect SEO indipendenti dalla lingua (vedi netlify.toml
+# per come viene unito al file _redirects pubblicato).
 
 # SEO URL redirects (from commit 3d58fc5 - Sistemati url e fix articoli)
 /blog/l-ariege-in-camper-tour-di-9-giorni-in-una-regione-francese-meravigliosa /blog/ariege-camper-tour-9-giorni-regione-francese 301

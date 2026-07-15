@@ -1,8 +1,5 @@
-baseURL = "https://vandipety.it"
-disableLanguages = ["fr"]
+defaultContentLanguage = "it"
 disqusShortname = "vandipety-it"
-locale = "it-IT"
-languageName = "It"
 summaryLength = "20"
 theme = "geeky-hugo"
 title = "Vandipety"

@@ -1,0 +1,147 @@
+{{ define "main" }}
+
+{{- $sectionDelimiter := "<!-- section break -->" -}}
+{{- $rawContentSections := split .RawContent $sectionDelimiter -}}
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@3.8.0/dist/chart.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
+
+<!--=================== expenses section start ===================-->
+<section class="section">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-12">
+        <!-- image path -->
+        {{ $imagePath:= .Params.image }}
+
+        <!-- image CDN -->
+        {{ if hasPrefix $imagePath "http" }}
+        <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Title }}"
+          class="img-fluid mb-5 w-100 rounded-4" width="1400" height="933">
+        {{ else }}
+        <!-- /image cdn -->
+
+        <!-- image processing for multiple device -->
+        {{ if fileExists (add `assets/` $imagePath) }}
+        {{ $image:= resources.Get $imagePath }}
+        {{ $imageFallback:= $image.Resize "1400x" }}
+        {{ $imageXL:= $image.Resize "1400x webp" }}
+        {{ $imageLG:= $image.Resize "1000x webp" }}
+        {{ $imageMD:= $image.Resize "800x webp" }}
+        {{ $imageSM:= $image.Resize "600x webp" }}
+        <picture>
+          <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)" width="600" height="400">
+          <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)" width="800" height="533">
+          <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 992px)" width="1000" height="667">
+          <source srcset="{{ $imageXL.RelPermalink }}" width="1400" height="933">
+          <img loading="lazy" decoding="async" class="img-fluid mb-5 w-100 rounded-4" src="{{$imageFallback.RelPermalink}}"
+            alt="{{.Title}}" width="1400" height="933">
+        </picture>
+        {{ end }}
+        <!-- /image processing for multiple device -->
+        {{ end }}
+        <h2 class="mb-3">{{ .Title | markdownify }}</h2>
+        <div class="content">
+          <!-- {{.Content}} -->
+          {{ index $rawContentSections 0 | .RenderString }}
+        </div>
+      </div>
+    </div>
+    
+    <div class="row" data-ad-exclude="true">
+      <div class="col-md-12 mb-4 mb-md-0">
+        <div class="p-4 border rounded">
+          <h2 class="h4 mb-5 title-border">{{ i18n "expenses_summary_heading" }}</h2>
+          <div class="row">
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">{{ i18n "expenses_travel_days" }}</h4>
+              <h3 id="travelingDay" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">{{ i18n "expenses_total_cost" }}</h4>
+              <h3 id="travelingSumCost" class="mb-5 h5 "></h3>
+            </div>
+            <div class="col-md-3 mb-3">
+              <h4 class="h5 mb-2">{{ i18n "expenses_daily_cost" }}</h4>
+              <h3 id="dailyCost" class="mb-5 h5 "></h3>
+            </div>
+          </div>
+          <div class="row" id="yearlyCost"> 
+            <div class="years-scrollable">
+              <!-- Il contenuto verrà generato dinamicamente via JavaScript -->
+            </div>
+          </div>
+          <div class="note-section">
+            <p class="mb-3">{{ i18n "expenses_ferry_note" | safeHTML }}</p>
+            <ul class="mb-3">
+              <li><b>{{ i18n "expenses_ferry_route_1" }}</b> {{ i18n "expenses_ferry_cost_suffix_prefix" }} <b><a id="travelingSumCostFerry1"></a> {{ i18n "expenses_ferry_cost_suffix" }}</b></li>
+              <li><b>{{ i18n "expenses_ferry_route_2" }}</b> {{ i18n "expenses_ferry_cost_suffix_prefix" }} <b><a id="travelingSumCostFerry2"></a> {{ i18n "expenses_ferry_cost_suffix" }}</b></li>
+            </ul>
+            <p>{{ i18n "expenses_ferry_summary" }} <b><a id="yearlyCostFerry"></a></b> {{ i18n "expenses_ferry_summary_and" }} <b><a id="dailyCostFerry"></a></b>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container" style="display: none;">
+      <div class="row mb-5">
+        <div class="col-12">
+          <div class="content">
+            <!-- {{.Content}} -->
+            {{ index $rawContentSections 1 | .RenderString }}
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <br>
+    <br>
+
+    <a name="chart"></a>
+    <div class="row">
+      <div class="col-md-6">
+         <div class="border rounded p-4">
+           <h2 class="mb-5 h4 title-border">{{ i18n "expenses_category_heading" }}</h2>
+           <div class="chart-container">
+             <canvas id="catergory" width="400" height="400"></canvas>
+           </div>
+         </div>
+      </div>
+      <div class="col-md-6">
+         <div class="border rounded p-4">
+           <h2 class="mb-5 h4 title-border">{{ i18n "expenses_monthly_heading" }}</h2>
+           <div class="chart-container">
+             <canvas id="monthly" width="400" height="400"></canvas>
+           </div>
+         </div>
+      </div>
+    </div>
+
+    <br>
+    <br>
+    
+    <details>
+      <summary>{{ i18n "expenses_details" }}</summary>
+      <div id="tblSpese" name="tblSpese"></div>
+    </details>
+
+    <div class="content">
+      <!-- {{.Content}} -->
+      {{ index $rawContentSections 1 | .RenderString }}
+    </div>
+
+    <!-- disqus comments -->   
+    {{ with .Site.Params.disqusShortname }}
+    <div  style="margin-top: 30px;">
+    <div class="border rounded p-4">
+      {{ partial "disqus.html" $ }}
+      </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!--=================== expenses section end ===================-->
+{{ end }}
+

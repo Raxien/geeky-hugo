@@ -1,0 +1,57 @@
+############# English navigation (override for the "en" language) ##############
+# Hugo merges this file into menus.toml only for content served in English
+# (see exampleSite/config/_default/languages.toml, [en] block).
+
+# main menu
+[[main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[main]]
+name = "The Trip"
+url = "trip/"
+weight = 2
+
+[[main]]
+name = "Expenses"
+url = "expenses/"
+weight = 2
+
+[[main]]
+name = "The Van"
+url = "van/"
+weight = 3
+
+# Il sottomenu Destinations (continente -> paese) non è più statico: viene
+# generato in fase di build in header.html a partire dai campi
+# "continent"/"country" dei post pubblicati in inglese, così mostra sempre
+# e solo le mete che hanno davvero un articolo tradotto, invece di un
+# elenco da tenere allineato a mano ogni volta che si traduce un post.
+[[main]]
+name = "Destinations"
+url = "#"
+weight = 4
+hasChildren = true
+identifier = "destinations"
+
+# footer menu
+[[footer]]
+name = "About Us"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 2
+
+[[footer]]
+name = "Press"
+url = "press"
+weight = 3
+
+[[footer]]
+name = "The Trip"
+url = "trip/"
+weight = 4

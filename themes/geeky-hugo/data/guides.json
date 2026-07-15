@@ -22,7 +22,8 @@
       "description": "Seguici in questo viaggio in giro per il mondo",
       "image": "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1657123237/Articoli/Blog/travel-book-jp_avasf5.png",
       "link": "/blog/il-nostro-travel-book/",
-      "isExternal": false
+      "isExternal": false,
+      "en_show": false
     },
     {
       "id": "risparmio",

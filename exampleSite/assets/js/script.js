@@ -346,7 +346,6 @@ async function preloadAllData() {
         { key: 'monthly', url: `${rpcUrl}/sw/getSpesePerMese` },
         { key: 'grid', url: `${rpcUrl}/sw/getSpese` },
         { key: 'trip', url: `${rpcUrl}/data/trip` },
-        { key: 'map', url: `${rpcUrl}/data/map` },
         { key: 'cities', url: `${rpcUrl}/data/ru_it` },
         { key: 'press', url: `${rpcUrl}/data/press` }
     ];
@@ -375,9 +374,9 @@ function implementLazyDataLoading() {
             description: 'Dati spese e grafici'
         },
         {
-            selectors: ['#map'],
-            apis: ['map', 'trip'],
-            description: 'Dati mappa e viaggio'
+            selectors: ['#travelingStartDay', '#visitedCountry'],
+            apis: ['trip'],
+            description: 'Dati viaggio'
         },
         {
             selectors: ['.press-section', '#press-data'],
@@ -445,7 +444,6 @@ async function loadAPIGroup(apiKeys) {
         'monthly': () => fecthChartMonthlyData(),
         'grid': () => fecthGridData(),
         'trip': () => getTripData(),
-        'map': () => getMapData(),
         'cities': () => getCitiesData(),
         'press': () => getPressData()
     };
@@ -602,23 +600,6 @@ async function getTripData() {
     }
 }
 
-async function getMapData() {
-    const cached = getCachedData('map');
-    if (cached) {
-        setMap(cached.json);
-        return cached;
-    }
-    
-    try {
-        const response = await fetch(`${rpcUrl}/data/map`);
-        const data = await response.json();
-        setCachedData('map', data);
-        setMap(data.json);
-        return data;
-    } catch (error) {
-        console.error('Error fetching map data:', error);
-    }
-}
 
 // Modifica della funzione di inizializzazione
 document.addEventListener('DOMContentLoaded', function() {
@@ -1470,7 +1451,7 @@ function updateUIElements({ totalCost, totalCostWithoutFerry, ferryCosts, yearly
         document.getElementById('dailyCost').innerText = `${dailyCostWithoutFerry.toFixed(2)} €`;
         document.getElementById('travelingSumCostFerry1').innerText = ferryCosts.ferry1.toFixed(2);
         document.getElementById('travelingSumCostFerry2').innerText = ferryCosts.ferry2.toFixed(2);
-        document.getElementById('dailyCostFerry').innerText = `${dailyCost.toFixed(2)} € al giorno`;
+        document.getElementById('dailyCostFerry').innerText = `${dailyCost.toFixed(2)} € ${window.i18nStrings.perDaySuffix}`;
         document.getElementById('yearlyCostFerry').innerText = `${totalCost.toFixed(2)} €`;
 
         const yearlyContainer = document.getElementById('yearlyCost');
@@ -1555,7 +1536,7 @@ function setGrid(data) {
     const gridElement = document.getElementById("tblSpese");
     if (gridElement) {
         new gridjs.Grid({
-            columns: ["Categoria", "Descrizione", "Spesa", "Data"],
+            columns: window.i18nStrings.expensesTableColumns,
             data: result,
             sort: true,
             pagination: {
@@ -1670,7 +1651,7 @@ function setVanCost(initialCost, accessoryCost) {
 
     if (tblAccessoryElement) {
         new gridjs.Grid({
-            columns: ["Accessorio", "Costo"],
+            columns: window.i18nStrings.vanTableColumns,
             data: Object.entries(accessoryCost),
             sort: true,
             pagination: { limit: 20 }
@@ -1692,7 +1673,7 @@ initVanPage();
 
 //=================== trip script start ===================
 function updateTripElements({ travelingKm, visitedCountry, travelingDay, travelingStartDay }) {
-    if (!document.getElementById('map')) return;
+    if (!document.getElementById('travelingStartDay')) return;
 
     const elements = {
         travelingKm: document.getElementById('travelingKm'),
@@ -1711,7 +1692,7 @@ function setTripData(data) {
     const res = data.json;
     
     // Se siamo nella pagina trip, aggiorna tutti gli elementi
-    if (document.getElementById('map')) {
+    if (document.getElementById('travelingStartDay')) {
         const today = new Date();
         const yyyy = today.getFullYear();
         const mm = String(today.getMonth() + 1).padStart(2, '0');
@@ -1740,152 +1721,9 @@ function setTripData(data) {
     }
 }
 
-function setMap(mapJson) {
-    const lat = 11.25273288631866;
-    const long = 45.26401290964107;
-
-    mapboxgl.accessToken = 'pk.eyJ1IjoicmF4aWVuIiwiYSI6ImNscHA1cDBkNjExMjQybW1zdDdwN2tydmYifQ.dWypGWy2wcMCPjDv5yKGsQ';
-
-    // Disabilita l'uso dei worker
-    mapboxgl.supportsWorker = false;
-
-    const map = new mapboxgl.Map({
-        container: "map",
-        style: "mapbox://styles/mapbox/light-v10",
-        zoom: 5,
-        bearing: 20,
-        pitch: 60,
-        maxZoom: 13,
-        minZoom: 4,
-        center: [lat, long],
-        // Disabilita l'uso dei worker
-        workerCount: 0
-    });
-
-    map.scrollZoom.disable();
-    map.touchZoomRotate.enable();
-    map.addControl(new mapboxgl.NavigationControl());
-
-    const mapBoxFeatures = mapJson.pin
-        .filter(item => item.latlong && item.latlong !== "" && 
-            (!item.date || new Date(item.date) <= new Date()))
-        .map(item => {
-            const latlong = item.latlong.replace(' ', '').split(',').map(parseFloat);
-            return {
-                type: 'Feature',
-                properties: {
-                    description: `<article class="feature feature-1" style="margin-bottom: 0px;">
-                        <a href="https://youtu.be/${item.vendorid}" class="block" target="_blank" rel="nofollow noopener noreferrer">
-                            <img alt="Image" src="https://img.youtube.com/vi/${item.vendorid}/maxresdefault.jpg" />
-                        </a>
-                        <div class="feature__body boxed boxed--border bg--secondary" style="margin-bottom: 0px;">
-                            <h6>${item.title}</h6>
-                            <p>📍 Scopri gli itinerari <a href="/search/??s=${item.blog}"><span>${item.blog}</span></a></p>
-                        </div>
-                    </article>`
-                },
-                geometry: {
-                    type: "Point",
-                    coordinates: [latlong[1], latlong[0]]
-                }
-            };
-        });
-
-    function addRouteLayer(id, routeData, color, title) {
-        const coordinates = routeData.map(item => {
-            const [lat, long] = item[0].replace(' ', '').split(',').map(parseFloat);
-            return [lat, long];
-        });
-
-        map.addSource(id, {
-            type: 'geojson',
-            data: {
-                type: 'Feature',
-                properties: {},
-                geometry: {
-                    type: 'LineString',
-                    coordinates
-                }
-            }
-        });
-
-        map.addLayer({
-            id,
-            type: 'line',
-            source: id,
-            layout: {
-                'line-join': 'round',
-                'line-cap': 'round'
-            },
-            paint: {
-                'line-color': color,
-                'line-width': 4
-            }
-        });
-
-        const legend = document.getElementById('legend');
-        const newLegendItem = document.createElement('div');
-        const span = document.createElement('span');
-        span.style.backgroundColor = color;
-        newLegendItem.appendChild(span);
-        newLegendItem.appendChild(document.createTextNode(title));
-        legend.appendChild(newLegendItem);
-    }
-
-    map.on("load", function () {
-        map.loadImage("https://res.cloudinary.com/ilgattodicitturin/image/upload/v1701600586/asset/red_marker_small_cgzn6u.png", 
-            function (error, image) {
-                if (error) throw error;
-
-                addRouteLayer('route1', mapJson.route[0], '#FFC000', 'Road to Dakar');
-                addRouteLayer('route2', mapJson.route[1], '#d98396', 'Tour dei Balcani');
-                addRouteLayer('route3', mapJson.route[2], '#91CCF1', 'Direzione Giappone');
-
-                map.addImage("custom-marker", image);
-
-                map.addLayer({
-                    id: "places",
-                    type: "symbol",
-                    source: {
-                        type: "geojson",
-                        data: {
-                            type: 'FeatureCollection',
-                            features: mapBoxFeatures
-                        }
-                    },
-                    layout: {
-                        "icon-image": "custom-marker",
-                        'text-allow-overlap': true,
-                        'icon-allow-overlap': true,
-                    }
-                });
-
-                const legend = document.getElementById('legend');
-                legend.style.display = 'block';
-            });
-    });
-
-    map.on('click', 'places', function (e) {
-        const coordinates = e.features[0].geometry.coordinates.slice();
-        const description = e.features[0].properties.description;
-
-        while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-            coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-        }
-
-        new mapboxgl.Popup()
-            .setLngLat(coordinates)
-            .setHTML(description)
-            .addTo(map);
-    });
-
-    map.on('mouseenter', 'places', () => map.getCanvas().style.cursor = 'pointer');
-    map.on('mouseleave', 'places', () => map.getCanvas().style.cursor = '');
-}
-
 // Funzione di inizializzazione per la pagina trip
 function initTripPage() {
-    if (!document.getElementById('map')) return;
+    if (!document.getElementById('travelingStartDay')) return;
 
     // I dati verranno caricati automaticamente dal lazy loading quando necessario
     console.log('Pagina trip inizializzata - lazy loading attivo');

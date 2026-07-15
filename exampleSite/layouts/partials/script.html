@@ -1,0 +1,54 @@
+<!-- Stringhe tradotte lette da script.js: essendo minificato con terser via "npm run minify",
+     quel file non passa dal motore dei template di Hugo e non può chiamare le funzioni i18n
+     direttamente, quindi gliele passiamo da qui. -->
+<script>
+  window.i18nStrings = {
+    expensesTableColumns: {{ slice (i18n "expenses_category_heading") (i18n "expenses_table_description") (i18n "expenses_table_cost") (i18n "expenses_table_date") | jsonify | safeJS }},
+    vanTableColumns: {{ slice (i18n "van_table_accessory") (i18n "van_table_cost") | jsonify | safeJS }},
+    perDaySuffix: {{ i18n "expenses_per_day_suffix" | jsonify | safeJS }}
+  };
+</script>
+
+<!-- JS Plugins + Main script -->
+{{ $scripts := slice }}
+{{ range site.Params.plugins.js}}
+{{ if findRE "^http" .link }}
+<script src="{{ .link | relURL }}" type="application/javascript" defer {{.attributes | safeHTMLAttr}}></script>
+{{ else }}
+{{ $scripts = $scripts | append (resources.Get .link) }}
+{{ end }}
+{{ end }}
+
+{{ $mainScript := resources.Get "js/script.js" }}
+{{ if hugo.IsProduction }}
+{{ $mainScript = resources.Get "js/script.min.js" | resources.Minify }}
+{{ end }}
+
+{{ $adsScript := resources.Get "js/ads-optimizer.js" }}
+{{ $scripts = $scripts | append $mainScript | append $adsScript }}
+{{ $scripts = $scripts | resources.Concat "js/bundle.js" | minify | fingerprint "sha512" }}
+<script crossorigin="anonymous" defer integrity="{{ $scripts.Data.Integrity }}" type="application/javascript">{{$scripts.Content | safeJS}}</script>
+
+<!-- Search script -->
+{{ $searchSrc := resources.Get "js/search.js" }}
+{{ if $searchSrc }}
+{{ $searchTarget := printf "js/search.%s.js" site.Language.Lang }}
+{{ $search := $searchSrc | resources.ExecuteAsTemplate $searchTarget . | resources.Minify }}
+<script src="{{ $search.RelPermalink }}" defer></script>
+{{ end }}
+
+{{$pf:= site.Params.variables.font_primary}}
+{{$sf:= site.Params.variables.font_secondary}}
+
+<!-- Netlify Identity Widget redirect script -->
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", (user) => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
