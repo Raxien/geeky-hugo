@@ -1,0 +1,71 @@
+{{ define "main" }}
+
+<!--=================== contact section start ===================-->
+<section class="section contact">
+  <div class="container">
+    {{ $bgImage:= resources.Get "images/map.png" }}
+    {{ $bgImage:= $bgImage.Resize "1400x webp" }}
+    <div class="row section-sm pt-0" style="background-image: url('{{ $bgImage.RelPermalink }}')">
+      <div class="col-lg-6">
+        <div class="content pt-lg-5 pb-3 pb-lg-0">
+          <h2>{{ i18n "contact_title" }}</h2>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="contact-info pt-lg-5">
+          {{ with site.Params.email }}
+          <h3 class="h4 mb-4 text-capitalize">{{ i18n "contact_for_info_prefix" }}
+            <span class="text-primary">{{ i18n "contact_for_info" }}</span>
+          </h3>
+          <div class="card text-center mb-4 p-3">
+            <a href="mailto:{{.}}" class="d-flex align-items-center justify-content-center gap-2">
+              <i class="fas fa-envelope text-primary"></i>
+              <span>{{.}}</span>
+            </a>
+          </div>
+          {{ end }}
+
+          {{ with site.Params.emailSponsor }}
+          <h3 class="h4 mb-4 text-capitalize">{{ i18n "contact_for_info_prefix" }}
+            <span class="text-primary">{{ i18n "contact_for_collabs" }}</span>
+          </h3>
+          <div class="card text-center mb-4 p-3">
+            <a href="mailto:{{.}}" class="d-flex align-items-center justify-content-center gap-2">
+              <i class="fas fa-handshake text-primary"></i>
+              <span>{{.}}</span>
+            </a>
+          </div>
+          {{ end }}
+          <h3 class="h4 mb-4 text-capitalize">{{ i18n "contact_or_on" }}
+            <span class="text-primary">{{ i18n "contact_social" }}</span>
+          </h3>
+          <div class="text-center mb-4 p-3">
+            <ul class="list-unstyled social-icons">
+              {{ range site.Params.social }}
+              {{ if not (eq .title "Negozio") }}
+              <li class="list-inline-item">
+                <a href="{{.link | safeURL}}" aria-label="{{.title}}" class="fs-4">
+                  <i class="{{ .icon }}"></i>
+                </a>
+              </li>
+              {{ end }}
+              {{ end }}
+            </ul>
+          </div>
+
+          {{ with site.Params.address }}
+          <div class="card text-center mb-4 p-3">
+            <div class="d-flex align-items-center justify-content-center gap-2">
+              <i class="fas fa-map-marker-alt text-primary"></i>
+              <span>{{ . | markdownify }}</span>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+<!--=================== contact section start ===================-->
+{{ end }}

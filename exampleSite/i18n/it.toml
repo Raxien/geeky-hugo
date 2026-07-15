@@ -305,3 +305,21 @@ other = "al giorno"
 
 [guides_italian_only_note]
 other = "📚 Questi libri sono disponibili solo in italiano."
+
+[contact_title]
+other = "Contattaci"
+
+[contact_for_info_prefix]
+other = "Per"
+
+[contact_for_info]
+other = "informazioni"
+
+[contact_for_collabs]
+other = "Collaborazioni"
+
+[contact_or_on]
+other = "Oppure sui"
+
+[contact_social]
+other = "Social"
