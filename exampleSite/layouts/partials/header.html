@@ -1,5 +1,34 @@
 <header
   class="header bg-white border-bottom {{if site.Params.navbar_fixed}}sticky-top{{else}} position-relative{{end}}">
+
+  {{/* Albero Continente -> Paesi per il menu Destinazioni, generato dai post pubblicati in
+       questa lingua (site.RegularPages è già filtrato per lingua da Hugo) invece che da un
+       elenco statico in menus.toml: così il menu mostra sempre e solo le mete che hanno
+       davvero un articolo, e non serve più tenerlo allineato a mano. Ripulisce spazi
+       superflui ed esclude valori vuoti o "Mondo" (post non legati a una destinazione). */}}
+  {{ $destPages := where (where site.RegularPages "Params.country" "!=" nil) "Params.continent" "!=" nil }}
+  {{ $continentNames := slice }}
+  {{ range $destPages }}
+    {{ $c := trim .Params.continent " " }}
+    {{ if and (ne $c "") (ne $c "Mondo") (not (in $continentNames $c)) }}
+      {{ $continentNames = $continentNames | append $c }}
+    {{ end }}
+  {{ end }}
+  {{ $continentNames = sort $continentNames }}
+  {{ $destTree := slice }}
+  {{ range $continentNames }}
+    {{ $continent := . }}
+    {{ $countryNames := slice }}
+    {{ range $destPages }}
+      {{ $c := trim .Params.continent " " }}
+      {{ $country := trim .Params.country " " }}
+      {{ if and (eq $c $continent) (ne $country "") (not (in $countryNames $country)) }}
+        {{ $countryNames = $countryNames | append $country }}
+      {{ end }}
+    {{ end }}
+    {{ $destTree = $destTree | append (dict "name" $continent "countries" (sort $countryNames)) }}
+  {{ end }}
+
   <div class="container">
     <div class="row">
       <div class="col-12">
@@ -38,42 +67,29 @@
               {{ $menuURL := .URL | absLangURL }}
               {{ $pageURL:= $currentPage.Permalink | absLangURL }}
               {{ $active := eq $menuURL $pageURL }}
-              {{ if .HasChildren }}
+              {{ if eq .Identifier "destinations" }}
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button"
                   data-bs-toggle="dropdown" aria-expanded="false">{{ .Name }}
                 </a>
-                {{ $isDestinations := false }}
-                {{ range .Children }}{{ if .HasChildren }}{{ $isDestinations = true }}{{ end }}{{ end }}
-                {{ if $isDestinations }}
-                <!-- Menu Destinazioni/Destinations con layout a colonne (rilevato in base alla struttura, non al nome, per funzionare in ogni lingua) -->
+                <!-- Menu Destinazioni/Destinations con layout a colonne, generato da $destTree (vedi inizio file) -->
                 <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-center" aria-labelledby="navbarScrollingDropdown" style="left: 50%; transform: translateX(-50%); min-width: 800px;">
                   <li>
                     <div class="row g-0">
-                      {{ range $index, $continent := .Children }}
-                      {{ if .HasChildren }}
-                        {{ $continentChildren := len .Children }}
-                        {{ if and (eq .Name "Europa") (gt $continentChildren 8) }}
-                        <!-- Europa con più di 8 paesi: usa due colonne -->
+                      {{ range $destTree }}
+                        {{ if gt (len .countries) 8 }}
+                        <!-- Più di 8 paesi: usa due colonne -->
                         <div class="col-md-3">
-                          <div class="dropdown-header fw-bold text-primary">{{ .Name }}</div>
+                          <div class="dropdown-header fw-bold text-primary">{{ .name }}</div>
                           <div class="row">
                             <div class="col-6">
-                              {{ range first 9 .Children }}
-                              {{ $childURL := .URL | absLangURL }}
-                              {{ $active := eq $childURL $pageURL }}
-                              <a class="dropdown-item {{ if $active }}active{{ end }}" {{if findRE `^http` .URL}}target="_blank"
-                                  rel="noopener" {{end}}
-                                  href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+                              {{ range first 9 .countries }}
+                              <a class="dropdown-item" href="{{ printf `search/?s=%s` . | relLangURL }}">{{ . }}</a>
                               {{ end }}
                             </div>
                             <div class="col-6">
-                              {{ range after 9 .Children }}
-                              {{ $childURL := .URL | absLangURL }}
-                              {{ $active := eq $childURL $pageURL }}
-                              <a class="dropdown-item {{ if $active }}active{{ end }}" {{if findRE `^http` .URL}}target="_blank"
-                                  rel="noopener" {{end}}
-                                  href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+                              {{ range after 9 .countries }}
+                              <a class="dropdown-item" href="{{ printf `search/?s=%s` . | relLangURL }}">{{ . }}</a>
                               {{ end }}
                             </div>
                           </div>
@@ -81,22 +97,22 @@
                         {{ else }}
                         <!-- Altri continenti: colonna singola -->
                         <div class="col-md-3">
-                          <div class="dropdown-header fw-bold text-primary">{{ .Name }}</div>
-                          {{ range .Children }}
-                          {{ $childURL := .URL | absLangURL }}
-                          {{ $active := eq $childURL $pageURL }}
-                          <a class="dropdown-item {{ if $active }}active{{ end }}" {{if findRE `^http` .URL}}target="_blank"
-                              rel="noopener" {{end}}
-                              href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+                          <div class="dropdown-header fw-bold text-primary">{{ .name }}</div>
+                          {{ range .countries }}
+                          <a class="dropdown-item" href="{{ printf `search/?s=%s` . | relLangURL }}">{{ . }}</a>
                           {{ end }}
                         </div>
                         {{ end }}
                       {{ end }}
-                      {{ end }}
                     </div>
                   </li>
                 </ul>
-                {{ else }}
+              </li>
+              {{ else if .HasChildren }}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button"
+                  data-bs-toggle="dropdown" aria-expanded="false">{{ .Name }}
+                </a>
                 <!-- Menu normale per altri elementi -->
                 <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
                   {{ range .Children }}
@@ -108,7 +124,6 @@
                   </li>
                   {{ end }}
                 </ul>
-                {{ end }}
               </li>
               {{ else }}
               <li class="nav-item {{ if $active }}active{{ end }}">
@@ -185,43 +200,32 @@
           <div class="offcanvas-body">
             <ul class="navbar-nav my-4 my-lg-0 me-3 w-100">
               {{ range site.Menus.main }}
-              {{ if .HasChildren }}
-                {{ $isDestinationsMobile := false }}
-                {{ range .Children }}{{ if .HasChildren }}{{ $isDestinationsMobile = true }}{{ end }}{{ end }}
-                {{ if $isDestinationsMobile }}
-                <!-- Menu Destinazioni/Destinations espanso in mobile (rilevato in base alla struttura) -->
-                <li class="nav-item">
-                  {{ range .Children }}
-                  {{ if .HasChildren }}
-                  <!-- Continenti -->
-                  <div class="dropdown-header fw-bold text-secondary ps-3">{{ .Name }}</div>
-                  {{ range .Children }}
-                  <!-- Paesi -->
-                  <a class="nav-link ps-5 py-1" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
-                    href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
-                  {{ end }}
-                  {{ else }}
-                  <!-- Menu normale -->
-                  <a class="nav-link ps-3" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
-                    href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
-                  {{ end }}
-                  {{ end }}
-                </li>
-                {{ else }}
-                <!-- Altri menu con dropdown normale -->
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                    aria-haspopup="true" aria-expanded="false">
-                    {{ .Name }}
-                  </a>
-                  <div class="dropdown-menu">
-                    {{ range .Children }}
-                    <a class="dropdown-item" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
-                      href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
-                    {{ end }}
-                  </div>
-                </li>
+              {{ if eq .Identifier "destinations" }}
+              <!-- Menu Destinazioni/Destinations espanso in mobile, generato da $destTree (vedi inizio file) -->
+              <li class="nav-item">
+                {{ range $destTree }}
+                <!-- Continente -->
+                <div class="dropdown-header fw-bold text-secondary ps-3">{{ .name }}</div>
+                {{ range .countries }}
+                <!-- Paese -->
+                <a class="nav-link ps-5 py-1" href="{{ printf `search/?s=%s` . | relLangURL }}">{{ . }}</a>
                 {{ end }}
+                {{ end }}
+              </li>
+              {{ else if .HasChildren }}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                  aria-haspopup="true" aria-expanded="false">
+                  {{ .Name }}
+                </a>
+                <!-- Altri menu con dropdown normale -->
+                <div class="dropdown-menu">
+                  {{ range .Children }}
+                  <a class="dropdown-item" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
+                    href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+                  {{ end }}
+                </div>
+              </li>
               {{ else }}
               <li class="nav-item">
                 <a class="nav-link" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
