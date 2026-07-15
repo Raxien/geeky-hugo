@@ -1,11 +1,5 @@
 {{ define "main" }}
 
-{{- $sectionDelimiter := "<!-- section break -->" -}}
-{{- $rawContentSections := split .RawContent $sectionDelimiter -}}
-
-<link href="https://api.mapbox.com/mapbox-gl-js/v3.0.0/mapbox-gl.css" rel="stylesheet">
-<script src="https://api.mapbox.com/mapbox-gl-js/v3.0.0/mapbox-gl.js"></script>
-
 <!--=================== expenses section start ===================-->
 <section class="section">
   <div class="container">
@@ -42,7 +36,7 @@
         {{ end }}
         <h2 class="mb-3">{{ .Title | markdownify }}</h2>
         <div class="content">
-          {{ index $rawContentSections 0 | .RenderString }}
+          {{ .Content }}
         </div>
       </div>
     </div>
@@ -77,22 +71,44 @@
     <h2 class="h4 mb-5 title-border">{{ i18n "trip_countries_visited_heading" }} <label
         style="transform:scale(-1, 1); width:fit-content;">🚐</label></h2>
 
-    <div class="content">
-      {{ index $rawContentSections 1 | .RenderString }}
-    </div>
-
-    <div id="map" style="width: 100%; height: 1000px;">
-
-      <div id="legend" class="legend" style="display: none;">
-        <h4>{{ i18n "trip_map_legend_title" }}</h4>
-        <div><span id="legend-pin" style="background-color:red "></span>{{ i18n "trip_map_legend_text" }}</div>
-
+    <!-- Le tre grandi tappe del viaggio, al posto della mappa Mapbox (non più mantenuta) -->
+    <div class="row">
+      <div class="col-12 mb-5">
+        <p>{{ i18n "trip_stage_dakar_text" | safeHTML }}</p>
+        {{ $image := resources.Get "images/Road-to-dakar.png" }}
+        {{ if $image }}
+        {{ $imageWebp := $image.Resize "1400x webp" }}
+        {{ $imageFallback := $image.Resize "1400x" }}
+        <img loading="lazy" decoding="async" class="img-fluid w-100 rounded-4"
+          src="{{ $imageWebp.RelPermalink }}" onerror="this.onerror=null;this.src='{{ $imageFallback.RelPermalink }}'"
+          alt="Road to Dakar" width="{{ $imageWebp.Width }}" height="{{ $imageWebp.Height }}">
+        {{ end }}
+      </div>
+      <div class="col-12 mb-5">
+        <p>{{ i18n "trip_stage_asia_text" | safeHTML }}</p>
+        {{ $image := resources.Get "images/Asian-tour.png" }}
+        {{ if $image }}
+        {{ $imageWebp := $image.Resize "1400x webp" }}
+        {{ $imageFallback := $image.Resize "1400x" }}
+        <img loading="lazy" decoding="async" class="img-fluid w-100 rounded-4"
+          src="{{ $imageWebp.RelPermalink }}" onerror="this.onerror=null;this.src='{{ $imageFallback.RelPermalink }}'"
+          alt="Asian Tour" width="{{ $imageWebp.Width }}" height="{{ $imageWebp.Height }}">
+        {{ end }}
+      </div>
+      <div class="col-12 mb-5">
+        <p>{{ i18n "trip_stage_japan_text" | safeHTML }}</p>
+        {{ $image := resources.Get "images/Road-to-Japan.png" }}
+        {{ if $image }}
+        {{ $imageWebp := $image.Resize "1400x webp" }}
+        {{ $imageFallback := $image.Resize "1400x" }}
+        <img loading="lazy" decoding="async" class="img-fluid w-100 rounded-4"
+          src="{{ $imageWebp.RelPermalink }}" onerror="this.onerror=null;this.src='{{ $imageFallback.RelPermalink }}'"
+          alt="Road to Japan" width="{{ $imageWebp.Width }}" height="{{ $imageWebp.Height }}">
+        {{ end }}
       </div>
     </div>
 
   </div>
-
-  <!-- <iframe src="https://snazzymaps.com/embed/414109" width="100%" height="600px" style="border:none;"></iframe> -->
 </section>
 <!--=================== expenses section end ===================-->
 {{ end }}

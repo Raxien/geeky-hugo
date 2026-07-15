@@ -305,3 +305,12 @@ other = "per day"
 
 [guides_italian_only_note]
 other = "📚 These books are currently only available in Italian."
+
+[trip_stage_dakar_text]
+other = "<strong>Road to Dakar</strong>: our first big leap, from Europe all the way to Dakar, through Morocco, Mauritania and Senegal. Desert, endless border crossings, and the first real test of our travel style in Africa."
+
+[trip_stage_asia_text]
+other = "<strong>Asian Tour</strong>: from the Balkans to Turkey, through Iraqi Kurdistan, Georgia and Armenia. A journey between past and present, full of emotions, all the way to the gates of Russia."
+
+[trip_stage_japan_text]
+other = "<strong>Road to Japan</strong>: the longest and most ambitious stretch, 18,000 km across Russia, Kazakhstan, Mongolia and Korea, until we finally reached the Land of the Rising Sun."
