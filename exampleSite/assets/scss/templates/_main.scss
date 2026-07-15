@@ -207,6 +207,23 @@
   .col-sm-6.mb-4:has(.post-list-card) {
     margin-bottom: 0.75rem !important;
   }
+
+  /* Linea divisoria tra i post recenti in home, solo mobile: inset rispetto
+     ai bordi del box che li contiene (non deve toccarlo) e staccata dal
+     post successivo grazie al padding-bottom. */
+  .col-md-6.mb-4:has(.post-list-card):not(:last-child) {
+    position: relative;
+    padding-bottom: 0.75rem;
+
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0.75rem;
+      right: 0.75rem;
+      bottom: 0;
+      border-bottom: 1px solid $border-color;
+    }
+  }
 }
 
 .nav-pills {

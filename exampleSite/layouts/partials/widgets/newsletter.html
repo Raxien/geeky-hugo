@@ -56,7 +56,15 @@
   </form>
   <!-- {{ end }} -->
   {{ $privacyPage := site.GetPage "privacy-policy" }}
-  {{ $privacyURL := "https://vandipety.it/privacy-policy/" }}
-  {{ if $privacyPage }}{{ $privacyURL = $privacyPage.RelPermalink }}{{ end }}
+  {{ $privacyURL := "" }}
+  {{ if $privacyPage }}
+    {{ $privacyURL = $privacyPage.RelPermalink }}
+  {{ else }}
+    {{ range hugo.Sites }}
+      {{ if eq .Language.Lang "it" }}
+        {{ $privacyURL = printf "%s/privacy-policy/" (strings.TrimSuffix "/" .BaseURL) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
   <p class="text-light-900 small content" style="margin-bottom: 5px;">{{ i18n "newsletter_consent" (dict "privacy" $privacyURL) | safeHTML }}</p>
 </div>

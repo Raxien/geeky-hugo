@@ -21,7 +21,11 @@
       {{ $isExternal := .isExternal }}
       {{ if not .isExternal }}
         {{ if not (site.GetPage .link) }}
-          {{ $link = printf "https://vandipety.it%s" .link }}
+          {{ range hugo.Sites }}
+            {{ if eq .Language.Lang "it" }}
+              {{ $link = printf "%s%s" (strings.TrimSuffix "/" .BaseURL) $link }}
+            {{ end }}
+          {{ end }}
           {{ $isExternal = true }}
         {{ end }}
       {{ end }}
