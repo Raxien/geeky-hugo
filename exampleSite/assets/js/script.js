@@ -1673,7 +1673,7 @@ initVanPage();
 
 //=================== trip script start ===================
 function updateTripElements({ travelingKm, visitedCountry, travelingDay, travelingStartDay }) {
-    if (!document.getElementById('map')) return;
+    if (!document.getElementById('travelingStartDay')) return;
 
     const elements = {
         travelingKm: document.getElementById('travelingKm'),
@@ -1692,7 +1692,7 @@ function setTripData(data) {
     const res = data.json;
     
     // Se siamo nella pagina trip, aggiorna tutti gli elementi
-    if (document.getElementById('map')) {
+    if (document.getElementById('travelingStartDay')) {
         const today = new Date();
         const yyyy = today.getFullYear();
         const mm = String(today.getMonth() + 1).padStart(2, '0');

@@ -74,41 +74,15 @@
     <h2 class="h4 mb-5 title-border">{{ i18n "trip_countries_visited_heading" }} <label
         style="transform:scale(-1, 1); width:fit-content;">🚐</label></h2>
 
-    <!-- Le tre grandi tappe del viaggio, al posto della mappa Mapbox (non più mantenuta) -->
+    <!-- Le tappe del viaggio, al posto della mappa Mapbox (non più mantenuta). Immagini incluse
+         direttamente nel markdown di ciascuna sezione tramite lo shortcode "image" del tema,
+         che le ridimensiona e converte in webp in fase di build. -->
     <div class="row">
+      {{ range after 1 $rawContentSections }}
       <div class="col-12 mb-5">
-        <div class="content">{{ index $rawContentSections 1 | .RenderString }}</div>
-        {{ $image := resources.Get "images/Road-to-dakar.png" }}
-        {{ if $image }}
-        {{ $imageWebp := $image.Resize "1400x webp" }}
-        {{ $imageFallback := $image.Resize "1400x" }}
-        <img loading="lazy" decoding="async" class="img-fluid w-100 rounded-4"
-          src="{{ $imageWebp.RelPermalink }}" onerror="this.onerror=null;this.src='{{ $imageFallback.RelPermalink }}'"
-          alt="Road to Dakar" width="{{ $imageWebp.Width }}" height="{{ $imageWebp.Height }}">
-        {{ end }}
+        <div class="content">{{ . | $.RenderString }}</div>
       </div>
-      <div class="col-12 mb-5">
-        <div class="content">{{ index $rawContentSections 2 | .RenderString }}</div>
-        {{ $image := resources.Get "images/Asian-tour.png" }}
-        {{ if $image }}
-        {{ $imageWebp := $image.Resize "1400x webp" }}
-        {{ $imageFallback := $image.Resize "1400x" }}
-        <img loading="lazy" decoding="async" class="img-fluid w-100 rounded-4"
-          src="{{ $imageWebp.RelPermalink }}" onerror="this.onerror=null;this.src='{{ $imageFallback.RelPermalink }}'"
-          alt="Asian Tour" width="{{ $imageWebp.Width }}" height="{{ $imageWebp.Height }}">
-        {{ end }}
-      </div>
-      <div class="col-12 mb-5">
-        <div class="content">{{ index $rawContentSections 3 | .RenderString }}</div>
-        {{ $image := resources.Get "images/Road-to-Japan.png" }}
-        {{ if $image }}
-        {{ $imageWebp := $image.Resize "1400x webp" }}
-        {{ $imageFallback := $image.Resize "1400x" }}
-        <img loading="lazy" decoding="async" class="img-fluid w-100 rounded-4"
-          src="{{ $imageWebp.RelPermalink }}" onerror="this.onerror=null;this.src='{{ $imageFallback.RelPermalink }}'"
-          alt="Road to Japan" width="{{ $imageWebp.Width }}" height="{{ $imageWebp.Height }}">
-        {{ end }}
-      </div>
+      {{ end }}
     </div>
 
   </div>

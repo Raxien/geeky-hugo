@@ -12,12 +12,28 @@ Di seguito trovi anche tutti gli articoli relativi ai paesi visitati, tappa dopo
 
 <!-- section break -->
 
-**Road to Dakar**: il nostro primo grande salto, dall'Europa fino a Dakar, attraverso il Marocco, la Mauritania e il Senegal. Deserto, dogane infinite e la prima vera prova del nostro stile di viaggio in Africa.
+## Direzione Dakar 
+
+Il nostro primo grande salto, dall'Europa fino a Dakar, attraverso il Marocco, la Mauritania e il Senegal. Deserto, dogane infinite e la prima vera prova del nostro stile di viaggio in Africa.
+
+Rivivi questo viaggio qui: {{<extLink "Parte 1" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ9QT9yAaaqtoXtGUh2iMEI5">}} - {{<extLink "Parte 2" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ929klaWueEsMuZZvFWZKIB">}}
+
+{{< image src="images/Road-to-dakar.png" w="1400" o="webp q80" alt="Direzione Dakar" >}}
 
 <!-- section break -->
 
-**Asian Tour**: dai Balcani alla Turchia, passando per il Kurdistan iracheno, la Georgia e l'Armenia. Un viaggio fra passato e presente, pieno di emozioni, fino alle porte della Russia.
+## Direzione Giappone
+Il tratto più lungo e ambizioso, 40.000 km attraverso i Balcani, Turchia, Iraq poi Russia, Kazakistan, Mongolia e Sud Corea, fino a raggiungere finalmente il Sol Levante.
+
+Rivivi questo viaggio qui: {{<extLink "Parte 1" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-7swbxxVk-IMXnyrJLuH04">}} - {{<extLink "Parte 2" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_STEqeFCP1TZaWQZyY8NLe">}} - {{<extLink "Parte 3" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_-exHDEfsf_IFdzDSoY6Cl">}}
+
+{{< image src="images/Asian-tour.png" w="1400" o="webp q80" alt="Direzione Giappone - tratta Balcani e Turchia" >}}
+
+{{< image src="images/Road-to-Japan.png" w="1400" o="webp q80" alt="Direzione Giappone - tratta Russia, Kazakistan, Mongolia e Corea" >}}
 
 <!-- section break -->
 
-**Road to Japan**: il tratto più lungo e ambizioso, 18.000 km attraverso Russia, Kazakistan, Mongolia e Corea, fino a raggiungere finalmente il Sol Levante.
+## Japan Living
+Due anni vissuti tra Giappone e Sud Corea alla scoperta delle loro culture e differenze! 
+
+Rivivi queste avventure qui: {{<extLink "Parte 1" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_2FjZ8FIyVVqKzpgzdJbMm">}}

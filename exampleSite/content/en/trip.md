@@ -12,12 +12,30 @@ Below you'll also find all the articles about the countries we've visited, leg b
 
 <!-- section break -->
 
-**Road to Dakar**: our first big leap, from Europe all the way to Dakar, through Morocco, Mauritania and Senegal. Desert, endless border crossings, and the first real test of our travel style in Africa.
+## Road to Dakar
+
+Our first big leap, from Europe all the way to Dakar, through Morocco, Mauritania and Senegal. Desert, endless border crossings, and the first real test of our travel style in Africa.
+
+Relive this trip here: {{<extLink "Part 1" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ9QT9yAaaqtoXtGUh2iMEI5">}} - {{<extLink "Part 2" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ929klaWueEsMuZZvFWZKIB">}}
+
+{{< image src="images/Road-to-dakar.png" w="1400" o="webp q80" alt="Road to Dakar" >}}
 
 <!-- section break -->
 
-**Asian Tour**: from the Balkans to Turkey, through Iraqi Kurdistan, Georgia and Armenia. A journey between past and present, full of emotions, all the way to the gates of Russia.
+## Road to Japan
+
+The longest and most ambitious stretch, 40,000 km through the Balkans, Turkey, Iraq, then Russia, Kazakhstan, Mongolia and South Korea, until we finally reached the Land of the Rising Sun.
+
+Relive this trip here: {{<extLink "Part 1" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-7swbxxVk-IMXnyrJLuH04">}} - {{<extLink "Part 2" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_STEqeFCP1TZaWQZyY8NLe">}} - {{<extLink "Part 3" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_-exHDEfsf_IFdzDSoY6Cl">}}
+
+{{< image src="images/Asian-tour.png" w="1400" o="webp q80" alt="Road to Japan - Balkans and Turkey leg" >}}
+
+{{< image src="images/Road-to-Japan.png" w="1400" o="webp q80" alt="Road to Japan - Russia, Kazakhstan, Mongolia and Korea leg" >}}
 
 <!-- section break -->
 
-**Road to Japan**: the longest and most ambitious stretch, 18,000 km across Russia, Kazakhstan, Mongolia and Korea, until we finally reached the Land of the Rising Sun.
+## Japan Living
+
+Two years spent between Japan and South Korea, discovering their cultures and differences!
+
+Relive these adventures here: {{<extLink "Part 1" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_2FjZ8FIyVVqKzpgzdJbMm">}}
