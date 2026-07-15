@@ -12,6 +12,18 @@
       {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
       {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_400,c_limit" }}
       {{ $img800 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_800,c_limit" }}
+      {{ $description := .description }}
+      {{ if and (ne site.Language.Lang "it") .description_en }}
+        {{ $description = .description_en }}
+      {{ end }}
+      {{ $link := .link }}
+      {{ $isExternal := .isExternal }}
+      {{ if not .isExternal }}
+        {{ if not (site.GetPage .link) }}
+          {{ $link = printf "https://vandipety.it%s" .link }}
+          {{ $isExternal = true }}
+        {{ end }}
+      {{ end }}
       <div class="guide-slide">
         <div class="image-container">
           <img
@@ -25,9 +37,9 @@
           >
         </div>
         <div class="slide-text">
-          <p>{{ .description }}</p>
+          <p>{{ $description }}</p>
         </div>
-        <a href="{{ .link }}" {{ if .isExternal }}target="_blank" rel="noopener noreferrer"{{ end }} class="slide-link">
+        <a href="{{ $link }}" {{ if $isExternal }}target="_blank" rel="noopener noreferrer"{{ end }} class="slide-link">
           <span class="sr-only">{{ i18n "read_guide" }} {{ .title }}</span>
         </a>
       </div>
