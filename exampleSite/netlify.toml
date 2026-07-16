@@ -31,3 +31,9 @@
 [[edge_functions]]
   path = "/yt-thumb/:size/:id"
   function = "yt-thumb"
+
+# Custom 404 per dominio (vedi netlify/edge-functions/custom-404.js per il perché non basta il
+# rewrite forzato in netlify-host-redirects + il public/404.html di fallback).
+[[edge_functions]]
+  path = "/*"
+  function = "custom-404"
