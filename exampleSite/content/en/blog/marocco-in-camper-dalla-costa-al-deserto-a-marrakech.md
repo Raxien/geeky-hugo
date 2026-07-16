@@ -162,4 +162,3 @@ Click here to see all our adventures in Morocco:
 
 ## Our Maps
 {{< gmap "https://www.google.com/maps/d/u/0/embed?mid=1ECqhZ8xnaxMc-PBZKLGmML-epe56eek&ehbc=2E312F">}}
-
