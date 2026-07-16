@@ -3,6 +3,12 @@
 // public/404.html: quel fallback scatta solo per richieste che nessuna regola ha già gestito, non
 // per un rewrite riuscito il cui target risulta assente. Per questo il 404 custom va gestito qui,
 // ispezionando lo status della risposta finale invece di fare affidamento sulle regole _redirects.
+//
+// La vera pagina 404 (con header/footer/nav del tema) viene recuperata con context.rewrite verso
+// /it/404.html o /en/404.html: sono gli output reali generati da Hugo per ciascuna lingua (vedi
+// exampleSite/layouts/404.html). context.rewrite ripassa dall'intera pipeline di redirect, quindi
+// senza la regola di passthrough esplicita in netlify-host-redirects il catch-all per dominio
+// riscriverebbe di nuovo il path aggiungendo un secondo prefisso lingua.
 export default async (request, context) => {
   const response = await context.next();
   if (response.status !== 404) {
@@ -10,36 +16,12 @@ export default async (request, context) => {
   }
 
   const isItalian = new URL(request.url).hostname.includes("vandipety.it");
-  const image = isItalian ? "/images/404_it.png" : "/images/404_eng.png";
-  const backLabel = isItalian ? "Torna indietro" : "Go back";
-  const lang = isItalian ? "it" : "en";
+  const notFoundPath = isItalian ? "/it/404.html" : "/en/404.html";
 
-  const html = `<!doctype html>
-<html lang="${lang}">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="noindex,nofollow">
-<title>404</title>
-<style>
-  body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background: #fff; color: #212529; }
-  .wrap { max-width: 900px; margin: 0 auto; padding: 40px 20px; text-align: center; }
-  img { max-width: 100%; height: auto; margin-bottom: 24px; }
-  a.btn { display: inline-block; padding: 10px 28px; border-radius: 6px; background: #0d6efd; color: #fff; text-decoration: none; font-weight: 500; }
-  a.btn:hover { background: #0b5ed7; }
-</style>
-</head>
-<body>
-<div class="wrap">
-  <img src="${image}" alt="404">
-  <div><a class="btn" href="/">${backLabel}</a></div>
-</div>
-</body>
-</html>`;
-
-  return new Response(html, {
+  const realNotFound = await context.rewrite(new URL(notFoundPath, request.url));
+  return new Response(realNotFound.body, {
     status: 404,
-    headers: { "content-type": "text/html; charset=utf-8" },
+    headers: realNotFound.headers,
   });
 };
 

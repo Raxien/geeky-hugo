@@ -16,6 +16,16 @@ https://www.vandipety.it/admin/*   /it/admin/index.html   200
 https://vandipety.com/admin/*      /en/admin/index.html   200
 https://www.vandipety.com/admin/*  /en/admin/index.html   200
 
+# Passthrough per la vera pagina 404 renderizzata da Hugo (con header/footer/nav
+# del tema, non il fallback statico minimale). Deve stare PRIMA del catch-all
+# sotto, altrimenti "https://dominio/*" la riscriverebbe di nuovo aggiungendo un
+# secondo prefisso (es. /it/it/404.html). L'edge function netlify/edge-functions/
+# custom-404.js chiama context.rewrite("/it/404.html" o "/en/404.html") quando la
+# richiesta originale risulta in 404: senza questa regola esplicita quel rewrite
+# ripasserebbe dal catch-all e fallirebbe di nuovo.
+/it/404.html   /it/404.html   200
+/en/404.html   /en/404.html   200
+
 # Rewrite trasparente (200, non 301): l'URL visibile resta pulito, senza
 # prefisso /it o /en — solo il contenuto servito internamente cambia in base
 # al dominio.
@@ -26,11 +36,12 @@ https://www.vandipety.com/admin/*  /en/admin/index.html   200
 # verrebbe mai raggiunta, e messa PRIMA intercetterebbe anche le pagine valide
 # (lo shadow-check di Netlify controlla l'esistenza del path richiesto alla
 # radice della publish dir, non nella sottocartella /it o /en di destinazione,
-# quindi non troverebbe mai un match e scatterebbe sempre). Per questo la
-# pagina 404 corretta va risolta con un public/404.html reale in radice
-# (vedi il build command in netlify.toml), che Netlify serve automaticamente
-# quando una richiesta - anche dopo un rewrite forzato come questo - non
-# corrisponde a nessun file.
+# quindi non troverebbe mai un match e scatterebbe sempre). Per questo il 404
+# vero va risolto nell'edge function (vedi custom-404.js), che intercetta lo
+# status 404 finale e recupera la pagina reale via la regola di passthrough
+# sopra; il public/404.html in radice (vedi build command in netlify.toml)
+# resta solo un fallback statico minimale per il caso limite in cui l'edge
+# function stessa non venga eseguita.
 https://vandipety.it/*       /it/:splat   200!
 https://www.vandipety.it/*   /it/:splat   200!
 https://vandipety.com/*      /en/:splat   200!
