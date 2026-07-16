@@ -1,0 +1,265 @@
+<meta charset="utf-8">
+
+<title>{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Params.title }}{{ end }}</title>
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+
+ {{ if hugo.IsProduction }}
+<!-- Start iubenda -->
+<script async type="text/javascript">
+	var _iub = _iub || [];
+	_iub.csConfiguration = {"siteId":4140667,"cookiePolicyId":94471131,"lang":"it","floatingPreferencesButtonDisplay": false,"storage":{"useSiteId":true},};
+</script>
+<script async type="text/javascript" src="https://cs.iubenda.com/autoblocking/4140667.js"></script>
+<script async type="text/javascript" src="//cdn.iubenda.com/cs/tcf/stub-v2.js"></script>
+<script async type="text/javascript" src="//cdn.iubenda.com/cs/tcf/safe-tcf-v2.js"></script>
+<script async type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
+<!-- End iubenda -->
+{{ end }}
+
+<meta name="collabgrow-verification" content="CG-46379204" />
+<meta name="msvalidate.01" content="AA5AD9A294B927E40422220E351666C2" />
+<meta name="p:domain_verify" content="9bb6ced0805bf9c7edbd4a6ca2077f43"/>
+<meta name="google-adsense-account" content="ca-pub-7348628013126614">
+<!-- Trusted Types Policy -->
+<meta http-equiv="Content-Security-Policy" content="require-trusted-types-for 'script'">
+<script>
+		if (window.trustedTypes && trustedTypes.createPolicy) {
+			trustedTypes.createPolicy('default', {
+				createHTML: (string) => string,
+				createScriptURL: (string) => string,
+				createScript: (string) => string
+			});
+		}
+</script>
+
+<!-- AdSense + Google tag (gtag.js): caricamento differito al primo interazione utente per ridurre il main-thread work iniziale -->
+{{ if hugo.IsProduction }}
+<script>
+  (function() {
+    var loaded = false;
+    function loadDeferredScripts() {
+      if (loaded) return;
+      loaded = true;
+
+      var ads = document.createElement('script');
+      ads.async = true;
+      ads.crossOrigin = 'anonymous';
+      ads.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7348628013126614';
+      ads.onload = function() {
+        ads.setAttribute('data-loaded', 'true');
+        window.dispatchEvent(new Event('adsbygoogle-ready'));
+      };
+      document.head.appendChild(ads);
+
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function () { dataLayer.push(arguments); };
+      gtag('js', new Date());
+      gtag('config', 'G-E9L2CG2NZ6', {
+        'anonymize_ip': true,
+        'allow_google_signals': true,
+        'allow_ad_personalization_signals': true
+      });
+
+      var gtagScript = document.createElement('script');
+      gtagScript.async = true;
+      gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-E9L2CG2NZ6';
+      document.head.appendChild(gtagScript);
+    }
+
+    ['scroll', 'mousemove', 'touchstart', 'keydown', 'click'].forEach(function (evt) {
+      window.addEventListener(evt, loadDeferredScripts, { passive: true, once: true });
+    });
+    setTimeout(loadDeferredScripts, 3500);
+  })();
+</script>
+{{ end }}
+
+
+
+<!-- base url -->
+{{ if or (eq site.BaseURL "/") (hasPrefix site.BaseURL "http://localhost") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://examplesite.com/")}}{{else}}
+<base href="{{ site.BaseURL }}">
+{{ end }}
+
+<!-- multilingual SEO optimizations -->
+<!-- .Permalink (non absLangURL) per risolvere correttamente il baseURL di
+     ciascuna traduzione in modalità multihost: it e en vivono su domini
+     diversi (vandipety.it / vandipety.com), non su un prefisso di path dello
+     stesso dominio, quindi absLangURL restituirebbe sempre il dominio della
+     pagina corrente per tutte le voci del loop. -->
+{{ if .IsTranslated }}
+{{ range .AllTranslations }}
+<link rel="alternate" hreflang="{{.Lang}}" href="{{ .Permalink }}">
+{{ end }}
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{ end }}
+
+<!-- rss -->
+{{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
+
+<!-- mobile responsive meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+{{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+{{ with site.Params.country }}<meta name="country" content="{{ . }}">{{ end }}
+{{ with site.Params.ai_summary_enabled }}<meta name="ai-summary-enabled" content="{{ . }}">{{ end }}
+{{ hugo.Generator }}
+
+
+<!-- favicon -->
+{{ $favicon:= site.Params.favicon }}
+{{ if $favicon }}
+{{ if fileExists (add `assets/` $favicon) }}
+{{ $favicon:= resources.Get $favicon }}
+{{ $favicon_16:= $favicon.Resize "16x png"}}
+{{ $favicon_32:= $favicon.Resize "32x png"}}
+{{ $favicon_180:= $favicon.Resize "180x png"}}
+<link rel="shortcut icon" href="{{$favicon_32.RelPermalink}}" type="image/x-icon">
+<link rel="icon" href="{{$favicon_32.RelPermalink}}" type="image/x-icon">
+<link rel="icon" type="image/png" sizes="16x16" href="{{$favicon_16.RelPermalink}}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{$favicon_32.RelPermalink}}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{$favicon_180.RelPermalink}}">
+{{ end }}
+{{ end }}
+<link rel="manifest" href="{{`manifest.webmanifest` | relURL }}">
+<meta name="msapplication-TileColor" content="{{site.Params.variables.color_primary | default `#da532c`}}">
+<meta name="theme-color" content="{{site.Params.variables.body_color | default `#ffffff` }}">
+
+<!-- logo preload -->
+{{ $logoPath:= site.Params.logo }}
+{{ if $logoPath }}
+{{ if fileExists (add `assets/` $logoPath) }}
+{{ $logo:= resources.Get $logoPath }}
+{{ $logoExt := path.Ext $logo }}
+{{ if ne $logoExt ".svg"}}
+{{ $logoWidth:= replace site.Params.logo_width "px" "x" }}
+{{ $options := add (string $logoWidth) " webp" }}
+<link rel="preload" href="{{ ($logo.Resize $options).RelPermalink }}" as="image" type="image/webp">
+{{ else }}
+<link rel="preload" href="{{ $logo.RelPermalink }}" as="image" type="image/svg+xml">
+{{ end }}
+{{ end }}
+{{ end }}
+
+<!-- Open Graph e Twitter Card -->
+{{ $image_path := .Params.image | default site.Params.image -}}
+{{ $image_ext := trim (path.Ext $image_path | lower) "." -}}
+
+{{ if hasPrefix $image_path "http" -}}
+  <!-- Gestione immagini esterne -->
+  <meta property="og:image" content="{{ $image_path }}" />
+  <meta name="twitter:image" content="{{ $image_path }}"/>
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+{{ else -}}
+  <!-- Gestione immagini locali -->
+  {{ $image_path_local :=  printf "static/%s" $image_path -}}
+  {{ if fileExists $image_path_local -}}
+    <meta property="og:image" content="{{ $image_path | absURL }}" />
+    {{ if ne $image_ext "svg" -}}
+      {{ with (imageConfig $image_path_local) -}}
+      {{ if (and (gt .Width 144) (gt .Height 144)) -}}
+        <meta name="twitter:image" content="{{ $image_path | absURL }}"/>
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="og:image:width" content="{{ .Width }}"/>
+        <meta property="og:image:height" content="{{ .Height }}"/>
+      {{ end -}}
+      {{ end -}}
+    {{ end -}}
+    <meta property="og:image:type" content="image/{{ if eq $image_ext `svg` }}svg+xml{{ else }}{{ replaceRE `^jpg$` `jpeg` $image_ext }}{{ end }}">
+  {{ end -}}
+{{ end -}}
+
+<!-- Instagram Meta Tags -->
+<meta property="og:title" content="{{ with .Title }}{{ . }}{{ else }}{{ site.Title }}{{ end }}"/>
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
+<meta property="og:url" content="{{ .Permalink }}"/>
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}"/>
+<meta property="og:site_name" content="{{ site.Title }}"/>
+<meta property="og:locale" content="{{ site.Language.Lang }}"/>
+
+<!-- Twitter/X Meta Tags -->
+<meta name="twitter:title" content="{{ with .Title }}{{ . }}{{ else }}{{ site.Title }}{{ end }}"/>
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
+<meta property="twitter:domain" content="{{ site.BaseURL | replaceRE "^https?://([^/]+).*" "$1" }}"/>
+<meta property="twitter:url" content="{{ .Permalink }}"/>
+<meta name="twitter:site" content="@vandipety"/>
+<meta name="twitter:creator" content="@vandipety"/>
+
+<!-- Threads Meta Tags -->
+<meta property="threads:title" content="{{ with .Title }}{{ . }}{{ else }}{{ site.Title }}{{ end }}"/>
+<meta property="threads:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
+<meta property="threads:image" content="{{ if .Params.image }}{{ .Params.image | absURL }}{{ else }}{{ site.Params.image | absURL }}{{ end }}"/>
+
+<!-- Telegram Meta Tags -->
+<meta property="telegram:channel" content="{{ site.Title }}"/>
+<meta property="telegram:site" content="{{ site.Title }}"/>
+<meta property="telegram:title" content="{{ with .Title }}{{ . }}{{ else }}{{ site.Title }}{{ end }}"/>
+<meta property="telegram:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
+<meta property="telegram:image" content="{{ if .Params.image }}{{ .Params.image | absURL }}{{ else }}{{ site.Params.image | absURL }}{{ end }}"/>
+
+<!-- WhatsApp Meta Tags -->
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}"/>
+<meta property="og:image" content="{{ if .Params.image }}{{ .Params.image | absURL }}{{ else }}{{ site.Params.image | absURL }}{{ end }}"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+
+<!-- DNS preconnect e prefetch -->
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="https://www.google-analytics.com">
+<link rel="dns-prefetch" href="https://connect.facebook.net">
+<link rel="dns-prefetch" href="https://platform.linkedin.com">
+<link rel="dns-prefetch" href="https://platform.twitter.com">
+
+<!-- Preload font woff2 critici -->
+<link rel="preload" as="font" type="font/woff2" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-solid-900.woff2" crossorigin="anonymous">
+<link rel="preload" as="font" type="font/woff2" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.woff2" crossorigin="anonymous">
+
+<!-- Font Awesome: subset locale con solo le icone usate dal sito, inlineato per evitare una richiesta bloccante -->
+{{ with resources.Get "plugins/font-awesome/fontawesome-subset.min.css" }}
+<style>{{ .Content | safeCSS }}</style>
+{{ end }}
+
+<!-- Fallback Unicode minimal solo se Font Awesome fallisce completamente -->
+<style>
+/* Fallback solo in caso di errore grave di caricamento Font Awesome */
+.fa-search::before,
+.fa-bars::before,
+.fa-times::before {
+  /* Font Awesome 6 ha priorità */
+  font-family: "Font Awesome 6 Free" !important;
+  font-weight: 900 !important;
+}
+
+/* Fallback estremo solo se Font Awesome non esiste proprio */
+@supports not (font-family: "Font Awesome 6 Free") {
+  .fa-search::before { content: "🔍"; font-family: system-ui; }
+  .fa-bars::before { content: "☰"; font-family: system-ui; }
+  .fa-times::before { content: "✕"; font-family: system-ui; }
+  .dropdown-toggle::after { content: "▼"; font-family: system-ui; font-size: 0.7rem; margin-left: 4px; border: 0; }
+}
+</style>
+
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
+
+
+<!-- preload immagini articolo -->
+{{ if .Params.image }}
+  {{ $image := .Resources.GetMatch .Params.image }}
+  {{ if $image }}
+    {{ $webp := $image.Resize "1200x webp" }}
+    <link rel="preload" as="image" href="{{ $webp.RelPermalink }}" type="image/webp">
+  {{ else }}
+    <link rel="preload" as="image" href="{{ .Params.image | absURL }}">
+  {{ end }}
+{{ end }}
+
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' https: data: 'unsafe-inline' 'unsafe-eval'; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; img-src 'self' https: data: blob:; font-src 'self' https: data:; connect-src 'self' https: wss:; worker-src 'self' blob:;">
