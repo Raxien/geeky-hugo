@@ -1,4 +1,4 @@
-# This robots.txt file controls crawling of URLs under https://vandipety.it.
+# This robots.txt file controls crawling of URLs under {{ site.BaseURL }}.
 # All crawlers are disallowed to crawl files in the "includes" directory, such
 # as .css, .js, but Google needs them for rendering, so Googlebot is allowed
 # to crawl them.
@@ -14,4 +14,4 @@ Disallow: /categories/
 Disallow: /about/
 Disallow: /press/
 
-Sitemap: https://www.vandipety.it/sitemap.xml
+Sitemap: {{ site.BaseURL }}sitemap.xml

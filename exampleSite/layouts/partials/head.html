@@ -1,6 +1,8 @@
 <meta charset="utf-8">
 
-<title>{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Params.title }}{{ end }}</title>
+<!-- Kind "404" gestito a parte: Hugo assegna a .Title un default interno
+     sempre in inglese ("404 Page not found"), non localizzato per lingua. -->
+<title>{{ if eq .Kind "404" }}{{ i18n "not_found_heading" }}{{ else if .Title }}{{ .Title }}{{ else }}{{ .Site.Params.title }}{{ end }}</title>
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
  {{ if hugo.IsProduction }}
@@ -80,6 +82,11 @@
 {{ if or (eq site.BaseURL "/") (hasPrefix site.BaseURL "http://localhost") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://examplesite.com/")}}{{else}}
 <base href="{{ site.BaseURL }}">
 {{ end }}
+
+<!-- canonical: sia www che apex servono lo stesso contenuto su entrambi i
+     domini (vedi netlify-host-redirects), senza questo tag è un rischio di
+     contenuto duplicato agli occhi di Google. -->
+<link rel="canonical" href="{{ .Permalink }}">
 
 <!-- multilingual SEO optimizations -->
 <!-- .Permalink (non absLangURL) per risolvere correttamente il baseURL di

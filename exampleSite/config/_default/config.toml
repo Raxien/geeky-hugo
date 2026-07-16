@@ -1,4 +1,5 @@
 defaultContentLanguage = "it"
+enableRobotsTXT = true
 disqusShortname = "vandipety-it"
 summaryLength = "20"
 theme = "geeky-hugo"
