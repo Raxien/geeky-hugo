@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>404</title>
+<style>
+  body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background: #fff; color: #212529; }
+  .wrap { max-width: 900px; margin: 0 auto; padding: 40px 20px; text-align: center; }
+  img { max-width: 100%; height: auto; margin-bottom: 24px; }
+  a.btn { display: inline-block; padding: 10px 28px; border-radius: 6px; background: #0d6efd; color: #fff; text-decoration: none; font-weight: 500; }
+  a.btn:hover { background: #0b5ed7; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <img id="not-found-image" src="/images/404_it.png" alt="404">
+  <div><a class="btn" id="back-link" href="/">Torna indietro</a></div>
+</div>
+<script>
+  if (!location.hostname.includes(".it")) {
+    document.getElementById("not-found-image").src = "/images/404_eng.png";
+    document.getElementById("back-link").textContent = "Go back";
+    document.documentElement.lang = "en";
+    document.title = "404";
+  }
+</script>
+</body>
+</html>

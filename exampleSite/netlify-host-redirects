@@ -19,18 +19,19 @@ https://www.vandipety.com/admin/*  /en/admin/index.html   200
 # Rewrite trasparente (200, non 301): l'URL visibile resta pulito, senza
 # prefisso /it o /en — solo il contenuto servito internamente cambia in base
 # al dominio.
+#
+# NOTA sul 404: Netlify valuta solo la prima regola il cui pattern "from"
+# corrisponde (nessun chaining su quella riscritta), quindi qualunque regola
+# "404" con lo stesso pattern "https://dominio/*" messa DOPO queste righe non
+# verrebbe mai raggiunta, e messa PRIMA intercetterebbe anche le pagine valide
+# (lo shadow-check di Netlify controlla l'esistenza del path richiesto alla
+# radice della publish dir, non nella sottocartella /it o /en di destinazione,
+# quindi non troverebbe mai un match e scatterebbe sempre). Per questo la
+# pagina 404 corretta va risolta con un public/404.html reale in radice
+# (vedi il build command in netlify.toml), che Netlify serve automaticamente
+# quando una richiesta - anche dopo un rewrite forzato come questo - non
+# corrisponde a nessun file.
 https://vandipety.it/*       /it/:splat   200!
 https://www.vandipety.it/*   /it/:splat   200!
 https://vandipety.com/*      /en/:splat   200!
 https://www.vandipety.com/*  /en/:splat   200!
-
-# 404 custom per dominio: senza queste regole, il rewrite forzato "200!" sopra
-# intercetta anche le pagine inesistenti (Netlify prova a servire /it/:splat,
-# non lo trova e mostra il suo 404 generico invece di public/it/404.html).
-# Netlify tratta le regole con status 404 come fallback speciale, valide solo
-# quando la richiesta risulterebbe comunque non trovata: per questo funzionano
-# a prescindere dalla loro posizione rispetto al rewrite "200!" qui sopra.
-https://vandipety.it/*       /it/404.html   404
-https://www.vandipety.it/*   /it/404.html   404
-https://vandipety.com/*      /en/404.html   404
-https://www.vandipety.com/*  /en/404.html   404
