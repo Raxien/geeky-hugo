@@ -23,3 +23,14 @@ https://vandipety.it/*       /it/:splat   200!
 https://www.vandipety.it/*   /it/:splat   200!
 https://vandipety.com/*      /en/:splat   200!
 https://www.vandipety.com/*  /en/:splat   200!
+
+# 404 custom per dominio: senza queste regole, il rewrite forzato "200!" sopra
+# intercetta anche le pagine inesistenti (Netlify prova a servire /it/:splat,
+# non lo trova e mostra il suo 404 generico invece di public/it/404.html).
+# Netlify tratta le regole con status 404 come fallback speciale, valide solo
+# quando la richiesta risulterebbe comunque non trovata: per questo funzionano
+# a prescindere dalla loro posizione rispetto al rewrite "200!" qui sopra.
+https://vandipety.it/*       /it/404.html   404
+https://www.vandipety.it/*   /it/404.html   404
+https://vandipety.com/*      /en/404.html   404
+https://www.vandipety.com/*  /en/404.html   404
