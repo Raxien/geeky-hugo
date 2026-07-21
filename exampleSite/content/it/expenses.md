@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w
 layout: expenses
 ---
 
-Per permetterci questa scelta di vita abbiamo risparmiato giorno per giorno e lo stiamo facendo ancora. Ci piace da sempre tenere conto delle spese, per cui ecco dei [grafici](#chart) e la [tabella](#tblSpese) dove teniamo traccia di tutte le spese e di come questo viaggio potrà davvero mantenersi nei mesi.
+Per permetterci questa scelta di vita abbiamo risparmiato giorno per giorno e lo stiamo facendo ancora. Ci piace da sempre tenere conto delle spese, per cui ecco dei [grafici](#chart) dove teniamo traccia di tutte le spese e di come questo viaggio potrà davvero mantenersi nei mesi.
 
 Se volete scoprire come facciamo a spendere cosi poco per tutto questo viaggio vi rimandiamo [alla guida che abbiamo scritto in merito](/blog/abbiamo-pubblicato-un-libro).
 

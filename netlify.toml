@@ -1,6 +1,6 @@
 [build]
   publish = "exampleSite/public"
-  command = "cd exampleSite && hugo --minify --gc --themesDir ../themes --theme geeky-hugo && cat static/_redirects netlify-host-redirects > public/_redirects && cp 404-fallback.html public/404.html"
+  command = "npx --yes terser exampleSite/assets/js/script.js -o exampleSite/assets/js/script.min.js -c passes=2,pure_getters,unsafe,unsafe_math,unsafe_proto,unsafe_regexp,unsafe_undefined,conditionals,dead_code,evaluate,booleans,loops,unused,drop_console=true,drop_debugger=true -m --comments '/^!/' && cd exampleSite && hugo --minify --gc --themesDir ../themes --theme geeky-hugo && cat static/_redirects netlify-host-redirects > public/_redirects && cp 404-fallback.html public/404.html"
   
 [build.environment]
   HUGO_VERSION = "0.163.3"

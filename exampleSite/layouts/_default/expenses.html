@@ -4,8 +4,6 @@
 {{- $rawContentSections := split .RawContent $sectionDelimiter -}}
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js@3.8.0/dist/chart.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
-<link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
 
 <!--=================== expenses section start ===================-->
 <section class="section">
@@ -117,14 +115,6 @@
          </div>
       </div>
     </div>
-
-    <br>
-    <br>
-    
-    <details>
-      <summary>{{ i18n "expenses_details" }}</summary>
-      <div id="tblSpese" name="tblSpese"></div>
-    </details>
 
     <div class="content">
       <!-- {{.Content}} -->

@@ -344,7 +344,6 @@ async function preloadAllData() {
         { key: 'expenses', url: `${rpcUrl}/sw/getSpeseAnno` },
         { key: 'category', url: `${rpcUrl}/sw/getSpesePerCategoria` },
         { key: 'monthly', url: `${rpcUrl}/sw/getSpesePerMese` },
-        { key: 'grid', url: `${rpcUrl}/sw/getSpese` },
         { key: 'trip', url: `${rpcUrl}/data/trip` },
         { key: 'cities', url: `${rpcUrl}/data/ru_it` },
         { key: 'press', url: `${rpcUrl}/data/press` }
@@ -369,8 +368,8 @@ function implementLazyDataLoading() {
     // Mappa degli endpoint e degli elementi DOM che li richiedono
     const apiElementMap = [
         {
-            selectors: ['#catergory', '#monthly-chart', '#expenses-grid'],
-            apis: ['category', 'monthly', 'grid', 'expenses'],
+            selectors: ['#catergory', '#monthly'],
+            apis: ['category', 'monthly', 'expenses'],
             description: 'Dati spese e grafici'
         },
         {
@@ -442,7 +441,6 @@ async function loadAPIGroup(apiKeys) {
         'expenses': () => fecthExpenseData(),
         'category': () => fecthChartCategoryData(),
         'monthly': () => fecthChartMonthlyData(),
-        'grid': () => fecthGridData(),
         'trip': () => getTripData(),
         'cities': () => getCitiesData(),
         'press': () => getPressData()
@@ -558,24 +556,6 @@ async function fecthChartMonthlyData() {
         const data = await response.json();
         setCachedData('monthly', data);
         setChartMonthly(data);
-        return data;
-    } catch (error) {
-        console.error('Error fetching SW data:', error);
-    }
-}
-
-async function fecthGridData() {
-    const cached = getCachedData('grid');
-    if (cached) {
-        setGrid(cached);
-        return cached;
-    }
-    
-    try {
-        const response = await fetch(`${rpcUrl}/sw/getSpese`);
-        const data = await response.json();
-        setCachedData('grid', data);
-        setGrid(data);
         return data;
     } catch (error) {
         console.error('Error fetching SW data:', error);
@@ -1520,30 +1500,6 @@ function setChartMonthly(data) {
             }]
         }
     });
-}
-
-function setGrid(data) {
-    const result = [];
-    let i = 0;
-    while(i < data.json.length) {
-        let res = data.json[i];
-        let cost = parseFloat(res.cost);
-        cost = Math.round((cost + Number.EPSILON) * 100) / 100;
-        result.push([res.category.name, res.description, cost, new Date(res.date).toLocaleString()]);
-        i++;
-    }
-
-    const gridElement = document.getElementById("tblSpese");
-    if (gridElement) {
-        new gridjs.Grid({
-            columns: window.i18nStrings.expensesTableColumns,
-            data: result,
-            sort: true,
-            pagination: {
-                limit: 20
-            }
-        }).render(gridElement);
-    }
 }
 
 // Funzione di inizializzazione per la pagina delle spese
