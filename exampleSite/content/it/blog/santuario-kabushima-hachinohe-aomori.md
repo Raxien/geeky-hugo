@@ -3,7 +3,7 @@ title: 'Santuario di Kabushima: oasi spirituale tra mare e gabbiani nella prefet
 description: 'Scopri il Santuario di Kabushima a Hachinohe, un luogo spirituale affacciato sul mare dove gabbiani tridattili nidificano. Storia, tradizioni e curiosità del nord del Giappone.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1761039047/articoli/viaggi/Copia di Nero Minimalista Viaggio Miniatura YouTube (3)-vlqaolkb.png
 date: 2025-10-27T08:00:00+02:00
-categories: ["Giappone in Camper", "Spiritualità", "Destinazioni Giappone"]
+categories: ["Giappone in Camper"]
 continent: Asia
 country: Giappone
 type: featured

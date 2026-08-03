@@ -1,6 +1,7 @@
 ---
 title: "Search results"
-description: "this is meta description"
+description: "Search Vandipety's articles on destinations, itineraries and campervan travel tips."
+robots: "noindex, follow"
 layout: "search"
 sitemap:
   priority : 0.1

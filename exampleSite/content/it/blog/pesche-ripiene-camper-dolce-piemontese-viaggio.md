@@ -3,7 +3,7 @@ title: "Pesche ripiene in camper: un dolce piemontese in giro per il mondo"
 description: "Le pesche ripiene sono da sempre tra i piatti preferiti delle nostre famiglie piemontesi. Scopri la nostra versione da preparare in camper!"
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690377897/Articoli/rabat/gateau/persi_pien_uzkza9.jpg"
 date: 2023-09-02T10:00:00Z
-categories: ["Cucina"]
+categories: ["Europa in Camper"]
 continent: Europa
 country: Italia
 type: regular

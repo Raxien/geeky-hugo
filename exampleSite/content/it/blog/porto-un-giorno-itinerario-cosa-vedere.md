@@ -3,7 +3,7 @@ title: 'Porto in un giorno: itinerario completo e cosa vedere'
 description: "Guida per visitare Porto in un giorno: itinerario a piedi tra Ribeira, Libreria Lello, São Bento e le attrazioni imperdibili, con consigli su dove parcheggiare."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1754641823/Articoli/turchia/Europa/porto-in-camper_xkrtwd.png
 date: 2024-05-07T10:00:00+01:00
-categories: [ "Portogallo in Camper", "Itinerari" ]
+categories: ["Europa in Camper", "Itinerari"]
 continent: Europa
 country: Portogallo
 type: featured

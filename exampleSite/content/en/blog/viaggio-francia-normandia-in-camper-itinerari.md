@@ -4,7 +4,7 @@ slug: normandy-by-campervan-itinerary
 description: "Discovering Normandy by campervan, one lighthouse after another!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682804742/Articoli/francia/IMG_4788_qzts1g.jpg
 date: 2023-03-07T17:00:00.000
-categories: ["France by Campervan", "Itineraries"]
+categories: ["Europe by Campervan", "Itineraries"]
 continent: Europe
 type: regular
 draft: false

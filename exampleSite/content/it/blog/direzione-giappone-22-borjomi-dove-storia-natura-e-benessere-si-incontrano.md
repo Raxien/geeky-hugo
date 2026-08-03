@@ -3,7 +3,7 @@ title: 'Borjomi: dove storia, natura e benessere si incontrano'
 description: 'Alla scoperta della perla del Caucaso e della sua acqua minerale di lusso'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione22/borjomi-acqua_qmbvno.jpg
 date: 2024-06-14T7:00:00+01:00
-categories: [ "Direzione Giappone", "Georgia"]
+categories: ["Georgia e Caucaso in Camper"]
 type: featured  
 continent: Europa
 country: Georgia 

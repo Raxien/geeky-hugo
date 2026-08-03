@@ -3,7 +3,7 @@ title: 'Guida Definitiva alla Metro di Seoul e alla T-Money'
 description: 'Guida definitiva alla metro di Seoul e alla T-Money: trucchi e consigli su come muoversi facilmente'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Corea/Seoul/metro-seoul_j4pwod.jpg
 date: 2025-04-11T7:00:00+01:00
-categories: ["Viaggi in Corea"]
+categories: ["Corea del Sud in Camper"]
 type: regular  
 continent: Asia
 country: Corea del Sud 

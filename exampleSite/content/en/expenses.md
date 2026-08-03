@@ -7,7 +7,7 @@ layout: expenses
 
 To afford this lifestyle we saved day after day, and we still do. We've always liked keeping track of expenses, so here are the [charts](#chart) where we track every expense and how this trip can really sustain itself over the months.
 
-The van's purchase cost and its accessories are not included in these figures; you can find them [**here**](https://vandipety.com/van).
+The van's purchase cost and its accessories are not included in these figures; you can find them [**here**](/van/).
 <!-- section break -->
 
 #### Video

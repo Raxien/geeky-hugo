@@ -3,7 +3,7 @@ title: 'Noboribetsu: Il Cuore Termale dell''Hokkaido tra Vapori, Leggende e Natu
 description: 'Guida completa a Noboribetsu: onsen giapponesi, la Valle dell''Inferno, proprietà terapeutiche e come arrivarci in Hokkaido.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1761211842/articoli/viaggi/valleinfernohokkaido-ihoo28ug.png
 date: 2025-10-29T14:00:00+02:00
-categories: ["Giappone", "Hokkaido", "Onsen", "Natura"]
+categories: ["Giappone in Camper"]
 continent: Asia
 country: Giappone
 type: featured

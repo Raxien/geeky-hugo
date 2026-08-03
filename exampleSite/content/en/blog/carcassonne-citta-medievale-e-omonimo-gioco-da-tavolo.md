@@ -4,7 +4,7 @@ slug: carcassonne-medieval-town-board-game
 description: "After a year of playing Carcassonne, the famous board game, aboard our campervan, we finally made it to the real city, where we bought an expansion to add some spice to our adventures on board!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689176381/Articoli/carcassonne/IMG_4607_tqwtm1.jpg
 date: 2023-07-19T17:00:00.000
-categories: ["France by Campervan"]
+categories: ["Europe by Campervan"]
 continent: Europe
 country: France
 type: regular

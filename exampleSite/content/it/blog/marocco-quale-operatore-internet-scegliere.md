@@ -3,7 +3,7 @@ title: 'Internet e chiamate in Marocco: quale operatore scegliere'
 description: Se stai pianificando di visitare il Marocco ecco quale operatore scegliere per spendere meno!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689177365/Articoli/Marocco/marocco-internet_ekw4wn.png
 date: 2023-09-01T10:00:00+01:00
-categories: ["Guida al Marocco"]
+categories: ["Africa in Camper"]
 type: regular
 continent: Africa
 draft: false

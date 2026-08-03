@@ -4,7 +4,7 @@ slug: aveiro-to-lisbon-10-day-road-trip
 description: "Discovering central Portugal, on a road trip between cities and Atlantic Ocean waves"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683737113/IMG_1457_qal72d.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Portugal by Campervan", "Itineraries"]
+categories: ["Europe by Campervan", "Itineraries"]
 continent: Europe
 country: Portugal
 type: regular

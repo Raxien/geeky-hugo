@@ -3,7 +3,7 @@ title: 'Tour di San Pietroburgo: scopri la Venezia del Nord in 2 giorni'
 description: "Scopri la magica San Pietroburgo in 2 giorni! Itinerario completo per visitare l'Hermitage, i ponti mobili, la Fortezza di Pietro e Paolo e molto altro, immergendoti nella storia e nella cultura russa."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1728354508/Articoli/Russia/San%20Pietroburgo/san-pietroburgo-canali_u6m83k.jpg
 date: 2024-10-05T08:00:00.000
-categories: ["Tour di San Pietroburgo"]
+categories: ["Russia in Camper"]
 continent: Europa
 country: Russia
 type: featured

@@ -4,7 +4,7 @@ slug: morocco-by-campervan-with-pets-documents
 description: What documents do you need to enter Morocco by campervan with a dog and cat? 
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1675350430/Articoli/IMG_6364_ekk5cx_veifcj.jpg"
 date: 2023-03-15T10:00:00Z
-categories: ["Africa by Campervan"]
+categories: ["Morocco by Campervan"]
 continent: Africa
 country: Morocco
 type: regular

@@ -3,7 +3,7 @@ title: 'Tour della Georgia in Camper: Esplorando la perla del Caucaso'
 description: 'Scopri un itinerario in camper per la Georgia: da Batumi a Tbilisi, tra montagne, monasteri e spiagge. Guide per 15-30 giorni, con consigli su strade e attrazioni imperdibili.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1754126200/Articoli/Blog/georgia-in-camper-tour-completo-2025_tsilhj.png
 date: 2025-07-31T07:00:00+01:00
-categories: ["Georgia in camper", "Guida"]
+categories: ["Georgia e Caucaso in Camper"]
 language: it
 type: featured
 continent: Europa

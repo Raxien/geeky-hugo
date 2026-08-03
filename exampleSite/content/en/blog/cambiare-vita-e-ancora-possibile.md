@@ -4,7 +4,7 @@ slug: not-just-another-blog-wild-family-story
 description: About changing your life, travels and adventures, the people we meet along the way, and what it's like to travel with a cat on a leash.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1655735460/Articoli/questo_blog_1.2_snz7mt.jpg
 date: 2022-06-20T09:18:00.000+01:00
-categories: ["Blog"]
+categories: ["Vandipety Updates"]
 type: regular
 ---
 

@@ -4,7 +4,7 @@ slug: entering-japan-with-pets-avoid-quarantine
 description: "Find out how to travel with your pet to Japan while avoiding quarantine. Read our complete guide to the procedures and regulations."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1739789765/Articoli/Giappone/giappone-quarantena_mau6pb.jpg
 date: 2025-02-10T10:00:00+01:00
-categories: [ "Pets", "Guide"]
+categories: ["Japan by Campervan"]
 type: featured
 continent: Asia
 country: Japan

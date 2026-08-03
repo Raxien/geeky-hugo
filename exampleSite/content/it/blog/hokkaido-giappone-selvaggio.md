@@ -3,7 +3,7 @@ title: 'Hokkaido: Il Giappone Selvaggio che Non Ti Aspetti'
 description: 'Foreste primordiali, orsi bruni, vulcani attivi e la storia dimenticata degli Ainu. Scopri l''isola più a nord del Giappone: un luogo che sfida ogni aspettativa.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1764385842/articoli/viaggi/hokkaido-selvaggio.jpg
 date: 2025-11-29T10:00:00+01:00
-categories: ["Giappone", "Hokkaido", "Natura", "Cultura Indigena", "Viaggi"]
+categories: ["Giappone in Camper"]
 type: regular
 draft: true
 continent: Asia

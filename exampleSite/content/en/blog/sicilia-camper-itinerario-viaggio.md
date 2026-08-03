@@ -4,7 +4,7 @@ slug: sicily-by-campervan-itinerary
 description: "In this article we'll take you to discover beaches, archaeological sites, headlands, cities and tourist spots of Sicily on the road!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1688991540/Articoli/Sicilia/sicilia-vista-mare_r1glpo.jpg
 date: 2023-07-09T17:00:00.000
-categories: ["Italy by Campervan", "Itineraries"]
+categories: ["Europe by Campervan", "Itineraries"]
 continent: Europe
 country: Italy
 type: regular

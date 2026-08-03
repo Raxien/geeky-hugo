@@ -3,7 +3,7 @@ title: '100,000 km by campervan'
 description: 'Today our campervan celebrates 100,000 km! Where will the next kilometers take us?'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1657879625/Articoli/Blog/100000-km-in-camper-in-giro-per-il-mondpo_nr9o37.jpg
 date: 2025-05-01T09:18:00.000+01:00
-categories: ["Campervan Travel", "Overlanding", "Blog"]
+categories: ["Vandipety Updates"]
 type: featured
 ---
 A round number. Just a number, one might say.

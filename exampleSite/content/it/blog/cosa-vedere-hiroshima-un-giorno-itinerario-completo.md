@@ -3,7 +3,7 @@ title: 'Cosa vedere a Hiroshima in un giorno: Guida completa e Itinerario'
 description: 'Scopri cosa vedere a Hiroshima in un giorno: Parco della Pace, Museo della Bomba Atomica, Castello e il miglior okonomiyaki. Itinerario completo con consigli pratici.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1759921548/Articoli/Giappone/hiroshima-guida-completa_gs2olb.png 
 date: 2025-10-07T7:00:00+01:00
-categories: ["Hiroshima"]
+categories: ["Giappone in Camper"]
 language: it
 type: regular   
 continent: Asia

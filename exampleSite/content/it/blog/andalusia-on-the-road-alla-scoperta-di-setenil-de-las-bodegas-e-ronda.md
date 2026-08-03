@@ -3,7 +3,7 @@ title: 'Setenil de las Bodengas e Ronda in camper: due mete imperdibili in Andal
 description: "In questo articolo ti porteremo a bordo del nostro camper alla scoperta di due puebli imperdibili in Andalusia tra case scolpite nella roccia e ponti sospesi!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094718/Articoli/setenil%20e%20cordoba/IMG_2810_ggof7s.jpg
 date: 2023-07-12T00:00:00.000
-categories: ["Europa", "Itinerari", "Camper"]
+categories: ["Europa in Camper", "Itinerari"]
 continent: Europa
 country: Spagna
 type: regular

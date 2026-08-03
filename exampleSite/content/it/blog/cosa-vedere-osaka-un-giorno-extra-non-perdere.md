@@ -3,7 +3,7 @@ title: 'Cosa vedere a Osaka in un giorno (più qualche extra da non perdere)'
 description: 'Guida su Osaka in un giorno: scopri Namba, Dotonbori, Ukiyo Koji, Castello di Osaka e Shinsekai. Consigli su metro, cibo (okonomiyaki, takoyaki) e shopping a Umeda. Perfetta per viaggiatori in cerca di esperienze autentiche in Giappone.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1754898394/Articoli/Giappone/osaka-tour-in-un-giorno_nlt9e8.png
 date: 2025-08-10T7:00:00+01:00
-categories: ["Tour di Osaka"]
+categories: ["Giappone in Camper"]
 language: it
 type: featured   
 continent: Asia

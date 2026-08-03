@@ -3,7 +3,7 @@ title: 'Kazan: Guida completa alla scoperta della capitale del Tatarstan'
 description: "Meta descrizione: Scopri le meraviglie di Kazan, la perla del Tatarstan. Dal Cremlino patrimonio UNESCO alla moschea Qol Šärif, passando per la Torre Siuyumbike e la cucina tartara, un viaggio indimenticabile tra storia e cultura."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1731636403/Articoli/Russia/Kazan/kazan-cremlino_g3zepr.jpg
 date: 2024-12-14T10:00:00+01:00
-categories: [ "Guida", "Russia"]
+categories: ["Russia in Camper"]
 continent: Europa
 country: "Russia"
 type: regular

@@ -4,7 +4,7 @@ slug: senegal-customs-guide-by-campervan
 description: "Everything you need to know if you want to enter Senegal by motorbike, car or campervan!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1681839060/Articoli/Copertine/Senegal_in_Van_nbfqyv.jpg
 date: 2023-03-26T17:00:00.000
-categories: ["Overlanding Africa", "Customs"]
+categories: ["Africa by Campervan"]
 continent: Africa
 country: Senegal
 type: regular

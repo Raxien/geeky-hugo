@@ -4,7 +4,7 @@ slug: la-mancha-windmills-toledo-campervan-tour
 description: Discover Castile-La Mancha with us, between castles and windmills aboard the campervan, following in the footsteps of Don Quixote all the way to Toledo, the former Spanish capital.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1690125045/Articoli/Spagna/la_mancia_qni2r4.jpg
 date: 2023-07-24T00:00:00+01:00
-categories: [ "Spain by Campervan"]
+categories: ["Europe by Campervan"]
 continent: Europe
 country: Spain
 type: featured

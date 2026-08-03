@@ -3,7 +3,7 @@ title: 'Itinerario per camperisti a Istanbul: 5 Giorni per scoprire la città'
 description: 'Scopri la metropolitana di Istanbul: un sistema di trasporto rapido, economico e sostenibile per esplorare la città, collegando attrazioni come Sultanahmet, Taksim e Kadikoy con comfort e facilità.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1754563820/Articoli/turchia/guida-a-istanbul-5-giorni_q2tgjk.png
 date: 2025-08-05T07:00:00+01:00
-categories: ["Viaggio in Camper", "Istanbul"]
+categories: ["Turchia in Camper"]
 language: it
 type: regular
 continent: Asia

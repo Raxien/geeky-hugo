@@ -3,7 +3,7 @@ title: 'Lo Street Food di Istanbul: Il Magico Balık Ekmek'
 description: 'Scopri il balık ekmek, iconico street food di Istanbul! Gusta il panino con pesce fresco grigliato, cipolla, insalata e limone nei bazar o sul Bosforo. Esplora la tradizione culinaria turca con sapori autentici e low-cost!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713007643/Articoli/turchia/balik-ekmek-in-preparazione_dp7k53.jpg
 date: 2025-04-27T7:00:00+01:00
-categories: ["Istanbul", "Viaggio in Turchia", "Street Food"]
+categories: ["Turchia in Camper"]
 language: it
 type: regular   
 continent: Asia

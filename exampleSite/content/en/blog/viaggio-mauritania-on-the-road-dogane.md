@@ -4,7 +4,7 @@ slug: mauritania-by-campervan-customs-guide
 description: "Find out how to travel to Mauritania by campervan: a complete guide to documents, customs and the passavant. Learn how to best plan your trip!"
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1681930891/Articoli/Copertine/Mauritania_Camper_ofxmtr.jpg"
 date: 2023-03-06T17:00:00.000
-categories: ["Africa by Campervan", "Guide", "Customs"]
+categories: ["Africa by Campervan"]
 continent: Africa
 country: Mauritania
 type: regular

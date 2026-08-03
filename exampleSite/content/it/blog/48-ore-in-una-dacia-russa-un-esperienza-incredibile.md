@@ -3,7 +3,7 @@ title: '48 ore in una dacia russa: un’esperienza incredibile!'
 description: "Alla scoperta della Russia più autentica: un weekend indimenticabile nell’autentica dacia di una famiglia russa "
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1731636403/Articoli/Russia/dacia/dacia-russia_tqc1dz.jpg
 date: 2024-12-13T10:00:00+01:00
-categories: [ "Viaggio in Russia"]
+categories: ["Russia in Camper"]
 country: "Russia"
 type: featured
 ---

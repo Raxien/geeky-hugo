@@ -4,7 +4,7 @@ slug: how-to-enter-iraqi-kurdistan-complete-guide
 description: 'Find out how to enter Iraqi Kurdistan: a guide to visas, flights, safety and attractions in Erbil and Sulaymaniyah.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475//iraq/iraq-kurdistan-iracheno_avgjtc.jpg
 date: 2025-04-20T7:00:00+01:00
-categories: ["Travel in Iraq"]
+categories: ["Iraq by Campervan"]
 type: featured
 continent: Asia  
 country: Iraq

@@ -3,7 +3,7 @@ title: '3 Festival Estivi Giapponesi da Non Perdere: tradizione, luci e spiriti 
 description: 'Scopri i 3 festival estivi più affascinanti del Giappone: Obon Festival di Sapporo, Yohtaka Andon Festival di Numata e Oni Matsuri di Noboribetsu. Guida completa con date e consigli.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1761101530/articoli/viaggi/Copia di Nero Minimalista Viaggio Miniatura YouTube (4)-jffyq1jv.png
 date: 2025-10-28T08:00:00+02:00
-categories: ["Giappone in Camper", "Festival e Tradizioni", "Destinazioni Giappone"]
+categories: ["Giappone in Camper"]
 continent: Asia
 country: Giappone
 type: featured

@@ -2,15 +2,17 @@
 # All crawlers are disallowed to crawl files in the "includes" directory, such
 # as .css, .js, but Google needs them for rendering, so Googlebot is allowed
 # to crawl them.
+# /categories/ era bloccata quando le pagine erano ~119, frammentate e thin;
+# dopo il consolidamento in poche macro-categorie con contenuto reale, ha
+# senso lasciarle indicizzabili così possono posizionarsi per query tipo
+# "viaggio in camper marocco".
 User-agent: *
 Disallow: /includes/
-Disallow: /categories/
 Disallow: /about/
 Disallow: /press/
 
 User-agent: Googlebot
 Allow: /includes/
-Disallow: /categories/
 Disallow: /about/
 Disallow: /press/
 

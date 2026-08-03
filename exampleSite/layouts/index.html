@@ -1,5 +1,9 @@
 {{ define "main" }}
 
+<!-- H1 semantico per SEO/accessibilità: il design della hero non prevede un
+     titolo visibile, quindi resta sr-only senza alterare il layout esistente. -->
+<h1 class="sr-only">{{ site.Params.title }}</h1>
+
 <!--=================== blog header section start ===================-->
 <section class="section" style="padding-top: 40px; padding-bottom: 0px;">
   <div class="container">

@@ -3,7 +3,7 @@ title: "Vi parlo un po' di me, di quando ho capito che viaggiare per il mondo mi
 description: "Ci sono stati momenti in cui avrei voluto rimanere chiusa in camera al buio in balia delle emozioni, altri in cui ho imparato davvero a ringraziare la vita e a crescere."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1760176306/Articoli/viaggi/vi-racconto-sara_b73dp9.jpg
 date: 2022-06-19T08:00:00.000
-categories: ["Blog"]
+categories: ["Diario di Bordo"]
 type: featured
 draft: false
 ---

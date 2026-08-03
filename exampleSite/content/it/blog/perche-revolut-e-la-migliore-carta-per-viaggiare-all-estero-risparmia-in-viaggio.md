@@ -3,7 +3,7 @@ title: 'Perché Revolut è la migliore carta per viaggiare all’estero e rispar
 description: 'Scopri perché Revolut è la carta ideale per viaggiare fuori dall’UE: zero commissioni (tranne il weekend), tasso di cambio interbancario e vantaggi Premium. Risparmia con la nostra esperienza!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475//Articoli/Blog/revolut-la-carte-per-chi-viaggia_urz27d.png
 date: 2025-04-22T7:00:00+01:00
-categories: ["Viaggi", "Risparmiare in Viaggio"]
+categories: ["Vita in Camper e Consigli Pratici"]
 type: regular  
 draft: false
 ---

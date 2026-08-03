@@ -3,7 +3,7 @@ title: 'Quanto costa vivere un anno in camper?'
 description: Sono passati 365 giorni, vissuti tra Europa e Africa, sempre a bordo del nostro camper. È tempo di tirare le somme e capire se e come continuare a viaggiare!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683732572/Articoli/Viaggio/un-anno-in-camper_ydy7uf.png
 date: 2023-06-01T10:00:00+01:00
-categories: [ "Vivere in Camper"]
+categories: ["Vita in Camper e Consigli Pratici"]
 type: featured
 draft: false 
 ---

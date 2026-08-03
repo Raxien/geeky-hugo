@@ -4,7 +4,7 @@ slug: cordoba-campervan-what-to-see-tapas
 description: Thinking of reaching Córdoba by campervan? You won't regret it, it's a wonderful destination! Discover it with us!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689674761/Articoli/empanada/madrid/cordoba/IMG_2986_mpur3w.jpg
 date: 2023-07-24T10:00:00+01:00
-categories: [ "Spain by Campervan"]
+categories: ["Europe by Campervan"]
 continent: Europe
 country: Spain
 type: regular

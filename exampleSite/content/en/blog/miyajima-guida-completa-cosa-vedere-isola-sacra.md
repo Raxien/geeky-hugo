@@ -4,7 +4,7 @@ slug: miyajima-sacred-island-guide
 description: 'Complete guide to Miyajima: the floating torii, Itsukushima Shrine, Mount Misen, sacred deer and momiji manju. Discover how to get there and what not to miss on Japan''s sacred island.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1760099791/Articoli/Giappone/miyajima-hiroshima-guida-completa_nx0pdk.png
 date: 2025-10-07T7:00:00+01:00
-categories: ["Hiroshima"]
+categories: ["Japan by Campervan"]
 language: en
 type: regular   
 continent: Asia

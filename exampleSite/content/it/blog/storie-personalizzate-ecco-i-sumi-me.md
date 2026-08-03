@@ -3,7 +3,7 @@ title: 'Storie personalizzate cercasi: ecco i SUMI-ME'
 description: "Storie create su misura per una persona, per una coppia, per un evento, per un animale..insomma per tutto, basta che siano scritte con amore"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689874010/Articoli/Blog/sumi-me-sara-scrive_klaen8.jpg
 date: 2023-11-24T08:00:00.000
-categories: ["Blog"]
+categories: ["Diario di Bordo"]
 type: featured
 draft: true
 ---

@@ -3,7 +3,7 @@ title: 'Il forno per camper: la pentola Omnia'
 description: "Finalmente anche a bordo del nostro van possiamo cucinare pizze e torte come a casa"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689874010/Articoli/Blog/forno-camper-ominia_lcniye.jpg
 date: 2023-10-07T08:00:00.000
-categories: ["Blog"]
+categories: ["Diario di Bordo"]
 type: featured
 sponsored: true
 draft: false 

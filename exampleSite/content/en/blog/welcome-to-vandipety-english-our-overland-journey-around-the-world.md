@@ -3,7 +3,7 @@ title: 'Welcome to Vandipety English: Three years around the world by van'
 description: 'After traveling through 37 countries overland from Italy to Japan with our dog and cat, we are launching our English website to share our travel knowledge and experiences with the world.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1760176533/Articoli/viaggi/chisiamo_hs92m7.jpg
 date: 2026-06-30T10:00:00+01:00
-categories: ["Blog"]
+categories: ["Vandipety Updates"]
 language: en
 type: featured
 draft: false

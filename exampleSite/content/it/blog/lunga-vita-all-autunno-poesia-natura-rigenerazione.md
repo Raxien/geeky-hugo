@@ -3,7 +3,7 @@ title: 'Lunga vita all’autunno'
 description: 'L’autunno non è malinconia, ma vita che si rigenera. Una poesia tra i boschi di Oirase, dove foglie, funghi e torrenti insegnano il coraggio del cambiamento e la promessa di un nuovo inizio.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1757851286/Articoli/Blog/autunno-in-giappone_d3ey89.jpg
 date: 2025-09-13T10:00:00+01:00
-categories: [ "Blog"]
+categories: ["Giappone in Camper"]
 continent: Asia
 country: Giappone
 type: featured

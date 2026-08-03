@@ -26,11 +26,11 @@ Il tratto più lungo e ambizioso, 40.000 km attraverso i Balcani, Turchia, Iraq 
 
 Rivivi questo viaggio qui: {{<extLink "Parte 1" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-7swbxxVk-IMXnyrJLuH04">}} - {{<extLink "Parte 2" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_STEqeFCP1TZaWQZyY8NLe">}} - {{<extLink "Parte 3" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_-exHDEfsf_IFdzDSoY6Cl">}}
 
-{{< image src="images/Asian-tour.png" w="1400" o="webp q80" alt="Direzione Giappone - tratta Balcani e Turchia" >}}
+{{< image src="images/Road-to-Japan.png" w="1400" o="webp q80" alt="Direzione Giappone - tratta Russia, Kazakistan, Mongolia e Corea" >}}
 
 ## Japan Living
 Due anni vissuti tra Giappone e Sud Corea alla scoperta delle loro culture e differenze! 
 
 Rivivi queste avventure qui: {{<extLink "Parte 1" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_2FjZ8FIyVVqKzpgzdJbMm">}}
 
-{{< image src="images/Road-to-Japan.png" w="1400" o="webp q80" alt="Direzione Giappone - tratta Russia, Kazakistan, Mongolia e Corea" >}}
+{{< image src="images/Asian-tour.png" w="1400" o="webp q80" alt="Direzione Giappone - tratta Balcani e Turchia" >}}

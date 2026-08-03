@@ -4,7 +4,7 @@ slug: hauts-de-france-by-campervan-itinerary
 description: "Discovering Northern France by campervan. A fantastic road trip!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682804019/Articoli/francia/IMG_2771_ldmfwi.jpg
 date: 2023-04-17T17:00:00.000
-categories: ["France by Campervan", "Itineraries"]
+categories: ["Europe by Campervan", "Itineraries"]
 continent: Europe
 country: France
 type: regular

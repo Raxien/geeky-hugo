@@ -4,7 +4,7 @@ slug: rabat-by-campervan-morocco-capital
 description: "Rabat is one of the imperial cities and Morocco's capital. It's a city very different from the places surrounding it. We reached it by campervan — come discover what we saw." 
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1690129840/Articoli/rabat/rabat_kcoux1.jpg
 date: 2023-07-22T10:00:00+01:00
-categories: [ "Morocco by Campervan", "Itineraries" ]
+categories: ["Morocco by Campervan", "Itineraries"]
 continent: Africa 
 country: Morocco
 type: featured

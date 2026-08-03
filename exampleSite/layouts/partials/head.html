@@ -2,8 +2,13 @@
 
 <!-- Kind "404" gestito a parte: Hugo assegna a .Title un default interno
      sempre in inglese ("404 Page not found"), non localizzato per lingua. -->
-<title>{{ if eq .Kind "404" }}{{ i18n "not_found_heading" }}{{ else if .Title }}{{ .Title }}{{ else }}{{ .Site.Params.title }}{{ end }}</title>
+<!-- Home gestita a parte: .Title in home coincide con il site title generico
+     ("Vandipety"), quindi va anteposta al ramo .Title per usare invece
+     site.Params.title, già ottimizzato SEO e localizzato per lingua in
+     languages.toml. -->
+<title>{{ if eq .Kind "404" }}{{ i18n "not_found_heading" }}{{ else if .IsHome }}{{ .Site.Params.title }}{{ else if .Title }}{{ .Title }}{{ else }}{{ .Site.Params.title }}{{ end }}</title>
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="robots" content="{{ with .Params.robots }}{{ . }}{{ else }}index, follow{{ end }}">
 
  {{ if hugo.IsProduction }}
 <!-- Start iubenda -->
@@ -253,9 +258,6 @@
   .dropdown-toggle::after { content: "▼"; font-family: system-ui; font-size: 0.7rem; margin-left: 4px; border: 0; }
 }
 </style>
-
-{{ template "_internal/opengraph.html" . }}
-{{ template "_internal/twitter_cards.html" . }}
 
 
 <!-- preload immagini articolo -->

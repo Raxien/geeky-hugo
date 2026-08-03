@@ -3,7 +3,7 @@ title: 'Camerieri travestiti da orso: il bar più tenero (e coraggioso) del Giap
 description: 'Scopri il Bear Paw Café a Osaka: camerieri con zampe d’orso servono dolci e bevande in un luogo sicuro per chi affronta difficoltà emotive. Kawaii e necessario!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1751852310/Articoli/Giappone/osaka-caffe-orsi_duubiw.jpg
 date: 2025-06-01T7:00:00+01:00
-categories: ["Osaka", "Giappone Culinario"]
+categories: ["Giappone in Camper"]
 language: it
 type: regular   
 continent: Asia

@@ -3,7 +3,7 @@ title: 'Il Giappone può essere pericoloso'
 description: 'Incontro ravvicinato con due orsi nelle Alpi Giapponesi: una lezione di ascolto, dialogo e gratitudine.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1761187663/articoli/viaggi/GIAPPONE PERICOLOSO-m3yicqk0.jpg
 date: 2025-10-23T10:00:00+02:00
-categories: ["Giappone", "Sicurezza", "Riflessioni", "Avventure"]
+categories: ["Giappone in Camper"]
 continent: Asia
 country: Giappone
 type: featured

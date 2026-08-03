@@ -3,7 +3,7 @@ title: 'Dintorni di Fukuoka: 5 gite fuori porta da non perdere'
 description: 'Scopri 5 destinazioni vicino Fukuoka: templi antichi, spiagge poetiche, canali di Yanagawa, torii rossi di Ukiha e il Buddha sdraiato di Nanzoin. Natura, spiritualità e sapori autentici del Kyushu ti aspettano'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1754560623/Articoli/Giappone/5-posti-imperdibili-nel-kyushu_d3b3l3.png
 date: 2025-08-06T07:00:00+01:00
-categories: ["Viaggio in Giappone", "Kyushu"]
+categories: ["Giappone in Camper"]
 language: it
 type: featured
 continent: Asia

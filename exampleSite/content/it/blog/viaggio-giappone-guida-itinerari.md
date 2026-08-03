@@ -3,7 +3,7 @@ title: 'Viaggio in Giappone 2025: Itinerari e Info Utili'
 description: "Scopri itinerari e informazioni utili per il tuo viaggio in Giappone: costi, stagioni e consigli pratici dal blog di Vandipety!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1687279327/Articoli/Giappone/tori-in-acqua_gzscgp.jpg
 date: 2023-06-19T17:00:00.000
-categories: ["Giappone", "Guida", "Itinerari"]
+categories: ["Giappone in Camper", "Itinerari"]
 continent: Asia
 country: Giappone
 type: featured

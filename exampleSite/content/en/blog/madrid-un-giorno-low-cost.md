@@ -4,7 +4,7 @@ slug: madrid-in-one-day-low-cost
 description: Want to visit Madrid in a short time without spending a fortune? Discover the perfect tour in 10 stops with us.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689672144/Articoli/empanada/madrid/IMG_3501_p1al70.jpg
 date: 2023-07-17T10:00:00+01:00
-categories: [ "Spain by Campervan", "Guide"]
+categories: ["Europe by Campervan"]
 continent: Europe
 country: Spain
 type: featured

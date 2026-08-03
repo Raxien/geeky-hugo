@@ -4,7 +4,7 @@ slug: alternative-wedding-30-days-from-a-van
 description: "Is it possible to plan a wedding in 30 days on the road? Come find out if — and how — we managed to have fun doing it!"
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689874010/Articoli/Blog/sposi_abbraccio_a_ssatir.jpg"
 date: 2023-10-03T8:00:00+01:00
-categories: ["Blog"] 
+categories: ["Vandipety Updates"]
 type: featured
 draft: false
 ---

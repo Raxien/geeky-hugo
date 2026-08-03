@@ -3,7 +3,7 @@ title: 'Bagni Giapponesi: Differenze tra Onsen, Sento, Footbath e Ofuro'
 description: "Guida alle tradizioni termali giapponesi: scopri cosa sono onsen, sento, footbath e ofuro, dove trovarli e come comportarsi. Consigli pratici per viaggiatori."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1759919685/Articoli/Giappone/guida-onsen-giappone_khgmfs.png
 date: 2025-10-07T10:00:00+01:00
-categories: [ "Guida"]
+categories: ["Giappone in Camper"]
 continent: Asia
 country: Giappone
 type: regular

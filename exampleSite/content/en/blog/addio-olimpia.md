@@ -4,7 +4,7 @@ slug: safe-travels-olimpia
 description: "The day has come when our paths had to part. We will love you forever, PiccOlimpia. Thank you for everything. Paolo, Sara and Sakè."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1716102319/Articoli/Blog/olimpia_xhggul.jpg
 date: 2024-07-25T00:00:00.000
-categories: ["Blog"]
+categories: ["Vandipety Updates"]
 type: featured
 draft: false
 ---

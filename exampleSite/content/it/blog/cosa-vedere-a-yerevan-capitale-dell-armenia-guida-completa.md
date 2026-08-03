@@ -3,7 +3,7 @@ title: 'Cosa vedere a Yerevan, capitale dell''Armenia: guida completa per un via
 description: 'Alla scoperta della sottovalutata capitale dell''Armenia. Yerevan, la città dai mille volti.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione19/ushguli-dall-alto_hzhbkm.jpg
 date: 2024-08-01T7:00:00+01:00
-categories: [ "Armenia in camper"]
+categories: ["Georgia e Caucaso in Camper"]
 type: featured  
 continent: Asia
 country: Armenia 

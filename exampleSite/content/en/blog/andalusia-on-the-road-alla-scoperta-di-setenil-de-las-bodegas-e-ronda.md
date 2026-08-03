@@ -4,7 +4,7 @@ slug: setenil-de-las-bodegas-ronda-andalusia-campervan
 description: "In this article we'll take you aboard our campervan to discover two unmissable pueblos in Andalusia, with houses carved into the rock and suspended bridges!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094718/Articoli/setenil%20e%20cordoba/IMG_2810_ggof7s.jpg
 date: 2023-07-12T00:00:00.000
-categories: ["Europe", "Itineraries", "Campervan"]
+categories: ["Europe by Campervan", "Itineraries"]
 continent: Europe
 country: Spain
 type: regular

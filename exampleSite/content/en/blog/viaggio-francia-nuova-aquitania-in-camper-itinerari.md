@@ -4,7 +4,7 @@ slug: nouvelle-aquitaine-campervan-itinerary
 description: "Discovering Nouvelle-Aquitaine by campervan, all along the Atlantic coast of southern France!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682862710/Articoli/francia/IMG_6598_cz1m9g.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["France by Campervan", "Itineraries"]
+categories: ["Europe by Campervan", "Itineraries"]
 continent: Europe
 type: regular
 draft: false

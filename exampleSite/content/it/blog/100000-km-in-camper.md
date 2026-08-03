@@ -3,7 +3,7 @@ title: '100.000 km in camper'
 description: 'Oggi il nostro camper celebra i 100.000 km! Dove ci porteranno i prossimi chilometri?'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1657879625/Articoli/Blog/100000-km-in-camper-in-giro-per-il-mondpo_nr9o37.jpg
 date: 2025-05-01T09:18:00.000+01:00
-categories: ["Viaggio in Camper", "Overlanding", "Blog"]
+categories: ["Diario di Bordo"]
 type: featured
 ---
 Un numero tondo. Solo un numero, verrebbe da dire.  

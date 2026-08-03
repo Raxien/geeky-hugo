@@ -26,7 +26,7 @@ The longest and most ambitious stretch, 40,000 km through the Balkans, Turkey, I
 
 Relive this trip here: {{<extLink "Part 1" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ-7swbxxVk-IMXnyrJLuH04">}} - {{<extLink "Part 2" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_STEqeFCP1TZaWQZyY8NLe">}} - {{<extLink "Part 3" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_-exHDEfsf_IFdzDSoY6Cl">}}
 
-{{< image src="images/Asian-tour.png" w="1400" o="webp q80" alt="Road to Japan - Balkans and Turkey leg" >}}
+{{< image src="images/Road-to-Japan.png" w="1400" o="webp q80" alt="Road to Japan - Russia, Kazakhstan, Mongolia and Korea leg" >}}
 
 ## Japan Living
 
@@ -34,6 +34,5 @@ Two years spent between Japan and South Korea, discovering their cultures and di
 
 Relive these adventures here: {{<extLink "Part 1" "https://www.youtube.com/playlist?list=PLHaclq_J5PZ_2FjZ8FIyVVqKzpgzdJbMm">}}
 
-
-{{< image src="images/Road-to-Japan.png" w="1400" o="webp q80" alt="Road to Japan - Russia, Kazakhstan, Mongolia and Korea leg" >}}
+{{< image src="images/Asian-tour.png" w="1400" o="webp q80" alt="Road to Japan - Balkans and Turkey leg" >}}
 

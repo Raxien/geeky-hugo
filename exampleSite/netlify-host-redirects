@@ -26,6 +26,53 @@ https://www.vandipety.com/admin/*  /en/admin/index.html   200
 /it/404.html   /it/404.html   200
 /en/404.html   /en/404.html   200
 
+# Redirect vecchie pagine categoria (consolidamento tassonomia) per gli slug
+# che risultano identici tra IT ed EN (es. "africa", "blog", nomi di città
+# giapponesi): una regola path-only in static/_redirects risolverebbe sempre
+# al primo match, mandando gli utenti EN sulla destinazione IT (o viceversa).
+# Qui il dominio nel pattern "from" li tiene separati. Gli slug non ambigui
+# restano nelle regole path-only di static/_redirects.
+https://vandipety.it/categories/africa/*       /categories/marocco-in-camper/   301
+https://www.vandipety.it/categories/africa/*   /categories/marocco-in-camper/   301
+https://vandipety.com/categories/africa/*      /categories/morocco-by-campervan/   301
+https://www.vandipety.com/categories/africa/*  /categories/morocco-by-campervan/   301
+https://vandipety.it/categories/blog/*       /categories/diario-di-bordo/   301
+https://www.vandipety.it/categories/blog/*   /categories/diario-di-bordo/   301
+https://vandipety.com/categories/blog/*      /categories/vandipety-updates/   301
+https://www.vandipety.com/categories/blog/*  /categories/vandipety-updates/   301
+https://vandipety.it/categories/hiroshima/*       /categories/giappone-in-camper/   301
+https://www.vandipety.it/categories/hiroshima/*   /categories/giappone-in-camper/   301
+https://vandipety.com/categories/hiroshima/*      /categories/japan-by-campervan/   301
+https://www.vandipety.com/categories/hiroshima/*  /categories/japan-by-campervan/   301
+https://vandipety.it/categories/istanbul/*       /categories/turchia-in-camper/   301
+https://www.vandipety.it/categories/istanbul/*   /categories/turchia-in-camper/   301
+https://vandipety.com/categories/istanbul/*      /categories/turkey-by-campervan/   301
+https://www.vandipety.com/categories/istanbul/*  /categories/turkey-by-campervan/   301
+https://vandipety.it/categories/kyushu/*       /categories/giappone-in-camper/   301
+https://www.vandipety.it/categories/kyushu/*   /categories/giappone-in-camper/   301
+https://vandipety.com/categories/kyushu/*      /categories/japan-by-campervan/   301
+https://www.vandipety.com/categories/kyushu/*  /categories/japan-by-campervan/   301
+https://vandipety.it/categories/overlanding/*       /categories/vita-in-camper-e-consigli-pratici/   301
+https://www.vandipety.it/categories/overlanding/*   /categories/vita-in-camper-e-consigli-pratici/   301
+https://vandipety.com/categories/overlanding/*      /categories/campervan-tips-life/   301
+https://www.vandipety.com/categories/overlanding/*  /categories/campervan-tips-life/   301
+https://vandipety.it/categories/overlanding-africa/*       /categories/africa-in-camper/   301
+https://www.vandipety.it/categories/overlanding-africa/*   /categories/africa-in-camper/   301
+https://vandipety.com/categories/overlanding-africa/*      /categories/africa-by-campervan/   301
+https://www.vandipety.com/categories/overlanding-africa/*  /categories/africa-by-campervan/   301
+https://vandipety.it/categories/overlanding-asia/*       /categories/corea-del-sud-in-camper/   301
+https://www.vandipety.it/categories/overlanding-asia/*   /categories/corea-del-sud-in-camper/   301
+https://vandipety.com/categories/overlanding-asia/*      /categories/south-korea-by-campervan/   301
+https://www.vandipety.com/categories/overlanding-asia/*  /categories/south-korea-by-campervan/   301
+https://vandipety.it/categories/seoul/*       /categories/corea-del-sud-in-camper/   301
+https://www.vandipety.it/categories/seoul/*   /categories/corea-del-sud-in-camper/   301
+https://vandipety.com/categories/seoul/*      /categories/south-korea-by-campervan/   301
+https://www.vandipety.com/categories/seoul/*  /categories/south-korea-by-campervan/   301
+https://vandipety.it/categories/tokyo/*       /categories/giappone-in-camper/   301
+https://www.vandipety.it/categories/tokyo/*   /categories/giappone-in-camper/   301
+https://vandipety.com/categories/tokyo/*      /categories/japan-by-campervan/   301
+https://www.vandipety.com/categories/tokyo/*  /categories/japan-by-campervan/   301
+
 # Rewrite trasparente (200, non 301): l'URL visibile resta pulito, senza
 # prefisso /it o /en — solo il contenuto servito internamente cambia in base
 # al dominio.

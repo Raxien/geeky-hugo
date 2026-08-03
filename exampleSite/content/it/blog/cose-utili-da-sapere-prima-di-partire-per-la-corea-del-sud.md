@@ -3,7 +3,7 @@ title: 'Cose utili da sapere prima di partire per la Corea del Sud'
 description: 'Stai per partire per la Corea del Sud? Ecco alcune dritte che ti eviteranno sorprese una volta atterrato!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1751874575/Articoli/Corea/guida-alla-corea-del-sud_vsi2js.png
 date: 2025-05-17T7:00:00+01:00
-categories: ["Viaggi in Corea"]
+categories: ["Corea del Sud in Camper"]
 language: it
 type: regular   
 continent: Asia

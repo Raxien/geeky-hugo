@@ -3,7 +3,7 @@ title: 'Sendai e la Memoria dello Tsunami: viaggio nei luoghi che non dimentican
 description: 'Un viaggio a Sendai tra i memoriali del Grande Terremoto del Giappone avvenuto l''11 marzo 2011. Storie di resilienza, preparazione e lezioni che cambiano il modo di vedere il mondo.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1764385842/articoli/viaggi/R0017571-rnvgg4k8.jpg
 date: 2025-11-28T10:00:00+01:00
-categories: ["Giappone", "Viaggi", "Cultura Giapponese", "Storie di Resilienza"]
+categories: ["Giappone in Camper"]
 type: regular
 draft: false
 continent: Asia

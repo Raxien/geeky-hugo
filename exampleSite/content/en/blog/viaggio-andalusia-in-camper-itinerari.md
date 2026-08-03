@@ -4,7 +4,7 @@ slug: andalusia-by-campervan-itinerary-dog-cat
 description: "Discovering Andalusia by campervan, a road trip in search of places rich in history overlooking the coast"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1688553433/Articoli/andalusia/caminito-del-rey_kpfckj.jpg
 date: 2023-07-01T17:00:00.000
-categories: ["Spain by Campervan", "Campervan Itineraries"]
+categories: ["Europe by Campervan", "Itineraries"]
 continent: Europe
 country: Spain
 type: regular

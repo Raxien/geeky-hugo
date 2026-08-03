@@ -3,7 +3,7 @@ title: "Venezia in 1 giorno con cane e gatto"
 description: "Erano anni che volevamo visitare VENEZIA e poterlo fare con Olimpia e Sakè è stato veramente emozionante. Un tour decisamente diverso dai soliti, in una città davvero PETFRIENDLY"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1655741328/Articoli/venezia_1_2_qhbppl.jpg
 date: 2022-06-20T10:09:00+01:00
-categories: ["Italia", "Guida", "Animali"]
+categories: ["Europa in Camper"]
 continent: Europa
 country: Italia
 type: "regular" # available types: [featured/regular]

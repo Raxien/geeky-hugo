@@ -3,7 +3,7 @@ title: 'Metro di Tokyo: Guida completa per risparmiare con la Tokyo Metro Pass'
 description: "Scopri come risparmiare sulla metro di Tokyo con la Tokyo Metro Pass: più economica di Suica e Pasmo. Tutto quello che devi sapere sulla metropolitana di Tokyo"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1760100799/Articoli/Giappone/guida-metro-tokyo-2025_mfvopu.png
 date: 2025-10-10T10:00:00.000
-categories: ["Tokyo", "Guida"]
+categories: ["Giappone in Camper"]
 continent: Asia
 country: Giappone
 type: regular

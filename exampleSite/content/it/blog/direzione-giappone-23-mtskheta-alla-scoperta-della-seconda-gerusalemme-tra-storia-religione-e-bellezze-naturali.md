@@ -3,7 +3,7 @@ title: 'Mtskheta: alla scoperta della "Seconda Gerusalemme", tra storia, religio
 description: 'Guida completa alla "città santa" della Georgia'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione23/mtskheta-candele_xkcbdu.jpg
 date: 2024-06-20T7:00:00+01:00
-categories: [ "Direzione Giappone", "Georgia"]
+categories: ["Georgia e Caucaso in Camper"]
 type: featured  
 continent: Europa
 country: Georgia 

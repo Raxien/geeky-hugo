@@ -3,7 +3,7 @@ title: '40 Anni in Giappone: la storia di Roxana'
 description: 'Arrivata negli anni ''80 senza una parola di giapponese, ha scoperto la storia degli Ainu, ha cresciuto una figlia bilingue e ha scritto un libro. Ecco la storia di chi ha trovato casa dall''altra parte del mondo.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1765248082/articoli/viaggi/copertina roxana-gt5kwh5r.jpg
 date: 2025-12-02T14:00:00+01:00
-categories: ["Interviste", "Italiani nel Mondo", ]
+categories: ["Giappone in Camper"]
 type: regular
 draft: false
 continent: Asia

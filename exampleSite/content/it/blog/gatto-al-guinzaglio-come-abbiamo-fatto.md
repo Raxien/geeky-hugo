@@ -3,7 +3,7 @@ title: 'Gatto al guinzaglio: come abbiamo fatto?'
 description: "Scopri come abbiamo fatto ad abituare il nostro gatto al guinzaglio! Eccoti alcuni consigli e il perché di questa scelta!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1688983876/Articoli/Sicilia/valle-dei-templi-tempio-gatto_bdlwdd.jpg
 date: 2022-07-26T17:00:00.000
-categories: ["Animali", "Blog"]
+categories: ["Animali in Viaggio"]
 type: regular
 ---
 Il giorno in cui abbiamo iniziato le nostre avventure con il nostro gatto al guinzaglio, **Sakè aveva 40 giorni**: era piccolo ma decisamente curioso. Da quella sera ogni occasione fu buona per appallottolarsi sulle nostre spalle quando eravamo fuori casa e zampettare quando le passeggiate non erano troppo impegnative. Al suo fianco abbiamo sempre avuto la nostra Rottweiler, Olimpia. 

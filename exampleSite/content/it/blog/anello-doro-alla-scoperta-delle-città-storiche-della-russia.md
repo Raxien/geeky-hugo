@@ -3,7 +3,7 @@ title: 'Anello d''Oro: alla scoperta delle città storiche della Russia'
 description: "Scopri l'Anello d'Oro russo in camper! Un itinerario completo attraverso 8 città storiche, tra cui Suzdal, Vladimir e Yaroslavl. Un viaggio avventuroso e autentico alla scoperta della Russia più autentica."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1731636403/Articoli/Russia/anello-d-oro/anello-doro-sergiev-posad_tqzdjx.jpg
 date: 2024-12-12T10:00:00+01:00
-categories: ["Guida", "Russia"]
+categories: ["Russia in Camper"]
 continent: Europa
 country: "Russia"
 type: featured

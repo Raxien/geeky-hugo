@@ -3,7 +3,7 @@ title: 'Quando tornate?'
 description: "Quando tornate è stata la domanda più gettonata da quando siamo partiti per vivere la nostra vita a bordo di un van. Domanda facile o difficile? Scoprilo in questo articolo."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689180920/Articoli/quando%20tornate/IMG_2899_ha372q.jpg
 date: 2023-07-17T08:00:00.000
-categories: ["Blog"]
+categories: ["Diario di Bordo"]
 type: regular
 draft: false
 ---

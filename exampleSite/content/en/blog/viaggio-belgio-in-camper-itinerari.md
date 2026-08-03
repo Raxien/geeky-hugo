@@ -4,7 +4,7 @@ slug: belgium-by-campervan-3-stops
 description: "On the road through Flemish territory discovering three unmissable stops"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689502214/Articoli/Belgio/gand-canale_xb3df3.jpg
 date: 2023-07-11T17:00:00.000
-categories: ["Belgium by Campervan", "Itineraries"]
+categories: ["Europe by Campervan", "Itineraries"]
 continent: Europe
 country: Belgium
 type: regular

@@ -4,7 +4,7 @@ slug: andorra-campervan-weekend-breathtaking-views
 description: Thinking of reaching Andorra by campervan? Find out where to park and enjoy wonderful adventures immersed in nature
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1690038414/Articoli/andorra/andorra_vista_orizzonte_ewxv6w.jpg
 date: 2023-07-25T10:00:00+01:00
-categories: [ "Campervan", "Itineraries"]
+categories: ["Europe by Campervan", "Itineraries"]
 continent: Europe
 country: Andorra
 type: featured

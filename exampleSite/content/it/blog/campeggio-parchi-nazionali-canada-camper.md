@@ -3,7 +3,7 @@ title: 'Campeggiare nei parchi nazionali canadesi: prenotazioni, regole e consig
 description: 'Come funzionano le prenotazioni dei campeggi Parks Canada, permessi, dump station e cosa fare senza posto riservato nei parchi nazionali del Canada.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1783469328/articoli/viaggi/campeggio-canada-nord-america-bvkle0r3.png
 date: 2026-07-06T10:00:00+01:00
-categories: ["Blog"]
+categories: ["Nord America in Camper"]
 type: featured
 continent: Nord America
 country: Canada
@@ -46,7 +46,7 @@ Oltre alla piazzola, per entrare nei confini di un parco nazionale serve un **pe
 
 I campeggi dei parchi nazionali canadesi offrono generalmente:
 
-- **dump station** per lo scarico di acque nere e grigie, con attacco standard nordamericano — diverso da quello europeo, quindi conviene arrivare già {{<extLink "con l'adattatore giusto" "Amazon " >}};
+- **dump station** per lo scarico di acque nere e grigie, con attacco standard nordamericano — diverso da quello europeo, quindi conviene arrivare già {{<extLink "con l'adattatore giusto" "https://link.amazon/B07bZliek" >}};
 - **colonnine elettriche**, presenti solo in alcune piazzole e spesso a pagamento extra;
 - **acqua potabile** nei punti comuni, non sempre disponibile direttamente in piazzola.
 

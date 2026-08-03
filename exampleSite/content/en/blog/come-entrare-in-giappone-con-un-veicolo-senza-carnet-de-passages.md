@@ -4,7 +4,7 @@ slug: how-to-enter-japan-without-carnet-de-passages
 description: "Find out how to enter Japan with your vehicle without wasting money on the Carnet de Passages en Douane. Follow our guide to applying for the Temporary Import Permit, a free and simple alternative, based on our first-hand experience"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1739789765/Articoli/camper/camper-tori_nxvehm.jpg
 date: 2025-02-10T10:00:00+01:00
-categories: [ "Overlanding Asia"]
+categories: ["Japan by Campervan"]
 type: featured
 continent: Asia
 country: Japan

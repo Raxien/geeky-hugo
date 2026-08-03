@@ -3,7 +3,7 @@ title: 'Nara in un giorno: tra templi, cervi curiosi e foreste silenziose'
 description: 'Scopri Nara in un giorno: Todai-ji, Grande Buddha, Kasuga Taisha, cervi e foresta di Kasugayama. Itinerario perfetto da Kyoto o Osaka!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1751857574/Articoli/Giappone/tour-di-nara-2025_nzmaha.png
 date: 2025-06-05T7:00:00+01:00
-categories: ["Viaggio in Giappone", "Nara in un giorno"]
+categories: ["Giappone in Camper"]
 language: it
 type: regular
 continent: Asia   

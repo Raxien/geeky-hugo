@@ -3,7 +3,7 @@ title: 'Viaggiare in Camper: Le Migliori Applicazioni per il 2025'
 description: 'Scopri le app indispensabili per viaggiare in camper: da Google Maps a Park4Night, organizza la tua avventura on the road con facilità.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1657879625/Articoli/app_camper_drffxr.jpg
 date: 2025-01-15T09:18:00.000+01:00
-categories: ["Camper", "Consigli di Viaggio"]
+categories: ["Vita in Camper e Consigli Pratici"]
 type: regular
 ---
 
@@ -31,7 +31,7 @@ Finito i giga? WiFi Map ti aiuta a trovare reti Wi-Fi gratuite nelle vicinanze, 
 Riempi le tue borracce con acqua potabile gratuita. Questa app segnala le fontanelle pubbliche più vicine.({{< extLink "iOS" "https://apps.apple.com/it/app/fontanelle/id1146278776" >}} | {{< extLink "Android" "https://play.google.com/store/apps/details?id=com.mollica.fontanelle&hl=it&gl=US" >}})
 
 ### 5. Splitwise
-Tieni traccia delle spese di gruppo in tempo reale. Noi la usiamo per monitorare i costi del viaggio, visibili anche sulla nostra [pagina delle spese](https://vandipety.it/expenses/).( {{< extLink "iOS" "https://apps.apple.com/it/app/splitwise/id458023433" >}} | {{< extLink "Android" "https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile&hl=it&gl=US" >}})
+Tieni traccia delle spese di gruppo in tempo reale. Noi la usiamo per monitorare i costi del viaggio, visibili anche sulla nostra [pagina delle spese](/expenses/).( {{< extLink "iOS" "https://apps.apple.com/it/app/splitwise/id458023433" >}} | {{< extLink "Android" "https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile&hl=it&gl=US" >}})
 
 {{< leggi-anche >}}
 

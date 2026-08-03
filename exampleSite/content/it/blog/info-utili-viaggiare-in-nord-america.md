@@ -3,7 +3,7 @@ title: 'Cosa nessuno ti dice prima di portare il camper in nord america'
 description: 'Viaggio in camper in Nord America: assicurazioni, adattatore gas, internet con Starlink, spesa e sosta libera. La guida pratica dopo settimane on the road in Canada.'
 image: 'https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1783201006/articoli/viaggi/Sito Inglese-hg6gxv0w.png'
 date: 2026-06-20T08:00:00+02:00
-categories: ["viaggiare", "consigli pratici"]
+categories: ["Nord America in Camper"]
 continent: Nord America
 country: Canada
 type: featured

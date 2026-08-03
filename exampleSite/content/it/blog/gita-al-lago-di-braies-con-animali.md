@@ -3,7 +3,7 @@ title: Lago di Braies con cane e gatto
 description: In gita al lago di Braies con cane e gatto, per un'avventura in mezzo alla natura 
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1657873908/Articoli/Gita_al_lago_di_Braies.jpeg
 date: 2022-07-15T10:00:00.000+02:00
-categories: ["Viaggi in Italia", "Animali"]
+categories: ["Europa in Camper"]
 continent: Europa
 country: Italia
 type: regular

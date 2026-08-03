@@ -4,7 +4,7 @@ slug: morocco-internet-sim-guide
 description: If you're planning to visit Morocco, here's which carrier to choose to spend less!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689177365/Articoli/Marocco/marocco-internet_ekw4wn.png
 date: 2023-09-01T10:00:00+01:00
-categories: ["Morocco Guide"]
+categories: ["Africa by Campervan"]
 type: regular
 continent: Africa
 draft: false

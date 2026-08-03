@@ -4,7 +4,7 @@ slug: bosnia-herzegovina-campervan-7-day-tour
 description: "A travel itinerary discovering Bosnia and Herzegovina, between waterfalls, nature, villages lost in time and historic cities."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689874010/Articoli/Bosnia/bosnia-in-camper_tnretz
 date: 2023-11-30T00:00:00.000
-categories: ["Bosnia by Campervan", "Campervan Itineraries"]
+categories: ["Balkans by Campervan", "Itineraries"]
 continent: Europe
 country: Bosnia
 type: featured

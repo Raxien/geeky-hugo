@@ -3,7 +3,7 @@ title: 'Cosa mangiare a Nara: antipasto, primo e dolce!'
 description: 'Scopri cosa mangiare a Nara: kakinoha-zushi, sōmen caldi e monaka. Un tour culinario tra sapori autentici e tradizioni, da Izasa a Shiratama-ya Eiju!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1751856834/Articoli/Giappone/nara-cosa-mangiare_uci2gy.png
 date: 2025-06-05T7:00:00+01:00
-categories: ["Giappone Culinario"]
+categories: ["Giappone in Camper"]
 language: it
 type: regular   
 continent: Asia

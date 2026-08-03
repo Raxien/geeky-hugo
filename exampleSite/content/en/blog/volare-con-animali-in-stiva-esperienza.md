@@ -4,7 +4,7 @@ slug: flying-with-pets-in-cargo-hold-our-experience
 description: 'We flew 9 hours in the cargo hold with a dog and a cat from Osaka to Vancouver. Here''s what really happens, how to prepare, the documents you need, and why it''s not as dangerous as you read online.'
 image: 'https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1780508587/articoli/viaggi/volare-cane-gatto-lheuzrjw.png'
 date: 2026-05-28T08:00:00+02:00
-categories: ["Pets", "Practical Tips"]
+categories: ["Pets on the Road"]
 continent: 
 country: 
 type: featured

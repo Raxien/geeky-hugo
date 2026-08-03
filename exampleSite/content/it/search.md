@@ -1,6 +1,7 @@
 ---
 title: "Risultato ricerca"
-description: "this is meta description"
+description: "Cerca tra gli articoli di Vandipety su destinazioni, itinerari e consigli di viaggio in camper."
+robots: "noindex, follow"
 layout: "search"
 sitemap:
   priority : 0.1

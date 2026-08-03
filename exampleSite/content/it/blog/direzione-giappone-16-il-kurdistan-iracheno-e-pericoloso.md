@@ -3,7 +3,7 @@ title: 'Il Kurdistan Iracheno è pericoloso?'
 description: 'Il popolo Iracheno è fra i più ospitali al mondo, scopriamolo insieme fra pranzi, matrimoni e feste!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione16/iraq-yazidi-lalish-papa_eejcuo.jpg
 date: 2024-05-21T7:00:00+01:00
-categories: [ "Direzione Giappone", "Viaggio in Iraq"]
+categories: ["Iraq in Camper"]
 type: featured  
 continent: Asia
 country: Iraq 

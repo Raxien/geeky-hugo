@@ -9,7 +9,7 @@ Per permetterci questa scelta di vita abbiamo risparmiato giorno per giorno e lo
 
 Se volete scoprire come facciamo a spendere cosi poco per tutto questo viaggio vi rimandiamo [alla guida che abbiamo scritto in merito](/blog/abbiamo-pubblicato-un-libro).
 
-Nei calcoli non sono inclusi il costo del van e dei suoi accessori che potete trovare [**qui**](https://vandipety.it/van).
+Nei calcoli non sono inclusi il costo del van e dei suoi accessori che potete trovare [**qui**](/van/).
 <!-- section break -->
 
 #### Video

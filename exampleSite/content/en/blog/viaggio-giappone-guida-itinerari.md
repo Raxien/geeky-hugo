@@ -4,7 +4,7 @@ slug: japan-trip-2025-itineraries-guide
 description: "Discover itineraries and useful information for your trip to Japan: costs, seasons and practical tips from the Vandipety blog!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1687279327/Articoli/Giappone/tori-in-acqua_gzscgp.jpg
 date: 2023-06-19T17:00:00.000
-categories: ["Japan", "Guide", "Itineraries"]
+categories: ["Japan by Campervan", "Itineraries"]
 continent: Asia
 country: Japan
 type: featured

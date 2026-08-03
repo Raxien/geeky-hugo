@@ -4,7 +4,7 @@ slug: amsterdam-with-dog-and-cat-3-stops
 description: "Two days discovering a decidedly unusual Amsterdam"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683208317/IMG_0701_2_icitnu.jpg
 date: 2023-04-26T17:00:00.000
-categories: ["Amsterdam Guide", "Itineraries"]
+categories: ["Europe by Campervan", "Itineraries"]
 continent: Europe
 country: Netherlands
 type: regular

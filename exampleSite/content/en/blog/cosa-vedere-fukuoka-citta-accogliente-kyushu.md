@@ -4,7 +4,7 @@ slug: what-to-see-in-fukuoka-kyushu
 description: 'Discover what to see in Fukuoka: from Ōhori Park to Sasaguri forest, beaches, yatai stalls and tonkotsu ramen. Explore the welcoming heart of Kyushu!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1753957782/Articoli/Blog/tour-di-fukuoka-il-meglio-da-vedere_ccpioy.png
 date: 2025-07-30T7:00:00+01:00
-categories: ["Travel in Japan", "Kyushu"]
+categories: ["Japan by Campervan"]
 language: en
 type: regular   
 continent: Asia

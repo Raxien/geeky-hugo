@@ -3,7 +3,7 @@ title: 'Storie di straordinaria follia: la Georgia!'
 description: 'Storie di straordinaria follia: un podcast che parla di vita vera. Oggi vi portiamo alla scopera della perla del caucaso: ovvero la Georgia!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1716102319/Articoli/Blog/podcast-3_ligx4z.png
 date: 2024-07-04T7:00:00+01:00
-categories: [ "Podcast"]
+categories: ["Georgia e Caucaso in Camper"]
 type: featured  
 country: Georgia
 draft: false

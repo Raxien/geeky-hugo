@@ -13,7 +13,7 @@ contentDir = "content/it"
 weight = 1
 baseURL = "https://vandipety.it"
 [it.params]
-title = "Vandipety | Esplora il Mondo in Camper insieme a noi"
+title = "Vandipety | Vanlife dall'Italia al Giappone e oltre"
 description = "Alla scoperta del mondo on the road. Unisciti al viaggio e lasciati ispirare a intraprendere la tua prossima avventura!"
 about_widget_content = "Se sentite ridere in lontananza potremmo essere noi."
 footer_content = "Se sentite ridere in lontananza potremmo essere noi."

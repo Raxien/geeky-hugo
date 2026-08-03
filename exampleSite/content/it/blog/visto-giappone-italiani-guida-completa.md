@@ -3,7 +3,7 @@ title: 'Visto Giappone per italiani 2025: Tutte le opzioni per soggiorni lunghi 
 description: "Scopri tutti i visti disponibili per cittadini italiani in Giappone: turistico, digital nomad, working holiday e designated activities. Informazioni su requisiti, durata e come prolungare il soggiorno oltre i 90 giorni."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1759902311/Articoli/Giappone/guida-visti-giappone-2025_to0hpq.png
 date: 2025-10-06T10:00:00+01:00
-categories: [ "Guida"]
+categories: ["Giappone in Camper"]
 continent: Asia
 country: Giappone
 type: regular

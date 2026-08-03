@@ -3,7 +3,7 @@ title: "Chebakia, i dolci tipici del Ramadan"
 description: "Abbiamo avuto la fortuna di visitar il Marocco in camper durante il periodo del Ramadan: scopri con noi una delle ricette tipiche."
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1690465506/Articoli/Cibo/Chebakia_m18mvv.jpg"
 date: 2023-09-03T10:00:00Z
-categories: ["Cucina in Marocco"]
+categories: ["Marocco in Camper"]
 continent: Africa
 country: Marocco
 type: regular

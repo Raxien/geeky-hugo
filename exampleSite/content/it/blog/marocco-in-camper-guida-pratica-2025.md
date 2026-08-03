@@ -3,7 +3,7 @@ title: 'Marocco in Camper: Guida completa e aggiornata 2025'
 description: 'Viaggia in Marocco in camper con la guida completa: documenti, campeggi, traghetti, sicurezza, itinerari e consigli aggiornati per un viaggio perfetto!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1756722218/Articoli/Marocco/guida-marocco-camper-2025.png
 date: 2025-08-09T7:00:00+01:00
-categories: ["Marocco in camper"]
+categories: ["Marocco in Camper"]
 language: it
 continent: Africa
 draft: true

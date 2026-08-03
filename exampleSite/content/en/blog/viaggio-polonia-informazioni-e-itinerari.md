@@ -4,7 +4,7 @@ slug: poland-travel-guide-itinerary
 description: "Everything you need to know before going to Poland"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682605728/Articoli/Polonia/cracovia_piazza_cizq4y.jpg
 date: 2022-07-26T17:00:00.000
-categories: ["Poland by Campervan", "Guide"]
+categories: ["Europe by Campervan"]
 continent: Europe
 country: Poland
 camper: true

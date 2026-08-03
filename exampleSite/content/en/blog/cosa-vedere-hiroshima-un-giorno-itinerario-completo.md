@@ -4,7 +4,7 @@ slug: one-day-in-hiroshima-complete-itinerary
 description: 'Discover what to see in Hiroshima in one day: Peace Park, Atomic Bomb Museum, Castle and the best okonomiyaki. Complete itinerary with practical tips.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1759921548/Articoli/Giappone/hiroshima-guida-completa_gs2olb.png 
 date: 2025-10-07T7:00:00+01:00
-categories: ["Hiroshima"]
+categories: ["Japan by Campervan"]
 language: en
 type: regular   
 continent: Asia

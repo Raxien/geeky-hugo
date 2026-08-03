@@ -4,7 +4,7 @@ slug: poland-by-campervan-itinerary
 description: "Discovering Poland by campervan. A fantastic road trip!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1682607681/Articoli/Polonia/monti_tatra_van_pcgmet.jpg
 date: 2023-03-07T17:00:00.000
-categories: ["Poland by Campervan", "Guide"]
+categories: ["Europe by Campervan"]
 continent: Europe
 country: Poland
 camper: true

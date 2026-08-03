@@ -3,7 +3,7 @@ title: 'Istanbul in camper: dove dormire?'
 description: 'Scopri dove dormire a Istanbul in camper! Trova campeggi sicuri e parcheggi low-cost per visitare la Moschea Blu e Taksim, con consigli per un’esperienza unica.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1754638685/Articoli/turchia/camper-istanbul-dove-dormire_l2zigk.png
 date: 2025-08-07T7:00:00+01:00
-categories: ["Turchia in Camper", "Istanbul"]
+categories: ["Turchia in Camper"]
 language: it
 type: regular   
 continent: Asia

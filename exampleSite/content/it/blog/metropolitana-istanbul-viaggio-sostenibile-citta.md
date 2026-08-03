@@ -3,7 +3,7 @@ title: 'La Metropolitana di Istanbul: Un viaggio sostenibile nel cuore della cit
 description: 'Scopri la metropolitana di Istanbul: un sistema di trasporto rapido, economico e sostenibile per esplorare la città, collegando attrazioni come Sultanahmet, Taksim e Kadikoy con comfort e facilità.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1754562586/Articoli/turchia/guida-alla-metro-di-istanbul_noabdp.png
 date: 2025-08-05T07:00:00+01:00
-categories: ["Istanbul"]
+categories: ["Turchia in Camper"]
 language: it
 type: regular
 continent: Asia

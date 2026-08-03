@@ -3,7 +3,7 @@ title: 'Miyajima: l’isola sacra tra mare e monti'
 description: 'Guida completa a Miyajima: torii galleggiante, santuario Itsukushima, Monte Misen, cervi sacri e momiji manju. Scopri come arrivare e cosa non perdere sull''isola sacra del Giappone.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1760099791/Articoli/Giappone/miyajima-hiroshima-guida-completa_nx0pdk.png
 date: 2025-10-07T7:00:00+01:00
-categories: ["Hiroshima"]
+categories: ["Giappone in Camper"]
 language: it
 type: regular   
 continent: Asia

@@ -3,7 +3,7 @@ title: 'La connessione perfetta per il tuo viaggio in Giappone: Scopri Japan Wir
 description: 'Viaggia in Giappone senza pensieri con Japan Wireless! Scegli l’eSIM per una connessione istantanea o il router WiFi portatile per connettere più dispositivi. Dati illimitati, copertura nazionale e attivazione semplice: testati da noi in città e aree rurali!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Giappone/internet-illimitato-in-giappone_entbw6.png
 date: 2025-04-30T7:00:00+01:00
-categories: ["Viaggi in Giappone", "Internet"]
+categories: ["Giappone in Camper"]
 type: regular  
 continent: Asia
 country: Giappone

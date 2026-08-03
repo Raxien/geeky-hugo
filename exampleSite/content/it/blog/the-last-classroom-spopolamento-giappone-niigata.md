@@ -4,7 +4,7 @@ description: "Scopri The Last Classroom nella prefettura di Niigata: un'installa
 author: Paolo e Sara
 date: 2025-10-20
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1761021329/articoli/viaggi/R0017177-pegir1el.jpg
-categories: ["Asia", "Giappone", "Arte e Cultura"]
+categories: ["Giappone in Camper"]
 tags: ["the-last-classroom", "Niigata", "Tokamachi", "spopolamento", "giappone-rurale", "tunnel-of-light", "installazione-artistica", "travel-guide"]
 draft: false
 ---

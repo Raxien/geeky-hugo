@@ -139,25 +139,26 @@
           {{ $adCount := 0 }}
           {{ range $index, $element := $paragraphs }}
             {{ if gt $index 0 }}
-              {{ $nextIndex := add $index 1 }}
-              {{ if and (lt $adCount $maxAds) (lt $nextIndex $totalParagraphs) }}
-                {{ $nextElement := index $paragraphs $nextIndex }}
-                {{ if or (hasPrefix $nextElement "<h2") (hasPrefix $nextElement "<h3") (hasPrefix $nextElement "<h4") }}
-                  {{ if hugo.IsProduction }}
-                    <div class="adsense-inarticle">
-                      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7348628013126614" crossorigin="anonymous"></script>
-                      <ins class="adsbygoogle"
-                           style="display:block; text-align:center;"
-                           data-ad-layout="in-article"
-                           data-ad-format="fluid"
-                           data-ad-client="ca-pub-7348628013126614"
-                           data-ad-slot="9819760015"></ins>
-                      <script>
-                           (adsbygoogle = window.adsbygoogle || []).push({});
-                      </script>
-                    </div>
-                    {{ $adCount = add $adCount 1 }}
-                  {{ end }}
+              <!-- Split by "<p>" lascia i tag di heading in coda al chunk
+                   PRECEDENTE (non aprono un loro "<p>"), quindi per capire se
+                   stiamo per stampare il paragrafo subito dopo un H2/H3/H4
+                   dobbiamo controllare la fine del chunk precedente, non
+                   l'inizio di quello successivo: un controllo su
+                   $nextElement (come prima) non trova mai una corrispondenza,
+                   ed è per questo che gli annunci in-article non comparivano
+                   mai in produzione. -->
+              {{ $prevElement := index $paragraphs (sub $index 1) | strings.TrimSpace }}
+              {{ if and (lt $adCount $maxAds) (or (strings.HasSuffix $prevElement "</h2>") (strings.HasSuffix $prevElement "</h3>") (strings.HasSuffix $prevElement "</h4>")) }}
+                {{ if hugo.IsProduction }}
+                  <div class="adsense-inarticle">
+                    <ins class="adsbygoogle"
+                         style="display:block; text-align:center;"
+                         data-ad-layout="in-article"
+                         data-ad-format="fluid"
+                         data-ad-client="ca-pub-7348628013126614"
+                         data-ad-slot="9819760015"></ins>
+                  </div>
+                  {{ $adCount = add $adCount 1 }}
                 {{ end }}
               {{ end }}
             {{ end }}
@@ -168,6 +169,52 @@
             {{ end }}
           {{ end }}
         </div>
+
+        <!-- Caricamento lazy degli slot AdSense in-article: la libreria e il push()
+             partivano prima al parsing della pagina per ogni slot, indipendentemente
+             dallo scroll, contribuendo a CLS/INP. Ora si attivano solo quando lo slot
+             si avvicina al viewport, sullo stesso pattern IntersectionObserver già
+             usato per Disqus. -->
+        {{ if gt $adCount 0 }}
+        <script>
+        (function() {
+          var adSlots = document.querySelectorAll('.adsense-inarticle ins.adsbygoogle');
+          if (!adSlots.length) return;
+
+          var adsenseLibraryLoading = false;
+          function loadAdsenseLibrary() {
+            if (adsenseLibraryLoading) return;
+            adsenseLibraryLoading = true;
+            var s = document.createElement('script');
+            s.async = true;
+            s.crossOrigin = 'anonymous';
+            s.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7348628013126614';
+            document.head.appendChild(s);
+          }
+
+          function activateSlot() {
+            loadAdsenseLibrary();
+            (window.adsbygoogle = window.adsbygoogle || []).push({});
+          }
+
+          if ('IntersectionObserver' in window) {
+            var observer = new IntersectionObserver(function(entries) {
+              entries.forEach(function(entry) {
+                if (entry.isIntersecting) {
+                  activateSlot();
+                  observer.unobserve(entry.target);
+                }
+              });
+            }, { rootMargin: '200px' });
+
+            adSlots.forEach(function(ins) { observer.observe(ins); });
+          } else {
+            adSlots.forEach(activateSlot);
+          }
+        })();
+        </script>
+        {{ end }}
+
         {{ partial "blog-footer.html" (dict "country" "" "payPal" "1" "consult" "0" ) }}
         <!-- articoli correlati mobile -->
         <div class="d-lg-none">

@@ -4,7 +4,7 @@ slug: beppu-hells-guide-what-to-see
 description: ''
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1751873780/Articoli/Giappone/guida-a-beppu-giappone_dsrvms.png
 date: 2025-06-04T7:00:00+01:00
-categories: ["Travel in Japan", "Kyushu"]
+categories: ["Japan by Campervan"]
 language: en
 type: regular   
 continent: Asia

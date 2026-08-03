@@ -3,7 +3,7 @@ title: 'Noale: un piccolo borgo a pochi chilometri da Venezia'
 description: Uno di quei paesi in cui ti viene voglia di fermarti, di fare due parole con la gente del posto, di saperne un po' di più.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1657705481/Articoli/Noale_.jpg
 date: 2022-07-13T10:00:00Z
-categories: ["Borghi d'Italia"]
+categories: ["Europa in Camper"]
 continent: Europa
 country: Italia
 type: regular
@@ -41,4 +41,4 @@ Con Sakè e Olimpia abbiamo camminato per tutte le vie del paese e lungo l'argin
 ## Un piccolo borgo a pochi chilometri da Venezia 
 Ebbene sì, la Serenissima si trova davvero a pochi chilometri da Noale, tant'è che è raggiungibile comodamente con il treno. Noi abbiamo preferito avvicinarci con il camper per avere una base più comoda e vicina in caso di necessità con gli animali, ma se decidessi di fare sosta qui, il tragitto in treno ti richiederà una quarantina di minuti (costo del biglietto 1,90 € in seconda classe). 
 
-Ti lasciamo il link al {{< extLink "**reel sulla città di Noale**" "https://www.instagram.com/reel/CeBBXTyjZMy/">}} mentre se vuoi saperne di più sul nostro viaggio a Venezia {{< extLink "**clicca qui**" "https://vandipety.it/blog/venezia-cane-gatto">}}.
+Ti lasciamo il link al {{< extLink "**reel sulla città di Noale**" "https://www.instagram.com/reel/CeBBXTyjZMy/">}} mentre se vuoi saperne di più sul nostro viaggio a Venezia [**clicca qui**](/blog/venezia-cane-gatto/).

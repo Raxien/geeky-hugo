@@ -4,7 +4,7 @@ slug: northern-portugal-porto-5-days
 description: "Discovering Northern Portugal"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683730729/IMG_0723_n3ptpi.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Portugal by Campervan", "Itineraries"]
+categories: ["Europe by Campervan", "Itineraries"]
 continent: Europe
 country: Portugal
 type: regular

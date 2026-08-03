@@ -3,7 +3,7 @@ title: 'I love Istanbul'
 description: Ci fermiamo ad Istanbul e rimaniamo affascinati dalla sua bellezza
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713007643/Articoli/Direzione%20giappone/Istanbul/istanbul_ayasofia_poyhje.jpg
 date: 2024-03-30T7:00:00+01:00
-categories: [ "Direzione Giappone", "Viaggiare in Turchia", "Istanbul"]
+categories: ["Turchia in Camper"]
 type: featured   
 continent: Asia
 country: Turchia

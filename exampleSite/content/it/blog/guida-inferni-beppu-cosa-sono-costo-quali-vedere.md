@@ -3,7 +3,7 @@ title: 'Guida agli Inferni di Beppu: cosa sono, quanto costano e quali vale la p
 description: ''
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1751873780/Articoli/Giappone/guida-a-beppu-giappone_dsrvms.png
 date: 2025-06-04T7:00:00+01:00
-categories: ["Viaggio in Giappone", "Kyushu"]
+categories: ["Giappone in Camper"]
 language: it
 type: regular   
 continent: Asia

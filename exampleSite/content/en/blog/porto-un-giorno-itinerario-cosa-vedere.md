@@ -4,7 +4,7 @@ slug: porto-in-one-day-what-to-see
 description: "A guide to visiting Porto in one day: a walking itinerary through Ribeira, Livraria Lello, São Bento and the unmissable attractions, with tips on where to park."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1754641823/Articoli/turchia/Europa/porto-in-camper_xkrtwd.png
 date: 2024-05-07T10:00:00+01:00
-categories: [ "Portugal by Campervan", "Itineraries" ]
+categories: ["Europe by Campervan", "Itineraries"]
 continent: Europe
 country: Portugal
 type: featured

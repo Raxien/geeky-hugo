@@ -4,7 +4,7 @@ slug: what-to-see-in-osaka-in-one-day
 description: 'Guide to Osaka in one day: discover Namba, Dotonbori, Ukiyo Koji, Osaka Castle and Shinsekai. Tips on the metro, food (okonomiyaki, takoyaki) and shopping in Umeda. Perfect for travellers looking for authentic experiences in Japan.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1754898394/Articoli/Giappone/osaka-tour-in-un-giorno_nlt9e8.png
 date: 2025-08-10T7:00:00+01:00
-categories: ["Osaka Tour"]
+categories: ["Japan by Campervan"]
 language: en
 type: featured   
 continent: Asia

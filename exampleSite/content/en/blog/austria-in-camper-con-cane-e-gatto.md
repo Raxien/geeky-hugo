@@ -4,7 +4,7 @@ slug: austria-by-campervan-dog-cat
 description: 3 weeks on the road between cities, museums and nature
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1675350710/Articoli/IMG_3427_gttfeh.jpg
 date: 2023-02-01T10:00:00.000+00:00
-categories: ["Itineraries", "Campervan", "Pets"]
+categories: ["Europe by Campervan", "Itineraries"]
 continent: Europe
 country: Austria
 type: regular

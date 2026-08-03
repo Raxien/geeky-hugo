@@ -3,7 +3,7 @@ title: Austria in camper con cane e gatto
 description: 3 settimane on the road tra città, musei e natura
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1675350710/Articoli/IMG_3427_gttfeh.jpg
 date: 2023-02-01T10:00:00.000+00:00
-categories: ["Itinerari", "Camper", "Animali"]
+categories: ["Europa in Camper", "Itinerari"]
 continent: Europa
 country: Austria
 type: regular

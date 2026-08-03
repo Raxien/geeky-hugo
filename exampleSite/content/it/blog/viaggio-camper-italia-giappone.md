@@ -3,7 +3,7 @@ title: 'Viaggio in Camper dall''Italia al Giappone: il nostro libro diventa real
 description: 'La storia del nostro viaggio di tre anni e mezzo attraverso 36 paesi, tre continenti, e innumerevoli ostacoli. Come un sogno è diventato la più grande avventura della nostra vita.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1766283851/articoli/viaggi/cartina - dimensioni grandi-lzjzsvxk.jpg
 date: 2026-01-01T10:00:00+01:00
-categories: ["Blog"]
+categories: ["Giappone in Camper"]
 type: featured
 continent: Asia
 country: Giappone

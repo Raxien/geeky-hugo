@@ -3,7 +3,7 @@ title: 'Come raggiungere Jeju: Guida completa per traghetto e aereo (con esperie
 description: "Scopri come raggiungere Jeju dalla Corea del Sud: tutti i traghetti disponibili, voli low-cost, costi per camper e veicoli stranieri. Guida con esperienza diretta"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1760163683/Articoli/Corea/guida-traghetti-jeju_wrhgfk.png
 date: 2025-10-10T10:00:00.000
-categories: ["l'isola di Jeju", "Guida", "Trasporti"]
+categories: ["Corea del Sud in Camper"]
 continent: Asia
 country: Corea del Sud
 type: regular

@@ -3,7 +3,7 @@ title: 'Buon ponte, piccola grande Olimpia'
 description: "È venuto il giorno in cui le nostre strade si sono dovute separare. Ti ameremo per sempre, PiccOlimpia. Grazie per tutto. Paolo, Sara e Sakè."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1716102319/Articoli/Blog/olimpia_xhggul.jpg
 date: 2024-07-25T00:00:00.000
-categories: ["Blog"]
+categories: ["Diario di Bordo"]
 type: featured
 draft: false
 ---

@@ -4,7 +4,7 @@ slug: senegal-travel-guide-itineraries
 description: "Dreaming of going to Senegal but don't know where to start? Below you'll find all the useful tips for travelling around the country. This is information we gathered on the ground during the period we passed through, namely March 2023."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1681839215/Articoli/Copertine/Senegal_Informazioni_Viaggio_tg3jnb.png
 date: 2023-03-26T17:00:00.000
-categories: ["Senegal Tour"]
+categories: ["Africa by Campervan"]
 continent: Africa
 country: Senegal
 type: regular

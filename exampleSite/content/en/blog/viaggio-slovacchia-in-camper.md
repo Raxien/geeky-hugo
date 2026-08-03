@@ -4,7 +4,7 @@ slug: slovakia-by-campervan-5-day-tour
 description: "Unexpected places in a country that deserves an extra stop"
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1680475409/Articoli/chickmani_slovacchia_paajn5.jpg"
 date: 2023-02-01T10:00:00Z
-categories: ["Slovakia by Campervan", "Itineraries"]
+categories: ["Europe by Campervan", "Itineraries"]
 continent: Europe
 country: Slovakia
 type: regular

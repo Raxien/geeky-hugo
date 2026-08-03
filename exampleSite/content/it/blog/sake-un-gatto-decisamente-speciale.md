@@ -3,7 +3,7 @@ title: "Sakè: un gatto decisamente speciale"
 description: "Io non volevo un gatto per casa, ma forse ero destinata a vivere con il piccolo Sakè."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1656068385/Articoli/Sak%C3%A8_un_gatto_decisamente_speciale_1.2_sekcj5.jpg
 date: 2022-06-24T12:00:00+01:00
-categories: ["Blog", "Animali"]
+categories: ["Animali in Viaggio"]
 type: "regular"
 draft: false
 ---

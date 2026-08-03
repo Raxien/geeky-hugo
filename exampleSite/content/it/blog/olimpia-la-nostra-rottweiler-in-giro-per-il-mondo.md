@@ -3,7 +3,7 @@ title: "Olimpia: la nostra rottweiler in giro per il mondo"
 description: "Si possono organizzare le vacanze con un rottweiler? Noi ne abbiamo fatto uno stile di vita!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1656067861/Articoli/olimpia_rottweiler_1_1_vsnlwf.jpg
 date: 2022-06-24T12:00:00+01:00
-categories: ["Blog", "Animali"]
+categories: ["Animali in Viaggio"]
 type: "regular" 
 draft: false
 ---

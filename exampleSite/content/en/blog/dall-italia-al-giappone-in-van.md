@@ -4,7 +4,7 @@ slug: italy-to-japan-overland-van-journey
 description: We're driving from Italy to Japan overland in our van with our pets!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1744347985/Articoli/Blog/direzione-giappone_yjdx2a.png
 date: 2024-03-19T00:00:00+01:00
-categories: [ "Overlanding to Japan", "Blog"]
+categories: ["Japan by Campervan"]
 type: featured   
 draft: false
 ---

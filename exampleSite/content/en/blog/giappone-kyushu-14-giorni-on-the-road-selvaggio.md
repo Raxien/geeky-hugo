@@ -4,7 +4,7 @@ slug: wild-kyushu-14-days-on-the-road
 description: 'Explore Kyushu in 14 days on the road! A campervan itinerary through volcanoes, onsen, hidden temples and breathtaking coastlines. Discover authentic Japan!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713007643/Articoli//Giappone/nanzoin-kyushu-itinerario_iifdfj.jpg
 date: 2025-05-16T7:00:00+01:00
-categories: ["Travel in Japan", "Kyushu"]
+categories: ["Japan by Campervan"]
 language: en
 type: featured   
 continent: Asia

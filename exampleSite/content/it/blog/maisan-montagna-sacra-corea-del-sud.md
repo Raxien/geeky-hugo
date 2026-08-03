@@ -3,7 +3,7 @@ title: 'Maisan: La montagna Sacra della Corea del Sud'
 description: "Scopri le Montagne Maisan, un gioiello naturale e spirituale della Corea del Sud. Esplora i sentieri, i templi buddisti storici come Tapsa ed Eunsusa, e lasciati affascinare dalle leggende e dai nomi stagionali di questa montagna unica."
 image:  https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1657123237/Articoli/Corea/maisan-tempio-principale_o52hts.jpg
 date: 2025-04-14T00:00:00.000
-categories: ["Viaggi in Coreaa"]
+categories: ["Corea del Sud in Camper"]
 type: regular
 continent: Asia
 country: Corea del Sud

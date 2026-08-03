@@ -3,7 +3,7 @@ title: "Entrare in Giappone con il tuo cane o gatto: come evitare la Quarantena"
 description: "Scopri come viaggiare con il tuo animale domestico in Giappone evitando la quarantena. Leggi la nostra guida completa sulle procedure e normative."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1739789765/Articoli/Giappone/giappone-quarantena_mau6pb.jpg
 date: 2025-02-10T10:00:00+01:00
-categories: [ "Animali", "Guida"]
+categories: ["Giappone in Camper"]
 type: featured
 continent: Asia
 country: Giappone

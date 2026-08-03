@@ -3,7 +3,7 @@ title: 'Istanbul low-cost: Esplora la città gratuitamente'
 description: 'Scopri Istanbul gratis! Visita Moschea Blu, Taksim e Üsküdar, gusta street food e ammira panorami sul Bosforo con il nostro itinerario low-cost!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713007643/Articoli/Direzione%20giappone/Istanbul/istanbul_vista_bosforo_c4he1i.jpg
 date: 2025-04-27T7:00:00+01:00
-categories: ["Viaggio in Turchia", "Istanbul", "Viaggi Low-Cost"]
+categories: ["Turchia in Camper"]
 language: it
 type: featured   
 continent: Asia

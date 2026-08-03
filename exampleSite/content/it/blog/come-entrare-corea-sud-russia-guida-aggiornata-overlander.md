@@ -3,7 +3,7 @@ title: 'Come entrare in Corea del Sud dalla Russia: la guida aggiornata per over
 description: 'Guida completa per entrare in Corea del Sud dalla Russia in camper: traghetto DuWon, documenti e consigli per overlander!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1752301060/Articoli/Russia/vladivostok/guida-traghetto-russia-corea_bhgfz5.png
 date: 2025-07-09T7:00:00+01:00
-categories: ["Overlanding Asia"]
+categories: ["Corea del Sud in Camper"]
 language: it
 continent: Asia
 country: Corea del Sud

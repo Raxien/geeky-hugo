@@ -4,7 +4,7 @@ slug: tokyo-metro-pass-complete-guide
 description: "Discover how to save money on the Tokyo metro with the Tokyo Metro Pass: cheaper than Suica and Pasmo. Everything you need to know about the Tokyo subway"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1760100799/Articoli/Giappone/guida-metro-tokyo-2025_mfvopu.png
 date: 2025-10-10T10:00:00.000
-categories: ["Tokyo", "Guide"]
+categories: ["Japan by Campervan"]
 continent: Asia
 country: Japan
 type: regular

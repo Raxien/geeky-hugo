@@ -4,7 +4,7 @@ slug: portugal-by-campervan-guide-itinerary
 description: "Discovering Portugal, a road trip through Porto and Lisbon all the way to the cliffs of the Algarve. Complete itineraries for every taste"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683816018/IMG_1491_f1hx1p.jpg
 date: 2023-04-10T17:00:00.000
-categories: ["Portugal by Campervan", "Itineraries"]
+categories: ["Europe by Campervan", "Itineraries"]
 continent: Europe
 country: Portugal
 type: regular
