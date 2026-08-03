@@ -2644,4 +2644,24 @@ function manageAISummaryCache() {
     console.log(`Rimossi ${keysToRemove.length} riassunti dalla cache`);
   }
 }
-  
+
+// Il tag <base href> (necessario per risolvere correttamente gli URL
+// relativi nel setup multihost) fa sì che i link con solo "#ancora" vengano
+// risolti dal browser rispetto alla base (root del sito) e non rispetto alla
+// pagina corrente, causando un redirect indesiderato alla home. Intercettiamo
+// il click su questi link e gestiamo lo scroll manualmente restando sulla
+// pagina corrente.
+document.addEventListener('click', function(e) {
+  const link = e.target.closest('a[href^="#"]');
+  if (!link) return;
+
+  const hash = link.getAttribute('href');
+  if (!hash || hash.length < 2) return;
+
+  const target = document.getElementById(decodeURIComponent(hash.slice(1)));
+  if (!target) return;
+
+  e.preventDefault();
+  history.pushState(null, '', hash);
+  target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+});
