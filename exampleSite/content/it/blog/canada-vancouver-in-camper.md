@@ -2,8 +2,13 @@
 title: "Vancouver in camper: cosa vedere nella città dove oceano e montagne si incontrano"
 description: "Cosa vedere a Vancouver in camper: Stanley Park, Gastown, Granville Island e Chinatown. La città dove oceano e montagne si incontrano."
 slug: "vancouver-in-camper-cosa-vedere"
-date: 2026-08-03T09:18:00.000+01:00
-draft: false
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1785869777/articoli/viaggi/canada-vancouver-tour-jn86l1s2.png
+date: 2026-08-02T09:18:00.000+01:00
+categories: ["Nord America in Camper"]
+language: it
+type: featured
+continent: Nord America
+country: Canada
 ---
 
 Arrivare a Vancouver dopo oltre tre anni di viaggio con il nostro camper è stato come aprire un capitolo completamente nuovo.
@@ -29,6 +34,8 @@ La sua posizione è probabilmente il suo punto di forza principale:
 
 Non è raro vedere persone uscire dal lavoro e andare direttamente a fare trekking, kayak o una passeggiata nella natura.
 
+{{< youtube2 _R96awP8umg >}}
+
 ## Stanley Park: il polmone verde di Vancouver
 
 Se c'è un luogo da cui iniziare la visita è sicuramente **Stanley Park**.
@@ -49,6 +56,8 @@ Il simbolo del quartiere è lo **Steam Clock**, l'orologio a vapore costruito ne
 
 È sicuramente turistico, ma una passeggiata qui merita.
 
+{{< carousel images="articoli/viaggi/canada-vancouver-stanley-park-84rj6ia7.png, canada-vanocuver-gastown_aia3dw.png, canada-vancouver-gastown-notte_hxvh6a.png" >}}
+
 ## Granville Island: mercato, artigiani e atmosfera locale
 
 Nonostante il nome, Granville Island non è un'isola lontana dalla città, bensì una penisola raggiungibile facilmente dal centro.
@@ -64,6 +73,8 @@ La Chinatown di Vancouver è una delle più antiche del Canada.
 Nata alla fine dell'Ottocento con l'arrivo di numerosi immigrati cinesi, oggi racconta una storia fatta di tradizioni, difficoltà e trasformazioni.
 
 È una zona interessante perché mostra anche il lato più complesso della città, dove non tutto è perfetto come nelle cartoline.
+
+{{< leggi-anche >}}
 
 ## Quanto tempo serve per visitare Vancouver?
 

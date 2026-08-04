@@ -4,6 +4,7 @@ description: 'Come funzionano le prenotazioni dei campeggi Parks Canada, permess
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1783469328/articoli/viaggi/campeggio-canada-nord-america-bvkle0r3.png
 date: 2026-07-06T10:00:00+01:00
 categories: ["Nord America in Camper"]
+language: it
 type: featured
 continent: Nord America
 country: Canada
