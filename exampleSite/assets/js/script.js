@@ -119,6 +119,75 @@ function initGuidesSlider() {
   startAutoplay();
 }
 
+// Carosello "in evidenza" della pagina destinazione: stesso pattern dello
+// slider guide sopra (translateX, swipe, autoplay), classi separate per non
+// interferire con .guides-wrapper/.guide-slide se compaiono sulla stessa pagina.
+function initDestinationCarousel() {
+  const track = document.querySelector('.destination-carousel-track');
+  const slides = document.querySelectorAll('.destination-carousel-slide');
+  const prevButton = document.querySelector('.destination-carousel-nav.prev');
+  const nextButton = document.querySelector('.destination-carousel-nav.next');
+
+  if (!track || !slides.length) return;
+
+  let currentSlide = 0;
+  const totalSlides = slides.length;
+  let autoplayInterval;
+  let touchStartX = 0;
+  let touchEndX = 0;
+  const swipeThreshold = 50;
+
+  function updateSlider() {
+    track.style.transform = `translateX(${-currentSlide * 100}%)`;
+  }
+
+  function nextSlide() {
+    currentSlide = currentSlide < totalSlides - 1 ? currentSlide + 1 : 0;
+    updateSlider();
+  }
+
+  function prevSlide() {
+    currentSlide = currentSlide > 0 ? currentSlide - 1 : totalSlides - 1;
+    updateSlider();
+  }
+
+  function startAutoplay() {
+    if (totalSlides < 2) return;
+    autoplayInterval = setInterval(nextSlide, 6000);
+  }
+
+  function stopAutoplay() {
+    clearInterval(autoplayInterval);
+  }
+
+  track.addEventListener('touchstart', (e) => {
+    touchStartX = e.changedTouches[0].screenX;
+    stopAutoplay();
+  });
+
+  track.addEventListener('touchend', (e) => {
+    touchEndX = e.changedTouches[0].screenX;
+    const diff = touchStartX - touchEndX;
+    if (Math.abs(diff) > swipeThreshold) {
+      diff > 0 ? nextSlide() : prevSlide();
+    }
+    startAutoplay();
+  });
+
+  if (prevButton) {
+    prevButton.addEventListener('click', () => { stopAutoplay(); prevSlide(); startAutoplay(); });
+  }
+  if (nextButton) {
+    nextButton.addEventListener('click', () => { stopAutoplay(); nextSlide(); startAutoplay(); });
+  }
+
+  track.addEventListener('mouseenter', stopAutoplay);
+  track.addEventListener('mouseleave', startAutoplay);
+
+  updateSlider();
+  startAutoplay();
+}
+
 // Funzione per inizializzare tutto il codice che dipende da Bootstrap
 function initBootstrapDependentCode() {
   // Gestione del menu mobile
@@ -194,6 +263,9 @@ function initIndependentCode() {
 
   // Inizializza lo slider delle guide
   initGuidesSlider();
+
+  // Inizializza il carosello "in evidenza" della pagina destinazione
+  initDestinationCarousel();
 
   // search-toggle
   const toggleSearchButtons = document.querySelectorAll('.toggle-search');

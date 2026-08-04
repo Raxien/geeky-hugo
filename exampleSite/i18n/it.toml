@@ -323,3 +323,42 @@ other = "Oppure sui"
 
 [contact_social]
 other = "Social"
+
+[home_h1]
+other = "Esploriamo il mondo in camper, un chilometro alla volta"
+
+[destinations_breadcrumb_root]
+other = "Destinazioni"
+
+[destinations_stats_heading]
+other = "In numeri"
+
+[destinations_featured_heading]
+other = "Itinerari e guide consigliate"
+
+[destinations_category_itinerari]
+other = "Itinerari"
+
+[destinations_category_guide]
+other = "Vita in Camper e Consigli Pratici"
+
+[destinations_carousel_prev]
+other = "Slide precedente"
+
+[destinations_carousel_next]
+other = "Slide successiva"
+
+[destinations_stat_articles]
+other = "articoli"
+
+[destinations_stat_km]
+other = "km percorsi"
+
+[destinations_stat_months]
+other = "mesi di viaggio"
+
+[destinations_stat_regions]
+other = "regioni visitate"
+
+[destinations_filter_all]
+other = "Tutti"

@@ -1,0 +1,305 @@
+{{ define "main" }}
+
+{{ $country := .Params.country }}
+{{ $countryPosts := where site.RegularPages "Params.country" "eq" $country }}
+<!-- Solo contenuti veri della sezione blog: senza questo filtro la pagina hub
+     stessa (che ha anche lei Params.country valorizzato) finiva per comparire
+     tra i "suoi" articoli, candidandosi persino come card in evidenza. -->
+{{ $countryPosts = where $countryPosts "Section" "eq" "blog" }}
+{{ $countryPosts = where $countryPosts "Params.draft" "!=" true }}
+{{ $countryPosts = $countryPosts.ByDate.Reverse }}
+
+{{ $heading := .Params.heading | default .Title }}
+{{ $slug := .File.ContentBaseName }}
+{{ $stats := index hugo.Data.destination_stats $slug }}
+
+<!-- BreadcrumbList: rispecchia il breadcrumb visibile nell'hero sotto,
+     nessun sito ha ancora dati strutturati oggi (verificato in audit SEO
+     precedente) — questo è il primo, riusa gli stessi due livelli mostrati
+     a schermo. -->
+{{ $breadcrumbJSON := dict
+  "@context" "https://schema.org"
+  "@type" "BreadcrumbList"
+  "itemListElement" (slice
+    (dict "@type" "ListItem" "position" 1 "name" (i18n "destinations_breadcrumb_root") "item" .Parent.Permalink)
+    (dict "@type" "ListItem" "position" 2 "name" $heading "item" .Permalink)
+  )
+}}
+<script type="application/ld+json">{{ $breadcrumbJSON | jsonify | safeJS }}</script>
+
+<!-- Hero: immagine grande con testo (breadcrumb, H1, teaser, statistiche) in
+     overlay su una maschera sfumata scura, testo bianco leggibile sopra
+     l'immagine invece che sotto in un box separato. -->
+<section class="destination-hero mb-5">
+  {{ with .Params.image }}
+  <div class="destination-hero-img">
+    <img src="{{ . }}" alt="{{ $heading }}" loading="eager" fetchpriority="high">
+  </div>
+  {{ end }}
+  <div class="destination-hero-overlay">
+    <div class="container">
+      <nav aria-label="breadcrumb" class="destination-breadcrumb mb-3">
+        <ol class="list-inline mb-0 small">
+          <li class="list-inline-item">
+            <a href="{{ "destinazioni" | relLangURL }}">{{ i18n "destinations_breadcrumb_root" }}</a>
+          </li>
+          <li class="list-inline-item">/</li>
+          <li class="list-inline-item fw-bold">{{ $heading }}</li>
+        </ol>
+      </nav>
+
+      <!-- H1 volutamente diverso dal <title> (vedi head.html): il title serve
+           la SERP, l'H1 è la lettura naturale in pagina. -->
+      <h1 class="h2 mb-3">{{ $heading }}</h1>
+
+      {{ with .Description }}
+      <p class="destination-hero-teaser mb-4">{{ . }}</p>
+      {{ end }}
+
+      <div class="row destination-hero-stats text-center">
+        <div class="col-6 col-md-3 mb-3 mb-md-0">
+          <span class="stat-number">{{ len $countryPosts }}</span>
+          <span class="stat-label small d-block">{{ i18n "destinations_stat_articles" }}</span>
+        </div>
+        {{ with $stats }}
+        {{ with .km }}
+        <div class="col-6 col-md-3 mb-3 mb-md-0">
+          <span class="stat-number">{{ . }}</span>
+          <span class="stat-label small d-block">{{ i18n "destinations_stat_km" }}</span>
+        </div>
+        {{ end }}
+        {{ with .months }}
+        <div class="col-6 col-md-3 mb-3 mb-md-0">
+          <span class="stat-number">{{ . }}</span>
+          <span class="stat-label small d-block">{{ i18n "destinations_stat_months" }}</span>
+        </div>
+        {{ end }}
+        {{ with .regions }}
+        <div class="col-6 col-md-3 mb-3 mb-md-0">
+          <span class="stat-number">{{ . }}</span>
+          <span class="stat-label small d-block">{{ i18n "destinations_stat_regions" }}</span>
+        </div>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section-sm pt-0 destination-page">
+  <div class="container">
+
+    <div class="content mb-5">
+      {{ .Content }}
+    </div>
+
+    <!-- Selezione "in evidenza": fino a 5 articoli, a cascata di priorità
+         (Itinerari -> guide pratiche -> flag "featured" del sito), non solo
+         il più recente. Ogni livello riempie gli slot rimasti dal
+         precedente, evitando doppioni tra i livelli. -->
+    {{ $featuredMax := 5 }}
+    {{ $featured := slice }}
+    {{ $usedPermalinks := slice }}
+
+    {{ $itinerariLabel := i18n "destinations_category_itinerari" }}
+    {{ $guideLabel := i18n "destinations_category_guide" }}
+
+    {{ range where $countryPosts "Params.categories" "intersect" (slice $itinerariLabel) }}
+      {{ if and (lt (len $featured) $featuredMax) (not (in $usedPermalinks .RelPermalink)) }}
+        {{ $featured = $featured | append . }}
+        {{ $usedPermalinks = $usedPermalinks | append .RelPermalink }}
+      {{ end }}
+    {{ end }}
+
+    {{ if lt (len $featured) $featuredMax }}
+      {{ range where $countryPosts "Params.categories" "intersect" (slice $guideLabel) }}
+        {{ if and (lt (len $featured) $featuredMax) (not (in $usedPermalinks .RelPermalink)) }}
+          {{ $featured = $featured | append . }}
+          {{ $usedPermalinks = $usedPermalinks | append .RelPermalink }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{ if lt (len $featured) $featuredMax }}
+      {{ range where $countryPosts "Params.type" "eq" "featured" }}
+        {{ if and (lt (len $featured) $featuredMax) (not (in $usedPermalinks .RelPermalink)) }}
+          {{ $featured = $featured | append . }}
+          {{ $usedPermalinks = $usedPermalinks | append .RelPermalink }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{ if gt (len $featured) 0 }}
+    <!-- ItemList: elenca gli stessi articoli mostrati nella fila sotto,
+         nessun dato inventato, solo url/nome/posizione di ciò che è già a
+         schermo. -->
+    {{ $itemListElements := slice }}
+    {{ range $i, $p := $featured }}
+      {{ $itemListElements = $itemListElements | append (dict "@type" "ListItem" "position" (add $i 1) "url" $p.Permalink "name" ($p.Title | plainify)) }}
+    {{ end }}
+    {{ $itemListJSON := dict "@context" "https://schema.org" "@type" "ItemList" "itemListElement" $itemListElements }}
+    <script type="application/ld+json">{{ $itemListJSON | jsonify | safeJS }}</script>
+
+    <h2 class="h4 mb-4 title-border">{{ i18n "destinations_featured_heading" }}</h2>
+
+    <!-- Desktop: stesso schema della hero in home, 1 card grande a sinistra
+         (post-featured) + le altre 4 piccole a destra — riusa il partial
+         condiviso e il markup della lista piccola già in index.html, per
+         restare visivamente identico invece di inventare un terzo stile. -->
+    <div class="d-none d-lg-flex mb-5">
+      <div class="col-lg-6 me-lg-4">
+        {{ with index $featured 0 }}
+        {{ .Render "post-featured" }}
+        {{ end }}
+      </div>
+      <div class="col-lg-6 blog-card-list">
+        {{ range after 1 $featured }}
+        <div class="card rounded-0 mb-3">
+          <div class="d-flex flex-column flex-sm-row">
+            {{ $imagePath := .Params.image }}
+            {{ if $imagePath }}
+            {{ if hasPrefix $imagePath "http" }}
+            {{ $cloudBase := replaceRE `,?w_[0-9]+` "" $imagePath }}
+            {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
+            {{ $cloudBase = replace $cloudBase " " "%20" }}
+            {{ $img110 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_110,c_limit" }}
+            {{ $img220 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_220,c_limit" }}
+            <a href="{{ .RelPermalink }}" class="d-block featured-image-container">
+              <div class="image-container">
+                <img decoding="async"
+                  src="{{ $img110 | safeURL }}"
+                  {{ printf `srcset="%s 110w, %s 220w"` $img110 $img220 | safeHTMLAttr }}
+                  sizes="105px"
+                  alt="{{ .Title }}"
+                  class="img-fluid rounded-4 post-featured-image">
+              </div>
+            </a>
+            {{ end }}
+            {{ end }}
+            <div class="card-body ps-sm-3">
+              <h3 class="h6 mb-2">
+                <a class="title-linked" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+              </h3>
+              <ul class="list-inline card-meta d-flex align-items-center mb-2">
+                <li class="list-inline-item d-flex align-items-center">
+                  <i class="fas fa-calendar me-2"></i>
+                  <span>{{ time.Format ":date_long" .PublishDate }}</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+
+    <!-- Mobile: carosello, 1 slide alla volta, ritaglio accettato (niente
+         bande nere: qui object-fit torna a cover, il formato più verticale
+         è più clemente con immagini non fotografiche). -->
+    <div class="d-lg-none mb-5">
+      <div class="destination-carousel" id="destination-carousel">
+        <div class="destination-carousel-track">
+          {{ range $featured }}
+          {{ $post := . }}
+          <div class="destination-carousel-slide">
+            <a href="{{ $post.RelPermalink }}" class="destination-carousel-link">
+              {{ with $post.Params.image }}
+              <img src="{{ . }}" alt="{{ $post.Title | markdownify }}" loading="lazy">
+              {{ end }}
+              <div class="destination-carousel-overlay">
+                <h3 class="h4 mb-2">{{ $post.Title | markdownify }}</h3>
+                {{ with $post.Description }}<p class="mb-0">{{ . }}</p>{{ end }}
+              </div>
+            </a>
+          </div>
+          {{ end }}
+        </div>
+        {{ if gt (len $featured) 1 }}
+        <button type="button" class="destination-carousel-nav prev" aria-label="{{ i18n "destinations_carousel_prev" }}">
+          <i class="fas fa-chevron-left"></i>
+        </button>
+        <button type="button" class="destination-carousel-nav next" aria-label="{{ i18n "destinations_carousel_next" }}">
+          <i class="fas fa-chevron-right"></i>
+        </button>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+
+    <!-- Il resto degli articoli, esclusi quelli già mostrati sopra. -->
+    {{ $remainingPosts := where $countryPosts "RelPermalink" "not in" $usedPermalinks }}
+
+    <!-- Filtro per categoria/tema: calcolato su TUTTI gli articoli del
+         paese (non solo quelli rimasti fuori dal carosello), altrimenti una
+         categoria finita per intero nel carosello sparirebbe dai filtri
+         anche se in futuro arrivano altri articoli con quella categoria.
+         Client-side: legge le categorie già presenti tra i post di questo
+         paese e mostra/nasconde le card in base al testo badge già
+         renderizzato da post.html — non tocca il partial condiviso. -->
+    {{ $cats := slice }}
+    {{ range $countryPosts }}
+      {{ range .Params.categories }}
+        {{ if not (in $cats .) }}
+          {{ $cats = $cats | append . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ $cats = sort $cats }}
+    {{ if gt (len $cats) 1 }}
+    <div class="destination-filters mb-4" id="destination-filters">
+      <button type="button" class="filter-pill active" data-filter="all">{{ i18n "destinations_filter_all" }}</button>
+      {{ range $cats }}
+      <button type="button" class="filter-pill" data-filter="{{ . }}">{{ . | title }}</button>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <!-- Griglia articoli correlati: stesso partial "post" condiviso con
+         blog e pagine categoria, nessun secondo stile di card parallelo. -->
+    <div class="row" id="destination-grid">
+      {{ range $remainingPosts }}
+      <div class="col-sm-6 col-lg-3 mb-4">
+        {{ .Render "post" }}
+      </div>
+      {{ end }}
+    </div>
+
+    <!-- CTA finale: riusa il widget newsletter già completo e autonomo. -->
+    <section class="mt-5 pt-5 border-top">
+      <div class="col-lg-6 mx-auto">
+        {{ partial "widgets/newsletter.html" . }}
+      </div>
+    </section>
+
+  </div>
+</section>
+
+{{ if gt (len $cats) 1 }}
+<script>
+(function () {
+  var buttons = document.querySelectorAll('#destination-filters .filter-pill');
+  var cards = document.querySelectorAll('#destination-grid .post-list-card');
+  if (!buttons.length || !cards.length) return;
+
+  buttons.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      buttons.forEach(function (b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      var filter = btn.dataset.filter;
+
+      cards.forEach(function (card) {
+        var badges = Array.prototype.map.call(
+          card.querySelectorAll('.card-badge .badge'),
+          function (b) { return b.textContent.trim(); }
+        );
+        var show = filter === 'all' || badges.indexOf(filter) !== -1;
+        var col = card.closest('[class*="col-"]');
+        if (col) col.style.display = show ? '' : 'none';
+      });
+    });
+  });
+})();
+</script>
+{{ end }}
+
+{{ end }}

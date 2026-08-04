@@ -20,7 +20,7 @@ Esistono due principali modelli di patente internazionale, basati su diverse con
 
 La validità di entrambi i modelli è sempre nei limiti di validità della patente italiana posseduta.
 
-Le differenze principali tra i due modelli riguardano la durata di validità e i Paesi che riconoscono ciascuna convenzione. Prima di partire, è consigliabile visitare il sito di **{{<extLink "Viaggiare Sicuri" "www.viaggiaresicuri.it">}}**, nella sezione **Mobilità**, per verificare quale modello di patente internazionale è richiesto nel Paese di destinazione.
+Le differenze principali tra i due modelli riguardano la durata di validità e i Paesi che riconoscono ciascuna convenzione. Prima di partire, è consigliabile visitare il sito di **{{<extLink "Viaggiare Sicuri" "https://www.viaggiaresicuri.it">}}**, nella sezione **Mobilità**, per verificare quale modello di patente internazionale è richiesto nel Paese di destinazione.
 
 Fortunatamente in Italia **è possibile ottenere sia l'uno che l'altro modello** di questa patente. 
 

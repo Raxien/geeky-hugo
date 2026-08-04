@@ -1,0 +1,119 @@
+# Mappa "menu Destinazioni -> dove deve puntare il link", una sezione per
+# lingua perché i post IT ed EN usano stringhe paese diverse e non condivise
+# (Params.country: "Giappone" vs "Japan"), non essendo "country" una vera
+# taxonomy Hugo (solo un campo di front matter).
+#
+# hub: presente solo per i paesi promossi a pagina hub dedicata
+#   (content/<lang>/destinazioni/<hub>.md + layouts/destinazioni/single.html).
+#   Aggiungere un paese qui è l'intero meccanismo di promozione: nessuna
+#   modifica ai template è necessaria oltre a creare il relativo content file.
+# fallback_category_slug: slug esatto della macro-categoria consolidata
+#   (/categories/<slug>/) usata come destinazione per tutti i paesi senza hub.
+#   Non deriva dal continente: alcuni paesi europei (Balcani) hanno una
+#   categoria propria diversa da "Europa in Camper".
+
+it:
+  Giappone:
+    hub: giappone
+    fallback_category_slug: giappone-in-camper
+  Canada:
+    fallback_category_slug: nord-america-in-camper
+  Corea del Sud:
+    fallback_category_slug: corea-del-sud-in-camper
+  Marocco:
+    fallback_category_slug: marocco-in-camper
+  Turchia:
+    fallback_category_slug: turchia-in-camper
+  Georgia:
+    fallback_category_slug: georgia-e-caucaso-in-camper
+  Armenia:
+    fallback_category_slug: georgia-e-caucaso-in-camper
+  Russia:
+    fallback_category_slug: russia-in-camper
+  Iraq:
+    fallback_category_slug: iraq-in-camper
+  Senegal:
+    fallback_category_slug: africa-in-camper
+  Mauritania:
+    fallback_category_slug: africa-in-camper
+  Bosnia:
+    fallback_category_slug: balcani-in-camper
+  Croazia:
+    fallback_category_slug: balcani-in-camper
+  Kosovo:
+    fallback_category_slug: balcani-in-camper
+  Macedonia:
+    fallback_category_slug: balcani-in-camper
+  Montenegro:
+    fallback_category_slug: balcani-in-camper
+  Slovenia:
+    fallback_category_slug: balcani-in-camper
+  Italia:
+    fallback_category_slug: europa-in-camper
+  Francia:
+    fallback_category_slug: europa-in-camper
+  Spagna:
+    fallback_category_slug: europa-in-camper
+  Portogallo:
+    fallback_category_slug: europa-in-camper
+  Polonia:
+    fallback_category_slug: europa-in-camper
+  Austria:
+    fallback_category_slug: europa-in-camper
+  Belgio:
+    fallback_category_slug: europa-in-camper
+  Danimarca:
+    fallback_category_slug: europa-in-camper
+  Andorra:
+    fallback_category_slug: europa-in-camper
+  Slovacchia:
+    fallback_category_slug: europa-in-camper
+  Paesi Bassi:
+    fallback_category_slug: europa-in-camper
+
+en:
+  Japan:
+    hub: giappone
+    fallback_category_slug: japan-by-campervan
+  South Korea:
+    fallback_category_slug: south-korea-by-campervan
+  Morocco:
+    fallback_category_slug: morocco-by-campervan
+  Turkey:
+    fallback_category_slug: turkey-by-campervan
+  Iraq:
+    fallback_category_slug: iraq-by-campervan
+  Senegal:
+    fallback_category_slug: africa-by-campervan
+  Mauritania:
+    fallback_category_slug: africa-by-campervan
+  Bosnia:
+    fallback_category_slug: balkans-by-campervan
+  Croatia:
+    fallback_category_slug: balkans-by-campervan
+  Kosovo:
+    fallback_category_slug: balkans-by-campervan
+  Slovenia:
+    fallback_category_slug: balkans-by-campervan
+  Italy:
+    fallback_category_slug: europe-by-campervan
+  France:
+    fallback_category_slug: europe-by-campervan
+  Spain:
+    fallback_category_slug: europe-by-campervan
+  Portugal:
+    fallback_category_slug: europe-by-campervan
+  Poland:
+    fallback_category_slug: europe-by-campervan
+  Austria:
+    fallback_category_slug: europe-by-campervan
+  Belgium:
+    fallback_category_slug: europe-by-campervan
+  Denmark:
+    fallback_category_slug: europe-by-campervan
+  Andorra:
+    fallback_category_slug: europe-by-campervan
+  Slovakia:
+    fallback_category_slug: europe-by-campervan
+  Netherlands:
+    fallback_category_slug: europe-by-campervan

@@ -14,7 +14,7 @@ weight = 1
 baseURL = "https://vandipety.it"
 [it.params]
 title = "Vandipety | Vanlife dall'Italia al Giappone e oltre"
-description = "Alla scoperta del mondo on the road. Unisciti al viaggio e lasciati ispirare a intraprendere la tua prossima avventura!"
+description = "Viaggiamo in camper dall'Italia al Giappone e oltre: itinerari, guide pratiche e consigli di vanlife per chi sogna la vita on the road."
 about_widget_content = "Se sentite ridere in lontananza potremmo essere noi."
 footer_content = "Se sentite ridere in lontananza potremmo essere noi."
 copyright = "Vandipety © 2025. Le immagini e i contenuti di questo sito non possono essere utilizzati o riprodotte senza autorizzazione."
@@ -30,7 +30,7 @@ weight = 2
 baseURL = "https://vandipety.com"
 [en.params]
 title = "Vandipety | Exploring the World by Campervan"
-description = "Discovering the world on the road. Join the journey and get inspired to start your next adventure!"
+description = "We travel by campervan from Italy to Japan and beyond: itineraries, practical guides and vanlife tips for anyone dreaming of life on the road."
 about_widget_content = "If you hear laughter in the distance, it might be us."
 footer_content = "If you hear laughter in the distance, it might be us."
 copyright = "Vandipety © 2025. Images and content on this site may not be used or reproduced without permission."

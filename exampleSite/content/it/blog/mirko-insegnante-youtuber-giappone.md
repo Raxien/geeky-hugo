@@ -3,7 +3,7 @@ title: 'Mirko (Miru): L''Insegnante YouTuber che ha fatto di tutto per vivere in
 description: 'Tre lavori contemporaneamente, l''incapacità di dire di no, e la scoperta che in Giappone puoi avere tutto, tranne gli abbracci. La storia di chi ha costruito una vita tranquilla nel paese più ordinato del mondo.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1764815456/articoli/viaggi/copertine 2025-imgeoh71.png
 date: 2025-12-02T12:00:00+01:00
-categories: ["Giappone in Camper"]
+categories: ["Interviste"]
 type: regular
 draft: false
 continent: Asia

@@ -1,8 +1,11 @@
 {{ define "main" }}
 
 <!-- H1 semantico per SEO/accessibilità: il design della hero non prevede un
-     titolo visibile, quindi resta sr-only senza alterare il layout esistente. -->
-<h1 class="sr-only">{{ site.Params.title }}</h1>
+     titolo visibile, quindi resta sr-only senza alterare il layout esistente.
+     Testo volutamente diverso dal <title> (vedi head.html): il title serve la
+     SERP, l'H1 è la lettura naturale in pagina — stesso identico testo per
+     entrambi sarebbe un'occasione persa. -->
+<h1 class="sr-only">{{ i18n "home_h1" }}</h1>
 
 <!--=================== blog header section start ===================-->
 <section class="section" style="padding-top: 40px; padding-bottom: 0px;">

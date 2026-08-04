@@ -530,3 +530,221 @@ select {
 .ul_cons li::before {
   background: #f71735 !important;
 }
+
+// Hub destinazioni: solo il teal di brand già in uso nel resto del sito,
+// niente gradienti/ombre decorative eccetto la maschera scura dell'hero
+// (necessaria per la leggibilità del testo bianco sopra la foto).
+.stat-number {
+  display: block;
+  font-size: 1.75rem;
+  color: $color-primary;
+  font-weight: 700;
+}
+
+.destination-filters .filter-pill {
+  display: inline-block;
+  border: 1px solid $color-primary;
+  color: $color-primary;
+  background: transparent;
+  border-radius: 999px;
+  padding: 0.35rem 1rem;
+  margin: 0 0.5rem 0.5rem 0;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.destination-filters .filter-pill.active,
+.destination-filters .filter-pill:hover {
+  background: $color-primary;
+  color: $white;
+}
+
+.destination-breadcrumb a {
+  color: $text-light;
+}
+
+.destination-breadcrumb a:hover {
+  color: $color-primary;
+}
+
+// Hero pagina destinazione: immagine grande con testo in overlay su una
+// maschera sfumata scura, così titolo/teaser/statistiche restano leggibili
+// sopra la foto invece di stare in un box separato sotto.
+.destination-hero {
+  position: relative;
+  overflow: hidden;
+}
+
+.destination-hero-img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  min-height: 320px;
+  max-height: 520px;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+.destination-hero-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: flex-end;
+  padding: 2rem 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.88) 0%, rgba(0, 0, 0, 0.55) 45%, rgba(0, 0, 0, 0) 100%);
+
+  h1, p {
+    color: $white;
+  }
+
+  .destination-breadcrumb a {
+    color: rgba($white, 0.75);
+  }
+
+  .destination-breadcrumb a:hover {
+    color: $white;
+  }
+
+  .destination-breadcrumb .list-inline-item.fw-bold {
+    color: $white;
+  }
+
+  .destination-hero-teaser {
+    max-width: 640px;
+    color: rgba($white, 0.9);
+  }
+
+  .stat-number {
+    color: $white;
+  }
+
+  .stat-label {
+    color: rgba($white, 0.75);
+  }
+}
+
+@media (max-width: 767px) {
+  .destination-hero-img {
+    aspect-ratio: 4 / 5;
+    min-height: 420px;
+  }
+
+  .destination-hero-overlay {
+    padding: 1.25rem 0;
+  }
+}
+
+// Carosello "in evidenza" della pagina destinazione: 1 slide grande alla
+// volta, anche su desktop, stessa maschera sfumata dell'hero sopra.
+.destination-carousel {
+  position: relative;
+  // Senza overflow:hidden qui, le 5 slide (ognuna 100% di larghezza dentro
+  // il track flex) restavano tutte affiancate e visibili invece di essere
+  // tagliate fuori dalla vista: era la causa sia delle "pagine dopo" viste
+  // in coda sia dell'immagine/gradiente che sembravano fuori misura.
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+
+.destination-carousel-track {
+  display: flex;
+  width: 100%;
+  transition: transform 0.4s ease;
+}
+
+.destination-carousel-slide {
+  flex: 0 0 100%;
+  width: 100%;
+  min-width: 100%;
+}
+
+.destination-carousel-link {
+  position: relative;
+  display: block;
+  // Senza width:100% esplicito, quando max-height entra in gioco il
+  // browser ricalcola la larghezza in base al rapporto aspect-ratio invece
+  // di riempire lo spazio disponibile: è la causa dell'immagine che si
+  // fermava a ~2/3 di larghezza. .destination-hero-img (sopra) ce l'ha già
+  // per questo non ha lo stesso problema.
+  width: 100%;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  // Il carosello ora è solo mobile (desktop usa lo schema hero della home):
+  // formato verticale, più clemente col ritaglio "cover" anche per immagini
+  // non fotografiche (cartine, grafiche) rispetto a un 16:9 largo.
+  aspect-ratio: 4 / 5;
+  min-height: 380px;
+  max-height: 560px;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+.destination-carousel-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 1.5rem 2rem;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.88) 0%, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0) 100%);
+
+  h3, p {
+    color: $white;
+  }
+
+  p {
+    color: rgba($white, 0.9);
+    max-width: 640px;
+  }
+}
+
+.destination-carousel-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  border: none;
+  background: rgba($black, 0.45);
+  color: $white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.2s ease;
+
+  &:hover {
+    background: $color-primary;
+  }
+
+  &.prev {
+    left: 1rem;
+  }
+
+  &.next {
+    right: 1rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .destination-carousel-overlay {
+    padding: 1.25rem 1.5rem;
+  }
+}
+
+// Il paese è già la destinazione della pagina: il pin "paese" su ogni card
+// (post.html) è ridondante qui, va nascosto solo in questo contesto.
+.destination-page .card-meta li:has(.a-country) {
+  display: none;
+}

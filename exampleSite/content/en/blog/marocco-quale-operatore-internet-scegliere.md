@@ -88,7 +88,7 @@ In this video we tell you live what happened.
 ### Orange
 We haven't personally tried this carrier, which other travellers told us about, so we're reporting their experience here.
 
-{{< extLink "Orange" "orange.ma">}} doesn't offer unlimited internet plans, but it does have a great pay-as-you-go SIM at reasonable prices (about 0.50 euros per gigabyte). Also, **few people use Orange in the country**, so the network works pretty well without overload.
+{{< extLink "Orange" "https://orange.ma">}} doesn't offer unlimited internet plans, but it does have a great pay-as-you-go SIM at reasonable prices (about 0.50 euros per gigabyte). Also, **few people use Orange in the country**, so the network works pretty well without overload.
 
 Topping up the Orange SIM isn't the easiest, but you can find a few points of sale around the country.
 

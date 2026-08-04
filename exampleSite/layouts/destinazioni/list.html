@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+<section class="section-sm">
+  <div class="container">
+
+    <h1 class="h3 mb-4">{{ .Params.heading | default .Title }}</h1>
+
+    <div class="content mb-5">
+      {{ .Content }}
+    </div>
+
+    <div class="row g-4">
+      {{ range .Pages.ByTitle }}
+      {{ $dest := . }}
+      {{ $heading := $dest.Params.heading | default $dest.Title }}
+      <div class="col-md-6">
+        <div class="card h-100">
+          {{ with $dest.Params.image }}
+          <a href="{{ $dest.RelPermalink }}" class="d-block">
+            <div class="image-container" style="position:relative; aspect-ratio:16/9; overflow:hidden; border-radius: 0.5rem 0.5rem 0 0;">
+              <img src="{{ . }}" alt="{{ $heading }}" class="img-fluid w-100 h-100" style="object-fit:cover;" loading="lazy">
+            </div>
+          </a>
+          {{ end }}
+          <div class="card-body">
+            <h3 class="h5 mb-2">
+              <a class="title-linked" href="{{ $dest.RelPermalink }}">{{ $heading }}</a>
+            </h3>
+            <p class="card-text mb-0">{{ $dest.Description }}</p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+
+  </div>
+</section>
+
+{{ end }}

@@ -87,7 +87,7 @@ In questo video raccontiamo live cosa è successo.
 ### Orange
 Non abbiamo provato personalmente questo operatore del quale ci hanno parlato altri viaggiatori e riportiamo quindi la loro esperienza.
 
-{{< extLink "Orange" "orange.ma">}} non offre piani con internet illimitato, ma un'ottima SIM ricarcabile a prezzi ragionevoli (circa 0.50 euro al giga). Inoltre **poche persone usano Orange nel paese** e quindi la rete funziona abbastanza bene senza sovraccarico.
+{{< extLink "Orange" "https://orange.ma">}} non offre piani con internet illimitato, ma un'ottima SIM ricarcabile a prezzi ragionevoli (circa 0.50 euro al giga). Inoltre **poche persone usano Orange nel paese** e quindi la rete funziona abbastanza bene senza sovraccarico.
 
 Non è facilissimo ricaricare la SIM orange ma si riescono a trovare alcuni punti vendita nel paese.
 

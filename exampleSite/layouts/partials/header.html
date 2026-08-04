@@ -7,6 +7,14 @@
        davvero un articolo, e non serve più tenerlo allineato a mano. Ripulisce spazi
        superflui ed esclude valori vuoti o "Mondo" (post non legati a una destinazione). */}}
   {{ $destPages := where (where site.RegularPages "Params.country" "!=" nil) "Params.continent" "!=" nil }}
+  {{/* data/destinations.yaml decide, per paese e per lingua (le stringhe paese non sono
+       condivise tra it/en, es. "Giappone" vs "Japan"), se il link va a una pagina hub
+       dedicata (paese sopra soglia di contenuto) o all'archivio della macro-categoria
+       corrispondente (fallback per tutti gli altri, non è un mapping 1:1 dal continente:
+       es. Slovenia/Kosovo/Croazia stanno in "Balcani in Camper", non "Europa in Camper").
+       Un paese non ancora presente nel data file ricade sulla vecchia pagina di ricerca,
+       come rete di sicurezza contro link rotti silenziosi. */}}
+  {{ $destData := index hugo.Data.destinations site.Language.Lang }}
   {{ $continentNames := slice }}
   {{ range $destPages }}
     {{ $c := trim .Params.continent " " }}
@@ -26,7 +34,22 @@
         {{ $countryNames = $countryNames | append $country }}
       {{ end }}
     {{ end }}
-    {{ $destTree = $destTree | append (dict "name" $continent "countries" (sort $countryNames)) }}
+    {{ $countryNames = sort $countryNames }}
+    {{ $countries := slice }}
+    {{ range $countryNames }}
+      {{ $country := . }}
+      {{ $entry := index $destData $country }}
+      {{ $href := printf "search/?s=%s" $country }}
+      {{ if $entry }}
+        {{ if $entry.hub }}
+          {{ $href = printf "destinazioni/%s/" $entry.hub }}
+        {{ else if $entry.fallback_category_slug }}
+          {{ $href = printf "categories/%s/" $entry.fallback_category_slug }}
+        {{ end }}
+      {{ end }}
+      {{ $countries = $countries | append (dict "name" $country "href" $href) }}
+    {{ end }}
+    {{ $destTree = $destTree | append (dict "name" $continent "countries" $countries) }}
   {{ end }}
 
   <div class="container">
@@ -84,12 +107,12 @@
                           <div class="row">
                             <div class="col-6">
                               {{ range first 9 .countries }}
-                              <a class="dropdown-item" href="{{ printf `search/?s=%s` . | relLangURL }}">{{ . }}</a>
+                              <a class="dropdown-item" href="{{ .href | relLangURL }}">{{ .name }}</a>
                               {{ end }}
                             </div>
                             <div class="col-6">
                               {{ range after 9 .countries }}
-                              <a class="dropdown-item" href="{{ printf `search/?s=%s` . | relLangURL }}">{{ . }}</a>
+                              <a class="dropdown-item" href="{{ .href | relLangURL }}">{{ .name }}</a>
                               {{ end }}
                             </div>
                           </div>
@@ -99,7 +122,7 @@
                         <div class="col-md-3">
                           <div class="dropdown-header fw-bold text-primary">{{ .name }}</div>
                           {{ range .countries }}
-                          <a class="dropdown-item" href="{{ printf `search/?s=%s` . | relLangURL }}">{{ . }}</a>
+                          <a class="dropdown-item" href="{{ .href | relLangURL }}">{{ .name }}</a>
                           {{ end }}
                         </div>
                         {{ end }}
@@ -208,7 +231,7 @@
                 <div class="dropdown-header fw-bold text-secondary ps-3">{{ .name }}</div>
                 {{ range .countries }}
                 <!-- Paese -->
-                <a class="nav-link ps-5 py-1" href="{{ printf `search/?s=%s` . | relLangURL }}">{{ . }}</a>
+                <a class="nav-link ps-5 py-1" href="{{ .href | relLangURL }}">{{ .name }}</a>
                 {{ end }}
                 {{ end }}
               </li>

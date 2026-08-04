@@ -323,3 +323,42 @@ other = "Or on"
 
 [contact_social]
 other = "Social"
+
+[home_h1]
+other = "Exploring the world by campervan, one kilometre at a time"
+
+[destinations_breadcrumb_root]
+other = "Destinations"
+
+[destinations_stats_heading]
+other = "By the numbers"
+
+[destinations_featured_heading]
+other = "Recommended itineraries and guides"
+
+[destinations_category_itinerari]
+other = "Itineraries"
+
+[destinations_category_guide]
+other = "Campervan Tips & Life"
+
+[destinations_carousel_prev]
+other = "Previous slide"
+
+[destinations_carousel_next]
+other = "Next slide"
+
+[destinations_stat_articles]
+other = "articles"
+
+[destinations_stat_km]
+other = "km travelled"
+
+[destinations_stat_months]
+other = "months on the road"
+
+[destinations_stat_regions]
+other = "regions visited"
+
+[destinations_filter_all]
+other = "All"
