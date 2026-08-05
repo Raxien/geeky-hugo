@@ -3,7 +3,7 @@ title: 'Tortilla de patatas spagnola: scoprila insieme a noi'
 description: "Hai mai assaggiato la tortilla di patate? Nel nostro viaggio in Spagna non potevamo non mangiarne.. più di una!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094778/Articoli/tortilla/IMG_4634_itmojb.jpg
 date: 2023-07-14T17:00:00.000
-categories: ["Europa in Camper"]
+categories: ["Europa in Camper", "Cibo"]
 continent: Europa
 country: Spagna
 type: regular

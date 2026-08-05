@@ -3,7 +3,7 @@ title: 'Viaggiare in Camper: Le Migliori Applicazioni'
 description: 'Scopri le app indispensabili per viaggiare in camper: da Google Maps a Park4Night, organizza la tua avventura on the road con facilità.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1657879625/Articoli/app_camper_drffxr.jpg
 date: 2025-01-15T09:18:00.000+01:00
-categories: ["Vita in Camper e Consigli Pratici"]
+categories: ["Guide pratiche"]
 type: regular
 ---
 

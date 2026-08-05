@@ -4,7 +4,7 @@ slug: south-korea-visa-documents-guide
 description: 'Everything you need to know about documents, visas and requirements for entering South Korea. From passport validity to K-ETA, from the international driving permit to health insurance, this guide walks you step by step to a hassle-free trip.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Corea/Seoul/palazzo-reale-esterno_jbfkw1.jpg
 date: 2025-04-13T7:00:00+01:00
-categories: ["South Korea by Campervan"]
+categories: ["South Korea by Campervan", "Practical Guides"]
 type: regular  
 continent: Asia
 country: South Korea 

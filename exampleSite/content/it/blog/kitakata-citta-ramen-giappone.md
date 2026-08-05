@@ -3,7 +3,7 @@ title: 'Kitakata: la città dei ramen, uno dei tre più famosi del Giappone'
 description: 'Scopri Kitakata, la capitale dei ramen nel Giappone. 100 ristoranti per 50.000 abitanti, brodo di maiale e sardine, storia e consigli di viaggio.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1761035772/articoli/viaggi/Copia di Nero Minimalista Viaggio Miniatura YouTube (1)-bsubi2q6.png
 date: 2025-10-23T08:00:00+02:00
-categories: ["Giappone in Camper"]
+categories: ["Giappone in Camper", "Cibo"]
 continent: Asia
 country: Giappone
 type: featured

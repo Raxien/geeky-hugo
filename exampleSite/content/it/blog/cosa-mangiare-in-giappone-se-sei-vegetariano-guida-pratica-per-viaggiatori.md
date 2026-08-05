@@ -3,7 +3,7 @@ title: 'Cosa mangiare in Giappone se sei vegetariano: guida pratica per viaggiat
 description: 'Scopri come viaggiare in Giappone da vegetariano: guida ai piatti senza carne o pesce, come evitare il dashi, ristoranti veg-friendly e frasi utili in giapponese. Perfetto per Tokyo, Kyoto e Osaka!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1754557336/Articoli/Giappone/guida-giappone-per-vegetariani_cuz5y5.png
 date: 2025-08-06T07:00:00+01:00
-categories: ["Giappone in Camper"]
+categories: ["Giappone in Camper", "Cibo"]
 language: it
 type: featured
 continent: Asia

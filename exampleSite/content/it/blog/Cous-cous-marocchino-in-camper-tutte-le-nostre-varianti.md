@@ -3,7 +3,7 @@ title: "Cous cous marocchino in camper: tutte le nostre varianti"
 description: "Prendendo spunto dalla tradizione marocchina abbiamo preparato il cous cous a bordo del camper e con un po’ di fantasia abbiamo abbinato tantissimi ingredienti per variare in ogni stagione"
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1690547026/Articoli/Cibo/cous-cous-marocco_bq4q58.jpg"
 date: 2023-09-04T10:00:00Z
-categories: ["Marocco in Camper"]
+categories: ["Marocco in Camper", "Cibo"]
 continent: Africa
 country: Marocco
 type: featured

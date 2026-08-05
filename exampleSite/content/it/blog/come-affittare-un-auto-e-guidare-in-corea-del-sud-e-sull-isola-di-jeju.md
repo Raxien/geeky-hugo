@@ -3,7 +3,7 @@ title: 'Come affittare un''auto e guidare in Corea del Sud (e sull''isola di Jej
 description: 'Scopri le Michi no Eki, aree di sosta gratuite per camper in Giappone. Servizi 24h, prodotti locali e un tuffo nel Giappone autentico. Viaggia on the road!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713007643/Articoli/Corea/regole-per-guidare-in-corea_gifxqd.jpg
 date: 2025-05-17T7:00:00+01:00
-categories: ["Corea del Sud in Camper"]
+categories: ["Corea del Sud in Camper", "Guide pratiche"]
 language: it
 type: regular   
 continent: Asia

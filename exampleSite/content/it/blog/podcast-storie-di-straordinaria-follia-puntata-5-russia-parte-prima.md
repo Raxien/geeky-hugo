@@ -3,7 +3,7 @@ title: 'Storie di straordinaria follia: Prima puntata dalla Russia'
 description: 'Storie di straordinaria follia: un podcast che parla di vita vera. Oggi vi portiamo alla scopera della Russia'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1716102319/Articoli/Blog/podcast-5_wwnrqb.png
 date: 2024-10-20T7:00:00+01:00
-categories: ["Russia in Camper"]
+categories: ["Russia in Camper", "Interviste e Storie di Viaggio"]
 type: featured  
 country: Russia
 draft: false

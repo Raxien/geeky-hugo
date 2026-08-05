@@ -3,7 +3,7 @@ title: 'Tonno di Oma: il re dei mari del Giappone tra pesca tradizionale e auten
 description: 'Scopri Oma e il celebre tonno rosso Oma Maguro nel nord del Giappone. Pesca tradizionale, aste del pesce, ristoranti autentici e la vera cultura marina giapponese.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1761038272/articoli/viaggi/Copia di Nero Minimalista Viaggio Miniatura YouTube (2)-33lvqdk3.png
 date: 2025-10-25T08:00:00+02:00
-categories: ["Giappone in Camper"]
+categories: ["Giappone in Camper", "Cibo"]
 continent: Asia
 country: Giappone
 type: featured

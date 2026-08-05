@@ -3,7 +3,7 @@ title: 'Storie di straordinaria follia: il Kurdistan Iracheno'
 description: 'Storie di straordinaria follia: un podcast che parla di vita vera. Oggi vi portiamo alla scopera dell''Iraq, o meglio Kurdistan Iracheno' 
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1716102319/Articoli/Blog/podcast-2_krdirq.png
 date: 2024-05-29T7:00:00+01:00
-categories: ["Iraq in Camper"]
+categories: ["Iraq in Camper", "Interviste e Storie di Viaggio"]
 type: featured  
 country: Iraq
 draft: false

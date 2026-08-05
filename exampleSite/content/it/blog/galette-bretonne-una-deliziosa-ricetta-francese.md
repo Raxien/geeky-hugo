@@ -3,7 +3,7 @@ title: "La Galette bretonne: una deliziosa ricetta francese"
 description: "Simile a una crepe, la galette francese ci ha conquistati al primo assaggio!"
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094771/Articoli/empanada/IMG_9897_doklnq.jpg"
 date: 2023-07-16T10:00:00Z
-categories: ["Europa in Camper"]
+categories: ["Europa in Camper", "Cibo"]
 continent: Europa
 country: Francia
 type: featured

@@ -4,7 +4,7 @@ slug: best-pizza-in-morocco
 description: Are you in Morocco and craving pizza? Here are 4 places in Morocco where you'll be truly satisfied!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1685384737/IMG_2577_lxtqoc.jpg
 date: 2023-05-27T10:00:00+01:00
-categories: ["Morocco by Campervan"]
+categories: ["Morocco by Campervan", "Food"]
 continent: Africa
 country: Morocco
 type: regular

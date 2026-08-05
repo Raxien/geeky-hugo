@@ -3,7 +3,7 @@ title: 'Un dolce speciale: la torta Leonardo'
 description: "La storia di una torta speciale per un evento speciale"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
 date: 2023-09-23T08:00:00.000
-categories: ["Diario di Bordo"]
+categories: ["Cibo"]
 type: featured
 draft: false    
 ---

@@ -3,7 +3,7 @@ title: "Pain au Chocolat o Chocolatine..? Per noi il fagottino al cioccolato è 
 description: "Che differenza c'è fra Pain au Chocolat e Chocolatine? Scoprilo con noi!"
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1688826166/Articoli/Cibo/pain-au-chocolat_kuar6y.jpg"
 date: 2023-07-07T10:00:00Z
-categories: ["Europa in Camper"]
+categories: ["Europa in Camper", "Cibo"]
 continent: Europa
 country: Francia
 type: featured

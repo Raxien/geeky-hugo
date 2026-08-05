@@ -4,7 +4,7 @@ slug: japan-visa-guide-2025
 description: "Discover all the visas available to Italian citizens for Japan: tourist, digital nomad, working holiday and designated activities. Information on requirements, duration and how to extend your stay beyond 90 days."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1759902311/Articoli/Giappone/guida-visti-giappone-2025_to0hpq.png
 date: 2025-10-06T10:00:00+01:00
-categories: ["Japan by Campervan"]
+categories: ["Japan by Campervan", "Practical Guides"]
 continent: Asia
 country: Japan
 type: regular

@@ -4,7 +4,7 @@ slug: how-to-reach-jeju-island-ferry-and-flight-guide
 description: "Discover how to reach Jeju from South Korea: all the available ferries, low-cost flights, costs for campervans and foreign vehicles. A guide based on first-hand experience"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1760163683/Articoli/Corea/guida-traghetti-jeju_wrhgfk.png
 date: 2025-10-10T10:00:00.000
-categories: ["South Korea by Campervan"]
+categories: ["South Korea by Campervan", "Practical Guides"]
 continent: Asia
 country: South Korea
 type: regular

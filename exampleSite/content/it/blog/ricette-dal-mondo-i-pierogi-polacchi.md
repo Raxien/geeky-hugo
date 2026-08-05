@@ -3,7 +3,7 @@ title: 'Ricette dal mondo: i Pierogi polacchi'
 description: Quando siamo arrivati in Polonia abbiamo avuto il piacere di assaggiare i pierogi, tipici ravioli, nella versione salata.. e dolce! Siediti, abbiamo aggiunto un posto a tavola!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689676111/Articoli/empanada/madrid/cordoba/Pierogi_z_mas%C5%82em_-_2023.03.31_kl1rw7.jpg
 date: 2023-07-26T10:00:00+01:00
-categories: ["Europa in Camper"]
+categories: ["Europa in Camper", "Cibo"]
 continent: Europa
 country: Polonia
 type: regular
