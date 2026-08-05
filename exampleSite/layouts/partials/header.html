@@ -7,14 +7,19 @@
        davvero un articolo, e non serve più tenerlo allineato a mano. Ripulisce spazi
        superflui ed esclude valori vuoti o "Mondo" (post non legati a una destinazione). */}}
   {{ $destPages := where (where site.RegularPages "Params.country" "!=" nil) "Params.continent" "!=" nil }}
-  {{/* data/destinations.yaml decide, per paese e per lingua (le stringhe paese non sono
-       condivise tra it/en, es. "Giappone" vs "Japan"), se il link va a una pagina hub
-       dedicata (paese sopra soglia di contenuto) o all'archivio della macro-categoria
-       corrispondente (fallback per tutti gli altri, non è un mapping 1:1 dal continente:
-       es. Slovenia/Kosovo/Croazia stanno in "Balcani in Camper", non "Europa in Camper").
+  {{/* data/destinations.yaml mappa, per paese e per lingua (le stringhe paese non sono
+       condivise tra it/en, es. "Giappone" vs "Japan"), lo slug hub candidato e la
+       macro-categoria di fallback (non è un mapping 1:1 dal continente: es.
+       Slovenia/Kosovo/Croazia stanno in "Balcani in Camper", non "Europa in Camper").
+       La PROMOZIONE a hub però non è un flag statico nello yaml: è calcolata qui,
+       live, in base al numero di articoli pubblicati per quel paese in questa lingua.
+       Superata la soglia (e solo se il content file dell'hub esiste davvero, altrimenti
+       niente link rotto) il paese passa automaticamente da categoria a hub dedicato,
+       senza dover più editare questo file a mano ogni volta che un paese cresce.
        Un paese non ancora presente nel data file ricade sulla vecchia pagina di ricerca,
        come rete di sicurezza contro link rotti silenziosi. */}}
   {{ $destData := index hugo.Data.destinations site.Language.Lang }}
+  {{ $hubThreshold := 5 }}
   {{ $continentNames := slice }}
   {{ range $destPages }}
     {{ $c := trim .Params.continent " " }}
@@ -41,7 +46,20 @@
       {{ $entry := index $destData $country }}
       {{ $href := printf "search/?s=%s" $country }}
       {{ if $entry }}
+        {{/* Conteggio con lo stesso trim usato per derivare $country sopra:
+             confrontare contro il valore grezzo di Params.country rischiava
+             di sotto-contare i post con spazi superflui nel front matter. */}}
+        {{ $countryCount := 0 }}
+        {{ range $destPages }}
+          {{ if eq (trim .Params.country " ") $country }}
+            {{ $countryCount = add $countryCount 1 }}
+          {{ end }}
+        {{ end }}
+        {{ $hubPage := "" }}
         {{ if $entry.hub }}
+          {{ $hubPage = site.GetPage (printf "destinazioni/%s" $entry.hub) }}
+        {{ end }}
+        {{ if and $entry.hub $hubPage (gt $countryCount $hubThreshold) }}
           {{ $href = printf "destinazioni/%s/" $entry.hub }}
         {{ else if $entry.fallback_category_slug }}
           {{ $href = printf "categories/%s/" $entry.fallback_category_slug }}

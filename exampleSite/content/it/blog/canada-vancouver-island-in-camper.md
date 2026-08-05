@@ -116,6 +116,8 @@ Da vedere:
 
 Attenzione: l'accesso al parco è a pagamento e gli animali domestici non sono ammessi.
 
+{{< carousel images="articoli/viaggi/articoli/viaggi/vancouver-island-lago-aereo-kxqy5nu1,articoli/viaggi/articoli/viaggi/vancouver-island-lago-von9lql5,articoli/viaggi/articoli/viaggi/vancouver-island-strada-56oplkha,articoli/viaggi/articoli/viaggi/vancouver-island-surfisti-krmurlfq,articoli/viaggi/articoli/viaggi/vancouver-island-tofino-0kulgdaa" >}}
+
 ## Quanto tempo serve per visitare Vancouver Island?
 
 Secondo noi almeno:
@@ -153,6 +155,8 @@ Per questo motivo è consigliato:
 - prenotare con anticipo, soprattutto nei weekend
 - pianificare almeno le tappe principali
 - avere sempre un'alternativa
+
+{{< leggi-anche url="/blog/camper-le-applicazioni-da-avere-per-viaggiare" >}}
 
 ## Un viaggio semplice, ma da organizzare
 

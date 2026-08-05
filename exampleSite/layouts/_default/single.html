@@ -57,15 +57,17 @@
           {{ end }}
           <ul class="list-inline card-badge">
             {{ range .Params.categories }}
+            {{ $catHref := partial "category-link.html" . }}
             <li class="list-inline-item">
-              <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary py-1">{{. | title}}</a>
+              <a href="{{ $catHref | relLangURL }}" class="badge badge-primary py-1">{{. | title}}</a>
             </li>
             {{ end }}
           </ul>
         </div>
         {{ else }}
         {{ range .Params.categories }}
-        <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary mb-4 d-inline-block">{{. | title}}</a>
+        {{ $catHref := partial "category-link.html" . }}
+        <a href="{{ $catHref | relLangURL }}" class="badge badge-primary mb-4 d-inline-block">{{. | title}}</a>
         {{ end }}
         {{ end }}
         <h1 class="mb-4 h4-mobile">{{.Title | markdownify}}</h1>
@@ -78,7 +80,7 @@
       <li class="list-inline-item d-flex align-items-center">
         <i class="fas fa-map-pin me-2"></i>
         {{ $country := .Params.country}}
-        {{ $link:= add "search/?s=" $country }}
+        {{ $link := partial "destination-link.html" $country }}
         <a class="a-country" href="{{$link | relLangURL}}">{{.Params.country | title}}</a>
       </li>
       {{end}}

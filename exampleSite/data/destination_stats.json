@@ -3,5 +3,50 @@
     "km": "22.000",
     "months": 15,
     "regions": "44/47"
+  },
+  "turchia": {
+    "km": 4.000,
+    "months": 4,
+    "regions": "7/7"
+  },
+  "corea-del-sud": {
+    "km": 6.000,
+    "months": 6,
+    "regions": "9/9"
+  },
+  "georgia": {
+    "km": null,
+    "months": 3,
+    "regions": "9/9"
+  },
+  "spagna": {
+    "km": null,
+    "months": 2,
+    "regions": null
+  },
+  "russia": {
+    "km": "+15.000",
+    "months": 3,
+    "regions": null
+  },
+  "marocco": {
+    "km": 8.000,
+    "months": 4,
+    "regions": "12/12"
+  },
+  "portogallo": {
+    "km": 2.000,
+    "months": 1,
+    "regions": null
+  },
+  "italia": {
+    "km": null,
+    "months": null,
+    "regions": null
+  },
+  "iraq": {
+    "km": 1.000,
+    "months": 1,
+    "regions": null
   }
 }

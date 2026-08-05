@@ -1,0 +1,29 @@
+{{/* Restituisce l'href corretto per il tag/pin di un paese sotto un articolo
+     (post.html, post-featured.html): l'hub dedicato se il paese lo ha e supera
+     la soglia di contenuto, altrimenti la vecchia pagina di ricerca. Stessa
+     regola di promozione già usata in header.html per il menu Destinazioni,
+     centralizzata qui per non duplicarla su più file.
+     Input: la stringa Params.country della pagina corrente. */}}
+{{ $country := . }}
+{{ $href := printf "search/?s=%s" $country }}
+{{ if $country }}
+  {{ $destData := index hugo.Data.destinations site.Language.Lang }}
+  {{ $entry := index $destData $country }}
+  {{ if $entry }}
+    {{ $hubThreshold := 5 }}
+    {{ $countryCount := 0 }}
+    {{ range site.RegularPages }}
+      {{ if and .Params.country (eq (trim .Params.country " ") $country) }}
+        {{ $countryCount = add $countryCount 1 }}
+      {{ end }}
+    {{ end }}
+    {{ $hubPage := "" }}
+    {{ if $entry.hub }}
+      {{ $hubPage = site.GetPage (printf "destinazioni/%s" $entry.hub) }}
+    {{ end }}
+    {{ if and $entry.hub $hubPage (gt $countryCount $hubThreshold) }}
+      {{ $href = printf "destinazioni/%s/" $entry.hub }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return $href }}

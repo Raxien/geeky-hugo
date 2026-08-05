@@ -1,0 +1,26 @@
+{{/* Restituisce l'href per un badge categoria: l'hub dedicato se questa
+     categoria è associata in modo ESCLUSIVO a un solo paese che supera la
+     soglia (stessa regola di partials/destination-link.html), altrimenti il
+     normale archivio categoria. Alcune macro-categorie sono condivise da più
+     paesi (es. "Europa in Camper", "Balcani in Camper", "Georgia e Caucaso
+     in Camper" include anche l'Armenia): in quei casi reindirizzare a un
+     solo paese perderebbe gli altri, quindi resta l'archivio.
+     Input: la stringa della categoria (es. "Giappone in Camper"). */}}
+{{ $categoryName := . }}
+{{ $categorySlug := $categoryName | lower | urlize }}
+{{ $href := printf "categories/%s/" $categorySlug }}
+{{ $destData := index hugo.Data.destinations site.Language.Lang }}
+{{ $matchingCountries := slice }}
+{{ range $country, $entry := $destData }}
+  {{ if eq $entry.fallback_category_slug $categorySlug }}
+    {{ $matchingCountries = $matchingCountries | append $country }}
+  {{ end }}
+{{ end }}
+{{ if eq (len $matchingCountries) 1 }}
+  {{ $country := index $matchingCountries 0 }}
+  {{ $countryHref := partial "destination-link.html" $country }}
+  {{ if not (hasPrefix $countryHref "search/") }}
+    {{ $href = $countryHref }}
+  {{ end }}
+{{ end }}
+{{ return $href }}

@@ -52,8 +52,9 @@
     {{ end }}
     <ul class="list-inline card-badge">
       {{ range .Params.categories }}
+      {{ $catHref := partial "category-link.html" . }}
       <li class="list-inline-item">
-        <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary py-1">{{. | title}}</a>
+        <a href="{{ $catHref | relLangURL }}" class="badge badge-primary py-1">{{. | title}}</a>
       </li>
       {{ end }}
     </ul>
@@ -61,7 +62,8 @@
   {{ else }}
   <div class="mb-4">
     {{ range .Params.categories }}
-    <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary d-inline-block">{{. | title}}</a>
+    {{ $catHref := partial "category-link.html" . }}
+    <a href="{{ $catHref | relLangURL }}" class="badge badge-primary d-inline-block">{{. | title}}</a>
     {{ end }}
   </div>
   {{ end }}
@@ -78,7 +80,10 @@
       <li class="list-inline-item d-flex align-items-center">
         <i class="fas fa-map-pin me-2"></i>
         {{ $country := .Params.country}}
-        {{ $link:= add "search/?s=" $country }}
+        {{/* Punta all'hub dedicato se il paese lo ha e supera la soglia di
+             contenuto, altrimenti resta sulla pagina di ricerca (vedi
+             partials/destination-link.html, stessa regola del menu). */}}
+        {{ $link := partial "destination-link.html" $country }}
         <a class="a-country" href="{{$link | relLangURL}}">{{.Params.country | title}}</a>
       </li>
       {{end}}

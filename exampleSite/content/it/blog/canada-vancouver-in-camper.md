@@ -96,6 +96,6 @@ Vancouver non è stata solo la prima città canadese che abbiamo visto. È stata
 
 Forse il suo fascino è proprio questo: non devi scegliere tra città e natura. Qui convivono entrambe.
 
-Dopo la città, la nostra rotta ci ha portati sull'acqua: leggi anche il nostro itinerario a [Vancouver Island in camper](#), tra Victoria, foreste millenarie e oceano Pacifico.
+Dopo la città, la nostra rotta ci ha portati sull'acqua: leggi anche il nostro itinerario a [Vancouver Island in camper](/blog/vancouver-island-in-camper/), tra Victoria, foreste millenarie e oceano Pacifico.
 
 Il viaggio continua.

@@ -3,10 +3,13 @@
 # (Params.country: "Giappone" vs "Japan"), non essendo "country" una vera
 # taxonomy Hugo (solo un campo di front matter).
 #
-# hub: presente solo per i paesi promossi a pagina hub dedicata
+# hub: slug candidato per la pagina hub dedicata
 #   (content/<lang>/destinazioni/<hub>.md + layouts/destinazioni/single.html).
-#   Aggiungere un paese qui è l'intero meccanismo di promozione: nessuna
-#   modifica ai template è necessaria oltre a creare il relativo content file.
+#   Non è più un flag "promosso": header.html decide dal vivo se linkare
+#   l'hub o il fallback categoria in base al numero di articoli pubblicati
+#   per quel paese in questa lingua (soglia >5, vedi $hubThreshold), e solo
+#   se il content file esiste davvero. Un paese può quindi comparire qui
+#   pronto per quando supererà la soglia, senza ancora essere linkato.
 # fallback_category_slug: slug esatto della macro-categoria consolidata
 #   (/categories/<slug>/) usata come destinazione per tutti i paesi senza hub.
 #   Non deriva dal continente: alcuni paesi europei (Balcani) hanno una
@@ -19,18 +22,24 @@ it:
   Canada:
     fallback_category_slug: nord-america-in-camper
   Corea del Sud:
+    hub: corea-del-sud
     fallback_category_slug: corea-del-sud-in-camper
   Marocco:
+    hub: marocco
     fallback_category_slug: marocco-in-camper
   Turchia:
+    hub: turchia
     fallback_category_slug: turchia-in-camper
   Georgia:
+    hub: georgia
     fallback_category_slug: georgia-e-caucaso-in-camper
   Armenia:
     fallback_category_slug: georgia-e-caucaso-in-camper
   Russia:
+    hub: russia
     fallback_category_slug: russia-in-camper
   Iraq:
+    hub: iraq
     fallback_category_slug: iraq-in-camper
   Senegal:
     fallback_category_slug: africa-in-camper
@@ -49,12 +58,15 @@ it:
   Slovenia:
     fallback_category_slug: balcani-in-camper
   Italia:
+    hub: italia
     fallback_category_slug: europa-in-camper
   Francia:
     fallback_category_slug: europa-in-camper
   Spagna:
+    hub: spagna
     fallback_category_slug: europa-in-camper
   Portogallo:
+    hub: portogallo
     fallback_category_slug: europa-in-camper
   Polonia:
     fallback_category_slug: europa-in-camper
@@ -78,6 +90,7 @@ en:
   South Korea:
     fallback_category_slug: south-korea-by-campervan
   Morocco:
+    hub: marocco
     fallback_category_slug: morocco-by-campervan
   Turkey:
     fallback_category_slug: turkey-by-campervan
@@ -100,8 +113,10 @@ en:
   France:
     fallback_category_slug: europe-by-campervan
   Spain:
+    hub: spagna
     fallback_category_slug: europe-by-campervan
   Portugal:
+    hub: portogallo
     fallback_category_slug: europe-by-campervan
   Poland:
     fallback_category_slug: europe-by-campervan

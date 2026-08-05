@@ -43,7 +43,7 @@
               <li class="list-inline-item d-flex align-items-center">
                 <i class="fas fa-map-pin me-2"></i>
                 {{ $country := .Params.country}}
-                {{ $link:= add "search/?s=" $country }}
+                {{ $link := partial "destination-link.html" $country }}
                 <a class="a-country" href="{{$link | relLangURL}}">{{.Params.country | title}}</a>
               </li>
               {{end}}
@@ -97,7 +97,7 @@
               <li class="list-inline-item d-flex align-items-center">
                 <i class="fas fa-map-pin me-2"></i>
                 {{ $country := .Params.country}}
-                {{ $link:= add "search/?s=" $country }}
+                {{ $link := partial "destination-link.html" $country }}
                 <a class="a-country" href="{{$link | relLangURL}}">{{.Params.country | title}}</a>
               </li>
               {{end}}

@@ -229,15 +229,17 @@
     <!-- Il resto degli articoli, esclusi quelli già mostrati sopra. -->
     {{ $remainingPosts := where $countryPosts "RelPermalink" "not in" $usedPermalinks }}
 
-    <!-- Filtro per categoria/tema: calcolato su TUTTI gli articoli del
-         paese (non solo quelli rimasti fuori dal carosello), altrimenti una
-         categoria finita per intero nel carosello sparirebbe dai filtri
-         anche se in futuro arrivano altri articoli con quella categoria.
-         Client-side: legge le categorie già presenti tra i post di questo
-         paese e mostra/nasconde le card in base al testo badge già
+    <!-- Filtro per categoria/tema: calcolato solo sugli articoli rimasti
+         nella griglia sotto (non su tutti quelli del paese), altrimenti un
+         filtro le cui uniche card sono finite nel carosello sopra
+         risulterebbe cliccabile ma sempre vuoto. Se in futuro il carosello
+         cambia composizione o arrivano nuovi articoli, il filtro ricompare
+         da solo al prossimo build — non serve tenerlo visibile a vuoto nel
+         frattempo. Client-side: legge le categorie già presenti tra i post
+         mostrati e mostra/nasconde le card in base al testo badge già
          renderizzato da post.html — non tocca il partial condiviso. -->
     {{ $cats := slice }}
-    {{ range $countryPosts }}
+    {{ range $remainingPosts }}
       {{ range .Params.categories }}
         {{ if not (in $cats .) }}
           {{ $cats = $cats | append . }}
