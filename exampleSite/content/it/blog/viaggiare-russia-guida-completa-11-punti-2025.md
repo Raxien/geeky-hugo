@@ -1,5 +1,5 @@
 ---
-title: 'Viaggiare in Russia: guida completa in 11 punti (aggiornamento 2025)'
+title: 'Viaggiare in Russia: guida completa in 11 punti'
 description: "Scopri come pianificare il tuo viaggio in Russia nel 2024, con informazioni aggiornate su visti, ingressi, valuta, consigli e altro ancora."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1731636403/Articoli/Blog/russia-guida-completa_j8amvo.png
 date: 2025-01-02T10:00:00+01:00
