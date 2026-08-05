@@ -639,6 +639,43 @@ select {
   }
 }
 
+// Hero condiviso da trip/expenses/van (partials/page-hero.html): stesso
+// trattamento (immagine + maschera sfumata + titolo in overlay) della hero
+// destinazione sopra, ma aspect-ratio 16:9 fissa a ogni breakpoint — niente
+// crop verticale su mobile, per restare coerente con le immagini 16:9 usate
+// nei post invece di stonarci come faceva quella pagina.
+.page-hero {
+  position: relative;
+  overflow: hidden;
+}
+
+.page-hero-img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  min-height: 220px;
+  max-height: 480px;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+.page-hero-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: flex-end;
+  padding: 1.5rem 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0.4) 55%, rgba(0, 0, 0, 0) 100%);
+
+  h1 {
+    color: $white;
+  }
+}
+
 // Carosello "in evidenza" della pagina destinazione: 1 slide grande alla
 // volta, anche su desktop, stessa maschera sfumata dell'hero sopra.
 .destination-carousel {

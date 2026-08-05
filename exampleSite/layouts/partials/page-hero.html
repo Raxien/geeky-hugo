@@ -1,0 +1,34 @@
+<!-- Hero condiviso per le pagine "vetrina" (trip, expenses, van): stessa
+     immagine a piena larghezza con overlay sfumato e titolo in overlay della
+     pagina destinazione (vedi layouts/destinazioni/single.html), ma con
+     aspect-ratio fissa 16:9 a ogni breakpoint invece del crop verticale 4:5
+     che la pagina destinazione usa su mobile — qui stona con le immagini
+     16:9 dei post, quindi non lo riprendiamo. -->
+{{ $page := . }}
+{{ $imagePath := $page.Params.image }}
+{{ $heading := $page.Params.heading | default $page.Title }}
+{{ with $imagePath }}
+<section class="page-hero mb-5">
+  <div class="page-hero-img">
+    {{ if hasPrefix . "http" }}
+    <img src="{{ . | safeURL }}" alt="{{ $heading }}" loading="eager" fetchpriority="high">
+    {{ else if fileExists (add `assets/` .) }}
+    {{ $image := resources.Get . }}
+    {{ $imageXL := $image.Resize "1600x webp" }}
+    {{ $imageLG := $image.Resize "1200x webp" }}
+    {{ $imageMD := $image.Resize "800x webp" }}
+    <picture>
+      <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
+      <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 1200px)">
+      <source srcset="{{ $imageXL.RelPermalink }}">
+      <img src="{{ $imageXL.RelPermalink }}" alt="{{ $heading }}" loading="eager" fetchpriority="high">
+    </picture>
+    {{ end }}
+  </div>
+  <div class="page-hero-overlay">
+    <div class="container">
+      <h1 class="h2 mb-0">{{ $heading | markdownify }}</h1>
+    </div>
+  </div>
+</section>
+{{ end }}

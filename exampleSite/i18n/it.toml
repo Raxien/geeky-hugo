@@ -137,13 +137,7 @@ other = "Totale Spesa*"
 other = "Costo giornaliero*"
 
 [expenses_ferry_note]
-other = '<b>Nota:</b> Essendo un investimento che verrà ammortizzato in un anno <b>momentaneamente abbiamo escluso dai conteggi le navi</b>:'
-
-[expenses_ferry_route_1]
-other = "Russia (Vladivostok) -> Corea (Donghae)"
-
-[expenses_ferry_route_2]
-other = "Corea (Busan) <-> Giappone (Fukuoka)"
+other = '<b>Nota:</b> Essendo un investimento che verrà ammortizzato in svariati anni <b>abbiamo escluso dai conteggi il container da Giappone > Canada</b>.'
 
 [expenses_ferry_cost_suffix_prefix]
 other = "ammonta a"
@@ -156,6 +150,12 @@ other = "Per correttezza se tenessimo conto anche di questo costo la nostra spes
 
 [expenses_ferry_summary_and]
 other = "e quella giornaliera di"
+
+[expenses_ferries_heading]
+other = "Spese traghetti"
+
+[expenses_ferry_extra_prefix]
+other = "extra:"
 
 [expenses_category_heading]
 other = "Categoria"

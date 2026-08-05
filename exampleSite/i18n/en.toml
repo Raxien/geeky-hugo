@@ -137,13 +137,7 @@ other = "Total spend*"
 other = "Daily cost*"
 
 [expenses_ferry_note]
-other = "<b>Note:</b> since it's an investment amortised over a year, <b>we've temporarily excluded the ferries from the totals</b>:"
-
-[expenses_ferry_route_1]
-other = "Russia (Vladivostok) -> South Korea (Donghae)"
-
-[expenses_ferry_route_2]
-other = "South Korea (Busan) <-> Japan (Fukuoka)"
+other = "<b>Note:</b> since it's an investment amortised over several years, <b>we've excluded the container shipment from Japan to Canada from the totals</b>."
 
 [expenses_ferry_cost_suffix_prefix]
 other = "comes to"
@@ -156,6 +150,12 @@ other = "To be fair, if we also counted this cost our total spend would be"
 
 [expenses_ferry_summary_and]
 other = "and our daily cost"
+
+[expenses_ferries_heading]
+other = "Ferry costs"
+
+[expenses_ferry_extra_prefix]
+other = "extra:"
 
 [expenses_category_heading]
 other = "Category"

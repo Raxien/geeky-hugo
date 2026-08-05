@@ -416,6 +416,7 @@ async function preloadAllData() {
         { key: 'expenses', url: `${rpcUrl}/spese-api/getRiepilogo` },
         { key: 'category', url: `${rpcUrl}/spese-api/getPerCategoria` },
         { key: 'monthly', url: `${rpcUrl}/spese-api/getPerMese` },
+        { key: 'ferries', url: `${rpcUrl}/spese-api/getTraghetti` },
         { key: 'trip', url: `${rpcUrl}/data/trip` },
         { key: 'cities', url: `${rpcUrl}/data/ru_it` },
         { key: 'press', url: `${rpcUrl}/data/press` }
@@ -441,7 +442,7 @@ function implementLazyDataLoading() {
     const apiElementMap = [
         {
             selectors: ['#catergory', '#monthly'],
-            apis: ['category', 'monthly', 'expenses'],
+            apis: ['category', 'monthly', 'expenses', 'ferries'],
             description: 'Dati spese e grafici'
         },
         {
@@ -519,6 +520,7 @@ async function loadAPIGroup(apiKeys) {
         'expenses': () => fecthExpenseData(),
         'category': () => fecthChartCategoryData(),
         'monthly': () => fecthChartMonthlyData(),
+        'ferries': () => fecthFerriesData(),
         'trip': () => getTripData(),
         'cities': () => getCitiesData(),
         'press': () => getPressData()
@@ -638,6 +640,74 @@ async function fecthChartMonthlyData() {
     } catch (error) {
         console.error('Error fetching SW data:', error);
     }
+}
+
+// Lista traghetti (getTraghetti) dentro il box di riepilogo: fetch/cache + rendering.
+// L'endpoint può non essere ancora online: in quel caso la lista resta nascosta.
+async function fecthFerriesData() {
+    const cached = getCachedData('ferries');
+    if (cached) {
+        renderFerriesList(cached.json);
+        return cached;
+    }
+
+    try {
+        const response = await fetch(`${rpcUrl}/spese-api/getTraghetti`);
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const data = await response.json();
+        setCachedData('ferries', data);
+        renderFerriesList(data.json);
+        return data;
+    } catch (error) {
+        console.error('Error fetching ferries data:', error);
+    }
+}
+
+function renderFerriesList(ferries) {
+    const list = document.getElementById('ferryList');
+    if (!list || !ferries) return;
+
+    const { ferryCostSuffixPrefix, ferryCostSuffix, ferryExtraPrefix } = window.i18nStrings ?? {};
+
+    list.innerHTML = '';
+    Object.values(ferries).forEach(ferry => {
+        const li = document.createElement('li');
+        li.className = 'mb-2';
+        let html = `<b>${ferry.tratta}</b> (${ferry.tipo}) ${ferryCostSuffixPrefix} <b>${ferry.costo.toFixed(2)} ${ferryCostSuffix}</b>`;
+        if (ferry.extra) {
+            html += ` <span class="text-muted">(${ferryExtraPrefix} ${ferry.extra.costo.toFixed(2)} ${ferryCostSuffix} – ${ferry.extra.descrizione})</span>`;
+        }
+        li.innerHTML = html;
+        list.appendChild(li);
+    });
+
+    list.style.display = '';
+
+    // Il container Giappone -> Canada (unico ad essere escluso dai conteggi, vedi
+    // expenses_ferry_note) alimenta la nota "se lo includessimo anche noi..." più giù.
+    lastContainerFerryCost = Object.values(ferries)
+        .filter(ferry => ferry.tipo === 'Container')
+        .reduce((sum, ferry) => sum + ferry.costo + (ferry.extra?.costo ?? 0), 0);
+    updateFerryProjection();
+}
+
+// Stato condiviso tra riepilogo (getRiepilogo) e traghetti (getTraghetti): la nota
+// "se includessimo anche questo costo" ha bisogno di entrambi, e arrivano da due
+// fetch indipendenti che possono completarsi in ordine qualsiasi.
+let lastRiepilogo = null;
+let lastContainerFerryCost = null;
+
+function updateFerryProjection() {
+    if (!lastRiepilogo || lastContainerFerryCost === null) return;
+    const yearlyCostFerry = document.getElementById('yearlyCostFerry');
+    const dailyCostFerry = document.getElementById('dailyCostFerry');
+    if (!yearlyCostFerry || !dailyCostFerry) return;
+
+    const totalWithContainer = lastRiepilogo.totalCost + lastContainerFerryCost;
+    const dailyWithContainer = totalWithContainer / lastRiepilogo.tripDay;
+
+    yearlyCostFerry.innerText = `${totalWithContainer.toFixed(2)} €`;
+    dailyCostFerry.innerText = `${dailyWithContainer.toFixed(2)} € ${window.i18nStrings.perDaySuffix}`;
 }
 
 // Predisposto per le spese escluse (getEscluse): solo fetch/cache, nessuna UI collegata ancora
@@ -1508,24 +1578,23 @@ function incrementPageViews() {
 function processExpenseData(data) {
     updateUIElements({
         totalCost: data.totalCost,
-        totalCostWithoutFerry: data.totalCostWithoutFerry,
-        ferryCosts: data.ferryCosts,
         yearlyTotals: data.yearlyTotals,
         dailyCost: data.dailyCost,
-        dailyCostWithoutFerry: data.dailyCostWithoutFerry,
         diffDays: data.tripDay,
     });
+
+    // Il totale con il container Giappone -> Canada (nota sotto la lista traghetti)
+    // si calcola solo da qui: totalCost/tripDay arrivano da getRiepilogo così come sono.
+    lastRiepilogo = { totalCost: data.totalCost, tripDay: data.tripDay };
+    updateFerryProjection();
 }
 
-function updateUIElements({ totalCost, totalCostWithoutFerry, ferryCosts, yearlyTotals, dailyCost, dailyCostWithoutFerry, diffDays }) {
+function updateUIElements({ totalCost, yearlyTotals, dailyCost, diffDays }) {
     // Aggiorna solo se siamo nella pagina delle spese
     if (document.getElementById('travelingSumCost')) {
-        document.getElementById('travelingSumCost').innerText = `${totalCostWithoutFerry.toFixed(2)} €`;
-        document.getElementById('dailyCost').innerText = `${dailyCostWithoutFerry.toFixed(2)} €`;
-        document.getElementById('travelingSumCostFerry1').innerText = ferryCosts.ferry1.toFixed(2);
-        document.getElementById('travelingSumCostFerry2').innerText = ferryCosts.ferry2.toFixed(2);
-        document.getElementById('dailyCostFerry').innerText = `${dailyCost.toFixed(2)} € ${window.i18nStrings.perDaySuffix}`;
-        document.getElementById('yearlyCostFerry').innerText = `${totalCost.toFixed(2)} €`;
+        // Dati mostrati esattamente come arrivano da getRiepilogo, nessuna sottrazione.
+        document.getElementById('travelingSumCost').innerText = `${totalCost.toFixed(2)} €`;
+        document.getElementById('dailyCost').innerText = `${dailyCost.toFixed(2)} €`;
 
         const yearlyContainer = document.getElementById('yearlyCost');
         yearlyContainer.innerHTML = '';
