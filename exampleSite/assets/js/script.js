@@ -441,9 +441,15 @@ function implementLazyDataLoading() {
     // Mappa degli endpoint e degli elementi DOM che li richiedono
     const apiElementMap = [
         {
+            // Solo i grafici: sono in fondo alla pagina spese, ha senso ritardarli
+            // finché non stanno per entrare in viewport. 'expenses'/'ferries'
+            // NON stanno qui: alimentano il box "in breve" sempre visibile subito
+            // sotto l'hero, quindi si caricano da initExpensesPage() senza aspettare
+            // che l'utente scrolli fin quaggiù (su mobile la distanza è enorme:
+            // il riepilogo restava vuoto per un bel po').
             selectors: ['#catergory', '#monthly'],
-            apis: ['category', 'monthly', 'expenses', 'ferries'],
-            description: 'Dati spese e grafici'
+            apis: ['category', 'monthly'],
+            description: 'Grafici spese'
         },
         {
             selectors: ['#travelingStartDay', '#visitedCountry'],
@@ -1672,8 +1678,10 @@ function setChartMonthly(data) {
 function initExpensesPage() {
     if (!document.getElementById('catergory')) return;
 
-    // I dati verranno caricati automaticamente dal lazy loading quando necessario
-    console.log('Pagina spese inizializzata - lazy loading attivo');
+    // Box "in breve" + traghetti: visibili da subito (sono sopra i grafici),
+    // quindi si caricano appena la pagina è pronta invece di aspettare che
+    // l'utente scrolli fino ai grafici lazy più giù.
+    loadAPIGroup(['expenses', 'ferries']);
 }
 
 // Inizializza la pagina delle spese se siamo nella pagina corretta

@@ -3,7 +3,7 @@ title: 'I 5 migliori spot per camper nel mondo: le nostre scelte imperdibili'
 description: 'Scopri i 5 spot per camper più spettacolari che abbiamo visitato in giro per il mondo. Paesaggi mozzafiato, natura incontaminata e libertà on the road.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1760327346/articoli/viaggi/5-migliori-spot-mondo-nuaqytzf.png
 date: 2025-10-12T10:00:00+01:00
-categories: ["Vita in Camper e Consigli Pratici"]
+categories: ["Vita in Camper"]
 continent: Mondo
 type: featured
 draft: false 

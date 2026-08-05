@@ -3,7 +3,7 @@ title: 'Come organizzo la spesa in camper'
 description: Scopri come gestisco la spesa vivendo in camper con strategie pratiche, menu settimanale, prodotti locali e risparmio gas. Dalla pentola a pressione ai prodotti in scadenza!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1690377961/Articoli/Viaggio/cucina-attrezzi_gxutzz.jpg
 date: 2025-10-27T10:00:00+01:00
-categories: ["Vita in Camper e Consigli Pratici"]
+categories: ["Vita in Camper"]
 type: regular
 draft: false
 ---
