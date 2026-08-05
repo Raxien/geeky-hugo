@@ -413,9 +413,9 @@ function setCachedData(key, data) {
 // Funzione per precaricare tutti i dati necessari
 async function preloadAllData() {
     const endpoints = [
-        { key: 'expenses', url: `${rpcUrl}/sw/getSpeseAnno` },
-        { key: 'category', url: `${rpcUrl}/sw/getSpesePerCategoria` },
-        { key: 'monthly', url: `${rpcUrl}/sw/getSpesePerMese` },
+        { key: 'expenses', url: `${rpcUrl}/spese-api/getRiepilogo` },
+        { key: 'category', url: `${rpcUrl}/spese-api/getPerCategoria` },
+        { key: 'monthly', url: `${rpcUrl}/spese-api/getPerMese` },
         { key: 'trip', url: `${rpcUrl}/data/trip` },
         { key: 'cities', url: `${rpcUrl}/data/ru_it` },
         { key: 'press', url: `${rpcUrl}/data/press` }
@@ -466,13 +466,19 @@ function implementLazyDataLoading() {
         const elements = group.selectors.map(sel => document.querySelector(sel)).filter(el => el);
         
         if (elements.length > 0) {
+            // Evita che il gruppo venga caricato più volte se più elementi
+            // dello stesso gruppo diventano visibili nello stesso batch di entries
+            let groupLoaded = false;
+
             // Crea un observer per questo gruppo di elementi
             const observer = new IntersectionObserver((entries) => {
                 entries.forEach(entry => {
                     if (entry.isIntersecting && entry.intersectionRatio > 0.1) {
+                        observer.unobserve(entry.target);
+                        if (groupLoaded) return;
+                        groupLoaded = true;
                         console.log(`Caricamento lazy per: ${group.description}`);
                         loadAPIGroup(group.apis);
-                        observer.unobserve(entry.target);
                     }
                 });
             }, {
@@ -588,7 +594,7 @@ async function fecthExpenseData() {
     }
     
     try {
-        const response = await fetch(`${rpcUrl}/sw/getSpeseAnno`);
+        const response = await fetch(`${rpcUrl}/spese-api/getRiepilogo`);
         const data = await response.json();
         setCachedData('expenses', data);
         processExpenseData(data.json);
@@ -606,7 +612,7 @@ async function fecthChartCategoryData() {
     }
     
     try {
-        const response = await fetch(`${rpcUrl}/sw/getSpesePerCategoria`);
+        const response = await fetch(`${rpcUrl}/spese-api/getPerCategoria`);
         const data = await response.json();
         setCachedData('category', data);
         setChartCategory(data);
@@ -624,13 +630,28 @@ async function fecthChartMonthlyData() {
     }
     
     try {
-        const response = await fetch(`${rpcUrl}/sw/getSpesePerMese`);
+        const response = await fetch(`${rpcUrl}/spese-api/getPerMese`);
         const data = await response.json();
         setCachedData('monthly', data);
         setChartMonthly(data);
         return data;
     } catch (error) {
         console.error('Error fetching SW data:', error);
+    }
+}
+
+// Predisposto per le spese escluse (getEscluse): solo fetch/cache, nessuna UI collegata ancora
+async function fecthExcludedExpensesData() {
+    const cached = getCachedData('excluded');
+    if (cached) return cached;
+
+    try {
+        const response = await fetch(`${rpcUrl}/spese-api/getEscluse`);
+        const data = await response.json();
+        setCachedData('excluded', data);
+        return data;
+    } catch (error) {
+        console.error('Error fetching excluded expenses data:', error);
     }
 }
 
@@ -1524,8 +1545,10 @@ function updateUIElements({ totalCost, totalCostWithoutFerry, ferryCosts, yearly
 }
 
 function setChartCategory(data) {
-    const ctx = document.getElementById('catergory')?.getContext('2d');
-    if (!ctx) return;
+    const canvas = document.getElementById('catergory');
+    if (!canvas) return;
+    Chart.getChart(canvas)?.destroy();
+    const ctx = canvas.getContext('2d');
 
     const _labels = Object.keys(data.json);
     const _data = Object.values(data.json);
@@ -1546,8 +1569,10 @@ function setChartCategory(data) {
 }
 
 function setChartMonthly(data) {
-    const ctx2 = document.getElementById('monthly')?.getContext('2d');
-    if (!ctx2) return;
+    const canvas2 = document.getElementById('monthly');
+    if (!canvas2) return;
+    Chart.getChart(canvas2)?.destroy();
+    const ctx2 = canvas2.getContext('2d');
 
     const _labels2 = Object.keys(data.json);
     const _data2 = Object.values(data.json);
