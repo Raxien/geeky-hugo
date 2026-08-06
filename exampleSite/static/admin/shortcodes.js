@@ -149,3 +149,39 @@ CMS.registerEditorComponent({
   toBlock: (data) => `{{< carousel images="${(data.images || []).map((i) => i.id).join(',')}" >}}`,
   toPreview: (data) => `<div>🖼️ Galleria: ${(data.images || []).length} immagini</div>`,
 });
+
+// ---------------------------------------------------------------------------
+// indice — {{< indice >}}   (nessun parametro: genera da solo il sommario dai titoli ##-#####)
+// Il più usato in assoluto tra quelli non ancora coperti (117 articoli).
+// ---------------------------------------------------------------------------
+CMS.registerEditorComponent({
+  id: 'indice-shortcode',
+  label: '📑 Indice/sommario (shortcode)',
+  fields: [],
+  pattern: /^{{<\s*indice\s*>}}$/m,
+  fromBlock: () => ({}),
+  toBlock: () => `{{< indice >}}`,
+  toPreview: () => `<div>📑 Indice generato automaticamente dai titoli dell'articolo</div>`,
+});
+
+// ---------------------------------------------------------------------------
+// gmap — {{< gmap "url-embed" >}}  oppure {{< gmap "url-embed" "1" >}}
+// Il secondo argomento "1" aggiunge un paragrafo fisso di disclaimer sulle mappe (56 articoli).
+// ---------------------------------------------------------------------------
+CMS.registerEditorComponent({
+  id: 'gmap-shortcode',
+  label: '🗺️ Mappa Google (shortcode)',
+  fields: [
+    { name: 'url', label: 'URL embed (Google My Maps → Condividi → Incorpora mappa)', widget: 'string' },
+    {
+      name: 'note',
+      label: 'Aggiungi il paragrafo di disclaimer sugli spot (link download offline + avviso)',
+      widget: 'boolean',
+      default: false,
+    },
+  ],
+  pattern: /^{{<\s*gmap\s+"([^"]*)"(?:\s+"(1)")?\s*>}}$/m,
+  fromBlock: (match) => ({ url: match[1], note: match[2] === '1' }),
+  toBlock: (data) => `{{< gmap "${data.url || ''}"${data.note ? ' "1"' : ''} >}}`,
+  toPreview: (data) => `<div>🗺️ Mappa: <code>${data.url || ''}</code></div>`,
+});

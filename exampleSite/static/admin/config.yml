@@ -6,8 +6,10 @@
 #   1. Creare una GitHub OAuth App con callback verso Netlify e registrarne
 #      client id/secret nelle impostazioni del sito Netlify (Access control > OAuth).
 #      (Stesso identico meccanismo di Decap: Sveltia è compatibile con lo stesso proxy.)
-#   2. Sostituire CLOUD_NAME_DA_SOSTITUIRE e API_KEY_DA_SOSTITUIRE qui sotto con i
-#      valori del tuo account Cloudinary (nessun "upload preset" da creare).
+#   2. Sostituire API_KEY_DA_SOSTITUIRE qui sotto con l'API Key del tuo account
+#      Cloudinary (console.cloudinary.com, in alto nella dashboard — NON l'API Secret,
+#      quella non va mai messa qui). cloud_name è già impostato: compare in chiaro nelle
+#      URL immagine già presenti nel sito e in carousel.html, non è un dato segreto.
 # Senza questi due passi la pagina si carica ma il login e l'upload cover non funzionano.
 
 backend:
@@ -28,7 +30,7 @@ public_folder: '/uploads'
 media_library:
   name: cloudinary
   config:
-    cloud_name: CLOUD_NAME_DA_SOSTITUIRE
+    cloud_name: ilgattodicitturin
     api_key: API_KEY_DA_SOSTITUIRE
     output_filename_only: false
 
@@ -41,11 +43,12 @@ locale: 'it'
 
 collections:
   - name: 'blog_it'
-    label: 'Blog (Italiano)'
-    label_singular: 'Articolo'
+    label: '🇮🇹 Blog — Italiano'
+    label_singular: 'Nuovo articolo (IT)'
+    description: 'Articoli in italiano — content/it/blog. "Articolo" qui = lingua italiana, non un tipo di contenuto diverso da "Post" in Blog English.'
     folder: 'exampleSite/content/it/blog'
     create: true
-    slug: '{{slug}}'
+    slug: '{{slug}}' # nome file generato dal titolo — non è il campo "Slug URL" qui sotto
     extension: 'md'
     format: 'frontmatter'
     sortable_fields: ['date', 'title']
@@ -58,7 +61,7 @@ collections:
         media_library:
           config:
             folder: 'articoli' # cartella Cloudinary suggerita per le nuove cover
-      - { label: 'Data pubblicazione', name: 'date', widget: 'datetime' }
+      - { label: 'Data pubblicazione', name: 'date', widget: 'datetime', default: '{{now}}' }
       - label: 'Categorie'
         name: 'categories'
         widget: 'list'
@@ -70,7 +73,24 @@ collections:
         widget: 'select'
         options: ['regular', 'featured']
         default: 'regular'
+      # ⚠️ Osservato in test: su un file con draft:true già salvato, dopo un giro nell'editor
+      # la riga "draft:" è sparita dal file (non diventata false: proprio assente). Non ho
+      # trovato nella documentazione di Sveltia un meccanismo che lo spieghi (dicono di non
+      # omettere mai valori booleani). Da verificare con un salvataggio "pulito" prima di
+      # fidarsi: se un articolo bozza dopo un salvataggio esce da questo stato, è un bug da
+      # segnalare a monte, non qualcosa che possiamo aggiustare da config.yml.
       - { label: 'Bozza (non pubblicato finché spuntato)', name: 'draft', widget: 'boolean', default: true }
+      # slug/language: presenti solo in ALCUNI file esistenti (2 file IT, l'intero blog EN).
+      # Dichiarati qui SOLO per non farli sparire in salvataggio — vedi nota nel branch:
+      # senza questi due campi, salvare un file che li aveva li cancella silenziosamente
+      # (Decap/Sveltia ricostruiscono il frontmatter solo dai campi dichiarati).
+      - {
+          label: 'Slug URL personalizzato (override — lascia vuoto se non serve)',
+          name: 'slug',
+          widget: 'string',
+          required: false,
+        }
+      - { label: 'Language (campo legacy, non risulta usato dal tema)', name: 'language', widget: 'string', required: false }
       - label: 'Contenuto'
         name: 'body'
         widget: 'markdown'
@@ -80,13 +100,16 @@ collections:
           - youtube-shortcode
           - button-shortcode
           - carousel-shortcode
+          - indice-shortcode
+          - gmap-shortcode
 
   - name: 'blog_en'
-    label: 'Blog (English)'
-    label_singular: 'Post'
+    label: '🇬🇧 Blog — English'
+    label_singular: 'New post (EN)'
+    description: 'English posts — content/en/blog. "Post" here just means English language, same content type as "Articolo" in Blog Italiano.'
     folder: 'exampleSite/content/en/blog'
     create: true
-    slug: '{{slug}}'
+    slug: '{{slug}}' # nome file generato dal titolo — non è il campo "Slug URL" qui sotto
     extension: 'md'
     format: 'frontmatter'
     sortable_fields: ['date', 'title']
@@ -99,7 +122,7 @@ collections:
         media_library:
           config:
             folder: 'articoli'
-      - { label: 'Publish date', name: 'date', widget: 'datetime' }
+      - { label: 'Publish date', name: 'date', widget: 'datetime', default: '{{now}}' }
       - label: 'Categories'
         name: 'categories'
         widget: 'list'
@@ -112,6 +135,16 @@ collections:
         options: ['regular', 'featured']
         default: 'regular'
       - { label: 'Draft', name: 'draft', widget: 'boolean', default: true }
+      # Quasi tutti i file EN hanno questi due campi (slug per URL inglese pulito, es.
+      # "morocco-by-campervan-complete-guide" anche se il file si chiama in italiano).
+      # Dichiarati per evitare che sparire in salvataggio (vedi stessa nota su blog_it).
+      - {
+          label: 'Custom URL slug (override — leave empty if not needed)',
+          name: 'slug',
+          widget: 'string',
+          required: false,
+        }
+      - { label: 'Language (legacy field, does not look used by the theme)', name: 'language', widget: 'string', required: false }
       - label: 'Content'
         name: 'body'
         widget: 'markdown'
@@ -121,3 +154,5 @@ collections:
           - youtube-shortcode
           - button-shortcode
           - carousel-shortcode
+          - indice-shortcode
+          - gmap-shortcode
