@@ -2,7 +2,7 @@
 title: 'Cosa vedere a Fukuoka: la città accogliente del Kyushu'
 description: 'Scopri cosa vedere a Fukuoka: dal Parco Ōhori alla foresta di Sasaguri, spiagge, yatai e tonkotsu ramen. Esplora il cuore accogliente del Kyushu!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1753957782/Articoli/Blog/tour-di-fukuoka-il-meglio-da-vedere_ccpioy.png
-date: 2025-07-30T7:00:00+01:00
+date: 2025-07-30T07:00:00+01:00
 categories: ["Giappone in Camper","Itinerari"]
 language: it
 type: regular   

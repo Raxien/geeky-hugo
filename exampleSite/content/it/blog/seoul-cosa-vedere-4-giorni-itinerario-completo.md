@@ -2,7 +2,7 @@
 title: 'Seoul: Cosa vedere in 4 Giorni - Itinerario completo'
 description: 'Scopri Seoul in 4 giorni: itinerario completo con le migliori attrazioni tra storia, cultura e modernità della capitale della Corea del Sud'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Corea/Seoul/cheonggyecheon-stream_cmib4y.jpg
-date: 2025-04-17T7:00:00+01:00
+date: 2025-04-17T07:00:00+01:00
 categories: ["Corea del Sud in Camper", "Itinerari"]
 type: featured  
 continent: Asia

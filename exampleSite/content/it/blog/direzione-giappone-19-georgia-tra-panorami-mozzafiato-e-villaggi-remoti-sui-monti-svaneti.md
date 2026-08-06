@@ -2,7 +2,7 @@
 title: 'Georgia tra panorami mozzafiato e villaggi remoti sui monti Svaneti'
 description: 'Immergiti nella natura selvaggia della Georgia, tra le cime innevate dello Svaneti e i villaggi tradizionali. Esplora Ushguli, il villaggio più alto d''Europa, e vivi un''esperienza indimenticabile.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione19/ushguli-dall-alto_hzhbkm.jpg
-date: 2024-06-03T7:00:00+01:00
+date: 2024-06-03T07:00:00+01:00
 categories: ["Georgia e Caucaso in Camper"]
 type: featured  
 continent: Europa

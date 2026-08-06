@@ -2,7 +2,7 @@
 title: 'Stiamo per tornare!'
 description: 'Ricominciano le avventure in direzione Giappone in questo emozionante seconda parte'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1726470956/Articoli/Blog/dall-italia-al-giappone_efrdgp.png
-date: 2024-09-15T7:00:00+01:00
+date: 2024-09-15T07:00:00+01:00
 categories: ["Giappone in Camper"]
 type: featured  
 draft: false
