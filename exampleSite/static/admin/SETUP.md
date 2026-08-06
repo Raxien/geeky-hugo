@@ -1,0 +1,89 @@
+# Setup di /admin/ (Sveltia CMS) — passi manuali una tantum
+
+Questo file non viene pubblicato sul sito (Hugo non lo processa, è solo documentazione per
+`exampleSite/static/admin/`). I passi qui sotto vanno fatti **una sola volta**, fuori da
+questo repo, su dashboard esterne a cui io non ho accesso.
+
+## 1. Login GitHub via Netlify (obbligatorio, senza non si entra in /admin/)
+
+Il sito è già su Netlify, quindi non serve Netlify Identity: si usa il proxy OAuth che
+Netlify offre a qualunque sito ospitato da loro (Sveltia è compatibile con lo stesso
+meccanismo usato da Decap/Netlify CMS).
+
+1. Su GitHub: **Settings → Developer settings → OAuth Apps → New OAuth App**
+   - Homepage URL: `https://vandipety.it`
+   - Authorization callback URL: `https://api.netlify.com/auth/done`
+   - Copiare **Client ID** e **Client secret** generati.
+2. Sul dashboard Netlify del sito: **Site configuration → Access & security → OAuth →
+   Install provider** → scegliere GitHub → incollare Client ID e Client secret.
+3. Fatto: aprendo `https://vandipety.it/admin/` comparirà un pulsante di login GitHub che
+   chiede accesso al repo `Raxien/geeky-hugo`.
+
+   Nota: il sito è in modalità **multihost** (`vandipety.it` per IT, `vandipety.com` per
+   EN — vedi `config/_default/languages.toml`), quindi `static/admin/` viene pubblicato
+   identico su entrambi i domini. Non è un problema, l'OAuth passa comunque da
+   `api.netlify.com` indipendentemente da quale dominio ha aperto la pagina.
+
+## 2. Cloudinary (per l'upload della copertina)
+
+1. Sul [Cloudinary Console](https://console.cloudinary.com/), in alto a sinistra: copiare
+   **Cloud name** e **API Key**.
+2. In `exampleSite/static/admin/config.yml`, sostituire:
+   - `CLOUD_NAME_DA_SOSTITUIRE` → il tuo Cloud name
+   - `API_KEY_DA_SOSTITUIRE` → la tua API Key
+3. Non serve creare un "upload preset unsigned": anche in Sveltia il widget apre la Media
+   Library di Cloudinary vera e propria, con login sull'account già in uso
+   (`ilgattodicitturin`). Cloud name e API key non sono dati segreti — finiranno comunque
+   visibili pubblicamente in `/admin/config.yml`, è normale e documentato da Cloudinary
+   stesso.
+
+## 3. Test prima di fidarsi in produzione
+
+- `hugo server` in locale e apri `http://localhost:1313/admin/`: la UI si carica, ma il
+  login GitHub funziona solo dal dominio vero (`vandipety.it`) perché il callback OAuth è
+  registrato su quello — per testare il login serve un deploy reale (anche un Deploy
+  Preview di una PR va bene, se il dominio è tra quelli autorizzati).
+- Primo articolo di prova: crealo con "Bozza" spuntata. Verifica che NON compaia sul sito
+  pubblicato (Hugo esclude i draft per default), poi togli la spunta per pubblicarlo.
+
+## Perché questo branch e non `cms/decap-poc`
+
+Sveltia è un fork moderno di Decap CMS, pensato come sostituto "drop-in": stesso
+`config.yml`, stessa API per gli editor component custom (`shortcodes.js` è quasi
+identico). Differenze rilevanti rispetto al branch Decap:
+
+- **Manutenzione**: Sveltia riceve rilasci molto frequenti (più aggiornamenti a settimana);
+  Decap/Netlify CMS è sostanzialmente in manutenzione minima.
+- **Cloudinary nativo**: un solo script invece di due, nessun plugin esterno da caricare.
+- **UI più moderna e reattiva** (dichiarato dal progetto, da verificare con mano).
+- **i18n di prima classe**: non sfruttato in questo POC (vedi nota in `config.yml`) ma
+  potenzialmente utile in futuro per la coppia IT/EN.
+- **Contro**: progetto pre-1.0 (versione 0.x), quindi possibili breaking change tra
+  aggiornamenti; l'anteprima live dei blocchi shortcode custom (`toPreview`) non è ancora
+  implementata — il blocco funziona (si inserisce, si compila, si salva) ma senza il
+  rendering visivo nel pannello di anteprima, che invece su Decap già c'è.
+
+## Cosa copre già questo POC
+
+- Login online, niente VS Code — gestione elenco articoli IT/EN.
+- Editor con blocchi a form per 5 shortcode (`image`, `extLink`, `youtube2`, `button`,
+  `carousel`) invece di sintassi scritta a mano — vedi `shortcodes.js`.
+- Nel blocco `carousel`, le immagini sono una lista trascinabile per riordinarle.
+- Copertina caricata direttamente su Cloudinary dall'editor (integrazione nativa).
+- Toggle nativo "Rich text / Markdown grezzo" nella toolbar dell'editor del corpo articolo.
+- Anteprima live nel pannello laterale (tranne per i blocchi shortcode custom, vedi sopra).
+- Pubblicazione = commit diretto su `master` (Netlify fa il deploy come sempre).
+
+## Cosa NON copre ancora (prossimi passi, fuori scope di questo giro)
+
+- **Altri shortcode** (`gmap`, `omap`, `card`, `chart`, `indice`, ...): stesso schema di
+  `shortcodes.js`, da aggiungere uno alla volta man mano che servono.
+- **Drag&drop di blocchi già inseriti nel corpo articolo**: si inseriscono via form, ma il
+  riordino a trascinamento del testo già scritto nell'editor rich-text non è garantito
+  nativamente — verificare nell'uso reale quanto è comodo così.
+- **Tasto destro per i link**: la modalità Rich Text ha un pulsante "link" in toolbar (non
+  letteralmente tasto destro, ma stesso risultato); il blocco `extLink` copre i link in
+  stile "pulsante testuale" del tema.
+- **Traduzione automatica IT→EN con un tasto**: richiede una piccola Netlify Function che
+  chiami l'API gratuita di DeepL (500.000 caratteri/mese gratis) — non ancora implementata.
+- **Collection "destinazioni"**: aggiungibile in `config.yml` seguendo lo stesso schema.

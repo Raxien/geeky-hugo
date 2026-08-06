@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>Vandipety — Gestione contenuti</title>
+    <style>
+      html, body { height: 100%; margin: 0; background: #1a1a1a; }
+    </style>
+  </head>
+  <body>
+    <!--
+      NOTE PER CHI TOCCA QUESTO FILE:
+      - Sveltia CMS è pensato come sostituto "drop-in" di Decap: stesso config.yml, stessa
+        window.CMS.registerEditorComponent per gli shortcode. A differenza di Decap non
+        serve un secondo script per Cloudinary: il supporto è nativo nel core.
+      - Versione pinnata sulla major 0.x (progetto ancora pre-1.0, rilasci frequenti anche
+        più volte a settimana): aggiornare a mano dopo test in locale, non usare "latest".
+      - La preview live dei blocchi shortcode custom (toPreview) non è ancora implementata
+        in Sveltia alla data di stesura di questo file — arriverà prima della 1.0. Il
+        blocco funziona comunque (inserimento, campi, salvataggio), manca solo l'anteprima.
+    -->
+    <script src="https://unpkg.com/@sveltia/cms@0/dist/sveltia-cms.js"></script>
+    <script src="shortcodes.js"></script>
+  </body>
+</html>

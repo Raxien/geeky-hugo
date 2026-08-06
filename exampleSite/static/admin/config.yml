@@ -1,0 +1,123 @@
+# Configurazione Sveltia CMS per Vandipety.
+# Documentazione: https://sveltiacms.app/en/docs
+#
+# ATTENZIONE — passi manuali OBBLIGATORI fuori da questo repo prima che /admin/ funzioni,
+# vedi exampleSite/static/admin/SETUP.md per la procedura completa passo-passo:
+#   1. Creare una GitHub OAuth App con callback verso Netlify e registrarne
+#      client id/secret nelle impostazioni del sito Netlify (Access control > OAuth).
+#      (Stesso identico meccanismo di Decap: Sveltia è compatibile con lo stesso proxy.)
+#   2. Sostituire CLOUD_NAME_DA_SOSTITUIRE e API_KEY_DA_SOSTITUIRE qui sotto con i
+#      valori del tuo account Cloudinary (nessun "upload preset" da creare).
+# Senza questi due passi la pagina si carica ma il login e l'upload cover non funzionano.
+
+backend:
+  name: github
+  repo: Raxien/geeky-hugo # intero repository: contiene sia il tema che exampleSite
+  branch: master
+
+# Pubblica direttamente su master ad ogni salvataggio (niente PR di revisione).
+# È sicuro perché i nuovi articoli nascono con draft: true (vedi collections sotto):
+# Hugo non li pubblica finché non si toglie manualmente la spunta "Bozza".
+publish_mode: simple
+
+media_folder: 'exampleSite/static/uploads' # fallback per file NON caricati su Cloudinary
+public_folder: '/uploads'
+
+# Cloudinary è nativo in Sveltia (a differenza di Decap non serve un secondo script):
+# apre la vera Media Library Cloudinary, login con l'account già in uso per il sito.
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: CLOUD_NAME_DA_SOSTITUIRE
+    api_key: API_KEY_DA_SOSTITUIRE
+    output_filename_only: false
+
+locale: 'it'
+
+# Nota per il futuro: Sveltia ha un supporto i18n di prima classe (file di lingua diversi
+# come "varianti" di uno stesso contenuto), ma qui IT e EN sono due cartelle Hugo separate
+# (content/it/blog, content/en/blog) — non il pattern "un file, più lingue" che quella
+# funzionalità si aspetta. Per ora restano due collection distinte, come su Decap.
+
+collections:
+  - name: 'blog_it'
+    label: 'Blog (Italiano)'
+    label_singular: 'Articolo'
+    folder: 'exampleSite/content/it/blog'
+    create: true
+    slug: '{{slug}}'
+    extension: 'md'
+    format: 'frontmatter'
+    sortable_fields: ['date', 'title']
+    fields:
+      - { label: 'Titolo', name: 'title', widget: 'string' }
+      - { label: 'Descrizione (SEO, ~155 caratteri)', name: 'description', widget: 'text' }
+      - label: 'Copertina'
+        name: 'image'
+        widget: 'image'
+        media_library:
+          config:
+            folder: 'articoli' # cartella Cloudinary suggerita per le nuove cover
+      - { label: 'Data pubblicazione', name: 'date', widget: 'datetime' }
+      - label: 'Categorie'
+        name: 'categories'
+        widget: 'list'
+        field: { label: 'Categoria', name: 'category', widget: 'string' }
+      - { label: 'Continente', name: 'continent', widget: 'string', required: false }
+      - { label: 'Paese', name: 'country', widget: 'string', required: false }
+      - label: 'Tipo'
+        name: 'type'
+        widget: 'select'
+        options: ['regular', 'featured']
+        default: 'regular'
+      - { label: 'Bozza (non pubblicato finché spuntato)', name: 'draft', widget: 'boolean', default: true }
+      - label: 'Contenuto'
+        name: 'body'
+        widget: 'markdown'
+        editor_components:
+          - image-shortcode
+          - extlink-shortcode
+          - youtube-shortcode
+          - button-shortcode
+          - carousel-shortcode
+
+  - name: 'blog_en'
+    label: 'Blog (English)'
+    label_singular: 'Post'
+    folder: 'exampleSite/content/en/blog'
+    create: true
+    slug: '{{slug}}'
+    extension: 'md'
+    format: 'frontmatter'
+    sortable_fields: ['date', 'title']
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description (SEO)', name: 'description', widget: 'text' }
+      - label: 'Cover'
+        name: 'image'
+        widget: 'image'
+        media_library:
+          config:
+            folder: 'articoli'
+      - { label: 'Publish date', name: 'date', widget: 'datetime' }
+      - label: 'Categories'
+        name: 'categories'
+        widget: 'list'
+        field: { label: 'Category', name: 'category', widget: 'string' }
+      - { label: 'Continent', name: 'continent', widget: 'string', required: false }
+      - { label: 'Country', name: 'country', widget: 'string', required: false }
+      - label: 'Type'
+        name: 'type'
+        widget: 'select'
+        options: ['regular', 'featured']
+        default: 'regular'
+      - { label: 'Draft', name: 'draft', widget: 'boolean', default: true }
+      - label: 'Content'
+        name: 'body'
+        widget: 'markdown'
+        editor_components:
+          - image-shortcode
+          - extlink-shortcode
+          - youtube-shortcode
+          - button-shortcode
+          - carousel-shortcode
