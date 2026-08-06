@@ -124,10 +124,25 @@ function makeArticlePreview() {
       const image = entry.getIn(['data', 'image']);
       const body = entry.getIn(['data', 'body']) || '';
 
+      // Le cover del sito sono URL Cloudinary già completi (https://...), non file caricati
+      // nella media library locale del CMS: getAsset() serve solo per questi ultimi e su un
+      // URL esterno restituisce undefined, quindi tentarlo prima e ripiegare sull'URL grezzo.
+      let imageSrc = '';
+      if (typeof image === 'string' && /^https?:\/\//.test(image)) {
+        imageSrc = image;
+      } else if (image) {
+        try {
+          const asset = this.props.getAsset(image);
+          imageSrc = asset ? asset.toString() : '';
+        } catch (e) {
+          imageSrc = '';
+        }
+      }
+
       return h(
         'div',
         { style: { maxWidth: '760px', margin: '0 auto', padding: '2rem 1rem' } },
-        image && h('img', { src: this.props.getAsset(image).toString(), style: { width: '100%', borderRadius: '12px', marginBottom: '1.5rem' } }),
+        imageSrc && h('img', { src: imageSrc, style: { width: '100%', borderRadius: '12px', marginBottom: '1.5rem' } }),
         h('h1', { className: 'mb-4' }, title),
         h('div', { className: 'content', dangerouslySetInnerHTML: { __html: renderArticleBody(body) } })
       );

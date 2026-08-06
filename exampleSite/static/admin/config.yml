@@ -34,7 +34,8 @@ media_library:
     api_key: API_KEY_DA_SOSTITUIRE
     output_filename_only: false
 
-locale: 'it'
+# Niente "locale: it" qui: su Sveltia quella chiave non è supportata (era per l'UI di
+# Decap, non per il contenuto) e genera solo un avviso in console — vedi note su Decap.
 
 # Nota per il futuro: Sveltia ha un supporto i18n di prima classe (file di lingua diversi
 # come "varianti" di uno stesso contenuto), ma qui IT e EN sono due cartelle Hugo separate
