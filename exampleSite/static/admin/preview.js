@@ -98,6 +98,22 @@ function renderArticleBody(raw) {
     stash('<div style="border:1px dashed #999;padding:.75rem;border-radius:6px"><em>📑 Indice — generato automaticamente in pubblicazione dai titoli dell\'articolo</em></div>')
   );
 
+  // leggi-anche — stessa struttura di leggi-anche.html (le classi CSS sono quelle vere del
+  // tema, con il CSS reale caricato il box è uguale al sito). Se c'è un url, il titolo/
+  // immagine reali vengono caricati subito dopo dal DOM via hydrateLeggiAnche() qui sotto
+  // (fetch della pagina pubblicata) — se il fetch fallisce (slug sbagliato o articolo non
+  // ancora pubblicato) resta scritto "Caricamento…", non è un errore bloccante.
+  text = text.replace(/\{\{<\s*leggi-anche(?:\s+url="([^"]*)")?\s*>\}\}/g, (_, url) => {
+    if (url) {
+      return stash(
+        `<div class="article__body__leggi-anche" data-leggianche-url="${url}"><a href="${url}"><div class="leggi-anche-content"><span class="leggi-anche-label">leggi anche</span><span class="leggi-anche-title">Caricamento…</span></div></a></div>`
+      );
+    }
+    return stash(
+      '<div class="article__body__leggi-anche"><div class="leggi-anche-content"><span class="leggi-anche-label">leggi anche</span><span class="leggi-anche-title">🔀 Articolo correlato, scelto automaticamente in pubblicazione</span></div></div>'
+    );
+  });
+
   // extLink — lasciato come link markdown normale, ci pensa marked dopo
   text = text.replace(/\{\{<\s*extLink\s+"([^"]*)"\s+"([^"]*)"(?:\s+"([^"]*)")?\s*>\}\}/g, (_, label, url) => `[${label} ↗](${url})`);
 
@@ -114,10 +130,49 @@ function renderArticleBody(raw) {
   return html;
 }
 
+// Cerca i box "leggi anche" con un url impostato e ci carica dentro titolo/immagine reali,
+// facendo il fetch della pagina pubblicata corrispondente (stesso trucco usato per il CSS
+// del tema). Manipola il DOM direttamente (non passa da React/setState): i box sono dentro
+// un dangerouslySetInnerHTML, quindi non sono nodi React gestiti, mutarli è il modo giusto.
+function hydrateLeggiAnche(root) {
+  if (!root) return;
+  const nodes = root.querySelectorAll('[data-leggianche-url]:not([data-leggianche-loaded])');
+  nodes.forEach((node) => {
+    const url = node.getAttribute('data-leggianche-url');
+    node.setAttribute('data-leggianche-loaded', '1'); // un solo tentativo per box, niente retry in loop
+    fetch(url)
+      .then((r) => (r.ok ? r.text() : Promise.reject(new Error('not found'))))
+      .then((html) => {
+        const doc = new DOMParser().parseFromString(html, 'text/html');
+        const realTitle = doc.querySelector('title')?.textContent?.trim();
+        const image = doc.querySelector('meta[property="og:image"]')?.getAttribute('content');
+        const titleEl = node.querySelector('.leggi-anche-title');
+        if (titleEl && realTitle) titleEl.textContent = realTitle;
+        if (image) {
+          const img = document.createElement('img');
+          img.className = 'poligon';
+          img.alt = realTitle || '';
+          img.src = image;
+          node.querySelector('a')?.appendChild(img);
+        }
+      })
+      .catch(() => {
+        const titleEl = node.querySelector('.leggi-anche-title');
+        if (titleEl) titleEl.textContent = '⚠️ Articolo non trovato a questo indirizzo — link probabilmente da correggere';
+      });
+  });
+}
+
 // --- 3. Template di anteprima per le due collection --------------------------------
 
 function makeArticlePreview() {
   return createClass({
+    componentDidMount: function () {
+      hydrateLeggiAnche(this._root);
+    },
+    componentDidUpdate: function () {
+      hydrateLeggiAnche(this._root);
+    },
     render: function () {
       const entry = this.props.entry;
       const title = entry.getIn(['data', 'title']);
@@ -141,7 +196,12 @@ function makeArticlePreview() {
 
       return h(
         'div',
-        { style: { maxWidth: '760px', margin: '0 auto', padding: '2rem 1rem' } },
+        {
+          ref: (el) => {
+            this._root = el;
+          },
+          style: { maxWidth: '760px', margin: '0 auto', padding: '2rem 1rem' },
+        },
         imageSrc && h('img', { src: imageSrc, style: { width: '100%', borderRadius: '12px', marginBottom: '1.5rem' } }),
         h('h1', { className: 'mb-4' }, title),
         h('div', { className: 'content', dangerouslySetInnerHTML: { __html: renderArticleBody(body) } })

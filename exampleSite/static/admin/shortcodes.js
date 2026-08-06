@@ -188,3 +188,47 @@ CMS.registerEditorComponent({
   toBlock: (data) => `{{< gmap "${data.url || ''}"${data.note ? ' "1"' : ''} >}}`,
   toPreview: (data) => `<div>🗺️ Mappa: <code>${data.url || ''}</code></div>`,
 });
+
+// ---------------------------------------------------------------------------
+// leggi-anche — {{< leggi-anche >}} (articolo scelto a caso in build, stessa
+// categoria/paese) oppure {{< leggi-anche url="/blog/slug-articolo" >}} (fisso).
+//
+// Campo "relation": box di ricerca nativo del CMS, cerca per titolo nella collection
+// e non richiede di conoscere lo slug a memoria — il campo può restare vuoto ("può
+// essere nullo"), nel qual caso l'articolo viene scelto automaticamente in pubblicazione.
+//
+// Un componente per lingua perché il target di ricerca (collection) è diverso —
+// registrato solo sulla collection corrispondente in config.yml, non su entrambe.
+//
+// Limite noto: il valore salvato è lo slug DEL FILE (variabile nativa {{slug}} del
+// CMS), non l'eventuale campo "slug" personalizzato in frontmatter che sovrascrive
+// l'URL pubblicato (vedi nota su blog_en in config.yml — quasi tutti gli articoli EN
+// ne hanno uno diverso dal nome file). Per un target con slug personalizzato il link
+// generato punterà al posto sbagliato: verificare comparando con l'URL pubblicato
+// reale e correggere a mano in modalità markdown grezzo se necessario.
+// ---------------------------------------------------------------------------
+function leggiAncheComponent(targetCollection) {
+  return {
+    id: `leggianche-${targetCollection}-shortcode`,
+    label: '🔗 Leggi anche (shortcode)',
+    fields: [
+      {
+        name: 'target',
+        label: 'Articolo da collegare (cerca per titolo, lascia vuoto per sceglierlo automaticamente in pubblicazione)',
+        widget: 'relation',
+        collection: targetCollection,
+        search_fields: ['title'],
+        display_fields: ['title'],
+        value_field: '{{slug}}',
+        required: false,
+      },
+    ],
+    pattern: /^{{<\s*leggi-anche(?:\s+url="\/blog\/([^"]*)")?\s*>}}$/m,
+    fromBlock: (match) => ({ target: match[1] || '' }),
+    toBlock: (data) => (data.target ? `{{< leggi-anche url="/blog/${data.target}" >}}` : `{{< leggi-anche >}}`),
+    toPreview: (data) => (data.target ? `<div>🔗 Leggi anche: <code>/blog/${data.target}</code></div>` : '<div>🔗 Leggi anche: articolo scelto automaticamente</div>'),
+  };
+}
+
+CMS.registerEditorComponent(leggiAncheComponent('blog_it'));
+CMS.registerEditorComponent(leggiAncheComponent('blog_en'));

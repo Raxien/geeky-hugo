@@ -68,10 +68,17 @@ identico). Differenze rilevanti rispetto al branch Decap:
 
 - Login online, niente VS Code — gestione elenco articoli IT/EN (label chiarite: "Blog
   Italiano"/"Blog English", la lingua si sceglie scegliendo la collection, non un campo).
-- Editor con blocchi a form per 7 shortcode (`image`, `extLink`, `youtube2`, `button`,
-  `carousel`, `indice`, `gmap` — scelti in base agli usi reali nel contenuto) invece di
-  sintassi scritta a mano — vedi `shortcodes.js`.
+- Editor con blocchi a form per 8 shortcode (`image`, `extLink`, `youtube2`, `button`,
+  `carousel`, `indice`, `gmap`, `leggi-anche` — scelti in base agli usi reali nel
+  contenuto) invece di sintassi scritta a mano — vedi `shortcodes.js`.
 - Nel blocco `carousel`, le immagini sono una lista trascinabile per riordinarle.
+- Nel blocco `leggi-anche`, un campo "relation" nativo del CMS: si cerca l'articolo per
+  titolo invece di scrivere a mano lo slug, e può restare vuoto (l'articolo verrà scelto
+  automaticamente in pubblicazione, comportamento di default del sito). Limite noto: il
+  link generato usa lo slug del FILE, non un eventuale campo `slug` personalizzato che
+  sovrascrive l'URL — per articoli EN con slug diverso dal nome file il link può risultare
+  sbagliato, verificare con l'anteprima (avvisa se il link non trova nulla) e correggere a
+  mano in modalità markdown grezzo se serve.
 - Copertina caricata direttamente su Cloudinary dall'editor (integrazione nativa,
   `cloud_name` già impostato).
 - Campi `slug`/`language` dichiarati esplicitamente, per non perderli sui file che li hanno
@@ -80,13 +87,18 @@ identico). Differenze rilevanti rispetto al branch Decap:
 - Toggle nativo "Rich text / Markdown grezzo" nella toolbar dell'editor del corpo articolo.
 - **Anteprima laterale con lo stile vero del sito** (`preview.js`): converte gli shortcode
   coperti in HTML reale (stessa struttura dei template Hugo veri) invece di lasciarli come
-  testo grezzo, e carica il CSS vero del tema recuperato da una pagina pubblicata. Risolve
-  qui anche l'assenza di preview dei blocchi custom nell'editor (limite di Sveltia sopra):
-  non è la stessa cosa (qui vedi tutto l'articolo, non il singolo blocco mentre lo scrivi),
-  ma dà comunque un riscontro visivo vero. Verificato su tutto il corpus attuale (322
-  articoli, >2000 shortcode): solo 5 casi non riconosciuti, tutti per sintassi già
-  "sporca" nel markdown sorgente. Limiti: niente JS del sito reale (il carousel diventa
-  una griglia statica), niente header/nav/footer, `indice` mostra solo un placeholder.
+  testo grezzo, e carica il CSS vero del tema recuperato da una pagina pubblicata. Il box
+  `leggi-anche` con un link va oltre: recupera titolo e immagine reali facendo il fetch
+  della pagina pubblicata corrispondente (stesso trucco del CSS), quindi è visivamente
+  identico al sito quando il link è corretto. Risolve qui anche l'assenza di preview dei
+  blocchi custom nell'editor (limite di Sveltia sopra): non è la stessa cosa (qui vedi
+  tutto l'articolo, non il singolo blocco mentre lo scrivi), ma dà comunque un riscontro
+  visivo vero. Verificato su tutto il corpus attuale (322 articoli, >2000 shortcode): solo
+  9 casi non riconosciuti (5 per virgolette rotte in extLink, 4 per un `leggi-anche` con
+  argomento posizionale invece di `url=` — quest'ultimo è già "rotto" anche sul sito
+  reale, il template Hugo legge solo il parametro nominale). Limiti: niente JS del sito
+  reale (il carousel diventa una griglia statica), niente header/nav/footer, `indice`
+  mostra solo un placeholder.
 - Pubblicazione = commit diretto su `master` (Netlify fa il deploy come sempre).
 
 ## Cosa NON copre ancora (prossimi passi, fuori scope di questo giro)

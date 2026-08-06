@@ -103,6 +103,7 @@ collections:
           - carousel-shortcode
           - indice-shortcode
           - gmap-shortcode
+          - leggianche-blog_it-shortcode
 
   - name: 'blog_en'
     label: '🇬🇧 Blog — English'
@@ -157,3 +158,4 @@ collections:
           - carousel-shortcode
           - indice-shortcode
           - gmap-shortcode
+          - leggianche-blog_en-shortcode
