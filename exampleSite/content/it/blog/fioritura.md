@@ -2,7 +2,7 @@
 title: 'La fioritura dei ciliegi in Corea del Sud: Un Hanami tutto da scoprire'
 description: 'In Corea del Sud, ogni primavera, il paese si trasforma in un sogno rosa con i delicati petali dei beotkkot. Da fine marzo a metà aprile, città e campagne si animano di festival e paesaggi mozzafiato. Questa guida ti porta alla scoperta di questo spettacolo meno conosciuto.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Corea/Seoul/cheonggyecheon-stream_cmib4y.jpg
-date: 2025-04-17T7:00:00+01:00
+date: 2025-04-17T07:00:00+01:00
 categories: ["Corea del Sud in Camper", "Itinerari"]
 type: featured  
 continent: Asia

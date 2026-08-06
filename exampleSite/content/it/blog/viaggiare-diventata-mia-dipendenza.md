@@ -2,7 +2,7 @@
 title: 'Viaggiare è diventata la mia dipendenza'
 description: 'Viaggiare come dipendenza: una scelta di vita che trova pace nel movimento. Scopri il bisogno di cambiare prospettiva e vivere autenticamente. Racconta la tua passione!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1755074100/Articoli/Blog/quando-non-ci-si-puo-fermare_lhjkw1.png
-date: 2025-08-12T7:00:00+01:00
+date: 2025-08-12T07:00:00+01:00
 categories: ["Vita in Camper"]
 language: it
 type: featured   

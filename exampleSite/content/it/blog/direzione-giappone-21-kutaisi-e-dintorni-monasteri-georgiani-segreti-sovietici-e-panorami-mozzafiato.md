@@ -2,7 +2,7 @@
 title: 'Kutaisi e dintorni: monasteri georgiani, segreti sovietici e panorami mozzafiato'
 description: 'Un viaggio alla scoperta dei monasteri di Gelati, Motsameta e Katskhi, della Cattedrale di Bagrati e dei tesori nascosti di Chiatura, tra echi sovietici e panorami mozzafiato.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione21/cabinovia-abbandonata_jez808.jpg
-date: 2024-06-12T7:00:00+01:00
+date: 2024-06-12T07:00:00+01:00
 categories: ["Georgia e Caucaso in Camper"]
 type: featured  
 continent: Europa

@@ -2,7 +2,7 @@
 title: 'Itinerario di 7 giorni in Kurdistan iracheno in camper: celebrando il Nawruz'
 description: 'Esplora il Kurdistan iracheno in camper con un itinerario di 7 giorni! Celebra il Nawruz, visita Erbil, Lalish, Sulaymaniyah e vivi un’avventura unica.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/iraq/erbil-la-capitale_pj3ogq.jpg
-date: 2025-04-22T7:00:00+01:00
+date: 2025-04-22T07:00:00+01:00
 categories: ["Iraq in Camper", "Itinerari"]
 type: featured  
 continent: Asia

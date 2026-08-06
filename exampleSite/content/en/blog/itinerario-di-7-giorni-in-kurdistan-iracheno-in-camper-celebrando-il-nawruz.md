@@ -3,7 +3,7 @@ title: '7-Day Itinerary Through Iraqi Kurdistan by Campervan: Celebrating Nawruz
 slug: iraqi-kurdistan-7-day-campervan-itinerary-nawruz
 description: 'Explore Iraqi Kurdistan by campervan with a 7-day itinerary! Celebrate Nawruz, visit Erbil, Lalish, Sulaymaniyah and experience a unique adventure.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/iraq/erbil-la-capitale_pj3ogq.jpg
-date: 2025-04-22T7:00:00+01:00
+date: 2025-04-22T07:00:00+01:00
 categories: ["Iraq by Campervan", "Itineraries"]
 type: featured  
 continent: Asia

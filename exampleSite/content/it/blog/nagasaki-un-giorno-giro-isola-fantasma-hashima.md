@@ -2,7 +2,7 @@
 title: 'Un giorno a Nagasaki (+ giro extra all’isola fantasma di Hashima)'
 description: 'Scopri l’itinerario di un giorno a Nagasaki: Parco della Pace, Ponte Megane, Oura Church e il panorama dal Monte Inasa. Esplora l’isola fantasma di Hashima, tra storia e cultura.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1753422481/Articoli/Giappone/tour-di-nagasaki_npfl24.png
-date: 2025-06-04T7:00:00+01:00
+date: 2025-06-04T07:00:00+01:00
 categories: ["Giappone in Camper"]
 language: it
 type: featured   
