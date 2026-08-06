@@ -97,7 +97,10 @@ CMS.registerEditorComponent({
     { name: 'videoID', label: 'ID video (o ID?param=...)', widget: 'string' },
     { name: 'title', label: 'Titolo/didascalia (opzionale)', widget: 'string', required: false },
   ],
-  pattern: /^{{<\s*youtube2\s+"([^"]*)"(?:\s+"([^"]*)")?\s*>}}$/m,
+  // Il video ID nel contenuto reale è quasi sempre SENZA virgolette (221 casi su 294:
+  // {{< youtube2 VBb-Zza0oUs >}}), le virgolette sono la minoranza — pattern tollerante
+  // a entrambe le forme, "?...? opzionali intorno all'id.
+  pattern: /^{{<\s*youtube2\s+"?([^"\s>]+)"?(?:\s+"([^"]*)")?\s*>}}$/m,
   fromBlock: (match) => ({ videoID: match[1], title: match[2] || '' }),
   toBlock: (data) => `{{< youtube2 "${data.videoID || ''}"${data.title ? ` "${data.title}"` : ''} >}}`,
   toPreview: (data) =>

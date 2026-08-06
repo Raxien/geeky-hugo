@@ -16,11 +16,16 @@
         serve un secondo script per Cloudinary: il supporto è nativo nel core.
       - Versione pinnata sulla major 0.x (progetto ancora pre-1.0, rilasci frequenti anche
         più volte a settimana): aggiornare a mano dopo test in locale, non usare "latest".
-      - La preview live dei blocchi shortcode custom (toPreview) non è ancora implementata
-        in Sveltia alla data di stesura di questo file — arriverà prima della 1.0. Il
-        blocco funziona comunque (inserimento, campi, salvataggio), manca solo l'anteprima.
+      - La preview live dei blocchi shortcode custom DENTRO l'editor (toPreview) non è
+        ancora implementata in Sveltia alla data di stesura di questo file — arriverà
+        prima della 1.0. Il blocco funziona comunque (inserimento, campi, salvataggio).
+        Aggirato lato pannello di anteprima (diverso dall'editor) da preview.js, che
+        ridisegna l'intero articolo per intero invece che il singolo blocco — vedi lì.
     -->
     <script src="https://unpkg.com/@sveltia/cms@0/dist/sveltia-cms.js"></script>
     <script src="shortcodes.js"></script>
+    <!-- marked: parser markdown usato da preview.js per l'anteprima "vera" col nostro CSS -->
+    <script src="https://cdn.jsdelivr.net/npm/marked@12/lib/marked.umd.js"></script>
+    <script src="preview.js"></script>
   </body>
 </html>

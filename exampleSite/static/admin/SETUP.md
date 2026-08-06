@@ -59,9 +59,10 @@ identico). Differenze rilevanti rispetto al branch Decap:
 - **i18n di prima classe**: non sfruttato in questo POC (vedi nota in `config.yml`) ma
   potenzialmente utile in futuro per la coppia IT/EN.
 - **Contro**: progetto pre-1.0 (versione 0.x), quindi possibili breaking change tra
-  aggiornamenti; l'anteprima live dei blocchi shortcode custom (`toPreview`) non è ancora
-  implementata — il blocco funziona (si inserisce, si compila, si salva) ma senza il
-  rendering visivo nel pannello di anteprima, che invece su Decap già c'è.
+  aggiornamenti; l'anteprima dei blocchi shortcode custom DENTRO l'editor (`toPreview`)
+  non è ancora implementata — il blocco funziona (si inserisce, si compila, si salva) ma
+  senza rendering visivo lì. Aggirato per il pannello di anteprima laterale (diverso
+  dall'editor) da `preview.js`, vedi sotto — quello funziona identico su entrambi i CMS.
 
 ## Cosa copre già questo POC
 
@@ -77,15 +78,23 @@ identico). Differenze rilevanti rispetto al branch Decap:
   già (vedi nota su data loss più sopra).
 - Data pubblicazione precompilata a oggi sui nuovi articoli (`default: '{{now}}'`).
 - Toggle nativo "Rich text / Markdown grezzo" nella toolbar dell'editor del corpo articolo.
-- Anteprima live nel pannello laterale (tranne per i blocchi shortcode custom, vedi sopra).
+- **Anteprima laterale con lo stile vero del sito** (`preview.js`): converte gli shortcode
+  coperti in HTML reale (stessa struttura dei template Hugo veri) invece di lasciarli come
+  testo grezzo, e carica il CSS vero del tema recuperato da una pagina pubblicata. Risolve
+  qui anche l'assenza di preview dei blocchi custom nell'editor (limite di Sveltia sopra):
+  non è la stessa cosa (qui vedi tutto l'articolo, non il singolo blocco mentre lo scrivi),
+  ma dà comunque un riscontro visivo vero. Verificato su tutto il corpus attuale (322
+  articoli, >2000 shortcode): solo 5 casi non riconosciuti, tutti per sintassi già
+  "sporca" nel markdown sorgente. Limiti: niente JS del sito reale (il carousel diventa
+  una griglia statica), niente header/nav/footer, `indice` mostra solo un placeholder.
 - Pubblicazione = commit diretto su `master` (Netlify fa il deploy come sempre).
 
 ## Cosa NON copre ancora (prossimi passi, fuori scope di questo giro)
 
 - **Altri shortcode** (`omap`, `card`, `chart`, `citazione`, `underline`, `bold`, ...):
-  stesso schema di `shortcodes.js`, da aggiungere man mano — `underline`/`bold` in
-  particolare sono usati INLINE dentro una frase, non su riga propria, quindi richiedono
-  `inline: true` nel component invece del pattern a blocco usato finora.
+  stesso schema di `shortcodes.js`/`preview.js`, da aggiungere man mano — `underline`/
+  `bold` in particolare sono usati INLINE dentro una frase, non su riga propria, quindi
+  richiedono `inline: true` nel component invece del pattern a blocco usato finora.
 - **Drag&drop di blocchi già inseriti nel corpo articolo**: si inseriscono via form, ma il
   riordino a trascinamento del testo già scritto nell'editor rich-text non è garantito
   nativamente — verificare nell'uso reale quanto è comodo così.
