@@ -26,11 +26,11 @@ meccanismo usato da Decap/Netlify CMS).
 
 ## 2. Cloudinary (per l'upload della copertina)
 
-1. Sul [Cloudinary Console](https://console.cloudinary.com/), in alto a sinistra: copiare
-   **Cloud name** e **API Key**.
-2. In `exampleSite/static/admin/config.yml`, sostituire:
-   - `CLOUD_NAME_DA_SOSTITUIRE` → il tuo Cloud name
-   - `API_KEY_DA_SOSTITUIRE` → la tua API Key
+1. `cloud_name` è già impostato (`ilgattodicitturin`, già pubblico nel sito — vedi
+   `carousel.html` e le URL immagine esistenti). Manca solo l'**API Key**: sul
+   [Cloudinary Console](https://console.cloudinary.com/), in alto nella dashboard.
+2. In `exampleSite/static/admin/config.yml`, sostituire `API_KEY_DA_SOSTITUIRE` con la
+   tua API Key (NON l'API Secret, quella non va mai messa qui).
 3. Non serve creare un "upload preset unsigned": anche in Sveltia il widget apre la Media
    Library di Cloudinary vera e propria, con login sull'account già in uso
    (`ilgattodicitturin`). Cloud name e API key non sono dati segreti — finiranno comunque
@@ -65,19 +65,27 @@ identico). Differenze rilevanti rispetto al branch Decap:
 
 ## Cosa copre già questo POC
 
-- Login online, niente VS Code — gestione elenco articoli IT/EN.
-- Editor con blocchi a form per 5 shortcode (`image`, `extLink`, `youtube2`, `button`,
-  `carousel`) invece di sintassi scritta a mano — vedi `shortcodes.js`.
+- Login online, niente VS Code — gestione elenco articoli IT/EN (label chiarite: "Blog
+  Italiano"/"Blog English", la lingua si sceglie scegliendo la collection, non un campo).
+- Editor con blocchi a form per 7 shortcode (`image`, `extLink`, `youtube2`, `button`,
+  `carousel`, `indice`, `gmap` — scelti in base agli usi reali nel contenuto) invece di
+  sintassi scritta a mano — vedi `shortcodes.js`.
 - Nel blocco `carousel`, le immagini sono una lista trascinabile per riordinarle.
-- Copertina caricata direttamente su Cloudinary dall'editor (integrazione nativa).
+- Copertina caricata direttamente su Cloudinary dall'editor (integrazione nativa,
+  `cloud_name` già impostato).
+- Campi `slug`/`language` dichiarati esplicitamente, per non perderli sui file che li hanno
+  già (vedi nota su data loss più sopra).
+- Data pubblicazione precompilata a oggi sui nuovi articoli (`default: '{{now}}'`).
 - Toggle nativo "Rich text / Markdown grezzo" nella toolbar dell'editor del corpo articolo.
 - Anteprima live nel pannello laterale (tranne per i blocchi shortcode custom, vedi sopra).
 - Pubblicazione = commit diretto su `master` (Netlify fa il deploy come sempre).
 
 ## Cosa NON copre ancora (prossimi passi, fuori scope di questo giro)
 
-- **Altri shortcode** (`gmap`, `omap`, `card`, `chart`, `indice`, ...): stesso schema di
-  `shortcodes.js`, da aggiungere uno alla volta man mano che servono.
+- **Altri shortcode** (`omap`, `card`, `chart`, `citazione`, `underline`, `bold`, ...):
+  stesso schema di `shortcodes.js`, da aggiungere man mano — `underline`/`bold` in
+  particolare sono usati INLINE dentro una frase, non su riga propria, quindi richiedono
+  `inline: true` nel component invece del pattern a blocco usato finora.
 - **Drag&drop di blocchi già inseriti nel corpo articolo**: si inseriscono via form, ma il
   riordino a trascinamento del testo già scritto nell'editor rich-text non è garantito
   nativamente — verificare nell'uso reale quanto è comodo così.
