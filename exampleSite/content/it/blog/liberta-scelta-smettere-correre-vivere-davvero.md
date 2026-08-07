@@ -2,7 +2,7 @@
 title: 'La libertà che scegliamo: smettere di correre dietro agli altri per vivere davvero'
 description: 'Scopri come smettere di correre dietro agli altri e vivere davvero. Una riflessione sulla libertà autentica e la scelta consapevole per trovare la tua direzione.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1755074100/Articoli/Blog/quando-non-ci-si-puo-fermare_lhjkw1.png
-date: 2025-08-16T7:00:00+01:00
+date: 2025-08-16T07:00:00+01:00
 categories: ["Diario di Bordo"]
 language: it
 type: featured   

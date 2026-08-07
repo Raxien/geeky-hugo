@@ -2,7 +2,7 @@
 title: 'Sosta camper in Giappone: molto più di un parcheggio'
 description: 'Scopri le Michi no Eki, aree di sosta gratuite per camper in Giappone. Servizi 24h, prodotti locali e un tuffo nel Giappone autentico. Viaggia on the road!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1747552421/Articoli/Giappone/giappone-in-camper_y2rtpd.jpg
-date: 2025-05-15T7:00:00+01:00
+date: 2025-05-15T07:00:00+01:00
 categories: ["Giappone in Camper"]
 language: it
 type: regular   

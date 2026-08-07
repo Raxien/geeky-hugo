@@ -2,7 +2,7 @@
 title: 'Batumi: porta d''ingresso ad un''avventura indimenticabile in Georgia'
 description: 'Batumi, la prima tappa del nostro viaggio in Georgia, ci ha conquistati con il suo mix di antico e moderno, sapori autentici e panorami mozzafiato. Scopri cosa vedere e fare in questa città affascinante!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione18/georgia-batumi-tempio_kgykp0.jpg
-date: 2024-06-01T7:00:00+01:00
+date: 2024-06-01T07:00:00+01:00
 categories: ["Georgia e Caucaso in Camper"]
 type: featured  
 continent: Europa

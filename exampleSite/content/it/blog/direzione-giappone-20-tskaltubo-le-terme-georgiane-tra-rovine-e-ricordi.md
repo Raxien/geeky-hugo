@@ -2,7 +2,7 @@
 title: 'Tskaltubo: le terme georgiane tra rovine e ricordi'
 description: 'Esplora le rovine di Tskaltubo, un tempo fiorente città termale in Georgia. Scopri il suo passato glorioso, il declino doloroso e l''atmosfera suggestiva di un luogo sospeso nel tempo.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione20/tskaltubo-abbandonato-bambola_dhvktw.jpg
-date: 2024-06-10T7:00:00+01:00
+date: 2024-06-10T07:00:00+01:00
 categories: ["Georgia e Caucaso in Camper"]
 type: featured  
 continent: Europa

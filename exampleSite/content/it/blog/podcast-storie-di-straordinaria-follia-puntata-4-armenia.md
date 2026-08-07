@@ -2,7 +2,7 @@
 title: 'Storie di straordinaria follia: l''Armenia'
 description: 'Storie di straordinaria follia: un podcast che parla di vita vera. Oggi vi portiamo alla scopera del paese dai 4000 monasteri. Benvenuti in Armenia'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1716102319/Articoli/Blog/podcast-4_eootzn.png
-date: 2024-07-30T7:00:00+01:00
+date: 2024-07-30T07:00:00+01:00
 categories: ["Georgia e Caucaso in Camper", "Interviste e Storie di Viaggio"]
 type: featured  
 country: Armenia

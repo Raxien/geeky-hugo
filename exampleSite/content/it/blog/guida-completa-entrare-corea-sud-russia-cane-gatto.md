@@ -2,7 +2,7 @@
 title: 'Guida completa per entrare in Corea del Sud dalla Russia con il tuo cane o gatto'
 description: 'Guida per viaggiare in Corea del Sud dalla Russia con cane o gatto: documenti, vaccinazioni e procedure per evitare la quarantena.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1752882382/Articoli/Blog/come-entrare-in-corea-con-un-animale-gatto-cane_ocl1du.png
-date: 2025-07-10T7:00:00+01:00
+date: 2025-07-10T07:00:00+01:00
 categories: ["Corea del Sud in Camper", "Guide pratiche"]
 language: it
 continent: Asia

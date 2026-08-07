@@ -2,7 +2,7 @@
 title: 'La Crociera sul Bosforo: L’esperienza quasi gratuita a Istanbul che nessuno conosce!'
 description: 'Scopri il balık ekmek, iconico street food di Istanbul! Gusta il panino con pesce fresco grigliato, cipolla, insalata e limone nei bazar o sul Bosforo. Esplora la tradizione culinaria turca con sapori autentici e low-cost!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713007643/Articoli/turchia/vista-traghetto-bosforo_egcb0w.jpg
-date: 2025-04-28T7:00:00+01:00
+date: 2025-04-28T07:00:00+01:00
 categories: ["Turchia in Camper"]
 language: it
 type: regular   

@@ -2,7 +2,7 @@
 title: 'Come gestire un cucciolo di cane in camper: consigli da chi ci è passato!'
 description: "Scopri come gestire un cucciolo di cane in camper: consigli pratici su spazio, pause, routine, cibo e giochi per un viaggio sereno e indimenticabile con il tuo amico a 4 zampe."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1755426872/Articoli/Blog/cucciolo-cane-camper_vfnuf2.png
-date: 2025-08-12T7:00:00+01:00
+date: 2025-08-12T07:00:00+01:00
 categories: ["Animali in Viaggio"]
 language: it
 type: regular  

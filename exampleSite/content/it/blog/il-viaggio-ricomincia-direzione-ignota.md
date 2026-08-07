@@ -2,7 +2,7 @@
 title: '41 giorni dopo: tutto uguale, tutto diverso'
 description: "Dopo un mese \"di stop\" per sistemare il van, salutare famiglia e amici e sposarci abbiamo tracciato la direzione. Prossima meta.." 
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1694595842/Articoli/Blog/ripartiamo.jpg
-date: 2023-09-11T8:00:00+01:00
+date: 2023-09-11T08:00:00+01:00
 categories: ["Diario di Bordo"]
 type: featured
 draft: false

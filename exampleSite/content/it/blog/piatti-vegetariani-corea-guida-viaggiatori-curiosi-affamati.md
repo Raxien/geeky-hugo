@@ -2,7 +2,7 @@
 title: 'Piatti vegetariani da provare in Corea: guida per viaggiatori curiosi e affamati'
 description: 'Scopri i migliori piatti vegetariani in Corea del Sud: dal bibimbap al tteokbokki, guida pratica con consigli per viaggiatori. Sapori autentici senza carne né pesce!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1753337749/Articoli/Corea/corea-del-sud-guida-per-vegetariani_nafeth.png
-date: 2025-07-19T7:00:00+01:00
+date: 2025-07-19T07:00:00+01:00
 categories: ["Corea del Sud in Camper"]
 language: it
 continent: Asia

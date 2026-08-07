@@ -3,7 +3,7 @@ title: 'Nara in One Day: Temples, Curious Deer and Silent Forests'
 slug: nara-in-one-day-temples-deer-forests
 description: 'Discover Nara in one day: Todai-ji, the Great Buddha, Kasuga Taisha, deer and Kasugayama forest. The perfect itinerary from Kyoto or Osaka!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1751857574/Articoli/Giappone/tour-di-nara-2025_nzmaha.png
-date: 2025-06-05T7:00:00+01:00
+date: 2025-06-05T07:00:00+01:00
 categories: ["Japan by Campervan"]
 language: en
 type: regular

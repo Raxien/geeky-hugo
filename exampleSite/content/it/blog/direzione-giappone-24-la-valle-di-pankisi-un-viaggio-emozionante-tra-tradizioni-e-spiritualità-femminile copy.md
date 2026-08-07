@@ -2,7 +2,7 @@
 title: 'La valle di Pankisi: un viaggio emozionante tra tradizioni e spiritualità femminile'
 description: 'Alla scoperta delle ultime donne al mondo a celebrare questo rituale'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione19/ushguli-dall-alto_hzhbkm.jpg
-date: 2024-07-01T7:00:00+01:00
+date: 2024-07-01T07:00:00+01:00
 categories: ["Georgia e Caucaso in Camper"]
 type: featured  
 continent: Europa

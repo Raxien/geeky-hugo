@@ -2,7 +2,7 @@
 title: 'Miyajima: l’isola sacra tra mare e monti'
 description: 'Guida completa a Miyajima: torii galleggiante, santuario Itsukushima, Monte Misen, cervi sacri e momiji manju. Scopri come arrivare e cosa non perdere sull''isola sacra del Giappone.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1760099791/Articoli/Giappone/miyajima-hiroshima-guida-completa_nx0pdk.png
-date: 2025-10-07T7:00:00+01:00
+date: 2025-10-07T07:00:00+01:00
 categories: ["Giappone in Camper"]
 language: it
 type: regular   
@@ -19,7 +19,7 @@ Il **torii di Itsukushima** è l’attrazione principale e simbolo di Miyajima. 
 
 Oltre al torii, il **Santuario di Itsukushima** è uno degli edifici più importanti della zona, un luogo di culto che risale al VI secolo. Costruito su palafitte, il santuario sembra galleggiare anch'esso sopra il mare, creando una connessione profonda con la natura. Da non perdere l’esperienza di camminare lungo i suoi corridoi, ammirando la vista sul mare e la montagna.
 
-{{< leggi-anche "/blog/cosa-vedere-hiroshima-un-giorno-itinerario-completo" >}}
+{{< leggi-anche url="/blog/cosa-vedere-hiroshima-un-giorno-itinerario-completo" >}}
 
 ## 3. Il Monte Misen: una vista spettacolare
 

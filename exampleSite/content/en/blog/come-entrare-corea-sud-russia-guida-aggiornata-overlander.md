@@ -3,7 +3,7 @@ title: 'How to Enter South Korea from Russia: The Updated Guide for Overlanders 
 slug: how-to-enter-south-korea-from-russia-overlander-guide
 description: 'Complete guide to entering South Korea from Russia by campervan: the DuWon ferry, documents and tips for overlanders!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1752301060/Articoli/Russia/vladivostok/guida-traghetto-russia-corea_bhgfz5.png
-date: 2025-07-09T7:00:00+01:00
+date: 2025-07-09T07:00:00+01:00
 categories: ["South Korea by Campervan", "Practical Guides"]
 language: en
 continent: Asia

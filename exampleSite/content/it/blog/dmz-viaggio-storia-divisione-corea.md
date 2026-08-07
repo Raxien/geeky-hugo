@@ -2,7 +2,7 @@
 title: 'La DMZ: un viaggio nella storia e nella divisione della Corea'
 description: 'Scopri la DMZ, la Zona Demilitarizzata tra Corea del Sud e Corea del Nord. Esplora la sua storia, siti iconici come Imjingak e JSA, e gemme nascoste come l’Osservatorio di Goseong. Pianifica il tuo viaggio con i nostri consigli!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475/Articoli/Corea/DMZ/dmz-zona-di-guerra_hhztbh.jpg
-date: 2025-04-11T7:00:00+01:00
+date: 2025-04-11T07:00:00+01:00
 categories: ["Corea del Sud in Camper"]
 type: featured  
 continent: Asia

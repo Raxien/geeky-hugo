@@ -2,7 +2,7 @@
 title: 'Dove mangiare i takoyaki a Osaka: nel negozio più piccolo del Giappone'
 description: 'Scopri il negozio di takoyaki più piccolo del Giappone a Osaka! A Namba Sennichimae, gustati takoyaki croccanti e autentici a 480 yen. Un''esperienza unica in un angolo nascosto del Kansai.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1746770246/Articoli/Giappone/osaka-takoyaky-piu%CC%80-buono-del-giappone-osaka_su9xjv.jpg
-date: 2025-06-04T7:00:00+01:00
+date: 2025-06-04T07:00:00+01:00
 categories: ["Giappone in Camper", "Cibo"]
 type: regular
 continent: Asia
