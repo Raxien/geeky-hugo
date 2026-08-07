@@ -1,12 +1,11 @@
 ---
-title: 'Marocco in Camper: Guida completa e aggiornata 2025'
+title: 'Marocco in Camper: Guida completa e aggiornata'
 description: 'Viaggia in Marocco in camper con la guida completa: documenti, campeggi, traghetti, sicurezza, itinerari e consigli aggiornati per un viaggio perfetto!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1756722218/Articoli/Marocco/guida-marocco-camper-2025.png
 date: 2025-08-09T7:00:00+01:00
 categories: ["Marocco in Camper"]
 language: it
 continent: Africa
-draft: true
 country: Marocco
 type: regular  
 ---
@@ -41,7 +40,7 @@ In alcuni checkpoint si sono digitalizzati e effettueranno le foto dei passaport
 Prima di partire consigliamo di verificare con la propria compagnia assicurativa se la carta verde copra anche i territori del Sahara Occidentale.
 In caso negativo consigliamo di stipulare un'assicurazione RC.
 
-{{< leggi-anche "/blog/marocco-quale-operatore-internet-scegliere/" >}}
+{{< leggi-anche url="/blog/marocco-quale-operatore-internet-scegliere/" >}}
 
 ## Frontiere
 Il Marocco è raggiungibile via nave dall'Italia, Francia e Spagna arrivando principalmente in due porti, Ceuta e Tangeri Med.

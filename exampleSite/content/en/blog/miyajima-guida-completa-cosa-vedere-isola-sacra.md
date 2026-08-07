@@ -20,7 +20,7 @@ The **Itsukushima torii** is Miyajima's main attraction and symbol. Built in the
 
 Besides the torii, **Itsukushima Shrine** is one of the most important buildings in the area, a place of worship dating back to the 6th century. Built on stilts, the shrine too seems to float above the sea, creating a deep connection with nature. Don't miss the experience of walking along its corridors, admiring the view of the sea and mountain.
 
-{{< leggi-anche "/blog/one-day-in-hiroshima-complete-itinerary/" >}}
+{{< leggi-anche url="/blog/one-day-in-hiroshima-complete-itinerary/" >}}
 
 ## 3. Mount Misen: a spectacular view
 

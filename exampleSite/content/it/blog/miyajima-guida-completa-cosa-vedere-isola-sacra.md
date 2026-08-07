@@ -19,7 +19,7 @@ Il **torii di Itsukushima** è l’attrazione principale e simbolo di Miyajima. 
 
 Oltre al torii, il **Santuario di Itsukushima** è uno degli edifici più importanti della zona, un luogo di culto che risale al VI secolo. Costruito su palafitte, il santuario sembra galleggiare anch'esso sopra il mare, creando una connessione profonda con la natura. Da non perdere l’esperienza di camminare lungo i suoi corridoi, ammirando la vista sul mare e la montagna.
 
-{{< leggi-anche "/blog/cosa-vedere-hiroshima-un-giorno-itinerario-completo" >}}
+{{< leggi-anche url="/blog/cosa-vedere-hiroshima-un-giorno-itinerario-completo" >}}
 
 ## 3. Il Monte Misen: una vista spettacolare
 

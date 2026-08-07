@@ -1,13 +1,12 @@
 ---
-title: 'Morocco by Campervan: The Complete, Updated 2025 Guide'
-slug: morocco-by-campervan-complete-guide-2025
+title: 'Morocco by Campervan: The Complete Guide'
+slug: morocco-by-campervan-complete-guide
 description: 'Travel Morocco by campervan with our complete guide: documents, campsites, ferries, safety, itineraries and up-to-date tips for the perfect trip!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1756722218/Articoli/Marocco/guida-marocco-camper-2025.png
 date: 2025-08-09T7:00:00+01:00
 categories: ["Morocco by Campervan"]
 language: en
 continent: Africa
-draft: true
 country: Morocco
 type: regular  
 ---
@@ -42,7 +41,7 @@ At some checkpoints they've gone digital and will photograph your passports and 
 Before setting off, we recommend checking with your insurance company whether your green card also covers the Western Sahara territories.
 If not, we recommend taking out third-party liability insurance.
 
-{{< leggi-anche "/blog/morocco-internet-sim-guide/" >}}
+{{< leggi-anche url="/blog/morocco-internet-sim-guide/" >}}
 
 ## Border Crossings
 Morocco can be reached by ferry from Italy, France and Spain, arriving mainly at two ports, Ceuta and Tanger Med.
