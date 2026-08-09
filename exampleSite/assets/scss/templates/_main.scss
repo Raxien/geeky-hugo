@@ -3384,3 +3384,16 @@ p a {
     left: 100%;
   }
 }
+// Link "IT | EN" nell'header (vedi partials/header.html): prima era text-muted
+// senza sottolineatura, PageSpeed segnalava il contrasto insufficiente per gli
+// utenti ipovedenti. Colore di testo normale (eredita da body, stesso contrasto
+// già verificato altrove nel sito) + sottolineatura, per non affidarsi al solo
+// colore rispetto alla lingua attiva accanto (in grassetto, senza link).
+.lang-switch-link {
+  text-decoration: underline;
+
+  &:hover,
+  &:focus-visible {
+    text-decoration-thickness: 2px;
+  }
+}

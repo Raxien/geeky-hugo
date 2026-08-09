@@ -24,7 +24,12 @@
      baseof.html) e non partialCached, che lo eseguirebbe troppo presto. -->
 {{ if hugo.IsProduction }}
   {{ with $styles | css.PostCSS | minify | fingerprint "sha512" }}
-<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+  <!-- preload + swap invece di rel=stylesheet diretto: il file (~12KB compressi dopo il
+       purge) non blocca più il render iniziale. Scelta consapevole: per una finestra
+       breve su rete lenta la pagina si vede senza stile prima che l'onload scatti;
+       noscript sotto copre il caso JS disabilitato, dove l'onload non scatterebbe mai. -->
+<link rel="preload" href="{{ .RelPermalink }}" as="style" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></noscript>
   {{ end }}
 {{ else }}
   {{ with $styles | fingerprint "sha512" }}

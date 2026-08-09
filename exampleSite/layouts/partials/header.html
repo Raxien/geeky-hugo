@@ -208,7 +208,10 @@
                 {{ range $currentPage.AllTranslations }}
                   {{ if eq .Language.Lang $otherSite.Language.Lang }}{{ $href = .Permalink }}{{ end }}
                 {{ end }}
-                <a href="{{ $href }}" class="text-muted text-decoration-none" hreflang="{{ $otherSite.Language.Lang }}">{{ upper $otherSite.Language.Lang }}</a>
+                <!-- Non più text-muted (grigio Bootstrap, contrasto insufficiente segnalato da
+                     PageSpeed) né text-decoration-none: colore di testo normale + sottolineatura,
+                     così il link è riconoscibile senza affidarsi al solo colore. -->
+                <a href="{{ $href }}" class="lang-switch-link" hreflang="{{ $otherSite.Language.Lang }}">{{ upper $otherSite.Language.Lang }}</a>
                 {{ end }}
                 {{ end }}
               </li>
@@ -296,7 +299,10 @@
                 {{ range $mobilePage.AllTranslations }}
                   {{ if eq .Language.Lang $otherSite.Language.Lang }}{{ $href = .Permalink }}{{ end }}
                 {{ end }}
-                <a href="{{ $href }}" class="text-muted text-decoration-none" hreflang="{{ $otherSite.Language.Lang }}">{{ upper $otherSite.Language.Lang }}</a>
+                <!-- Non più text-muted (grigio Bootstrap, contrasto insufficiente segnalato da
+                     PageSpeed) né text-decoration-none: colore di testo normale + sottolineatura,
+                     così il link è riconoscibile senza affidarsi al solo colore. -->
+                <a href="{{ $href }}" class="lang-switch-link" hreflang="{{ $otherSite.Language.Lang }}">{{ upper $otherSite.Language.Lang }}</a>
                 {{ end }}
                 {{ end }}
               </li>
