@@ -24,12 +24,13 @@
      baseof.html) e non partialCached, che lo eseguirebbe troppo presto. -->
 {{ if hugo.IsProduction }}
   {{ with $styles | css.PostCSS | minify | fingerprint "sha512" }}
-  <!-- preload + swap invece di rel=stylesheet diretto: il file (~12KB compressi dopo il
-       purge) non blocca più il render iniziale. Scelta consapevole: per una finestra
-       breve su rete lenta la pagina si vede senza stile prima che l'onload scatti;
-       noscript sotto copre il caso JS disabilitato, dove l'onload non scatterebbe mai. -->
-<link rel="preload" href="{{ .RelPermalink }}" as="style" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></noscript>
+  <!-- Bloccante di proposito (rel=stylesheet diretto, non preload+swap): questo file
+       definisce TUTTO il layout del sito (grid, flex, posizionamento immagini), non è
+       CSS decorativo. Con preload+swap la pagina renderizzava prima nell'HTML grezzo
+       del browser e poi, all'onload, ogni elemento saltava di colpo nella posizione
+       finale: CLS a 1. I 250ms di "render-blocking" persi sono un prezzo enormemente
+       più basso di quel salto — non ritentare lo swap su questo file. -->
+<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
   {{ end }}
 {{ else }}
   {{ with $styles | fingerprint "sha512" }}
