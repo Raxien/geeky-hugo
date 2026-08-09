@@ -232,9 +232,15 @@
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
 <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+<!-- res.cloudinary.com serve praticamente ogni immagine articolo (vedi post.html,
+     post-featured.html, index.html): senza preconnect, la connessione (DNS+TCP+TLS)
+     a quell'origine parte solo quando il parser incontra il primo <img>, aggiungendo
+     latenza piena proprio davanti all'immagine LCP. -->
+<link rel="preconnect" href="https://res.cloudinary.com" crossorigin>
 
 <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
 <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="https://res.cloudinary.com">
 <link rel="dns-prefetch" href="https://www.google-analytics.com">
 <link rel="dns-prefetch" href="https://connect.facebook.net">
 <link rel="dns-prefetch" href="https://platform.linkedin.com">
@@ -276,8 +282,48 @@
   {{ if $image }}
     {{ $webp := $image.Resize "1200x webp" }}
     <link rel="preload" as="image" href="{{ $webp.RelPermalink }}" type="image/webp">
+  {{ else if hasPrefix .Params.image "http" }}
+    <!-- Deve combaciare byte-per-byte con l'URL richiesto dall'<img> in single.html
+         (stessa pipeline w_.../c_limit): un preload che punta all'originale non
+         trasformato scarica un file che l'<img> reale non userà mai, sprecando banda
+         invece di anticipare la vera immagine LCP. -->
+    {{ $cloudBase := replaceRE `,?w_[0-9]+` "" .Params.image }}
+    {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
+    {{ $cloudBase = replace $cloudBase " " "%20" }}
+    {{ $img1000 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_1000,c_limit" }}
+    <link rel="preload" as="image" fetchpriority="high" href="{{ $img1000 | safeURL }}">
   {{ else }}
     <link rel="preload" as="image" href="{{ .Params.image | absURL }}">
+  {{ end }}
+{{ end }}
+
+<!-- preload hero home: la home non ha un .Params.image proprio (il blocco sopra
+     non scatta), ma pesca l'immagine del primo post "featured" per il grande
+     riquadro in cima (vedi index.html, versioni desktop/mobile). È esattamente
+     l'elemento che Search Console segnala come LCP sulla home mobile: senza questo
+     preload viene scoperto solo quando il parser arriva al body, dopo banner/header. -->
+{{ if .IsHome }}
+  {{ range first 1 (where (where (where site.RegularPages "Type" "featured") "Params.draft" "!=" true) "Lang" .Lang) }}
+    {{ $imagePath := .Params.image }}
+    {{ if $imagePath }}
+      {{ if hasPrefix $imagePath "http" }}
+        {{ $cloudBase := replaceRE `,?w_[0-9]+` "" $imagePath }}
+        {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
+        {{ $cloudBase = replace $cloudBase " " "%20" }}
+        {{ $imgMobile := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_600,c_limit" }}
+        {{ $imgDesktop := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_650,c_limit" }}
+        <link rel="preload" as="image" fetchpriority="high" media="(max-width: 991px)" href="{{ $imgMobile | safeURL }}">
+        <link rel="preload" as="image" fetchpriority="high" media="(min-width: 992px)" href="{{ $imgDesktop | safeURL }}">
+      {{ else if fileExists (add `assets/` $imagePath) }}
+        {{ $image := resources.Get $imagePath }}
+        <!-- Fill/Resize devono restare identici a quelli usati rispettivamente nel
+             blocco mobile inline di index.html e nel partial post-featured.html. -->
+        {{ $imageMobile := $image.Fill "600x200 Center webp" }}
+        {{ $imageDesktop := $image.Resize "650x webp" }}
+        <link rel="preload" as="image" fetchpriority="high" media="(max-width: 991px)" href="{{ $imageMobile.RelPermalink }}" type="image/webp">
+        <link rel="preload" as="image" fetchpriority="high" media="(min-width: 992px)" href="{{ $imageDesktop.RelPermalink }}" type="image/webp">
+      {{ end }}
+    {{ end }}
   {{ end }}
 {{ end }}
 

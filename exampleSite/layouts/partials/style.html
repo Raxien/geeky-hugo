@@ -1,0 +1,21 @@
+<!-- plugins + stylesheet -->
+{{ $styles := slice }}
+{{ range site.Params.plugins.css }}
+{{ if findRE "^http" .link }}
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="{{ .link | relURL }}" {{.attributes | safeHTMLAttr}} >
+{{ else }}
+{{ $styles = $styles | append (resources.Get .link) }}
+{{ end }}
+{{ end }}
+{{ $styles := $styles | append (resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "style.scss" . | toCSS) }}
+{{ $styles := $styles | resources.Concat "/css/main.css" | minify | fingerprint "sha512"}}
+<!-- Link esterno invece di <style> inline: il bundle compilato (Bootstrap 5 +
+     SCSS custom, non ancora passato da PurgeCSS nonostante writeStats=true in
+     config.toml) pesa ~190KB minificati. Inlineato in ogni <head>, quel peso
+     è render-blocking su OGNI pagina e non viene mai messo in cache dal
+     browser tra una navigazione e l'altra. Come file esterno fingerprintato,
+     il browser lo scarica una sola volta per sessione (vedi Cache-Control in
+     netlify.toml) e le pagine successive lo trovano già in cache: è la causa
+     principale del "Ritardo di rendering" segnalato da PageSpeed/Search
+     Console sull'LCP mobile. -->
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous">

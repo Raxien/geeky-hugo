@@ -31,7 +31,7 @@ media_library:
   name: cloudinary
   config:
     cloud_name: ilgattodicitturin
-    api_key: API_KEY_DA_SOSTITUIRE
+    api_key: 373883797928475
     output_filename_only: false
 
 # Niente "locale: it" qui: su Sveltia quella chiave non è supportata (era per l'UI di

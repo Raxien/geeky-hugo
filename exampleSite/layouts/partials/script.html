@@ -30,7 +30,13 @@
 {{ $adsScript := resources.Get "js/ads-optimizer.js" }}
 {{ $scripts = $scripts | append $mainScript | append $adsScript }}
 {{ $scripts = $scripts | resources.Concat "js/bundle.js" | minify | fingerprint "sha512" }}
-<script crossorigin="anonymous" defer integrity="{{ $scripts.Data.Integrity }}" type="application/javascript">{{$scripts.Content | safeJS}}</script>
+<!-- File esterno invece di inline: come per style.html (vedi lì il perché),
+     inlineare ~46KB di JS in ogni pagina impedisce la cache tra navigazioni
+     e rende "defer" un no-op (defer non ha effetto sugli script inline senza
+     src, quindi girava comunque prima del parsing del resto della pagina).
+     Da esterno, "integrity" viene anche effettivamente verificato dal
+     browser: sugli script inline l'attributo era semplicemente ignorato. -->
+<script src="{{ $scripts.RelPermalink }}" crossorigin="anonymous" defer integrity="{{ $scripts.Data.Integrity }}" type="application/javascript"></script>
 
 <!-- Search script -->
 {{ $searchSrc := resources.Get "js/search.js" }}

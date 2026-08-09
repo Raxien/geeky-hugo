@@ -23,6 +23,24 @@
 [headers.values]
   Cache-Control = "public, max-age=604800"
 
+# CSS/JS con nome fingerprintato (hash sha512 nel filename via resources.fingerprint in
+# style.html/script.html): il contenuto cambia solo quando cambia l'hash, quindi possono
+# restare in cache "immutable" per un anno senza rischio di servire una versione stale.
+# Pattern ristretto a main.*.css/bundle.*.js (non "/css/*" o "/js/*" generici) perché
+# js/search.<lang>.js NON è fingerprintato: stesso nome ad ogni build, andrebbe stale
+# in cache per un anno ad ogni aggiornamento delle traduzioni.
+[[headers]]
+  for = "/css/main.*.css"
+
+[headers.values]
+  Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/js/bundle.*.js"
+
+[headers.values]
+  Cache-Control = "public, max-age=31536000, immutable"
+
 # Proxy per la miniatura del widget "Ultimi Vlog" (l'ultimo video pubblicato, non noto in fase di
 # build): serve via Edge Function (netlify/edge-functions/yt-thumb.js) invece di un semplice
 # redirect, perché un redirect status=200 lascia passare intatto il Cache-Control originale di
