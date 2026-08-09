@@ -1,6 +1,9 @@
 [build]
   publish = "public"
-  command = "npx --yes terser assets/js/script.js -o assets/js/script.min.js -c passes=2,pure_getters,unsafe,unsafe_math,unsafe_proto,unsafe_regexp,unsafe_undefined,conditionals,dead_code,evaluate,booleans,loops,unused,drop_console=true,drop_debugger=true -m --comments '/^!/' && hugo --minify --gc && cat static/_redirects netlify-host-redirects > public/_redirects && cp 404-fallback.html public/404.html"
+  # npm install (non "ci": package-lock.json è in .gitignore, quindi non c'è un lockfile
+  # da cui "ci" possa installare): postcss/postcss-cli/@fullhuman/postcss-purgecss (vedi
+  # package.json), necessari a Hugo per lo step css.PostCSS in style.html (PurgeCSS).
+  command = "npm install && npx --yes terser assets/js/script.js -o assets/js/script.min.js -c passes=2,pure_getters,unsafe,unsafe_math,unsafe_proto,unsafe_regexp,unsafe_undefined,conditionals,dead_code,evaluate,booleans,loops,unused,drop_console=true,drop_debugger=true -m --comments '/^!/' && hugo --minify --gc && cat static/_redirects netlify-host-redirects > public/_redirects && cp 404-fallback.html public/404.html"
   
 [build.environment]
   HUGO_VERSION = "0.163.3"
@@ -18,7 +21,9 @@
   for = "/sddefault_*.webp" # Miniature YouTube self-hosted in fase di build (vedi shortcode youtube2)
 
 [headers.values]
-  Cache-Control = "public, max-age=604800"
+  # 1 anno: sono video propri, la miniatura non cambia in pratica (vedi commento
+  # in youtube2.html). PageSpeed segnalava "durata cache inefficiente" sui 7gg precedenti.
+  Cache-Control = "public, max-age=31536000"
 
 # CSS/JS con nome fingerprintato (hash sha512 nel filename via resources.fingerprint in
 # style.html/script.html): il contenuto cambia solo quando cambia l'hash, quindi possono
@@ -44,8 +49,8 @@
 # YouTube (max-age=7200, 2h) senza che le [[headers]] qui sotto possano sovrascriverlo - quella
 # regola si applica solo ai file serviti direttamente da Netlify, non alle risposte di un redirect
 # proxy verso un'origine esterna. La Edge Function fa il fetch esplicitamente e può quindi
-# impostare l'header lei stessa. max-age=604800 (7 giorni): risparmio di richieste privilegiato
-# rispetto alla freschezza, dato che le miniature non cambiano spesso.
+# impostare l'header lei stessa (vedi yt-thumb.js): max-age=31536000 (1 anno), risparmio di
+# richieste privilegiato rispetto alla freschezza, dato che le miniature non cambiano mai in pratica.
 [[edge_functions]]
   path = "/yt-thumb/:size/:id"
   function = "yt-thumb"

@@ -8,14 +8,26 @@
 {{ end }}
 {{ end }}
 {{ $styles := $styles | append (resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "style.scss" . | toCSS) }}
-{{ $styles := $styles | resources.Concat "/css/main.css" | minify | fingerprint "sha512"}}
-<!-- Link esterno invece di <style> inline: il bundle compilato (Bootstrap 5 +
-     SCSS custom, non ancora passato da PurgeCSS nonostante writeStats=true in
-     config.toml) pesa ~190KB minificati. Inlineato in ogni <head>, quel peso
-     è render-blocking su OGNI pagina e non viene mai messo in cache dal
-     browser tra una navigazione e l'altra. Come file esterno fingerprintato,
-     il browser lo scarica una sola volta per sessione (vedi Cache-Control in
-     netlify.toml) e le pagine successive lo trovano già in cache: è la causa
-     principale del "Ritardo di rendering" segnalato da PageSpeed/Search
-     Console sull'LCP mobile. -->
-<link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous">
+{{ $styles := $styles | resources.Concat "/css/main.css" }}
+
+<!-- Link esterno invece di <style> inline: il bundle compilato (Bootstrap 5 + SCSS
+     custom) inlineato in ogni <head> era ~190KB, render-blocking su OGNI pagina e
+     mai in cache tra una navigazione e l'altra. Come file esterno fingerprintato,
+     il browser lo scarica una sola volta per sessione (Cache-Control in netlify.toml)
+     ed è la causa principale del "Ritardo di rendering" segnalato da PageSpeed/Search
+     Console sull'LCP mobile.
+
+     In produzione passa anche da PurgeCSS (postcss.config.js, safelist lì per le
+     classi aggiunte solo via JS a runtime) per eliminare il CSS mai usato che
+     PageSpeed segnalava. PurgeCSS legge hugo_stats.json, completo solo a fine
+     build: per questo questo partial va incluso tramite templates.Defer (vedi
+     baseof.html) e non partialCached, che lo eseguirebbe troppo presto. -->
+{{ if hugo.IsProduction }}
+  {{ with $styles | css.PostCSS | minify | fingerprint "sha512" }}
+<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+  {{ end }}
+{{ else }}
+  {{ with $styles | fingerprint "sha512" }}
+<link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
+{{ end }}

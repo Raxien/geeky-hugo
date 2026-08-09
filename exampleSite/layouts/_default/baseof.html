@@ -1,0 +1,49 @@
+<!-- Override di exampleSite: unica differenza dal tema è l'inclusione di style.html,
+     che ora passa da templates.Defer invece di partialCached. Necessario perché lo
+     step di PurgeCSS dentro style.html legge hugo_stats.json, completo solo a fine
+     build: partialCached l'avrebbe eseguito troppo presto (al render della prima
+     pagina), templates.Defer lo rimanda alla fine come richiesto da Hugo per questo
+     esatto caso d'uso (vedi commento in style.html). Per il resto, copia di
+     themes/geeky-hugo/layouts/_default/baseof.html: tienili in sync a mano. -->
+<!DOCTYPE html>
+<html lang="{{ site.Language.Locale | default `it-IT` }}">
+
+<head>
+	{{ partial "head.html" . }}
+
+	{{ with (templates.Defer (dict "key" "site-css")) }}
+	{{ partial "style.html" . }}
+	{{ end }}
+</head>
+
+<body style="padding: 0px, 0px, 0px, 0px !important;">
+
+	{{ partial "banner.html" . }}
+	{{ partial "preloader.html" . }}
+	<!-- cache partial only in production -->
+	{{ if hugo.IsProduction }}
+	{{ partialCached "preloader.html" . }}
+	{{ partial "header.html" . }}
+	{{ else }}
+	{{ partial "preloader.html" . }}
+	{{ partial "header.html" . }}
+	{{ end }}
+
+	<main>
+		{{ block "main" . }}{{ end }}
+	</main>
+
+	<!-- cache partial only in production -->
+	{{ if hugo.IsProduction }}
+	{{ partialCached "script.html" . }}
+
+	{{ partialCached "footer.html" . }}
+	{{ else }}
+	{{ partial "script.html" . }}
+<!-- 	{{ partial "consent.html" . }} -->
+
+	{{ partial "footer.html" . }}
+	{{ end }}
+</body>
+
+</html>

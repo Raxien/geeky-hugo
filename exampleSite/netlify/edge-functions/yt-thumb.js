@@ -19,7 +19,11 @@ export default async (request) => {
   }
 
   const headers = new Headers(upstream.headers);
-  headers.set("Cache-Control", "public, max-age=604800");
+  // 1 anno: sono video propri (vedi commento in youtube2.html), la miniatura non
+  // cambia mai in pratica. PageSpeed segnalava "durata cache inefficiente" sui 7gg
+  // precedenti; qui non c'è un hash nel path da invalidare a un eventuale cambio,
+  // ma è un compromesso accettato consapevolmente (non fingerprintato come css/js).
+  headers.set("Cache-Control", "public, max-age=31536000");
 
   return new Response(upstream.body, {
     status: upstream.status,
