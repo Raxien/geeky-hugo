@@ -327,6 +327,9 @@ other = "Social"
 [home_h1]
 other = "Exploring the world by campervan, one kilometre at a time"
 
+[home_featured_h2]
+other = "Featured articles"
+
 [destinations_breadcrumb_root]
 other = "Destinations"
 

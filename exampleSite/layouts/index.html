@@ -7,6 +7,15 @@
      entrambi sarebbe un'occasione persa. -->
 <h1 class="sr-only">{{ i18n "home_h1" }}</h1>
 
+<!-- H2 sr-only: i titoli dei post in evidenza qui sotto (desktop e mobile, via
+     post-featured.html e il blocco inline) sono tutti h3 — senza questo, sarebbero
+     il primo heading dopo l'h1 e salterebbero un livello (PageSpeed/accessibilità:
+     "elementi di intestazione non in ordine decrescente sequenziale"). Stesso
+     pattern sr-only dell'h1 sopra: zero impatto visivo, la sezione "In evidenza"
+     qui non ha un titolo visibile a differenza dell'equivalente in Destinazioni
+     (destinations_featured_heading), che invece ha già il suo h2 a vista. -->
+<h2 class="sr-only">{{ i18n "home_featured_h2" }}</h2>
+
 <!--=================== blog header section start ===================-->
 <section class="section" style="padding-top: 40px; padding-bottom: 0px;">
   <div class="container">

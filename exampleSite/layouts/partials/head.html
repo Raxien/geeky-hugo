@@ -237,6 +237,10 @@
      a quell'origine parte solo quando il parser incontra il primo <img>, aggiungendo
      latenza piena proprio davanti all'immagine LCP. -->
 <link rel="preconnect" href="https://res.cloudinary.com" crossorigin>
+<!-- Segnalato da PageSpeed come "candidato per il precollegamento" (340ms): idb.iubenda.com
+     è contattato dagli script di consenso caricati in cima a questo file (autoblocking.js
+     etc.), la connessione va aperta il prima possibile. -->
+<link rel="preconnect" href="https://idb.iubenda.com" crossorigin>
 
 <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
 <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
