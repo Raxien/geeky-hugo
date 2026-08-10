@@ -44,9 +44,11 @@
                   {{ $cloudBase = replace $cloudBase " " "%20" }}
                   {{ $img110 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_110,c_limit" }}
                   {{ $img220 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_220,c_limit" }}
+                  <!-- lazy: blocco "small featured post" dentro d-none d-lg-flex, invisibile
+                       su mobile ma prima scaricato comunque eager per tutti e 4 i post. -->
                   <a href="{{.RelPermalink}}" class="d-block featured-image-container">
                     <div class="image-container">
-                      <img decoding="async"
+                      <img decoding="async" loading="lazy"
                         src="{{ $img110 | safeURL }}"
                         {{ printf `srcset="%s 110w, %s 220w"` $img110 $img220 | safeHTMLAttr }}
                         sizes="105px"
@@ -63,11 +65,11 @@
                   {{ $imageWebp:= $image.Fill "105x85 Center webp" }}
                   <a href="{{.RelPermalink}}" class="d-block featured-image-container">
                     <div class="image-container">
-                      <img decoding="async" 
-                        src="{{$imageWebp.RelPermalink}}" 
+                      <img decoding="async" loading="lazy"
+                        src="{{$imageWebp.RelPermalink}}"
                         srcset="{{$imageWebp.RelPermalink}} 1x, {{$imageWebp.RelPermalink}} 2x"
                         sizes="(max-width: 600px) 100vw, 600px"
-                        alt="{{ .Title }}" 
+                        alt="{{ .Title }}"
                         class="img-fluid rounded-4 post-featured-image"
                         onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
                     </div>
@@ -215,8 +217,8 @@
                     {{ $imageWebp:= $image.Fill "400x150 Center webp" }}
                     <a href="{{.RelPermalink}}" class="d-block featured-image-container">
                       <div class="image-container">
-                        <img decoding="async" 
-                          src="{{$imageWebp.RelPermalink}}" 
+                        <img decoding="async" loading="lazy"
+                          src="{{$imageWebp.RelPermalink}}"
                           srcset="{{$imageWebp.RelPermalink}} 1x, {{$imageWebp.RelPermalink}} 2x"
                           sizes="(max-width: 440px) 220px, 250px"
                           alt="{{ .Title }}"

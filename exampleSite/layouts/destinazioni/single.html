@@ -164,9 +164,10 @@
             {{ $cloudBase = replace $cloudBase " " "%20" }}
             {{ $img110 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_110,c_limit" }}
             {{ $img220 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_220,c_limit" }}
+            <!-- lazy: dentro d-none d-lg-flex, invisibile su mobile. -->
             <a href="{{ .RelPermalink }}" class="d-block featured-image-container">
               <div class="image-container">
-                <img decoding="async"
+                <img decoding="async" loading="lazy"
                   src="{{ $img110 | safeURL }}"
                   {{ printf `srcset="%s 110w, %s 220w"` $img110 $img220 | safeHTMLAttr }}
                   sizes="105px"
@@ -199,12 +200,17 @@
     <div class="d-lg-none mb-5">
       <div class="destination-carousel" id="destination-carousel">
         <div class="destination-carousel-track">
-          {{ range $featured }}
-          {{ $post := . }}
+          {{ range $i, $post := $featured }}
           <div class="destination-carousel-slide">
             <a href="{{ $post.RelPermalink }}" class="destination-carousel-link">
               {{ with $post.Params.image }}
+              <!-- Solo la prima slide è visibile al caricamento (le altre sono raggiungibili
+                   scorrendo il carosello): eager+priorità alta lì, lazy per il resto. -->
+              {{ if eq $i 0 }}
+              <img src="{{ . }}" alt="{{ $post.Title | markdownify }}" fetchpriority="high">
+              {{ else }}
               <img src="{{ . }}" alt="{{ $post.Title | markdownify }}" loading="lazy">
+              {{ end }}
               {{ end }}
               <div class="destination-carousel-overlay">
                 <h3 class="h4 mb-2">{{ $post.Title | markdownify }}</h3>

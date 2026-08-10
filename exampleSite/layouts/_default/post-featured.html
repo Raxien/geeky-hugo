@@ -13,13 +13,17 @@
     {{ $img1300 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_1300,c_limit" }}
     <a href="{{.RelPermalink}}" class="d-block" style="overflow: hidden;">
       <div class="image-container" style="width: 100%; height: 300px; position: relative; @media (max-width: 767px) { height: 200px; }">
-        <img loading="eager" decoding="async"
+        <!-- lazy, non eager+fetchpriority=high: questo partial è sempre dentro un
+             contenitore d-none d-lg-flex (vedi index.html/destinazioni), invisibile
+             su mobile — dove però veniva comunque scaricato subito e con priorità
+             massima, in competizione con la vera immagine LCP mobile per banda e
+             slot di connessione verso Cloudinary. -->
+        <img loading="lazy" decoding="async"
           src="{{ $img650 | safeURL }}"
           {{ printf `srcset="%s 400w, %s 650w, %s 1300w"` $img400 $img650 $img1300 | safeHTMLAttr }}
           sizes="(max-width: 767px) 100vw, 650px"
           alt="{{ .Title }}"
-          class="img-fluid post-featured-image"
-          fetchpriority="high">
+          class="img-fluid post-featured-image">
       </div>
     </a>
     {{ else }}
@@ -39,12 +43,11 @@
         <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
         <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
         <source srcset="{{ $imageLG.RelPermalink }}">
-        <img loading="eager" decoding="async" class="img-fluid w-100 post-featured-image" 
+        <img loading="lazy" decoding="async" class="img-fluid w-100 post-featured-image"
           src="{{$imageFallback.RelPermalink}}"
-          alt="{{.Title}}" 
-          width="{{$image.Width}}" 
-          height="{{$image.Height}}"
-          fetchpriority="high">
+          alt="{{.Title}}"
+          width="{{$image.Width}}"
+          height="{{$image.Height}}">
       </picture>
     </a>
     {{ end }}
