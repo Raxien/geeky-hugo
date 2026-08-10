@@ -3390,10 +3390,16 @@ p a {
 // già verificato altrove nel sito) + sottolineatura, per non affidarsi al solo
 // colore rispetto alla lingua attiva accanto (in grassetto, senza link).
 .lang-switch-link {
+  // Colore primario del tema (vedi altrove in questo file), non il blu di default di
+  // Bootstrap: senza un colore esplicito il link erediva $link-color mai sovrascritto
+  // nel progetto, e nella pillola IT|EN spiccava come un link "di sistema" fuori
+  // contesto rispetto al resto del sito.
+  color: #15817f;
   text-decoration: underline;
 
   &:hover,
   &:focus-visible {
+    color: darken(#15817f, 10%);
     text-decoration-thickness: 2px;
   }
 }
