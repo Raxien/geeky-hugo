@@ -48,6 +48,8 @@ Per un primo viaggio, secondo la nostra esperienza, **10-14 giorni permettono di
 
 Il nostro itinerario segue la strada da sud verso nord, partendo dal Mile 0.
 
+→ Leggi anche: Alaska Highway in camper, carburante, campeggi e soste
+
 ## 1. Dawson Creek: il Mile 0 dell'Alaska Highway
 
 Dawson Creek è il punto da cui ufficialmente comincia l'Alaska Highway. Qui si trova il famoso **Mile 0**, il punto simbolico da cui iniziare il viaggio. Ed è difficile non fermarsi qualche minuto a guardarlo. Da qui davanti avete oltre 2.000 chilometri. Non sapete ancora esattamente cosa incontrerete, quante volte vi fermerete, quanti animali vedrete o quanto tempo impiegherete davvero. Sapete soltanto che dovete andare verso nord.
