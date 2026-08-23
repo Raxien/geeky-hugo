@@ -110,7 +110,7 @@ function renderArticleBody(raw) {
       );
     }
     return stash(
-      '<div class="article__body__leggi-anche"><div class="leggi-anche-content"><span class="leggi-anche-label">leggi anche</span><span class="leggi-anche-title">🔀 Articolo correlato, scelto automaticamente in pubblicazione</span></div></div>'
+      '<div class="article__body__leggi-anche"><div class="leggi-anche-content"><span class="leggi-anche-label">leggi anche</span><span class="leggi-anche-title">🔀 Articolo correlato, scelto a caso in pubblicazione</span></div></div>'
     );
   });
 
@@ -130,10 +130,15 @@ function renderArticleBody(raw) {
   return html;
 }
 
-// Cerca i box "leggi anche" con un url impostato e ci carica dentro titolo/immagine reali,
+// Cerca i box "leggi anche" con un url impostato e ci carica dentro il titolo reale,
 // facendo il fetch della pagina pubblicata corrispondente (stesso trucco usato per il CSS
 // del tema). Manipola il DOM direttamente (non passa da React/setState): i box sono dentro
 // un dangerouslySetInnerHTML, quindi non sono nodi React gestiti, mutarli è il modo giusto.
+//
+// NOTA: niente più immagine iniettata qui (c'era un <img class="poligon"> con l'og:image
+// dell'articolo collegato). Senza il resto del contesto reale della pagina (dimensioni del
+// contenitore, altro CSS/JS della grid attorno al box) l'immagine veniva fuori sformata e
+// rovinava l'anteprima invece di aiutarla — meglio il solo titolo, corretto ma minimale.
 function hydrateLeggiAnche(root) {
   if (!root) return;
   const nodes = root.querySelectorAll('[data-leggianche-url]:not([data-leggianche-loaded])');
@@ -145,16 +150,8 @@ function hydrateLeggiAnche(root) {
       .then((html) => {
         const doc = new DOMParser().parseFromString(html, 'text/html');
         const realTitle = doc.querySelector('title')?.textContent?.trim();
-        const image = doc.querySelector('meta[property="og:image"]')?.getAttribute('content');
         const titleEl = node.querySelector('.leggi-anche-title');
         if (titleEl && realTitle) titleEl.textContent = realTitle;
-        if (image) {
-          const img = document.createElement('img');
-          img.className = 'poligon';
-          img.alt = realTitle || '';
-          img.src = image;
-          node.querySelector('a')?.appendChild(img);
-        }
       })
       .catch(() => {
         const titleEl = node.querySelector('.leggi-anche-title');

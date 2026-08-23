@@ -36,6 +36,24 @@ function parseAttrs(str) {
   return attrs;
 }
 
+// Stile del "boxetino" di anteprima nel blocco editor, condiviso da indice e leggi-anche
+// qui sotto — stessa estetica (bordo tratteggiato) del placeholder che preview.js usa per
+// l'indice nel pannello laterale. NOTA: in Sveltia toPreview non viene ancora renderizzato
+// dentro l'editor (limite noto, vedi testata del file) — questo codice è corretto e pronto,
+// ma visibile solo quando/se Sveltia lo implementerà (o già oggi sul branch Decap gemello).
+const PREVIEW_BOX_STYLE = 'border:1px dashed #999;padding:.75rem;border-radius:6px';
+
+/** "mio-slug-di-esempio" -> "Mio Slug Di Esempio" — approssimazione leggibile dello slug,
+ * NON il titolo vero recuperato dal server (toPreview è sincrono, non può fare fetch):
+ * il titolo vero e l'immagine reale si vedono nel pannello di anteprima laterale (preview.js,
+ * che invece fa il fetch della pagina pubblicata). */
+function humanizeSlug(slug) {
+  return slug
+    .replace(/[-_]+/g, ' ')
+    .trim()
+    .replace(/\b\w/g, (c) => c.toUpperCase());
+}
+
 // ---------------------------------------------------------------------------
 // image — {{< image src="..." alt="..." caption="..." p="center" >}}
 // ---------------------------------------------------------------------------
@@ -43,7 +61,18 @@ CMS.registerEditorComponent({
   id: 'image-shortcode',
   label: '🖼️ Immagine (shortcode)',
   fields: [
-    { name: 'src', label: 'URL immagine (Cloudinary o /images/...)', widget: 'string' },
+    {
+      name: 'src',
+      label: 'Immagine (carica su Cloudinary o incolla un URL)',
+      widget: 'image',
+      // Stesso provider Cloudinary configurato in cima a config.yml (schema "media_library"
+      // singolare, coerente col top-level — vedi nota lì su perché non usiamo il plurale).
+      // output_filename_only NON impostato qui: eredita false dal top-level, quindi salva
+      // l'URL completo — è quello che image.html si aspetta (fa hasPrefix "http").
+      media_library: {
+        config: { folder: 'articoli' },
+      },
+    },
     { name: 'alt', label: 'Testo alternativo (SEO/accessibilità)', widget: 'string', required: false },
     { name: 'caption', label: 'Didascalia', widget: 'string', required: false },
     {
@@ -136,9 +165,26 @@ CMS.registerEditorComponent({
   fields: [
     {
       name: 'images',
-      label: 'Immagini (public ID Cloudinary, riordinabili trascinandole)',
+      label: 'Immagini (carica su Cloudinary, riordinabili trascinandole)',
       widget: 'list',
-      field: { label: 'Public ID', name: 'id', widget: 'string' },
+      field: {
+        label: 'Immagine',
+        name: 'id',
+        widget: 'image',
+        // A differenza del campo "src" di image-shortcode qui serve il PUBLIC ID nudo
+        // (con eventuale prefisso cartella, es. "articoli/foo"), non l'URL completo:
+        // è quello che carousel.html passa a Cloudinary come publicId (vedi
+        // cloudinary.galleryWidget -> mediaAssets). output_filename_only:true dovrebbe
+        // fare esattamente questo (schema "media_library" singolare, coerente col resto
+        // del file — vedi nota in cima a config.yml sul perché). Non verificato dal vivo:
+        // se questo campo continua a salvare l'URL completo invece del solo public ID,
+        // segnalalo — vuol dire che va rivisto (o aggiunto un fallback manuale come per
+        // la copertina, vedi cloudinary-uploader.html modalità "Carosello").
+        media_library: {
+          config: { folder: 'articoli' },
+          output_filename_only: true,
+        },
+      },
     },
   ],
   pattern: /^{{<\s*carousel\s+images="([^"]*)"\s*>}}$/m,
@@ -164,7 +210,8 @@ CMS.registerEditorComponent({
   pattern: /^{{<\s*indice\s*>}}$/m,
   fromBlock: () => ({}),
   toBlock: () => `{{< indice >}}`,
-  toPreview: () => `<div>📑 Indice generato automaticamente dai titoli dell'articolo</div>`,
+  toPreview: () =>
+    `<div style="${PREVIEW_BOX_STYLE}"><em>📑 Indice — generato automaticamente in pubblicazione dai titoli dell'articolo</em></div>`,
 });
 
 // ---------------------------------------------------------------------------
@@ -226,7 +273,16 @@ function leggiAncheComponent(targetCollection) {
     pattern: /^{{<\s*leggi-anche(?:\s+url="\/blog\/([^"]*)")?\s*>}}$/m,
     fromBlock: (match) => ({ target: match[1] || '' }),
     toBlock: (data) => (data.target ? `{{< leggi-anche url="/blog/${data.target}" >}}` : `{{< leggi-anche >}}`),
-    toPreview: (data) => (data.target ? `<div>🔗 Leggi anche: <code>/blog/${data.target}</code></div>` : '<div>🔗 Leggi anche: articolo scelto automaticamente</div>'),
+    // "Boxetino" come indice qui sopra. Il titolo mostrato è una versione leggibile dello
+    // SLUG salvato (humanizeSlug), non il vero titolo dell'articolo: toPreview è sincrono
+    // e non può fare fetch, quindi non ha accesso al titolo reale (solo al value_field
+    // "{{slug}}" del campo relation). Il vero titolo + immagine si vedono nell'anteprima
+    // laterale (preview.js -> hydrateLeggiAnche, che fa il fetch della pagina pubblicata).
+    // Se non è impostato nessun articolo, testo di default come richiesto: "scelto a caso".
+    toPreview: (data) =>
+      `<div style="${PREVIEW_BOX_STYLE}"><em>🔗 Leggi anche: ${
+        data.target ? humanizeSlug(data.target) : 'scelto a caso'
+      }</em></div>`,
   };
 }
 

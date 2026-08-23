@@ -27,12 +27,26 @@ public_folder: '/uploads'
 
 # Cloudinary è nativo in Sveltia (a differenza di Decap non serve un secondo script):
 # apre la vera Media Library Cloudinary, login con l'account già in uso per il sito.
+#
+# ATTENZIONE per chi tocca questo blocco: qui sotto è tornata di proposito la forma
+# "media_library" (singolare) invece di "media_libraries" (plurale, versione precedente
+# di questo file). La forma plurale viene dalla documentazione ufficiale come quella
+# "corrente", ma NON è stata verificata dal vivo su questa installazione — dopo averla
+# messa, Cloudinary ha smesso di comparire nell'editor. Questa singolare è quella che
+# risultava testata e funzionante ("verificato" in SETUP.md) prima di quel cambio: se
+# torna a funzionare, il problema era lo schema; se NON torna a funzionare, il problema
+# è altrove (api_key sbagliata/mancante — vedi sotto) e va cercato lì.
+#
+# api_key: sostituisci il valore qui sotto con la TUA API Key vera, presa da
+# console.cloudinary.com (in alto nella dashboard, NON l'API Secret) — se il valore
+# attuale non è la tua chiave reale (es. è rimasto un numero segnaposto da un giro
+# precedente), è probabile che sia proprio questo il motivo per cui non vedi Cloudinary.
 media_library:
   name: cloudinary
   config:
     cloud_name: ilgattodicitturin
     api_key: 373883797928475
-    output_filename_only: false
+    output_filename_only: false # copertina = URL Cloudinary completo (usato così da image.html)
 
 # Niente "locale: it" qui: su Sveltia quella chiave non è supportata (era per l'UI di
 # Decap, non per il contenuto) e genera solo un avviso in console — vedi note su Decap.
@@ -54,6 +68,19 @@ collections:
     format: 'frontmatter'
     sortable_fields: ['date', 'title']
     fields:
+      # Campo di appoggio (vedi import-markdown.js): NON finisce mai nel frontmatter
+      # pubblicato, viene svuotato/rimosso al salvataggio dopo aver popolato i campi
+      # veri qui sotto — se non compili nulla qui, funziona come sempre (manuale).
+      #
+      # widget "text" (non un bottone custom): un campo custom con vero upload file
+      # richiede un "control" JS che Sveltia non ha renderizzato in prova (si vedeva solo
+      # l'etichetta/hint, nessun input) — non risolvibile senza poterlo testare dal vivo.
+      # Il copia-incolla con un widget standard invece è garantito funzionare sempre.
+      - label: '📥 Incolla qui il contenuto di un vecchio file .md (opzionale)'
+        name: 'import_markdown'
+        widget: 'text'
+        required: false
+        hint: 'Apri il vecchio file .md (es. su GitHub), copia TUTTO (dai "---" iniziali fino in fondo al testo) e incollalo qui. Al Salva riempie automaticamente i campi qui sotto (li sovrascrive) e il corpo articolo, poi questo campo si svuota da solo.'
       - { label: 'Titolo', name: 'title', widget: 'string' }
       - { label: 'Descrizione (SEO, ~155 caratteri)', name: 'description', widget: 'text' }
       - label: 'Copertina'
@@ -116,6 +143,19 @@ collections:
     format: 'frontmatter'
     sortable_fields: ['date', 'title']
     fields:
+      # Support field (see import-markdown.js): NEVER ends up in the published
+      # frontmatter, it's cleared/removed on save after populating the real fields
+      # below — leave it empty and nothing changes (fill in manually as before).
+      #
+      # "text" widget (not a custom upload button): a custom field with a real file
+      # picker needs a JS control that Sveltia didn't render in testing (only the
+      # label/hint showed up, no input) — can't fix that without live testing. Plain
+      # copy-paste with a standard widget is guaranteed to always render instead.
+      - label: '📥 Paste the content of an old .md file here (optional)'
+        name: 'import_markdown'
+        widget: 'text'
+        required: false
+        hint: 'Open the old .md file (e.g. on GitHub), copy ALL of it (from the opening "---" to the end of the text) and paste it here. On Save it fills in the fields below (overwriting them) and the article body, then this field clears itself.'
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Description (SEO)', name: 'description', widget: 'text' }
       - label: 'Cover'

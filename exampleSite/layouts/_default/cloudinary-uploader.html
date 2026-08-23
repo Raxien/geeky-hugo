@@ -197,7 +197,7 @@
                         <div class="upload-area" id="uploadArea">
                             <div class="upload-icon">☁️</div>
                             <p><strong>Clicca per selezionare</strong> o trascina qui le immagini</p>
-                            <p style="font-size: 12px; color: #888; margin-top: 5px;">Supporta JPG, PNG, WebP • Puoi caricare più foto contemporaneamente</p>
+                            <p style="font-size: 12px; color: #888; margin-top: 5px;" id="uploadHint">Supporta JPG, PNG, WebP • Puoi caricare più foto contemporaneamente</p>
                         </div>
                         <input type="file" id="fileInput" accept="image/*" multiple>
                     </div>
@@ -233,6 +233,8 @@
 
         const uploadArea = document.getElementById('uploadArea');
         const fileInput = document.getElementById('fileInput');
+        const uploadHint = document.getElementById('uploadHint');
+        const outputTypeRadios = document.querySelectorAll('input[name="outputType"]');
         const folderInput = document.getElementById('folderInput');
         const previewContainer = document.getElementById('previewContainer');
         const uploadBtn = document.getElementById('uploadBtn');
@@ -247,6 +249,26 @@
         const shortcodeClose = "\" >}}";
 
         let selectedFiles = [];
+
+        // Copertina = un articolo ha UNA sola cover: qui il file input diventa a scelta
+        // singola (niente "multiple" nel picker del sistema operativo) e, se arrivano più
+        // file lo stesso (drag&drop), teniamo solo il primo — coerente con l'output
+        // "Copertina" qui sotto in generateShortcode(), che comunque usava già solo urls[0].
+        function isCoverMode() {
+            const checked = document.querySelector('input[name="outputType"]:checked');
+            return checked && checked.value === 'cover';
+        }
+
+        function updateUploadModeUI() {
+            const cover = isCoverMode();
+            fileInput.multiple = !cover;
+            uploadHint.textContent = cover
+                ? 'Supporta JPG, PNG, WebP • Una sola immagine (è la copertina dell\'articolo)'
+                : 'Supporta JPG, PNG, WebP • Puoi caricare più foto contemporaneamente';
+        }
+
+        outputTypeRadios.forEach((radio) => radio.addEventListener('change', updateUploadModeUI));
+        updateUploadModeUI(); // stato iniziale, coerente col radio già selezionato di default
 
         // Click to select files
         uploadArea.addEventListener('click', () => fileInput.click());
@@ -274,6 +296,13 @@
 
         function handleFiles(files) {
             selectedFiles = Array.from(files);
+            // In modalità Copertina il picker non permette la multi-selezione (vedi
+            // updateUploadModeUI), ma il drag&drop può comunque portare più file insieme:
+            // teniamo solo il primo, coerente con l'output che usa solo urls[0].
+            if (isCoverMode() && selectedFiles.length > 1) {
+                selectedFiles = selectedFiles.slice(0, 1);
+                showMessage('Modalità Copertina: tenuta solo la prima immagine (un articolo ha una sola cover).', 'error');
+            }
             displayPreviews();
             uploadBtn.disabled = selectedFiles.length === 0;
         }

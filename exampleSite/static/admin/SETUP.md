@@ -80,7 +80,35 @@ identico). Differenze rilevanti rispetto al branch Decap:
   sbagliato, verificare con l'anteprima (avvisa se il link non trova nulla) e correggere a
   mano in modalità markdown grezzo se serve.
 - Copertina caricata direttamente su Cloudinary dall'editor (integrazione nativa,
-  `cloud_name` già impostato).
+  `cloud_name`/`api_key` in cima a `config.yml`, chiave `media_library` **singolare** —
+  vedi il commento lì: una prova con lo schema `media_libraries` plurale, presentato dalla
+  documentazione come quello "corrente", ha fatto sparire Cloudinary dall'editor, quindi si
+  è tornati alla forma singolare (quella testata funzionante). Se non vedi comunque
+  Cloudinary: l'`api_key` in quel blocco potrebbe non essere la tua chiave vera — prendila
+  da console.cloudinary.com (in alto nella dashboard) e sostituiscila lì.
+- Stesso tentativo di upload diretto anche dentro i blocchi `image` e `carousel` (vedi
+  `shortcodes.js`), stesso schema `media_library` singolare per coerenza — per `carousel`
+  serve inoltre `output_filename_only: true` (salva il public ID nudo, non l'URL, com'è
+  richiesto da `carousel.html`). **Non verificato dal vivo**: se non funziona, c'è un
+  fallback pronto — vedi il tool `/cloudinary-uploader/` due punti sotto.
+- Tool interno **`/cloudinary-uploader/`** (`exampleSite/content/it/cloudinary-uploader.md`
+  + `layouts/_default/cloudinary-uploader.html`, fuori da `/admin/`): upload diretto via
+  unsigned upload preset Cloudinary (`v_upload`, non serve login né API key), tre modalità
+  — Copertina (una sola immagine, restituisce l'URL pulito da incollare a mano nel campo
+  Copertina se il Cloudinary nativo dell'editor non funziona), Immagine singola (uno
+  shortcode `image` per file) e Carosello (uno shortcode `carousel` con tutti i public ID).
+  Era già funzionante prima di `/admin/`: utile come fallback manuale sempre disponibile.
+- Campo "📥 Incolla qui il contenuto di un vecchio file .md" (primo campo di ogni
+  collection, vedi `import-markdown.js`): incolla il contenuto di un vecchio file .md con
+  frontmatter YAML e, al Salva, riempie automaticamente titolo/descrizione/copertina/data/
+  categorie/ecc. e il corpo articolo. È un widget "text" normale (copia-incolla), non un
+  bottone di upload file: un campo custom con un vero `<input type="file">` è stato provato
+  ma nell'editor si vedeva solo l'etichetta/hint, nessun controllo — non risolvibile senza
+  poter testare dal vivo l'ambiente Sveltia, quindi si è tornati al copia-incolla, garantito
+  funzionare. Limite tecnico dichiarato di Sveltia (vedi commento in testa al file): un
+  campo custom può leggere gli altri campi dell'entry ma non scriverli mentre si compila il
+  form — la scrittura vera avviene nell'evento `preSave`, cioè quando si preme Salva/
+  Pubblica, non subito dopo aver incollato il testo.
 - Campi `slug`/`language` dichiarati esplicitamente, per non perderli sui file che li hanno
   già (vedi nota su data loss più sopra).
 - Data pubblicazione precompilata a oggi sui nuovi articoli (`default: '{{now}}'`).
