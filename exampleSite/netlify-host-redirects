@@ -11,10 +11,20 @@
 # sotto) devono quindi restare in fondo al file.
 
 # Netlify CMS: /admin punta all'albero della lingua del dominio richiesto.
-https://vandipety.it/admin/*       /it/admin/index.html   200
-https://www.vandipety.it/admin/*   /it/admin/index.html   200
-https://vandipety.com/admin/*      /en/admin/index.html   200
-https://www.vandipety.com/admin/*  /en/admin/index.html   200
+# NOTA: il target usa :splat (non un index.html fisso) perché Sveltia, una volta
+# caricato /admin/index.html, fa fetch relativi a se stesso per config.yml,
+# preview.js e shortcodes.js (es. GET /admin/config.yml). Con un target fisso
+# a .../index.html quelle richieste ricevevano tutte la pagina HTML al posto
+# del vero file (es. config.yml serviva HTML invece di YAML), da cui l'errore
+# "The configuration file could not be parsed" SOLO in produzione (in locale
+# hugo server non applica questi redirect, quindi il problema non si vedeva).
+# Con :splat, /admin/ (splat vuoto) risolve comunque su index.html grazie al
+# comportamento di directory-index di Netlify, mentre /admin/config.yml ecc.
+# raggiungono il file reale.
+https://vandipety.it/admin/*       /it/admin/:splat   200
+https://www.vandipety.it/admin/*   /it/admin/:splat   200
+https://vandipety.com/admin/*      /en/admin/:splat   200
+https://www.vandipety.com/admin/*  /en/admin/:splat   200
 
 # Passthrough per la vera pagina 404 renderizzata da Hugo (con header/footer/nav
 # del tema, non il fallback statico minimale). Deve stare PRIMA del catch-all
