@@ -4,6 +4,18 @@
     <meta charset="utf-8" />
     <meta name="robots" content="noindex, nofollow" />
     <title>Vandipety — Gestione contenuti</title>
+    <!-- Fix vero per gli script relativi che risultavano 404 in produzione (shortcodes.js,
+         preview.js, import-markdown.js caricati da https://vandipety.it/ invece che da
+         .../admin/): quando questa pagina si apre da "/admin" SENZA slash finale, il
+         browser risolve i path relativi come se "admin" fosse un FILE nella root, non una
+         cartella — succede perché il rewrite per-dominio in netlify-host-redirects (verso
+         /it/admin/index.html o /en/admin/index.html) è un rewrite silenzioso: il contenuto
+         cambia ma l'URL nella barra dell'indirizzo resta quello richiesto, slash o non slash.
+         Un redirect 301 lato Netlify per aggiungere lo slash è stato provato e ha rotto tutto
+         ancora peggio (loop infinito, vedi nota in static/_redirects) — <base> qui invece
+         fissa la cartella di risoluzione per QUALSIASI src/href relativo della pagina,
+         indipendentemente da cosa mostri la barra indirizzo: niente più redirect da gestire. -->
+    <base href="/admin/">
     <!-- Impedisce al browser di richiedere /favicon.ico di default (404 in console,
          innocuo ma inutile qui: pagina interna, non ha senso importare la favicon vera). -->
     <link rel="icon" href="data:,">
