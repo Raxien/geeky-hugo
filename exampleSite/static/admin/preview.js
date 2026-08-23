@@ -9,10 +9,20 @@
  * problema con un'anteprima dell'INTERO articolo invece che del singolo blocco.)
  *
  * Come funziona:
- *  1. Recupera il CSS vero del tema da una pagina reale del sito (stesso identico
- *     <style> che il tema inlinea in ogni pagina — verificato: è uguale su home e
- *     articoli, non c'è purge per-pagina in questo sito) e lo registra con
+ *  1. Recupera il CSS vero del tema da una pagina reale del sito e lo registra con
  *     CMS.registerPreviewStyle(..., {raw:true}). Nessuna build aggiuntiva richiesta.
+ *     Il CSS ora è un <link rel="stylesheet" href="/css/main.<hash>.css"> ESTERNO
+ *     (non più inlineato in un <style> come quando questo file è stato scritto — vedi
+ *     il commit "fix lcp" e il commento in layouts/partials/style.html: il bundle
+ *     inline pesava ~190KB render-blocking su ogni pagina, spostato fuori per l'LCP),
+ *     quindi qui sotto servono DUE fetch: la pagina per trovare l'URL (cambia ad ogni
+ *     build per il fingerprint sha512), poi l'URL stesso per il contenuto. Prima si
+ *     cercava un <style type="text/css"> che non esiste più: il fetch "riusciva"
+ *     silenziosamente (nessun errore in console) ma non trovava nulla da registrare,
+ *     quindi l'intera anteprima laterale girava SENZA lo stile vero del tema — è
+ *     questo il motivo per cui il box "leggi anche" appariva senza box (testo delle
+ *     due span attaccato, niente sfondo/angoli arrotondati) e le immagini nel corpo
+ *     apparivano alla dimensione naturale del file invece che a quella del tema.
  *  2. Converte a mano gli shortcode noti (stesse regex di shortcodes.js, qui applicate
  *     all'intero testo invece che a un singolo blocco) nell'HTML che il tema
  *     genererebbe davvero, poi passa il resto a `marked` per il markdown normale.
@@ -28,14 +38,19 @@
 fetch('/')
   .then((r) => r.text())
   .then((html) => {
-    // style.html del tema inlinea il CSS compilato con questo identico attributo:
-    // <style type="text/css">...</style> — le altre <style> in pagina non ce l'hanno.
-    const match = html.match(/<style type="text\/css">([\s\S]*?)<\/style>/);
-    if (match) {
-      CMS.registerPreviewStyle(match[1], { raw: true });
-    } else {
-      console.warn('[preview.js] CSS del tema non trovato in "/": anteprima senza stile reale.');
+    // Il bundle vero è l'unico <link> il cui href contiene "/css/main" (fingerprint
+    // sha512 in coda, cambia ad ogni build) — vedi resources.Concat("/css/main.css")
+    // in style.html. Ce ne possono essere altri (Google Fonts, eventuali plugin CSS
+    // esterni in site.Params.plugins.css): non li vogliamo, cerchiamo solo questo.
+    const linkMatch = html.match(/<link[^>]+href="([^"]*\/css\/main[^"]*\.css)"[^>]*>/);
+    if (!linkMatch) {
+      console.warn('[preview.js] link al CSS del tema non trovato in "/": anteprima senza stile reale.');
+      return null;
     }
+    return fetch(linkMatch[1]).then((r) => r.text());
+  })
+  .then((css) => {
+    if (css) CMS.registerPreviewStyle(css, { raw: true });
   })
   .catch((err) => console.warn('[preview.js] impossibile recuperare il CSS del tema:', err));
 
