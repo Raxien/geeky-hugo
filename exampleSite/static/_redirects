@@ -4,6 +4,18 @@
 # Questo file resta per i redirect SEO indipendenti dalla lingua (vedi netlify.toml
 # per come viene unito al file _redirects pubblicato).
 
+# /admin SENZA slash finale: senza questa riga finiva dritto sul catch-all per dominio
+# di netlify-host-redirects (le regole "/admin/*" lì non fanno match senza lo slash),
+# che lo serviva con un rewrite 200 silenzioso — l'URL nella barra dell'indirizzo
+# restava "/admin" (senza slash), quindi il browser risolveva gli script relativi di
+# index.html (shortcodes.js, preview.js, import-markdown.js, persino config.yml)
+# contro la ROOT del dominio invece che contro "/admin/" -> tutti 404 (visti in console:
+# "GET https://vandipety.it/shortcodes.js 404"). Questa riga deve stare PRIMA di
+# netlify-host-redirects (concatenato dopo, vedi netlify.toml) ed è un vero redirect
+# 301 (cambia la barra indirizzo), non un rewrite: solo così poi la regola "/admin/*"
+# in netlify-host-redirects trova lo slash e fa match come dovrebbe.
+/admin /admin/ 301
+
 # SEO URL redirects (from commit 3d58fc5 - Sistemati url e fix articoli)
 /blog/l-ariege-in-camper-tour-di-9-giorni-in-una-regione-francese-meravigliosa /blog/ariege-camper-tour-9-giorni-regione-francese 301
 /blog/brolo-un-gatto-a -passo-nel-paese-dei-gatti /blog/brolo-nel-paese-dei-gatti 301
