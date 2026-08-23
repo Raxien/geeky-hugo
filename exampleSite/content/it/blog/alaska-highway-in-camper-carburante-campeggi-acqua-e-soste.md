@@ -1,9 +1,8 @@
 ---
-import_markdown: ''
 title: 'Alaska Highway in camper: carburante, campeggi, acqua e soste'
 description: "Dove fare benzina e dormire lungo l'Alaska Highway? Guida pratica per camper: carburante, campeggi, acqua, dump station e soste."
 image: /uploads/okanaganvalley.png
-date: 2026-08-23T09:21
+date: 2026-08-23T09:21:00
 categories:
   - Alaska Highway
 continent: Nord America

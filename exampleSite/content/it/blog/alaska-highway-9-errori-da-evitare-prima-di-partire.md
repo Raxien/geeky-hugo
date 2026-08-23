@@ -1,9 +1,8 @@
 ---
-import_markdown: ''
 title: 'Alaska Highway: 9 errori da evitare prima di partire'
 description: State organizzando un viaggio sull'Alaska Highway? Ecco 9 errori da evitare, dal carburante alle distanze, dal meteo alla fauna, con consigli pratici.
 image: /uploads/okanaganvalley.png
-date: 2026-08-23T09:26
+date: 2026-08-23T09:26:00
 categories:
   - Alaska Highway
 continent: Nord America

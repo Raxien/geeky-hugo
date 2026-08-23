@@ -1,9 +1,8 @@
 ---
-import_markdown: ''
 title: 'Alaska Highway: condizioni della strada, guida e cosa aspettarsi'
 description: "Com'è davvero l'Alaska Highway? Frost heave, ghiaia, buche, cantieri, camion e fauna: cosa aspettarsi e come guidare in sicurezza."
 image: /uploads/okanaganvalley.png
-date: 2026-08-23T09:13
+date: 2026-08-23T09:13:00
 categories:
   - Alaska Highway
 continent: Nord America

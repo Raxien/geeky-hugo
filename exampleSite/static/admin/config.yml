@@ -89,7 +89,11 @@ collections:
         media_library:
           config:
             folder: 'articoli' # cartella Cloudinary suggerita per le nuove cover
-      - { label: 'Data pubblicazione', name: 'date', widget: 'datetime', default: '{{now}}' }
+      # format esplicito (token Day.js): senza, "{{now}}" ha prodotto "2026-08-23T09:38"
+      # (niente secondi) — Hugo non lo sa parsare ("not a parsable date", build rotta).
+      # Questo formato è lo stesso già usato in TUTTO il corpus esistente (es.
+      # "2023-09-23T08:00:00.000"), quindi sicuro anche per gli articoli editati a mano.
+      - { label: 'Data pubblicazione', name: 'date', widget: 'datetime', default: '{{now}}', format: 'YYYY-MM-DDTHH:mm:ss.SSS' }
       - label: 'Categorie'
         name: 'categories'
         widget: 'list'
@@ -164,7 +168,8 @@ collections:
         media_library:
           config:
             folder: 'articoli'
-      - { label: 'Publish date', name: 'date', widget: 'datetime', default: '{{now}}' }
+      # explicit format (Day.js tokens): same reasoning/value as the IT collection above.
+      - { label: 'Publish date', name: 'date', widget: 'datetime', default: '{{now}}', format: 'YYYY-MM-DDTHH:mm:ss.SSS' }
       - label: 'Categories'
         name: 'categories'
         widget: 'list'

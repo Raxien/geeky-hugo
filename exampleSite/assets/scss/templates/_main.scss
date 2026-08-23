@@ -3384,22 +3384,26 @@ p a {
     left: 100%;
   }
 }
-// Link "IT | EN" nell'header (vedi partials/header.html): prima era text-muted
-// senza sottolineatura, PageSpeed segnalava il contrasto insufficiente per gli
-// utenti ipovedenti. Colore di testo normale (eredita da body, stesso contrasto
-// già verificato altrove nel sito) + sottolineatura, per non affidarsi al solo
-// colore rispetto alla lingua attiva accanto (in grassetto, senza link).
+// Link "IT | EN" nell'header (vedi partials/header.html): lingua attiva nera
+// (span, non un link) e lingua non attiva grigia, senza ereditare il blu +
+// sottolineatura di default di Bootstrap/link di sistema, che qui è fuori
+// contesto rispetto al resto del sito. Il grassetto sulla lingua attiva resta
+// il segnale che non si affida al solo colore per distinguere le due.
+.lang-switch {
+  .fw-bold {
+    color: #000;
+  }
+}
+
 .lang-switch-link {
-  // Colore primario del tema (vedi altrove in questo file), non il blu di default di
-  // Bootstrap: senza un colore esplicito il link erediva $link-color mai sovrascritto
-  // nel progetto, e nella pillola IT|EN spiccava come un link "di sistema" fuori
-  // contesto rispetto al resto del sito.
-  color: #15817f;
-  text-decoration: underline;
+  // #6c757d = grigio secondario di Bootstrap, contrasto AA verificato su sfondo
+  // bianco (era stato segnalato da PageSpeed con il precedente text-muted).
+  color: #6c757d;
+  text-decoration: none;
 
   &:hover,
   &:focus-visible {
-    color: darken(#15817f, 10%);
-    text-decoration-thickness: 2px;
+    color: #495057;
+    text-decoration: underline;
   }
 }

@@ -1,9 +1,8 @@
 ---
-import_markdown: ''
 title: 'Banff e Jasper in camper: cosa vedere, itinerario e consigli pratici'
 description: 'Banff e Jasper in camper: itinerario di 7 giorni, cosa vedere, Icefields Parkway, Lake Louise, Moraine Lake, Maligne Lake e consigli pratici.'
 image: /uploads/okanaganvalley.png
-date: 2026-08-23T08:58
+date: 2026-08-23T08:58:00
 categories:
   - Canada in camper
 continent: Nord America

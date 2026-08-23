@@ -1,9 +1,8 @@
 ---
-import_markdown: ''
 title: 'Alaska Highway: la storia della strada che attraversa il Nord America'
 description: "La storia dell'Alaska Highway: perché fu costruita, chi la realizzò, i Buffalo Soldiers e come una strada militare è diventata una delle grandi highway del Nord America."
 image: /uploads/okanaganvalley.png
-date: 2026-08-23T09:01
+date: 2026-08-23T09:01:00
 categories:
   - Alaska Highway
 continent: Nord America

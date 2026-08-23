@@ -66,25 +66,31 @@ CMS.registerEventListener({
   name: 'preSave',
   handler: ({ entry }) => {
     const raw = entry.getIn(['data', 'import_markdown']);
-    if (!raw) return entry; // niente incollato, comportamento invariato
-
-    const parsed = parseFrontmatterFile(raw);
-    if (!parsed) return entry; // testo non valido: non tocco nulla, resta lì da correggere/annullare
-
     let data = entry.get('data');
-    IMPORT_MD_KNOWN_FIELDS.forEach((key) => {
-      if (Object.prototype.hasOwnProperty.call(parsed.data, key)) {
-        data = data.set(key, parsed.data[key]);
-      }
-    });
-    if (typeof parsed.body === 'string') {
-      data = data.set('body', parsed.body);
-    }
-    // Rimuove del tutto la chiave (non solo svuotarla) così "import_markdown" non finisce
-    // mai scritto nel frontmatter pubblicato — stesso principio dei campi "scratch" citato
-    // nella documentazione Sveltia sull'evento preSave.
-    data = data.delete('import_markdown');
 
+    // BUG osservato: quando il campo è vuoto (nessun import), il primo "return entry"
+    // qui sotto usava saltare anche il delete — ma essendo un campo DICHIARATO in
+    // config.yml, Sveltia lo scrive comunque nel frontmatter pubblicato con valore ''
+    // se non viene esplicitamente rimosso (visto in produzione: "import_markdown: ''"
+    // in cima a un articolo pubblicato). Il delete va quindi fatto SEMPRE, non solo
+    // quando c'è davvero qualcosa da importare.
+    if (raw) {
+      const parsed = parseFrontmatterFile(raw);
+      if (parsed) {
+        IMPORT_MD_KNOWN_FIELDS.forEach((key) => {
+          if (Object.prototype.hasOwnProperty.call(parsed.data, key)) {
+            data = data.set(key, parsed.data[key]);
+          }
+        });
+        if (typeof parsed.body === 'string') {
+          data = data.set('body', parsed.body);
+        }
+      }
+      // testo non vuoto ma non parsabile: non tocco gli altri campi (resta lì da
+      // correggere/annullare), ma il campo di appoggio viene comunque rimosso sotto.
+    }
+
+    data = data.delete('import_markdown');
     return entry.set('data', data);
   },
 });

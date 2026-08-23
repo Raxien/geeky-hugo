@@ -1,9 +1,8 @@
 ---
-import_markdown: ''
 title: 'Revelstoke in camper: cosa vedere tra montagne, foreste e strade panoramiche'
 description: 'Revelstoke in camper: Mount Revelstoke National Park, Meadows in the Sky Parkway, cedri giganti e laghi. Cosa vedere e cosa sapere per organizzare la tappa.'
 image: /uploads/okanaganvalley.png
-date: 2026-08-23T08:26
+date: 2026-08-23T08:26:00
 categories:
   - Canada in camper
 continent: Nord America

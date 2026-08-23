@@ -1,9 +1,8 @@
 ---
-import_markdown: ''
 title: 'Icefields Parkway in camper: itinerario da Banff a Jasper, tappe e consigli'
 description: 'Icefields Parkway in camper: itinerario da Banff a Jasper, cosa vedere, dove fermarsi, campeggi, benzina, acqua e consigli pratici.'
 image: /uploads/okanaganvalley.png
-date: 2026-08-23T08:42
+date: 2026-08-23T08:42:00
 categories:
   - Canada in camper
 continent: Nord America

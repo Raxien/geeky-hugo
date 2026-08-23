@@ -1,9 +1,8 @@
 ---
-import_markdown: ''
 title: 'Alaska Highway: itinerario completo da Dawson Creek a Delta Junction'
 description: 'Alaska Highway itinerario completo: cosa vedere, dove fermarsi e quali deviazioni fare da Dawson Creek a Delta Junction, in camper, auto, moto o bici.'
 image: /uploads/okanaganvalley.png
-date: 2026-08-23T09:29
+date: 2026-08-23T09:29:00
 categories:
   - Alaska Highway
 continent: Nord America

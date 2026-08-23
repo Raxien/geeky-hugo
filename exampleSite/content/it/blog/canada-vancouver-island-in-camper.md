@@ -1,8 +1,7 @@
 ---
-import_markdown: ''
 title: 'Vancouver Island in camper: il nostro itinerario tra Victoria, foreste millenarie e oceano Pacifico'
 description: 'Vancouver Island in camper: Victoria, Tofino, Cathedral Grove e Pacific Rim. Il nostro itinerario tra foreste millenarie e oceano Pacifico.'
-image: https://res.cloudinary.com/ilgattodicitturin/image//upload/f_auto,q_auto,w_800,dpr_auto/v1785870400/canada-vancouver-island_o8hpiu.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1785870400/canada-vancouver-island_o8hpiu.png
 date: 2026-08-02T09:18:00.000+01:00
 categories:
   - Nord America in Camper

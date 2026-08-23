@@ -1,9 +1,8 @@
 ---
-import_markdown: ''
 title: 'Alaska Highway in camper: quando andare, quanto tempo serve, costi e consigli pratici'
 description: 'Alaska Highway in camper: 2.232 km da Dawson Creek a Delta Junction. Itinerario, quando andare, quanto tempo serve, costi e consigli pratici.'
 image: /uploads/okanaganvalley.png
-date: 2026-08-23T09:04
+date: 2026-08-23T09:04:00
 categories:
   - Alaska Highway
 continent: Nord America

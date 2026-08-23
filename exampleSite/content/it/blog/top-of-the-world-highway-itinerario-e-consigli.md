@@ -1,9 +1,8 @@
 ---
-import_markdown: ''
 title: 'Top of the World Highway: itinerario e consigli'
 description: 'Top of the World Highway in camper: itinerario da Dawson City a Chicken, strada, confine Canada-Alaska, condizioni e consigli pratici.'
 image: /uploads/okanaganvalley.png
-date: 2026-08-23T09:38
+date: 2026-08-23T09:38:00
 categories:
   - Canada in camper
 continent: Nord America
