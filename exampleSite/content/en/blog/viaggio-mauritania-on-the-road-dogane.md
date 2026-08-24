@@ -59,7 +59,7 @@ You can withdraw from ATMs in the cities and exchange money at customs (not reco
 {{< card>}}
 
 ### Health insurance
-Before setting off we recommend taking out **health insurance.** As always, we recommend **{{<extLink "Genki" "https://www.genki.world/with/vandipety">}}** health insurance, which offers unlimited coverage worldwide.
+Before setting off we recommend taking out **health insurance.** As always, we recommend **{{<extLink "Heymondo" "https://tinyurl.com/VandipetyAssicurazione">}}** health insurance, which offers unlimited coverage worldwide.
 
 ### Customs
 Entering Mauritania with your own vehicle **is fairly straightforward.** You can handle all the steps on your own, or rely on a passeur, agreeing on a price beforehand (about 20 euros), who will help you cross the no-man's-land coming from Morocco and handle the various procedures for you at the offices.

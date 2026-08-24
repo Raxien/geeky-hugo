@@ -51,7 +51,7 @@ Per ottenere questo visto devi soddisfare i seguenti criteri:
 
 - **Reddito minimo annuo:** Almeno 10 milioni di yen (circa €60.000 al cambio odierno) comprovato tramite dichiarazioni dei redditi o contratti di lavoro
 - **Attività lavorativa remota:** Devi lavorare per aziende o clienti al di fuori del Giappone
-- **Assicurazione sanitaria:** **{{< extLink "Copertura assicurativa" "https://www.genki.world/with/vandipety">}}** valida per tutta la durata del soggiorno
+- **Assicurazione sanitaria:** **{{< extLink "Copertura assicurativa" "https://tinyurl.com/VandipetyAssicurazione">}}** valida per tutta la durata del soggiorno
 - **Passaporto valido:** Con scadenza non inferiore alla durata del visto richiesto
 
 {{< leggi-anche url="blog/connessione-viaggio-giappone-japan-wireless/" >}}
@@ -96,7 +96,7 @@ Per richiedere il Working Holiday Visa devi:
 - **Età:** Avere tra i 18 e i 30 anni al momento della richiesta
 - **Scopo principale:** Il viaggio deve essere motivato principalmente dalle vacanze e dalla scoperta culturale, non dal lavoro
 - **Risorse economiche:** Dimostrare di avere fondi sufficienti per mantenerti inizialmente (generalmente almeno €3.000)
-- **Assicurazione:** Possedere **{{< extLink "un'assicurazione sanitaria" "https://www.genki.world/with/vandipety">}}** e di viaggio valida
+- **Assicurazione:** Possedere **{{< extLink "un'assicurazione sanitaria" "https://tinyurl.com/VandipetyAssicurazione">}}** e di viaggio valida
 - **Casellario giudiziale:** Non avere precedenti penali
 - **Prima volta:** Non aver mai ottenuto un Working Holiday Visa per il Giappone in passato
 
@@ -159,7 +159,7 @@ I requisiti variano notevolmente in base al tipo specifico di attività.
 **Per il Long Stay turistico (persone facoltose):**
 - **Età minima:** 18 anni
 - **Requisito economico:** Risparmi personali (o insieme al coniuge) superiori a **30 milioni di yen**
-- **Assicurazione medica privata:** Deve coprire morte, infortuni e malattie **{{< extLink "durante il soggiorno" "https://www.genki.world/with/vandipety">}}**
+- **Assicurazione medica privata:** Deve coprire morte, infortuni e malattie **{{< extLink "durante il soggiorno" "https://tinyurl.com/VandipetyAssicurazione">}}**
 - **Coniuge accompagnatore:** Il coniuge può accompagnare con lo stesso visto (devono vivere insieme e viaggiare insieme in Giappone)
 - **Nota importante:** I figli **non possono accompagnare** con questo visto
 
@@ -173,7 +173,7 @@ I requisiti variano notevolmente in base al tipo specifico di attività.
 
 **Per il Long Stay turistico:**
 1. Raccogli la documentazione: estratti conto bancari degli ultimi 6 mesi che dimostrino risparmi superiori a 30 milioni di yen
-2. Ottieni **{{< extLink "un'assicurazione medica privata valida per il Giappone" "https://www.genki.world/with/vandipety">}}**
+2. Ottieni **{{< extLink "un'assicurazione medica privata valida per il Giappone" "https://tinyurl.com/VandipetyAssicurazione">}}**
 3. Puoi richiedere direttamente il visto presso l'Ambasciata/Consolato OPPURE far richiedere un Certificate of Eligibility tramite un proxy in Giappone
 4. Presenta domanda di visto con tutta la documentazione
 5. Una volta in Giappone, puoi richiedere l'estensione da 6 mesi a 1 anno presso l'ufficio immigrazione regionale
@@ -268,7 +268,7 @@ Indipendentemente dal visto, porta sempre con te:
 - Biglietto aereo di ritorno o proseguimento
 - Prenotazione alberghiera o lettera di invito
 - Prova di fondi sufficienti (estratto conto bancario)
-- {{< extLink "Assicurazione di viaggio" "https://www.genki.world/with/vandipety">}}
+- {{< extLink "Assicurazione di viaggio" "https://tinyurl.com/VandipetyAssicurazione">}}
 
 ### Comportamento all'Immigrazione
 

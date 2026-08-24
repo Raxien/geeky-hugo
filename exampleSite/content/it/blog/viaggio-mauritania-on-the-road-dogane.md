@@ -58,7 +58,7 @@ Il cambio è 40,37 Mau per 1 euro.
 {{< card>}}
 
 ### Assicurazione sanitaria
-Prima della partenza vi consigliamo di stipulare **un’assicurazione sanitaria.** Come sempre noi consigliamo l'assicurazione sanitaria **{{<extLink "Genki" "https://www.genki.world/with/vandipety">}}** che copre in modo illimitato in tutto il mondo.
+Prima della partenza vi consigliamo di stipulare **un’assicurazione sanitaria.** Come sempre noi consigliamo l'assicurazione sanitaria **{{<extLink "Heymondo" "https://tinyurl.com/VandipetyAssicurazione">}}** che copre in modo illimitato in tutto il mondo.
 
 ### Dogana
 Entrare in Mauritania con il proprio mezzo **è abbastanza semplice.** Potete effettuare tutti i passaggi in autonomia oppure affidarvi a un passeur, concordando prima la cifra (circa 20 euro), che vi aiuterà ad attraversare la terra di nessuno entrando dal Marocco e sbrigherà per voi le varie pratiche negli uffici. 

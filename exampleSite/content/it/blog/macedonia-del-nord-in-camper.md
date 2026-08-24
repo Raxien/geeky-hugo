@@ -20,7 +20,7 @@ Questa soluzione politica adottata nel 1995 ha permesso di far coesistere non so
 
 <!-- Per quanto riguarda l'economia, vige la moneta locale, ma potrete facilmente cambiare in loco, sfruttare le mete più turistiche (Mostar in primis) per pagare qualche oggetto di artigianato in euro oppure usare la Revolut come facciamo noi.  -->
 
-<!-- Assicurazione in viaggio? Fate come noi, usate Genki.  -->
+<!-- Assicurazione in viaggio? Fate come noi, usate Heymondo.  -->
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689094780/Articoli/Blog/crossaint-pistacchio_cnlplk.jpg">}}
 

@@ -53,7 +53,7 @@ South Korea has a high-quality healthcare system, but foreign tourists aren't co
 - **Medical emergencies** with 24/7 assistance.
 - **Unexpected events** such as trip cancellation or lost luggage.
 
-As always, we recommend **{{< extLink "Genki" "https://www.genki.world/with/vandipety" >}}** health insurance, which offers unlimited worldwide coverage.
+As always, we recommend **{{< extLink "Heymondo" "https://tinyurl.com/VandipetyAssicurazione" >}}** health insurance, which offers unlimited worldwide coverage.
 
 *Disclaimer: This is an affiliate link, which means we may receive a small commission if you sign up, at no extra cost to you.*
 

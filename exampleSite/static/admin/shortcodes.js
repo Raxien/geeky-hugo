@@ -65,12 +65,14 @@ CMS.registerEditorComponent({
       name: 'src',
       label: 'Immagine (carica su Cloudinary o incolla un URL)',
       widget: 'image',
-      // Stesso provider Cloudinary configurato in cima a config.yml (schema "media_library"
-      // singolare, coerente col top-level — vedi nota lì su perché non usiamo il plurale).
-      // output_filename_only NON impostato qui: eredita false dal top-level, quindi salva
-      // l'URL completo — è quello che image.html si aspetta (fa hasPrefix "http").
+      // cloud_name/api_key DUPLICATI qui, non solo "folder": un override media_library a
+      // livello di campo NON viene unito a quello globale (confermato leggendo il bundle
+      // vero di Sveltia — vedi stessa nota su config.yml, campo Copertina) — senza,
+      // Cloudinary risulta "non configurato" per QUESTO campo e mostra solo i provider
+      // stock di default. output_filename_only NON impostato: eredita false (URL
+      // completo), che è quello che image.html si aspetta (fa hasPrefix "http").
       media_library: {
-        config: { folder: 'articoli' },
+        config: { cloud_name: 'ilgattodicitturin', api_key: 373883797928475, folder: 'articoli' },
       },
     },
     { name: 'alt', label: 'Testo alternativo (SEO/accessibilità)', widget: 'string', required: false },
@@ -174,14 +176,11 @@ CMS.registerEditorComponent({
         // A differenza del campo "src" di image-shortcode qui serve il PUBLIC ID nudo
         // (con eventuale prefisso cartella, es. "articoli/foo"), non l'URL completo:
         // è quello che carousel.html passa a Cloudinary come publicId (vedi
-        // cloudinary.galleryWidget -> mediaAssets). output_filename_only:true dovrebbe
-        // fare esattamente questo (schema "media_library" singolare, coerente col resto
-        // del file — vedi nota in cima a config.yml sul perché). Non verificato dal vivo:
-        // se questo campo continua a salvare l'URL completo invece del solo public ID,
-        // segnalalo — vuol dire che va rivisto (o aggiunto un fallback manuale come per
-        // la copertina, vedi cloudinary-uploader.html modalità "Carosello").
+        // cloudinary.galleryWidget -> mediaAssets). cloud_name/api_key duplicati qui per
+        // lo stesso motivo del campo Copertina/image-shortcode (override di campo non
+        // unito al globale, altrimenti Cloudinary risulta "non configurato" qui).
         media_library: {
-          config: { folder: 'articoli' },
+          config: { cloud_name: 'ilgattodicitturin', api_key: 373883797928475, folder: 'articoli' },
           output_filename_only: true,
         },
       },
@@ -288,3 +287,113 @@ function leggiAncheComponent(targetCollection) {
 
 CMS.registerEditorComponent(leggiAncheComponent('blog_it'));
 CMS.registerEditorComponent(leggiAncheComponent('blog_en'));
+
+// ---------------------------------------------------------------------------
+// sponsor — box affiliato/sponsorizzato, stesso markup CSS di leggi-anche più
+// screenshot automatico (via microlink.io) e un disclaimer sotto che cambia testo
+// in base a "type" (vedi themes/geeky-hugo/.../shortcodes/sponsor.html e i18n/*.toml
+// per "link affiliato"/"affiliate link" = disclaimer affiliato, qualsiasi altro
+// valore = disclaimer "sponsorizzato"). Sintassi reale multi-riga, es.:
+//   {{< sponsor
+//       url="..."
+//       title="..."
+//       description="..."
+//       type="link affiliato"
+//       disclaimer="true"
+//   >}}
+// Un componente generico (qualsiasi sponsor) + due preset "Heymondo" (uno per
+// collection, perché il valore di "type" corretto per il disclaimer differisce
+// per lingua) che precompilano url/titolo/tipo — link riusato uguale in 11
+// articoli finora sempre scritto a mano con extLink, mai col box sponsor.
+// ---------------------------------------------------------------------------
+const SPONSOR_PATTERN = /^{{<\s*sponsor\s+([\s\S]*?)\s*>}}$/m;
+const HEYMONDO_URL = 'https://tinyurl.com/VandipetyAssicurazione';
+// Lookahead che richiede la presenza dell'URL Heymondo nel blob attributi, PRIMA del
+// gruppo di cattura vero e proprio (identico a SPONSOR_PATTERN) — serve a far sì che
+// SOLO i blocchi che linkano già Heymondo vengano riconosciuti come questo preset
+// quando Sveltia rilegge un articolo esistente; qualunque altro sponsor (Japan
+// Wireless, Klook, ...) resta di competenza del componente generico sotto. Per questo
+// i preset vanno registrati PRIMA del generico: il primo pattern che fa match vince.
+const HEYMONDO_PATTERN = /^{{<\s*sponsor\s+(?=[\s\S]*?url="https:\/\/tinyurl\.com\/VandipetyAssicurazione")([\s\S]*?)\s*>}}$/m;
+
+function sponsorFields(defaults) {
+  const d = defaults || {};
+  return [
+    { name: 'url', label: 'URL destinazione', widget: 'string', default: d.url },
+    { name: 'title', label: 'Titolo (nome sponsor/prodotto)', widget: 'string', default: d.title },
+    { name: 'description', label: 'Descrizione breve (opzionale)', widget: 'string', required: false, default: d.description },
+    {
+      name: 'type',
+      label: 'Tipo (cambia il testo del disclaimer sotto al box — vedi sponsor.html)',
+      widget: 'select',
+      options: ['link affiliato', 'affiliate link', 'sponsorizzato', 'sponsored'],
+      default: d.type || 'link affiliato',
+    },
+    {
+      name: 'disclaimer',
+      label: 'Mostra il paragrafo di disclaimer sotto al box',
+      widget: 'boolean',
+      default: d.disclaimer !== false,
+    },
+  ];
+}
+
+function sponsorFromBlock(match) {
+  const a = parseAttrs(match[1]);
+  return {
+    url: a.url || '',
+    title: a.title || '',
+    description: a.description || '',
+    // Fedele all'originale: type="" esiste davvero nel sito (1 articolo, box
+    // "sponsorizzato" non affiliato) e NON va forzato a "link affiliato" solo perché
+    // il campo è vuoto — sponsor.html tratta "qualunque valore diverso da link
+    // affiliato/affiliate link" come sponsorizzato, quindi svuotarlo qui cambierebbe
+    // il testo del disclaimer al primo risalvataggio. "link affiliato" resta il
+    // default SOLO per i blocchi nuovi (vedi sponsorFields), non per quelli letti.
+    type: a.type || '',
+    disclaimer: a.disclaimer !== 'false', // assente o "true" -> true, solo "false" esplicito -> false
+  };
+}
+
+function sponsorToBlock(data) {
+  const lines = ['url', 'title', 'description', 'type']
+    .filter((k) => data[k])
+    .map((k) => `    ${k}="${data[k]}"`);
+  lines.push(`    disclaimer="${data.disclaimer === false ? 'false' : 'true'}"`);
+  return `{{< sponsor \n${lines.join('\n')}\n>}}`;
+}
+
+function sponsorToPreview(data) {
+  return `<div style="${PREVIEW_BOX_STYLE}"><em>💰 Sponsor: ${data.title || '(senza titolo)'}${
+    data.type ? ` — ${data.type}` : ''
+  }</em></div>`;
+}
+
+function sponsorHeymondoComponent(id, label, typeDefault) {
+  return {
+    id,
+    label,
+    fields: sponsorFields({ url: HEYMONDO_URL, title: 'Heymondo', type: typeDefault, disclaimer: true }),
+    pattern: HEYMONDO_PATTERN,
+    fromBlock: sponsorFromBlock,
+    toBlock: sponsorToBlock,
+    toPreview: sponsorToPreview,
+  };
+}
+
+CMS.registerEditorComponent(
+  sponsorHeymondoComponent('sponsor-heymondo-it-shortcode', '❤️ Sponsor — Heymondo assicurazione (precompilato)', 'link affiliato')
+);
+CMS.registerEditorComponent(
+  sponsorHeymondoComponent('sponsor-heymondo-en-shortcode', '❤️ Sponsor — Heymondo insurance (preset)', 'affiliate link')
+);
+
+CMS.registerEditorComponent({
+  id: 'sponsor-shortcode',
+  label: '💰 Box sponsor/affiliato (shortcode)',
+  fields: sponsorFields(),
+  pattern: SPONSOR_PATTERN,
+  fromBlock: sponsorFromBlock,
+  toBlock: sponsorToBlock,
+  toPreview: sponsorToPreview,
+});

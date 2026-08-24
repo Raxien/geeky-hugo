@@ -86,8 +86,18 @@ collections:
       - label: 'Copertina'
         name: 'image'
         widget: 'image'
+        # cloud_name/api_key DUPLICATI qui (non solo "folder"): confermato leggendo il
+        # bundle vero di Sveltia che un override media_library a livello di CAMPO non
+        # viene unito a quello globale — se qui dentro manca cloud_name/api_key, Sveltia
+        # decide che Cloudinary "non è configurato" per QUESTO campo e mostra solo i
+        # provider stock di default (Picsum/Pexels/Pixabay/Unsplash, senza bottone
+        # "Activate Cloudinary" perché la funzione isEnabled() li richiede entrambi
+        # presenti proprio in questo blocco, non eredita dal top-level). Vedi stessa
+        # nota su cloud_name/api_key in cima al file.
         media_library:
           config:
+            cloud_name: ilgattodicitturin
+            api_key: 373883797928475
             folder: 'articoli' # cartella Cloudinary suggerita per le nuove cover
       # format esplicito (token Day.js): senza, "{{now}}" ha prodotto "2026-08-23T09:38"
       # (niente secondi) — Hugo non lo sa parsare ("not a parsable date", build rotta).
@@ -135,6 +145,8 @@ collections:
           - indice-shortcode
           - gmap-shortcode
           - leggianche-blog_it-shortcode
+          - sponsor-heymondo-it-shortcode
+          - sponsor-shortcode
 
   - name: 'blog_en'
     label: '🇬🇧 Blog — English'
@@ -165,8 +177,15 @@ collections:
       - label: 'Cover'
         name: 'image'
         widget: 'image'
+        # cloud_name/api_key duplicated here on purpose — see the matching IT comment
+        # above (confirmed by reading the actual Sveltia bundle): a field-level
+        # media_library override is NOT merged with the global one, so without them
+        # here Cloudinary silently shows as "not configured" for this field only
+        # (falls back to the default stock providers, no "Activate Cloudinary" button).
         media_library:
           config:
+            cloud_name: ilgattodicitturin
+            api_key: 373883797928475
             folder: 'articoli'
       # explicit format (Day.js tokens): same reasoning/value as the IT collection above.
       - { label: 'Publish date', name: 'date', widget: 'datetime', default: '{{now}}', format: 'YYYY-MM-DDTHH:mm:ss.SSS' }
@@ -204,3 +223,5 @@ collections:
           - indice-shortcode
           - gmap-shortcode
           - leggianche-blog_en-shortcode
+          - sponsor-heymondo-en-shortcode
+          - sponsor-shortcode

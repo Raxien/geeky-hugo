@@ -52,7 +52,7 @@ To get this visa you must meet the following criteria:
 
 - **Minimum annual income:** At least 10 million yen (around €60,000 at today's exchange rate) proven through tax returns or work contracts
 - **Remote work:** You must work for companies or clients outside Japan
-- **Health insurance:** **{{< extLink "Insurance coverage" "https://www.genki.world/with/vandipety">}}** valid for the whole duration of your stay
+- **Health insurance:** **{{< extLink "Insurance coverage" "https://tinyurl.com/VandipetyAssicurazione">}}** valid for the whole duration of your stay
 - **Valid passport:** With an expiry date no earlier than the duration of the visa requested
 
 {{< leggi-anche url="blog/connessione-viaggio-giappone-japan-wireless/" >}}
@@ -97,7 +97,7 @@ To apply for the Working Holiday Visa you must:
 - **Age:** Be between 18 and 30 years old at the time of application
 - **Main purpose:** The trip must be primarily motivated by holiday and cultural discovery, not work
 - **Financial resources:** Show that you have sufficient funds to support yourself initially (generally at least €3,000)
-- **Insurance:** Have valid **{{< extLink "health insurance" "https://www.genki.world/with/vandipety">}}** and travel insurance
+- **Insurance:** Have valid **{{< extLink "health insurance" "https://tinyurl.com/VandipetyAssicurazione">}}** and travel insurance
 - **Criminal record:** Have no criminal record
 - **First time:** Never have previously obtained a Working Holiday Visa for Japan
 
@@ -160,7 +160,7 @@ Requirements vary significantly depending on the specific type of activity.
 **For tourist Long Stay (wealthy individuals):**
 - **Minimum age:** 18 years
 - **Financial requirement:** Personal savings (or combined with spouse) exceeding **30 million yen**
-- **Private medical insurance:** Must cover death, injury and illness **{{< extLink "during the stay" "https://www.genki.world/with/vandipety">}}**
+- **Private medical insurance:** Must cover death, injury and illness **{{< extLink "during the stay" "https://tinyurl.com/VandipetyAssicurazione">}}**
 - **Accompanying spouse:** The spouse can accompany you with the same visa (they must live together and travel together in Japan)
 - **Important note:** Children **cannot accompany** you with this visa
 
@@ -174,7 +174,7 @@ Requirements vary significantly depending on the specific type of activity.
 
 **For tourist Long Stay:**
 1. Gather the documentation: bank statements from the last 6 months showing savings exceeding 30 million yen
-2. Get **{{< extLink "private medical insurance valid for Japan" "https://www.genki.world/with/vandipety">}}**
+2. Get **{{< extLink "private medical insurance valid for Japan" "https://tinyurl.com/VandipetyAssicurazione">}}**
 3. You can apply for the visa directly at the Embassy/Consulate OR have a Certificate of Eligibility requested through a proxy in Japan
 4. Submit your visa application with all the documentation
 5. Once in Japan, you can apply for the extension from 6 months to 1 year at the regional immigration office
@@ -269,7 +269,7 @@ Regardless of the visa, always carry with you:
 - Return or onward flight ticket
 - Hotel booking or invitation letter
 - Proof of sufficient funds (bank statement)
-- {{< extLink "Travel insurance" "https://www.genki.world/with/vandipety">}}
+- {{< extLink "Travel insurance" "https://tinyurl.com/VandipetyAssicurazione">}}
 
 ### Behaviour at Immigration
 

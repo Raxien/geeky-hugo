@@ -45,7 +45,7 @@ Tra l’altro secondo alcune agenzie il visto semestrale viene concesso a chi ha
 I documenti necessari nel nostro caso sono stati: 
 
 * Invito ufficiale (che ci ha fornito l’agenzia)
-* Assicurazione sanitaria **valida in territorio russo**. Noi abbiamo {{<extLink "sfruttato Genki" "https://www.genki.world/with/vandipety">}}, l’assicurazione che usiamo in tutto il mondo
+* Assicurazione sanitaria **valida in territorio russo**. Noi abbiamo {{<extLink "sfruttato Heymondo" "https://tinyurl.com/VandipetyAssicurazione">}}, l’assicurazione che usiamo in tutto il mondo
 * Una copia del modulo richiesta d’ingresso che viene compilata online dall’agenzia sul sito del Consolato.
 * Una copia del modulo richiesta d’incarico
 * due fototessere
