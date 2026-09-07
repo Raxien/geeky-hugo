@@ -9,11 +9,18 @@
 <html lang="{{ site.Language.Locale | default `it-IT` }}">
 
 <head>
-	{{ partial "head.html" . }}
+	<meta charset="utf-8">
 
+	{{/* CSS principale il più in alto possibile nel <head>: è l'unica richiesta
+	     render-blocking della pagina (vedi commenti in style.html) e prima veniva
+	     emessa in fondo a un <head> di ~330 righe, quindi scoperta tardi dal
+	     preload scanner. Anticiparla accorcia il percorso critico verso l'LCP.
+	     templates.Defer resta necessario per PurgeCSS (hugo_stats.json). */}}
 	{{ with (templates.Defer (dict "key" "site-css")) }}
 	{{ partial "style.html" . }}
 	{{ end }}
+
+	{{ partial "head.html" . }}
 </head>
 
 <body style="padding: 0px, 0px, 0px, 0px !important;">
