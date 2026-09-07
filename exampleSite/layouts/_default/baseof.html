@@ -11,10 +11,9 @@
 <head>
 	<meta charset="utf-8">
 
-	{{/* CSS principale il più in alto possibile nel <head>: è l'unica richiesta
-	     render-blocking della pagina (vedi commenti in style.html) e prima veniva
-	     emessa in fondo a un <head> di ~330 righe, quindi scoperta tardi dal
-	     preload scanner. Anticiparla accorcia il percorso critico verso l'LCP.
+	{{/* CSS principale il più in alto possibile nel <head>: in produzione è
+	     inlineato in un <style> (vedi commenti in style.html), quindi zero richieste
+	     render-blocking; messo qui in cima è subito parsato prima del resto dell'head.
 	     templates.Defer resta necessario per PurgeCSS (hugo_stats.json). */}}
 	{{ with (templates.Defer (dict "key" "site-css")) }}
 	{{ partial "style.html" . }}

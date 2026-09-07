@@ -10,27 +10,31 @@
 {{ $styles := $styles | append (resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "style.scss" . | toCSS) }}
 {{ $styles := $styles | resources.Concat "/css/main.css" }}
 
-<!-- Link esterno invece di <style> inline: il bundle compilato (Bootstrap 5 + SCSS
-     custom) inlineato in ogni <head> era ~190KB, render-blocking su OGNI pagina e
-     mai in cache tra una navigazione e l'altra. Come file esterno fingerprintato,
-     il browser lo scarica una sola volta per sessione (Cache-Control in netlify.toml)
-     ed è la causa principale del "Ritardo di rendering" segnalato da PageSpeed/Search
-     Console sull'LCP mobile.
+<!-- CSS critico inlineato in <head>, nessuna richiesta render-blocking.
 
-     In produzione passa anche da PurgeCSS (postcss.config.js, safelist lì per le
-     classi aggiunte solo via JS a runtime) per eliminare il CSS mai usato che
-     PageSpeed segnalava. PurgeCSS legge hugo_stats.json, completo solo a fine
-     build: per questo questo partial va incluso tramite templates.Defer (vedi
-     baseof.html) e non partialCached, che lo eseguirebbe troppo presto. -->
+     Storia della scelta (non ripetere i tentativi già scartati):
+       1. <style> inline del bundle GREZZO (Bootstrap 5 + SCSS custom): ~190KB per
+          pagina, troppo — abbandonato per un <link> esterno fingerprintato.
+       2. <link> esterno: 1 richiesta render-blocking su OGNI pagina, segnalata da
+          PageSpeed/Search Console come "Ritardo di rendering" sull'LCP mobile.
+       3. <link rel=preload> + swap a onload: la pagina renderizzava senza CSS e poi
+          ogni elemento saltava nella posizione finale — CLS a 1.0. Scartato: questo
+          CSS È il layout (grid/flex/posizionamento), non decorazione, quindi non si
+          può caricare in differita senza far saltare la pagina.
+
+     Perché ora l'inline completo è di nuovo la scelta giusta: con PurgeCSS
+     (postcss.config.js) il foglio finale è ~65KB raw / ~13KB gzip, non 190KB.
+     Inlinearlo aggiunge ~13KB gzip all'HTML di ogni pagina (che non è comunque in
+     cache), in cambio di ZERO richieste CSS e ZERO rischio CLS: tutto il layout è
+     già stilato al primo paint. Nessun preload, nessun swap, niente da mantenere.
+
+     PurgeCSS legge hugo_stats.json, completo solo a fine build: per questo il
+     partial va incluso tramite templates.Defer (vedi baseof.html) e non
+     partialCached, che lo eseguirebbe troppo presto. Niente fingerprint nel ramo
+     produzione: il contenuto è inline, non c'è un file da versionare in cache. -->
 {{ if hugo.IsProduction }}
-  {{ with $styles | css.PostCSS | minify | fingerprint "sha512" }}
-  <!-- Bloccante di proposito (rel=stylesheet diretto, non preload+swap): questo file
-       definisce TUTTO il layout del sito (grid, flex, posizionamento immagini), non è
-       CSS decorativo. Con preload+swap la pagina renderizzava prima nell'HTML grezzo
-       del browser e poi, all'onload, ogni elemento saltava di colpo nella posizione
-       finale: CLS a 1. I 250ms di "render-blocking" persi sono un prezzo enormemente
-       più basso di quel salto — non ritentare lo swap su questo file. -->
-<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+  {{ with $styles | css.PostCSS | minify }}
+<style>{{ .Content | safeCSS }}</style>
   {{ end }}
 {{ else }}
   {{ with $styles | fingerprint "sha512" }}
