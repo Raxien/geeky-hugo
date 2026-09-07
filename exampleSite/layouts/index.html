@@ -273,7 +273,10 @@
               {{ $excludedPermalinks = $excludedPermalinks | append .RelPermalink }}
             {{ end }}
             {{ $remainingPosts := where (where (where (where site.RegularPages "Section" "in" site.Params.mainSections) "Params.draft" "!=" true) "Lang" .Lang) "RelPermalink" "not in" $excludedPermalinks }}
-            {{ $paginator := .Paginate $remainingPosts }}
+            {{/* Prima pagina più corta (12 invece di 20): meno DOM e meno immagini
+                 lazy da gestire al primo caricamento su mobile. "Mostra altro"
+                 carica le successive. */}}
+            {{ $paginator := .Paginate $remainingPosts 12 }}
             {{ range $paginator.Pages }}
             <div class="col-md-6 mb-4">
               {{ .Render "post" }}

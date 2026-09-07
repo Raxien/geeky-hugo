@@ -51,8 +51,11 @@
 
             if (publicVideo) {
               const videoId = publicVideo.snippet.resourceId.videoId;
-              const thumbnailUrl = `/yt-thumb/sddefault/${videoId}`;
-              const fallbackUrl = `https://img.youtube.com/vi/${videoId}/sddefault.jpg`;
+              // mqdefault (320x180, 16:9 nativo) invece di sddefault (640x480, 4:3):
+              // il box facade è 16:9 e largo ~340px, sddefault era ~2x più grande
+              // del necessario e con bande nere da ritagliare.
+              const thumbnailUrl = `/yt-thumb/mqdefault/${videoId}`;
+              const fallbackUrl = `https://img.youtube.com/vi/${videoId}/mqdefault.jpg`;
 
               const img = new Image();
               img.onload = function() {
