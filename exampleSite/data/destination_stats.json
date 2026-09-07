@@ -48,5 +48,10 @@
     "km": 1.000,
     "months": 1,
     "regions": null
+  },
+  "canada": {
+    "km": "8.000",
+    "months": 2,
+    "regions": "3/13"
   }
 }

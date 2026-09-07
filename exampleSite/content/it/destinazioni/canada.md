@@ -4,7 +4,7 @@ description: "Viaggiare in Canada in camper: come importare un mezzo straniero, 
 heading: "Esplorare il Canada in camper"
 country: Canada
 continent: Nord America
-image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1783469328/articoli/viaggi/campeggio-canada-nord-america-bvkle0r3.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1788750145/articoli/viaggi/destinazione-canada-fnmifkg5
 sitemap:
   priority: 0.7
 ---
