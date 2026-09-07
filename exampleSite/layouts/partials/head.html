@@ -310,15 +310,21 @@
     {{ $webp := $image.Resize "1200x webp" }}
     <link rel="preload" as="image" href="{{ $webp.RelPermalink }}" type="image/webp">
   {{ else if hasPrefix .Params.image "http" }}
-    <!-- Deve combaciare byte-per-byte con l'URL richiesto dall'<img> in single.html
-         (stessa pipeline w_.../c_limit): un preload che punta all'originale non
-         trasformato scarica un file che l'<img> reale non userà mai, sprecando banda
-         invece di anticipare la vera immagine LCP. -->
+    <!-- Il preload deve combaciare ESATTAMENTE con srcset/sizes dell'<img> hero in
+         single.html, altrimenti su mobile il browser preloada w_1000 ma poi usa
+         un altro candidato -> doppio download o LCP in ritardo. Stessa pipeline
+         w_.../c_limit e stesso imagesizes. -->
     {{ $cloudBase := replaceRE `,?w_[0-9]+` "" .Params.image }}
     {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
     {{ $cloudBase = replace $cloudBase " " "%20" }}
-    {{ $img1000 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_1000,c_limit" }}
-    <link rel="preload" as="image" fetchpriority="high" href="{{ $img1000 | safeURL }}">
+    {{ $i400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_400,c_limit" }}
+    {{ $i600 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_600,c_limit" }}
+    {{ $i800 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_800,c_limit" }}
+    {{ $i1000 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_1000,c_limit" }}
+    {{ $i1600 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_1600,c_limit" }}
+    <link rel="preload" as="image" fetchpriority="high" href="{{ $i800 | safeURL }}"
+      {{ printf `imagesrcset="%s 400w, %s 600w, %s 800w, %s 1000w, %s 1600w"` $i400 $i600 $i800 $i1000 $i1600 | safeHTMLAttr }}
+      imagesizes="(max-width: 992px) 100vw, 800px">
   {{ else }}
     <link rel="preload" as="image" href="{{ .Params.image | absURL }}">
   {{ end }}

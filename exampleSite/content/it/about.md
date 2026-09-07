@@ -2,7 +2,7 @@
 title: Chi Siamo
 description: "Siamo Sara e Paolo: dal 2022 viaggiamo in camper con Olimpia e Sakè. 39 paesi, 4 continenti, oltre 130.000 km e più di 4 anni on the road."
 date: 2022-06-19T10:00:25+01:00
-lastmod: 2026-09-06T10:00:00+01:00
+lastmod: 2026-09-07T10:00:00+01:00
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1760176533/Articoli/viaggi/chisiamo_hs92m7.jpg
 layout: about
 ---
@@ -22,7 +22,7 @@ Siamo cambiati tanto da quando siamo partiti. Se un tempo avevamo bisogno di sap
 
 ### Dove siamo stati
 
-Abbiamo raccontato strada facendo ogni tappa: dalla [Turchia](/destinazioni/turchia/) al [Giappone](/destinazioni/giappone/), dalla [Corea del Sud](/destinazioni/corea-del-sud/) alla [Georgia e il Caucaso](/destinazioni/georgia/), passando per [Russia](/destinazioni/russia/), [Marocco](/destinazioni/marocco/), [Iraq](/destinazioni/iraq/), [Spagna](/destinazioni/spagna/), [Portogallo](/destinazioni/portogallo/) e [Italia](/destinazioni/italia/). Trovi tutte le guide, gli itinerari e i costi reali nella pagina [Destinazioni](/destinazioni/).
+Abbiamo raccontato strada facendo ogni tappa. Per citare alcuni dei paesi attraversati: un primo lungo viaggio verso sud-ovest — [Italia](/destinazioni/italia/), Francia, [Portogallo](/destinazioni/portogallo/), [Spagna](/destinazioni/spagna/), [Marocco](/destinazioni/marocco/), Mauritania e Senegal — e un secondo verso est — [Turchia](/destinazioni/turchia/), [Iraq](/destinazioni/iraq/), [Georgia e Caucaso](/destinazioni/georgia/), [Russia](/destinazioni/russia/), Mongolia, [Corea del Sud](/destinazioni/corea-del-sud/) e [Giappone](/destinazioni/giappone/). Ora siamo tra [Canada](/destinazioni/canada/) e Stati Uniti. Trovi tutte le guide, gli itinerari e i costi reali nella pagina [Destinazioni](/destinazioni/).
 
 ### Approfondimenti
 

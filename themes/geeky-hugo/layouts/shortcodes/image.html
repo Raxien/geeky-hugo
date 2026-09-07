@@ -35,27 +35,49 @@
 {{ if hasPrefix $imagePath "http" }}
 
 <!-- cdn image -->
-{{/* width/height per ridurre il CLS: le immagini remote non hanno dimensioni note
-     lato server. Se non passate come parametri: width dedotta da "w_NNN" nell'URL
-     Cloudinary (default 800), height stimata con rapporto ~3:2 (foto di viaggio
-     orizzontali). style="height:auto" lascia comunque adattare il rapporto reale
-     a caricamento avvenuto. Passare w="..." h="..." nello shortcode per valori esatti. */}}
+{{/* width/height per ridurre il CLS (rapporto ~3:2 stimato, height:auto adatta
+     quello reale a caricamento avvenuto). srcset/sizes: le immagini nel corpo
+     stanno nella colonna articolo (~700px desktop, 100vw mobile), quindi su
+     mobile serve una variante piccola invece del w_800 fisso. Ricostruite dai
+     token Cloudinary partendo dall'URL originale (.Get "src"), non da $imagePath
+     che ha già i transform iniettati. skip_quality o URL non-Cloudinary: <img> semplice. */}}
 {{ $w := .Get "w" }}
 {{ $h := .Get "h" }}
 {{ if not $w }}{{ with (findRE `w_[0-9]+` $imagePath 1) }}{{ $w = replace (index . 0) "w_" "" }}{{ end }}{{ end }}
 {{ if not $w }}{{ $w = "800" }}{{ end }}
 {{ if not $h }}{{ $h = string (int (math.Round (mul (float $w) 0.667))) }}{{ end }}
 
+{{ $rawSrc := .Get "src" }}
+{{ $responsive := and (not (.Get "skip_quality")) (in $rawSrc "res.cloudinary.com") (in $rawSrc "/upload/") }}
+{{ $srcset := "" }}
+{{ $mainSrc := $imagePath }}
+{{ if $responsive }}
+  {{ $u := split $rawSrc "/upload/" }}
+  {{ $pre := index $u 0 }}
+  {{ $post := index $u 1 }}
+  {{ $first := index (split $post "/") 0 }}
+  {{ $tail := $post }}
+  {{ if and (in $first "_") (not (hasPrefix $first "v")) }}
+    {{ $tail = strings.TrimPrefix (printf "%s/" $first) $post }}
+  {{ end }}
+  {{ $b := printf "%s/upload/f_auto,q_auto:eco,c_limit,w_" $pre }}
+  {{ $mainSrc = printf "%s720/%s" $b $tail }}
+  {{ $srcset = printf "%s360/%s 360w, %s540/%s 540w, %s720/%s 720w, %s1080/%s 1080w, %s1440/%s 1440w" $b $tail $b $tail $b $tail $b $tail $b $tail }}
+{{ end }}
+
+{{ $imgAttrs := "" }}
+{{ if $srcset }}{{ $imgAttrs = printf `srcset="%s" sizes="(max-width: 991.98px) 100vw, 700px"` $srcset }}{{ end }}
+
 <!-- image figure -->
 {{ if or (.Get `title`) (.Get `caption`) }}
 <figure class="{{.Scratch.Get `image-position`}}">
-  <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ $alt }}" class="{{.Get `c`}}" width="{{ $w }}" height="{{ $h }}" style="height:auto">
+  <img loading="lazy" decoding="async" src="{{ $mainSrc | safeURL }}" {{ $imgAttrs | safeHTMLAttr }} alt="{{ $alt }}" class="{{.Get `c`}}" width="{{ $w }}" height="{{ $h }}" style="height:auto">
   <figcaption>{{.Get `title` | default (.Get `caption`) | markdownify}}</figcaption>
 </figure>
 {{ else }}
 <!-- image tag -->
 <div class="{{.Scratch.Get `image-position`}}">
-<img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ $alt }}" class="{{.Get `c`}} {{.Scratch.Get `image-position`}}" width="{{ $w }}" height="{{ $h }}" style="height:auto">
+<img loading="lazy" decoding="async" src="{{ $mainSrc | safeURL }}" {{ $imgAttrs | safeHTMLAttr }} alt="{{ $alt }}" class="{{.Get `c`}} {{.Scratch.Get `image-position`}}" width="{{ $w }}" height="{{ $h }}" style="height:auto">
 </div>
 {{ end }}
 

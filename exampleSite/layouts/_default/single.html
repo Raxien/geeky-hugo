@@ -22,13 +22,15 @@
           {{ $cloudBase := replaceRE `,?w_[0-9]+` "" $imagePath }}
           {{ $cloudBase = replaceRE `,?dpr_[a-z0-9]+` "" $cloudBase }}
           {{ $cloudBase = replace $cloudBase " " "%20" }}
+          {{ $img400 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_400,c_limit" }}
           {{ $img600 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_600,c_limit" }}
+          {{ $img800 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_800,c_limit" }}
           {{ $img1000 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_1000,c_limit" }}
           {{ $img1600 := replace $cloudBase "f_auto,q_auto" "f_auto,q_auto:eco,w_1600,c_limit" }}
           <div class="image-container" style="position: relative; width: 100%; padding-bottom: 56.25%; background-color: #f5f5f5; border-radius: 12px; overflow: hidden; margin-bottom: 20px;">
             <img decoding="async"
-              src="{{ $img1000 | safeURL }}"
-              {{ printf `srcset="%s 600w, %s 1000w, %s 1600w"` $img600 $img1000 $img1600 | safeHTMLAttr }}
+              src="{{ $img800 | safeURL }}"
+              {{ printf `srcset="%s 400w, %s 600w, %s 800w, %s 1000w, %s 1600w"` $img400 $img600 $img800 $img1000 $img1600 | safeHTMLAttr }}
               sizes="(max-width: 992px) 100vw, 800px"
               alt="{{ .Title }}"
               fetchpriority="high"

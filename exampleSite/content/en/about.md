@@ -2,7 +2,7 @@
 title: About Us
 description: "We're Sara and Paolo: since 2022 we've travelled by campervan with Olimpia and Sakè. 39 countries, 4 continents, over 130,000 km and 4+ years on the road."
 date: 2022-06-19T10:00:25+01:00
-lastmod: 2026-09-06T10:00:00+01:00
+lastmod: 2026-09-07T10:00:00+01:00
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1760176533/Articoli/viaggi/chisiamo_hs92m7.jpg
 layout: about
 ---
@@ -22,7 +22,7 @@ We've changed a lot since we set off. If we once needed to know where we'd wake 
 
 ### Where we've been
 
-We've written about every leg of the trip as it happened. The countries with the most content have their own page — [Japan](/destinazioni/giappone/), [Morocco](/destinazioni/marocco/), [Spain](/destinazioni/spagna/) and [Portugal](/destinazioni/portogallo/) — and you'll find all of them, with guides, itineraries and real costs, on the [Destinations](/destinazioni/) page.
+We've written about every leg of the trip as it happened. To name a few of the countries we crossed: a first long trip southwest — Italy, France, [Portugal](/destinazioni/portogallo/), [Spain](/destinazioni/spagna/), [Morocco](/destinazioni/marocco/), Mauritania and Senegal — and a second one heading east — Turkey, Iraq, Georgia and the Caucasus, Russia, Mongolia, South Korea and [Japan](/destinazioni/giappone/). We're now between [Canada](/destinazioni/canada/) and the United States. You'll find all the guides, itineraries and real costs on the [Destinations](/destinazioni/) page.
 
 ### Dig deeper
 
