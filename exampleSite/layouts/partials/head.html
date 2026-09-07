@@ -253,7 +253,13 @@
 
 <!-- DNS preconnect e prefetch -->
 <meta http-equiv="x-dns-prefetch-control" content="on">
+<!-- cdn.jsdelivr.net serve script SOLO su 4 pagine speciali (van, expenses,
+     transiberian, record): il preconnect globale apriva una connessione mai
+     usata su articoli/home, sprecando uno slot proprio nella fase critica.
+     Preconnect solo dove serve; altrove resta il dns-prefetch (più economico). -->
+{{ if in (slice "van" "expenses" "transiberian" "record") .Layout }}
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+{{ end }}
 <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
 <!-- res.cloudinary.com serve praticamente ogni immagine articolo (vedi post.html,
      post-featured.html, index.html): senza preconnect, la connessione (DNS+TCP+TLS)
