@@ -19,7 +19,7 @@ Vuoi scoprire tutto il nostro itinerario? Le tappe che ti elenchiamo sono state 
 
 ## Itinerario
 
-Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#considerazioni).
+Se vuoi leggere il nostro itinerario in breve lo trovi [nella sezione itinerario in breve](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [leggere le nostre considerazioni](#considerazioni).
 
 **{{< underline "Giorno 1">}}**: La nostra prima tappa austriaca è stata **Innsbruck** ([che puoi scoprire qui](/blog/innsbruck-piacevole-passeggiata-cane-gatto)), una cittadina elegante e accogliente. Abbiamo potuto parcheggiare in centro gratuitamente poiché era un giorno festivo.
 

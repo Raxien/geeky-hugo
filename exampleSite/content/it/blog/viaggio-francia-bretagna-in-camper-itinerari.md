@@ -10,7 +10,7 @@ draft: false
 ---
 
 Visitare la Bretagna in camper, van o auto vuol dire ammirare panorami mozzafiato e per noi è diventata una meta che consideriamo **{{< bold "imperdibile">}}**. Vuoi qualche consiglio su come visitare questa regione francese on the road? In questo articolo ti racconteremo la nostra esperienza vissuta nel settembre 2022. 
-Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tappe [qui](/blog/viaggio-francia-normandia-in-camper-itinerari/).
+Se stai pensando di visitarla insieme alla Normandia leggi [il nostro itinerario in Normandia in camper](/blog/viaggio-francia-normandia-in-camper-itinerari/).
 
 {{< indice >}}
 
@@ -18,7 +18,7 @@ Se stai pensando di visitarla insieme alla Normandia puoi trovare le nostre tapp
 
 ## Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura.
-Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
+Se vuoi leggere il nostro itinerario in breve lo trovi [nella sezione itinerario in breve](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [leggere le nostre considerazioni](#considerazioni-e-tappe-imperdibili).
 
 **{{< underline "Giorno 1">}}**: prima tappa **{{< bold "Mont Saint Michel">}}**. Siamo arrivati di prima mattina al parcheggio di un chioschetto dove consumando colazione si può parcheggiare per un paio di ore. Acquistati caffè e Madeleine al cioccolato ci siamo gustati sia i dolci che la vista. Poi, assicurati gli animali in van per evitare loro la bolgia di gente che avremmo incontrato, ci siamo incamminati per un'oretta di passeggiata. Se non te la senti di camminare puoi fare la coda per prendere il trenino a pagamento. Avendo già visitato l'Abbazia anni prima, abbiamo solo camminato per le viuzze, a parer nostro rovinate un po' dalle troppe insegne turistiche, per poi dirigerci in un parcheggio a **{{< bold "Cherrueix">}}**, in riva al mare. 
 

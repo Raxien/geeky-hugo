@@ -35,7 +35,7 @@ Abbiamo trascorso la notte in un’altra zona di montagna, vicino a un lago, in 
 
 **{{< underline "Giorno 5: Liptovska Mara">}}**: sulle colline che circondano il lago Liptovska Mara si può godere di una vista meravigliosa e da cui partono delle belle passeggiate che conducono nei boschi (attenzione ai segnali della presenza di orsi!). Purtroppo, la mancanza di alberi a creare un po’ d’ombra nel pianale in cui eravamo parcheggiati ha fatto sì che alle 13 salutassimo quel luogo paradisiaco, perché i 40 gradi segnati dal termometro avrebbero reso le ore successive troppo difficili da tollerare. Così abbiamo deciso di ripartire per raggiungere i monti sul confine con la Polonia, fermandoci a metà strada a **Tvrdosin**, dove abbiamo visitato una delle numerose chiese di legno caratteristiche della zona. 
 Da qui ci siamo diretti per la notte a Zakopane, prima cittadina polacca non troppo distante.
-Vuoi scoprire le nostre avventure in Polonia? [Qui](/blog/viaggio-polonia-in-camper-itinerari/) trovi l'articolo in merito!
+Vuoi scoprire le nostre avventure in Polonia? Leggi [l'itinerario della Polonia in camper](/blog/viaggio-polonia-in-camper-itinerari/)!
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1684676270/IMG_5553_pujghy.jpg">}}
 

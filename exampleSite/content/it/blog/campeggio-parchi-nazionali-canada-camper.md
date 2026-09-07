@@ -57,6 +57,25 @@ Se il tuo camper monta un impianto europeo, verifica in anticipo la compatibilit
 
 Oltre al portale ufficiale delle prenotazioni, {{< extLink "iOverlander" "https://ioverlander.com/" >}} resta prezioso anche dentro i parchi nazionali, grazie alle segnalazioni della community su punti acqua, propano e aree di sosta appena fuori dai confini.
 
+## Domande frequenti
+
+{{< faq >}}
+### Come si prenota un campeggio nei parchi nazionali canadesi?
+Si prenota solo sul sito ufficiale di Parks Canada. Le prenotazioni aprono con mesi di anticipo e per i parchi più richiesti (Banff, Jasper) i posti si esauriscono in pochi minuti: conviene creare l'account e avere pronti i dati del veicolo prima dell'apertura, e puntare sulle notti infrasettimanali.
+
+### Si può fare sosta libera dentro i parchi nazionali del Canada?
+No. Dentro i confini dei parchi è obbligatorio usare un campeggio ufficiale. Appena fuori dal perimetro tornano valide le regole generali del Canada e in molte zone (anche vicino a Banff e Jasper) la sosta libera è possibile e gratuita.
+
+### Cosa fare se i campeggi sono tutti prenotati?
+In alcune aree vengono aperti i parcheggi "overflow": economici ma con pochissimi servizi, a volte prenotabili in anticipo, a volte con la regola "chi prima arriva".
+
+### Serve un permesso per entrare nei parchi nazionali canadesi?
+Sì, il Discovery Pass (giornaliero o stagionale), un costo separato dalla prenotazione del campeggio. Nell'estate 2025 e 2026 (metà giugno–inizio settembre) è stato reso gratuito, con in più uno sconto del 25% sui campeggi.
+
+### Gli attacchi per lo scarico sono compatibili con un camper europeo?
+No: le dump station canadesi usano l'attacco standard nordamericano, diverso da quello europeo. Conviene arrivare già con l'adattatore giusto.
+{{< /faq >}}
+
 ## Il viaggio continua
 
 Organizzare bene campeggi e permessi ci ha permesso di goderci le Rocky Mountains senza sorprese dell'ultimo minuto. Se vuoi seguire il resto del nostro viaggio in Nord America, con tutti gli aggiornamenti su logistica e imprevisti, ci trovi su {{< extLink "YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1" >}} e sui social cercando {{< extLink "Vandipety" "https://www.instagram.com/vandipety/" >}}.

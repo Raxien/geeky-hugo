@@ -109,6 +109,22 @@ In Giappone è essenziale rispettare le usanze locali e l'etichetta riguardo gli
 * Ristoranti: Purtroppo ad oggi non sono molti i locali che permettono di pranzare o cenare in compagnia del proprio animale domestico. Informati bene in anticipo per evitare spiacevoli sorprese. 
 * Rispetta i siti culturali: molti siti culturali in Giappone, come templi e santuari, hanno regole severe riguardo agli animali domestici. Assicurati di verificare in anticipo per assicurarti che il tuo animale domestico sia ammesso e per scoprire eventuali regole o restrizioni aggiuntive. -->
 
+## Domande frequenti
+
+{{< faq >}}
+### Con quanto anticipo bisogna prepararsi per portare un cane o un gatto in Giappone?
+Dall'Italia (regione "non designata") la procedura inizia almeno 180 giorni prima dell'ingresso, che diventano 270 se si viaggia con un cucciolo.
+
+### Quali requisiti sanitari servono?
+Microchip conforme ISO 11784/11785 (impiantato prima della vaccinazione), almeno due vaccinazioni antirabbiche valide e il test degli anticorpi antirabbici con titolo uguale o superiore a 0,5 UI/ml. In Italia il test è eseguito dall'Istituto Zooprofilattico Sperimentale delle Venezie (IZSVe) ed è valido 24 mesi.
+
+### Come si evita la quarantena?
+Completando tutta la procedura nei tempi corretti: il test anticorpale va effettuato almeno 180 giorni prima dell'ingresso e la pre-notifica all'Animal Quarantine Service va inviata almeno 40 giorni prima dell'arrivo, con i documenti richiesti.
+
+### A che età l'animale può ricevere la prima dose di vaccino antirabbico?
+Non prima dei 91 giorni di vita.
+{{< /faq >}}
+
 Tutte queste informazioni derivano dalla nostra esperienza personale, dal momento che siamo arrivati dall'Italia al Giappone con il nostro gatto, a bordo di un camper! 
 Se ti fa piacere puoi seguire {{<extLink "le nostre avventure su YouTube" "https://www.youtube.com/channel/UCH3tGEnOnx6ql48zZTSiFvw?sub_confirmation=1">}} dove raccontiamo tutte le nostre esperienze e consigli di viaggio. 
 

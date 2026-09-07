@@ -27,4 +27,31 @@
     <a href="{{ $book.url }}" target="_blank" rel="nofollow sponsored noopener" class="btn btn-primary btn-sm">{{ i18n "book_promo_button" }}</a>
   </div>
 </div>
+{{- /* Schema.org Book: emesso una sola volta per pagina (dalla variante non-compact,
+     che sugli articoli Giappone è quella mobile in-flow; sul richiamo manuale via
+     shortcode è l'unica). Evita il duplicato quando il box è reso anche nella sidebar. */ -}}
+{{- if and (not $compact) $book.isbn -}}
+{{- $authors := slice -}}
+{{- range $book.autori }}{{ $authors = $authors | append (dict "@type" "Person" "name" .) }}{{ end -}}
+{{- $bookLD := dict
+  "@context" "https://schema.org"
+  "@type" "Book"
+  "name" $book.titolo
+  "author" $authors
+  "inLanguage" "it"
+  "isbn" $book.isbn
+  "bookFormat" (printf "https://schema.org/%s" ($book.formato | default "Paperback"))
+  "image" $book.cover
+  "url" $book.url
+  "offers" (dict
+    "@type" "Offer"
+    "price" $book.prezzo
+    "priceCurrency" ($book.valuta | default "EUR")
+    "availability" "https://schema.org/InStock"
+    "url" $book.url
+  )
+-}}
+{{- with $book.sottotitolo }}{{ $bookLD = merge $bookLD (dict "description" .) }}{{ end -}}
+<script type="application/ld+json">{{ $bookLD | jsonify | safeJS }}</script>
+{{- end -}}
 {{- end -}}

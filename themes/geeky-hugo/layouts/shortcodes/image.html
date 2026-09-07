@@ -11,6 +11,11 @@
 <!-- get image path -->
 {{ $imagePath:= .Scratch.Get "src" }}
 
+<!-- alt: se non passato come parametro, ricade su caption/title dello shortcode,
+     poi sul titolo della pagina — meglio di alt="" per accessibilità e Google Immagini. -->
+{{ $alt := .Get `alt` }}
+{{ if not $alt }}{{ $alt = .Get `caption` | default (.Get `title`) | default .Page.Title }}{{ end }}
+
 <!-- image position -->
 {{ if eq (.Get `p`) `center` }}
 {{ .Scratch.Set "image-position" "img-center" }}
@@ -44,13 +49,13 @@
 <!-- image figure -->
 {{ if or (.Get `title`) (.Get `caption`) }}
 <figure class="{{.Scratch.Get `image-position`}}">
-  <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Get `alt` }}" class="{{.Get `c`}}" width="{{ $w }}" height="{{ $h }}" style="height:auto">
+  <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ $alt }}" class="{{.Get `c`}}" width="{{ $w }}" height="{{ $h }}" style="height:auto">
   <figcaption>{{.Get `title` | default (.Get `caption`) | markdownify}}</figcaption>
 </figure>
 {{ else }}
 <!-- image tag -->
 <div class="{{.Scratch.Get `image-position`}}">
-<img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Get `alt` }}" class="{{.Get `c`}} {{.Scratch.Get `image-position`}}" width="{{ $w }}" height="{{ $h }}" style="height:auto">
+<img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ $alt }}" class="{{.Get `c`}} {{.Scratch.Get `image-position`}}" width="{{ $w }}" height="{{ $h }}" style="height:auto">
 </div>
 {{ end }}
 
@@ -83,12 +88,12 @@
 <!-- image figure -->
 {{ if or (.Get `title`) (.Get `caption`) }}
 <figure class="{{.Scratch.Get `image-position`}}">
-  <img loading="lazy" decoding="async" class="{{.Get `c`}}" width="{{.Get `w` | default $imageWidth }}" height="{{.Get `h` | default $imageHeight}}" src="{{.Scratch.Get `image`}}" alt="{{.Get `alt`}}" onerror="this.onerror='null';this.src='{{.Scratch.Get `image_fallback`}}'">
+  <img loading="lazy" decoding="async" class="{{.Get `c`}}" width="{{.Get `w` | default $imageWidth }}" height="{{.Get `h` | default $imageHeight}}" src="{{.Scratch.Get `image`}}" alt="{{ $alt }}" onerror="this.onerror='null';this.src='{{.Scratch.Get `image_fallback`}}'">
   <figcaption>{{.Get `title` | default (.Get `caption`) | markdownify}}</figcaption>
 </figure>
 {{ else }}
 <!-- image tag -->
-<img loading="lazy" decoding="async" class="{{.Get `c`}} {{.Scratch.Get `image-position`}}" width="{{.Get `w` | default $imageWidth }}" height="{{.Get `h` | default $imageHeight}}" src="{{.Scratch.Get `image`}}" alt="{{.Get `alt`}}" onerror="this.onerror='null';this.src='{{.Scratch.Get `image_fallback`}}'">
+<img loading="lazy" decoding="async" class="{{.Get `c`}} {{.Scratch.Get `image-position`}}" width="{{.Get `w` | default $imageWidth }}" height="{{.Get `h` | default $imageHeight}}" src="{{.Scratch.Get `image`}}" alt="{{ $alt }}" onerror="this.onerror='null';this.src='{{.Scratch.Get `image_fallback`}}'">
 {{ end }}
 
 <!-- image from content folder -->
@@ -97,12 +102,12 @@
 <!-- image figure -->
 {{ if or (.Get `title`) (.Get `caption`) }}
 <figure class="{{.Scratch.Get `image-position`}}">
-  <img loading="lazy" decoding="async" class="{{.Get `c`}}" width="{{.Get `w`}}" height="{{.Get `h`}}" src="{{$imagePath | relURL}}" alt="{{.Get `alt`}}">
+  <img loading="lazy" decoding="async" class="{{.Get `c`}}" width="{{.Get `w`}}" height="{{.Get `h`}}" src="{{$imagePath | relURL}}" alt="{{ $alt }}">
   <figcaption>{{.Get `title` | default (.Get `caption`) | markdownify}}</figcaption>
 </figure>
 {{ else }}
 <!-- image tag -->
-<img loading="lazy" decoding="async" class="{{.Get `c`}} {{.Scratch.Get `image-position`}}" width="{{.Get `w`}}" height="{{.Get `h`}}" src="{{$imagePath | relURL}}" alt="{{.Get `alt`}}">
+<img loading="lazy" decoding="async" class="{{.Get `c`}} {{.Scratch.Get `image-position`}}" width="{{.Get `w`}}" height="{{.Get `h`}}" src="{{$imagePath | relURL}}" alt="{{ $alt }}">
 {{ end }}
 <!-- /image from content folder -->
 

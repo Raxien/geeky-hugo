@@ -1,0 +1,24 @@
+{{- /*
+  Render hook per le immagini in markdown puro  ![alt](url "title").
+  Aggiunge loading=lazy, decoding=async e width/height per ridurre il CLS
+  (default Hugo: <img src alt> senza dimensioni). Lo shortcode {{< image >}}
+  ha la sua logica dedicata; questo copre le immagini scritte direttamente.
+*/ -}}
+{{- $u := .Destination -}}
+{{- $alt := .Text | default .Title | default .Page.Title -}}
+{{- if hasPrefix $u "http" -}}
+  {{- $w := "" -}}
+  {{- with (findRE `w_[0-9]+` $u 1) }}{{ $w = replace (index . 0) "w_" "" }}{{ end -}}
+  {{- if not $w }}{{ $w = "800" }}{{ end -}}
+  {{- $h := string (int (math.Round (mul (float $w) 0.667))) -}}
+  <img src="{{ $u | safeURL }}" alt="{{ $alt }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" decoding="async" width="{{ $w }}" height="{{ $h }}" style="max-width:100%;height:auto">
+{{- else -}}
+  {{- $res := "" -}}
+  {{- with .Page.Resources.GetMatch $u }}{{ $res = . }}{{ end -}}
+  {{- if not $res }}{{ with resources.Get $u }}{{ $res = . }}{{ end }}{{ end -}}
+  {{- if $res -}}
+  <img src="{{ $res.RelPermalink }}" alt="{{ $alt }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" decoding="async" width="{{ $res.Width }}" height="{{ $res.Height }}" style="max-width:100%;height:auto">
+  {{- else -}}
+  <img src="{{ $u | safeURL }}" alt="{{ $alt }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" decoding="async" style="max-width:100%;height:auto">
+  {{- end -}}
+{{- end -}}

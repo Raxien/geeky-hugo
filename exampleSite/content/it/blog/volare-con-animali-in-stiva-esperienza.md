@@ -157,4 +157,20 @@ Quando viaggi per lavoro, per necessità, per famiglia — o semplicemente perch
 
 E noi siamo qui a dirtelo: **si può fare**.
 
+## Domande frequenti
+
+{{< faq >}}
+### Volare con cane o gatto in stiva è pericoloso?
+Secondo i dati del Department of Transportation statunitense gli incidenti nel trasporto aereo di animali sono estremamente rari (meno dello 0,01%). Nei casi segnalati si trattava quasi sempre di animali anziani, con patologie pregresse o sedati.
+
+### Gli animali viaggiano nel vano bagagli?
+No. I compartimenti dedicati sono ambienti separati, pressurizzati e climatizzati, con condizioni simili alla cabina passeggeri, lontani da rumori e valigie. Il numero di animali per volo è limitato.
+
+### Si possono dare sedativi prima del volo?
+Generalmente sono sconsigliati o vietati dalle compagnie: possono interferire con la respirazione e con l'adattamento alla pressione. Se il veterinario li propone, chiedi un'alternativa naturale.
+
+### Perché non tenerli in cabina?
+Sulla tratta Giappone–Canada i trasportini da cabina ammessi hanno dimensioni ridottissime (circa 20 cm di altezza) e sono pensati solo per animali molto piccoli. Per noi la stiva non era una scelta ma l'unica opzione.
+{{< /faq >}}
+
 Hai domande sul viaggio in stiva? Scrivici nei commenti — risponderemo a tutto.

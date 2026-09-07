@@ -1,5 +1,6 @@
 ---
 title: 'Giappone in 12 giorni: Osaka-Kyoto-Kumano Kodo tra templi e spiritualità'
+seo_title: "Itinerario Giappone 12 giorni in camper: da Osaka a Kyoto e Kumano Kodo"
 description: 'Scopri un itinerario originale di 12 giorni in Giappone da Osaka a Kyoto passando per Kumano Kodo, templi sacri, onsens e paesaggi mozzafiato. Guida completa vanlife.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1761029547/articoli/viaggi/Copia di Nero Minimalista Viaggio Miniatura YouTube-mgqvehg8.png
 date: 2025-10-20T08:00:00+02:00

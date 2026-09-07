@@ -1,5 +1,6 @@
 ---
 title: 'Tour di 7 giorni in Algarve in camper'
+seo_title: "Algarve in camper: itinerario di 7 giorni tra spiagge e soste"
 description: "Un road trip in Algarve, affacciati sulle scogliere"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1683757945/IMG_2877_affjhz.jpg
 date: 2023-04-10T17:00:00.000

@@ -383,3 +383,6 @@ other = "Planning a similar trip?"
 
 [book_promo_button]
 other = "Check out our book"
+
+[media_strip_heading]
+other = "As featured in"

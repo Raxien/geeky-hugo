@@ -12,7 +12,7 @@ draft: false
 ---
 
 Stai pensando di visitare la Polonia ma non sai da dove iniziare?
-Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese oltre a un consiglio su un possibile itinerario in breve. Se invece ti interessa scoprire il nostro itinerario on the road ti rimandiamo all'articolo dedicato che trovi [qui](/blog/viaggio-polonia-in-camper-itinerari/).
+Di seguito troverai tutti i consigli utili per viaggiare all'interno del paese oltre a un consiglio su un possibile itinerario in breve. Se invece ti interessa scoprire il nostro itinerario on the road leggi [il nostro itinerario on the road in Polonia in camper](/blog/viaggio-polonia-in-camper-itinerari/).
 
 {{< indice >}}
 

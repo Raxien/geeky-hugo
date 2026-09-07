@@ -19,7 +19,7 @@ Dopo quasi 30 giorni trascorsi in Senegal, qualche disavventura in dogana e non 
 
 ## Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, ricreando un piccolo diario giornaliero. 
-Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se  vuoi leggere le nostre considerazioni in merito al paese e soprattutto le tappe **{{< underline "imperdibili">}}** puoi farlo [cliccando qua](#considerazioni-e-tappe-imperdibili)).
+Se vuoi leggere il nostro itinerario in breve lo trovi [nella sezione itinerario in breve](#in-breve), mentre se  vuoi leggere le nostre considerazioni in merito al paese e soprattutto le tappe **{{< underline "imperdibili">}}** puoi farlo [cliccando qua](#considerazioni-e-tappe-imperdibili)).
 
 ### Ingresso in paese, Saint Louis e Lago Retba
 **{{< underline "Giorno 1">}}**: siamo arrivati alla dogana senegalese di Diama in tarda mattinata, per poi dirigerci direttamente a Saint Louis. Attraversando la cittadina l'impatto è notevole: una prima isola centrale decorata da colorate casette coloniali lascia lo spazio a un ponte che conduce all'isola dei pescatori, martoriata da sporcizia in ogni angolo, bambini che vagano in mezzo a una moltitudine di cani randagi e caprette, una spiaggia meravigliosa caratterizzata più da rifiuti che granelli di sabbia. Abbiamo sostato con il van a sud dell'isola dei pescatori, in libera e totalmente indisturbati.

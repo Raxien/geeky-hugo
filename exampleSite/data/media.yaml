@@ -1,0 +1,27 @@
+# Testate/trasmissioni da mostrare nella striscia "Hanno parlato di noi"
+# (partials/media-strip.html; anche via shortcode {{< media-loghi >}}).
+# Loghi PNG con trasparenza in static/images/media/ (fonte: Wikimedia /
+# Wikipedia). media-strip.html li rende come silhouette scura uniforme, colore
+# originale al passaggio del mouse. Se "logo" è vuoto mostra il nome come testo.
+items:
+  - name: "Fanpage.it"
+    logo: "/images/media/fanpage.png"
+    url: "https://www.fanpage.it/stile-e-trend/viaggi/da-quasi-6-anni-viaggiano-in-camper-con-gatto-e-cane-sara-e-paolo-non-bisogna-per-forza-spendere-troppo/"
+  - name: "La Stampa"
+    logo: "/images/media/la-stampa.png"
+    url: "https://www.lastampa.it/cuneo/2024/03/27/news/la_coppia_di_saluzzo_che_ha_lasciato_casa_e_lavoro_per_girare_il_mondo_in_camper-14177719/"
+  - name: "Rai Radio 1"
+    logo: "/images/media/rai-radio-1.png"
+    url: "https://www.raiplaysound.it/audio/2024/10/Io-sto-con-gli-animali-del-19102024-3d76d99e-b087-4b5c-b611-0bd47dab2fa7.html"
+  - name: "Radio Deejay"
+    logo: "/images/media/radio-deejay.png"
+    url: "https://www.deejay.it/programmi/animal-house/puntate/animal-house-del-19-06-2022/"
+  - name: "Radio Capital"
+    logo: "/images/media/radio-capital.png"
+    url: "https://www.capital.it/programmi/betty/puntate/cose-che-capital-del-01-04-2024/"
+  - name: "Wamiz"
+    logo: "/images/media/wamiz.png"
+    url: "https://wamiz.it/news/40650/sara-e-paolo-in-giro-per-il-mondo-con-un-insolita-compagnia-video"
+  - name: "Prismag"
+    logo: ""
+    url: "https://prismag.it/la-van-life-secondo-chi-la-vive/"

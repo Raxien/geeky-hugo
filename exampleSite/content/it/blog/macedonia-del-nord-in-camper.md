@@ -50,7 +50,7 @@ Visitare Sarajevo senza che la mente torni ai giorni della guerra è pressochè 
 Nonostante ciò **Sarajevo** è una città piccola ma piena di vita. 
 Qui, come nel resto del paese, si mescolano 4 religioni diverse e culture diverse, per cui ci si ritrova a passeggiare fra chiese, cattedrali ortodosse, moschee e sinagoghe.
 
-Noi abbiamo dedicato due mezze giornate alla città, se vuoi saperne di più puoi leggere l'articolo che abbiamo scritto in merito [qui](/blog/). 
+Noi abbiamo dedicato due mezze giornate alla città, se vuoi saperne di più leggi [il nostro tour di Sarajevo in un giorno](/blog/tour-di-sarajevo-in-un-giorno). 
 
 La prima tappa è stato il **Museo del Tunnel**, nei pressi dell'aeroporto. 
 Il tunnel fu scavato in gran segreto a mano, da valorosi volontari attivi su 4 turni di 8 ore no stop, partendo da una casa privata sotto l’aeroporto (unica zona non bombardata), e serviva per far fuggire gli abitanti della città sotto assedio, ma anche per rifornire di cibo e munizioni. Si trova a pochi chilometri dal centro città ed è visitabile in autonomia o con guida (pagamento solo con moneta locale). In loco è presente un comodo parcheggio a pagamento (dove accettano e cambiano gli euro), dove è possibile caricare acqua e sostare per la notte a tariffa raddoppiata.

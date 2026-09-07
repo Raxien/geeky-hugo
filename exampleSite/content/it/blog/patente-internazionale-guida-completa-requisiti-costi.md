@@ -96,5 +96,24 @@ In Italia, le uniche autorità competenti per il rilascio della patente internaz
 
 Inoltre, le piattaforme online che offrono "patenti internazionali" non rilasciano quella conforme alla **Convenzione di Ginevra (1949)**. È quindi molto probabile che si tratti solo di **banali traduzioni** della patente, che non hanno alcun valore legale all'estero.
 
+## Domande frequenti
+
+{{< faq >}}
+### Quanti tipi di patente internazionale esistono?
+Due: il modello Vienna 1968 (validità fino a 3 anni) e il modello Ginevra 1949 (validità 1 anno). Cambiano durata e Paesi che li riconoscono; in Italia si possono ottenere entrambi. Verifica su Viaggiare Sicuri quale serve nel Paese di destinazione.
+
+### Dove si richiede la patente internazionale in Italia?
+Alla Motorizzazione Civile (in autonomia) o all'ACI. Noi l'abbiamo sempre fatta tramite ACI senza problemi.
+
+### Quanto costa?
+Tramite Motorizzazione servono un bollettino PagoPA da 10,20 €, uno da 16,00 € e una marca da bollo da 16,00 €. All'estero, tramite Consolato, ci sono costi aggiuntivi (es. circa 40 € per l'autenticazione della foto) più la spedizione dei documenti in Italia.
+
+### Le patenti internazionali "online" sono valide?
+No. In Italia solo Motorizzazione Civile e ACI possono rilasciarla. I servizi online privati di solito forniscono solo una traduzione della patente, senza valore legale.
+
+### Con quanto anticipo conviene farla?
+Almeno un mese prima della partenza.
+{{< /faq >}}
+
 ## Conclusione
 Ottenere la patente internazionale è un processo semplice ma essenziale se prevedi di guidare fuori dall’Unione Europea o in Paesi che richiedono tale documento. Assicurati di informarti **sui modelli accettati nel Paese di destinazione**, così da richiedere quello corretto. Rispetto ai tempi e ai costi, è consigliabile iniziare la procedura almeno un mese prima della partenza.

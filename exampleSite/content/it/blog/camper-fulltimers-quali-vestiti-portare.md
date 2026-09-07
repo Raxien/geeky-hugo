@@ -30,7 +30,7 @@ Ti riportiamo qui il nostro elenco, per essere pratici e minimale come lo siamo 
 12- Costumi: 1 per Paolo, 2 per Sara.
 
 E per le borse? Uno zaino a testa.
-E per le scarpe? Trovi tutto [qui](/blog/camper-fulltimers-quali-scarpe-portare/).
+E per le scarpe? Leggi [quante scarpe portiamo con noi in camper](/blog/camper-fulltimers-quali-scarpe-portare/).
 
 Abbiamo portato troppo? Troppo poco? Forse sì, forse no. Se dovessimo avere dei capi che si rivelano davvero inutilizzati li regaleremo così come abbiamo fatto con molti di quelli che avevamo a casa quando abbiamo deciso di non possedere troppi oggetti materiali, scelta che si è rivelata davvero liberatoria.
 

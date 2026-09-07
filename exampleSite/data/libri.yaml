@@ -1,7 +1,7 @@
-# Libri Vandipety, usati dallo shortcode {{< libro >}} (layouts/shortcodes/libro.html).
+# Libri Vandipety, usati dallo shortcode {{< libro >}} e dal partial book-cta.html.
 # "default" indica quale voce mostrare quando lo shortcode è usato senza argomenti.
-# Aggiungere un libro = nuova chiave con titolo / cover (URL Cloudinary senza
-# trasformazioni, lo shortcode le aggiunge) / url (link d'acquisto o affiliato).
+# Aggiungere un libro = nuova chiave con i campi sotto. I campi extra (autori,
+# prezzo, valuta, isbn, formato) alimentano lo schema.org Book/Offer.
 default: verso-lisola-che-ce
 
 verso-lisola-che-ce:
@@ -9,3 +9,10 @@ verso-lisola-che-ce:
   sottotitolo: "Dall'Italia al Giappone in camper con un cane e un gatto"
   cover: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1783035345/asset/verso-lisola-che-ce_wzjhfb.jpg"
   url: "https://amzn.to/4fhGbAY"
+  autori:
+    - "Sara Moressa"
+    - "Paolo Provera"
+  prezzo: "20.00"
+  valuta: "EUR"
+  isbn: "979-1281033306"
+  formato: "Paperback"   # schema.org bookFormat: Paperback | Hardcover | EBook | AudiobookFormat

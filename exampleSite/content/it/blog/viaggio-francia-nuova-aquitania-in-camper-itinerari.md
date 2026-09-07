@@ -15,7 +15,7 @@ Visitare la Nuova Aquitania in camper ci ha regalato panorami unici affacciati s
 
 ## Itinerario
 Vuoi visitare questa regione giorno dopo giorno insieme a noi? Abbiamo ricreato un piccolo diario giornaliero. 
-Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
+Se vuoi leggere il nostro itinerario in breve lo trovi [nella sezione itinerario in breve](#in-breve), mentre se vuoi sapere le nostre considerazioni e quali tappe riteniamo **imperdibili** puoi [leggere le nostre considerazioni](#considerazioni-e-tappe-imperdibili).
 
 **{{< underline "Giorno 1-2">}}**: siamo arrivati a La Rochelle sotto al diluvio, motivo per cui abbiamo deciso di sostare nei pressi dell'aeroporto e fare giusto due passi sulla scogliera. L'indomani abbiamo visitato il centro città sempre sotto al diluvio, spostandoci nel parcheggio vicino al piccolo porticciolo e scoprendo il mercato coperto. Nel pomeriggio ci siamo spostati lungo le sponde di un fiume per sgranchire le gambe passeggiando seguendo la riva e poi a Saint-Thomas-de-Conac, un piccolo paesino di campagna, per la notte. Sosta in libera.
 

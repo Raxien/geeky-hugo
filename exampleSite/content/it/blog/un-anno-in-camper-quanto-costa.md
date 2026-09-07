@@ -64,6 +64,22 @@ Ci sono tanti non che però leggiamo al contrario, rilanciando la questione a no
 
 A conti fatti siamo **molto contenti della cifra spesa**, che ci permette di sapere perfettamente dove possiamo migliorare (in primis sul carburante, quindi sulla velocità del viaggio) e di continuare a vivere a bordo di casa nostra, sistemando giusto qualche danno qua e là prima di ripartire.
 
+## Domande frequenti
+
+{{< faq >}}
+### Quanto costa un anno in camper?
+Nel nostro primo anno (dal 18 maggio 2022) abbiamo speso circa 1.000 € al mese in due, 500 € a testa: meno di 15 € al giorno a persona, tutto incluso.
+
+### Cosa comprende quel budget?
+Gasolio, cibo, parcheggi, visite culturali, dogane e visti, traghetto, assicurazione sanitaria, internet — e alla fine siamo riusciti a farci rientrare anche bollo e assicurazione del van, all'inizio esclusi.
+
+### Quanto avete viaggiato con quel budget?
+2 continenti, 13 paesi, 30.000 km, di cui 4 mesi in Africa.
+
+### Si poteva spendere meno?
+Sì, rallentando i ritmi ed evitando alcune spese straordinarie (problemi in dogana, assicurazione sanitaria estera, biglietti del traghetto). Ma sono scelte legate al percorso, non allo stile di vita quotidiano.
+{{< /faq >}}
+
 Vuoi sapere quali sono i lavori che dovremo sistemare e come abbiamo analizzato la cifra finale? 
 Trovi tutto in questo video sul nostro canale YouTube.
 

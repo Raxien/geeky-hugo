@@ -17,7 +17,7 @@ In questo articolo ti porteremo con noi alla scoperta della Polonia, terra che c
 
 ## Itinerario
 In questa sezione troverai un diario giornaliero con tutte le tappe della nostra avventura.
-Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni in merito al paese e soprattutto le tappe imperdibili puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
+Se vuoi leggere il nostro itinerario in breve lo trovi [nella sezione itinerario in breve](#in-breve), mentre se vuoi sapere le nostre considerazioni in merito al paese e soprattutto le tappe imperdibili puoi [leggere le nostre considerazioni](#considerazioni-e-tappe-imperdibili).
 
 **{{< underline "Giorno 1">}}**: la nostra prima tappa, arrivando dalla Slovacchia, è stata la città di Zakopane, famosa località turistica che offre parecchi servizi sia in estate che in inverno grazie alla posizione fra le montagne. La via centrale è un susseguirsi di negozi di attrezzature e abbigliamento sportivo, souvenir e ristoranti, ma ci è successo addirittura di camminare di fianco a cerbiatti (che hanno tentato di {{<extLink "attaccare il nostro cane!" "https://youtu.be/myxqn3u4mJY">}}) in cerca di cibo! 
 

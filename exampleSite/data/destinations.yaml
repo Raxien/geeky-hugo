@@ -20,6 +20,7 @@ it:
     hub: giappone
     fallback_category_slug: giappone-in-camper
   Canada:
+    hub: canada
     fallback_category_slug: nord-america-in-camper
   Corea del Sud:
     hub: corea-del-sud
@@ -87,6 +88,9 @@ en:
   Japan:
     hub: giappone
     fallback_category_slug: japan-by-campervan
+  Canada:
+    hub: canada
+    fallback_category_slug: north-america-by-campervan
   South Korea:
     fallback_category_slug: south-korea-by-campervan
   Morocco:

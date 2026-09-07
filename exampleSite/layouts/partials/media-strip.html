@@ -1,0 +1,37 @@
+{{- /*
+  Striscia "Hanno parlato di noi" (segnale di trust E-E-A-T), server-rendered
+  da data/media.yaml. Voci con "logo" -> immagine resa come silhouette scura
+  uniforme (colore originale all'hover); voci senza "logo" -> nome come testo.
+  Non renderizza nulla se la lista è vuota.
+  Context opzionale: dict "heading" per personalizzare il titolo.
+*/ -}}
+{{- $items := (index hugo.Data.media "items") | default slice -}}
+{{- if $items -}}
+{{- $heading := "" -}}
+{{- if reflect.IsMap . }}{{ $heading = .heading }}{{ end -}}
+<section class="media-strip my-4">
+  <style>
+    .media-strip .logos { display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:1.75rem; }
+    .media-strip img { max-height:30px; width:auto; filter:brightness(0); opacity:.5; transition:filter .2s, opacity .2s; }
+    .media-strip a:hover img { filter:none; opacity:1; }
+    .media-strip .name { font-weight:700; letter-spacing:.03em; color:#6c757d; }
+    .media-strip a { text-decoration:none; }
+  </style>
+  <p class="small text-uppercase text-muted text-center mb-3">{{ $heading | default (i18n "media_strip_heading") }}</p>
+  <div class="logos">
+    {{- range $items -}}
+      {{- $inner := "" -}}
+      {{- if .logo -}}
+        {{- $inner = printf `<img src="%s" alt="%s" loading="lazy" decoding="async">` .logo .name -}}
+      {{- else -}}
+        {{- $inner = printf `<span class="name">%s</span>` .name -}}
+      {{- end -}}
+      {{- if .url -}}
+      <a href="{{ .url }}" target="_blank" rel="noopener" title="{{ .name }}">{{ $inner | safeHTML }}</a>
+      {{- else -}}
+      {{ $inner | safeHTML }}
+      {{- end -}}
+    {{- end -}}
+  </div>
+</section>
+{{- end -}}

@@ -16,7 +16,7 @@ In questo articolo ti porteremo con noi alla scoperta della Francia del Nord. Ab
 
 ## Itinerario
 In questa sezione ti elencheremo tutte le tappe della nostra avventura, con un piccolo diario giornaliero. 
-Se vuoi leggere il nostro itinerario in breve lo trovi [qui](#in-breve), mentre se vuoi sapere le nostre considerazioni in merito a questa regione e soprattutto le tappe **{{< bold "imperdibili">}}** puoi [cliccare qua](#considerazioni-e-tappe-imperdibili).
+Se vuoi leggere il nostro itinerario in breve lo trovi [nella sezione itinerario in breve](#in-breve), mentre se vuoi sapere le nostre considerazioni in merito a questa regione e soprattutto le tappe **{{< bold "imperdibili">}}** puoi [leggere le nostre considerazioni](#considerazioni-e-tappe-imperdibili).
 
 **{{< underline "Giorno 1">}}**: la nostra prima tappa appena varcato il confine con il Belgio è stata **{{< bold "Dunkerque">}}**. Il centro cittadino non è emozionante e purtroppo anche la zona vicina alla spiaggia degli sbarchi non offre scorci degni di nota. Palazzoni, nulla più. Carino un parco con statue di varie forme e materiali e una serie di tulipani rossi di ferro che svettano verso le nuvole. Un po' delusi anche dalla tanta pattumiera ci siamo spostati per dormire a Bergues, poco fuori le mura.
 

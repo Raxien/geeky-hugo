@@ -1,0 +1,38 @@
+{{- /*
+  Blocco FAQ + dati strutturati FAQPage (schema.org) -> possibile rich snippet.
+  Uso nel markdown: ogni domanda è una riga che inizia con "### ", la risposta
+  è il testo (markdown) fino alla domanda successiva.
+
+    {{< faq >}}
+    ### Quanto costa vivere in camper?
+    Dipende dallo stile di viaggio. Nel nostro caso la media è di circa **X € al giorno**.
+
+    ### Serve la patente internazionale?
+    Per l'Europa no; fuori dall'area della Convenzione di Vienna sì.
+    {{< /faq >}}
+*/ -}}
+{{- $chunks := split (printf "\n%s" (trim .Inner "\n \t\r")) "\n### " -}}
+{{- $items := slice -}}
+<div class="faq-block my-4">
+{{- range $i, $c := $chunks -}}
+  {{- $c = trim $c "\n \t\r" -}}
+  {{- if and (gt $i 0) $c -}}
+    {{- $parts := split $c "\n" -}}
+    {{- $q := trim (index $parts 0) " #" -}}
+    {{- $a := trim (delimit (after 1 $parts) "\n") "\n \t\r" -}}
+    {{- $aHTML := $.Page.RenderString $a -}}
+    {{- $items = $items | append (dict "q" $q "a" (string $aHTML)) -}}
+  <details class="faq-item border rounded p-3 mb-2">
+    <summary class="fw-bold" style="cursor:pointer">{{ $q }}</summary>
+    <div class="faq-answer mt-2">{{ $aHTML }}</div>
+  </details>
+  {{- end -}}
+{{- end -}}
+</div>
+{{- with $items -}}
+{{- $entities := slice -}}
+{{- range . -}}
+  {{- $entities = $entities | append (dict "@type" "Question" "name" .q "acceptedAnswer" (dict "@type" "Answer" "text" .a)) -}}
+{{- end -}}
+<script type="application/ld+json">{{ (dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" $entities) | jsonify | safeJS }}</script>
+{{- end -}}

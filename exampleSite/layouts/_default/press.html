@@ -9,12 +9,36 @@
         <div id="content" class="content">
           {{.Content}}
         </div>
-        <div id="press">
-          <div id="loader" class="text-center my-5">
-            <div class="spinner-border text-primary" role="status">
-              <span class="visually-hidden">{{ i18n "loading_generic" }}</span>
-            </div>
-          </div>
+        {{ partial "media-strip.html" . }}
+
+        {{/* Rassegna stampa server-side da data/press.yaml (prima era un fetch JS
+             a un RPC esterno, quindi non indicizzabile). Raggruppata per anno,
+             più recente in alto. */}}
+        {{ $press := sort ((index hugo.Data.press "items") | default slice) "date" "desc" }}
+        {{ $years := slice }}
+        {{ range $press }}{{ $y := substr .date 0 4 }}{{ if not (in $years $y) }}{{ $years = $years | append $y }}{{ end }}{{ end }}
+        <style>
+          .press-list ul { list-style: none; padding-left: 0; margin-bottom: 0; }
+          .press-list li { padding: .35rem 0; border-bottom: 1px solid rgba(0,0,0,.06); }
+          .press-list a { color: inherit; text-decoration: none; }
+          .press-list a:hover strong { color: #15817f; text-decoration: underline; text-underline-offset: 3px; }
+          .press-list .press-meta { color: #6c757d; font-size: .875rem; }
+        </style>
+        <div id="press" class="press-list">
+          {{ range $years }}
+          {{ $year := . }}
+          <h3 class="h5 mt-4 title-border">{{ $year }}</h3>
+          <ul>
+            {{ range $press }}
+            {{ if eq (substr .date 0 4) $year }}
+            <li>
+              <a href="{{ .url }}" {{ if not (hasPrefix .url "/") }}target="_blank" rel="noopener"{{ end }}><strong>{{ .title }}</strong></a>
+              {{ with .media }}<span class="press-meta"> — {{ . }}</span>{{ end }}{{ with .note }}<span class="press-meta"> ({{ . }})</span>{{ end }}
+            </li>
+            {{ end }}
+            {{ end }}
+          </ul>
+          {{ end }}
         </div>
       </div>
     </div>

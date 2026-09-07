@@ -224,6 +224,22 @@ Noi abbiamo scelto di vivere in camper non per risparmiare denaro (anche se aiut
 
 **Se la tua domanda è "posso permettermi la vanlife?", la risposta probabilmente è: con pianificazione, creatività, e la giusta mentalità, sì**.
 
+## Domande frequenti
+
+{{< faq >}}
+### Quanto costa vivere in camper al mese?
+Nella nostra esperienza (oltre 3 anni, 100.000 km, 37 paesi) la media è di circa **28,78 € al giorno in due**, cioè **900-1.000 € al mese per due persone** (circa 430-450 € a testa). Il dato varia molto in base a paese, stagione e stile di viaggio.
+
+### Si può vivere in camper senza un lavoro fisso?
+Sì, ma serve pianificazione. Nel nostro caso è una combinazione di **risparmio iniziale** (10 anni di lavoro prima di partire), **redditi saltuari/passivi** (YouTube, articoli, collaborazioni, royalty dei libri), **costi più bassi** rispetto alla vita stanziale (niente affitto, bollette, seconda auto) e **scelte frugali consapevoli**.
+
+### Qual è la spesa più imprevedibile della vanlife?
+Le spese una-tantum e straordinarie: problemi veterinari, logistica e trasporti (per esempio i traghetti Russia-Corea e Corea-Giappone, che abbiamo escluso dalla media perché vanno ammortizzati nel tempo).
+
+### Vivere in camper conviene rispetto a una casa?
+Per noi il costo mensile è risultato **inferiore** a quello della precedente vita stanziale a Torino, soprattutto grazie all'assenza di affitto e bollette. Ma non è una scelta fatta solo per risparmiare: il denaro non speso viene reinvestito in esperienze.
+{{< /faq >}}
+
 ## Condividi la tua esperienza
 
 Hai mai calcolato il tuo budget mensile? Quali categorie di spesa ti sorprendono di più? Hai scoperto strategie di risparmio che funzionano particolarmente bene?

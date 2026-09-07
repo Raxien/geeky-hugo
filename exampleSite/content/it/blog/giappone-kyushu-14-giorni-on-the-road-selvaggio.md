@@ -1,5 +1,6 @@
 ---
 title: 'Un Giappone diverso: 14 giorni on the road nel selvaggio Kyushu'
+seo_title: "Kyushu in camper: itinerario di 14 giorni nel Giappone più selvaggio"
 description: 'Esplora il Kyushu in 14 giorni on the road! Itinerario in camper tra vulcani, onsen, templi nascosti e coste mozzafiato. Scopri il Giappone autentico!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713007643/Articoli//Giappone/nanzoin-kyushu-itinerario_iifdfj.jpg
 date: 2025-05-16T07:00:00+01:00

@@ -1,0 +1,98 @@
+# Rassegna stampa Vandipety. Prima caricata da un RPC esterno
+# (vandipetyapi.onrender.com/data/press), ora nel repo: dati che cambiano di
+# rado e vanno serviti server-side (crawlabili). Renderizzata da
+# layouts/_default/press.html, raggruppata per anno (ordinamento automatico).
+# Per una nuova uscita: aggiungere una voce (l'ordine nel file non conta).
+#   title  : titolo del pezzo
+#   url    : link (assoluto per esterni)
+#   date   : AAAA-MM-GG
+#   media  : nome testata / trasmissione
+#   note   : dettaglio opzionale (es. "dal minuto 10:30")
+
+items:
+  - title: "Da quasi 6 anni viaggiano in camper con gatto e cane: «Non bisogna per forza spendere troppo»"
+    url: "https://www.fanpage.it/stile-e-trend/viaggi/da-quasi-6-anni-viaggiano-in-camper-con-gatto-e-cane-sara-e-paolo-non-bisogna-per-forza-spendere-troppo/"
+    date: "2026-08-27"
+    media: "Fanpage.it"
+
+  - title: "Io sto con gli animali"
+    url: "https://www.raiplaysound.it/audio/2024/10/Io-sto-con-gli-animali-del-19102024-3d76d99e-b087-4b5c-b611-0bd47dab2fa7.html"
+    date: "2024-10-19"
+    media: "Rai Radio 1 – Io sto con gli animali"
+
+  - title: "Gli sposi italiani hanno guidato un camper con un gatto attraverso la Russia per dissipare lo stereotipo dei «russi malvagi»"
+    url: "https://www.newsvl.ru/vlad/2024/08/25/225988/"
+    date: "2024-08-25"
+    media: "VL.ru (Vladivostok)"
+
+  - title: "Cose che Capital – la van life secondo chi la vive"
+    url: "https://www.capital.it/programmi/betty/puntate/cose-che-capital-del-01-04-2024/"
+    date: "2024-04-01"
+    media: "Radio Capital – Betty Senatore"
+
+  - title: "Quando casa è dove parcheggi: la van life secondo chi la vive"
+    url: "https://prismag.it/la-van-life-secondo-chi-la-vive/"
+    date: "2024-04-05"
+    media: "Prismag n. 5"
+
+  - title: "La coppia di Saluzzo che ha lasciato casa e lavoro per girare il mondo in camper"
+    url: "https://www.lastampa.it/cuneo/2024/03/27/news/la_coppia_di_saluzzo_che_ha_lasciato_casa_e_lavoro_per_girare_il_mondo_in_camper-14177719/"
+    date: "2024-03-27"
+    media: "La Stampa"
+
+  - title: "La vita on the road di Paolo Provera e Sara Moressa con Sakè e Olimpia"
+    url: "https://www.giornalelavoce.it/video/attualita/533751/la-vita-on-the-road-di-paolo-provera-e-sara-moressa-con-sake-e-olimpia.html"
+    date: "2023-06-20"
+    media: "La Voce"
+
+  - title: "Da Torino a Dakar: inseguendo il record mondiale del gatto viaggiatore Sakè"
+    url: "https://www.targatocn.it/2023/05/31/leggi-notizia/argomenti/attualita/articolo/da-torino-a-dakar-inseguendo-il-record-mondiale-del-gatto-viaggiatore-sake.html"
+    date: "2023-05-31"
+    media: "Targato Cuneo"
+
+  - title: "Bestia... che giovedì: gatti in vacanza"
+    url: "https://fb.watch/egbXNtOwyV/"
+    date: "2022-07-14"
+    media: "YouPetTV"
+
+  - title: "Podcast: Vandipety, cambio vita voglio sorridere"
+    url: "https://radiobau.it/2022/06/22/podcast-vandipet-cambio-vita-voglio-sorridere/"
+    date: "2022-06-22"
+    media: "Radio Bau & Co."
+
+  - title: "Programma radiofonico Animal House"
+    url: "https://www.deejay.it/programmi/animal-house/puntate/animal-house-del-19-06-2022/"
+    date: "2022-06-19"
+    media: "Radio Deejay – Animal House"
+    note: "dal minuto 10:30"
+
+  - title: "Sara e Paolo: in giro per il mondo con un'insolita compagnia!"
+    url: "https://wamiz.it/news/40650/sara-e-paolo-in-giro-per-il-mondo-con-un-insolita-compagnia-video"
+    date: "2022-06-10"
+    media: "Wamiz"
+
+  - title: "Sakè, il gatto camperista"
+    url: "https://www.lastampa.it/la-zampa/gatti/2022/06/07/news/sake_il_gatto_camperista-5371792/"
+    date: "2022-06-07"
+    media: "La Stampa – La Zampa"
+
+  - title: "In viaggio con un cane e un gatto"
+    url: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1655846497/press/Intervista_Sara_e_Paolo_jmvvuf.png"
+    date: "2022-06-02"
+    media: "Corriere di Saluzzo"
+
+  - title: "Sara, Paolo, il cane Olimpia e il gatto Sakè: il via all'anno in camper in giro per l'Europa"
+    url: "https://www.targatocn.it/2022/05/18/sommario/saluzzese/leggi-notizia/argomenti/saluzzese/articolo/sara-paolo-il-cane-olimpia-e-il-gatto-sake-il-via-allanno-in-camper-in-giro-per-leuropa.html"
+    date: "2022-05-22"
+    media: "Targato Cuneo"
+
+  - title: "Intervento durante l'incontro «7 vite 7 gatti» a Milano"
+    url: "https://www.instagram.com/p/CajZ6IqMe7d/"
+    date: "2022-03-05"
+    media: "Milano – 7 vite 7 gatti"
+
+  - title: "Programma radiofonico di Chicco Giuliani"
+    url: "https://www.deejay.it/programmi/chicco-giuliani/puntate/chicco-giuliani-del-28-08-2021/"
+    date: "2021-08-28"
+    media: "Radio Deejay – Chicco Giuliani"
+    note: "dal minuto 55:10"

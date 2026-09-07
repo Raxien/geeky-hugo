@@ -22,7 +22,7 @@ L’Ariege è un luogo che accontenta tutti: chi ama la natura e gli sport all�
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/v1690117448/Articoli/ariege/ariege_foix_ocxtrt.jpg">}}
 
 ## Tappe imperdibili
-Di seguito ti proponiamo le tappe che più ci hanno entusiasmati nell'Ariege e per seguire il nostro itinerario di 9 giorni ti rimandiamo alla sezione apposita (che trovi cliccando [qui](#in-breve)). Allaccia le cinture perché in Ariege è tutto **un sali e scendi** non da poco e prepara la macchina fotografica per immortalare scorci davvero entusiasmanti!
+Di seguito ti proponiamo le tappe che più ci hanno entusiasmati nell'Ariege e per seguire il nostro itinerario di 9 giorni ti rimandiamo alla sezione apposita (che trovi cliccando [nella sezione itinerario in breve](#in-breve)). Allaccia le cinture perché in Ariege è tutto **un sali e scendi** non da poco e prepara la macchina fotografica per immortalare scorci davvero entusiasmanti!
 
 ### Ax les thermes
 Piacevole paese di montagna, è una meta nota per le acque termali e le piste da sci. A 2 km si trova il piccolo borgo di ***Savignac les Ormeaux***, dove si può percorrere una bellissima passeggiata in natura seguendo il perimetro del lago e la riva del fiume. 

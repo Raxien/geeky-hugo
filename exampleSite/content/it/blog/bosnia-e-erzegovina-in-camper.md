@@ -47,7 +47,7 @@ Visitare Sarajevo senza che la mente torni ai giorni della guerra è pressoché 
 Nonostante ciò **Sarajevo è una città piccola ma piena di vita**. 
 Qui, come nel resto del paese, si mescolano 4 religioni diverse e culture diverse, per cui ci si ritrova a passeggiare fra chiese, cattedrali ortodosse, moschee e sinagoghe.
 
-Noi abbiamo dedicato due mezze giornate alla città, se vuoi saperne di più puoi leggere l'articolo che abbiamo scritto in merito [qui](/blog/tour-di-sarajevo-in-un-giorno). 
+Noi abbiamo dedicato due mezze giornate alla città, se vuoi saperne di più leggi [il nostro tour di Sarajevo in un giorno](/blog/tour-di-sarajevo-in-un-giorno). 
 
 {{< youtube2 j2TVNQ-89Sc>}}
 
