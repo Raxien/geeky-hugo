@@ -1,6 +1,6 @@
 ---
 title: 'Dall''Italia al Giappone in Van'
-seo_title: "Dall'Italia al Giappone in camper: itinerario, tappe e durata del viaggio"
+seo_title: "Dall'Italia al Giappone in camper: itinerario, tappe e durata"
 description: Stiamo andando dall'Italia al Giappone via terra in van con i nostri animali!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1744347985/Articoli/Blog/direzione-giappone_yjdx2a.png
 date: 2024-03-19T00:00:00+01:00
@@ -53,7 +53,7 @@ Ci siamo guardati negli occhi e ci siamo detti: **"andiamo in Giappone in van, q
 Seppur non ci fossero più grossi ostacoli davanti a noi, rimaneva un piccolo problema da aggirare: era settembre e a breve sarebbe arrivato l'inverno in Russia, il che non ci avrebbe di certo **permesso di attraversare le strade del paese fino all'estate.**
 
 Era il caso di rinviare ancora una volta il nostro progetto? Certo che no! 
-A quel punto, cartina alla mano, abbiamo solo deciso di affrontare il percorso di fronte a noi con molta calma e di dividere questo enorme viaggio in due tour: il primo attraverso i paesi Balcani per dire lentamente lentamente arrivederci all'Europa (che puoi vedere {{<extLink "qui" "">}}), il secondo varcando la soglia di un nuovo continente **direzione Giappone**. 
+A quel punto, cartina alla mano, abbiamo solo deciso di affrontare il percorso di fronte a noi con molta calma e di dividere questo enorme viaggio in due tour: il primo attraverso i paesi Balcani per dire lentamente lentamente arrivederci all'Europa (che raccogliamo nella [sezione Balcani in camper](/categories/balcani-in-camper/)), il secondo varcando la soglia di un nuovo continente **direzione Giappone**. 
 
 Potevamo puntare dritto e accorciare le distanze? Certo che no! Eccovi quindi un ulteriore, bizzarro, itinerario in stile Vandipety.
 

@@ -102,6 +102,22 @@ Ne esistono due:
 
 A noi è stata fornita dalla Camellia Line (e abbiamo dovuto pagare in yen in contanti al nostro arrivo), ma se la tua compagnia non dovesse fornirtela alcuni viaggiatori hanno provveduto in autonomia {{<extLink "tramite questo Broker" "https://apexmoto.jp/products/">}} pagando via PayPal.
 
+## Domande frequenti
+
+{{< faq >}}
+### Serve il Carnet de Passages (CPD) per entrare in Giappone con un veicolo?
+No. Il Giappone accetta il **Permesso di Importazione Temporanea (TIP, modulo C5014)**, gratuito, se si arriva da un Paese che non richiede il CPD (per esempio la Corea del Sud).
+
+### Quanto costa il Carnet de Passages?
+In Italia si ottiene tramite ACI e il deposito cauzionale dipende da valore ed età del mezzo: per il nostro camper (valore commerciale circa 65.000 €, acquistato 4 anni prima) è stato richiesto un deposito di **5.000 €**. In Giappone l'autenticazione del CPD presso la JAF costa 3.000 yen e può richiedere dalle 2 alle 8 ore.
+
+### Quanto può restare il veicolo in Giappone con il TIP?
+Fino a un massimo di **un anno**. Oltre quel periodo si pagano le tasse di importazione.
+
+### L'assicurazione è obbligatoria per guidare in Giappone?
+Sì, è obbligatoria a prescindere dal documento con cui si importa il mezzo.
+{{< /faq >}}
+
 ## Conclusioni
 
 Se segui la procedura corretta, il TIP ti permette di evitare il CPD e risparmiare denaro. Se invece usi il CPD, assicurati di completare correttamente tutte le formalità per evitare problemi in fase di ingresso e uscita del tuo veicolo dal Giappone.

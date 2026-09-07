@@ -1,6 +1,6 @@
 ---
 title: 'Litigi in Camper: una lezione di coppia'
-seo_title: "Litigare in camper: come gestire i conflitti di coppia in pochi metri quadri"
+seo_title: "Litigi in camper: come gestire i conflitti di coppia"
 description: Vivere in 9 mq insieme non è facile. Scopri come Paolo e io gestiamo i conflitti in camper, quali strategie funzionano davvero e cosa abbiamo imparato sulla nostra relazione durante questo viaggio.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1761640867/articoli/viaggi/nuove copertine  (1)-zqw17ljn.png
 date: 2025-10-27T10:00:00+01:00

@@ -1,0 +1,44 @@
+{{- /*
+  Blocco "Articoli correlati" IN-CONTENUTO (non solo sidebar): 3 link ad altri
+  articoli, con il titolo del post come anchor text descrittivo. Serve a dare
+  link interni contestuali e crawlabili nel corpo di ogni articolo, cosa che
+  finora mancava (c'erano solo TOC, categorie, autore e la sidebar desktop).
+  Selezione deterministica: stesso paese -> stessa prima categoria -> più
+  recenti, senza duplicati, escluso l'articolo corrente.
+*/ -}}
+{{- $cur := . -}}
+{{- $pool := where site.RegularPages "Section" "blog" -}}
+{{- $rel := slice -}}
+{{- $seen := slice $cur.Permalink -}}
+
+{{- with $cur.Params.country -}}
+  {{- range (where $pool "Params.country" "eq" .) -}}
+    {{- if not (in $seen .Permalink) -}}{{ $rel = $rel | append . }}{{ $seen = $seen | append .Permalink }}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- with $cur.Params.categories -}}
+  {{- range (where $pool "Params.categories" "intersect" (slice (index . 0))) -}}
+    {{- if not (in $seen .Permalink) -}}{{ $rel = $rel | append . }}{{ $seen = $seen | append .Permalink }}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if lt (len $rel) 3 -}}
+  {{- range $pool.ByDate.Reverse -}}
+    {{- if not (in $seen .Permalink) -}}{{ $rel = $rel | append . }}{{ $seen = $seen | append .Permalink }}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $rel = first 3 $rel -}}
+
+{{- if ge (len $rel) 2 -}}
+<aside class="related-inline my-4 p-3 p-md-4 border rounded" style="background:#f8f9fa">
+  <style>
+    .related-inline a { color: #15817f; text-decoration: none; }
+    .related-inline a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  </style>
+  <p class="fw-bold mb-2">{{ i18n "related_posts_heading" }}</p>
+  <ul class="mb-0">
+  {{- range $rel }}
+    <li class="mb-1"><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>
+  {{- end }}
+  </ul>
+</aside>
+{{- end -}}

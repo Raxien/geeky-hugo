@@ -4,6 +4,15 @@ disqusShortname = "vandipety-it"
 summaryLength = "20"
 theme = "geeky-hugo"
 title = "Vandipety"
+
+# dateModified (schema BlogPosting) e <lastmod> sitemap ricavati dall'ultimo
+# commit git del file: così riflettono l'aggiornamento reale senza dover
+# aggiornare a mano un campo. Un "lastmod:" esplicito nel front matter vince
+# comunque (vedi [frontmatter] sotto). Netlify: se il clone è shallow e la
+# storia manca, .Lastmod ricade su .Date -> nessuna regressione.
+enableGitInfo = true
+[frontmatter]
+  lastmod = ["lastmod", ":git", "date", ":fileModTime"]
 [pagination]
   pagerSize = 20
 [caches.assets]

@@ -12,7 +12,10 @@ disqusShortname = "vandipety-it"
 favicon = "images/favicon.png"
 featured_post_title = "In primo piano"
 footer_content = "Se sentite ridere in lontananza potremmo essere noi."
-image = "images/logo.svg"
+# Immagine social di default (og:image / twitter:image) per la home e le pagine
+# senza "image:" propria. NON deve essere un SVG: Facebook/LinkedIn/WhatsApp non
+# lo renderizzano -> anteprima senza immagine. JPG 1200x630 via Cloudinary.
+image = "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_jpg,q_auto,c_fill,g_auto,w_1200,h_630/v1760176533/Articoli/viaggi/chisiamo_hs92m7.jpg"
 logo = "images/logo.svg"
 logo_text = "Vandipety"
 logo_width = "200px"

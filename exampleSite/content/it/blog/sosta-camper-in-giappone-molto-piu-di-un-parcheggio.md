@@ -1,6 +1,6 @@
 ---
 title: 'Sosta camper in Giappone: molto più di un parcheggio'
-seo_title: "Sosta libera in camper in Giappone: cosa sono le Michi no Eki (regole e consigli)"
+seo_title: "Sosta libera in camper in Giappone: guida alle Michi no Eki"
 description: 'Scopri le Michi no Eki, aree di sosta gratuite per camper in Giappone. Servizi 24h, prodotti locali e un tuffo nel Giappone autentico. Viaggia on the road!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1747552421/Articoli/Giappone/giappone-in-camper_y2rtpd.jpg
 date: 2025-05-15T07:00:00+01:00
@@ -38,6 +38,22 @@ Spesso c’è anche il **Wi-Fi gratuito**, una mappa della zona con **attrazioni
 E se ti stai chiedendo come trovarle, è semplicissimo: **basta cercare “Michi no Eki” su Google Maps**. Ne troverai ovunque, persino in luoghi remoti, e spesso in punti panoramici o strategici per visitare cittadine poco battute.
 
 {{< leggi-anche url="/blog/guidare-in-giappone-tutto-quello-che-ce-da-sapere/" >}}
+
+## Domande frequenti
+
+{{< faq >}}
+### Cosa sono le Michi no Eki?
+Letteralmente "stazioni su strada": **aree di sosta gratuite** diffuse in tutto il Giappone, con servizi igienici puliti accessibili 24h, distributori di bevande, sala ristoro, spesso Wi-Fi gratuito e negozietti di prodotti locali.
+
+### Si può campeggiare nelle Michi no Eki?
+No. Si può **sostare** (una o due notti), ma non campeggiare: niente tavolini all'aperto, tendalini o barbecue.
+
+### Come si trovano le Michi no Eki?
+Basta cercare "Michi no Eki" su Google Maps: ce ne sono ovunque, anche in luoghi remoti, spesso in punti panoramici o vicino a cittadine poco battute.
+
+### Quante notti ci si può fermare?
+La sosta è pensata per una o due notti, non di più.
+{{< /faq >}}
 
 ## Un modo diverso di scoprire il Giappone
 

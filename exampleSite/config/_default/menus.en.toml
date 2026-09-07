@@ -42,6 +42,11 @@ url = "about/"
 weight = 1
 
 [[footer]]
+name = "Destinations"
+url = "destinazioni/"
+weight = 1
+
+[[footer]]
 name = "Contact"
 url = "contact/"
 weight = 2

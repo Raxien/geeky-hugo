@@ -70,6 +70,25 @@ In Giappone non è vietato dormire nel proprio veicolo, ma è importante farlo n
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1747543770/Articoli/Giappone/parcheggi-in-giappone_zlj5eo.jpg">}}  
 
+## Domande frequenti
+
+{{< faq >}}
+### Serve la patente internazionale per guidare in Giappone?
+Sì: il modello IDP conforme alla **Convenzione di Ginevra 1949**, che in Italia si ottiene tramite la Motorizzazione. Quello secondo la Convenzione di Vienna 1968, usato in molti Paesi europei, **non è valido** in Giappone.
+
+### Da che lato si guida in Giappone?
+A sinistra, con il volante a destra come nel Regno Unito. Dopo un paio d'ore al volante ci si abitua; all'inizio è facile azionare i tergicristalli al posto della freccia. Nota positiva: non ci sono rotonde.
+
+### Qual è il limite di alcol alla guida?
+Zero: **0%**. Le sanzioni sono severissime — multe molto alte, fino a 3 anni di carcere per chi guida, e sanzioni anche per i passeggeri che favoriscono la guida in stato d'ebbrezza. Se bevi, non guidare.
+
+### I distributori di benzina sono sempre aperti?
+In città e lungo le autostrade di solito sì, 24 ore su 24. Nelle zone rurali e nei piccoli villaggi molti chiudono la domenica (a volte anche il sabato): meglio non arrivare mai con il serbatoio vuoto.
+
+### Si può dormire in camper in Giappone?
+Sì, nelle aree apposite come le **Michi no Eki** (aree di sosta, non campeggi): trovi tutto nella nostra guida alla [sosta in camper in Giappone](/blog/sosta-camper-in-giappone-molto-piu-di-un-parcheggio).
+{{< /faq >}}
+
 ## In sintesi: sì, vale la pena guidare
 Se ti piacciono la libertà, l'esplorazione e la possibilità di uscire dai circuiti turistici classici, **guidare in Giappone è un'esperienza che arricchisce il viaggio.** Basta un po' di preparazione, attenzione e rispetto delle regole. 
 
