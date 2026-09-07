@@ -19,14 +19,13 @@ Quando si pensa al Canada, difficilmente la prima immagine che viene in mente è
 
 ## Osoyoos: il paesaggio semi-arido del Canada
 
-Osoyoos viene spesso associata all'idea di "deserto del Canada". In realtà, dal punto di vista geografico, è più corretto parlare di un **ambiente semi-arido**: non aspettatevi dune di sabbia come nel Sahara o nel Gobi. La particolarità della zona è il clima molto più secco rispetto alla costa della British Columbia, favorito dalla posizione della valle e dalla protezione delle montagne. Le precipitazioni sono ridotte, le estati possono essere molto calde e il paesaggio è caratterizzato da vegetazione più bassa, terreni aridi e colline dai colori dorati. Il contrasto con le foreste che avevamo incontrato nei giorni precedenti è stato enorme. E proprio questo rende l'Okanagan così interessante da attraversare.
+Osoyoos viene spesso associata all'idea di "deserto del Canada". In realtà, dal punto di vista geografico, è più corretto parlare di un **ambiente semi-arido**: non aspettatevi dune di sabbia come nel Sahara o nel Gobi. La particolarità della zona è il clima [molto più secco rispetto alla costa della British Columbia](https://vandipety.it/blog/vancouver-in-camper-cosa-vedere/), favorito dalla posizione della valle e dalla protezione delle montagne. Le precipitazioni sono ridotte, le estati possono essere molto calde e il paesaggio è caratterizzato da vegetazione più bassa, terreni aridi e colline dai colori dorati. Il contrasto con le foreste che avevamo incontrato nei giorni precedenti è stato enorme. E proprio questo rende l'Okanagan così interessante da attraversare.
 
 ## Da Vancouver a Osoyoos: quando la strada diventa parte del viaggio
 
 Arrivare a Osoyoos da Vancouver significa attraversare una parte della British Columbia in cui il paesaggio cambia continuamente. Per lunghi tratti la strada attraversa spazi enormi, con pochi centri abitati e pochissimo traffico. Ogni tanto compare un ranch isolato, qualche cavallo, una mandria o un piccolo distributore. Poi di nuovo il nulla.
 
 I negozi diventano sempre più rari, i pullman turistici spariscono. **Rimane solo la strada, la vera protagonista.**
-
 
 {{< leggi-anche url="/blog/canada-vancouver-in-camper" >}}
 
