@@ -1,5 +1,6 @@
 ---
 title: 'Vivere in van: non ce la farete mai!'
+seo_title: "Vivere in van a tempo pieno: com'è davvero dopo un anno on the road"
 description: "La storia di quando invece noi abbiamo capito che questa strada era la migliore che avremmo potuto percorrere."
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689874010/Articoli/Viaggio/mappamondo-nave_enr0m1.jpg
 date: 2023-07-22T08:00:00.000

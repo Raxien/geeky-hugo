@@ -1,0 +1,41 @@
+{{- /*
+  Dati strutturati a livello di sito, emessi solo in home:
+   - Organization: nome, url, logo, profili social (sameAs) -> entità del brand
+   - WebSite + SearchAction: abilita la sitelinks searchbox di Google, puntando
+     alla ricerca interna (/search/?s=...), sul dominio della lingua corrente.
+  I due nodi sono collegati via @id in un @graph.
+*/ -}}
+{{- if .IsHome -}}
+{{- $orgID := printf "%s#organization" site.BaseURL -}}
+{{- $sameAs := slice -}}
+{{- range site.Params.social }}{{ with .link }}{{ $sameAs = $sameAs | append . }}{{ end }}{{ end -}}
+{{- $logoURL := "" -}}
+{{- with resources.Get site.Params.logo }}{{ $logoURL = .RelPermalink | absLangURL }}{{ end -}}
+
+{{- $org := dict
+  "@type" "Organization"
+  "@id" $orgID
+  "name" site.Title
+  "url" site.BaseURL
+  "description" site.Params.description
+-}}
+{{- with $logoURL }}{{ $org = merge $org (dict "logo" (dict "@type" "ImageObject" "url" .) "image" .) }}{{ end -}}
+{{- with $sameAs }}{{ $org = merge $org (dict "sameAs" .) }}{{ end -}}
+
+{{- $website := dict
+  "@type" "WebSite"
+  "@id" (printf "%s#website" site.BaseURL)
+  "name" site.Title
+  "url" site.BaseURL
+  "inLanguage" site.Language.Lang
+  "publisher" (dict "@id" $orgID)
+  "potentialAction" (dict
+    "@type" "SearchAction"
+    "target" (dict "@type" "EntryPoint" "urlTemplate" (printf "%ssearch/?s={search_term_string}" (absLangURL "")))
+    "query-input" "required name=search_term_string"
+  )
+-}}
+
+{{- $graph := dict "@context" "https://schema.org" "@graph" (slice $org $website) -}}
+<script type="application/ld+json">{{ $graph | jsonify | safeJS }}</script>
+{{- end -}}

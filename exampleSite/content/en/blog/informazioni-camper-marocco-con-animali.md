@@ -1,5 +1,6 @@
 ---
 title: "Morocco by Campervan with a Dog and Cat: The Documents You'll Need"
+author: Paolo
 slug: morocco-by-campervan-with-pets-documents
 description: What documents do you need to enter Morocco by campervan with a dog and cat? 
 image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1675350430/Articoli/IMG_6364_ekk5cx_veifcj.jpg"

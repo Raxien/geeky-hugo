@@ -1,5 +1,6 @@
 ---
 title: 'Driving in Japan: Everything You Need to Know'
+author: Paolo
 slug: driving-in-japan-what-you-need-to-know
 description: 'Discover how to drive in Japan: international driving permit, car rental, narrow roads, tolls and tips for campervans. Explore Kyushu and Shikoku with freedom!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713007643/Articoli/Giappone/guidare-in-giappone_ime6kr.jpg

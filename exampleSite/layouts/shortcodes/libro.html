@@ -1,0 +1,8 @@
+{{- /*
+  Box CTA riusabile verso i nostri libri. Rende partials/book-cta.html.
+  Uso:
+    {{< libro >}}                          -> libro di default (data/libri.yaml: default)
+    {{< libro "verso-lisola-che-ce" >}}    -> libro specifico per chiave
+    {{< libro testo="Stai organizzando un viaggio simile?" >}}  -> intro personalizzata
+*/ -}}
+{{ partial "book-cta.html" (dict "key" (.Get 0) "intro" (.Get "testo")) }}

@@ -1,5 +1,6 @@
 ---
 title: 'Complete Guide to Entering South Korea from Russia with Your Dog or Cat'
+author: Paolo
 slug: south-korea-from-russia-with-pets-guide
 description: 'Guide to travelling to South Korea from Russia with a dog or cat: documents, vaccinations and procedures to avoid quarantine.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1752882382/Articoli/Blog/come-entrare-in-corea-con-un-animale-gatto-cane_ocl1du.png

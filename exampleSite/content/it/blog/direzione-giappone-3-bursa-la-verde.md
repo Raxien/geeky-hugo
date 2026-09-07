@@ -1,5 +1,6 @@
 ---
 title: 'Bursa la verde e altre stranezze'
+seo_title: "Cosa vedere a Bursa in un giorno, la città verde della Turchia"
 description: Scopriamo Bursa la verde e i suoi dintorni pieni di cose da scoprire come il ponte vecchio di Firenze, la cupola della Roccia e un'isola paticolare
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione3/balinkesir_van_fy5xyc.jpg
 date: 2024-04-02T07:00:00+01:00

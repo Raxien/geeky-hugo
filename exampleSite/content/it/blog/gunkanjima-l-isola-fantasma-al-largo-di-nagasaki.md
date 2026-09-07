@@ -1,5 +1,6 @@
 ---
 title: 'Gunkanjima: l''isola fantasma al largo di Nagasaki'
+seo_title: "Gunkanjima (Hashima): come visitare l'isola fantasma di Nagasaki"
 description: 'Esplora Gunkanjima, l’isola fantasma di Nagasaki: un’ex miniera di carbone abbandonata, ora Patrimonio UNESCO. Scopri la sua storia, da città sovraffollata a relitto post-apocalittico.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1753423139/Articoli/Giappone/gunkanjima-l-isola-fantasma-nagasaki_uvhygz.png
 date: 2025-06-03T07:00:00+01:00

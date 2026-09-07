@@ -1,5 +1,6 @@
 ---
 title: 'Internet and Calls in Morocco: Which Carrier to Choose'
+author: Paolo
 slug: morocco-internet-sim-guide
 description: If you're planning to visit Morocco, here's which carrier to choose to spend less!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689177365/Articoli/Marocco/marocco-internet_ekw4wn.png

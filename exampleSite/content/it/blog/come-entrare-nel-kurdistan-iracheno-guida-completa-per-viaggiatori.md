@@ -1,5 +1,6 @@
 ---
 title: 'Come entrare nel Kurdistan iracheno: Guida completa per viaggiatori'
+author: Paolo
 description: 'Scopri come entrare nel Kurdistan iracheno: guida su visti, voli, sicurezza e attrazioni per Erbil e Sulaymaniyah.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475//iraq/iraq-kurdistan-iracheno_avgjtc.jpg
 date: 2025-04-20T07:00:00+01:00

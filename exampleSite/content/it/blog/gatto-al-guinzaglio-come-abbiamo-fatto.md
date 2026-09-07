@@ -1,5 +1,6 @@
 ---
 title: 'Gatto al guinzaglio: come abbiamo fatto?' 
+seo_title: "Abituare il gatto al guinzaglio: come fare (la nostra esperienza)"
 description: "Scopri come abbiamo fatto ad abituare il nostro gatto al guinzaglio! Eccoti alcuni consigli e il perché di questa scelta!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1688983876/Articoli/Sicilia/valle-dei-templi-tempio-gatto_bdlwdd.jpg
 date: 2022-07-26T17:00:00.000

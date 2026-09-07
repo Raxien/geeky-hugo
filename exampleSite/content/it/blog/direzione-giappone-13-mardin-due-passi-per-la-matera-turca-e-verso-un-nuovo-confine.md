@@ -1,5 +1,6 @@
 ---
 title: 'Mardin: due passi per la Matera turca e verso un nuovo confine '
+seo_title: "Cosa vedere a Mardin, la 'Matera turca' dell'Anatolia"
 description: Andiamo a scoprire Mardin, la famosa Matera turca per poi andare ad affrontare un nuovo paese.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713011125/Articoli/Direzione%20giappone/Direzione13/mardin-vista-citta_hn46sr.jpg
 date: 2024-05-16T07:00:00+01:00

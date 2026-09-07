@@ -72,7 +72,7 @@ Se non sei sicuro di trovare gli asciugamani a destinazione puoi pensare di port
 ### 9 Intrattenimento: serie TV, film e libri
 La tua serie preferita o un buon libro sono il tuo compagno di viaggio preferito nelle lunghe ore di volo o treno? L'ideale allora può essere avere un **{{<extLink "Ipad" "https://amzn.to/3HYKYGI">}}**  oppure un **{{<extLink "Kindle" "https://amzn.to/3NXfWTe">}}** per leggere tutti i libri che vuoi senza problemi di peso e spazio.  
 
-Se vuoi qualche consiglio puoi trovare qui la lista degli ultimi libri letti [da noi](/books/).
+Se vuoi qualche consiglio puoi dare un'occhiata alla {{<extLink "lista dei libri che abbiamo letto in viaggio" "https://www.amazon.it/shop/vandipety/list/X1E7WF5ONYV3">}}.
 
 <iframe title="amazon link" sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B09V4J39QY&linkId=e87bf36b5b22b5307e85da2c498a4809"></iframe>
 <iframe title="amazon link" sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=vandipety-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B09SWRYPB2&linkId=9d4ecd74046f53a07e72699908475248"></iframe>

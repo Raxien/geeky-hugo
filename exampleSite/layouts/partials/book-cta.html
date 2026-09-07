@@ -1,0 +1,30 @@
+{{- /*
+  Box CTA verso i nostri libri. Context (dict):
+    key     : (opz) chiave in data/libri.yaml — default: la voce "default"
+    intro   : (opz) riga introduttiva — default: i18n "book_promo_intro"
+    compact : (opz) true = layout verticale compatto per la sidebar
+  Usato da shortcodes/libro.html (inserimento manuale nel corpo) e da
+  _default/single.html (sidebar desktop + sotto il contenuto su mobile, per
+  gli articoli sul Giappone). Il link è affiliato -> rel="nofollow sponsored".
+*/ -}}
+{{- $key := .key | default (index hugo.Data.libri "default") -}}
+{{- $book := index hugo.Data.libri $key -}}
+{{- if $book -}}
+{{- $intro := .intro | default (i18n "book_promo_intro") -}}
+{{- $compact := .compact -}}
+{{- $cw := cond $compact 96 120 -}}
+{{- $cover := replace $book.cover "/upload/" (printf "/upload/f_auto,q_auto:eco,w_%d/" (mul $cw 2)) -}}
+<div class="libro-cta {{ if $compact }}mb-4{{ else }}my-4{{ end }} p-3{{ if not $compact }} p-md-4{{ end }} border rounded d-flex gap-3 {{ if $compact }}flex-column text-center align-items-center{{ else }}flex-column flex-sm-row align-items-center{{ end }}">
+  <a href="{{ $book.url }}" target="_blank" rel="nofollow sponsored noopener" class="flex-shrink-0" aria-label="{{ $book.titolo }}">
+    <img src="{{ $cover | safeURL }}" alt="{{ i18n `book_banner_alt` }}: {{ $book.titolo }}"
+         width="{{ $cw }}" height="{{ math.Round (mul (float $cw) 1.46) }}" loading="lazy" decoding="async"
+         style="width:{{ $cw }}px;height:auto;border-radius:4px;box-shadow:0 4px 14px rgba(0,0,0,.18);">
+  </a>
+  <div class="{{ if not $compact }}text-center text-sm-start{{ end }}">
+    <p class="mb-1 small text-muted text-uppercase">{{ $intro }}</p>
+    <p class="h6 mb-1">{{ $book.titolo }}</p>
+    {{- with $book.sottotitolo }}<p class="small text-muted mb-2">{{ . }}</p>{{ end }}
+    <a href="{{ $book.url }}" target="_blank" rel="nofollow sponsored noopener" class="btn btn-primary btn-sm">{{ i18n "book_promo_button" }}</a>
+  </div>
+</div>
+{{- end -}}

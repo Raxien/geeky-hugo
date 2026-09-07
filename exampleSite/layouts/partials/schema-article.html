@@ -1,0 +1,108 @@
+{{- /*
+  Dati strutturati BlogPosting per le pagine articolo (sezione "blog").
+  Prima del 2026 il sito non aveva alcuno schema Article/BlogPosting sui ~250
+  post: solo VideoObject nello shortcode youtube2 e BreadcrumbList/ItemList
+  sugli hub destinazione. Questo partial colma quel buco.
+
+  Incluso da head.html. Si attiva solo su .IsPage nelle sezioni blog-like,
+  quindi non tocca hub destinazione (schema proprio), pagine statiche o liste.
+
+  Il dict viene costruito e poi passato a jsonify (come in
+  layouts/destinazioni/single.html) per evitare problemi di escaping a mano.
+*/ -}}
+{{- if and .IsPage (in (slice "blog" "post" "posts" "news") .Section) -}}
+
+  {{- /* Immagine: Cloudinary (URL http assoluto) usata così com'è; immagine in
+         page bundle o sotto static/ risolta ad URL assoluto; fallback all'og
+         image del sito. Se resta vuota, la chiave "image" viene omessa. */ -}}
+  {{- $img := "" -}}
+  {{- with .Params.image -}}
+    {{- if hasPrefix . "http" -}}
+      {{- $img = . -}}
+    {{- else -}}
+      {{- with $.Resources.GetMatch . -}}
+        {{- $img = .Permalink -}}
+      {{- else -}}
+        {{- if fileExists (printf "static/%s" .) -}}
+          {{- $img = (. | absURL) -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $img -}}
+    {{- with site.Params.image -}}
+      {{- if not (hasSuffix (lower .) ".svg") -}}
+        {{- $img = (. | absURL) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- /* Logo publisher: risorsa in assets/, va pubblicata e linkata come URL
+         assoluto (un semplice "logo | absURL" punterebbe a un file inesistente
+         sotto static/). .RelPermalink | absLangURL tiene l'URL sul dominio
+         della lingua corrente in modalità multihost (.Permalink della risorsa
+         restituirebbe sempre vandipety.it anche nelle pagine EN). */ -}}
+  {{- $logoURL := "" -}}
+  {{- with resources.Get site.Params.logo -}}
+    {{- $logoURL = .RelPermalink | absLangURL -}}
+  {{- end -}}
+
+  {{- $sameAs := slice -}}
+  {{- range site.Params.social -}}
+    {{- with .link -}}{{- $sameAs = $sameAs | append . -}}{{- end -}}
+  {{- end -}}
+
+  {{- $desc := cond (ne (string .Description) "") (string .Description) (.Summary | plainify) -}}
+  {{- $author := .Params.author | default site.Params.author -}}
+  {{- $isoFmt := "2006-01-02T15:04:05Z07:00" -}}
+
+  {{- $publisher := dict
+    "@type" "Organization"
+    "name" site.Title
+    "url" site.BaseURL
+  -}}
+  {{- with $logoURL -}}
+    {{- $publisher = merge $publisher (dict "logo" (dict "@type" "ImageObject" "url" .)) -}}
+  {{- end -}}
+  {{- with $sameAs -}}
+    {{- $publisher = merge $publisher (dict "sameAs" .) -}}
+  {{- end -}}
+
+  {{- $schema := dict
+    "@context" "https://schema.org"
+    "@type" "BlogPosting"
+    "headline" (.Title | plainify | truncate 110 "")
+    "description" $desc
+    "url" .Permalink
+    "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+    "datePublished" (.PublishDate.Format $isoFmt)
+    "dateModified" (.Lastmod.Format $isoFmt)
+    "inLanguage" site.Language.Lang
+    "author" (dict "@type" "Person" "name" $author "url" (absLangURL "about/"))
+    "publisher" $publisher
+  -}}
+  {{- with $img -}}
+    {{- $schema = merge $schema (dict "image" (slice .)) -}}
+  {{- end -}}
+  {{- with .Params.categories -}}
+    {{- $schema = merge $schema (dict "articleSection" (index . 0) "keywords" (delimit . ", ")) -}}
+  {{- end -}}
+
+<script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+
+  {{- /* BreadcrumbList: Home › Categoria › Articolo. Il livello categoria usa
+         lo stesso href di category-link.html (hub dedicato se la categoria
+         appartiene a un solo paese sopra soglia, altrimenti archivio
+         categoria), reso assoluto sul dominio della lingua corrente. */ -}}
+  {{- $crumbs := slice (dict "@type" "ListItem" "position" 1 "name" site.Title "item" site.Home.Permalink) -}}
+  {{- $pos := 2 -}}
+  {{- with .Params.categories -}}
+    {{- $cat := index . 0 -}}
+    {{- $catHref := (partial "category-link.html" $cat) | absLangURL -}}
+    {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" $pos "name" $cat "item" $catHref) -}}
+    {{- $pos = add $pos 1 -}}
+  {{- end -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" $pos "name" (.Title | plainify) "item" .Permalink) -}}
+  {{- $breadcrumb := dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $crumbs -}}
+<script type="application/ld+json">{{ $breadcrumb | jsonify | safeJS }}</script>
+{{- end -}}

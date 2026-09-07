@@ -1,5 +1,6 @@
 ---
 title: 'Creabest: le nostre nuove batterie al litio'
+author: Paolo
 description: "Oggi vi raccontiamo perché abbiamo installato una nuova batteria al litio a bordo del nostro van"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689874010/Articoli/Blog/creabest-batteria-litio_d5gxaf.jpg
 date: 2023-09-26T08:00:00.000

@@ -1,5 +1,6 @@
 ---
 title: 'Volare con cane e gatto in stiva: la nostra esperienza (e tutto quello che avremmo voluto sapere prima)'
+seo_title: "Volare con cane e gatto in stiva: requisiti, costi e consigli pratici"
 description: 'Abbiamo volato 9 ore in stiva con un cane e un gatto da Osaka a Vancouver. Ecco cosa succede davvero, come prepararsi, i documenti necessari e perché non è così pericoloso come si legge online.'
 image: 'https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1780508587/articoli/viaggi/volare-cane-gatto-lheuzrjw.png'
 date: 2026-05-28T08:00:00+02:00

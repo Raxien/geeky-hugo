@@ -1,5 +1,6 @@
 ---
 title: "Viaggio in Senegal in camper: Guida a dogana e informazioni Utili"
+author: Paolo
 description: "Tutto quello che devi sapere se vuoi entrare in Senegal in moto, auto o camper!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1681839060/Articoli/Copertine/Senegal_in_Van_nbfqyv.jpg
 date: 2023-03-26T17:00:00.000

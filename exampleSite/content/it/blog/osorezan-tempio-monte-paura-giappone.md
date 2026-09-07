@@ -1,5 +1,6 @@
 ---
 title: 'Osorezan: il tempio tra il mondo dei vivi e quello degli spiriti'
+seo_title: "Monte Osorezan: come visitare il luogo più mistico del Giappone"
 description: 'Guida completa al Monte Osorezan (Montagna della Paura) in Aomori: spiritualità, leggende e onsen infernali.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1761101530/articoli/giappone/osorezan-tempio-monte-paura.jpg
 date: 2025-10-22T09:00:00+02:00

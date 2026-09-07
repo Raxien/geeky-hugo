@@ -1,5 +1,6 @@
 ---
 title: 'Dall''Italia al Giappone in Van'
+seo_title: "Dall'Italia al Giappone in camper: itinerario, tappe e durata del viaggio"
 description: Stiamo andando dall'Italia al Giappone via terra in van con i nostri animali!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1744347985/Articoli/Blog/direzione-giappone_yjdx2a.png
 date: 2024-03-19T00:00:00+01:00

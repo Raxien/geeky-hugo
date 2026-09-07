@@ -1,5 +1,6 @@
 ---
 title: 'Guidare in Giappone tutto quello che c''è da sapere'
+author: Paolo
 description: 'Scopri come guidare in Giappone: patente internazionale, noleggio auto, strade strette, pedaggi e consigli per camper. Esplora Kyushu e Shikoku con libertà!'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1713007643/Articoli/Giappone/guidare-in-giappone_ime6kr.jpg
 date: 2025-05-15T07:00:00+01:00

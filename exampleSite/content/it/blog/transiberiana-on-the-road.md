@@ -1,5 +1,6 @@
 ---
 title: 'La guida definitiva alla leggendaria Transiberiana! [2025]'
+seo_title: "Transiberiana on the road: guida completa 2025 (itinerario, costi, consigli)"
 description: Scopri la guida definitiva alla leggendaria Transiberiana!
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1744353858/Articoli/Blog/transiberiana-on-the-road-guida_kaoxl5.jpg
 date: 2025-04-10T00:00:00+01:00

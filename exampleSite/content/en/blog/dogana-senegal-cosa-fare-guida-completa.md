@@ -1,5 +1,6 @@
 ---
 title: "Travelling to Senegal by Campervan: Customs Guide and Useful Information"
+author: Paolo
 slug: senegal-customs-guide-by-campervan
 description: "Everything you need to know if you want to enter Senegal by motorbike, car or campervan!"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1681839060/Articoli/Copertine/Senegal_in_Van_nbfqyv.jpg

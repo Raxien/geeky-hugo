@@ -388,26 +388,44 @@ function initIndependentCode() {
 }
 
 //=================== Cache Management ===================
-const CACHE_EXPIRATION = 24 * 60 * 60 * 1000; // 24 ore in millisecondi
+const CACHE_EXPIRATION = 24 * 60 * 60 * 1000; // 24 ore: oltre questa soglia i dati sono "stale"
 
+// Stale-while-revalidate: i dati scaduti NON vengono più buttati. getCachedData li
+// restituisce comunque, così la pagina non resta mai vuota quando l'API è lenta o giù
+// (il server spese è su Render free tier e al risveglio impiega 30-60s). Chi legge la
+// cache usa isCacheStale() per decidere se rivalidare in background.
 function getCachedData(key) {
     const cached = localStorage.getItem(key);
     if (!cached) return null;
-    
-    const { data, timestamp } = JSON.parse(cached);
-    if (Date.now() - timestamp > CACHE_EXPIRATION) {
+
+    try {
+        const { data } = JSON.parse(cached);
+        return data ?? null;
+    } catch (e) {
         localStorage.removeItem(key);
         return null;
     }
-    return data;
+}
+
+function isCacheStale(key) {
+    const cached = localStorage.getItem(key);
+    if (!cached) return true;
+
+    try {
+        const { timestamp } = JSON.parse(cached);
+        return !timestamp || (Date.now() - timestamp > CACHE_EXPIRATION);
+    } catch (e) {
+        return true;
+    }
 }
 
 function setCachedData(key, data) {
-    const cacheData = {
-        data,
-        timestamp: Date.now()
-    };
-    localStorage.setItem(key, JSON.stringify(cacheData));
+    try {
+        localStorage.setItem(key, JSON.stringify({ data, timestamp: Date.now() }));
+    } catch (e) {
+        // quota piena o storage disabilitato: si riproverà il fetch alla prossima visita
+        console.warn(`Impossibile salvare la cache per ${key}:`, e);
+    }
 }
 
 // Funzione per precaricare tutti i dati necessari
@@ -422,16 +440,18 @@ async function preloadAllData() {
         { key: 'press', url: `${rpcUrl}/data/press` }
     ];
 
-    // Carica i dati solo se non sono già in cache
+    // Carica i dati se mancano dalla cache o se sono scaduti (stale): navigando una
+    // qualsiasi pagina del sito la cache resta calda, così arrivando su /expenses i
+    // numeri ci sono già senza aspettare il risveglio dell'API.
     for (const endpoint of endpoints) {
-        if (!getCachedData(endpoint.key)) {
-            try {
-                const response = await fetch(endpoint.url);
-                const data = await response.json();
-                setCachedData(endpoint.key, data);
-            } catch (error) {
-                console.error(`Errore nel precaricamento dei dati per ${endpoint.key}:`, error);
-            }
+        if (getCachedData(endpoint.key) && !isCacheStale(endpoint.key)) continue;
+        try {
+            const response = await fetch(endpoint.url);
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            const data = await response.json();
+            setCachedData(endpoint.key, data);
+        } catch (error) {
+            console.error(`Errore nel precaricamento dei dati per ${endpoint.key}:`, error);
         }
     }
 }
@@ -598,17 +618,21 @@ async function fecthExpenseData() {
     const cached = getCachedData('expenses');
     if (cached) {
         processExpenseData(cached.json);
-        return cached;
+        // Cache fresca: niente rete. Stale: si mostra subito il vecchio valore e si
+        // rivalida qui sotto, aggiornando i numeri quando arriva la risposta.
+        if (!isCacheStale('expenses')) return cached;
     }
-    
+
     try {
         const response = await fetch(`${rpcUrl}/spese-api/getRiepilogo`);
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const data = await response.json();
         setCachedData('expenses', data);
         processExpenseData(data.json);
         return data;
     } catch (error) {
         console.error('Error fetching SW data:', error);
+        return cached || undefined;
     }
 }
 
@@ -616,17 +640,19 @@ async function fecthChartCategoryData() {
     const cached = getCachedData('category');
     if (cached) {
         setChartCategory(cached);
-        return cached;
+        if (!isCacheStale('category')) return cached;
     }
-    
+
     try {
         const response = await fetch(`${rpcUrl}/spese-api/getPerCategoria`);
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const data = await response.json();
         setCachedData('category', data);
         setChartCategory(data);
         return data;
     } catch (error) {
         console.error('Error fetching SW data:', error);
+        return cached || undefined;
     }
 }
 
@@ -634,17 +660,19 @@ async function fecthChartMonthlyData() {
     const cached = getCachedData('monthly');
     if (cached) {
         setChartMonthly(cached);
-        return cached;
+        if (!isCacheStale('monthly')) return cached;
     }
-    
+
     try {
         const response = await fetch(`${rpcUrl}/spese-api/getPerMese`);
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const data = await response.json();
         setCachedData('monthly', data);
         setChartMonthly(data);
         return data;
     } catch (error) {
         console.error('Error fetching SW data:', error);
+        return cached || undefined;
     }
 }
 
@@ -654,7 +682,7 @@ async function fecthFerriesData() {
     const cached = getCachedData('ferries');
     if (cached) {
         renderFerriesList(cached.json);
-        return cached;
+        if (!isCacheStale('ferries')) return cached;
     }
 
     try {
@@ -666,6 +694,7 @@ async function fecthFerriesData() {
         return data;
     } catch (error) {
         console.error('Error fetching ferries data:', error);
+        return cached || undefined;
     }
 }
 
@@ -735,17 +764,19 @@ async function getTripData() {
     const cached = getCachedData('trip');
     if (cached) {
         setTripData(cached);
-        return cached;
+        if (!isCacheStale('trip')) return cached;
     }
-    
+
     try {
         const response = await fetch(`${rpcUrl}/data/trip`);
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const data = await response.json();
         setCachedData('trip', data);
         setTripData(data);
         return data;
     } catch (error) {
         console.error('Error fetching trip data:', error);
+        return cached || undefined;
     }
 }
 
@@ -757,6 +788,17 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Implementa lazy loading intelligente per i dati API
     implementLazyDataLoading();
+
+    // Scalda la cache dei dati API su OGNI pagina (non solo dopo un'interazione utente):
+    // quando poi si arriva su /expenses i numeri sono già in localStorage e non si vede
+    // la pagina vuota mentre l'API di Render si risveglia. Rimandato a idle per non
+    // rubare banda al caricamento iniziale della pagina.
+    const warmDataCache = () => { preloadAllData(); };
+    if ('requestIdleCallback' in window) {
+        requestIdleCallback(warmDataCache, { timeout: 4000 });
+    } else {
+        setTimeout(warmDataCache, 2000);
+    }
 
     // Inizializza il codice dipendente da Bootstrap
     if (typeof bootstrap !== 'undefined') {
@@ -1595,6 +1637,33 @@ function processExpenseData(data) {
     updateFerryProjection();
 }
 
+// Sentinella: true appena il box "in breve" è stato riempito con dati veri (da cache
+// o da rete). Serve a initExpensesPage() per capire se, a caricamento finito, mostrare
+// il fallback "—" al posto del placeholder "…".
+let expensesSummaryRendered = false;
+
+const EXPENSES_LOADING_IDS = ['travelingDay', 'travelingSumCost', 'dailyCost'];
+
+// Placeholder mentre l'API si risveglia: meglio un "…" grigio che tre righe vuote.
+function showExpensesPlaceholder() {
+    EXPENSES_LOADING_IDS.forEach(id => {
+        const el = document.getElementById(id);
+        if (el && !el.innerText.trim()) {
+            el.innerText = '…';
+            el.classList.add('text-muted');
+        }
+    });
+}
+
+// Caricamento finito ma nessun dato (API giù e cache assente): "—" invece di "…" muto.
+function showExpensesError() {
+    if (expensesSummaryRendered) return;
+    EXPENSES_LOADING_IDS.forEach(id => {
+        const el = document.getElementById(id);
+        if (el && (!el.innerText.trim() || el.innerText === '…')) el.innerText = '—';
+    });
+}
+
 function updateUIElements({ totalCost, yearlyTotals, dailyCost, diffDays }) {
     // Aggiorna solo se siamo nella pagina delle spese
     if (document.getElementById('travelingSumCost')) {
@@ -1616,6 +1685,9 @@ function updateUIElements({ totalCost, yearlyTotals, dailyCost, diffDays }) {
         });
 
         document.getElementById('travelingDay').innerText = diffDays;
+
+        EXPENSES_LOADING_IDS.forEach(id => document.getElementById(id)?.classList.remove('text-muted'));
+        expensesSummaryRendered = true;
     }
 }
 
@@ -1678,10 +1750,14 @@ function setChartMonthly(data) {
 function initExpensesPage() {
     if (!document.getElementById('catergory')) return;
 
+    // Se non c'è nulla in cache mostriamo un placeholder "…" invece del box vuoto
+    // mentre l'API di Render si risveglia (fino a 30-60s a freddo).
+    if (!getCachedData('expenses')) showExpensesPlaceholder();
+
     // Box "in breve" + traghetti: visibili da subito (sono sopra i grafici),
     // quindi si caricano appena la pagina è pronta invece di aspettare che
     // l'utente scrolli fino ai grafici lazy più giù.
-    loadAPIGroup(['expenses', 'ferries']);
+    Promise.resolve(loadAPIGroup(['expenses', 'ferries'])).finally(showExpensesError);
 }
 
 // Inizializza la pagina delle spese se siamo nella pagina corretta

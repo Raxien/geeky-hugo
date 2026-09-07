@@ -12,6 +12,9 @@
 # loop infinito -> ERR_TOO_MANY_REDIRECTS (visto in produzione, confermato con curl -L:
 # 20 redirect e ancora nessun 200). Il fix giusto sta nell'HTML, non qui.
 
+# Pagina "Libri" (lista letture) rimossa: feature non più mantenuta. Manda a home.
+/books   /   301
+
 # SEO URL redirects (from commit 3d58fc5 - Sistemati url e fix articoli)
 /blog/l-ariege-in-camper-tour-di-9-giorni-in-una-regione-francese-meravigliosa /blog/ariege-camper-tour-9-giorni-regione-francese 301
 /blog/brolo-un-gatto-a -passo-nel-paese-dei-gatti /blog/brolo-nel-paese-dei-gatti 301

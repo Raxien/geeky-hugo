@@ -30,17 +30,27 @@
 {{ if hasPrefix $imagePath "http" }}
 
 <!-- cdn image -->
+{{/* width/height per ridurre il CLS: le immagini remote non hanno dimensioni note
+     lato server. Se non passate come parametri: width dedotta da "w_NNN" nell'URL
+     Cloudinary (default 800), height stimata con rapporto ~3:2 (foto di viaggio
+     orizzontali). style="height:auto" lascia comunque adattare il rapporto reale
+     a caricamento avvenuto. Passare w="..." h="..." nello shortcode per valori esatti. */}}
+{{ $w := .Get "w" }}
+{{ $h := .Get "h" }}
+{{ if not $w }}{{ with (findRE `w_[0-9]+` $imagePath 1) }}{{ $w = replace (index . 0) "w_" "" }}{{ end }}{{ end }}
+{{ if not $w }}{{ $w = "800" }}{{ end }}
+{{ if not $h }}{{ $h = string (int (math.Round (mul (float $w) 0.667))) }}{{ end }}
 
 <!-- image figure -->
 {{ if or (.Get `title`) (.Get `caption`) }}
 <figure class="{{.Scratch.Get `image-position`}}">
-  <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Get `alt` }}" class="{{.Get `c`}}" width="{{.Get `w`}}" height="{{.Get `h`}}">
+  <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Get `alt` }}" class="{{.Get `c`}}" width="{{ $w }}" height="{{ $h }}" style="height:auto">
   <figcaption>{{.Get `title` | default (.Get `caption`) | markdownify}}</figcaption>
 </figure>
 {{ else }}
 <!-- image tag -->
 <div class="{{.Scratch.Get `image-position`}}">
-<img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Get `alt` }}" class="{{.Get `c`}} {{.Scratch.Get `image-position`}}" width="{{.Get `w`}}" height="{{.Get `h`}}">
+<img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Get `alt` }}" class="{{.Get `c`}} {{.Scratch.Get `image-position`}}" width="{{ $w }}" height="{{ $h }}" style="height:auto">
 </div>
 {{ end }}
 

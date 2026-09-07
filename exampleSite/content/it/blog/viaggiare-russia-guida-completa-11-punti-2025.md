@@ -6,6 +6,7 @@ date: 2025-01-02T10:00:00+01:00
 categories: ["Russia in Camper"]
 continent: Europa
 country: Russia
+author: Paolo
 type: featured
 ---
 

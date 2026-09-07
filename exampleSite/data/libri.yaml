@@ -1,0 +1,11 @@
+# Libri Vandipety, usati dallo shortcode {{< libro >}} (layouts/shortcodes/libro.html).
+# "default" indica quale voce mostrare quando lo shortcode è usato senza argomenti.
+# Aggiungere un libro = nuova chiave con titolo / cover (URL Cloudinary senza
+# trasformazioni, lo shortcode le aggiunge) / url (link d'acquisto o affiliato).
+default: verso-lisola-che-ce
+
+verso-lisola-che-ce:
+  titolo: "Verso l'isola che c'è"
+  sottotitolo: "Dall'Italia al Giappone in camper con un cane e un gatto"
+  cover: "https://res.cloudinary.com/ilgattodicitturin/image/upload/v1783035345/asset/verso-lisola-che-ce_wzjhfb.jpg"
+  url: "https://amzn.to/4fhGbAY"

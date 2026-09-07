@@ -1,5 +1,6 @@
 ---
 title: 'How to Enter Iraqi Kurdistan: Complete Guide for Travellers'
+author: Paolo
 slug: how-to-enter-iraqi-kurdistan-complete-guide
 description: 'Find out how to enter Iraqi Kurdistan: a guide to visas, flights, safety and attractions in Erbil and Sulaymaniyah.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1709916475//iraq/iraq-kurdistan-iracheno_avgjtc.jpg

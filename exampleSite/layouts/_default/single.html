@@ -4,6 +4,7 @@
 {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
 
 <!--=================== section start ===================-->
+{{ $isJapan := or (eq .Params.country "Giappone") (in .Params.categories "Giappone in Camper") }}
 <section class="section-sm section-sm-mobile">
   <div class="container">
     <div class="row">
@@ -226,6 +227,15 @@
         </script>
         {{ end }}
 
+        {{ partial "author-box.html" . }}
+
+        {{ if $isJapan }}
+        <!-- CTA libro: nella sidebar a destra su desktop (vedi col-lg-4), qui sotto il contenuto su mobile -->
+        <div class="d-lg-none">
+          {{ partial "book-cta.html" (dict) }}
+        </div>
+        {{ end }}
+
         {{ partial "blog-footer.html" (dict "country" "" "payPal" "1" "consult" "0" ) }}
         <!-- articoli correlati mobile -->
         <div class="d-lg-none">
@@ -251,6 +261,9 @@
       <!-- sidebar widgets -->
       <div class="col-lg-4" style="z-index: 3 !important;">
         <div class="sticky-top d-none d-lg-block" style="top: 2rem;">
+          {{ if $isJapan }}
+          {{ partial "book-cta.html" (dict "compact" true) }}
+          {{ end }}
           {{ partial "widgets/related-posts.html" . }}
         </div>
       </div>

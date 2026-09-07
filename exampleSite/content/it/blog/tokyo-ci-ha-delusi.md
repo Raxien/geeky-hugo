@@ -1,5 +1,6 @@
 ---
 title: 'Tokyo ci ha delusi'
+seo_title: "Visitare Tokyo in camper: perché ci ha delusi (e cosa aspettarsi)"
 description: 'Dopo tre viaggi nella capitale giapponese: perché non sempre Tokyo è all''altezza delle aspettative.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1761205708/articoli/viaggi/TOKYO-0l1kuf66.jpg
 date: 2025-10-22T12:00:00+02:00

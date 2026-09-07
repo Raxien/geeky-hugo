@@ -1,0 +1,51 @@
+{{- /*
+  Box autore in coda agli articoli (segnale E-E-A-T): chi ha scritto il pezzo
+  + una riga di bio contestuale. author_bio_paolo per i post tecnici/burocratici
+  (author: Paolo nel front matter), author_bio_sara come default. Reso da
+  _default/single.html solo sugli articoli del blog.
+
+  Avatar, in ordine di preferenza:
+   1) foto dedicata dell'autore in  assets/images/<slug>.(jpg|jpeg|png|webp)
+      oppure in  assets/images/autori/<slug>.(...)  — <slug> = nome autore
+      minuscolo (es. "paolo", "sara"), processata da Hugo in quadrato webp;
+   2) fallback: la foto condivisa della pagina "Chi Siamo" (Cloudinary).
+*/ -}}
+{{- $author := .Params.author | default site.Params.author -}}
+{{- $slug := $author | urlize -}}
+{{- $bio := i18n "author_bio_sara" -}}
+{{- if eq $author "Paolo" }}{{ $bio = i18n "author_bio_paolo" }}{{ end -}}
+
+{{- $img := "" -}}
+{{- range $dir := (slice "images" "images/autori") -}}
+  {{- range $ext := (slice "jpg" "jpeg" "png" "webp") -}}
+    {{- if not $img -}}
+      {{- with resources.Get (printf "%s/%s.%s" $dir $slug $ext) }}{{ $img = . }}{{ end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- /* src a 144px (2x) mostrata a 72px CSS: niente srcset per non incappare
+       nell'encoding delle virgole nell'attributo srcset con gli URL Cloudinary. */ -}}
+{{- $src := "" -}}
+{{- with $img -}}
+  {{- $src = (.Fill "144x144 Center webp").RelPermalink -}}
+{{- else -}}
+  {{- with site.GetPage "about" -}}
+    {{- if hasPrefix .Params.image "http" -}}
+      {{- $src = replace .Params.image "/upload/" "/upload/f_auto,q_auto:eco,w_144,h_144,c_fill/" -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+<aside class="author-box d-flex align-items-start border rounded p-4 my-4">
+  {{- with $src }}
+  <img src="{{ . | safeURL }}" alt="{{ $author }}" width="72" height="72"
+       class="rounded-circle me-3 flex-shrink-0" loading="lazy" decoding="async"
+       style="width:72px;height:72px;object-fit:cover;">
+  {{- end }}
+  <div>
+    <div class="small text-uppercase text-muted mb-1">{{ i18n "author_box_prefix" }}</div>
+    <div class="fw-bold mb-1">{{ $author }}</div>
+    <p class="small mb-2">{{ $bio }}</p>
+    <a class="small fw-bold" href="{{ "about/" | relLangURL }}">{{ i18n "author_box_more" }} &rarr;</a>
+  </div>
+</aside>

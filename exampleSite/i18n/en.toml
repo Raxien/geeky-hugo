@@ -365,3 +365,21 @@ other = "regions visited"
 
 [destinations_filter_all]
 other = "All"
+
+[author_box_prefix]
+other = "Written by"
+
+[author_box_more]
+other = "Learn more about us"
+
+[author_bio_sara]
+other = "Sara and Paolo have travelled by campervan since 2022 with Olimpia (dog) and Sakè (cat): 39 countries, 4 continents, over 130,000 km. On Vandipety they share itineraries, practical guides and life on the road."
+
+[author_bio_paolo]
+other = "Paolo handles the technical and bureaucratic side of the trip: customs, vehicle permits, border insurance, connectivity and van build. On the road since 2022 with Sara, Olimpia and Sakè."
+
+[book_promo_intro]
+other = "Planning a similar trip?"
+
+[book_promo_button]
+other = "Check out our book"

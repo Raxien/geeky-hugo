@@ -1,5 +1,6 @@
 ---
 title: 'Coibentazione: come abbiamo reso il nostro van pronto per le quattro stagioni'
+author: Paolo
 description: "Prima di ripartire verso est a bordo del van abbiamo deciso di effettuare qualche piccolo upgrade, scopri con noi dove abbiamo messo mano"
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1689874010/Articoli/Blog/torta-leonardo_xx95ou.jpg
 date: 2023-10-07T08:00:00.000

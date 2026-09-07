@@ -1,5 +1,6 @@
 ---
 title: 'La Military Road, un viaggio mozzafiato attraverso il Caucaso'
+seo_title: "Georgian Military Road: itinerario, tappe e consigli di viaggio"
 description: 'La Military Road è un viaggio che vi lascerà senza fiato. Preparatevi a vivere un''esperienza indimenticabile tra le meraviglie del Caucaso.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/c_crop,ar_16:9/v1726482841/Articoli/Direzione%20giappone/Direzione26/military-road-mai-soli_eupptz.jpg
 date: 2024-09-15T07:00:00+01:00

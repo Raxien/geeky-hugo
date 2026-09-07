@@ -365,3 +365,21 @@ other = "regioni visitate"
 
 [destinations_filter_all]
 other = "Tutti"
+
+[author_box_prefix]
+other = "Scritto da"
+
+[author_box_more]
+other = "Scopri di più su di noi"
+
+[author_bio_sara]
+other = "Sara e Paolo viaggiano in camper dal 2022 con Olimpia (cane) e Sakè (gatto): 39 paesi, 4 continenti, oltre 130.000 km. Su Vandipety raccontano itinerari, guide pratiche e vita on the road."
+
+[author_bio_paolo]
+other = "Paolo cura la parte tecnica e burocratica del viaggio: dogane, permessi per il veicolo, assicurazioni di frontiera, connettività e allestimento del van. On the road dal 2022 con Sara, Olimpia e Sakè."
+
+[book_promo_intro]
+other = "Stai pianificando un viaggio simile?"
+
+[book_promo_button]
+other = "Scopri il nostro libro"
