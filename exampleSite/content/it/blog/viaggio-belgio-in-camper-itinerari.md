@@ -13,7 +13,7 @@ draft: false
 In questo articolo ti portiamo alla scoperta di **3 cittadine in Belgio** che abbiamo raggiunto a bordo del nostro van, insieme a Olimpia e Sakè, i nostri cane e gatto. Nonostante il poco tempo a disposizione siamo comunque riusciti a trovare 3 destinazioni che hanno rapito il nostro sguardo, scopriamole insieme! 
 
 Siamo entrati nel paese da  dai [Paesi Bassi](/blog/viaggio-paesi-bassi-in-camper-itinerari/) ed eravamo diretti in [Francia](/blog/viaggio-francia-alta-francia-in-camper-itinerari/), motivo per cui abbiamo solo attraversato questo stato mantenendo la rotta lungo la costa atlantica.
-
+ 
 ## Gand: La città più bella del Belgio
 
 Abbiamo parcheggiato a venti minuti a piedi dal centro. Ponti lungo il canale, arriviamo alla piazza centrale. Imbocchiamo i 120 metri di porticato dedicato alla **street art**, costellato di murales fin verso le finestre delle abitazioni. Siamo affamati. Decidiamo di prendere un cono di patatine fritte. Da settimane ormai **è questo lo snack da passeggio più visto**. E noi che eravamo abituati ai tranci di pizza. 
