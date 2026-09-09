@@ -1,7 +1,7 @@
 ---
 title: 'Okanagan Valley in camper: cosa vedere tra Osoyoos, vigneti, laghi e paesaggi semi-aridi'
 description: 'Okanagan Valley in camper: da Osoyoos al lago semi-arido, vigneti, Spotted Lake e panorami unici. Tutto quello che devi sapere per organizzare il viaggio.'
-image: /uploads/okanaganvalley.png
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1788917501/okanaganv-alley_gs8xju.png
 date: 2026-09-08T08:11:00.000
 categories:
   - Canada in camper
