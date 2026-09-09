@@ -8,7 +8,7 @@ categories:
 continent: Nord America
 country: Canada
 type: regular
-draft: true
+draft: false
 slug: okanagan-valley-camper-cosa-vedere-osoyoos-vigneti-laghi
 language: it
 ---
