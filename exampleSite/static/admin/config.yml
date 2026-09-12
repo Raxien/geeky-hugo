@@ -16,17 +16,18 @@ backend:
   name: github
   repo: Raxien/geeky-hugo # intero repository: contiene sia il tema che exampleSite
   branch: master
-  # base_url/auth_endpoint: SOLO per Cloudflare Pages, lasciare commentato finché
-  # il sito resta su Netlify. Su Netlify il proxy OAuth per il backend "github" è
-  # fornito automaticamente da api.netlify.com; Cloudflare Pages non ha un
-  # equivalente integrato, quindi serve un Cloudflare Worker che faccia da proxy
-  # OAuth verso GitHub (vedi CLOUDFLARE-MIGRATION.md per come deployarlo — è lo
-  # stesso identico worker sia che l'editor sia servito da Netlify sia da
-  # Cloudflare, quindi può restare attivo anche durante la fase di transizione
-  # con i due siti in parallelo).
-  # Una volta deployato il worker, scommentare e sostituire con il suo URL reale:
-  # base_url: https://IL-TUO-WORKER.workers.dev
-  # auth_endpoint: auth
+  # base_url: SOLO per Cloudflare Pages, lasciare commentato finché il sito resta
+  # su Netlify. Su Netlify il proxy OAuth per il backend "github" è fornito
+  # automaticamente da api.netlify.com; Cloudflare Pages non ha un equivalente
+  # integrato, quindi serve il worker dedicato sveltia/sveltia-cms-auth
+  # (https://github.com/sveltia/sveltia-cms-auth) come proxy OAuth verso GitHub
+  # — vedi CLOUDFLARE-MIGRATION.md per il deploy passo-passo. È lo stesso
+  # identico worker sia che l'editor sia servito da Netlify sia da Cloudflare,
+  # quindi può restare attivo anche durante la fase di transizione con i due
+  # siti in parallelo. Nessun auth_endpoint da impostare: questo worker usa solo
+  # base_url (a differenza di altri proxy OAuth "generici" per Decap/Netlify CMS).
+  # Una volta deployato il worker, scommenta e metti il suo URL reale:
+  # base_url: https://sveltia-cms-auth.IL-TUO-SUBDOMAIN.workers.dev
 
 # Pubblica direttamente su master ad ogni salvataggio (niente PR di revisione).
 # È sicuro perché i nuovi articoli nascono con draft: true (vedi collections sotto):

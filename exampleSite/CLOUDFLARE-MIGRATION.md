@@ -61,30 +61,69 @@ Su questo dominio la Function non riconosce l'host (non è `vandipety.it` né
 `vandipety.com`), quindi **non fa alcun rewrite**: naviga direttamente
 `https://<progetto>.pages.dev/it/` e `.../en/` per controllare le due lingue.
 
+Due comportamenti attesi in questa fase, NON bug:
+- **`https://<progetto>.pages.dev/` (senza `/it` o `/en`) dà 404.** Corretto: non
+  esiste un host noto da cui dedurre la lingua, e non c'è un `index.html` nella
+  radice di `public/` (Hugo in modalità multihost genera solo `public/it/` e
+  `public/en/`) — succederebbe la stessa cosa su Netlify se si provasse a
+  visitare il dominio `*.netlify.app` grezzo del sito invece di quello vero.
+- **I link dentro le pagine puntano a `vandipety.it`/`.com`, non al dominio
+  `*.pages.dev`.** Hugo in modalità multihost scrive gli URL assoluti nella
+  pagina già in fase di build, usando il `baseURL` configurato per lingua (vedi
+  `config/_default/languages.toml`) — non dipende da dove il file HTML viene
+  poi effettivamente servito. Risultato: su `*.pages.dev` puoi navigare la
+  singola pagina che apri modificando l'URL a mano, ma cliccare i link ti
+  riporta al sito vero (Netlify, finché il cutover non è fatto). Il click-through
+  completo si testa per forza al punto 5, sui domini reali.
+
 Da verificare:
 - [ ] Home, un articolo, una categoria in `/it/` e `/en/`
-- [ ] Un redirect SEO "vecchio" da `static/_redirects` (es. `/books` → dovrebbe dare 301 a `/`) — **questo verifica il punto #1 sopra**
+- [ ] Un redirect SEO "vecchio" da `static/_redirects`, **con il path nudo, SENZA
+      prefisso `/it` o `/en` davanti** (es. `https://<progetto>.pages.dev/books`
+      → deve dare 301 a `/`). Attenzione: `/it/books` (con il prefisso aggiunto a
+      mano) NON è un test valido — quel path non esiste da nessuna parte nelle
+      regole, quindi dà 404 a prescindere da tutto; è quello che si vedrebbe
+      anche se questa migrazione fosse perfetta. Usa `curl -I` per leggere lo
+      status/Location senza che il browser segua il redirect:
+      `curl -I https://<progetto>.pages.dev/books`
+      Questo è il modo per verificare il **punto #1 sopra**.
 - [ ] Cache header su un file `css/main.*.css` e su una miniatura `sddefault_*.webp` (DevTools → Network)
 - [ ] Miniature YouTube via `/yt-thumb/mqdefault/<id>`
 
 ### 3. OAuth per Sveltia CMS
 
-`/admin` su Cloudflare non ha il proxy OAuth automatico che ha Netlify. Serve un
-Cloudflare Worker che faccia da proxy OAuth verso GitHub (stesso meccanismo di
-Decap/Sveltia, documentato su sveltiacms.app — cerca "OAuth client for self-hosted
-backend" / worker Cloudflare ufficiale).
+`/admin` su Cloudflare non ha il proxy OAuth automatico che ha Netlify (è per questo
+che login su `/admin` dà un errore dopo il redirect da GitHub, finché non fai questi
+passi — non è un problema del porting, è il pezzo mancante successivo). Serve il
+worker dedicato **[sveltia/sveltia-cms-auth](https://github.com/sveltia/sveltia-cms-auth)**.
 
-1. Deploya il worker OAuth su Cloudflare Workers.
-2. Nella GitHub OAuth App esistente (o una nuova), aggiungi come **callback URL**
-   quello del worker (es. `https://<worker>.workers.dev/callback`).
-3. Imposta come secret del worker il client id/secret della OAuth App.
+1. Apri il repo [sveltia/sveltia-cms-auth](https://github.com/sveltia/sveltia-cms-auth)
+   e usa il bottone "Deploy to Cloudflare Workers" nel README (oppure clona e
+   `wrangler deploy` in locale). A fine deploy, dal Cloudflare Workers dashboard
+   prendi l'URL del worker: `https://sveltia-cms-auth.<TUO-SUBDOMAIN>.workers.dev`.
+2. Crea una **nuova** GitHub OAuth App dedicata (Settings → Developer settings →
+   OAuth Apps → New OAuth App). NON riusare quella già collegata a Netlify: una
+   OAuth App classica ha un solo campo "Authorization callback URL", cambiarlo
+   romperebbe il login sul sito Netlify ancora attivo. Imposta:
+   - Homepage URL: `https://vandipety.it` (o quello che preferisci)
+   - **Authorization callback URL**: `<URL-DEL-WORKER>/callback`
+3. Nelle impostazioni del Worker (Cloudflare dashboard → Workers → il tuo
+   worker → Settings → Variables), imposta:
+   - `GITHUB_CLIENT_ID` = Client ID della OAuth App appena creata
+   - `GITHUB_CLIENT_SECRET` = Client Secret (usa il bottone "Encrypt")
+   - `ALLOWED_DOMAINS` (opzionale ma consigliato) = elenco separato da virgole
+     degli host da cui accettare richieste, es.
+     `<progetto>.pages.dev,vandipety.it,vandipety.com` — in questa fase di test
+     aggiungi anche il dominio `*.pages.dev` esatto che stai usando.
 4. In [static/admin/config.yml](static/admin/config.yml), scommenta `base_url` e
-   `auth_endpoint` e mettici l'URL reale del worker.
+   mettici l'URL reale del worker (nessun `auth_endpoint` da impostare — questo
+   worker usa solo `base_url`). Poi committa e pusha su questo branch.
 5. Testa il login su `https://<progetto>.pages.dev/it/admin/` (o `/en/admin/`).
 
 Questo worker può restare attivo e servire l'OAuth **sia per l'admin su Netlify sia
-per quello su Cloudflare** contemporaneamente: non c'è conflitto nella fase di
-transizione con i due siti in parallelo.
+per quello su Cloudflare** contemporaneamente (basta che entrambi i siti puntino
+allo stesso `base_url` in `config.yml`, che è condiviso): non c'è conflitto nella
+fase di transizione con i due siti in parallelo.
 
 ### 4. Collegare i domini veri
 
