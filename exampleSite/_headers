@@ -1,0 +1,35 @@
+# Porting delle [[headers]] di netlify.toml al formato _headers di Cloudflare Pages
+# (stessa sintassi di base di Netlify: un path per blocco, seguito dagli header
+# indentati). File tenuto FUORI da static/ di proposito: in modalità multihost Hugo
+# copia static/ dentro ogni albero di lingua (public/it, public/en), mentre questo
+# file deve stare nella RADICE di public/ — va copiato lì dal build command
+# (vedi CLOUDFLARE-MIGRATION.md), stesso motivo per cui netlify-host-redirects e
+# 404-fallback.html vivono già qui e non in static/.
+#
+# ATTENZIONE — DA VERIFICARE IN TEST: il matching path di Cloudflare Pages è più
+# semplice di quello di Netlify e potrebbe non supportare un "*" in mezzo al nome
+# file (es. main.*.css) come segmento libero. Se in test questi due blocchi cache
+# non si applicano ai file fingerprintati, l'alternativa è restringere il pattern
+# a un prefisso di cartella dedicato invece che al nome file.
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: same-origin
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
+# Miniature YouTube self-hosted in fase di build (vedi shortcode youtube2): sono
+# video propri, la miniatura non cambia in pratica.
+/sddefault_*.webp
+  Cache-Control: public, max-age=31536000
+
+# CSS/JS con nome fingerprintato (hash sha512 via resources.fingerprint in
+# style.html/script.html): il contenuto cambia solo quando cambia l'hash, quindi
+# possono restare in cache "immutable" per un anno. Pattern ristretto a
+# main.*.css/bundle.*.js (non /css/* o /js/* generici) perché js/search.<lang>.js
+# NON è fingerprintato: andrebbe stale in cache per un anno ad ogni aggiornamento
+# delle traduzioni.
+/css/main.*.css
+  Cache-Control: public, max-age=31536000, immutable
+
+/js/bundle.*.js
+  Cache-Control: public, max-age=31536000, immutable

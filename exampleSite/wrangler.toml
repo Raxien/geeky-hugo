@@ -1,0 +1,9 @@
+# Configurazione del progetto Cloudflare Pages "vandipety" (repo collegata con
+# root directory = exampleSite). Il comando di build e la cartella di output vanno
+# comunque impostati anche nel pannello Cloudflare Pages — vedi CLOUDFLARE-MIGRATION.md
+# — questo file serve principalmente a dare una compatibility_date esplicita alle
+# Pages Functions in functions/ (senza, Cloudflare userebbe una data di default
+# datata, con rischio di API mancanti nel runtime).
+name = "vandipety"
+compatibility_date = "2026-09-12"
+pages_build_output_dir = "public"
