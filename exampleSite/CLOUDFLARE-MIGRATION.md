@@ -61,12 +61,14 @@ Su questo dominio la Function non riconosce l'host (non è `vandipety.it` né
 `vandipety.com`), quindi **non fa alcun rewrite**: naviga direttamente
 `https://<progetto>.pages.dev/it/` e `.../en/` per controllare le due lingue.
 
-Due comportamenti attesi in questa fase, NON bug:
-- **`https://<progetto>.pages.dev/` (senza `/it` o `/en`) dà 404.** Corretto: non
-  esiste un host noto da cui dedurre la lingua, e non c'è un `index.html` nella
-  radice di `public/` (Hugo in modalità multihost genera solo `public/it/` e
-  `public/en/`) — succederebbe la stessa cosa su Netlify se si provasse a
-  visitare il dominio `*.netlify.app` grezzo del sito invece di quello vero.
+Un comportamento attivo solo qui, NON in produzione:
+- **`https://<progetto>.pages.dev/` (senza `/it` o `/en`) fa un redirect 302 a
+  `/it/`.** È una comodità solo per l'anteprima (altrimenti il link "Visit site"
+  di Cloudflare darebbe 404 al primo click, dato che non c'è un `index.html` in
+  radice — Hugo multihost genera solo `public/it/` e `public/en/`). Su
+  `vandipety.it`/`vandipety.com` veri questo ramo di codice non viene mai
+  eseguito: lì l'host è riconosciuto e la home la serve direttamente il rewrite
+  interno (`/` → `/it/` senza redirect visibile, URL che resta pulito).
 - **I link dentro le pagine puntano a `vandipety.it`/`.com`, non al dominio
   `*.pages.dev`.** Hugo in modalità multihost scrive gli URL assoluti nella
   pagina già in fase di build, usando il `baseURL` configurato per lingua (vedi

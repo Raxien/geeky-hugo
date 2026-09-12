@@ -82,6 +82,14 @@ export async function onRequest(context) {
   // senza alcun rewrite — vedi CLOUDFLARE-MIGRATION.md per i limiti di questa modalità
   // (es. login CMS, che dipende dal dominio di produzione per l'OAuth).
   if (!lang) {
+    // Comodità SOLO per l'anteprima: la radice di public/ non ha un index.html
+    // proprio (Hugo multihost genera solo public/it/ e public/en/), quindi senza
+    // questo il link "Visit site" di Cloudflare darebbe 404 al primo click. Su un
+    // host riconosciuto questo ramo non viene mai eseguito: lì la home la serve
+    // il rewrite qui sotto, non questo redirect.
+    if (url.pathname === "/") {
+      return Response.redirect(new URL("/it/", url), 302);
+    }
     return context.next();
   }
 
