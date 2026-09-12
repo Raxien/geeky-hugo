@@ -44,8 +44,13 @@ ha già un commento che spiega come portare anche quelle regole al suo interno.
    - **Root directory**: `exampleSite`
    - **Build command**:
      ```
-     npm install && npx --yes terser assets/js/script.js -o assets/js/script.min.js -c passes=2,pure_getters,unsafe,unsafe_math,unsafe_proto,unsafe_regexp,unsafe_undefined,conditionals,dead_code,evaluate,booleans,loops,unused,drop_console=true,drop_debugger=true -m --comments '/^!/' && hugo --minify --gc && cp _headers public/_headers && cp static/_redirects public/_redirects && cp 404-fallback.html public/404.html
+     npm install && npx --yes terser assets/js/script.js -o assets/js/script.min.js -c passes=2,pure_getters,unsafe,unsafe_math,unsafe_proto,unsafe_regexp,unsafe_undefined,conditionals,dead_code,evaluate,booleans,loops,unused,drop_console=true,drop_debugger=true -m --comments '/^!/' && hugo --minify --gc --themesDir ../themes --theme geeky-hugo && cp _headers public/_headers && cp static/_redirects public/_redirects && cp 404-fallback.html public/404.html
      ```
+     `--themesDir ../themes --theme geeky-hugo` è OBBLIGATORIO: `exampleSite/themes/geeky-hugo`
+     nel repo è quasi vuoto (un solo file), il tema vero vive solo in `themes/geeky-hugo` alla
+     radice — senza questi due flag la build fallisce con "template for shortcode ... not found"
+     (osservato in produzione: shortcode `extLink`). Stessi flag già usati per `hugo server`
+     in sviluppo locale (vedi CLAUDE.md).
    - **Build output directory**: `public`
    - **Variabili d'ambiente**: `HUGO_VERSION` = `0.163.3`
 3. Deploy. Cloudflare ti darà un dominio tipo `<progetto>.pages.dev`.
