@@ -7,3 +7,10 @@
 name = "vandipety"
 compatibility_date = "2026-09-12"
 pages_build_output_dir = "public"
+
+# HUGO_VERSION: senza questa, l'immagine di build di Cloudflare usa un Hugo di
+# default troppo vecchio (osservato: 0.147.7) rispetto al minimo richiesto dal
+# tema (0.163.3, vedi module.hugoVersion.min in config.toml) — la build fallisce
+# con errori di shortcode non trovato. Stesso valore usato in netlify.toml.
+[vars]
+HUGO_VERSION = "0.163.3"
