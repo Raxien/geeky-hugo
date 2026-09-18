@@ -40,7 +40,7 @@ module.exports = {
         // risultati di ricerca renderizzati via innerHTML (search.js)
         'search-result-item', 'search-results-list', 'search-result-content',
         'search-result-image', 'search-result-text', 'search-more-results',
-        'title', 'country', 'categories', 'excerpt',
+        'title', 'country', 'categories', 'excerpt', 'hide-li',
       ],
     }),
   ],
