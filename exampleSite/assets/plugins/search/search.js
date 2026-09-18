@@ -119,6 +119,7 @@ function populateResults(result) {
       snippet += contents.substring(0, summaryInclude * 2);
     }
 
+    const categories = value.item.categories || [];
     const templateDefinition = document.getElementById('search-result-template').innerHTML;
     const output = render(templateDefinition, {
       key: key,
@@ -127,14 +128,14 @@ function populateResults(result) {
       date: value.item.date,
       link: value.item.permalink,
       tags: value.item.tags,
-      categories: value.item.categories,
-      categories0: [value.item.categories[0]],
-      categories1: [value.item.categories[1]],
-      visible1: value.item.categories[1] == undefined ? "hide-li" : "",
-      categories2: [value.item.categories[2]],
-      visible2: value.item.categories[2] == undefined ? "hide-li" : "",
-      categories3: [value.item.categories[3]],
-      visible3: value.item.categories[3] == undefined ? "hide-li" : "",
+      categories: categories.length > 0 ? categories : '',
+      categories0: [categories[0]],
+      categories1: [categories[1]],
+      visible1: categories[1] == undefined ? "hide-li" : "",
+      categories2: [categories[2]],
+      visible2: categories[2] == undefined ? "hide-li" : "",
+      categories3: [categories[3]],
+      visible3: categories[3] == undefined ? "hide-li" : "",
       snippet: snippet
     });
 
