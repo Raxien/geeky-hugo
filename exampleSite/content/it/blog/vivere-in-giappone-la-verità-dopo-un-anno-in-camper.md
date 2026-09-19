@@ -1,8 +1,9 @@
 ---
-title: 'Vivere in Giappone: la verità dopo un anno in camper'
-description: 'Un anno vissuto in camper in Giappone, tra sicurezza, burocrazia e nuovi limiti sui visti: ecco perché non ci fermiamo qui. Continua a leggere.'
+title: 'Vivere in Giappone: Pro e Contro dopo un anno in Camper'
+description: 'Conviene vivere in Giappone? Vi raccontiamo pro, contro, costi e verità nascoste dopo un anno intero vissuto in camper nel Paese del Sol Levante.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1789837331/un-anno-in-giappone-esperienza_qvryiz.png
 date: 2026-09-19T11:25:00.000
+author: Paolo
 categories: ["Giappone"]
 continent: Asia
 country: Giappone
