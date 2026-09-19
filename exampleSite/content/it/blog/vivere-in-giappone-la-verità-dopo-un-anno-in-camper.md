@@ -3,8 +3,7 @@ title: 'Vivere in Giappone: la verità dopo un anno in camper'
 description: 'Un anno vissuto in camper in Giappone, tra sicurezza, burocrazia e nuovi limiti sui visti: ecco perché non ci fermiamo qui. Continua a leggere.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1789837331/un-anno-in-giappone-esperienza_qvryiz.png
 date: 2026-09-19T11:25:00.000
-categories:
-  - Giappone
+categories: ["Giappone"]
 continent: Asia
 country: Giappone
 type: regular
@@ -41,8 +40,6 @@ Ci sono poi tutta una serie di comodità che in Europa diamo per scontate, ma ch
 
 **Strade e traghetti funzionano**, anche con targa straniera: ogni volta che arrivavamo a un imbarco c'era un attimo di panico, ma poi si risolveva sempre tutto. Le strade sono strette in alcuni tratti e non sempre ben segnalate, quindi con un mezzo grande come il nostro conviene informarsi bene prima.
 
-{{< youtube2 wKRgfvuRY9g >}}
-
 ## I contro che i social non raccontano
 
 Ora tocca fare i cattivi. Non prendetevela se amate il Giappone: raccontiamo solo la nostra esperienza diretta, dopo un anno vissuto lì e non solo visitato.
@@ -53,7 +50,7 @@ Ora tocca fare i cattivi. Non prendetevela se amate il Giappone: raccontiamo sol
 
 **La barriera linguistica e burocratica.** Pochissimi giapponesi parlano davvero inglese, anche se tutti lo studiano a scuola. Con un camper a targa straniera, che già crea imbarazzo perché nessuno vuole prendersi la responsabilità di intervenire su un mezzo che non conosce, questo diventa un problema concreto. Abbiamo trovato un solo meccanico disposto ad aiutarci in tutto il paese. Non siamo riusciti a far sterilizzare la nostra gatta perché la clinica non riusciva a farsi capire sulle possibili complicanze, nemmeno con un traduttore. Sono ostacoli che durante una vacanza di due settimane non noti nemmeno, ma che nella vita quotidiana di un anno intero pesano.
 
-{{< youtube2 [IsXNysrjzHs](https://youtu.be/IsXNysrjzHs) >}}
+{{< youtube2 IsXNysrjzHs >}}
 
 **Farsi amici giapponesi non è semplice.** Anche i camperisti locali, pur riconoscendoci e scrivendoci sui social dopo averci incrociati, raramente si fermavano a fare due chiacchiere. È una cultura molto più riservata della nostra, e forse anche per questo, tra tutte le città che abbiamo attraversato, non ne abbiamo trovata una in cui dire "qui mi fermerei a vivere": ne parliamo anche in [Tokyo ci ha delusi]([/blog/tokyo-ci-ha-delusi/](https://vandipety.it/blog/tokyo-ci-ha-delusi/)).
 
@@ -68,6 +65,14 @@ Oltre ai contro generali, ce ne sono alcuni specifici di chi si muove con un mez
 - **Pochi spot davvero memorabili**: si contano quasi sulle dita di una mano, un paio vicino al Fuji, qualcuno in Hokkaido. Il resto sono posti dimenticabili, molto asfaltati e poco ombreggiati.
 - **Percorrenze lunghissime**: in Giappone non esiste l'onda verde dei semafori, quindi 15 km possono richiedere 45 minuti anche senza traffico. Le autostrade dimezzano i tempi ma costano care: anche solo pochi chilometri possono costare l'equivalente di 4.000 yen.
 - **Rumore notturno**: i giapponesi tendono a lasciare l'aria condizionata o il riscaldamento acceso tutta la notte anche nei parcheggi, e con le finestre aperte per il caldo, dormire può diventare complicato.
+
+{{< sponsor 
+    url="https://heymondo.it?utm_medium=Afiliado&utm_source=VANDIPETY&utm_campaign=PRINCIPAL&cod_descuento=VANDIPETY&ag_campaign=INPUT&agencia=SaXPQpDWZVhQgQkpyDBwl6vglf3XxokNJb2cMUHr"
+    title="HeyMondo"
+    description="Ottieni lo sconto del 10% sulla tua prossima assicurazione."
+    type="link affiliato"
+    disclaimer="true"
+>}}
 
 ## Perché allora non ci fermiamo a vivere qui
 
