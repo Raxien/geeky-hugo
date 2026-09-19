@@ -2,13 +2,13 @@
 title: 'Vivere in Giappone: la verità dopo un anno in camper'
 description: 'Un anno vissuto in camper in Giappone, tra sicurezza, burocrazia e nuovi limiti sui visti: ecco perché non ci fermiamo qui. Continua a leggere.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1789837331/un-anno-in-giappone-esperienza_qvryiz.png
-date: 2026-09-19T10:56:00.000
+date: 2026-09-19T11:25:00.000
 categories:
   - Giappone
 continent: Asia
 country: Giappone
 type: regular
-draft: true
+draft: false
 slug: perche-non-viviamo-in-giappone
 language: ''
 ---
