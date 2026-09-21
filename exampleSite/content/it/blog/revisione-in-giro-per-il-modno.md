@@ -22,7 +22,7 @@ Per essere sicuri di aver capito bene, abbiamo scritto direttamente all'Ufficio 
 
 {{< image src="https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1790013808/articoli/viaggi/risposta-ufficiale-ministero-3g0x23vf" >}}
 
-In pratica: **nessuna scorciatoia**, nessun timbro estero che vale qualcosa. La revisione resta un adempimento tutto italiano, da gestire pianificando i rientri o appoggiandosi a chi è rimasto a casa.
+In pratica: **nessuna scorciatoia**, nessun timbro estero che vale qualcosa. La revisione resta un adempimento tutto italiano, da gestire prima del rientro in Italia.
 
 ## Cosa facciamo davvero, in giro per il mondo
 
