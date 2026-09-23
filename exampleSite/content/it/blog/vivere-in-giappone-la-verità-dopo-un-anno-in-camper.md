@@ -1,16 +1,17 @@
 ---
 title: 'Vivere in Giappone: Pro e Contro dopo un anno in Camper'
-description: 'Conviene vivere in Giappone? Vi raccontiamo pro, contro, costi e verità nascoste dopo un anno intero vissuto in camper nel Paese del Sol Levante.'
+description: Conviene vivere in Giappone? Vi raccontiamo pro, contro, costi e verità nascoste dopo un anno intero vissuto in camper nel Paese del Sol Levante.
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/v1789837331/un-anno-in-giappone-esperienza_qvryiz.png
 date: 2026-09-19T11:25:00.000
-author: Paolo
-categories: ["Giappone"]
+categories:
+  - Giappone
 continent: Asia
 country: Giappone
-type: regular
+type: featured
 draft: false
 slug: perche-non-viviamo-in-giappone
 language: ''
+author: Paolo
 ---
 
 Ce lo chiedete in tantissimi, ogni volta che pubblichiamo qualcosa dal Giappone: perché non vi fermate a vivere lì? Dopo aver guidato il nostro camper fino in Giappone, e dopo averci vissuto per un anno intero, a pochi giorni dal volo che ci porterà in un nuovo continente, abbiamo deciso di rispondere con tutta l'onestà possibile. 
@@ -27,7 +28,7 @@ Sui social si vede spesso un'immagine molto idealizzata di questo paese: se foss
 
 **Tranquillità.** È la somma di tutto il resto: si dorme bene, [si trova sempre un posto tranquillo dove fermarsi col camper](/blog/sosta-camper-in-giappone-molto-piu-di-un-parcheggio/), e in generale si respira un quieto vivere che in Europa fatichiamo sempre di più a trovare.
 
-{{< youtube2 wKRgfvuRY9g  >}}
+{{< youtube2 "wKRgfvuRY9g" >}}
 
 ## Vivere in camper in Giappone: i vantaggi che non ti aspetti
 
@@ -51,9 +52,9 @@ Ora tocca fare i cattivi. Non prendetevela se amate il Giappone: raccontiamo sol
 
 **La barriera linguistica e burocratica.** Pochissimi giapponesi parlano davvero inglese, anche se tutti lo studiano a scuola. Con un camper a targa straniera, che già crea imbarazzo perché nessuno vuole prendersi la responsabilità di intervenire su un mezzo che non conosce, questo diventa un problema concreto. Abbiamo trovato un solo meccanico disposto ad aiutarci in tutto il paese. Non siamo riusciti a far sterilizzare la nostra gatta perché la clinica non riusciva a farsi capire sulle possibili complicanze, nemmeno con un traduttore. Sono ostacoli che durante una vacanza di due settimane non noti nemmeno, ma che nella vita quotidiana di un anno intero pesano.
 
-{{< youtube2 IsXNysrjzHs >}}
+{{< youtube2 "IsXNysrjzHs" >}}
 
-**Farsi amici giapponesi non è semplice.** Anche i camperisti locali, pur riconoscendoci e scrivendoci sui social dopo averci incrociati, raramente si fermavano a fare due chiacchiere. È una cultura molto più riservata della nostra, e forse anche per questo, tra tutte le città che abbiamo attraversato, non ne abbiamo trovata una in cui dire "qui mi fermerei a vivere": ne parliamo anche in [Tokyo ci ha delusi]([/blog/tokyo-ci-ha-delusi/](https://vandipety.it/blog/tokyo-ci-ha-delusi/)).
+**Farsi amici giapponesi non è semplice.** Anche i camperisti locali, pur riconoscendoci e scrivendoci sui social dopo averci incrociati, raramente si fermavano a fare due chiacchiere. È una cultura molto più riservata della nostra, e forse anche per questo, tra tutte le città che abbiamo attraversato, non ne abbiamo trovata una in cui dire "qui mi fermerei a vivere": ne parliamo anche in [Tokyo ci ha delusi]([/blog/tokyo-ci-ha-delusi/]\(https://vandipety.it/blog/tokyo-ci-ha-delusi/\)).
 
 **Vivere con gli animali è complicato.** Le aree cani sono pochissime, spesso a pagamento o con orari fissi, quasi come un asilo. È raro vedere un giapponese passeggiare in città con il cane: di solito il rituale è uscire, andare al parchetto e tornare subito a casa. Genepì l'abbiamo sempre portata ovunque con noi, come facevamo con in Italia, ma qui è più difficile far socializzare gli animali.
 
