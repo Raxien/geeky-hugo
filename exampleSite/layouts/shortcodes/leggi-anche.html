@@ -3,30 +3,47 @@
 
 {{ if $url }}
   {{ $article := site.GetPage $url }}
-  <div class="article__body__leggi-anche">
-    <a href="{{ $article.RelPermalink }}" title="{{ $article.Title }}">
-      <div class="leggi-anche-content">
-        <span class="leggi-anche-label">{{ i18n "read_also" }}</span>
-        <span class="leggi-anche-title">{{ $article.Title }}</span>
-      </div>
-      {{ with $article.Params.image }}
-        {{ if hasPrefix . "http" }}
-          <img alt="{{ $article.Title }}" src="{{ . }}" 
-          class="poligon">
-        {{ else }}
-          {{ if fileExists (add `assets/` .) }}
-            {{ $imageResource := resources.Get . }}
-            {{ $imageWebp := $imageResource.Fill "220x110 Center webp" }}
-            {{ $imageFallback := $imageResource.Fill "220x110 Center" }}
-            <img alt="{{ $article.Title }}" 
-                 src="{{ $imageWebp.RelPermalink }}"
-                 onerror="this.onerror=null;this.src='{{ $imageFallback.RelPermalink }}'"
-                 class="poligon">
+  {{ if not $article }}
+    {{/* $url may be a page's published slug/permalink rather than its
+         content-file path, which site.GetPage cannot resolve. Fall back
+         to matching against RelPermalink so either form works. */}}
+    {{ $path := replaceRE `^https?://[^/]+` "" $url }}
+    {{ $path = strings.TrimSuffix "/" $path }}
+    {{ if not (hasPrefix $path "/") }}
+      {{ $path = printf "/%s" $path }}
+    {{ end }}
+    {{ range site.RegularPages }}
+      {{ if and (not $article) (eq (strings.TrimSuffix "/" .RelPermalink) $path) }}
+        {{ $article = . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if $article }}
+    <div class="article__body__leggi-anche">
+      <a href="{{ $article.RelPermalink }}" title="{{ $article.Title }}">
+        <div class="leggi-anche-content">
+          <span class="leggi-anche-label">{{ i18n "read_also" }}</span>
+          <span class="leggi-anche-title">{{ $article.Title }}</span>
+        </div>
+        {{ with $article.Params.image }}
+          {{ if hasPrefix . "http" }}
+            <img alt="{{ $article.Title }}" src="{{ . }}"
+            class="poligon">
+          {{ else }}
+            {{ if fileExists (add `assets/` .) }}
+              {{ $imageResource := resources.Get . }}
+              {{ $imageWebp := $imageResource.Fill "220x110 Center webp" }}
+              {{ $imageFallback := $imageResource.Fill "220x110 Center" }}
+              <img alt="{{ $article.Title }}"
+                   src="{{ $imageWebp.RelPermalink }}"
+                   onerror="this.onerror=null;this.src='{{ $imageFallback.RelPermalink }}'"
+                   class="poligon">
+            {{ end }}
           {{ end }}
         {{ end }}
-      {{ end }}
-    </a>
-  </div>
+      </a>
+    </div>
+  {{ end }}
 {{ else }}
   {{ $relatedPosts := slice }}
   {{ $foundRelated := false }}
@@ -74,6 +91,7 @@
   {{ $firstRelated := first 1 (shuffle $relatedPosts) }}
 
   {{ range $firstRelated }}
+    {{ $relatedTitle := .Title }}
     <div class="article__body__leggi-anche">
       <a href="{{ .RelPermalink }}" title="{{ .Title }}">
         <div class="leggi-anche-content">
@@ -82,16 +100,16 @@
         </div>
         {{ with .Params.image }}
           {{ if hasPrefix . "http" }}
-            <img alt="{{ $.Page.Title }}" src="{{ . }}" 
+            <img alt="{{ $relatedTitle }}" src="{{ . }}"
             class="poligon">
           {{ else }}
             {{ if fileExists (add `assets/` .) }}
               {{ $imageResource := resources.Get . }}
               {{ $imageWebp := $imageResource.Fill "220x110 Center webp" }}
               {{ $imageFallback := $imageResource.Fill "220x110 Center" }}
-              <img alt="{{ $.Page.Title }}" 
+              <img alt="{{ $relatedTitle }}"
                    src="{{ $imageWebp.RelPermalink }}"
-                   onerror="this.onerror=null;this.src='{{ $imageFallback.RelPermalink }}'" 
+                   onerror="this.onerror=null;this.src='{{ $imageFallback.RelPermalink }}'"
                    class="poligon">
             {{ end }}
           {{ end }}

@@ -171,7 +171,7 @@ function setupRealTimeSearch() {
           </div>
           ${results.length > maxResults ? `
             <div class="search-more-results">
-              <a href="/search/??s=${encodeURIComponent(query)}">${(results.length - maxResults === 1 ? '{{ i18n "search_show_more_one" }}' : '{{ i18n "search_show_more_other" }}').replace('{n}', results.length - maxResults)}</a>
+              <a href="/search/?s=${encodeURIComponent(query).replace(/%20/g, '+')}">${(results.length - maxResults === 1 ? '{{ i18n "search_show_more_one" }}' : '{{ i18n "search_show_more_other" }}').replace('{n}', results.length - maxResults)}</a>
             </div>
           ` : ''}
         `;
