@@ -1,0 +1,16 @@
+<!-- Override di exampleSite: pagina di solo redirect al link referral Revolut
+     (site.Params.revolut in params.toml). Niente baseof: nessun header, CSS,
+     analytics o widget. noindex + Disallow in robots.txt + sitemap_ignore. -->
+<!DOCTYPE html>
+<html lang="{{ site.Language.Locale | default `it-IT` }}">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<meta http-equiv="refresh" content="0; url={{ site.Params.revolut }}">
+<title>Revolut</title>
+<script>window.location.replace({{ site.Params.revolut }});</script>
+</head>
+<body>
+<a href="{{ site.Params.revolut }}" rel="nofollow">Revolut</a>
+</body>
+</html>

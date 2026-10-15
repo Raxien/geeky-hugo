@@ -1,6 +1,6 @@
 ---
-title: 
-description: 
-image: 
+title: Revolut
 layout: revcard
+sitemap_ignore: true
+robots: noindex, nofollow
 ---

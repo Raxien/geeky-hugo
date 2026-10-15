@@ -10,10 +10,12 @@ User-agent: *
 Disallow: /includes/
 Disallow: /about/
 Disallow: /press/
+Disallow: /la-nostra-carta/
 
 User-agent: Googlebot
 Allow: /includes/
 Disallow: /about/
 Disallow: /press/
+Disallow: /la-nostra-carta/
 
 Sitemap: {{ site.BaseURL }}sitemap.xml
