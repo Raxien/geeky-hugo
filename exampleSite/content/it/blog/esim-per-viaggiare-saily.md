@@ -2,7 +2,7 @@
 title: "Saily: come funziona l'eSIM per viaggiare (+ codice sconto 15%)"
 description: 'eSIM per viaggiare: come funziona Saily, piani regionali e globale, numero di telefono per il viaggio. Scoprite il codice per avere il 15% di sconto.'
 image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1794599868/articoli/viaggi/saily-logo-150m91kp
-date: 2026-11-23T18:30:00.000
+date: 2026-11-23T17:30:00.000
 categories:
   - Guide pratiche
 continent: ''
