@@ -1,18 +1,30 @@
 ---
 title: "Saily: come funziona l'eSIM per viaggiare (+ codice sconto 15%)"
-author: Paolo
-slug: esim-per-viaggiare-saily
-description: "eSIM per viaggiare: come funziona Saily, piani regionali e globale, numero di telefono per il viaggio. Scoprite il codice per avere il 15% di sconto."
-# TODO: caricare l'immagine di copertina su Cloudinary e incollare qui il link
-image: "https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1794599868/articoli/viaggi/saily-logo-150m91kp"
-date: 2026-11-13T18:00:00+01:00
-categories: ["Guide pratiche"]
-tags: ["eSIM", "Saily", "internet-in-viaggio", "codice-sconto", "sim-dati", "roaming", "connessione-estero", "travel-tech"]
+description: 'eSIM per viaggiare: come funziona Saily, piani regionali e globale, numero di telefono per il viaggio. Scoprite il codice per avere il 15% di sconto.'
+image: https://res.cloudinary.com/ilgattodicitturin/image/upload/f_auto,q_auto,w_800,dpr_auto/v1794599868/articoli/viaggi/saily-logo-150m91kp
+date: 2026-11-23T18:30:00.000
+categories:
+  - Guide pratiche
+continent: ''
+country: ''
 type: regular
-sponsored: true
-sponsor_brand: "Saily"
 draft: true
+slug: esim-per-viaggiare-saily
+language: ''
+author: Paolo
+sponsor_brand: Saily
+sponsored: true
+tags:
+  - eSIM
+  - Saily
+  - internet-in-viaggio
+  - codice-sconto
+  - sim-dati
+  - roaming
+  - connessione-estero
+  - travel-tech
 ---
+
 Nuovo paese, nuova frontiera, nuova SIM da cercare? Anche no. Dopo **quattro anni e mezzo in viaggio** abbiamo trovato un modo per saltare questo passaggio.
 
 Tra visti, dogane, documenti e vaccinazioni di Sakè e Genepì, quando attraversiamo un confine abbiamo già parecchie cose a cui pensare. Avere internet appena arriviamo è una comodità a cui non vogliamo più rinunciare: ci serve per orientarci, cercare informazioni e lavorare anche dall'altra parte del mondo.
