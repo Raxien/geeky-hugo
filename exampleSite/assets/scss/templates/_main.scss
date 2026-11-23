@@ -3407,3 +3407,39 @@ p a {
     text-decoration: underline;
   }
 }
+
+/* Sponsor box: logo al posto dello screenshot (shortcode sponsor, parametro logo) */
+.article__body__leggi-anche img.sponsor-logo {
+  object-fit: contain;
+  background-color: #fff;
+  padding: 12px;
+}
+
+/* Contenuti sponsorizzati (frontmatter `sponsored: true`): badge e avviso ben visibili */
+.badge-sponsored {
+  /* Stesso stile di .badge-primary (categorie), ma giallo */
+  background-color: #ffd84d !important;
+  color: $text-dark !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  text-decoration: none !important;
+  border: 1px solid $white !important;
+  border-radius: 5px !important;
+  padding: .2em 1em !important;
+}
+
+.sponsored-banner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin: 0 0 1.5rem;
+  padding: 0.85rem 1rem;
+  background-color: #fff8e1;
+  border: 1px solid #e0b43c;
+  border-left-width: 4px;
+  border-radius: 6px;
+  color: $text-dark;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}

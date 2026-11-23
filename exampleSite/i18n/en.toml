@@ -197,7 +197,13 @@ other = "404 Page not found!"
 other = "Go back"
 
 [sponsored_label]
-other = "Sponsored"
+other = "Advertising"
+
+[sponsored_banner]
+other = "This article is advertising content: it was created in collaboration with a company and may contain affiliate links, for which we earn a commission at no extra cost to you."
+
+[sponsored_banner_brand]
+other = "This article is advertising content created in collaboration with {{ .Brand }}. It contains affiliate links: if you buy through them we earn a commission, at no extra cost to you."
 
 [reading_time_minutes]
 one = "{{.Count}} minute"

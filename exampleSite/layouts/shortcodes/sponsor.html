@@ -3,7 +3,38 @@
 {{ $description := .Get "description" }}
 {{ $type := .Get "type" }}
 {{ $disclaimer := .Get "disclaimer" | default "true" }}
+{{ $logo := .Get "logo" }}
+{{/* logobg: colore di sfondo dietro al logo (es. "#FFF500"). Se omesso viene ricavato in automatico
+     dal logo: primo fill per gli SVG, colore dominante per PNG/JPG. "none" = sfondo bianco con padding. */}}
+{{ $logobg := .Get "logobg" }}
+{{/* logo può essere un URL (https://...) oppure un file in assets/ (es. "images/sponsor/logo.svg") */}}
+{{ $res := false }}
+{{ if $logo }}
+  {{ if hasPrefix $logo "http" }}
+    {{ with try (resources.GetRemote $logo) }}
+      {{ with .Value }}{{ $res = . }}{{ end }}
+    {{ end }}
+  {{ else }}
+    {{ with resources.Get $logo }}
+      {{ $res = . }}
+      {{ $logo = .RelPermalink }}
+    {{ else }}
+      {{ errorf "sponsor: logo %q non trovato in assets/ (%s)" $logo $.Position }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if and $res (not $logobg) }}
+  {{ if eq $res.MediaType.SubType "svg" }}
+    {{ with findRESubmatch `fill="(#[0-9A-Fa-f]{3,8})"` $res.Content 1 }}
+      {{ $logobg = index (index . 0) 1 }}
+    {{ end }}
+  {{ else if eq $res.ResourceType "image" }}
+    {{ with $res.Colors }}{{ $logobg = (index . 0).ColorHex }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ if eq $logobg "none" }}{{ $logobg = "" }}{{ end }}
 
+{{/* Se c'è un logo lo usiamo direttamente; altrimenti screenshot via microlink (lento) */}}
 {{ $screenshotUrl := printf "https://api.microlink.io/?url=%s&screenshot=true&meta=false&embed=screenshot.url" $url }}
 
 {{ $disclaimerText := "" }}
@@ -22,7 +53,11 @@
         <span class="leggi-anche-description">{{ $description }}</span>
       {{ end }}
     </div>
-    <img  class="poligon" src="{{ $screenshotUrl }}" alt="{{ $title }}" loading="lazy" onerror="this.src='/images/sponsor-fallback.jpg'">
+    {{ if $logo }}
+    <img class="poligon sponsor-logo" src="{{ $logo }}" alt="{{ $title }}" loading="lazy"{{ with $logobg }} style="background-color: {{ . | safeCSS }}; padding: 0;"{{ end }}>
+    {{ else }}
+    <img class="poligon" src="{{ $screenshotUrl }}" alt="{{ $title }}" loading="lazy" onerror="this.src='/images/sponsor-fallback.jpg'">
+    {{ end }}
   </a>
 </div>
 

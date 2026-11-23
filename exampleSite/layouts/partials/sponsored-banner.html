@@ -1,0 +1,10 @@
+{{/* Avviso di contenuto pubblicitario in testa all'articolo, prima del testo.
+     Facoltativo nel frontmatter: sponsor_brand: "Nome brand" */}}
+{{ if .Params.sponsored }}
+<aside class="sponsored-banner" role="note" aria-label="{{ i18n "sponsored_label" }}">
+  <span class="badge badge-sponsored">{{ i18n "sponsored_label" }}</span>
+  <p class="mb-0">
+    {{ with .Params.sponsor_brand }}{{ i18n "sponsored_banner_brand" (dict "Brand" .) }}{{ else }}{{ i18n "sponsored_banner" }}{{ end }}
+  </p>
+</aside>
+{{ end }}

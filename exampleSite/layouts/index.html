@@ -95,11 +95,7 @@
                         <i class="fas fa-calendar me-2"></i>
                         <span>{{ time.Format ":date_long" .PublishDate }}</span>
                       </li>
-                      {{ if .Params.sponsored}}
-                      <li class="list-inline-item d-flex align-items-center">
-                        <i>{{ i18n "sponsored_label" }}</i>
-                      </li>
-                      {{end}}
+                      {{ partial "sponsored-badge.html" . }}
                     </ul>
                   </div>
                 </div>
@@ -173,11 +169,7 @@
                     <i class="fas fa-calendar me-2"></i>
                     <span>{{ time.Format ":date_long" .PublishDate }}</span>
                   </li>
-                  {{ if .Params.sponsored}}
-                  <li class="list-inline-item d-flex align-items-center">
-                    <i>{{ i18n "sponsored_label" }}</i>
-                  </li>
-                  {{end}}
+                  {{ partial "sponsored-badge.html" . }}
                 </ul>
               </div>
             </div>

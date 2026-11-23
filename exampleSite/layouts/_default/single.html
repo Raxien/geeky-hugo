@@ -110,11 +110,7 @@
             <span class="d-none d-md-inline-block">{{ i18n "reading_time_minutes" (int $minutes) }} {{ i18n "reading_time_and" }}
                   {{ i18n "reading_time_seconds" (int $seconds) }}</span>
           </li>
-          {{ if .Params.sponsored}}
-          <li class="list-inline-item d-flex align-items-center">
-            <i>{{ i18n "sponsored_label" }}</i>
-          </li>
-          {{end}}
+          {{ partial "sponsored-badge.html" . }}
         </ul>
         
         <!-- Placeholder per il riassunto AI - previene CLS -->
@@ -139,6 +135,8 @@
         </div>
         {{ end }}
         
+        {{ partial "sponsored-banner.html" . }}
+
         <div class="content drop-cap">
           {{ $content := .Content | safeHTML }}
           {{ $paragraphs := split $content "<p>" }}

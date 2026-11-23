@@ -93,11 +93,7 @@
         <span class="d-inline-block d-md-none">{{ time.Format ":date_medium" .PublishDate }}</span>
         <span class="d-none d-md-inline-block">{{ time.Format ":date_long" .PublishDate }}</span>
       </li>
-      {{ if .Params.sponsored}}
-      <li class="list-inline-item d-flex align-items-center">
-        <i>{{ i18n "sponsored_label" }}</i>
-      </li>
-      {{end}}
+      {{ partial "sponsored-badge.html" . }}
       {{ if and (eq .Section "post") (not .IsHome) }}
       <li class="list-inline-item d-flex align-items-center">
         <i class="fas fa-glasses me-2"></i>

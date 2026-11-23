@@ -424,7 +424,9 @@ select {
     border-radius: 12px;
   }
 
-  p {
+  p,
+  > ul > li,
+  > ol > li {
     color: $black;
     font-weight: 300;
     font-size: 1.15rem;

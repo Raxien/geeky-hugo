@@ -1,0 +1,7 @@
+{{/* Badge "Pubblicità" per i contenuti con `sponsored: true` nel frontmatter.
+     Deve essere ben visibile (AGCM / Digital Chart IAP): niente corsivo grigio nascosto tra i metadati. */}}
+{{ if .Params.sponsored }}
+<li class="list-inline-item d-flex align-items-center">
+  <span class="badge badge-sponsored">{{ i18n "sponsored_label" }}</span>
+</li>
+{{ end }}

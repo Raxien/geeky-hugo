@@ -197,7 +197,13 @@ other = "404 Pagina non trovata!"
 other = "Torna indietro"
 
 [sponsored_label]
-other = "Sponsorizzato"
+other = "Pubblicità"
+
+[sponsored_banner]
+other = "Questo articolo è un contenuto pubblicitario: è stato realizzato in collaborazione con un'azienda e può contenere link affiliati, per i quali riceviamo una commissione senza costi aggiuntivi per te."
+
+[sponsored_banner_brand]
+other = "Questo articolo è un contenuto pubblicitario realizzato in collaborazione con {{ .Brand }}. Contiene link affiliati: se acquistate tramite questi link riceviamo una commissione, senza costi aggiuntivi per te."
 
 [reading_time_minutes]
 one = "{{.Count}} minuto"
